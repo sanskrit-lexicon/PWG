@@ -1,0 +1,67 @@
+test
+python26 transcode.py 1 test_orig_utf8.txt test_orig_utf8_slp1.txt
+python26 transcode.py 2 test_orig_utf8_slp1.txt test_orig_utf8_hk.txt
+diff test_orig_utf8.txt test_orig_utf8_hk.txt > temp
+
+Nov 4, 2014.
+
+Work on converting pwg_orig_utf8 to slp1.
+Based on code in missing/
+
+Nov 5:  In addition to changing from hk to slp1,  also 
+  (a) Change ellipsis to space in {}
+  (b) Change M+accent to accent+M
+
+python26 transcode.py 1 ../../orig/pwg_orig_utf8.txt pwg_orig_utf8_slp1.txt
+Do the inverse conversion, back to hk:
+python26 transcode.py 2 pwg_orig_utf8_slp1.txt pwg_orig_utf8_hk.txt
+check the difference:
+diff ../../orig/pwg_orig_utf8.txt pwg_orig_utf8_hk.txt > difforig
+
+There are 668 differences - all these are explainable.
+Except for 8, they are due to
+ (a) Non-standard Presence of spaces in {} in pwg_orig_utf8.txt
+ (b) Correct placement of accents relative to H,M  (whereas most are incorrect)
+
+The other 8 differences are due to HK spelling errors, and are corrected 
+later, in manualByLine01 or manualByLine05.
+
+There are 8 differences, all due to errors corrected later:
+ 4 are corrected in manualByLine05
+ 1 is corrected in manualByLine01
+
+Further try to get rid of the ellipsis symbol in {}.
+[ Save above version of transcode as orig_transcode.py, in case we need it]
+[ Change transcode.py by to also do the ellipsis conversion]
+
+python26 transcode.py 1 pwg_orig_utf8.txt pwg_orig_utf8_slp1.txt
+Do the inverse conversion, back to hk:
+python26 transcode.py 2 pwg_orig_utf8_slp1.txt pwg_orig_utf8_hk.txt
+check the difference:
+diff pwg_orig_utf8.txt pwg_orig_utf8_hk.txt > temp
+
+It is expected that there are a few more differences, due to random spaces
+in {} in pwg_orig_utf8.txt.
+
+However, there are 588 differences!
+
+However, these differences do not seem material, but rather seem due to
+non-meaningful use of spaces instead of ellipsis in pwg_orig_utf8.
+
+ Nov 5 - realized that the first transcode version had , for hk->slp1,
+ put all '|' within {##} as #}|#{.
+ Removed this.
+ Now, there are a larger number of differences (6688 lines out of 264822).
+ The extra cases are where an English 'period' occurs in Sanskrit.  This
+ is due to two possible causes.  
+ (a) The period is used as a 'nukta'.
+ (b) The period is used 'erroneously' as
+* Convert the old manualByLine files to slp1 form.
+python26 transcode1.py 1 oldhk/manualByLine01.txt ../manualByLine01_slp1.txt
+python26 transcode1.py 1 oldhk/manualByLine02.txt ../manualByLine02_slp1.txt
+python26 transcode1.py 1 oldhk/manualByLine03.txt ../manualByLine03_slp1.txt
+# manualByLine04 unneeded, since the slp1 file has accents corrected
+#python26 transcode1.py 1 oldhk/manualByLine04.txt ../manualByLine04_slp1.txt
+python26 transcode1.py 1 oldhk/manualByLine05.txt ../manualByLine05_slp1.txt
+
+python26 transcode1.py 1 oldhk/missingByLine.txt ../missingByLine_slp1.txt
