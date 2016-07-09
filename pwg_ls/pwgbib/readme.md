@@ -5,13 +5,13 @@ NOTE: This is under construction.  It currently contains mostly a copy of
 the analogous PWK/pw_ls/pwbib/readme.md file.
 
 ## digitization directory
-  This contains the original digitization, pwgbib_orig.txt, coded in the
+  This contains the original digitization, pwgbib1_orig.txt, coded in the
   cp1252 encoding. 
   
   The program step:
 ```
 python 
- Note: sh redo.sh remakes everything.  It uses sortedcref.txt from pgw_dhaval
+ Note: sh redo.sh remakes everything.  It uses sortedcref.txt from pwg_dhaval
  directory. 
 
 **step0** pwbib_orig.txt was received from Thomas Malten Nov 16, 2015.  It comprises a

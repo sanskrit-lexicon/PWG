@@ -1,5 +1,5 @@
 
-*  pwgbib1.txt
+*  pwgbib1_orig.txt
 Received from T. Malten, July 2016
 cp1252  encoding (his usual encoding)
 This contains abbreviations from volume 1 only.
@@ -13,7 +13,7 @@ This contains abbreviations from volume 1 only.
 
 * pwgbib1_utf8.txt
 Make the original file utf8 encoding, which is easier to work with.
-python cp1252-to-utf8.py  pwgbib1.txt pwgbib1_utf8.txt
+python cp1252-to-utf8.py  pwgbib1_orig.txt pwgbib1_utf8.txt
 
 * Abbreviations from other volumes
 [vol 2.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg2-0000--05.png)
