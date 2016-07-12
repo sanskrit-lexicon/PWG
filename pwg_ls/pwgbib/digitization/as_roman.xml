@@ -1,0 +1,55 @@
+<fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<!-- Specialized table just for PWG.  July 12, 2016  -->
+<e> <s>INIT</s> <in>A10</in> <out>Ā</out> </e> <!-- macron -->
+<e> <s>INIT</s> <in>a10</in> <out>ā</out> </e> <!-- macron --> 
+<e> <s>INIT</s> <in>a11</in> <out>à</out> </e>
+<e> <s>INIT</s> <in>A4</in> <out>Á</out> </e>
+<e> <s>INIT</s> <in>a4</in> <out>á</out> </e>
+<e> <s>INIT</s> <in>A7</in> <out>Ä</out> </e> <!-- not used -->
+<e> <s>INIT</s> <in>a7</in> <out>ä</out> </e> 
+<e> <s>INIT</s> <in>D2</in> <out>Ḍ</out> </e>
+<e> <s>INIT</s> <in>d2</in> <out>ḍ</out> </e>
+<e> <s>INIT</s> <in>E11</in> <out>È</out> </e><!-- not used -->
+<e> <s>INIT</s> <in>e11</in> <out>è</out> </e>
+<e> <s>INIT</s> <in>E4</in> <out>É</out> </e>
+<e> <s>INIT</s> <in>e4</in> <out>é</out> </e>
+<e> <s>INIT</s> <in>e7</in> <out>ë</out> </e> <!-- not used -->
+<e> <s>INIT</s> <in>G4</in> <out>J</out> </e> <!-- odd -->
+<e> <s>INIT</s> <in>g4</in> <out>j</out> </e> <!-- unused -->
+<e> <s>INIT</s> <in>I10</in> <out>Ī</out> </e><!-- macron -->
+<e> <s>INIT</s> <in>i10</in> <out>ī</out> </e> <!-- macron, unused -->
+<e> <s>INIT</s> <in>I4</in> <out>Í</out> </e><!-- unused -->
+<e> <s>INIT</s> <in>i4</in> <out>í</out> </e>
+<e> <s>INIT</s> <in>i5</in> <out>ĩ</out> </e>
+<e> <s>INIT</s> <in>J</in> <out>Y</out> </e> <!-- not as,odd -->
+<e> <s>INIT</s> <in>j</in> <out>y</out> </e> <!-- not as,odd -->
+<e> <s>INIT</s> <in>K4</in> <out>C</out> </e>
+<e> <s>INIT</s> <in>k4</in> <out>c</out> </e>
+<e> <s>INIT</s> <in>M5</in> <out>M̃</out> </e>
+<e> <s>INIT</s> <in>m5</in> <out>m̃</out> </e>
+<e> <s>INIT</s> <in>M5</in> <out>Ṁ</out> </e><!-- M-tilde in text  -->
+<e> <s>INIT</s> <in>m5</in> <out>ṁ</out> </e><!--  ? -->
+<e> <s>INIT</s> <in>N2</in> <out>Ṇ</out> </e>
+<e> <s>INIT</s> <in>n2</in> <out>ṇ</out> </e>
+<e> <s>INIT</s> <in>N4</in> <out>Ñ</out> </e> <!-- N-acute in text -->
+<e> <s>INIT</s> <in>n4</in> <out>ñ</out> </e>
+<e> <s>INIT</s> <in>N5</in> <out>Ń</out> </e> <!-- N-tilde in text -->
+<e> <s>INIT</s> <in>n5</in> <out>ń</out> </e>
+<e> <s>INIT</s> <in>O7</in> <out>Ö</out> </e>
+<e> <s>INIT</s> <in>o7</in> <out>ö</out> </e>
+<e> <s>INIT</s> <in>R2</in> <out>Ṛ</out> </e>
+<e> <s>INIT</s> <in>r2</in> <out>ṛ</out> </e> <!-- unused -->
+<e> <s>INIT</s> <in>SH</in> <out>Ṣ</out> </e> <!-- not as -->
+<e> <s>INIT</s> <in>sh</in> <out>ṣ</out> </e> <!-- not as -->
+<e> <s>INIT</s> <in>T2</in> <out>Ṭ</out> </e>
+<e> <s>INIT</s> <in>t2</in> <out>ṭ</out> </e>
+<e> <s>INIT</s> <in>U10</in> <out>Ū</out> </e><!-- macron -->
+<e> <s>INIT</s> <in>u10</in> <out>ū</out> </e><!-- macron -->
+<e> <s>INIT</s> <in>U4</in> <out>Ú</out> </e>
+<e> <s>INIT</s> <in>u4</in> <out>ú</out> </e> <!-- unused -->
+<e> <s>INIT</s> <in>U7</in> <out>Ü</out> </e>
+<e> <s>INIT</s> <in>u7</in> <out>ü</out> </e>
+<e> <s>INIT</s> <in>ç</in> <out>ś</out> </e> <!-- not as -->
+<e> <s>INIT</s> <in>Ç</in> <out>Ś</out> </e> <!-- not as -->
+
+</fsm>
