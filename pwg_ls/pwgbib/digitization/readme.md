@@ -1,28 +1,25 @@
-
-*  pwgbib1_orig.txt
+## pwgbib1_orig.txt
 Received from T. Malten, July 2016
 cp1252  encoding (his usual encoding)
 This contains abbreviations from volume 1 only.
 
-* corresponding images:
-[vol 1.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--06.png)
-[vol 1.2](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--08.png)
-[vol 1.3](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--09.png)
-[vol 1.4](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--10.png)
-[vol 1.5](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--11.png)
+corresponding images:
+* [vol 1.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--06.png)
+* [vol 1.2](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--08.png)
+* [vol 1.3](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--09.png)
+* [vol 1.4](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--10.png)
+* [vol 1.5](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--11.png)
 
-* pwgbib1_utf8.txt
+## pwgbib1_utf8.txt
+
 Make the original file utf8 encoding, which is easier to work with.
+```
 python cp1252-to-utf8.py  pwgbib1_orig.txt pwgbib1_utf8.txt
-
-* Abbreviations from other volumes
-[vol 2.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg2-0000--05.png)
-[vol 3.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg3-0000--03.png)
-These have not been digitized yet (as of Jul 9, 2016), but are expected to be
-available soon.
+```
 
 
-* Conversion to Roman
+## Conversion to Roman
+```
 step 1.  check what AS (number-letter) codings and EA (Extended ascii codings)
 are present.
 python check_as_ea.py pwgbib1_utf8.txt pwgbib1_check_as_ea.txt
@@ -50,3 +47,20 @@ diff -w pwgbib1_utf8.txt pwgbib1_as.txt
   'Gedruk4kte'.  
  NOTE2: At the moment, it does not seem required to worry about this
     lack of invertibility of the transcoding from AS to roman.
+```
+
+# pwgbib23_orig.txt
+Received July 13, 2016
+
+Images:
+* [vol 2.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg2-0000--05.png)
+* [vol 3.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg3-0000--03.png)
+
+Make utf8 version:
+```
+python cp1252-to-utf8.py  pwgbib23_orig.txt pwgbib23_utf8.txt
+```
+Make roman version
+```
+python as_roman.py pwgbib23_utf8.txt pwgbib23_roman.txt
+```
