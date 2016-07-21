@@ -64,3 +64,23 @@ Make roman version
 ```
 python as_roman.py pwgbib23_utf8.txt pwgbib23_roman.txt
 ```
+
+Thomas found some in volume 4.
+
+pwgbib4_orig.txt is the original.
+
+Currently, we have no scanned image.
+
+pwgbib4_utf8.txt is the utf8 version.
+```
+python cp1252-to-utf8.py  pwgbib4_orig.txt pwgbib4_utf8.txt
+```
+Technical note:  The pwgbib4_orig file was actually transmitted to me from
+Thomas within the body of an email; by contrast, the other two were transmitted
+as email attachments.   Thus, the nature of the encoding of pwgbib4_orig.txt
+MAY already be UTF8; I'm not sure.  Hopefully, this will cause no issues.
+
+pwgbib4_roman.txt:
+```
+python as_roman.py pwgbib4_utf8.txt pwgbib4_roman.txt
+```
