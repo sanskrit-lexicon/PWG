@@ -69,7 +69,7 @@ Thomas found some in volume 4.
 
 pwgbib4_orig.txt is the original.
 
-Currently, we have no scanned image.
+[vol4.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg4-1219--korabk.png) at page 1219 of volume 4.
 
 pwgbib4_utf8.txt is the utf8 version.
 ```
