@@ -84,3 +84,10 @@ pwgbib4_roman.txt:
 ```
 python as_roman.py pwgbib4_utf8.txt pwgbib4_roman.txt
 ```
+
+### pwgbib14_roman.txt
+(03-01-2017)
+This is a concatenation of pwgbib1_roman.txt, pwgbib23_roman.txt, and
+ pwgbib4_roman.txt.
+
+cat pwgbib1_roman.txt  pwgbib23_roman.txt pwgbib4_roman.txt > pwgbib14_roman.txt
