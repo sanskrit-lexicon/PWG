@@ -88,6 +88,32 @@ python as_roman.py pwgbib4_utf8.txt pwgbib4_roman.txt
 ### pwgbib14_roman.txt
 (03-01-2017)
 This is a concatenation of pwgbib1_roman.txt, pwgbib23_roman.txt, and
- pwgbib4_roman.txt.
+ pwgbib4_roman.txt.  However, some changes are made to promote uniformity.
 
-cat pwgbib1_roman.txt  pwgbib23_roman.txt pwgbib4_roman.txt > pwgbib14_roman.txt
+python concat_roman.py pwgbib14_roman.txt
+
+Format:
+Each line has two parts:
+v.nnn data
+  where v is the volume number (1-4)
+  nnn is 000 for 'meta' lines 
+         sequence number within volume for non-meta lines
+The 'data' has one of these forms:
+ - [Page ...]   which indicates a page or page-column break 
+ - [Volume v ...]  A Beginning of volume 
+ - <H>...    a 'Header' line
+Any of these forms are 'meta' lines.
+ - <HI code="xxx">entry-data
+   These lines are 'non-meta' lines.  In the digitization of the printed text,
+   these are the actual literature reference lines.  They almost always
+   (except for two cases) have the form X = Y.  We have duplicated the X part
+   as 'xxx', with an aim to make it easier to identify the abbreviated
+   literary source forms.
+   Two other aspects of these non-meta (or entry) lines are:
+    <lb> (line-break indicator).  In the text, some entries have descriptions
+         that span multiple lines.  We gather all these together as part of
+         one text line, but indicate the line-separation points by <lb>.
+    [Page...]  In a few cases, a page-column break in the text occurs in the
+         middle of a multiple-line entry.  In these cases, we have chosen
+         to embed the [Page...] break within the extended <HI> line.
+

@@ -3,7 +3,7 @@
 """
 import codecs,sys,re
 import transcoder
-transcoder.transcoder_set_dir('.');
+transcoder.transcoder_set_dir('.')
 
 def unused_convertrecs(recs,tranin,tranout):
  "Modifies recs"
