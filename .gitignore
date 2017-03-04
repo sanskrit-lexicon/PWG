@@ -4,3 +4,5 @@
 *.pyc
 # temp files
 temp*
+abbrvoutput*
+old*
