@@ -1,0 +1,61 @@
+
+Jim@JIM-DELL ~/Documents/GitHub/pwg/pwg_ls/pwg_dhaval/abbrvwork (master)
+$ python abbrv.py ../../../../pwgxml/pwg.xml
+Using xmlfile ../../../../pwgxml/pwg.xml
+Parsing started at 2017-02-27 21:53:10.417000
+
+Parsing ended at 2017-02-27 21:53:11.887000
+
+Started scraping the abbreviations from pw.xml at  2017-02-27 21:53:11.891000
+
+Stored abbreviations in abbrvoutput/abbrvilst.txt at  2017-02-27 21:53:12.025000
+
+Segretating references with only numbers to abbrvoutput/purenumberabbrvlist.txt and
+proper references to abbrvoutput/properrefs.txt at 2017-02-27 21:53:12.028000
+
+Completed segretating references at  2017-02-27 21:53:12.030000
+
+Removing numbers from properrefs and storing only names of works to abbrvoutput/cleanrefs.txt at  2017-02-27 21:53:12.031000
+
+Completed storing clean references at  2017-02-27 21:53:12.033000
+
+Sorting the cleanrefs based on occurrences in pw.xml, and storing in sortedcrefs.txt
+
+This may take around 1 minute. Please be patient.
+
+Execution ended at 2017-02-27 21:53:12.037000
+
+Total  0 unique references
+
+
+Jim@JIM-DELL ~/Documents/GitHub/pwg/pwg_ls/pwg_dhaval/abbrvwork (master)
+$ python abbrv.py ../../../../pwgxml/pwg.xml
+Using xmlfile ../../../../pwgxml/pwg.xml
+Parsing started at 2017-02-27 21:54:52.039000
+
+Parsing ended at 2017-02-27 21:54:53.399000
+
+Started scraping the abbreviations from pwg.xml at  2017-02-27 21:54:53.399000
+
+Stored abbreviations in abbrvoutput/abbrvilst.txt at  2017-02-27 21:55:05.714000
+
+Segretating references with only numbers to abbrvoutput/purenumberabbrvlist.txt and
+proper references to abbrvoutput/properrefs.txt at 2017-02-27 21:55:05.714000
+
+Completed segretating references at  2017-02-27 21:55:09.514000
+
+Removing numbers from properrefs and storing only names of works to abbrvoutput/cleanrefs.txt at  2017-02-27 21:55:09.516000
+
+Completed storing clean references at  2017-02-27 22:11:36.881000
+
+Sorting the cleanrefs based on occurrences in pwg.xml, and storing in sortedcrefs.txt
+
+This may take around 1 minute. Please be patient.
+
+Execution ended at 2017-02-27 23:22:10.394000
+
+Total  234362 unique references
+
+
+Jim@JIM-DELL ~/Documents/GitHub/pwg/pwg_ls/pwg_dhaval/abbrvwork (master)
+$
