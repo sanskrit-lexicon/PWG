@@ -2,14 +2,14 @@
 1.000 [Volume 1: Abbreviations from Sanskrit Literature]
 1.000 <H>{@Erklärung der Abkürzungen.@}
 1.000 <H>(Gedruckte Werke aus der Sanskrit-Literatur, die nur ganz gelegentlich citirt werden, sind mit einem Sternchen bezeichnet.)
-1.001 <HI code="ĀŚV. ŚR.">ĀŚV. ŚR. = ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 {Adhyāya.} Handschrift.
-1.002 <HI code="ĀŚV. GṚHY.">ĀŚV. GṚHY. = ĀŚVALĀYANA'S GṚHYASŪTRĀṆI in 4 {Adhyāya.} Hdschr.
+1.001 <HI code="ĀŚV. ŚR.">ĀŚV. ŚR. = ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya. Handschrift.
+1.002 <HI code="ĀŚV. GṚHY.">ĀŚV. GṚHY. = ĀŚVALĀYANA'S GṚHYASŪTRĀṆI in 4 Adhyāya. Hdschr.
 1.003 <HI code="ADBH. BR.">ADBH. BR. = ADBHUTABRĀHMAṆA.
 1.004 <HI code="ADBHUTAS.">ADBHUTAS. = ADBHUTASĀRA.
-1.005 <HI code="A Dict. Beng. and S. (HAUGHTON,)">A Dict. Beng. and S. (HAUGHTON,) = A Dictionary Bengali and Sanskrit,<lb>explained in English.
+1.005 <HI code="HAUGHTON">A Dict. Beng. and S. (HAUGHTON,) = A Dictionary Bengali and Sanskrit,<lb>explained in English.
 1.006 <HI code="AGNISV.">AGNISV. = AGNISVĀMIN, ein Scholiast des LĀṬYĀYANA.
 1.007 <HI code="ĀHNIKAT.">ĀHNIKAT. = ĀHNIKATATTVA.
-1.008 <HI code="AIT. BR.">AIT. BR. = AITAREYABRĀHMAṆA. Citirt nach den 8 {Pañcikā} (einer<lb>äusseren Abtheilung, in welche die 40 nach sachlichen Rücksichten<lb>gebildeten {Adhyāya} zerlegt sind) und den innerhalb der {Pañcikā}<lb>durchlaufenden Kapitelzahlen. Hdschr. SĀYAṆA'S Commentar dazu.<lb>Hdschr.
+1.008 <HI code="AIT. BR.">AIT. BR. = AITAREYABRĀHMAṆA. Citirt nach den 8 Pañcikā (einer<lb>äusseren Abtheilung, in welche die 40 nach sachlichen Rücksichten<lb>gebildeten Adhyāya zerlegt sind) und den innerhalb der Pañcikā<lb>durchlaufenden Kapitelzahlen. Hdschr. SĀYAṆA'S Commentar dazu.<lb>Hdschr.
 1.009 <HI code="AIT. UP.">AIT. UP. = AITAREYOPANIṢAD, nach der Ausgabe von RÖER in der Bi-<lb>bliotheca indica.
 1.010 <HI code="AK.">AK. = AMARAKOṢA nach der Ausgabe von COLEBROOKE und LOISELEUR<lb>DESLONGCHAMPS (GILD. Bibl. 251. 253).
 1.011 <HI code="AMAR.">AMAR. = AMARUŚATAKA nach der Calc. Ausg. (GILD. Bibl. 162).
@@ -27,18 +27,18 @@
 1.023 <HI code="ARJ.">ARJ. = ARJUNASAMĀGAMA, ed. BOPP (GILD. Bibl. 106).
 1.024 <HI code="ĀRUṆ. UP.">ĀRUṆ. UP. = ĀRUṆIKOPANIṢAD.
 1.025 <HI code="As. Res.">As. Res. = Asiatick Researches; or, transactions of the Society insti-<lb>tuted in Bengal, for inquiring into the History and Antiquities, the<lb>Arts, Sciences, and Literature, of Asia. London.
-1.026 <HI code="{AV.}">{AV.} = ATHARVAVEDASAM̃HITĀ, herausg. von R. ROTH und W. D. WHITNEY.<lb>Berlin bei F. DÜMMLER. 1855. 8º. In den ersten Bogen des Wörter-<lb>buchs finden sich mehrere Citate, deren Zahlen mit der in der Aus-<lb>gabe angenommenen Zählung nicht ganz zusammentreffen. Man kann<lb>den Unterschied dadurch ausgleichen, dass man in den zusammen-<lb>gesetzten Liedern ({Paryāyasūkta}), welche in der Ausgabe als Ein-<lb>heiten gezählt sind, die Unterabtheilungen (Strophen) als besondere<lb>Lieder zählt.
+1.026 <HI code="AV.">AV. = ATHARVAVEDASAM̃HITĀ, herausg. von R. ROTH und W. D. WHITNEY.<lb>Berlin bei F. DÜMMLER. 1855. 8º. In den ersten Bogen des Wörter-<lb>buchs finden sich mehrere Citate, deren Zahlen mit der in der Aus-<lb>gabe angenommenen Zählung nicht ganz zusammentreffen. Man kann<lb>den Unterschied dadurch ausgleichen, dass man in den zusammen-<lb>gesetzten Liedern (Paryāyasūkta), welche in der Ausgabe als Ein-<lb>heiten gezählt sind, die Unterabtheilungen (Strophen) als besondere<lb>Lieder zählt.
 1.027 <HI code="AVAD. ŚAT.">AVAD. ŚAT. = AVADĀNAŚATAKA, eine buddhistische Legendensammlung.
-1.028 <HI code="{AV.} ANUKR.">{AV.} ANUKR. = ANUKRAMAṆIKĀ des ATHARVAVEDA, 10 {Paṭala.} Hdschr.
-1.029 <HI code="{avy.">{avy. = avyaya} (s. MED.).
+1.028 <HI code="AV. ANUKR.">AV. ANUKR. = ANUKRAMAṆIKĀ des ATHARVAVEDA, 10 Paṭala. Hdschr.
+1.029 <HI code="avy.">avy. = avyaya (s. MED.).
 1.000 [Page06-b+ 46]
-1.030 <HI code="{AV.} PARIŚ.">{AV.} PARIŚ. = PARIŚIṢṬA des ATHARVAVEDA.
-1.031 <HI code="{AV.} PRĀT.">{AV.} PRĀT. = PRĀTIŚĀKHYA zum ATHARVAVEDA. Citirt nach {Adhyāya}<lb>und {Sūtra.} Hdschr. Siehe ROTH'S Einl. z. NIRUKTA, S. XLVII.
+1.030 <HI code="AV. PARIŚ.">AV. PARIŚ. = PARIŚIṢṬA des ATHARVAVEDA.
+1.031 <HI code="AV. PRĀT.">AV. PRĀT. = PRĀTIŚĀKHYA zum ATHARVAVEDA. Citirt nach Adhyāya<lb>und Sūtra. Hdschr. Siehe ROTH'S Einl. z. NIRUKTA, S. XLVII.
 1.032 <HI code="BĀLAB.">BĀLAB. = BĀLABODHANĪ in WINDISCHMANN'S Sancara (GILD. Bibl. 275).
 1.033 <HI code="BENF. Chr.">BENF. Chr. = BENFEY' Chrestomathie aus Sanskritwerken. Leipzig. 1853.
 1.034 <HI code="BENF. Gr.">BENF. Gr. = BENFEY, Vollständige Grammatik der Sanskritsprache. Leip-<lb>zig 1852.
 1.035 <HI code="BHAG.">BHAG. = BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. Bibl. 116).
-1.036 <HI code="BHĀG. P.">BHĀG. P. = BHĀGAVATAPURĀṆA, nach Anführungen im VP. und ŚKDR.<lb>Von {#U#} an sind die 9 von BURNOUF edirten {Skandha} (Gild. Bibl. 125)<lb>ausgebeutet worden.
+1.036 <HI code="BHĀG. P.">BHĀG. P. = BHĀGAVATAPURĀṆA, nach Anführungen im VP. und ŚKDR.<lb>Von {#U#} an sind die 9 von BURNOUF edirten Skandha (Gild. Bibl. 125)<lb>ausgebeutet worden.
 1.037 <HI code="BHĀNUD.">BHĀNUD. = BHĀNUDĪKṢITA, ein Commentator des AMARAKOṢA; nach<lb>Anführungen im ŚKDR.
 1.038 <HI code="BHAR.">BHAR. = BHARATA, ein Autor über Schauspielkunst, verschieden vom<lb>Scholiasten zum AK. (dieser nach Anführungen im ŚKDR.).
 1.039 <HI code="BHARTṚ.">BHARTṚ. = BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl. 156), mit Berück-<lb>sichtigung des Werkchens; Variae lectiones ad Bohlenii editionem<lb>Bhartriharis sententiarum pertinentes, e codicibus extractae per<lb>A. SCHIEFNER et A. WEBER. Berolini 1850.
@@ -54,19 +54,19 @@
 1.049 <HI code="*BRAHMA-S.">*BRAHMA-S. = BRAHMASŪTRA, nach Anführungen in WIND. Sancara.
 1.050 <HI code="BRAHMOP.">BRAHMOP. = BRAHMOPANIṢAD.
 1.051 <HI code="BṚH. ĀR. UP.">BṚH. ĀR. UP. = BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe von RÖER<lb>in der Bibliotheca indica.
-1.052 <HI code="BṚH, ĀR. UP. (POL.)">BṚH, ĀR. UP. (POL.) = id., in der Ausgabe von POLEY (GILD. Bibl. 78).
+1.052 <HI code="BṚH. ĀR. UP. (POL.)">BṚH, ĀR. UP. (POL.) = id., in der Ausgabe von POLEY (GILD. Bibl. 78).
 1.053 <HI code="BṚHASP.">BṚHASP. = BṚHASPATI, Verfasser eines Gesetzbuchs; nach Anführungen<lb>in MIT. und DĀY.
 1.054 <HI code="BṚH. DEV.">BṚH. DEV. = BṚHADDEVATĀ; S. R{%O%}TH, zur L. u. G. d. W. S. 49.
 1.055 <HI code="Bull. hist.-phil.">Bull. hist.-phil. = Bulletin historico-philologique de l'Académie Im-<lb>périale des sciences de St.-Pétersbourg.
 1.056 <HI code="BURN. Intr.">BURN. Intr. = BURNOUF, Introduction à l'histoire du Buddhisme indien.<lb>Tome premier. Paris 1844.
 1.057 <HI code="BURN. Lot. de la b. l.">BURN. Lot. de la b. l. = Le Lotus de la bonne loi, traduit du Sanscrit<lb>etc. par M. E. BURNOUF. Paris 1852.
 1.000 [Page08-a+ 65]
-1.058 <HI code="ś.">ś. = {śeṣa} (s. H.).
+1.058 <HI code="ś.">ś. = śeṣa (s. H.).
 1.059 <HI code="ŚABDAC.">ŚABDAC. = ŚABDACANDRIKĀ, ein Wörterbuch; nach Anführungen im<lb>ŚKDR.
 1.060 <HI code="ŚABDAM.">ŚABDAM. = ŚABDAMĀLĀ, ein Wörterbuch; nach Anführungen im ŚKDR.
 1.061 <HI code="ŚABDAR.">ŚABDAR. = ŚABDARATNĀVALĪ, ein Wörterbuch; nach Anführungen im<lb>ŚKDR.
 1.062 <HI code="ŚABDĀRṆ.">ŚABDĀRṆ. = ŚABDĀRṆAVA, ein Wörterbuch; nach Anführungen im ŚKDR.
-1.063 <HI code="ŚĀK.">ŚĀK. = ŚĀKUNTALA, das Drama in der Ausgabe von BÖHTLINGK (GILD.<lb>Bibl. 191). Eine einfache Zahl bezeichnet den {Śloka,} eine doppelte<lb>-- {Seite} und {Zeile.}
+1.063 <HI code="ŚĀK.">ŚĀK. = ŚĀKUNTALA, das Drama in der Ausgabe von BÖHTLINGK (GILD.<lb>Bibl. 191). Eine einfache Zahl bezeichnet den Śloka, eine doppelte<lb>-- Seite und Zeile.
 1.064 <HI code="ŚĀK. CH.">ŚĀK. CH. = CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bibl. 187).
 1.065 <HI code="ŚAM̃K. oder ŚAM̃KAR.">ŚAM̃K. oder ŚAM̃KAR. = ŚAM̃KARA (ein Scholiast des ŚĀKUNTALA) und ŚAM̃-<lb>KARĀCĀRYA.
 1.066 <HI code="ŚĀŃKH. BR.">ŚĀŃKH. BR. = ŚĀŃKHĀYANA'S BRĀHMAṆA.
@@ -77,12 +77,12 @@
 1.071 <HI code="ŚĀRŃG.">ŚĀRŃG. = ŚĀRŃGADHARA.
 1.072 <HI code="ŚĀRŃG. PADDH.">ŚĀRŃG. PADDH. = ŚĀRŃGADHARA'S PADDHATI; vgl. Bulletin historico-philo-<lb>logique de l'Académie Impériale des sciences de St.-Pétersbourg.<lb>T. VIII, S. 113. fgg. oder Mélanges asiatiques, T. I, S. 279. fgg.
 1.073 <HI code="ŚATAR. UP.">ŚATAR. UP. = ŚATARUDRIYOPANIṢAD.
-1.074 <HI code="ŚAT. BR.">ŚAT. BR. = The ŚATAPATHABRĀHMAṆA in the {Mādhyandina-Śākhā,}<lb>with extracts made from the commentaries of SĀYAṆA, HARISVĀMIN<lb>and DVIVEDAGANGA, edited by Dr. ALBRECHT WEBER. Berlin FERD. DÜMM-<lb>LER'S Buchhandlung. London WILLIAMS and NORGATE. 1849.
-1.075 <HI code="ŚAUN. CAT.">ŚAUN. CAT. = ŚAUNAKA'S CATURĀDHYĀYIKĀ, citirt nach {Adhyāya} und<lb>{Sūtra. = Av. Prāt.}
+1.074 <HI code="ŚAT. BR.">ŚAT. BR. = The ŚATAPATHABRĀHMAṆA in the Mādhyandina-Śākhā,<lb>with extracts made from the commentaries of SĀYAṆA, HARISVĀMIN<lb>and DVIVEDAGANGA, edited by Dr. ALBRECHT WEBER. Berlin FERD. DÜMM-<lb>LER'S Buchhandlung. London WILLIAMS and NORGATE. 1849.
+1.075 <HI code="ŚAUN. CAT.">ŚAUN. CAT. = ŚAUNAKA'S CATURĀDHYĀYIKĀ, citirt nach Adhyāya und<lb>Sūtra. = Av. Prāt.
 1.076 <HI code="ŚIŚ.">ŚIŚ. = ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 141).
-1.077 <HI code="ŚIV.">ŚIV. = ŚIVANĀMASAHASRA, handschriftlich im Asiatischen Museum der<lb>{Kais.} Ak. der Wissenschaften.
+1.077 <HI code="ŚIV.">ŚIV. = ŚIVANĀMASAHASRA, handschriftlich im Asiatischen Museum der<lb>Kais. Ak. der Wissenschaften.
 1.078 <HI code="ŚKDR.">ŚKDR. = ŚABDAKALPADRUMA (GILD. Bibl. 371).
-1.079 <HI code="Śl.">Śl. = {Śloka.}
+1.079 <HI code="Śl.">Śl. = Śloka.
 1.080 <HI code="COLEBR. Alg.">COLEBR. Alg. = Algebra, with Arithmetic and Mensuration, from the<lb>Sanscrit of BRAHMEGUPTA and BHÁSCARA. Translated by H. TH. COLE-<lb>BROOKE. London 1817. Nach Anführungen in HAUGHTON, A Dict.<lb>Beng. and S.
 1.081 <HI code="COLEBR. Misc. Ess.">COLEBR. Misc. Ess. = COLEBROOKE'S Miscellaneous Essays. 2 Bände. Lon-<lb>don 1837.
 1.082 <HI code="ŚRĪDHAR.">ŚRĪDHAR. = ŚRĪDHARASVĀMIN, ein Scholiast der BHAG.
@@ -106,7 +106,7 @@
 1.099 <HI code="DVIRŪPAK.">DVIRŪPAK. = DVIRŪPAKOṢA, eine Sammlung von Wörtern, die in Bezug<lb>auf die Orthographie in doppelter Gestalt erscheinen; nach Anfüh-<lb>rungen im ŚKDR.
 1.100 <HI code="DVIVED.">DVIVED. = DVIVEDAGAŃGA, ein Scholiast des MĀDHYAM̃DINA-ĀRAṆYAKA u. s. w.
 1.101 <HI code="JĀB. UP.">JĀB. UP. = JĀBĀLOPANIṢAD.
-1.102 <HI code="None">{gaṇa.} S. den alphabetisch geordneten {gaṇapāṭha} in BÖHTLINGK'S Aus-<lb>gabe des PĀṆINI (GILD. Bibl. 244), S. LXXVII--CXXV.
+1.102 <HI code="None">gaṇa. S. den alphabetisch geordneten gaṇapāṭha in BÖHTLINGK'S Aus-<lb>gabe des PĀṆINI (GILD. Bibl. 244), S. LXXVII--CXXV.
 1.103 <HI code="GAṆAR.">GAṆAR. = GAṆARATNAMAHODADHI, s. BÖHTLINGK, Einleitung zum PĀṆINI<lb>(GILD. Bibl. 244), II, S. XXXIX.
 1.104 <HI code="GARBHOP.">GARBHOP. = GARBHOPANIṢAD.
 1.105 <HI code="JAṬĀDH.">JAṬĀDH. = JAṬĀDHARA, ein Lexicograph; nach Anführungen im CKDR.
@@ -119,7 +119,7 @@
 1.112 <HI code="GORR.">GORR. = GORRESIO.
 1.113 <HI code="GOT. S.">GOT. S. = GOTAMA'S SŪTRĀṆI, s. NYĀYA-S.
 1.114 <HI code="GOVINDABH.">GOVINDABH. = GOVINDABHAṬṬA.
-1.115 <HI code="GṚHYASAM̃GR.">GṚHYASAM̃GR. = GṚHYASAM̃GRAHAPARIŚIṢTA, 2 {Prapāṭhaka} von 106 und<lb>103 Versen; vgl. ROTH, Zur L. u. G. d. W. S. 120. Hdschr.
+1.115 <HI code="GṚHYASAM̃GR.">GṚHYASAM̃GR. = GṚHYASAM̃GRAHAPARIŚIṢTA, 2 Prapāṭhaka von 106 und<lb>103 Versen; vgl. ROTH, Zur L. u. G. d. W. S. 120. Hdschr.
 1.116 <HI code="H.">H. = HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein systematisch angeordnetes<lb>synonymisches Lexicon. Herausgegeben, übersetzt und mit Anmer-<lb>kungen begleitet von OTTO BÖHTLINGK und CHARLES RIEU. St. Peters-<lb>burg 1847.
 1.117 <HI code="*HAEB. Chrest.">*HAEB. Chrest. = KĀVYA-SANGRAHA. A Sanscrit Anthology, being A Col-<lb>lection of the best Smaller Poems in the Sanscrit language. By Dr.<lb>YOHN HAEBERLIN. Calcutta: W. THACKER and Co. 1847.
 1.118 <HI code="HALĀY.">HALĀY. = HALĀYUDHA, ein Lexicograph; nach Anführungen im ŚKDR.
@@ -127,11 +127,11 @@
 1.120 <HI code="HĀR.">HĀR. = HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
 1.121 <HI code="HARISV.">HARISV. = HARISVĀMIN, ein Scholiast des ŚAT. BR.
 1.122 <HI code="*HARIV.">*HARIV. = HARIVAM̃ŚA im 4ten Bande des MBH. Aus diesem Werke haben<lb>wir die Nomina propria mit Benutzung des Index in der LANGLOIS'-<lb>schen Uebersetzung (GILD. Bibl. 122) aufgenommen.
-1.123 <HI code="H. Ś.">H. Ś. = die {Śeṣa's} zu HEMACANDRA'S ABHIDHĀNACINTĀMAṆI (s. unter H.),<lb>S. 421--443.
+1.123 <HI code="H. Ś.">H. Ś. = die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINTĀMAṆI (s. unter H.),<lb>S. 421--443.
 1.124 <HI code="HIḌ.">HIḌ. = HIḌIMBAVADHA in BOPP'S Ardschuna's Reise zu Indra's Himmel,<lb>nebst anderen Episoden des Maha-Bharata. Berlin 1824.
-1.125 <HI code="Hindu Th. (WILSON,)">Hindu Th. (WILSON,) = Select specimens of the Theatre of the Hindus,<lb>translated from the original Sanscrit, by HORACE HAYMAN WILSON.<lb>Second edition. London 1835.
+1.125 <HI code="Hindu Th. (WILSON)">Hindu Th. (WILSON) = Select specimens of the Theatre of the Hindus,<lb>translated from the original Sanscrit, by HORACE HAYMAN WILSON.<lb>Second edition. London 1835.
 1.126 <HI code="HIOUEN-THSANG">HIOUEN-THSANG = Histoire de la vie de HIOUEN-THSANG et de ses voya-<lb>ges dans l'Inde, traduite du Chinois par STANISLAS YULIEN. Paris 1853.
-1.127 <HI code="HIT.">HIT. = HITOPADEŚA, ed. SCHLEGEL und LASSEN (GILD. Bibl. 225). Eine<lb>darauf folgende römische Zahl bezeichnet das {Buch,} eine arabische<lb>--die {Seite;} die zweite Zahl bezeichnet dort den {Śloka,} hier die<lb>{Zeile.}
+1.127 <HI code="HIT.">HIT. = HITOPADEŚA, ed. SCHLEGEL und LASSEN (GILD. Bibl. 225). Eine<lb>darauf folgende römische Zahl bezeichnet das Buch, eine arabische<lb>--die Seite; die zweite Zahl bezeichnet dort den Śloka, hier die<lb>Zeile.
 1.128 <HI code="HIT. Pr.">HIT. Pr. = Prooemium im HIT.
 1.129 <HI code="HORĀŚ.">HORĀŚ. = HORĀŚĀSTRA.
 1.130 <HI code="Hort. beng.">Hort. beng. = Hortus bengalensis. Serampore 1814. 8vo, citirt nach<lb>HAUGHTON'S Wörterbuch.
@@ -140,7 +140,7 @@
 1.133 <HI code="*Ind. des KANDYUR">*Ind. des KANDYUR = Index des KANDYUR. Herausgegeben von der Kai-<lb>serlichen Akademie der Wissenschaften und bevorwortet von I. Y.<lb>SCHMIDT. St. Petersburg 1845.
 1.134 <HI code="INDR.">INDR. = INDRALOKĀGAMANA in BOPP'S Ardschuna's Reise zu Indra's Him-<lb>mel u. s. w.
 1.135 <HI code="Ind. St.">Ind. St. = WEBER'S Indische Studien.
-1.136 <HI code="Institutt. (LASSEN,)">Institutt. (LASSEN,) = Institutiones linguae pracriticae. Scripsit CHRI-<lb>STIANUS LASSEN. Bonnae ad Rhenum 1837.
+1.136 <HI code="Institutt. (LASSEN)">Institutt. (LASSEN) = Institutiones linguae pracriticae. Scripsit CHRI-<lb>STIANUS LASSEN. Bonnae ad Rhenum 1837.
 1.000 [Page09-a+ 66]
 1.137 <HI code="ITIH.">ITIH. = ITIHĀSA.
 1.138 <HI code="YĀJÑ.">YĀJÑ. = YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und Deutsch herausge-<lb>geben von Dr. ADOLPH FRIEDRICH STENZLER. Berlin und London 1849.
@@ -148,7 +148,7 @@
 1.140 <HI code="YAJ. V.">YAJ. V. = YAJURVEDA.
 1.141 <HI code="YAVANEŚV.">YAVANEŚV. = YAVANEŚVARA.
 1.142 <HI code="YOGAT.">YOGAT. = YOGATATTVA, S. Ind. St. 2, 49.
-1.143 <HI code="Yourn. as.">Yourn. as. = Yournal asiatique.
+1.143 <HI code="Journ. as.">Journ. as. = Journal asiatique.
 1.144 <HI code="KĀŚ.">KĀŚ. = KĀŚIKĀVṚTTI; s. die Einleitung zu BÖHTLINGK'S Ausgabe des<lb>PĀṆINI, S. LIII.
 1.145 <HI code="KĀDAMB.">KĀDAMB. = KĀDAMBARĪ.
 1.146 <HI code="KAIY.">KAIY. = KAIYAṬA, ein Erklärer von PATAÑJALI'S MAHĀBHĀṢYA.
@@ -157,16 +157,16 @@
 1.149 <HI code="KĀLID.">KĀLID. = KĀLIDĀSA.
 1.150 <HI code="KĀLIKĀ-P.">KĀLIKĀ-P. = KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
 1.151 <HI code="CĀṆ.">CĀṆ. = CĀṆAKYA in HAEB. Chrest. S. 312--322.
-1.152 <HI code="{Kār.">{Kār. = Kārikā.}
+1.152 <HI code="Kār.">Kār. = Kārikā.
 1.153 <HI code="KĀṬ.">KĀṬ. = KĀṬAVEMA, ein Scholiast des ŚĀKUNTALA.
-1.154 <HI code="CĀT.">CĀT. = Gedicht vom Vogel {Cātaka} in der Zeitschrift für die Kunde<lb>des Morgenlandes, IV, S. 374--376.
+1.154 <HI code="CĀT.">CĀT. = Gedicht vom Vogel Cātaka in der Zeitschrift für die Kunde<lb>des Morgenlandes, IV, S. 374--376.
 1.155 <HI code="KĀṬH.">KĀṬH. = KĀṬHAKA-Recension des YĀJ. V.
 1.156 <HI code="KATHĀS.">KATHĀS. = KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. Bibl. 237).
 1.157 <HI code="KAṬHOP.">KAṬHOP. = KAṬHOPANIṢAD in der Bibliotheca indica.
 1.158 <HI code="KĀTY.">KĀTY. = KĀTYĀYANA.
-1.159 <HI code="KĀTY. ŚR.">KĀTY. ŚR. = KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 {Adhyāya.} Hdschr.
-1.160 <HI code="CATURBH.">CATURBH. = CATURBHUJA, ein Scholiast des MAHĀBHĀRATA; nach An-<lb>führungen in BOPP'S Ausgabe des {Nala} (s. unter N.).
-1.161 <HI code="KAUŚ.">KAUŚ. = KAUŚIKA'S SŪTRA zum ATHARVAVEDA. 14 {Adhyāya.} Die {Kaṇ-<lb>ḍikā} sind durchgezählt. Hdschr.
+1.159 <HI code="KĀTY. ŚR.">KĀTY. ŚR. = KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 Adhyāya. Hdschr.
+1.160 <HI code="CATURBH.">CATURBH. = CATURBHUJA, ein Scholiast des MAHĀBHĀRATA; nach An-<lb>führungen in BOPP'S Ausgabe des Nala (s. unter N.).
+1.161 <HI code="KAUŚ.">KAUŚ. = KAUŚIKA'S SŪTRA zum ATHARVAVEDA. 14 Adhyāya. Die Kaṇ-<lb>ḍikā sind durchgezählt. Hdschr.
 1.162 <HI code="CAURAP.">CAURAP. = CAURAPAÑCĀŚIKĀ, ed. BOHLEN (GILD. Bibl. 156).
 1.163 <HI code="KAUṢ. BR.">KAUṢ. BR. = KAUṢĪTAKIBRĀHMAṆA.
 1.164 <HI code="KAUṢ. UP.">KAUṢ. UP. = KAUṢĪTAKYUPANIṢAD.
@@ -181,7 +181,7 @@
 1.173 <HI code="KOṢṬHĪPR.">KOṢṬHĪPR. = KOṢṬHĪPRADĪPA, nach Anführungen im ŚKDR.
 1.174 <HI code="*KULL.">*KULL. = KULLŪKA, ein Scholiast des MANU, vollständig abgedruckt unter<lb>andern in der Calc. Ausg. von 1830 (GILD. Bibl. 288).
 1.175 <HI code="KUMĀRAS.">KUMĀRAS. = KUMĀRASAM̃BHAVA, ed. STENZLER (GILD. Bibl. 136).
-1.176 <HI code="KUNT.">KUNT. = KUNTĀPA, zehn Lieder, welche einen besondern Abschnitt<lb>von {AV.} Buch 20 bilden.
+1.176 <HI code="KUNT.">KUNT. = KUNTĀPA, zehn Lieder, welche einen besondern Abschnitt<lb>von AV. Buch 20 bilden.
 1.177 <HI code="KŪRMA-P.">KŪRMA-P. = KŪRMAPURĀṆA.
 1.178 <HI code="KUVALAY.">KUVALAY. = KUVALAYĀNANDA (Rhetorik) von APYADĪKṢITA mit dem ALAM̃-<lb>KĀRACANDRIKĀ genannten Commentar des VAIDYANĀTHA. Pūna 1846.<lb>176 Bll. querfolio.
 1.179 <HI code="LA.">LA. = LASSEN'S Anthologie (GILD. Bibl. 48).
@@ -189,8 +189,8 @@
 1.181 <HI code="LALIT.">LALIT. = RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou Développement des<lb>yeux, traduit etc. par PH. ÉD. FOUCAUX. Deuxième partie--Traduc-<lb>tion franśaise. Paris 1848.
 1.182 <HI code="*LALIT. Calc.">*LALIT. Calc. = LALITAVISTARA in der Bibliotheca indica.
 1.183 <HI code="LĀṬY.">LĀṬY. = LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
-1.184 <HI code="Lebensb. (SCHIEFNER,)">Lebensb. (SCHIEFNER,) = Eine tibetische Lebensbeschreibung {Śākyamu-<lb>ni's,} des Begründers des Buddhathums, im Auszuge mitgetheilt von [Page09-b+ 66]<lb>A. SCHIEFNER, in Mémoires présentés à l'Académie Impériale des<lb>sciences de St.-Pétersbourg par divers savants. T. VI. Die in Klam-<lb>mern beigefügte Seitenzahl bezieht sich auf die Separatabdrücke.
-1.185 <HI code="{Lex. sanscr. tib.}">{Lex. sanscr. tib.} = VYUTP. (s. d.)
+1.184 <HI code="Lebensb. (SCHIEFNER)">Lebensb. (SCHIEFNER) = Eine tibetische Lebensbeschreibung Śākyamu-<lb>ni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [Page09-b+ 66]<lb>A. SCHIEFNER, in Mémoires présentés à l'Académie Impériale des<lb>sciences de St.-Pétersbourg par divers savants. T. VI. Die in Klam-<lb>mern beigefügte Seitenzahl bezieht sich auf die Separatabdrücke.
+1.185 <HI code="Lex. sanscr. tib.">Lex. sanscr. tib. = VYUTP. (s. d.)
 1.186 <HI code="LIA.">LIA. = LASSEN'S Indische Alterthumskunde.
 1.187 <HI code="LIŃGA-P.">LIŃGA-P. = LIŃGAPURĀṆA.
 1.188 <HI code="Lit. (WEBER,)">Lit. (WEBER,) = Akademische Vorlesungen über Indische Literatur-<lb>geschichte. Gehalten von A. WEBER. Berlin 1852.
@@ -210,18 +210,18 @@
 1.202 <HI code="*MĀLAV.">*MĀLAV. = MĀLAVIKĀGNIMITRA, ed. TULLBERG (GILD. Bibl. 209).
 1.203 <HI code="MALLIN.">MALLIN. = MALLINĀTHA.
 1.204 <HI code="MĀṆD. UP.">MĀṆD. UP. = MĀṆDŪKYOPANIṢAD in der Bibliotheca indica.
-1.205 <HI code="MĀṆḌ. UP. {Kār.}">MĀṆḌ. UP. {Kār.} = GAUḌAPĀDA'S {Kārikā} zur MĀṆḌ. UP. in der Biblio-<lb>theca indica.
+1.205 <HI code="MĀṆḌ. UP. Kār.">MĀṆḌ. UP. Kār. = GAUḌAPĀDA'S Kārikā zur MĀṆḌ. UP. in der Biblio-<lb>theca indica.
 1.206 <HI code="MAÑJUŚRĪN.">MAÑJUŚRĪN. = ĀRYAMAÑJUŚRĪNĀMASAM̃GĪTI, s. Verz. d. Pet. H. No. 121.
-1.207 <HI code="Mat. ind. (AINSLIE,)">Mat. ind. (AINSLIE,) = Materia indica; or some account of those articles<lb>which are employed by the Hindoes, or eastern nations, in their me-<lb>dicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+1.207 <HI code="Mat. ind. (AINSLIE)">Mat. ind. (AINSLIE) = Materia indica; or some account of those articles<lb>which are employed by the Hindoes, or eastern nations, in their me-<lb>dicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
 1.208 <HI code="MATSYA-P.">MATSYA-P. = MATSYAPURĀṆA.
 1.209 <HI code="MATSYOP.">MATSYOP. = MATSYOPĀKHYĀNA, ed. BOPP (GILD. Bibl. 106).
 1.210 <HI code="MBH.">MBH. = MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93). Von S. 521 des Wörter-<lb>buchs sind die drei ersten Bücher, von S. 601 auch die fünf letzten,<lb>von {#U#} an auch das 13te Buch ausgebeutet worden.
-1.211 <HI code="MED.">MED. = MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258). Die Wörter sind zu-<lb>nächst nach dem letzten Consonanten im Worte angeordnet: also<lb>{#kAnta#} (k), {#khAnta#} (kh), {#gAnta#} (g) u. s. w. Die Partikeln ({avyaya}) bilden<lb>einen besondern Abschnitt am Ende, den wir durch {avy.} bezeichnet<lb>haben.
+1.211 <HI code="MED.">MED. = MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258). Die Wörter sind zu-<lb>nächst nach dem letzten Consonanten im Worte angeordnet: also<lb>{#kAnta#} (k), {#khAnta#} (kh), {#gAnta#} (g) u. s. w. Die Partikeln (avyaya) bilden<lb>einen besondern Abschnitt am Ende, den wir durch avy. bezeichnet<lb>haben.
 1.212 <HI code="MEGH.">MEGH. = MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl. 151).
 1.213 <HI code="Mél. asiat.">Mél. asiat. = Mélanges asiatiques tirés du Bulletin historico-philologique<lb>de l'Académie Impériale des sciences de St.-Pétersbourg.
-1.214 <HI code="Mém. sur l'Inde (REINAUD,)">Mém. sur l'Inde (REINAUD,) = Mémoire géographique, historique et<lb>scientifique sur l'Inde antérieurement au milieu du XIe siècle de<lb>l'ère chrétienne d'après les écrivains arabes, persans et chinois par<lb>M. REINAUD. Paris 1849.
+1.214 <HI code="Mém. sur l'Inde (REINAUD)">Mém. sur l'Inde (REINAUD) = Mémoire géographique, historique et<lb>scientifique sur l'Inde antérieurement au milieu du XIe siècle de<lb>l'ère chrétienne d'après les écrivains arabes, persans et chinois par<lb>M. REINAUD. Paris 1849.
 1.215 <HI code="*MIT.">*MIT. = MITĀKṢARĀ, ed. Calc. 1829 (GILD. Bibl. 314).
-1.216 <HI code="MRCCH.">MRCCH. = MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 186).
+1.216 <HI code="MṚCCH.">MṚCCH. = MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 186).
 1.217 <HI code="*MUDRĀR.">*MUDRĀR. = MUDRĀRĀKṢASA, ed. Calc. (GILD. Bibl. 213).
 1.218 <HI code="MUṆḌ. UP.">MUṆḌ. UP. = MUṆḌAKOPANIṢAD in der Bibliotheca indica.
 1.219 <HI code="N.">N. = NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathie (GILD. Bibl. 49). Die<lb>BOPP'sche Ausgabe (GILD. Bibl. 99) ist durch N. (BOPP) bezeichnet.
@@ -237,25 +237,25 @@
 1.228 <HI code="NĪTIPR.">NĪTIPR. = NĪTIPRADĪPA in HAEB. Chr. S. 526--528.
 1.229 <HI code="*NYĀYA-S.">*NYĀYA-S. = GOTAMA'S NYĀYASŪTRĀṆI, ed. Calc. (GILD. Bibl. 274).
 1.230 <HI code="P.">P. = PĀṆINI'S acht Bücher grammatischer Regeln (GILD. Bibl. 244).
-1.231 <HI code="{Padap.">{Padap. = Padapāṭha.}
-1.232 <HI code="PAÑCAT.">PAÑCAT. = PAÑCATANTRA. Pantschatantrum sive quinquepartitum de<lb>moribus exponens, ex codicibus manuscriptis edidit, commentariis<lb>criticis auxit IO. GODOFR. LUDOV. KOSEGARTEN. Pars prima, textum<lb>sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8º. Eine<lb>darauf folgende römische Zahl bezeichnet das {Buch,} eine arabische<lb>-- die {Seite;} die zweite Zahl bezeichnet hier die {Zeile,} dort den<lb>{Śloka.}
+1.231 <HI code="Padap.">Padap. = Padapāṭha.
+1.232 <HI code="PAÑCAT.">PAÑCAT. = PAÑCATANTRA. Pantschatantrum sive quinquepartitum de<lb>moribus exponens, ex codicibus manuscriptis edidit, commentariis<lb>criticis auxit IO. GODOFR. LUDOV. KOSEGARTEN. Pars prima, textum<lb>sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8º. Eine<lb>darauf folgende römische Zahl bezeichnet das Buch, eine arabische<lb>-- die Seite; die zweite Zahl bezeichnet hier die Zeile, dort den<lb>Śloka.
 1.233 <HI code="PAÑCAV. BR.">PAÑCAV. BR. = PAÑCAVIM̃ŚABRĀHMAṆA.
 1.234 <HI code="PARĀŚ.">PARĀŚ. = PARĀŚARA, Verfasser eines Gesetzbuchs; nach Anführungen<lb>in MIT., DĀY. und ŚKDR.
 1.235 <HI code="PĀR. GṚHY.">PĀR. GṚHY. = PĀRASKARA'S GṚHYASŪTRĀṆI.
 1.236 <HI code="PAT.">PAT. = PATAÑJALI, als Verfasser des MAHĀBHĀṢYA; nach Excerpten in<lb>BÖHTLINGK'S Ausgabe des PĀṆINI.
 1.237 <HI code="PAT. YOGAŚ.">PAT. YOGAŚ. = PATAÑJALI'S YOGAŚĀSTRA, ed. BALLANTYNE, Allahabad 1853.
-1.238 <HI code="Pent. (LASSEN,)">Pent. (LASSEN,) = CHRISTIANI LASSENII commentatio geographica atque<lb>historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
-1.239 <HI code="PRAB. oder PRABODH.">PRAB. oder PRABODH. = PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.<lb>Bibl. 216).
+1.238 <HI code="Pent. (LASSEN)">Pent. (LASSEN) = CHRISTIANI LASSENII commentatio geographica atque<lb>historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
+1.239 <HI code="PRAB.">PRAB. oder PRABODH. = PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.<lb>Bibl. 216).
 1.240 <HI code="PRAŚNOP.">PRAŚNOP. = PRAŚNOPANIṢAD, nach der Ausgabe von RÖER in der Biblio-<lb>theca indica.
 1.241 <HI code="PRĀYAŚCITTAV.">PRĀYAŚCITTAV. = PRĀYAŚCITTAVIVEKA, nach Anführungen im ŚKDR.
 1.242 <HI code="PRĀT. oder PRĀTIŚ.">PRĀT. oder PRĀTIŚ. = PRĀTIŚĀKHYA.
-1.243 <HI code="PRAVAR. oder PRAVARĀDHY.">PRAVAR. oder PRAVARĀDHY. = PRAVARĀDHYĀYA.
+1.243 <HI code="PRAVARĀDHY.">PRAVAR. oder PRAVARĀDHY. = PRAVARĀDHYĀYA.
 1.244 <HI code="PUR.">PUR. = PURĀṆA.
 1.245 <HI code="PURUṢ.">PURUṢ. = PURUṢOTTAMA, ein Lexicograph (unter Anderm auch Ver-<lb>fasser des TRIK. und der HĀR.); nach Anführungen im ŚKDR.
 1.246 <HI code="PUṢPAS.">PUṢPAS. = PUṢPASŪTRA.
 1.247 <HI code="R.">R. = RĀMĀYAṆA. Ohne eine nähere Angabe ist bei den zwei ersten<lb>Büchern die Ausgabe von SCHLEGEL (GILD. Bibl. 84), bei den vier<lb>letzten die von GORRESIO (GILD. Bibl. 85) gemeint.
 1.248 <HI code="RĀJAN.">RĀJAN. = RĀJANIRGHAṆṬA, ein medicinisches Wörterbuch; nach An-<lb>führungen im ŚKDR.
-1.249 <HI code="*RĀJA-TAR.">*RĀJA-TAR. = RĀJATARAM̃GIṆĪ, ed. TROYER (GILD. Bibl. 148) für die 6<lb>ersten {Taram̃ga's;} für die folgenden die Calc. Ausg. (GILD. Bibl. 147).
+1.249 <HI code="*RĀJA-TAR.">*RĀJA-TAR. = RĀJATARAM̃GIṆĪ, ed. TROYER (GILD. Bibl. 148) für die 6<lb>ersten Taram̃ga's; für die folgenden die Calc. Ausg. (GILD. Bibl. 147).
 1.250 <HI code="RĀJAV.">RĀJAV. = RĀJAVALLABHA, nach Anführungen im ŚKDR.
 1.251 <HI code="RAGH.">RAGH. = RAGHUVAM̃ŚA, ed. STENZLER (GILD. Bibl. 134).
 1.252 <HI code="RAGH. (ed. Calc.)">RAGH. (ed. Calc.) = RAGHUVAM̃ŚA, ed. Calc. (GILD. Bibl. 135).
@@ -269,12 +269,12 @@
 1.260 <HI code="*RATNĀV.">*RATNĀV. = RATNĀVALĪ, ed. Calc. (GILD. Bibl. 214).
 1.261 <HI code="ROXB. Fl. ind.">ROXB. Fl. ind. = Flora indica or Description of Indian plants. By the<lb>late WILLIAM ROXBURGH. Serampore 1832. Vol. I. II. III. 8º.
 1.262 <HI code="ṚT.">ṚT. = ṚTUSAM̃HĀRA, ed. BOHLEN (GILD. Bibl. 155).
-1.263 <HI code="ṚV.">ṚV. = ṚGVEDA. Es wird nach {Maṇḍala, Sūkta} und {Ṛc} citirt. ROSEN<lb>zu {ṚV.} verweist auf die Anmerkungen in: {Rigveda-Sanhita,} liber<lb>primus, sanskritè et latinè; edidit FRIDERICUS ROSEN. London 1838.
-1.264 <HI code="{ṚV.} PRĀT. oder PRĀTIŚ.">{ṚV.} PRĀT. oder PRĀTIŚ. = PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach {Paṭala}<lb>und Versen. Hdschr. S. ROTH in der Einl z. NIR. S. XLVII.
+1.263 <HI code="ṚV.">ṚV. = ṚGVEDA. Es wird nach Maṇḍala, Sūkta und Ṛc citirt. ROSEN<lb>zu ṚV. verweist auf die Anmerkungen in: Rigveda-Sanhita, liber<lb>primus, sanskritè et latinè; edidit FRIDERICUS ROSEN. London 1838.
+1.264 <HI code="ṚV. PRĀT. oder PRĀTIŚ.">ṚV. PRĀT. oder PRĀTIŚ. = PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach Paṭala<lb>und Versen. Hdschr. S. ROTH in der Einl z. NIR. S. XLVII.
 1.265 <HI code="SADDH. L.">SADDH. L. = SADDHARMALAŃKĀVATĀRA.
 1.000 [Page10-b+ 67]
 1.266 <HI code="SADDH. P. 4.">SADDH. P. 4. = SADDHARMAPUṆḌARĪKA, Kap. 4 in: Parabole de l'enfant<lb>égaré, formant le chapitre IV du Lotus de la bonne loi, publiée pour<lb>la première fois en sanscrit et en tibétain, lithographiée à la manière<lb>des livres du Tibet, et accompagnée d'une traduction franśaise d'après<lb>la version tibétaine du Kandyour, par PH. ÉD. FOUCAUX. Paris 1854.
-1.267 <HI code="SĀH. D.">SĀH. D. = SĀHITYADARPAṆA, auf den 10 ersten Bogen nach der Ausgabe<lb>von 1828 (GILD. Bibl. 264), auf den folgenden Bogen, wenn nicht<lb>die Yahreszahl 1828 ausdrücklich bemerkt wird, nach der Ausgabe<lb>von RÖER in der Bibliotheca indica. Eine einfache Zahl verweist auf<lb>die {Kārikā,} eine doppelte auf Seite und Zeile.
+1.267 <HI code="SĀH. D.">SĀH. D. = SĀHITYADARPAṆA, auf den 10 ersten Bogen nach der Ausgabe<lb>von 1828 (GILD. Bibl. 264), auf den folgenden Bogen, wenn nicht<lb>die Yahreszahl 1828 ausdrücklich bemerkt wird, nach der Ausgabe<lb>von RÖER in der Bibliotheca indica. Eine einfache Zahl verweist auf<lb>die Kārikā, eine doppelte auf Seite und Zeile.
 1.268 <HI code="SĀY.">SĀY. = SĀYAṆA.
 1.269 <HI code="SAM̃GĪTAD.">SAM̃GĪTAD. = SAM̃GĪTADĀMODARA (über Musik), nach Anführungen im ŚKDR.
 1.270 <HI code="SĀM̃KHYAK.">SĀM̃KHYAK. = SĀM̃KHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 271), mit Benutzung<lb>des Index in LASSEN'S Ausgabe (GILD. Bibl. 270).
@@ -299,11 +299,11 @@
 1.289 <HI code="TAITT. PRĀT.">TAITT. PRĀT. = PRĀTIŚĀKHYA zur TAITTIRĪYASAM̃HITĀ. S. ROTH in der<lb>Einl. z. NIR. S. XLVII.
 1.290 <HI code="TANTRAS.">TANTRAS. = TANTRASĀRA, nach Anführungen im ŚKDR.
 1.291 <HI code="TEJOV. UP.">TEJOV. UP. = TEJOVINDŪPANIṢAD.
-1.292 <HI code="Tib. Lebensb. {Śāky.}">Tib. Lebensb. {Śāky.} = Tibetische Lebensbeschreibung {Śākyamuni's,}<lb>das Original von dem oben unter Lebensb. (SCHIEFNER) aufgeführten<lb>Auszuge.
+1.292 <HI code="Tib. Lebensb. Śāky.">Tib. Lebensb. Śāky. = Tibetische Lebensbeschreibung Śākyamuni's,<lb>das Original von dem oben unter Lebensb. (SCHIEFNER) aufgeführten<lb>Auszuge.
 1.293 <HI code="TRIK.">TRIK. = TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258).
-1.294 <HI code="TS.">TS. = TAITTIRĪYASAM̃HITĀ. 7 {Kāṇḍa,} eingetheilt in {Praśna, Anuvāka}<lb>und {Kaṇḍikā.} Die letzten bezeichnen nicht Satzabschnitte, sondern<lb>umfassen ye 50 Wörter. Hdschr.
+1.294 <HI code="TS.">TS. = TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt in Praśna, Anuvāka<lb>und Kaṇḍikā. Die letzten bezeichnen nicht Satzabschnitte, sondern<lb>umfassen ye 50 Wörter. Hdschr.
 1.295 <HI code="TS. ANUKR.">TS. ANUKR. = ANUKRAMANIKĀ der TS. Hdschr.
-1.296 <HI code="Uṇ.">Uṇ. = Die {Uṇādi}-Affixe. Herausgegeben und mit Anmerkungen und<lb>verschiedenen Indices versehen von OTTO BÖHTLINGK. St. Petersburg<lb>1844.
+1.296 <HI code="Uṇ.">Uṇ. = Die Uṇādi-Affixe. Herausgegeben und mit Anmerkungen und<lb>verschiedenen Indices versehen von OTTO BÖHTLINGK. St. Petersburg<lb>1844.
 1.297 <HI code="UṆĀDIK.">UṆĀDIK. = UṆĀDIKOṢA, nach Anführungen im ŚKDR.
 1.298 <HI code="UPAL.">UPAL. = UPALEKHA de KRAMAPĀṬHA libellus. Ed. G. PERTSCH. Berolini<lb>1854. 8º.
 1.299 <HI code="*UTT. RĀMAC.">*UTT. RĀMAC. = UTTARA-RĀMACARITRA, ed. Calc. (GILD. Bibl. 212).
@@ -311,12 +311,12 @@
 1.301 <HI code="VAIJ.">VAIJ. = VAIJAYANTĪ, ein Wörterbuch. Excerpte daraus, angeführt in den<lb>Scholien zu KIR. und ŚIŚ., verdanken wir Professor STENZLER.
 1.302 <HI code="VĀYU-P.">VĀYU-P. = VĀYUPURĀṆA.
 1.303 <HI code="VĀCASP.">VĀCASP. = VĀCASPATI.
-1.304 <HI code="VĀLAKH.">VĀLAKH. = VĀLAKHILYA, die zwischen {ṚV.} 8, 48 und 49 eingeschobe-<lb>nen Lieder.
+1.304 <HI code="VĀLAKH.">VĀLAKH. = VĀLAKHILYA, die zwischen ṚV. 8, 48 und 49 eingeschobe-<lb>nen Lieder.
 1.305 <HI code="Var.">Var. = Variante.
 1.306 <HI code="VARĀH. BṚH.">VARĀH. BṚH. = VARĀHAMIHIRA'S BṚHAJJĀTAKA. [Pagè-a+ 33]
 1.307 <HI code="VARĀH. BṚH. S.">VARĀH. BṚH. S. = VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 1.308 <HI code="VARĀH. L. JĀT.">VARĀH. L. JĀT. = VARĀHAMIHIRA'S LAGHUJĀTAKA.
-1.309 <HI code="{Vārtt.">{Vārtt. = Vārttika} von KĀTYĀYANA in BÖHTLINGK'S Ausg. des PĀṆINI.
+1.309 <HI code="Vārtt.">Vārtt. = Vārttika von KĀTYĀYANA in BÖHTLINGK'S Ausg. des PĀṆINI.
 1.310 <HI code="VĀSAV.">VĀSAV. = VĀSAVADATTĀ; s. Z. d. d. m. G. VIII, 530. fgg.
 1.311 <HI code="ved.">ved. = vedisch.
 1.312 <HI code="*VEDĀNTAS.">*VEDĀNTAS. = VEDĀNTASĀRA, ed. Calc. (Gild. Bibl. 279).
@@ -327,26 +327,26 @@
 1.317 <HI code="VET.">VET. = VETĀLAPAÑCAVIM̃ŚATI in LASSEN'S Anthologie (LA).
 1.318 <HI code="VIŚV.">VIŚV. = VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrestomathie.
 1.319 <HI code="VID.">VID. = Geschichte des VIDŪṢAKA in BÖHTLINGK'S Chrestomathie.
-1.320 <HI code="VIKR. oder VIKRAM.">VIKR. oder VIKRAM. = VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl. 206).<lb>Eine einfache Zahl verweist auf einen {Śloka,} eine doppelte--auf<lb>{Seite} und {Zeile.}
+1.320 <HI code="VIKR. oder VIKRAM.">VIKR. oder VIKRAM. = VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl. 206).<lb>Eine einfache Zahl verweist auf einen Śloka, eine doppelte--auf<lb>Seite und Zeile.
 1.321 <HI code="*VĪRAM.">*VĪRAM. = VĪRAMITRODAYA.
 1.322 <HI code="*VIVĀDAC.">*VIVĀDAC. = VIVĀDACINTĀMAṆI, ed. Calc. (GILD. Bibl. 351).
 1.323 <HI code="*VYAVAHĀRAT.">*VYAVAHĀRAT. = VYAVAHĀRATATTVA, ed. Calc. (GILD. Bibl. 342).
-1.324 <HI code="VYUTP.">VYUTP. = VYUTPATTI oder MAHĀVYUTPATTI (s. {Mél. asiat.} II, 382), ein<lb>sanskrit-tibetisches Wörterbuch aus dem TAÑJUR (Bd. 123 der {Sūtra,}<lb>S. 223--377). Die Mittheilungen aus diesem Werke nebst andern<lb>auf den Budhismus bezüglichen Notizen verdanken wir A. SCHIEFNER. [Pagè-b+ 32]
+1.324 <HI code="VYUTP.">VYUTP. = VYUTPATTI oder MAHĀVYUTPATTI (s. Mél. asiat. II, 382), ein<lb>sanskrit-tibetisches Wörterbuch aus dem TAÑJUR (Bd. 123 der Sūtra,<lb>S. 223--377). Die Mittheilungen aus diesem Werke nebst andern<lb>auf den Budhismus bezüglichen Notizen verdanken wir A. SCHIEFNER. [Pagè-b+ 32]
 1.325 <HI code="v. l.">v. l. = varia lectio.
 1.326 <HI code="VOP. oder VOPAD.">VOP. oder VOPAD. = VOPADEVA'S Grammatik, nach BÖHTLINGK'S Ausgabe<lb>(GILD. Bibl. 249, {%a.%} S. 170).
 1.327 <HI code="VP.">VP. = VIṢṆUPURĀṆA. Es wird die WILSON'sche Uebersetzung (GILD.<lb>Bibl. 133) citirt.
 1.328 <HI code="VS.">VS. = VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHITĀ in the MĀDHYANDINA<lb>-- and the KĀṆVA-ŚĀKHĀ with the commentary of MAHĪDHARA, edited<lb>by Dr. ALBRECHT WEBER. Berlin Ferd. Dümmler's Verlagṣandlung.<lb>London Williams and Norgate. 1852. 4º.
-1.329 <HI code="VS. PRĀT.">VS. PRĀT. = PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citirt nach {Adhyāya}<lb>und {Sūtra.} Hdschr. S. ROTH in der Einl. z. NIR. S. XLVI.
+1.329 <HI code="VS. PRĀT.">VS. PRĀT. = PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citirt nach Adhyāya<lb>und Sūtra. Hdschr. S. ROTH in der Einl. z. NIR. S. XLVI.
 1.330 <HI code="WEST.">WEST. = WESTERGAARD'S Radices (GILD. Bibl. 42).
 1.331 <HI code="WILS.">WILS. = WILSON'S Wörterbuch (GILD. Bibl. 37).
-1.332 <HI code="WIND. {Sancara}">WIND. {Sancara} = FRID. H. H. WINDISCHMANNI Sancara sive de theo-<lb>logumenis Vedanticorum. Bonnae 1833.
+1.332 <HI code="WIND. Sancara">WIND. Sancara = FRID. H. H. WINDISCHMANNI Sancara sive de theo-<lb>logumenis Vedanticorum. Bonnae 1833.
 1.333 <HI code="WISE">WISE = Commentary on the Hindu System of Medicine, by T. A.<lb>WISE, M. D. Calcutta 1845. 8º.
 1.334 <HI code="Z. d. d. m. G.">Z. d. d. m. G. = Zeitschrift der Deutschen morgenländischen Gesell-<lb>schaft. Leipzig.
 1.335 <HI code="Z. f. d. K. d. M.">Z. f. d. K. d. M. = Zeitschrift für die Kunde des Morgenlandes. Göt-<lb>tingen (Bd. I--III) und Bonn (Bd. IV--VII).
 1.336 <HI code="Z. f. d. W. d. Spr.">Z. f. d. W. d. Spr. = Zeitschrift für die Wissenschaft der Sprache.<lb>Herausgegeben von Dr. A. HOEFER.
 1.337 <HI code="Z. f. vgl. Spr.">Z. f. vgl. Spr. = Zeitschrift für vergleichende Sprachforschung auf dem<lb>Gebiete des Deutschen, Griechischen und Lateinischen herausgege-<lb>ben von Dr. THEODOR AUFRECHT und Dr. ADALBERT KUHN. Berlin.
 1.338 <HI code="Zur Geschichte u. s. w. (LASSEN,)">Zur Geschichte u. s. w. (LASSEN,) = Zur Geschichte der Griechischen<lb>und Indoskythischen Könige in Baktrien, Kabul und Indien durch<lb>Entzifferung. der Altkabulischen Legenden auf ihren Münzen, von<lb>CHRISTIAN LASSEN. Bonn 1838. 8º.
-1.339 <HI code="Zur L. u. G. d. w. (ROTH,)">Zur L. u. G. d. w. (ROTH,) = Zur Literatur und Geschichte des Weda.<lb>Drei Abhandlungen von RUDOLPH ROTH. Stuttgart 1846.
+1.339 <HI code="Zur L. u. G. d. w. (ROTH)">Zur L. u. G. d. w. (ROTH) = Zur Literatur und Geschichte des Weda.<lb>Drei Abhandlungen von RUDOLPH ROTH. Stuttgart 1846.
 2.000 [Page005-a+ 40]
 2.000 [Volume 2: Abbreviations from Sanskrit Literature]
 2.000 <H>{@Erklärung der im 2. Theile neu hinzugekommenen Abkürzungen.@}
@@ -362,9 +362,9 @@
 2.010 <HI code="DRĀHY.">DRĀHY. = DRĀHYĀYAṆA.
 2.011 <HI code="DURGĀRCĀT.">DURGĀRCĀT. = DURGĀRCĀTATTVA; nach Anführungen im ŚKDR.
 2.012 <HI code="JAIM.">JAIM. = JAIMINI (The Aphorisms of the Mímánsá Philosophy by Yai-<lb>mini. With extracts from the commentaries. Allahabad. 1851. In<lb>unserm Besitz nur ein Fragment von 36 Seiten.).
-2.013 <HI code="GILD. Scriptorum Arabum etc.">GILD. Scriptorum Arabum etc. = Scriptorum Arabum de Rebus Indi-<lb>cis loci et opuscula inedita. Ad codicum Pariss. etc. fidem recensuit<lb>et illustravit Y. Gildemeister. Bonnae MDCCCXXXVIII.
+2.013 <HI code="GILD.">GILD. Scriptorum Arabum etc. = Scriptorum Arabum de Rebus Indi-<lb>cis loci et opuscula inedita. Ad codicum Pariss. etc. fidem recensuit<lb>et illustravit Y. Gildemeister. Bonnae MDCCCXXXVIII.
 2.014 <HI code="JYOTIṢAT.">JYOTIṢAT. = JYOTIṢATATTVA; nach Anführungen im ŚKDR.
-2.015 <HI code="GOBU.">GOBU. = GOBHILA'S GṚHYASŪTRA; nach Mittheilungen von A. WEBER.
+2.015 <HI code="GOBH.">GOBH. = GOBHILA'S GṚHYASŪTRA; nach Mittheilungen von A. WEBER.
 2.016 <HI code="HIOUEN-THSANG I">HIOUEN-THSANG I = Mémoires sur les contrées occidentales, traduits<lb>du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois<lb>en franśais par M. Stanislas Yulien. Tome premier.
 2.017 <HI code="YĀJÑIKAD. PADDH. zu KĀTY. ŚR.">YĀJÑIKAD. PADDH. zu KĀTY. ŚR. = YĀJÑIKADEVA'S PADDHATI zu KĀTYĀYA-<lb>NA'S ŚRAUTASŪTRA; nach Mittheilungen von A. WEBER.
 2.018 <HI code="YOGAS.">YOGAS. = YOGASŪTRA (The Aphorisms of the Yoga Philosophy of Patan-<lb>jali. l. Allahabad 1852. II. ebend. 1853.).
@@ -416,7 +416,7 @@
 3.007 <HI code="KAṬHINĀV.">KAṬHINĀV. = KAṬHINĀVADĀNA, handschriftlich in der Pariser Bibliothek,<lb>nach Mittheilungen von SCHIEFNER.
 3.008 <HI code="KRIYĀSAM.">KRIYĀSAM. = KRIYĀSAMUCCAYA, handschriftlich in der Pariser Bibliothek,<lb>nach Mittheilungen von A. SCHIEFNER.
 3.009 <HI code="MUIR, Sanskr. Texts">MUIR, Sanskr. Texts = Original Sanskrit Texts on the origin and pro- [Page003-b+ 17]<lb>gress of the Religion and Institutions of India; collected, translat-<lb>ed into English, and illustrated by Notes. Chiefly for the use of<lb>students and others in India. By Y. MUIR.
-3.010 <HI code="NIGH. Pa.">NIGH. Pa. = NIGHAṆṬA PRAKĀŚA von BĀPŪ GAŃGĀDHARA. Bombay 1839. 4º.
+3.010 <HI code="NIGH. PR.">NIGH. PR. = NIGHAṆṬA PRAKĀŚA von BĀPŪ GAŃGĀDHARA. Bombay 1839. 4º.
 3.011 <HI code="PĀŚAKAK.">PĀŚAKAK. = PĀŚAKAKEVALĪ in «Monatsberichte der Kön. Akademie der<lb>Wissenschaften zu Berlin», 1859, S. 158. fgg.
 3.012 <HI code="RĀṢṬRAPĀLAP.">RĀṢṬRAPĀLAP. = RĀṢTRAPĀLAPARIPṚCCHĀ, handschriftlich in der Pariser<lb>Bibliothek, nach Mittheilungen von A. SCHIEFNER.
 3.013 <HI code="SADDH. P. (mit nachfolgender einfacher Zahl)">SADDH. P. (mit nachfolgender einfacher Zahl) = SADDHARMAPUṆḌARĪKA,<lb>handschriftlich in der Pariser Bibliothek, nach Mittheilungen von<lb>A. SCHIEFNER.
@@ -427,7 +427,7 @@
 4.000 [Volume 4: Abbreviations from Sanskrit Literature]
 4.000 <H>{@Erklärung neuer Abkürzungen.@}
 4.001 <HI code="BANERYEA und BANERYEA, Dial.">BANERYEA und BANERYEA, Dial. = Dialogues on the Hindu Philosophy,<lb>comprising the Nyaya, the Sankhya, the Vedant; to which is added<lb>a discussion of the authority of the Vedas. By Rev. K. M. BANERYEA.<lb>London, 1861.
-4.002 <HI code="ŚĀRŃG. SAM̃H.">ŚĀRŃG. SAM̃H. = SAM̃HITĀ des ŚĀRŃGADHARA. Bombai 1853. Citirt nach<lb>{Kāṇḍa, Adhyāya} und der Reihenfolge der in der Ausgabe angenom<lb>menen Paragraphen.
+4.002 <HI code="ŚĀRŃG. SAM̃H.">ŚĀRŃG. SAM̃H. = SAM̃HITĀ des ŚĀRŃGADHARA. Bombai 1853. Citirt nach<lb>Kāṇḍa, Adhyāya und der Reihenfolge der in der Ausgabe angenom<lb>menen Paragraphen.
 4.003 <HI code="DAŚAR.">DAŚAR. = The Daśa-Rūpa, or Hindu Canons of Dramaturgy by Dhanan-<lb>jaya. Ed. by Fitz-Edward HALL. Calcutta, 1861.
 4.004 <HI code="HALĀY.">HALĀY. = HALĀYUDHA'S ABHIDHĀNARATNAMĀLĀ. A sanskrit Vocabulary,<lb>edited with a sanskrit-english Glossary by Th. AUFRECHT. 1861.
 4.005 <HI code="HALL">HALL = A contribution towards an index to the Bibliography of the<lb>Indian philosophical systems. By Fitzedward HALL. Calcutta, 1859.
@@ -436,11 +436,11 @@
 4.008 <HI code="NĪLAK.">NĪLAK. = A rational refutation of the Hindu philosophical systems by<lb>Nehemiah Nīlakaṇṭha, Śāstrí Gore, translated from the original Hindí,<lb>printed and manuscript, by Fitz-Edward HALL. Calcutta, 1862.
 4.009 <HI code="NYĀYAMĀLĀV.">NYĀYAMĀLĀV. = NYĀYAMĀLĀVISTARA, nach Anführungen bei MUIR, Sans- [Page1219-1b+ 21]<lb>krit Texts.
 4.010 <HI code="PK.">PK. = PĀRŚVANĀTHAKĀVYA, in AUFRECHT'S Index zum HALĀYUDHA.
-4.011 <HI code="PRATĀPAR.">PRATĀPAR. = VIDYĀNĀTHA'S PRATĀPARUDRĪYAM ALAM̃KĀRAŚĀSTRAM. Lith. zu<lb>{Pūnā,} Śāka 1771.
+4.011 <HI code="PRATĀPAR.">PRATĀPAR. = VIDYĀNĀTHA'S PRATĀPARUDRĪYAM ALAM̃KĀRAŚĀSTRAM. Lith. zu<lb>Pūnā, Śāka 1771.
 4.012 <HI code="RATNAG.">RATNAG. = ĀRYAPRAJÑĀPĀRAMITĀRATNAGUṆASAM̃CAYAGĀTHĀ, handschriftlich<lb>im Asiat. Museum der Kais. Akad. d. Ww. in St. Petersburg, nach<lb>Mittheilungen von A. SCHIEFNER.
 4.013 <HI code="RATNĀVAD.">RATNĀVAD. = RATNĀVADĀNAMĀLĀ, handschriftlich in der Kais. Bibl. zu<lb>Paris, nach Mittheilungen von A. SCHIEFNER.
 4.014 <HI code="SAM̃SK. K.">SAM̃SK. K. = SAM̃SKĀRAKAUSTUBHA von ANANTADEVA. Lith. Ausg. in folio<lb>ohne Angabe des Ortes und des Yahres.
 4.015 <HI code="None">SIDDHĀNTAŚIR. mit Angabe von Zahlen bezieht sich auf «Translation of<lb>the Sūrya Siddhānta by Pundit Bāpū Deva Sāstri, and of the Sid-<lb>dhānta Śiromani by the late Lancelot WILKINSON, revised by Pundit<lb>Bāpū Deva Sāstri, from the Sanskrit. Calcutta. 1861.»
 4.016 <HI code="Spr.">Spr. = Indische Sprüche. Sanskrit und deutsch herausgegeben von<lb>Otto BÖHTLINGK. St. Petersburg, 1863. 1864.
-4.017 <HI code="WEBER, JYOT.">WEBER, JYOT. = WEBER, Ueber den Vedakalender, Namens {Jyoti-<lb>ṣam.} Berlin, 1862.
-4.018 <HI code="WEBER, {Nax.}">WEBER, {Nax.} = WEBER, Die vedischen Nachrichten von den Naxatra<lb>(Mondstationen). Berlin, 1860. 1862.
+4.017 <HI code="WEBER, JYOT.">WEBER, JYOT. = WEBER, Ueber den Vedakalender, Namens Jyoti-<lb>ṣam. Berlin, 1862.
+4.018 <HI code="WEBER, Nax.">WEBER, Nax. = WEBER, Die vedischen Nachrichten von den Naxatra<lb>(Mondstationen). Berlin, 1860. 1862.

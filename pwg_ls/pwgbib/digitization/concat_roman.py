@@ -68,7 +68,9 @@ def parse_vol(volcode,venumflag):
   if page and not vol.lines[iline+1].startswith(starts) and (page != vol3page):
    line = line + ' ' + page
    page = None
-  line = line.replace('|','') # remove 'wide-spacing' coding
+  # remove 'wide-spacing' coding {|xxx|} -> xxx
+  line = line.replace('{|','') #
+  line = line.replace('|}','') #
   linenum = iline+1
   lineid = '%s.%03d' % (volcode,linenum)  
   if line.startswith('<H>'):
