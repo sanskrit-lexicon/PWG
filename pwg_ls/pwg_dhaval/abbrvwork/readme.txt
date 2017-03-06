@@ -45,6 +45,8 @@ abbrv4
 match sortedcrefs with pwbib14
 python abbrv4.py abbrvoutput/sortedcrefs.txt ../../pwgbib/digitization/pwgbib14_roman.txt abbrvoutput/matchcrefs.txt
 
+python abbrv4.py abbrvoutput/sortedcrefs.txt pwgbib14_roman.txt abbrvoutput/matchcrefs.txt
+
 
 abbrv.sh
 python abbrv0.py ../../../../pwgxml/pwg.xml abbrvoutput/abbrvlist.txt
