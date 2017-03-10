@@ -4,6 +4,7 @@
 *.pyc
 # temp files
 temp*
-abbrvoutput*
+# Include abbrvoutput per request
+# abbrvoutput*
 old*
 displayprep*
