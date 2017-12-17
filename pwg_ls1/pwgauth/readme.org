@@ -1,0 +1,31 @@
+
+12-14-2017
+The prior version of pwg authorities is in folder pwgauth_version0.
+
+* pwgbib.txt
+We initialize pwgbib.txt from the latest version used in the meta-line
+iast conversion. Namely
+cp correctionwork/cologne-issue-190_work/temp_abbrvwork8/pwgbib14d.txt pwgauth/pwgbib.txt
+
+* bibrec.py
+This module is adapted from code in the above abbrvwork8 directory.
+Specifically, we examine parts of cut_exact1.py 
+
+* pwgbib_input.py
+Writes a file with 3 tab-delimited fields, to be used as input
+to pwgbib.sqlite
+python pwgbib_input.py pwgbib.txt pwgbib_input.txt
+
+* pwgbib.sqlite
+Three fields:
+ id  = cologne id for bibliographic entry
+ code = iast code for entry
+ codecap = capitalized code (first letter capital, rest lower)
+ text = body of text for entry
+
+* redo.sh
+- remake pwgbib_input.txt
+- remake pwgbib.sqlite
+- move pwgbib.sqlite to web/sqlite
+
+
