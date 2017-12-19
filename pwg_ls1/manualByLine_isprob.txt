@@ -1,0 +1,642 @@
+; Case 1
+14725 old @<ls>3, 15, 27.</ls> {#yo 'DikAdyojanAtpaSyatIhAmizaM KagaH#} {%aus einer Entfernung von mehr als 100 Jog4ana's%} 
+14725 new @<ls>3, 15, 27.</ls> {#yo 'DikAdyojanAtpaSyatIhAmizaM KagaH#} {%aus einer Entfernung von mehr als 100 Jog4ana's%} 
+; Case 2
+27644 old @<ls>M.</ls> {%noch%} C2. {%irgend ein Unrecht begangen%} 
+27644 new @<ls>M.</ls> {%noch%} C2. {%irgend ein Unrecht begangen%} 
+; Case 3
+39965 old @<ls>Sch.</ls> pra10krtisch für {#ambla#} .
+39965 new @<ls>Sch.</ls> pra10krtisch für {#ambla#} .
+; Case 4
+44813 old @<ls>SĀY.</ls>) <ls>ṚV. 1, 122, 5.</ls> — ²c) {%Terminalia Arg4una W. u. A.%}, ein starker Baum mit wirksamer Rinde, 
+44813 new @<ls>SĀY.</ls>) <ls>ṚV. 1, 122, 5.</ls> — ²c) {%Terminalia Arg4una W. u. A.%}, ein starker Baum mit wirksamer Rinde, 
+; Case 5
+52010 old @<ls>SĀH. D. 69, 16.</ls> — Pra10kr2tisch aus {#abahiHsTA#} {%das nicht - nach - aussen - Treten.%}
+52010 new @<ls>SĀH. D. 69, 16.</ls> — Pra10kr2tisch aus {#abahiHsTA#} {%das nicht - nach - aussen - Treten.%}
+; Case 6
+56464 old @<ls>MBH. 3, 642</ls> entspräche im <lex>m.</lex> {#sAzwraka#} (von {#sa + azwrA#}). Vgl. {#svazwra#} . — Wohl von 1. {#aS#}, vgl. zend. {%astra10%} und lith. {%akstinas.%}
+56464 new @<ls>MBH. 3, 642</ls> entspräche im <lex>m.</lex> {#sAzwraka#} (von {#sa + azwrA#}). Vgl. {#svazwra#} . — Wohl von 1. {#aS#}, vgl. zend. {%astra10%} und lith. {%akstinas.%}
+; Case 7
+56574 old @<ls>N. 10</ls> zum gan2a {#cAdi#}). {#gOH#} 
+56574 new @<ls>N. 10</ls> zum gan2a {#cAdi#}). {#gOH#} 
+; Case 8
+61636 old @<ls>NAIGH. 1, 3.</ls> m. n. gan2a {#arDarcAdi#} zu 
+61636 new @<ls>NAIGH. 1, 3.</ls> m. n. gan2a {#arDarcAdi#} zu 
+; Case 9
+68166 old {#A/nupaTya#}¦ <lex>adj.</lex> von {#anupaTa#} gan2a {#parimuKAdi#} zu 
+68166 new {#A/nupaTya#}¦ <lex>adj.</lex> von {#anupaTa#} gan2a {#parimuKAdi#} zu 
+; Case 10
+112447 old @<ls>?8, 2, 27. 11, 6, 16. 19, 46, 5. ŚAT. BR. 10, 2, 6, 10. 13, 2, 1, 6. BHĀG. P. 9, 16, 29 (BURNOUF</ls> fäl2schlich: {%ein Hundert%}). {#ekaSataM gavAm#} 
+112447 new @<ls>?8, 2, 27. 11, 6, 16. 19, 46, 5. ŚAT. BR. 10, 2, 6, 10. 13, 2, 1, 6. BHĀG. P. 9, 16, 29 (BURNOUF</ls> fäl2schlich: {%ein Hundert%}). {#ekaSataM gavAm#} 
+; Case 11
+119165 old @<ls>AV. 8, 6, 10.</ls> — ²b) N. eines Baumes, {%Terminalia Arg4una%} ({#arjuna#}) {%W. u. A.%}, 
+119165 new @<ls>AV. 8, 6, 10.</ls> — ²b) N. eines Baumes, {%Terminalia Arg4una%} ({#arjuna#}) {%W. u. A.%}, 
+; Case 12
+121146 old @<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> {#kawolavIRA#} {%die von den K4. gespielte Laute%} 
+121146 new @<ls>UṆĀDIK.</ls> im <ls>ŚKDR.</ls> {#kawolavIRA#} {%die von den K4. gespielte Laute%} 
+; Case 13
+121190 old @<ls>SIDDH. K.234,b,3.</ls> <lex>m.</lex> N. pr. eines Weisen, Schülers von <is>Vaicam5pa10jana</is> und Stifters einer nach ihm benannten Schule des JAG4URVEDA. 
+121190 new @<ls>SIDDH. K.234,b,3.</ls> <lex>m.</lex> N. pr. eines Weisen, Schülers von <is>Vaicam5pa10jana</is> und Stifters einer nach ihm benannten Schule des JAG4URVEDA. 
+; Case 14
+122589 old @<ls>AMAR. 25.</ls> — Vgl. den A2rtikel 1. {#ka#} .
+122589 new @<ls>AMAR. 25.</ls> — Vgl. den A2rtikel 1. {#ka#} .
+; Case 15
+127384 old @(<ls>BURNOUF</ls>: {%qu'une foi entiere avait préparé au désir de connai10tre la vérité%}) 
+127384 new @(<ls>BURNOUF</ls>: {%qu'une foi entiere avait préparé au désir de connai10tre la vérité%}) 
+; Case 16
+129440 old @<ls>H. 1197.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} ({#arjuna; kArtavIrya#} ist das patron. eines {#arjuna#}) 
+129440 new @<ls>H. 1197.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} ({#arjuna; kArtavIrya#} ist das patron. eines {#arjuna#}) 
+; Case 17
+131117 old @<ls>Sch.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%}, 
+131117 new @<ls>Sch.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%}, 
+; Case 18
+149599 old @<ls>?(BERLIc4</ls>, Gramm. der illir. Sprache, 
+149599 new @<ls>?(BERLIc4</ls>, Gramm. der illir. Sprache, 
+; Case 19
+152328 old @<ls>MED.</ls> hat aber t2. 11: {#SAlukI#}, welches als <lex>f.</lex> sonst nicht vorkommt. Vgl. {#kunda, kundu, kunduru, kunduruka#} . — ²e) {%ein best. wohlriechendes Harz%} (s. {#guggulu#}) 
+152328 new @<ls>MED.</ls> hat aber t2. 11: {#SAlukI#}, welches als <lex>f.</lex> sonst nicht vorkommt. Vgl. {#kunda, kundu, kunduru, kunduruka#} . — ²e) {%ein best. wohlriechendes Harz%} (s. {#guggulu#}) 
+; Case 20
+157382 old @<ls>1, 19, 15.</ls> <ls>BURN.</ls> : {%puissé-je être mordu par le faux serpent qu'envoie le Bra10hmane!%} Vgl. {#kuhara#} . — ³4) <lex>n.</lex> {%Gaukelei, Betrügerei%} 
+157382 new @<ls>1, 19, 15.</ls> <ls>BURN.</ls> : {%puissé-je être mordu par le faux serpent qu'envoie le Bra10hmane!%} Vgl. {#kuhara#} . — ³4) <lex>n.</lex> {%Gaukelei, Betrügerei%} 
+; Case 21
+160314 old <lang n="russian">краты</lang>, lit. {%kartu11s, ka11rts, ka11rtu, ka11rta2%} 
+160314 new <lang n="russian">краты</lang>, lit. {%kartu11s, ka11rts, ka11rtu, ka11rta2%} 
+; Case 22
+162157 old @<ls>ŚKDR.</ls> <ls>WILS.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}), 
+162157 new @<ls>ŚKDR.</ls> <ls>WILS.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}), 
+; Case 23
+165341 old @<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%tu brais comme l'a10ne du Kola (Kalinga?%}) 
+165341 new @<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%tu brais comme l'a10ne du Kola (Kalinga?%}) 
+; Case 24
+175711 old @<ls>358, 16.</ls> — ³3) {%umlégen, umwi4nden, umgeben, umlagern, umzingeln, umfangen%}: {#yantraSAwakena parikziptagrIvAsakTam#} 
+175711 new @<ls>358, 16.</ls> — ³3) {%umlégen, umwi4nden, umgeben, umlagern, umzingeln, umfangen%}: {#yantraSAwakena parikziptagrIvAsakTam#} 
+; Case 25
+178201 old @<ls>NIR. 2, 28</ls> (mit der Peitsc2he). 
+178201 new @<ls>NIR. 2, 28</ls> (mit der Peitsc2he). 
+; Case 26
+187248 old @<ls>YAṢT 5, 38. 19, 41.</ls> <ls>SPIEGEL</ls>, Gramm. der Pa10rsisprache 
+187248 new @<ls>YAṢT 5, 38. 19, 41.</ls> <ls>SPIEGEL</ls>, Gramm. der Pa10rsisprache 
+; Case 27
+193289 old @<ls>BHĀG. P. 2, 6, 35.</ls> <ls>BURNOUF</ls> : ({%qui,) semblable au ciel qui ne (!) connait pas ses limites, n'a pu (!) encore atteindre le terme de la puissance de sa Ma10ya10.%}
+193289 new @<ls>BHĀG. P. 2, 6, 35.</ls> <ls>BURNOUF</ls> : ({%qui,) semblable au ciel qui ne (!) connait pas ses limites, n'a pu (!) encore atteindre le terme de la puissance de sa Ma10ya10.%}
+; Case 28
+193888 old @<ls>MBH. 13, 6898.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}), 
+193888 new @<ls>MBH. 13, 6898.</ls> — ³2) N. eines Baumes, {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}), 
+; Case 29
+197754 old @<ls>MB2H. 3, 13365.</ls> {#jugupsita#} <lex>n.</lex> {%eine Abscheu erregende That%} 
+197754 new @<ls>MB2H. 3, 13365.</ls> {#jugupsita#} <lex>n.</lex> {%eine Abscheu erregende That%} 
+; Case 30
+199511 old @<ls>BHĀG. P. 5, 17, 13.</ls> <ls>BURNOUF</ls> : {%l'a10me individuelle en proie au desir.%} — ³2) <lex>f.</lex> {#I#} N. einer Staude, = {#gfDrapatrA#} 
+199511 new @<ls>BHĀG. P. 5, 17, 13.</ls> <ls>BURNOUF</ls> : {%l'a10me individuelle en proie au desir.%} — ³2) <lex>f.</lex> {#I#} N. einer Staude, = {#gfDrapatrA#} 
+; Case 31
+203647 old @<ls>MED.</ls> Diese Bed. kann aus der zweiten hervorgegangen sein, oder aber das Wort in dieser Bed. ist als pra10kritische Entstellung von {#gopendra#} anzusehen. Auch den Namen des Hirtengottes aus {#gopendra#} zu erklären ist keine Veranlassung da. — ³5) N. pr. eines Fürsten 
+203647 new @<ls>MED.</ls> Diese Bed. kann aus der zweiten hervorgegangen sein, oder aber das Wort in dieser Bed. ist als pra10kritische Entstellung von {#gopendra#} anzusehen. Auch den Namen des Hirtengottes aus {#gopendra#} zu erklären ist keine Veranlassung da. — ³5) N. pr. eines Fürsten 
+; Case 32
+204367 old @<ls>LIA. I, 808</ls> und <ls>WILSON, a Gloss. of jud. and rev. terms</ls>, u. {%Gosain%} und {%Goswa4mi.%}
+204367 new @<ls>LIA. I, 808</ls> und <ls>WILSON, a Gloss. of jud. and rev. terms</ls>, u. {%Gosain%} und {%Goswa4mi.%}
+; Case 33
+211830 old {#GfzvirADas#}¦ (1. {#Gfzvi + rADas#}) <lex>adj.</lex> {%laetitia10 gestiens%}, von den <is>Marut</is> 
+211830 new {#GfzvirADas#}¦ (1. {#Gfzvi + rADas#}) <lex>adj.</lex> {%laetitia10 gestiens%}, von den <is>Marut</is> 
+; Case 34
+219099 old @<ls>ŚAT. BR. 3, 8, 2, 24</ls> (die an dieser St. angegebene Abweichung der K4. wird von 
+219099 new @<ls>ŚAT. BR. 3, 8, 2, 24</ls> (die an dieser St. angegebene Abweichung der K4. wird von 
+; Case 35
+221652 old @<ls>HIT. 19, 1.</ls> — Vgl. {#yati°, SiSu°#} . — ³2) <lex>m.</lex> pl. Bez. best. Personen: {#cAndrAyaRa/Bakta#} <lex>n.</lex> {%die von den K4. bewohnte Gegend%} <is>gan2a</is> {#EzukArAdi#} zu 
+221652 new @<ls>HIT. 19, 1.</ls> — Vgl. {#yati°, SiSu°#} . — ³2) <lex>m.</lex> pl. Bez. best. Personen: {#cAndrAyaRa/Bakta#} <lex>n.</lex> {%die von den K4. bewohnte Gegend%} <is>gan2a</is> {#EzukArAdi#} zu 
+; Case 36
+222230 old {#cArugIti#}¦ ({#cAru + gIti#}) <lex>f.</lex> {%ein best. Metrum, eine Abart der Gi10ti, 29 + 32 Moren%} 
+222230 new {#cArugIti#}¦ ({#cAru + gIti#}) <lex>f.</lex> {%ein best. Metrum, eine Abart der Gi10ti, 29 + 32 Moren%} 
+; Case 37
+224812 old @<ls>H. ś. 137.</ls> — ²b) als Bein. <is>Arg4una's</is> Bez. der {%Terminalia Arg4una%} (s. {#arjuna#}) {%W. u. A.%} 
+224812 new @<ls>H. ś. 137.</ls> — ²b) als Bein. <is>Arg4una's</is> Bez. der {%Terminalia Arg4una%} (s. {#arjuna#}) {%W. u. A.%} 
+; Case 38
+225016 old @<ls>RĀJA-TAR. 1, 55.</ls> {#citraSiKaRqija#} <lex>m.</lex> {%der Sohn der%} K4. (eig. des <is>An5giras</is>), Bein. <is>Br2haspati's</is> ({%des Planeten Jupiter%}) 
+225016 new @<ls>RĀJA-TAR. 1, 55.</ls> {#citraSiKaRqija#} <lex>m.</lex> {%der Sohn der%} K4. (eig. des <is>An5giras</is>), Bein. <is>Br2haspati's</is> ({%des Planeten Jupiter%}) 
+; Case 39
+232174 old @<ls>BHĀG. P. 3, 10, 12</ls> (<ls>BURN.</ls>: {%apparai10t a10 l'existence avec ses divisions, par la volonté de l'Être suprême%}). {#paricCinna#} {%begrenzt, beschränkt%}: {#paricCinnaM na sarvopAdAnam#} 
+232174 new @<ls>BHĀG. P. 3, 10, 12</ls> (<ls>BURN.</ls>: {%apparai10t a10 l'existence avec ses divisions, par la volonté de l'Être suprême%}). {#paricCinna#} {%begrenzt, beschränkt%}: {#paricCinnaM na sarvopAdAnam#} 
+; Case 40
+234835 old @<ls>LALIT. ed. Calc. 2, 4.</ls> <ls>RĀJ.</ls> : {%perfect in the virtues of pa10ramita10%}, 
+234835 new @<ls>LALIT. ed. Calc. 2, 4.</ls> <ls>RĀJ.</ls> : {%perfect in the virtues of pa10ramita10%}, 
+; Case 41
+235180 old {#janakakARa#}¦ ({#ja° + kARa#}) <lex>m.</lex> {%der einäugige%} G4., N. pr. eines Mannes 
+235180 new {#janakakARa#}¦ ({#ja° + kARa#}) <lex>m.</lex> {%der einäugige%} G4., N. pr. eines Mannes 
+; Case 42
+237150 old {#jayakzetra#}¦ ({#jaya + kzetra#}) <lex>n.</lex> N. pr. einer Locali10tät 
+237150 new {#jayakzetra#}¦ ({#jaya + kzetra#}) <lex>n.</lex> N. pr. einer Locali10tät 
+; Case 43
+237737 old {%verdaut%} Med. n2. 
+237737 new {%verdaut%} Med. n2. 
+; Case 44
+240838 old @<ls>AK.</ls> von Pu10na liest: {#JAwali#} und sagt: {#kiMSukavfkzasadfSaH . moKA iti prasidDaH .#}
+240838 new @<ls>AK.</ls> von Pu10na liest: {#JAwali#} und sagt: {#kiMSukavfkzasadfSaH . moKA iti prasidDaH .#}
+; Case 45
+256113 old @<ls>H. an.</ls> — ²f) {%Norm, Richtschnur%}: {#dvo dEve prAktrayaH pitrya udagekEkameva vA . mAtAmahAnAmapyevaM tantraM vA vESvadevikam ..#} (St.: {%oder die Zahl, welche bei dem C2raddha für alle Götter gebräuchlich ist%}) 
+256113 new @<ls>H. an.</ls> — ²f) {%Norm, Richtschnur%}: {#dvo dEve prAktrayaH pitrya udagekEkameva vA . mAtAmahAnAmapyevaM tantraM vA vESvadevikam ..#} (St.: {%oder die Zahl, welche bei dem C2raddha für alle Götter gebräuchlich ist%}) 
+; Case 46
+261469 old @<ls>MOLESW.</ls> {%Bambusmanna%} d. i. {%Taba10schi10r%} (vgl. 
+261469 new @<ls>MOLESW.</ls> {%Bambusmanna%} d. i. {%Taba10schi10r%} (vgl. 
+; Case 47
+272440 old @<ls>BURN.</ls> übersetzt: {%qui ne pense qu'a4 soutenir son existence%}, hat also das Wort in {#asu + tfp#} zerlegt.
+272440 new @<ls>BURN.</ls> übersetzt: {%qui ne pense qu'a4 soutenir son existence%}, hat also das Wort in {#asu + tfp#} zerlegt.
+; Case 48
+280420 old {#tvakkzIrA#}¦ ({#tvac + kzIra#}) <lex>f.</lex> {%Taba10schi10r%} (s. {#tavakzIra#}) 
+280420 new {#tvakkzIrA#}¦ ({#tvac + kzIra#}) <lex>f.</lex> {%Taba10schi10r%} (s. {#tavakzIra#}) 
+; Case 49
+280546 old {#tvagAkzIrI#}¦ <lex>f.</lex> = {#tugAkzIrI, tvakkzIrI#} {%Taba10schi10r%} 
+280546 new {#tvagAkzIrI#}¦ <lex>f.</lex> = {#tugAkzIrI, tvakkzIrI#} {%Taba10schi10r%} 
+; Case 50
+281309 old @<ls>VOP. 8, 133.</ls> Aus dem <is>Veda</is> folgende Formen zu belegen: {#titvize/, titvizARa/; atvizus, atvizanta, atitvizanta; tvizita/#}; erhält keinen Bindevocal {#i#} Ka10r. 6 aus 
+281309 new @<ls>VOP. 8, 133.</ls> Aus dem <is>Veda</is> folgende Formen zu belegen: {#titvize/, titvizARa/; atvizus, atvizanta, atitvizanta; tvizita/#}; erhält keinen Bindevocal {#i#} Ka10r. 6 aus 
+; Case 51
+282460 old @<ls>HARIV. 12390</ls> als archai7stische Form anzusehen. ³1) <lex>adj.</lex> <lex>f.</lex> {#A#} ²a) {%tüchtig, geschickt%} (vgl. {#dakza#}) 
+282460 new @<ls>HARIV. 12390</ls> als archai7stische Form anzusehen. ³1) <lex>adj.</lex> <lex>f.</lex> {#A#} ²a) {%tüchtig, geschickt%} (vgl. {#dakza#}) 
+; Case 52
+282522 old @<ls>SVĀMIN</ls> zu <ls>VP.</ls> <ls>ŚKDR.</ls> Als Beiw. von <is>C2iva</is> C2iv. — ²e) {#dakziRa AmnAyaH#} {%der südliche heilige Text%}, neben {#pUrva, paScima, uttara#} und {#UrDvAmnAya#}, Bezeichnung eines der heiligen Texte der <is>Ta10ntrika</is> 
+282522 new @<ls>SVĀMIN</ls> zu <ls>VP.</ls> <ls>ŚKDR.</ls> Als Beiw. von <is>C2iva</is> C2iv. — ²e) {#dakziRa AmnAyaH#} {%der südliche heilige Text%}, neben {#pUrva, paScima, uttara#} und {#UrDvAmnAya#}, Bezeichnung eines der heiligen Texte der <is>Ta10ntrika</is> 
+; Case 53
+287889 old @<ls>26, 7, 58.</ls> <ls>LĀṬY. 6, 1, 4. 11. 14. 9, 6, 19.</ls> {#SAstradarSanAt#} {%nach der Art, wie in den C2. davon gesprochen wird, den heiligen Vorschriften gemäss%} 
+287889 new @<ls>26, 7, 58.</ls> <ls>LĀṬY. 6, 1, 4. 11. 14. 9, 6, 19.</ls> {#SAstradarSanAt#} {%nach der Art, wie in den C2. davon gesprochen wird, den heiligen Vorschriften gemäss%} 
+; Case 54
+288400 old @<ls>UṆĀDIS. 3, 142.</ls> Acc. eines auf {#dalapa#} auslaut. <is>Tatpur</is>. gan2a {#cUrRAdi#} zu 
+288400 new @<ls>UṆĀDIS. 3, 142.</ls> Acc. eines auf {#dalapa#} auslaut. <is>Tatpur</is>. gan2a {#cUrRAdi#} zu 
+; Case 55
+290412 old @<ls>UJJVAL.</ls> <lex>m.</lex> {%Waldbrand%}; nach Un2., Sch. {%Feuer.%}
+290412 new @<ls>UJJVAL.</ls> <lex>m.</lex> {%Waldbrand%}; nach Un2., Sch. {%Feuer.%}
+; Case 56
+294962 old @<ls>LASSEN</ls> in <ls>Z. f. d. K. d. M. I, 347. fgg.</ls> Eine polemische Schrift des Veda10ntisten <is>C2am5kara10k4a10rja</is> gegen die anderen Systeme führt nach 
+294962 new @<ls>LASSEN</ls> in <ls>Z. f. d. K. d. M. I, 347. fgg.</ls> Eine polemische Schrift des Veda10ntisten <is>C2am5kara10k4a10rja</is> gegen die anderen Systeme führt nach 
+; Case 57
+313492 old @<ls>YĀJÑ. 1, 282.</ls> {#yatte SIrzRo dOrBAgyam#} ({%Uebelbefinden?%}) ved. C2it. beim Schol. zu 
+313492 new @<ls>YĀJÑ. 1, 282.</ls> {#yatte SIrzRo dOrBAgyam#} ({%Uebelbefinden?%}) ved. C2it. beim Schol. zu 
+; Case 58
+321128 old @<ls>4, 1380.</ls> <ls>HARIV. 1828. 1933.</ls> — ²f) (als Syn. von <is>Arg4una</is>) {%Terminalia Arg4una W. u. A.%} 
+321128 new @<ls>4, 1380.</ls> <ls>HARIV. 1828. 1933.</ls> — ²f) (als Syn. von <is>Arg4una</is>) {%Terminalia Arg4una W. u. A.%} 
+; Case 59
+322275 old @<ls>Verz. d. B. H. No. 311.</ls> — ³6) <lex>m.</lex> N. verschiedener Pflanzen: ²a) (als Bein. <is>Arg4una's</is>) {%Terminalia Arg4una W. u. A.%} 
+322275 new @<ls>Verz. d. B. H. No. 311.</ls> — ³6) <lex>m.</lex> N. verschiedener Pflanzen: ²a) (als Bein. <is>Arg4una's</is>) {%Terminalia Arg4una W. u. A.%} 
+; Case 60
+326543 old -<P>- {#upasamA#} {%hinzulegen%} (Holz zum F4euer) 
+326543 new -<P>- {#upasamA#} {%hinzulegen%} (Holz zum F4euer) 
+; Case 61
+327865 old @<ls>VYUTP. 82</ls>) {%die Region der Lust, der Form und der Abwesenheit der Form%} aufgeführt; und schliesslich {#niroDa°, saMskAra°#} und {#nirvARa°#} (in's Sanskrit aus dem Pa10li übersetzt). 
+327865 new @<ls>VYUTP. 82</ls>) {%die Region der Lust, der Form und der Abwesenheit der Form%} aufgeführt; und schliesslich {#niroDa°, saMskAra°#} und {#nirvARa°#} (in's Sanskrit aus dem Pa10li übersetzt). 
+; Case 62
+333279 old @<ls>HARIV.</ls> <ls>LANGL. I, 157</ls> (die C2alc. Ausg. {#DfzRokta#}).
+333279 new @<ls>HARIV.</ls> <ls>LANGL. I, 157</ls> (die C2alc. Ausg. {#DfzRokta#}).
+; Case 63
+337873 old @<ls>MBH. 4, 1294. 5, 78. 5035.</ls> — ²b) N. verschiedener Pflanzen: {%Terminalia Arg4una W. u. A.%} (vgl. {#arjuna#} und {#nadIsarja#}) 
+337873 new @<ls>MBH. 4, 1294. 5, 78. 5035.</ls> — ²b) N. verschiedener Pflanzen: {%Terminalia Arg4una W. u. A.%} (vgl. {#arjuna#} und {#nadIsarja#}) 
+; Case 64
+337995 old {#nadIsarja#}¦ ({#na° + sarja#}) <lex>m.</lex> {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}) 
+337995 new {#nadIsarja#}¦ ({#na° + sarja#}) <lex>m.</lex> {%Terminalia Arg4una W. u. A.%} (s. {#arjuna#}) 
+; Case 65
+339732 old @<ls>P. 5, 2, 106.</ls> {#unnatadata AlaBate#} ved. C2it. beim 
+339732 new @<ls>P. 5, 2, 106.</ls> {#unnatadata AlaBate#} ved. C2it. beim 
+; Case 66
+339861 old @(<ls>BURNOUF</ls>: {%qui ne savent pas l'un donner, l'autre accepter ce qui, d'apres la loi et la monde, doit être offert ou rec2u%}) 
+339861 new @(<ls>BURNOUF</ls>: {%qui ne savent pas l'un donner, l'autre accepter ce qui, d'apres la loi et la monde, doit être offert ou rec2u%}) 
+; Case 67
+346699 old @<ls>HARIV. 3436.</ls> {#candrasaronAmako#} (so ist zu verbinden) {#hradaH#} {%den Namen%} K4. {%führend%} 
+346699 new @<ls>HARIV. 3436.</ls> {#candrasaronAmako#} (so ist zu verbinden) {#hradaH#} {%den Namen%} K4. {%führend%} 
+; Case 68
+348384 old @<ls>?2,c und3,b.</ls>
+348384 new @<ls>?2,c und3,b.</ls>
+; Case 69
+348557 old {#nAhala#}¦ <lex>m.</lex> pl. N. pr. eines nicht-a10rischen Volkes ({#mlecCa#}) 
+348557 new {#nAhala#}¦ <lex>m.</lex> pl. N. pr. eines nicht-a10rischen Volkes ({#mlecCa#}) 
+; Case 70
+357995 old @<ls>AIT. BR. 5, 25</ls>; nach dem BRA10HMAN2A so v. a. {%nicht ruhend%}: {#anilayA tadvAyurnahyeza kadAcana nilayati#} ebend. — ³2) {%Versteck der Thiere, Wohnstätte, Residenz, Aufenthaltsort%} 
+357995 new @<ls>AIT. BR. 5, 25</ls>; nach dem BRA10HMAN2A so v. a. {%nicht ruhend%}: {#anilayA tadvAyurnahyeza kadAcana nilayati#} ebend. — ³2) {%Versteck der Thiere, Wohnstätte, Residenz, Aufenthaltsort%} 
+; Case 71
+358861 old @<ls>KUMĀRAS. 7, 7.</ls> {%Du10rvae culminibus, flavo sinapi mixtis%} 
+358861 new @<ls>KUMĀRAS. 7, 7.</ls> {%Du10rvae culminibus, flavo sinapi mixtis%} 
+; Case 72
+365569 old {#nIlAmlAna#}¦ ({#nIla + amlAna#}) <lex>m.</lex> {%eine best. Pflanze%} (im Hindi10 {#kAlAkorAWA), = dAsI, CAdana#} 
+365569 new {#nIlAmlAna#}¦ ({#nIla + amlAna#}) <lex>m.</lex> {%eine best. Pflanze%} (im Hindi10 {#kAlAkorAWA), = dAsI, CAdana#} 
+; Case 73
+368025 old @<ls>WILSON</ls> hat noch die Bed. {%a sacred place, as Mathura10%}; diese beruht allem Anschein nach auf einem Missverständniss, indem es im 
+368025 new @<ls>WILSON</ls> hat noch die Bed. {%a sacred place, as Mathura10%}; diese beruht allem Anschein nach auf einem Missverständniss, indem es im 
+; Case 74
+372746 old @<ls>VOP. 6, 85.</ls> ²a) {%das Fünfstromland, das Pendsha10b%} 
+372746 new @<ls>VOP. 6, 85.</ls> ²a) {%das Fünfstromland, das Pendsha10b%} 
+; Case 75
+377804 old {#pattrala/#}¦ von {#pattra#} gan2a {#siDmAdi#} zu 
+377804 new {#pattrala/#}¦ von {#pattra#} gan2a {#siDmAdi#} zu 
+; Case 76
+382196 old @<ls>P. 4, 2, 82</ls> hat {#pampA#} auch eine Bed2eutung, die ergentlich einem Derivat davon zukäme.
+382196 new @<ls>P. 4, 2, 82</ls> hat {#pampA#} auch eine Bed2eutung, die ergentlich einem Derivat davon zukäme.
+; Case 77
+385490 old @<ls>BHĀG. P. 4, 11, 10.</ls> <ls>BURNOUF</ls> übersetzt: {%que ce massacre d'êtres vivants par d'autres êtres qui, comme les animaux, prennent le corps pour l'a10me%} (vgl. u. 2. {#parAtman#} 2.); genauer wohl: {%die da annehmen, dass die Seele vergehe.%} {#parAk#} als entschiedenes adv. 
+385490 new @<ls>BHĀG. P. 4, 11, 10.</ls> <ls>BURNOUF</ls> übersetzt: {%que ce massacre d'êtres vivants par d'autres êtres qui, comme les animaux, prennent le corps pour l'a10me%} (vgl. u. 2. {#parAtman#} 2.); genauer wohl: {%die da annehmen, dass die Seele vergehe.%} {#parAk#} als entschiedenes adv. 
+; Case 78
+397966 old @<ls>ĀPASTAMBA</ls> : <is>Aupa10sanahoma</is>, <is>Vaic2vadeva</is>, <is>Pa10rvan2a</is>, <is>Asht2aka10</is>, <is>C2ra10ddha</is>, <is>Sarpabali</is>, <is>I10c2a10nabali</is>; nach BAUDHA10JANA: <is>Huta</is>, <is>Prahuta</is>, <is>A10huta</is>, <is>C2u10lagava</is>, <is>Baliharan2a</is>, <is>Pratjavarohan2a</is>, <is>Asht2aka10homa</is>, Comm. zu 
+397966 new @<ls>ĀPASTAMBA</ls> : <is>Aupa10sanahoma</is>, <is>Vaic2vadeva</is>, <is>Pa10rvan2a</is>, <is>Asht2aka10</is>, <is>C2ra10ddha</is>, <is>Sarpabali</is>, <is>I10c2a10nabali</is>; nach BAUDHA10JANA: <is>Huta</is>, <is>Prahuta</is>, <is>A10huta</is>, <is>C2u10lagava</is>, <is>Baliharan2a</is>, <is>Pratjavarohan2a</is>, <is>Asht2aka10homa</is>, Comm. zu 
+; Case 79
+398616 old {#pAYcAleya#}¦ (von {#paYcAla#}) <lex>adj.</lex> {%pan4k4a10lisch%}, <lex>m.</lex> {%ein Fürst der%} <is>Pan4k4a10la</is> 
+398616 new {#pAYcAleya#}¦ (von {#paYcAla#}) <lex>adj.</lex> {%pan4k4a10lisch%}, <lex>m.</lex> {%ein Fürst der%} <is>Pan4k4a10la</is> 
+; Case 80
+403182 old @<ls>2834.</ls> {#vrata°#} {%das Beschliessen des Gelübdes der Fasten, Fastenbrechen, der erste Genuss von Speise nach vorangegangenen Fasten, breakfast, déjeu10ner, Frühmahl%} 
+403182 new @<ls>2834.</ls> {#vrata°#} {%das Beschliessen des Gelübdes der Fasten, Fastenbrechen, der erste Genuss von Speise nach vorangegangenen Fasten, breakfast, déjeu10ner, Frühmahl%} 
+; Case 81
+404501 old {#pAreviSoka#}¦ ({#pAre + vi°#}) N. pr. einer Localität: {#°viSoke#} (die Calc. Ausg. wohl richtiger: {#°viSokaM#} {%jenseits%} <ab n="?">VIC2.</ab>) 
+404501 new {#pAreviSoka#}¦ ({#pAre + vi°#}) N. pr. einer Localität: {#°viSoke#} (die Calc. Ausg. wohl richtiger: {#°viSokaM#} {%jenseits%} <ab n="?">VIC2.</ab>) 
+; Case 82
+404587 old @<ls>7, 85. 108. 109.</ls> — ³3) (als N. <is>Arg4una's</is>) {%Terminalia Arg4una W. u. A.%} 
+404587 new @<ls>7, 85. 108. 109.</ls> — ³3) (als N. <is>Arg4una's</is>) {%Terminalia Arg4una W. u. A.%} 
+; Case 83
+405914 old @<ls>TROYER</ls> {%une quantité de fruits de Coua10ver.%}
+405914 new @<ls>TROYER</ls> {%une quantité de fruits de Coua10ver.%}
+; Case 84
+408205 old {#piRqIKaRqa#}¦ ({#pi° + Ka°#}) {%ein Wäldchen von Tabernaemontana coronaria (Ac2oka%} 
+408205 new {#piRqIKaRqa#}¦ ({#pi° + Ka°#}) {%ein Wäldchen von Tabernaemontana coronaria (Ac2oka%} 
+; Case 85
+410198 old @<ls>KATHĀS. 45, 368</ls> (wo bha10vic2reyah2-prathama-pic2unair zu lesen ist). 
+410198 new @<ls>KATHĀS. 45, 368</ls> (wo bha10vic2reyah2-prathama-pic2unair zu lesen ist). 
+; Case 86
+412995 old @<ls>RĀJA-TAR. 4, 500.</ls> — ³2) <lex>m.</lex> pl. N. pr. eines Volkes und des von ihm bewohnten Landes ({%das Land des Zuckerrohrs%}; vgl. {#gOqa)#}, das heutige Bengalen und Biha10r, 
+412995 new @<ls>RĀJA-TAR. 4, 500.</ls> — ³2) <lex>m.</lex> pl. N. pr. eines Volkes und des von ihm bewohnten Landes ({%das Land des Zuckerrohrs%}; vgl. {#gOqa)#}, das heutige Bengalen und Biha10r, 
+; Case 87
+426901 old {#pESAca/#}¦ ³1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%pic2a10k4isch%}: {#vivAha#} 
+426901 new {#pESAca/#}¦ ³1) <lex>adj.</lex> <lex>f.</lex> {#I#} {%pic2a10k4isch%}: {#vivAha#} 
+; Case 88
+429793 old @<ls>ŚĀK. 1.</ls> {#(pESAcyAH) prakftiH SOrasenI#} {%dem%} P. {%liegt das%} C2. {%zu Grunde, das%} 
+429793 new @<ls>ŚĀK. 1.</ls> {#(pESAcyAH) prakftiH SOrasenI#} {%dem%} P. {%liegt das%} C2. {%zu Grunde, das%} 
+; Case 89
+429794 old @<ls>P.</ls> {%wird vom%} C2. {%abgeleitet%} 
+429794 new @<ls>P.</ls> {%wird vom%} C2. {%abgeleitet%} 
+; Case 90
+439225 old @<ls>Spr. 2020.</ls> {#°bfhatI#} {%eine unmittelbare, nicht erst zusammengesetzte%} <ab n="?">Br2.</ab> 
+439225 new @<ls>Spr. 2020.</ls> {#°bfhatI#} {%eine unmittelbare, nicht erst zusammengesetzte%} <ab n="?">Br2.</ab> 
+; Case 91
+439544 old {#pratyaNgirasa#}¦ (wie eben) <lex>m.</lex> N. pr. einer mythischen Person, die als Vater von gewissen R2K4 angesehen wird: {#pratyaNgirasajAH SrezWA fco brahmarzisatkftAH#} 
+439544 new {#pratyaNgirasa#}¦ (wie eben) <lex>m.</lex> N. pr. einer mythischen Person, die als Vater von gewissen R2K4 angesehen wird: {#pratyaNgirasajAH SrezWA fco brahmarzisatkftAH#} 
+; Case 92
+452416 old {#prAkftakAmaDenu#}¦ ({#prA° + kA°#}) <lex>f.</lex> Titel einer {%Pra10krit%}- Grammatik 
+452416 new {#prAkftakAmaDenu#}¦ ({#prA° + kA°#}) <lex>f.</lex> Titel einer {%Pra10krit%}- Grammatik 
+; Case 93
+452421 old {#prAkftacandrikA#}¦ ({#prA° + ca°#}) <lex>f.</lex> Titel der {%Pra10krit%}- Grammatik des <is>Vararuk4i</is>, die auch {#prAkftaprakASa#} heisst, 
+452421 new {#prAkftacandrikA#}¦ ({#prA° + ca°#}) <lex>f.</lex> Titel der {%Pra10krit%}- Grammatik des <is>Vararuk4i</is>, die auch {#prAkftaprakASa#} heisst, 
+; Case 94
+452436 old {#prAkftapAda#}¦ ({#prA° + pAda#}) <lex>m.</lex> Titel einer {%Pra10krit%}-Grammatik von <is>Na10ra10jan2a</is> 
+452436 new {#prAkftapAda#}¦ ({#prA° + pAda#}) <lex>m.</lex> Titel einer {%Pra10krit%}-Grammatik von <is>Na10ra10jan2a</is> 
+; Case 95
+452441 old {#prAkftapiNgala#}¦ ({#prA° + pi°#}) <is>Pin5gala's</is> Schrift über die {%Pra10krit-Metra%} 
+452441 new {#prAkftapiNgala#}¦ ({#prA° + pi°#}) <is>Pin5gala's</is> Schrift über die {%Pra10krit-Metra%} 
+; Case 96
+452446 old {#prAkftaprakASa#}¦ ({#prA° + pra°#}) <lex>m.</lex> Titel von <is>Vararuk4i's</is> {%Pra10krit%}-Grammatik, vollständig herausgegeben von <is>Cowell</is>. 
+452446 new {#prAkftaprakASa#}¦ ({#prA° + pra°#}) <lex>m.</lex> Titel von <is>Vararuk4i's</is> {%Pra10krit%}-Grammatik, vollständig herausgegeben von <is>Cowell</is>. 
+; Case 97
+452456 old {#prAkftalaNkeSvara#}¦ ({#prA° + la°#}) Titel einer {%Pra10krit%}-Grammatik 
+452456 new {#prAkftalaNkeSvara#}¦ ({#prA° + la°#}) Titel einer {%Pra10krit%}-Grammatik 
+; Case 98
+452461 old {#prAkftaSAsana#}¦ ({#prA° + SA°#}) <lex>n.</lex> {%Lehrbuch der Pra10krit-Sprache%} 
+452461 new {#prAkftaSAsana#}¦ ({#prA° + SA°#}) <lex>n.</lex> {%Lehrbuch der Pra10krit-Sprache%} 
+; Case 99
+456024 old @<ls>ṚV. PRĀT. 16, 42. 17, 16. 18, 4. 5.</ls> Häufig am Ende eines <lex>adj.</lex> comp. (f. {#A): Arya° (deSa)#} {%zum grössten Theil aus%} <is>A10rja</is> {%bestehend, wo die%} A4. {%vorwalten%} 
+456024 new @<ls>ṚV. PRĀT. 16, 42. 17, 16. 18, 4. 5.</ls> Häufig am Ende eines <lex>adj.</lex> comp. (f. {#A): Arya° (deSa)#} {%zum grössten Theil aus%} <is>A10rja</is> {%bestehend, wo die%} A4. {%vorwalten%} 
+; Case 100
+456242 old {#prAyaScittenduSeKara#}¦ (1. {#pra° + indu - Se°#}) Titel eines Compendiums über {%Sühnungen%} von <is>Ka10c2inatha</is> (lithogr. Bombay, C2aka 
+456242 new {#prAyaScittenduSeKara#}¦ (1. {#pra° + indu - Se°#}) Titel eines Compendiums über {%Sühnungen%} von <is>Ka10c2inatha</is> (lithogr. Bombay, C2aka 
+; Case 101
+463576 old @<ls>WILSON</ls> und <ls>ŚKDR.</ls> nach <ls>MED.</ls>; die gedr. Ausg. (d2. 
+463576 new @<ls>WILSON</ls> und <ls>ŚKDR.</ls> nach <ls>MED.</ls>; die gedr. Ausg. (d2. 
+; Case 102
+477013 old @<ls>UJJVAL.</ls> erwähnt gar keine Bed. Nach H. c2. 80 ist {#boDi#} auch eine Bez. <is>Buddha's</is>; nach 
+477013 new @<ls>UJJVAL.</ls> erwähnt gar keine Bed. Nach H. c2. 80 ist {#boDi#} auch eine Bez. <is>Buddha's</is>; nach 
+; Case 103
+480262 old {#brAhmaRya#}¦ (von {#brAhmaRa)#} ³1) <lex>adj.</lex> {%für Bra10hmanen sich eignend%} 
+480262 new {#brAhmaRya#}¦ (von {#brAhmaRa)#} ³1) <lex>adj.</lex> {%für Bra10hmanen sich eignend%} 
+; Case 104
+483431 old {#BawwinI#}¦ (pra10kritisch das entsprechende <lex>f.</lex> zu {#Bartar#}, bei dessen Bildung man vielleicht auch {#patnI#} vor Augen gehabt hat) <lex>f.</lex> {%hohe Frau.%} ungeweihte Gemahlinnen eines Fürsten und Brahmanenfrauen bezeichnend, 
+483431 new {#BawwinI#}¦ (pra10kritisch das entsprechende <lex>f.</lex> zu {#Bartar#}, bei dessen Bildung man vielleicht auch {#patnI#} vor Augen gehabt hat) <lex>f.</lex> {%hohe Frau.%} ungeweihte Gemahlinnen eines Fürsten und Brahmanenfrauen bezeichnend, 
+; Case 105
+486286 old @<ls>?(ŚṚṄGĀRA-Ś., NĪTI-Ś.</ls> und <is>Vaira10gja</is>-C2.), grammatischer <is>Ka10rika10</is>, des <is>Va10kjapadi10ja</is> und von Einigen auch des <is>Bhat2t2ika10vja</is> zugeschrieben wird, 
+486286 new @<ls>?(ŚṚṄGĀRA-Ś., NĪTI-Ś.</ls> und <is>Vaira10gja</is>-C2.), grammatischer <is>Ka10rika10</is>, des <is>Va10kjapadi10ja</is> und von Einigen auch des <is>Bhat2t2ika10vja</is> zugeschrieben wird, 
+; Case 106
+494244 old @<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <ls>VAIDYAKA</ls> im <ls>ŚKDR.</ls> Es ist nicht unwahrscheinlich, dass {#BImaraTI#} in dieser Bed. für {#BImarAtrI#} (im Pra10krit
+494244 new @<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <ls>VAIDYAKA</ls> im <ls>ŚKDR.</ls> Es ist nicht unwahrscheinlich, dass {#BImaraTI#} in dieser Bed. für {#BImarAtrI#} (im Pra10krit
+; Case 107
+502870 old @<ls>MBH. 1, 8084.</ls> {#sarvakzIrAnna° (sarvakzIrARi#} ed. C2alc.) 
+502870 new @<ls>MBH. 1, 8084.</ls> {#sarvakzIrAnna° (sarvakzIrARi#} ed. C2alc.) 
+; Case 108
+508996 old {#maRidvIpa#}¦ {#(ma° + dvIpa)#} <lex>m.</lex> ³1) {%Juweleninsel%}, Bez. einer mythischen Insel im Nek4tarmeere 
+508996 new {#maRidvIpa#}¦ {#(ma° + dvIpa)#} <lex>m.</lex> ³1) {%Juweleninsel%}, Bez. einer mythischen Insel im Nek4tarmeere 
+; Case 109
+512590 old @<ls>COLEBR. Misc. Ess. II, 160</ls> <ls>(VI, 22</ls>, wo zu lesen ist: <ab n="?">SD2TS</ab>.)
+512590 new @<ls>COLEBR. Misc. Ess. II, 160</ls> <ls>(VI, 22</ls>, wo zu lesen ist: <ab n="?">SD2TS</ab>.)
+; Case 110
+515682 old {#maDyamAtreya#}¦ <lex>m.</lex> {%der mittlere%} {#(maDyama)#} <is>A10treja</is> (Gesetzgeber), {%der%} A10. {%von mittlerem Umfange%} 
+515682 new {#maDyamAtreya#}¦ <lex>m.</lex> {%der mittlere%} {#(maDyama)#} <is>A10treja</is> (Gesetzgeber), {%der%} A10. {%von mittlerem Umfange%} 
+; Case 111
+520457 old @<ls>MUIR, ST. 1, 187. 2, 429.</ls> <ls>LIA. I, Anh. XLVII.</ls> = {#viyadgaNgA#} {%Gan5ga10 des Luftraums%} und {#svarRadI#} {%Himmelsfluss%} 
+520457 new @<ls>MUIR, ST. 1, 187. 2, 429.</ls> <ls>LIA. I, Anh. XLVII.</ls> = {#viyadgaNgA#} {%Gan5ga10 des Luftraums%} und {#svarRadI#} {%Himmelsfluss%} 
+; Case 112
+527997 old @<ls>HIOUEN-THSANG1,255.2,79.</ls> <ls>Lot. de la b. l. 502. fgg.</ls> <ls>Verz. d. Oxf. H. 338,b,39. 339,a,32.b,1 v. u.</ls>
+527997 new @<ls>HIOUEN-THSANG1,255.2,79.</ls> <ls>Lot. de la b. l. 502. fgg.</ls> <ls>Verz. d. Oxf. H. 338,b,39. 339,a,32.b,1 v. u.</ls>
+; Case 113
+528170 old {#mahAjyotizmatI#}¦ {#(ma° + jyo°)#} <lex>f.</lex> {%eine best. Pflanze%} (=  {#vaqImAlakaNgunI#} im Hindi10) 
+528170 new {#mahAjyotizmatI#}¦ {#(ma° + jyo°)#} <lex>f.</lex> {%eine best. Pflanze%} (=  {#vaqImAlakaNgunI#} im Hindi10) 
+; Case 114
+528551 old @<ls>Ind. St.1,80. 470.</ls> <ls>Verz. d. B. H. No. 141. 969. 1173. 1218. fg.</ls> <ls>Verz. d. Oxf. H. 124,b,2. 141,b,9. 239,b, No. 580. 244,b, No. 608. fg. 336,a, No. 790. 364,b, No. 68.</ls> <ls>HALL 66. 87. 182.</ls> <ls>HIOUEN-THSANG1,171. 397.</ls> <ls>WASSILJEW 18. 30. 57. fg. 224. 228.</ls> {#dIkzita°#} 
+528551 new @<ls>Ind. St.1,80. 470.</ls> <ls>Verz. d. B. H. No. 141. 969. 1173. 1218. fg.</ls> <ls>Verz. d. Oxf. H. 124,b,2. 141,b,9. 239,b, No. 580. 244,b, No. 608. fg. 336,a, No. 790. 364,b, No. 68.</ls> <ls>HALL 66. 87. 182.</ls> <ls>HIOUEN-THSANG1,171. 397.</ls> <ls>WASSILJEW 18. 30. 57. fg. 224. 228.</ls> {#dIkzita°#} 
+; Case 115
+529395 old {#mahApArevata#}¦ {#(ma° + pA°)#} <lex>n.</lex> {%ein best. Fruchtbaum%}, = {#bfhatpArevata, svarRapArevata#}, im Hindi10 {#vaqApArevata#}, 
+529395 new {#mahApArevata#}¦ {#(ma° + pA°)#} <lex>n.</lex> {%ein best. Fruchtbaum%}, = {#bfhatpArevata, svarRapArevata#}, im Hindi10 {#vaqApArevata#}, 
+; Case 116
+529428 old {#mahApiRqItaru#}¦ <lex>m.</lex> = {#piRqItaru#} {%ein best. Baum%}, = {#peqirA#} im Hindi10, 
+529428 new {#mahApiRqItaru#}¦ <lex>m.</lex> = {#piRqItaru#} {%ein best. Baum%}, = {#peqirA#} im Hindi10, 
+; Case 117
+529631 old @<ls>HALĀY. 1, 117.</ls> — ³2) Titel einer Schrift (in Hindi10) 
+529631 new @<ls>HALĀY. 1, 117.</ls> — ³2) Titel einer Schrift (in Hindi10) 
+; Case 118
+532500 old {#mahAsamaNgA#}¦ {#(ma° + sa°)#} <lex>m.</lex> {%eine best. Pflanze%} ({#kagahiyA#} im Hindi10) 
+532500 new {#mahAsamaNgA#}¦ {#(ma° + sa°)#} <lex>m.</lex> {%eine best. Pflanze%} ({#kagahiyA#} im Hindi10) 
+; Case 119
+535623 old @<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> — ²b) Bez. {%einer anderen Pflanze%} (=  {#mAdrARI#} und {#mAkunI#} im Hindi10) 
+535623 new @<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> — ²b) Bez. {%einer anderen Pflanze%} (=  {#mAdrARI#} und {#mAkunI#} im Hindi10) 
+; Case 120
+543338 old @<ls>Verz. d. Oxf. H. 39,b,20.</ls> — ³2) <lex>adj.</lex> {%C2iva verehrend%}; <lex>m.</lex> {%ein Verehrer des%} <is>C2iva</is>: {#janAH#} 
+543338 new @<ls>Verz. d. Oxf. H. 39,b,20.</ls> — ³2) <lex>adj.</lex> {%C2iva verehrend%}; <lex>m.</lex> {%ein Verehrer des%} <is>C2iva</is>: {#janAH#} 
+; Case 121
+556912 old {#meGadUta#}¦ {#(meGa + dUta)#} <lex>m.</lex> {%die Wolke als Bote%}, Titel eines dem <is>Ka10li</is>- da10sa zugeschriebenen Gedichts, 
+556912 new {#meGadUta#}¦ {#(meGa + dUta)#} <lex>m.</lex> {%die Wolke als Bote%}, Titel eines dem <is>Ka10li</is>- da10sa zugeschriebenen Gedichts, 
+; Case 122
+566907 old @<ls>WEBER</ls> richtig erkannt hat. eine verfehlte Rückübersetzung von ma10gadh. {#adDuwWa#} d. i. {#arDacaturTa#} {%viertehalb%}; vgl. 
+566907 new @<ls>WEBER</ls> richtig erkannt hat. eine verfehlte Rückübersetzung von ma10gadh. {#adDuwWa#} d. i. {#arDacaturTa#} {%viertehalb%}; vgl. 
+; Case 123
+568206 old @<ls>Schol.</ls>) <ls>MBH. 6, 282.</ls> {#anuganDikA#} {%a river of mount Ma10lyavat%} 
+568206 new @<ls>Schol.</ls>) <ls>MBH. 6, 282.</ls> {#anuganDikA#} {%a river of mount Ma10lyavat%} 
+; Case 124
+590353 old I1. {#iz#}¦ {#izita#} ³1) {%ausgesprochen, verkündet%} 
+590353 new I1. {#iz#}¦ {#izita#} ³1) {%ausgesprochen, verkündet%} 
+; Case 125
+590373 old I3. {#iz#}¦ {#iz#} ³2) {#te nezurvaradAnam#} 
+590373 new I3. {#iz#}¦ {#iz#} ³2) {#te nezurvaradAnam#} 
+; Case 126
+602145 old @<ls>VARĀH. BṚH. S. 54, 16. 119.</ls> <lex>n.</lex> {%die Blüthe%} oder {%Knospe der Terminalia Arg4una%}: {#dalanti kakuBAni#} 
+602145 new @<ls>VARĀH. BṚH. S. 54, 16. 119.</ls> <lex>n.</lex> {%die Blüthe%} oder {%Knospe der Terminalia Arg4una%}: {#dalanti kakuBAni#} 
+; Case 127
+620746 old {#KimAnanda#}¦ pra10kritisch für {#kzemAnanda#} 
+620746 new {#KimAnanda#}¦ pra10kritisch für {#kzemAnanda#} 
+; Case 128
+620825 old @<ls>Verz. d. Oxf. H. 235,a,22. 236,b,20.</ls> Anders <ls>WILSON, Sel. Works I, 236</ls> : some (von den <is>Gu10dara</is>) also wear ear-rings, or a cylinder of wood passed through the lobe of the ear, which they term the {%Khechari Mudra10%}, the seal or symbol of the deity, of him who moves in the heavens.
+620825 new @<ls>Verz. d. Oxf. H. 235,a,22. 236,b,20.</ls> Anders <ls>WILSON, Sel. Works I, 236</ls> : some (von den <is>Gu10dara</is>) also wear ear-rings, or a cylinder of wood passed through the lobe of the ear, which they term the {%Khechari Mudra10%}, the seal or symbol of the deity, of him who moves in the heavens.
+; Case 129
+671416 old {#yajuza#}¦ in {#fgyajuza#} <lex>n.</lex> sg. {%der%} R2g- {%und der%} <is>Jag4urveda</is> 
+671416 new {#yajuza#}¦ in {#fgyajuza#} <lex>n.</lex> sg. {%der%} R2g- {%und der%} <is>Jag4urveda</is> 
+; Case 130
+680292 old @<ls>KATHĀS. 117, 93.</ls> im Pra10krit 
+680292 new @<ls>KATHĀS. 117, 93.</ls> im Pra10krit 
+; Case 131
+696179 old @<ls>TANTRAS.</ls> im <ls>ŚKDR.</ls>; vgl. {%I10le des joyaux%} 
+696179 new @<ls>TANTRAS.</ls> im <ls>ŚKDR.</ls>; vgl. {%I10le des joyaux%} 
+; Case 132
+708431 old @<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 1.</ls> {%der Ergreifer%} (vgl. {#graha)#}, Bez. des Dämons, der Sonne und Mond {%Packt%} und dadurch die Verfinsterung derselben bewirkt; er ist nach dem Epos ein Sohn <is>Viprak4itti's</is> (<is>Viprak4it's</is>) und der <is>Sim5hika10</is>. Bei der Quirlung des Oceans mischte er sich unter die Götter, trank von dem Unsterblichkeitstrank, ward aber von Sonne und Mond dem <is>Vishn2u</is> verrathen, der ihm dafür den Kopf abschlug. Der unsterblich gewordene Kopf rächt sich nun an Sonne und Mond, indem er sie zu Zeiten verschlingt. <is>Ra10hu</is> wird auch zu den Planeten gezählt. Ueber das Verhältniss des Mythus zu der wissenschaftlichen Theorie von den2 Eklipsen wird 
+708431 new @<ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 1.</ls> {%der Ergreifer%} (vgl. {#graha)#}, Bez. des Dämons, der Sonne und Mond {%Packt%} und dadurch die Verfinsterung derselben bewirkt; er ist nach dem Epos ein Sohn <is>Viprak4itti's</is> (<is>Viprak4it's</is>) und der <is>Sim5hika10</is>. Bei der Quirlung des Oceans mischte er sich unter die Götter, trank von dem Unsterblichkeitstrank, ward aber von Sonne und Mond dem <is>Vishn2u</is> verrathen, der ihm dafür den Kopf abschlug. Der unsterblich gewordene Kopf rächt sich nun an Sonne und Mond, indem er sie zu Zeiten verschlingt. <is>Ra10hu</is> wird auch zu den Planeten gezählt. Ueber das Verhältniss des Mythus zu der wissenschaftlichen Theorie von den2 Eklipsen wird 
+; Case 133
+714169 old @<ls>R. GORR. 2, 125, 12.</ls> <ls>SUŚR. 1, 135, 8.</ls> <ls>KĀM. NĪTIS. 4, 53.</ls> <ls>MĀRK. P. 32, 19.</ls> Wolken VARA10H. <ls>BṚH. S. 21, 21. 24, 21.</ls> {#ozaDayo nidAGe niHsArA rUkzA atimAtraM laGvyo Bavanti#} 
+714169 new @<ls>R. GORR. 2, 125, 12.</ls> <ls>SUŚR. 1, 135, 8.</ls> <ls>KĀM. NĪTIS. 4, 53.</ls> <ls>MĀRK. P. 32, 19.</ls> Wolken VARA10H. <ls>BṚH. S. 21, 21. 24, 21.</ls> {#ozaDayo nidAGe niHsArA rUkzA atimAtraM laGvyo Bavanti#} 
+; Case 134
+714229 old @<ls>H. 1114.</ls> wohl eine fälsche Zurückübersetzung des pra10kr. {#rukKa = vfkza#} .
+714229 new @<ls>H. 1114.</ls> wohl eine fälsche Zurückübersetzung des pra10kr. {#rukKa = vfkza#} .
+; Case 135
+718355 old @<ls>VARĀH. BṚH. S.8,48. fg.</ls> <ls>Verz. d. Oxf. H. 332,b,6.</ls> — ³9) m3. Bez. {%eines best.%} <is>Ketu</is> 
+718355 new @<ls>VARĀH. BṚH. S.8,48. fg.</ls> <ls>Verz. d. Oxf. H. 332,b,6.</ls> — ³9) m3. Bez. {%eines best.%} <is>Ketu</is> 
+; Case 136
+719466 old @<ls>6, 19, 53.</ls> — N. pr. verschieden4er anderer Personen 
+719466 new @<ls>6, 19, 53.</ls> — N. pr. verschieden4er anderer Personen 
+; Case 137
+719764 old {#lakzmIcaritra#}¦ <lex>n.</lex> Titel eines Werkes C2KDR. u. {#rAtrivAsas#} .
+719764 new {#lakzmIcaritra#}¦ <lex>n.</lex> Titel eines Werkes C2KDR. u. {#rAtrivAsas#} .
+; Case 138
+737573 old @<ls>MṚCCH. 18, 20.</ls> An den folgenden Stellen ist es ni10cht zu entscheiden, ob {#vaYcana#} oder {#vaYcanA#} gemeint ist, 
+737573 new @<ls>MṚCCH. 18, 20.</ls> An den folgenden Stellen ist es ni10cht zu entscheiden, ob {#vaYcana#} oder {#vaYcanA#} gemeint ist, 
+; Case 139
+737930 old {#vaqavA#}, die Hdschrr. in Malaja10lim- und Grantha-Characteren {#baqavA#} . — Vgl. {#pArebaqavA#} .
+737930 new {#vaqavA#}, die Hdschrr. in Malaja10lim- und Grantha-Characteren {#baqavA#} . — Vgl. {#pArebaqavA#} .
+; Case 140
+752335 old @<ls>H. ś. 68.</ls> <ls>H. an.</ls> <ls>MED.</ls> — ³12) <lex>m.</lex> N. pr. eines Berges und Districtes (das heutige Bardwa10n) 
+752335 new @<ls>H. ś. 68.</ls> <ls>H. an.</ls> <ls>MED.</ls> — ³12) <lex>m.</lex> N. pr. eines Berges und Districtes (das heutige Bardwa10n) 
+; Case 141
+760985 old @<ls>ŚKDR.</ls> — ³2) <lex>f.</lex> {#I = vaMSarocanA#} {%Tabaschi10r%} 
+760985 new @<ls>ŚKDR.</ls> — ³2) <lex>f.</lex> {#I = vaMSarocanA#} {%Tabaschi10r%} 
+; Case 142
+769213 old {#vArttikAhya#}¦ <lex>n.</lex> N. eines Sa10man 
+769213 new {#vArttikAhya#}¦ <lex>n.</lex> N. eines Sa10man 
+; Case 143
+788437 old @<ls>AJAYAPĀLA</ls> im <ls>ŚKDR.</ls> — ³2) m2. ²a) {%der Mächtige, Allmächtige%} als Bez. des höchsten Gottes: ¹a) <is>Brahman's</is> 
+788437 new @<ls>AJAYAPĀLA</ls> im <ls>ŚKDR.</ls> — ³2) m2. ²a) {%der Mächtige, Allmächtige%} als Bez. des höchsten Gottes: ¹a) <is>Brahman's</is> 
+; Case 144
+791282 old {#virAtaka#}¦ ³1) <lex>m.</lex> {%Terminalia Arg4una%} ({#arjuna#}) {%W. u. A.%} 
+791282 new {#virAtaka#}¦ ³1) <lex>m.</lex> {%Terminalia Arg4una%} ({#arjuna#}) {%W. u. A.%} 
+; Case 145
+793418 old @<ls>7, 11.</ls> — ²c) {%das Umdreh2en%} 
+793418 new @<ls>7, 11.</ls> — ²c) {%das Umdreh2en%} 
+; Case 146
+797287 old @<ls>SĀH. D. 416.</ls> — ³2) <lex>m.</lex> ²a) {%Jonesia Ac2oka%} (s. {#aSoka#}) 
+797287 new @<ls>SĀH. D. 416.</ls> — ³2) <lex>m.</lex> ²a) {%Jonesia Ac2oka%} (s. {#aSoka#}) 
+; Case 147
+801901 old @<ls>GOLĀDHY. 5, 10. 17.</ls> {#vizuvadvftta#} (Bik2hvatbrit im Arabischen 
+801901 new @<ls>GOLĀDHY. 5, 10. 17.</ls> {#vizuvadvftta#} (Bik2hvatbrit im Arabischen 
+; Case 148
+803710 old @<ls>VIKR. 82</ls> (im Pra10krit).
+803710 new @<ls>VIKR. 82</ls> (im Pra10krit).
+; Case 149
+806498 old @<ls>MBH. 7, 4228</ls>), {%Terminalia Arg4una%} (s. {#arjuna#}) 
+806498 new @<ls>MBH. 7, 4228</ls>), {%Terminalia Arg4una%} (s. {#arjuna#}) 
+; Case 150
+806944 old @<ls>MED. ṣ. 54.</ls> {%Terminalia Arg4una (der Baum des Helden%} d. i. <is>Arg4una's</is>; vgl. {#vIrataru#}) 
+806944 new @<ls>MED. ṣ. 54.</ls> {%Terminalia Arg4una (der Baum des Helden%} d. i. <is>Arg4una's</is>; vgl. {#vIrataru#}) 
+; Case 151
+808265 old @<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> — Vgl. im Zend verezéna und vareza10na.
+808265 new @<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> — Vgl. im Zend verezéna und vareza10na.
+; Case 152
+809132 old @<ls>COLEBR. Misc. Ess.</ls> <ls>?I,297. Ind. St.3,396. SIDDH. K. zu P.3,1,96. Schol. zu1,4,3 in der ed. Calc. Verz. d. Oxf. H. 113,b,7. 210,b, No. 497. Verz. d. B. H. No. 757. SARVADARŚANAS. 56,13. 21. 165,14. 168,2.</ls>
+809132 new @<ls>COLEBR. Misc. Ess.</ls> <ls>?I,297. Ind. St.3,396. SIDDH. K. zu P.3,1,96. Schol. zu1,4,3 in der ed. Calc. Verz. d. Oxf. H. 113,b,7. 210,b, No. 497. Verz. d. B. H. No. 757. SARVADARŚANAS. 56,13. 21. 165,14. 168,2.</ls>
+; Case 153
+810454 old @<ls>Verz. d. Oxf. H. 120,a,37. fg.</ls> <ls>LA. (III) 88,6.</ls> im Pra10krit: {#govindAraotti BaRidassa risaBassa parissamo Rassadi#} 
+810454 new @<ls>Verz. d. Oxf. H. 120,a,37. fg.</ls> <ls>LA. (III) 88,6.</ls> im Pra10krit: {#govindAraotti BaRidassa risaBassa parissamo Rassadi#} 
+; Case 154
+814679 old @<ls>BHAGAṆ. 6,</ls> Comm.; vgl. {#veDa#} . — ²c) fehlerhaft für {#banDya#} ({#baMDya#}) {%anzubinden, anzuheften%} im C2itat beim Schol. zu 
+814679 new @<ls>BHAGAṆ. 6,</ls> Comm.; vgl. {#veDa#} . — ²c) fehlerhaft für {#banDya#} ({#baMDya#}) {%anzubinden, anzuheften%} im C2itat beim Schol. zu 
+; Case 155
+816806 old @<ls>VIKR. 12, 17.fg.</ls> im Pra10krit. — ²c) {%Sesbania aegyptiaca Pers.%} 
+816806 new @<ls>VIKR. 12, 17.fg.</ls> im Pra10krit. — ²c) {%Sesbania aegyptiaca Pers.%} 
+; Case 156
+817119 old {#vEtaraRi#}¦ <lex>f.</lex> s. u. {#vEtaraRa#} ³3) ²b) am E2nde.
+817119 new {#vEtaraRi#}¦ <lex>f.</lex> s. u. {#vEtaraRa#} ³3) ²b) am E2nde.
+; Case 157
+817639 old @<ls>PAÑCAT. 183, 21.</ls> Als Mischlin4gskaste {%der Sohn eines%} <is>C2u10dra</is> {%von einer%} <is>Vaic2ja10</is> 
+817639 new @<ls>PAÑCAT. 183, 21.</ls> Als Mischlin4gskaste {%der Sohn eines%} <is>C2u10dra</is> {%von einer%} <is>Vaic2ja10</is> 
+; Case 158
+819053 old {#vErAtaNka#}¦ ({#vEra + A°#}) <lex>m.</lex> {%Terminalia Arg4una W. und A.%} 
+819053 new {#vErAtaNka#}¦ ({#vEra + A°#}) <lex>m.</lex> {%Terminalia Arg4una W. und A.%} 
+; Case 159
+824191 old @<ls>VYUTP. 4.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 54. fgg. SADDH. P.4,3,a.6,b. HIOUEN-THSANG1,78. WASSILYEW 109. 215.</ls> — ³5) {%Entfaltung, Schöpfung%} 
+824191 new @<ls>VYUTP. 4.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 54. fgg. SADDH. P.4,3,a.6,b. HIOUEN-THSANG1,78. WASSILYEW 109. 215.</ls> — ³5) {%Entfaltung, Schöpfung%} 
+; Case 160
+825345 old @<ls>NĪLAK.</ls> durch {#svAsTyapracyuti#} (!) er2klärt. — ³2) in der Astrol. Bez. {%des 10ten Hauses%} 
+825345 new @<ls>NĪLAK.</ls> durch {#svAsTyapracyuti#} (!) er2klärt. — ³2) in der Astrol. Bez. {%des 10ten Hauses%} 
+; Case 161
+831005 old @<ls>MED.</ls> — ²c) {%Terminalia Arg4una W. und A.%} 
+831005 new @<ls>MED.</ls> — ²c) {%Terminalia Arg4una W. und A.%} 
+; Case 162
+831359 old {#SakrASana#}¦ ({#Sakra#} + 2. {#aSana#}) ³1) <lex>m.</lex> {%Wrightia antidysenterica R. Br.%} ¯{¤C2AB¤DAK4.
+831359 new {#SakrASana#}¦ ({#Sakra#} + 2. {#aSana#}) ³1) <lex>m.</lex> {%Wrightia antidysenterica R. Br.%} ¯{¤C2AB¤DAK4.
+; Case 163
+831361 old im C2KDR.¤} — ³2) <lex>n.</lex> ²a) {%der Same der Wrightia ant.%} 
+831361 new im C2KDR.¤} — ³2) <lex>n.</lex> ²a) {%der Same der Wrightia ant.%} 
+; Case 164
+835009 old {#SatArGa/#}¦ (1. {#Sata + arGa#}) <lex>adj.</lex> {%hundert%} (Rind2er u. s. w.). {%werth%} 
+835009 new {#SatArGa/#}¦ (1. {#Sata + arGa#}) <lex>adj.</lex> {%hundert%} (Rind2er u. s. w.). {%werth%} 
+; Case 165
+837983 old @<ls>KATHĀS. 68, 37</ls> (c2an4vara) wohl fehlerhaft für {#saMvara#} . — ³2) <lex>f.</lex> {#I#} ²a) {%Salvinia cucullata Roxb.%} 
+837983 new @<ls>KATHĀS. 68, 37</ls> (c2an4vara) wohl fehlerhaft für {#saMvara#} . — ³2) <lex>f.</lex> {#I#} ²a) {%Salvinia cucullata Roxb.%} 
+; Case 166
+843878 old @<ls>MED. kh. 6.</ls> <ls>HALĀY. 5, 21.</ls> Im R2V. ist dafür {#vyA#} gewöhnlich. {#pa\kvA#} 
+843878 new @<ls>MED. kh. 6.</ls> <ls>HALĀY. 5, 21.</ls> Im R2V. ist dafür {#vyA#} gewöhnlich. {#pa\kvA#} 
+; Case 167
+847242 old @<ls>MACK. Coll. 99.</ls> {#°Sataka#} (im Pra10krit) 
+847242 new @<ls>MACK. Coll. 99.</ls> {#°Sataka#} (im Pra10krit) 
+; Case 168
+849041 old @<ls>UTTARAR. 82, 1 (105, 4).</ls> <ls>ŚĀK. 59, 17</ls> im Pra10krit). — ²b) = {#SiKaRqa#} ³2) 
+849041 new @<ls>UTTARAR. 82, 1 (105, 4).</ls> <ls>ŚĀK. 59, 17</ls> im Pra10krit). — ²b) = {#SiKaRqa#} ³2) 
+; Case 169
+849210 old @<ls>MED.</ls> <ls>Verz. d. Oxf. H. 145,a, No. 305,</ls> <ls>Śl. 1</ls> (zugleich Bez. {%des Metrums%}). im Pra10krit 
+849210 new @<ls>MED.</ls> <ls>Verz. d. Oxf. H. 145,a, No. 305,</ls> <ls>Śl. 1</ls> (zugleich Bez. {%des Metrums%}). im Pra10krit 
+; Case 170
+852639 old {#Sivamallaka#}¦ ³1) <lex>m.</lex> {%Terminalia Arg4una W. u. A.%} 
+852639 new {#Sivamallaka#}¦ ³1) <lex>m.</lex> {%Terminalia Arg4una W. u. A.%} 
+; Case 171
+853572 old @<ls>MĀRK. P. 34, 66.</ls> {#muhUrtArDAvaSizwAyAM dvAdaSyAm#} {%von der nur ein halber Muhu10rta übrig ist%} 
+853572 new @<ls>MĀRK. P. 34, 66.</ls> {#muhUrtArDAvaSizwAyAM dvAdaSyAm#} {%von der nur ein halber Muhu10rta übrig ist%} 
+; Case 172
+860010 old @<ls>Verz. d. B. H. No. 540.</ls> <ls>Verz. d. Oxf. H. 23,b,2. 46,b,27. 346,a,30.</ls> <ls>MṚCCH. 105,22</ls> im Pra10krit. Beinn. der <is>Durga10</is>: {#°hananI#} 
+860010 new @<ls>Verz. d. B. H. No. 540.</ls> <ls>Verz. d. Oxf. H. 23,b,2. 46,b,27. 346,a,30.</ls> <ls>MṚCCH. 105,22</ls> im Pra10krit. Beinn. der <is>Durga10</is>: {#°hananI#} 
+; Case 173
+861271 old @<ls>ŚĀK. 47, 7</ls> (im Pra10krit). 
+861271 new @<ls>ŚĀK. 47, 7</ls> (im Pra10krit). 
+; Case 174
+863089 old {#SepyA/vant#}¦ (von {#Sepya#}) <lex>adj.</lex> {%peni10tus%} 
+863089 new {#SepyA/vant#}¦ (von {#Sepya#}) <lex>adj.</lex> {%peni10tus%} 
+; Case 175
+866432 old @<ls>No. 412.</ls> f. {#I#} (sc. {#BAzA#}) {%die Sprache der%} C2. ebend. und 
+866432 new @<ls>No. 412.</ls> f. {#I#} (sc. {#BAzA#}) {%die Sprache der%} C2. ebend. und 
+; Case 176
+867058 old @zu <ls>P. 2, 4, 67.</ls> <ls>AIT. BR. 7, 27.</ls> {#vi°#} und {#sa°#} {%mit —, ohne%} C2j. ebend. und 34.
+867058 new @zu <ls>P. 2, 4, 67.</ls> <ls>AIT. BR. 7, 27.</ls> {#vi°#} und {#sa°#} {%mit —, ohne%} C2j. ebend. und 34.
+; Case 177
+867062 old {#SyAparRIya#}¦ <lex>adj.</lex> {%zu den%} C2j. {%gehörig%} 
+867062 new {#SyAparRIya#}¦ <lex>adj.</lex> {%zu den%} C2j. {%gehörig%} 
+; Case 178
+869592 old @<ls>2. 284,a,40.b,7. 8. 16. 18. 20. fg. 32.</ls> <ls>HIOUEN-THSANG1,63. 492.</ls> {#rAtri, pOrRamAsI#} oder <lex>f.</lex> mit Ergänzung dieser Worte {%der Vollmondstag im Monat%} <is>C2ra10van2a</is> 
+869592 new @<ls>2. 284,a,40.b,7. 8. 16. 18. 20. fg. 32.</ls> <ls>HIOUEN-THSANG1,63. 492.</ls> {#rAtri, pOrRamAsI#} oder <lex>f.</lex> mit Ergänzung dieser Worte {%der Vollmondstag im Monat%} <is>C2ra10van2a</is> 
+; Case 179
+874340 old @<ls>Verz. d. Oxf. H. 155,a,17.</ls> <ls>VET.</ls> in <ls>LA. (III) 17,10. 18,18.</ls> <ls>ŚUK. ebend. 32,11. 37,2.</ls> <ls>HIOUEN-THSANG1,474.</ls> <ls>Z. d. d. m. G. 14,569,5.</ls> {#keSava°#} als N. pr. 
+874340 new @<ls>Verz. d. Oxf. H. 155,a,17.</ls> <ls>VET.</ls> in <ls>LA. (III) 17,10. 18,18.</ls> <ls>ŚUK. ebend. 32,11. 37,2.</ls> <ls>HIOUEN-THSANG1,474.</ls> <ls>Z. d. d. m. G. 14,569,5.</ls> {#keSava°#} als N. pr. 
+; Case 180
+876906 old {#SvasaneSvara#}¦ ({#Svasana + I°#}) <lex>m.</lex> {%Terminalia Arg4una W. et. A.%} 
+876906 new {#SvasaneSvara#}¦ ({#Svasana + I°#}) <lex>m.</lex> {%Terminalia Arg4una W. et. A.%} 
+; Case 181
+879630 old @<ls>?ed. B.) 5, 25, 4.</ls> Daraus, dass {#zaRqa#} durch die Ma10gadhi10-Form {#saRqa#} (
+879630 new @<ls>?ed. B.) 5, 25, 4.</ls> Daraus, dass {#zaRqa#} durch die Ma10gadhi10-Form {#saRqa#} (
+; Case 182
+880823 old @<ls>HĀLA</ls> <ls>Anh. 51. 59</ls> (im Pra10krit). — Vgl. {#parizvazkita#} .
+880823 new @<ls>HĀLA</ls> <ls>Anh. 51. 59</ls> (im Pra10krit). — Vgl. {#parizvazkita#} .
+; Case 183
+881284 old @<ls>COLEBR. Misc. Ess. 2, 159</ls> <ls>(V, 8).</ls> {#saMyukta#} im Text, {#saMyuktA#} im Index, {#saMjutA#} (!) im Pra10krit.
+881284 new @<ls>COLEBR. Misc. Ess. 2, 159</ls> <ls>(V, 8).</ls> {#saMyukta#} im Text, {#saMyuktA#} im Index, {#saMjutA#} (!) im Pra10krit.
+; Case 184
+887162 old @<ls>ŚĀK. 68, 11</ls> (im Pra10krit).
+887162 new @<ls>ŚĀK. 68, 11</ls> (im Pra10krit).
+; Case 185
+889029 old @<ls>CARAKA 3, 8.</ls> {#saMgadatTa#} im Pra10krit 
+889029 new @<ls>CARAKA 3, 8.</ls> {#saMgadatTa#} im Pra10krit 
+; Case 186
+889448 old @<ls>ŚĀK. 59, 2</ls> (im Pra10krit).
+889448 new @<ls>ŚĀK. 59, 2</ls> (im Pra10krit).
+; Case 187
+895282 old @<ls>7, 56, 18.</ls> {%gesammelt, ganz%}: {#pra yaH sa\trAcA\ mana^sA\ yajAte#} (vgl. hathra10mana10o 
+895282 new @<ls>7, 56, 18.</ls> {%gesammelt, ganz%}: {#pra yaH sa\trAcA\ mana^sA\ yajAte#} (vgl. hathra10mana10o 
+; Case 188
+897257 old {#sadf/kza#}¦ (2. {#sa + dfkza#}) <lex>adj.</lex> {%a7hnlich, gleich, entsprechend, angemessen%} 
+897257 new {#sadf/kza#}¦ (2. {#sa + dfkza#}) <lex>adj.</lex> {%a7hnlich, gleich, entsprechend, angemessen%} 
+; Case 189
+910247 old @<ls>PRAB. 105, 14.</ls> im Pra10krit 
+910247 new @<ls>PRAB. 105, 14.</ls> im Pra10krit 
+; Case 190
+928987 old @<ls>14, 563.</ls> <ls>R. 1, 2, 30. 14, 35. 19, 6. 26.</ls> {#sAkzAccaRqAlatAM gataH#} {%zu einem leibhaftigen%} K4. {%geworden%} 
+928987 new @<ls>14, 563.</ls> <ls>R. 1, 2, 30. 14, 35. 19, 6. 26.</ls> {#sAkzAccaRqAlatAM gataH#} {%zu einem leibhaftigen%} K4. {%geworden%} 
+; Case 191
+933233 old R2k. und <is>Sa10man</is> 
+933233 new R2k. und <is>Sa10man</is> 
+; Case 192
+933237 old @<ls>ŚAT. BR. 14, 4, 1, 24.</ls> R2k4. <is>Sa10man</is>, <is>Jag4us</is> 
+933237 new @<ls>ŚAT. BR. 14, 4, 1, 24.</ls> R2k4. <is>Sa10man</is>, <is>Jag4us</is> 
+; Case 193
+938405 old @<ls>RĀJA-TAR. 6, 176. 304.</ls> eines Pra10krit-Grammatikers 
+938405 new @<ls>RĀJA-TAR. 6, 176. 304.</ls> eines Pra10krit-Grammatikers 
+; Case 194
+963687 old {#sUryaprajYapti#}¦ <lex>f.</lex> Titel eines astronomischen Werkes (in Ma10gadhi10) 
+963687 new {#sUryaprajYapti#}¦ <lex>f.</lex> Titel eines astronomischen Werkes (in Ma10gadhi10) 
+; Case 195
+965120 old @<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>Verz. d. Oxf. H. 64</ls>, {%a%}, 9. 148, {%b%}, 39. — ²d) Titel eines Gedichts in Pra10krit 
+965120 new @<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>Verz. d. Oxf. H. 64</ls>, {%a%}, 9. 148, {%b%}, 39. — ²d) Titel eines Gedichts in Pra10krit 
+; Case 196
+968781 old @<ls>KATHĀS. 93, 4</ls> (zu lesen saukarya10 'udyataya10). {%zu%} <is>Vishn2u</is> {%als Eber in Beziehung stehend%} 
+968781 new @<ls>KATHĀS. 93, 4</ls> (zu lesen saukarya10 'udyataya10). {%zu%} <is>Vishn2u</is> {%als Eber in Beziehung stehend%} 
+; Case 197
+974176 old @<ls>10, 184, 4.</ls> Vgl. c2ti im Zend.
+974176 new @<ls>10, 184, 4.</ls> Vgl. c2ti im Zend.
+; Case 198
+974538 old @<ls>R.5,41,7.</ls> <ls>MṚCCH. 89,11.</ls> <ls>RAGH.5,19.</ls> <ls>MĀLATĪM.</ls> <ls>?16,15.KATHĀS. 30,136. 45,30. 292. 56,270. Schol. zu KĀTY. ŚR. 277,7. 14. fg. SĀH. D. 131,5. 287. 527. PRATĀPAR. 86,a,9. 92,b,3. 96,b,7. PRAB. 18,10. ŚAṂK. zu CHĀND. UP. S. 39. HIT. 87,21. 101,18. BHĀG. P. 10,47. 43. Comm. zu5,6,6</ls>
+974538 new @<ls>R.5,41,7.</ls> <ls>MṚCCH. 89,11.</ls> <ls>RAGH.5,19.</ls> <ls>MĀLATĪM.</ls> <ls>?16,15.KATHĀS. 30,136. 45,30. 292. 56,270. Schol. zu KĀTY. ŚR. 277,7. 14. fg. SĀH. D. 131,5. 287. 527. PRATĀPAR. 86,a,9. 92,b,3. 96,b,7. PRAB. 18,10. ŚAṂK. zu CHĀND. UP. S. 39. HIT. 87,21. 101,18. BHĀG. P. 10,47. 43. Comm. zu5,6,6</ls>
+; Case 199
+979723 old @<ls>ĀŚV. GṚHY. 1, 7, 8.</ls> {#iyaNuvaNsTAnO yU#} {%i und u10, an deren Stelle ij und uv treten%}, 
+979723 new @<ls>ĀŚV. GṚHY. 1, 7, 8.</ls> {#iyaNuvaNsTAnO yU#} {%i und u10, an deren Stelle ij und uv treten%}, 
+; Case 200
+980044 old @<ls>HIOUEN-THSANG1,211. fgg. 2,339. fg.</ls> <ls>Verz. d. Oxf. H. 39,b,2.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 51.</ls> Nach <ls>LASSEN</ls> (<ls>LIA. 1,123</ls>) soll {#sTAneSvara#} im 
+980044 new @<ls>HIOUEN-THSANG1,211. fgg. 2,339. fg.</ls> <ls>Verz. d. Oxf. H. 39,b,2.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 51.</ls> Nach <ls>LASSEN</ls> (<ls>LIA. 1,123</ls>) soll {#sTAneSvara#} im 
+; Case 201
+980689 old {#sTitapAWya#}¦ <lex>n.</lex> {%in Pra10krit und in stehender Stellung gesprochene Worte eines von Liebe gequälten Weibes%} 
+980689 new {#sTitapAWya#}¦ <lex>n.</lex> {%in Pra10krit und in stehender Stellung gesprochene Worte eines von Liebe gequälten Weibes%} 
+; Case 202
+982751 old {#snApaka#}¦ (vom2 caus. von 1. {#snA#}) nom. ag. {%Bader%} 
+982751 new {#snApaka#}¦ (vom2 caus. von 1. {#snA#}) nom. ag. {%Bader%} 
+; Case 203
+998388 old @<ls>SĀH. D. 172, 13.</ls> häufig im Pra10krit.
+998388 new @<ls>SĀH. D. 172, 13.</ls> häufig im Pra10krit.
+; Case 204
+998579 old im Pra10krit 
+998579 new im Pra10krit 
+; Case 205
+1007247 old @<ls>AK.2,6,2,37.3,4,1,7.</ls> <ls>TRIK.2,2,3.</ls> <ls>H. 599. 887.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Z. d. d. m. G. 9,665.</ls> <ls>COLEBR. Alg. 2.</ls> <ls>Journ. of the Am. Or. S.6,182. fg.</ls> <ls>MIT.2,41,b,8. 10.</ls> <ls>Ind. St.8,432.</ls> <ls>MĀRK. P. 49,39.</ls> <ls>HIOUEN-THSANG1,60.</ls> <ls>VARĀH. BṚH. S. 23,2. 33,6. 7. 44,3. 48,47. 53,4. 92. 54,6. fgg.</ls> <ls>Spr. (II) 7381.</ls> <ls>RĀJA-TAR.4,199.</ls> <ls>BHĀG. P.8,24,19.</ls> <ls>H. 134.</ls> — ²d) so v. a. {#°vinyAsa#} {%Handstellung%} 
+1007247 new @<ls>AK.2,6,2,37.3,4,1,7.</ls> <ls>TRIK.2,2,3.</ls> <ls>H. 599. 887.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Z. d. d. m. G. 9,665.</ls> <ls>COLEBR. Alg. 2.</ls> <ls>Journ. of the Am. Or. S.6,182. fg.</ls> <ls>MIT.2,41,b,8. 10.</ls> <ls>Ind. St.8,432.</ls> <ls>MĀRK. P. 49,39.</ls> <ls>HIOUEN-THSANG1,60.</ls> <ls>VARĀH. BṚH. S. 23,2. 33,6. 7. 44,3. 48,47. 53,4. 92. 54,6. fgg.</ls> <ls>Spr. (II) 7381.</ls> <ls>RĀJA-TAR.4,199.</ls> <ls>BHĀG. P.8,24,19.</ls> <ls>H. 134.</ls> — ²d) so v. a. {#°vinyAsa#} {%Handstellung%} 
+; Case 206
+1015328 old {#hfdrogavErin#}¦ <lex>m.</lex> {%Terminalia Arg4una W. et A. (Feind der%} {#hfdroga#} {%genannten Krankheit%}) 
+1015328 new {#hfdrogavErin#}¦ <lex>m.</lex> {%Terminalia Arg4una W. et A. (Feind der%} {#hfdroga#} {%genannten Krankheit%}) 
+; Case 207
+1024647 old {#AhiRqika#}¦ (Nachträge) im Pra10krit 
+1024647 new {#AhiRqika#}¦ (Nachträge) im Pra10krit 
+; Case 208
+1024840 old I1. {#iz#}¦ mit {#pra#} caus. ³2) 
+1024840 new I1. {#iz#}¦ mit {#pra#} caus. ³2) 
+; Case 209
+1024845 old I3. {#iz#}¦ ³2) 
+1024845 new I3. {#iz#}¦ ³2) 
+; Case 210
+1026747 old @<ls>17.</ls> — Pra10kritisch aus {#karz#} .
+1026747 new @<ls>17.</ls> — Pra10kritisch aus {#karz#} .
+; Case 211
+1027308 old @<ls>PISCHEL</ls>, de Gramm. pra10cr. 
+1027308 new @<ls>PISCHEL</ls>, de Gramm. pra10cr. 
+; Case 212
+1028950 old @<ls>1, 9</ls> (neben {#mahA°#}) und {#KuqqIkA#} (neben {#mahatI#}) {#garBAvakrAntiH#} . pra10kritisch aus {#kzudraka#} .
+1028950 new @<ls>1, 9</ls> (neben {#mahA°#}) und {#KuqqIkA#} (neben {#mahatI#}) {#garBAvakrAntiH#} . pra10kritisch aus {#kzudraka#} .
+; Case 213
+1036002 old {#pratizWA#}¦ ³6) {%Vorzu10glichkeit%} überh.: {#kAvyabanDasya#} Cit. bei 
+1036002 new {#pratizWA#}¦ ³6) {%Vorzu10glichkeit%} überh.: {#kAvyabanDasya#} Cit. bei 
+; Case 214
+1042344 old {#vyaparopaRa#}¦ ³3) {%das Vernich2ten%}: {#jIvita°#} 
+1042344 new {#vyaparopaRa#}¦ ³3) {%das Vernich2ten%}: {#jIvita°#} 
