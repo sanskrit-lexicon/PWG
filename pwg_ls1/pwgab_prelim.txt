@@ -1,0 +1,57 @@
+; the expansions of abbreviation 
+; preliminary 10/6/2017. Expansions supplied by Thomas Malten.
+; Abbreviation     count     German   English
+<ab>Abl.</ab>    1364  Ablativ - ablative (case)
+<ab>Absol.</ab>     379 Absolutiv - absolutive (case)
+<ab>Acc.</ab>    4719  Accusativ - accusative (case)
+<ab>Act.</ab>     618  Activ - active 
+<ab>Adv.</ab>    3894  Adverb - adverb
+<ab>adv.</ab>      41  adverbial? - adverbial
+<ab>Aor.</ab>      75  Aorist - aorist
+<ab>Bein.</ab>     271 Beiname - epithet, by name
+<ab>Bed.</ab>    1   Bedeutungen(?) - meanings
+<ab>Beinn.</ab>     271 Beinamen - epithets, by names
+<ab>Caus.</ab>    2418  Causativ - causative
+<ab>Comm.</ab>    2219 Commentar? - commentary
+<ab>Conj.</ab>       1 Conjunctiv? - subjunctive (mood)
+<ab>dass.</ab>      70  dasselbe - the same
+<ab>Dat.</ab>     957  Dativ - dative (case)
+<ab>Denom.</ab>       1  Denominativ? - denominative
+<ab>Desid.</ab>     473  Desiderativ - desiderative
+<ab>Du.</ab>     467  Dual - dual 
+<ab>Gen.</ab>    1921 Genitiv - genitive (case)
+<ab>Inf.</ab>       3  Infinitiv - infinitive
+<ab>Infin.</ab>     452  Infinitiv - infinitive
+<ab>Instr.</ab>    2163  Instrumental - instrumental (case)
+<ab>Intens.</ab>     375 Intensiv - intensive
+<ab>Interj.</ab>      97 Interjection - interjection 
+<ab>Loc.</ab>    2690  Locativ - locative case
+<ab>Med.</ab>    1295  Medizin - medicine
+<ab>Metron.</ab>     294 Metronym - metronym
+<ab>N.</ab>      70  Namen? - name
+<ab>N.ag.</ab>      39   ? - ?
+<ab>N.pr.</ab>       1 Nomen proprium? - proper noun
+<ab>Nom.</ab>     553 Nomen? - noun
+<ab>Nom.abstr.</ab>    2597 Nomen abstractum - abstract noun
+<ab>Nom.ag.</ab>     903  Nomen agentis - nomen agentis
+<ab>Nomin.</ab>     182  Nominativ - nominative (case)
+<ab>Partic.</ab>     621 Participium - participle
+<ab>Pass.</ab>       6  Passiv - passive
+<ab>Patron.</ab>    1998 Patronym - patronym
+<ab>Patronn.</ab>    3 Patronymen - patronyms
+<ab>Pl.</ab>    4514  Plural - plural
+<ab>Potent.</ab>       1 Potentialis - potential mood
+<ab>Präp.</ab>       1  Präposition - preposition
+<ab>s.u.</ab>    1171 siehe unten?/unter? - see below/under
+<ab>Sg.</ab>     734  Singular - singular
+<ab>Subst.</ab>     301 Substantiv - noun
+<ab>v.l.</ab>      52  vide licet - that us to say, namely
+<ab>Vgl.</ab>     107 Vergleiche - compare
+<ab>Voc.</ab>      57 Vocativ - vocative (case)
+;<is>gaṇa</is>     603  --
+<lex>Adj.</lex>   42801 Adjectiv - adjective
+<lex>adj.</lex>    1847  adjectivisch - adjective
+<lex>f.</lex>   35219 femininum - feminine
+<lex>Indecl.</lex>      81 Indeclinabilum - indeclinable
+<lex>m.</lex>   54315 masculinum - masculine
+<lex>n.</lex>   29307 neutrum - neuter
