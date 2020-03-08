@@ -8,4 +8,9 @@ Begun Dec 2017.
 
 ### verbs01
 Identification of PWG verbs, and correlation with MW verbs and prefixed verbs.
-Begun Feb 2020.
+Begun Feb 2020.  verbs01a is an improvement.
+
+### verbs01a
+Revision of verbs01.
+Identification of PWG verbs, and correlation with MW verbs and prefixed verbs.
+Begun Mar 2020.
