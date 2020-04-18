@@ -9,8 +9,10 @@ Begun Dec 2017.
 ### verbs01
 Identification of PWG verbs, and correlation with MW verbs and prefixed verbs.
 Begun Feb 2020.  verbs01a is an improvement.
+See https://github.com/sanskrit-lexicon/PWG/issues/31
 
 ### verbs01a
 Revision of verbs01.
 Identification of PWG verbs, and correlation with MW verbs and prefixed verbs.
 Begun Mar 2020.
+See https://github.com/sanskrit-lexicon/PWG/issues/32
