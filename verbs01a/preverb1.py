@@ -240,9 +240,14 @@ def write(fileout,recs,tranout):
    # one line for each upasarga
    for iupa,upa in enumerate(upasargas):
     icase = iupa + 1
-    preverb = preverbs[iupa]
-    mwpreverb = mwpreverbs[iupa]
-    mwfound = mwpreverbs_found[iupa]
+    try:
+     preverb = preverbs[iupa]
+     mwpreverb = mwpreverbs[iupa]
+     mwfound = mwpreverbs_found[iupa]
+    except:
+     print('WARNING:',k1,len(upasargas),len(preverbs))
+     preverb = '?'
+     mwfound = False
     if mwfound:
      nyes = nyes + 1
      parse = mwpreverbs_parse[iupa]

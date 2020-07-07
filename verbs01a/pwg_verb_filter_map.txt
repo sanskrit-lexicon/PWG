@@ -165,7 +165,7 @@
 ;; Case 0165: L=11214, k1=udany, k2=udany, code=N, mw=udanya
 ;; Case 0166: L=11293, k1=udAnay, k2=udAnay, code=3, mw=udAnaya
 ;; Case 0167: L=11554, k1=uDras, k2=uDras, code=3D, mw=uDras
-;; Case 0168: L=11627, k1=unmUlay, k2=unmUlay, code=X, mw=unmUl
+;; Case 0168: L=11627, k1=unmUlay, k2=unmUlay, code=X, mw=unmUla
 ;; Case 0169: L=12367, k1=ubj, k2=ubj, code=3DU, mw=ubj
 ;; Case 0170: L=12369, k1=uB, k2=uB, code=3DU, mw=uB
 ;; Case 0171: L=12410, k1=ur, k2=ur, code=S, mw=?
@@ -2142,7 +2142,7 @@
 ;; Case 2142: L=99832, k1=SIk, k2=SIk, code=3D, mw=SIk
 ;; Case 2143: L=99974, k1=SIB, k2=SIB, code=3D, mw=SIB
 ;; Case 2144: L=100032, k1=SIl, k2=SIl, code=3D, mw=SIl
-;; Case 2145: L=100050, k1=SIlay, k2=SIlay, code=DU, mw=SIlaya
+;; Case 2145: L=100050, k1=SIlay, k2=SIlay, code=DU, mw=?
 ;; Case 2146: L=100069, k1=Su, k2=Su, code=D, mw=Su
 ;; Case 2147: L=100071, k1=Suk, k2=Suk, code=D, mw=Suk
 ;; Case 2148: L=100213, k1=Suc, k2=Suc, code=3DU, mw=Suc
@@ -2525,7 +2525,7 @@
 ;; Case 2525: L=119851, k1=Gaww, k2=Gaww, code=U, mw=Gaww
 ;; Case 2526: L=119912, k1=car, k2=car, code=U, mw=car
 ;; Case 2527: L=119940, k1=ci, k2=ci, code=U, mw=ci
-;; Case 2528: L=119950, k1=cimicimAy, k2=cimicimAy, code=3, mw=cimicimAya
+;; Case 2528: L=119950, k1=cimicimAy, k2=cimicimAy, code=3, mw=?
 ;; Case 2529: L=119974, k1=Cid, k2=Cid, code=U, mw=Cid
 ;; Case 2530: L=119982, k1=jagaty, k2=jagaty, code=3N, mw=jagatya
 ;; Case 2531: L=120030, k1=ji, k2=ji, code=U, mw=ji
