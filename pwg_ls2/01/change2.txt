@@ -1,0 +1,1675 @@
+; TODO Case 1: (reason = "Sch. " at beg of line)
+; <L>3<pc>1-0001<k1>a<k2>a<h>3
+58 old Sch. Ausnahmen: ebend. <ls>72.</ls> <ls>VOP. 6, 90.</ls> 
+58 new <ls>Sch.</ls> Ausnahmen: ebend. <ls>72.</ls> <ls>VOP. 6, 90.</ls> 
+;
+; TODO Case 2: (reason = " Sch. (not in ls)")
+; <L>167<pc>1-0013<k1>akza<k2>a/kza<h>2
+1386 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 12, 2.</ls> ({#akzaScakraDAraRe#}) und zu 
+1386 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 12, 2.</ls> ({#akzaScakraDAraRe#}) und zu 
+;
+; TODO Case 3: (reason = " Sch. (not in ls)")
+; <L>591<pc>1-0044<k1>aGa<k2>aGa/
+4880 old <ls>MED. gh. 1.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>KIR. 6, 45.</ls> und <ls>ŚIŚ. 4, 37.</ls> {#apa^ na\H SoSu^cada\Gam#} 
+4880 new <ls>MED. gh. 1.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 6, 45.</ls> und <ls>ŚIŚ. 4, 37.</ls> {#apa^ na\H SoSu^cada\Gam#} 
+;
+; TODO Case 4: (reason = " Sch. (not in ls)")
+; <L>625<pc>1-0046<k1>aNka<k2>aNka/
+5160 old <ls>MED. k. 16.</ls> <ls>KEŚAVA</ls> beim Sch. zu <ls>ŚIŚ. 3, 36.</ls> {#viSvAmitrasyANkamAsasAda#} 
+5160 new <ls>MED. k. 16.</ls> <ls>KEŚAVA</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 3, 36.</ls> {#viSvAmitrasyANkamAsasAda#} 
+;
+; TODO Case 5: (reason = " Sch. (not in ls)")
+; <L>625<pc>1-0046<k1>aNka<k2>aNka/
+5224 old <ls>MED. k. 16.</ls> <ls>KEŚAVA</ls> beim Sch. zu <ls>ŚIŚ. 3, 36.</ls> 
+5224 new <ls>MED. k. 16.</ls> <ls>KEŚAVA</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 3, 36.</ls> 
+;
+; TODO Case 6: (reason = "(Sch.: ")
+; <L>666<pc>1-0049<k1>aNKay<k2>aNKay
+5543 old (Sch.: {#varRAnAloqayanniva SanEH . aNKatirgatyarTaH#}) 
+5543 new (<ls>Sch.</ls>: {#varRAnAloqayanniva SanEH . aNKatirgatyarTaH#}) 
+;
+; TODO Case 7: (reason = " Sch. (not in ls)")
+; <L>1050<pc>1-0076<k1>aYcala<k2>aYcala
+8994 old <ls>H. 667</ls> (nach den Sch. auch n.). 
+8994 new <ls>H. 667</ls> (nach den <ls>Sch.</ls> auch n.). 
+;
+; TODO Case 8: (reason = " Sch. (not in ls)")
+; <L>1087<pc>1-0081<k1>aw<k2>aw
+9545 old <ls>P. 6, 1, 90</ls> (so ist in den Sch. für {#AdIt#} zu lesen). 
+9545 new <ls>P. 6, 1, 90</ls> (so ist in den <ls>Sch.</ls> für {#AdIt#} zu lesen). 
+;
+; TODO Case 9: (reason = " Sch. (not in ls)")
+; <L>1092<pc>1-0082<k1>awani<k2>awani
+9610 old <ls>BALA</ls> beim Sch. zu dieser Stelle. 
+9610 new <ls>BALA</ls> beim <ls>Sch.</ls> zu dieser Stelle. 
+;
+; TODO Case 10: (reason = " Sch. (not in ls)")
+; <L>1107<pc>1-0082<k1>awwa<k2>awwa<h>2
+9708 old <ls>3, 4, 133</ls>) <ls>TRIK. 3, 3, 91.</ls> <ls>H. 981</ls> (nach den Sch. <lex>m.</lex> n.) 
+9708 new <ls>3, 4, 133</ls>) <ls>TRIK. 3, 3, 91.</ls> <ls>H. 981</ls> (nach den <ls>Sch.</ls> <lex>m.</lex> n.) 
+;
+; TODO Case 11: (reason = " Sch. (not in ls)")
+; <L>1107<pc>1-0082<k1>awwa<k2>awwa<h>2
+9714 old <ls>H. 1002</ls> (nach den Sch. <lex>m.</lex> n.). 
+9714 new <ls>H. 1002</ls> (nach den <ls>Sch.</ls> <lex>m.</lex> n.). 
+;
+; TODO Case 12: (reason = " Sch. (not in ls)")
+; <L>1169<pc>1-0086<k1>aRqa<k2>aRqa/
+10165 old <ls>H. 1319.</ls> (nach den Sch. <lex>m.</lex> n.) <lex>n.</lex> 
+10165 new <ls>H. 1319.</ls> (nach den <ls>Sch.</ls> <lex>m.</lex> n.) <lex>n.</lex> 
+;
+; TODO Case 13: (reason = " Sch. (not in ls)")
+; <L>1169<pc>1-0086<k1>aRqa<k2>aRqa/
+10173 old <ls>MED.</ls> m. n. <ls>VAIJ.</ls> beim Sch. zu <ls>H. 611.</ls> {#kAzWAByAM cUrRitARqadvayaH#} 
+10173 new <ls>MED.</ls> m. n. <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>H. 611.</ls> {#kAzWAByAM cUrRitARqadvayaH#} 
+;
+; TODO Case 14: (reason = " Sch. (not in ls)")
+; <L>1863<pc>1-0137<k1>aDama<k2>aDama/
+15808 old <ls>BHARATA</ls> beim Sch. zu <ls>ŚĀK. 9, 6.</ls> — In etymologischem Zusammenhange mit {#aDara#} und {#aDas#} .
+15808 new <ls>BHARATA</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 9, 6.</ls> — In etymologischem Zusammenhange mit {#aDara#} und {#aDas#} .
+;
+; TODO Case 15: (reason = " Sch. (not in ls)")
+; <L>1914<pc>1-0142<k1>aDi<k2>a/Di<h>1
+16318 old <ls>P. 8, 1, 7.</ls> {#aDyaDi grAmam#} Sch. {#aDyaDi lokam#} 
+16318 new <ls>P. 8, 1, 7.</ls> {#aDyaDi grAmam#} <ls>Sch.</ls> {#aDyaDi lokam#} 
+;
+; TODO Case 16: (reason = "(Sch.: ")
+; <L>1914<pc>1-0142<k1>aDi<k2>a/Di<h>1
+16332 old <div n="3"> α) {%über%}, örtlich und übertr.: {#aDyaDi gArhapatyAt#} (Sch.:) {#gArhapatyasyopari samIpa eva#}; vgl. u. 2, {%a%}, 
+16332 new <div n="3"> α) {%über%}, örtlich und übertr.: {#aDyaDi gArhapatyAt#} (<ls>Sch.</ls>:) {#gArhapatyasyopari samIpa eva#}; vgl. u. 2, {%a%}, 
+;
+; TODO Case 17: (reason = "(Sch.: ")
+; <L>1936<pc>1-0146<k1>aDikAra<k2>aDikAra
+16656 old (Sch.: {#tAsAM dohane 'DikAro 'sti yat#}) 
+16656 new (<ls>Sch.</ls>: {#tAsAM dohane 'DikAro 'sti yat#}) 
+;
+; TODO Case 18: (reason = " Sch. (not in ls)")
+; <L>2044<pc>1-0154<k1>aDItin<k2>aDIti/n
+17483 old <ls>P. 2, 3, 36, <is>Vārtt</is>. 1.</ls> {#vyAkaraRe#} Sch. {#vede#} 
+17483 new <ls>P. 2, 3, 36, <is>Vārtt</is>. 1.</ls> {#vyAkaraRe#} <ls>Sch.</ls> {#vede#} 
+;
+; TODO Case 19: (reason = "(Sch.: ")
+; <L>2192<pc>1-0163<k1>aDvaryu<k2>aDvaryu/
+18698 old <ls>P. 2, 4, 4.</ls> (Sch.: {#aDvaryuryajurvedaH . kratuH somasADyo yAgaH)#}; vgl. 
+18698 new <ls>P. 2, 4, 4.</ls> (<ls>Sch.</ls>: {#aDvaryuryajurvedaH . kratuH somasADyo yAgaH)#}; vgl. 
+;
+; TODO Case 20: (reason = "Sch. " at beg of line)
+; <L>2610<pc>1-0189<k1>anitya<k2>anitya
+21749 old Sch. {%ungewöhnlich, extraordinär%} 
+21749 new <ls>Sch.</ls> {%ungewöhnlich, extraordinär%} 
+;
+; TODO Case 21: (reason = " Sch. (not in ls)")
+; <L>2699<pc>1-0198<k1>anukaYcita<k2>anukaYcita
+22654 old <ls>DHANURVEDA</ls> beim Sch. zu <ls>H. 777.</ls>
+22654 new <ls>DHANURVEDA</ls> beim <ls>Sch.</ls> zu <ls>H. 777.</ls>
+;
+; TODO Case 22: (reason = " Sch. (not in ls)")
+; <L>2821<pc>1-0206<k1>anunAyikA<k2>anunAyikA
+23665 old <ls>BHARATA</ls> beim Sch. zu <ls>ŚĀK. 9, 6.</ls>
+23665 new <ls>BHARATA</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 9, 6.</ls>
+;
+; TODO Case 23: (reason = " Sch. (not in ls)")
+; <L>2839<pc>1-0207<k1>anupadin<k2>anupadin
+23803 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 9, 70.</ls> {#anupadI gavAm#} 
+23803 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 9, 70.</ls> {#anupadI gavAm#} 
+;
+; TODO Case 24: (reason = "(Sch.: ")
+; <L>3088<pc>1-0225<k1>anusaMsarpa<k2>anusaMsarpa
+25721 old (Sch.: {#muKyasTAneByo 'nu sfptvA sfptvA parakIyARi karmaRi kuryuH#}) 
+25721 new (<ls>Sch.</ls>: {#muKyasTAneByo 'nu sfptvA sfptvA parakIyARi karmaRi kuryuH#}) 
+;
+; TODO Case 25: (reason = "(Sch.: ")
+; <L>3098<pc>1-0225<k1>anusavanam<k2>anusavanam
+25784 old {#anusavanam#}¦ (von 1. {#anu + savana#}) adv. {#anusavanamanusavanam#} (mit {#sa#} und nicht mit {#za#}) ved. <is>gaṇa</is> {#savanAdi#}.{# anusavanamenamAlaBeran#} (Sch.: = {#pratisavanam#}) 
+25784 new {#anusavanam#}¦ (von 1. {#anu + savana#}) adv. {#anusavanamanusavanam#} (mit {#sa#} und nicht mit {#za#}) ved. <is>gaṇa</is> {#savanAdi#}.{# anusavanamenamAlaBeran#} (<ls>Sch.</ls>: = {#pratisavanam#}) 
+;
+; TODO Case 26: (reason = "(Sch.: ")
+; <L>3130<pc>1-0227<k1>anUka<k2>a/nUka
+25999 old (Sch.: {#ayugmo ya izwakAgaRastasya maDyamA anUke upaDeyA) ekA ca . aBito yugmAH#} 
+25999 new (<ls>Sch.</ls>: {#ayugmo ya izwakAgaRastasya maDyamA anUke upaDeyA) ekA ca . aBito yugmAH#} 
+;
+; TODO Case 27: (reason =  (Sch.:</ls>)
+; <L>3135<pc>1-0228<k1>anUcAna<k2>anUcAna/
+26075 old <ls>?5, 23. LĀṬY. in Ind. St. I, 51, 17 (Sch.:</ls> {#SizyeByo vidyAsaMpradAnaM yaH kftavAn)#}.{# na hAyanErna palitErna vittena na banDuBiH . fzayaScakrire DarmaM yo 'nUcAnaH sa no mahAn ..#} 
+26075 new <ls>?5, 23. LĀṬY. in Ind. St. I, 51, 17</ls> (<ls>Sch.</ls>: {#SizyeByo vidyAsaMpradAnaM yaH kftavAn)#}.{# na hAyanErna palitErna vittena na banDuBiH . fzayaScakrire DarmaM yo 'nUcAnaH sa no mahAn ..#} 
+;
+; TODO Case 28: (reason = "(Sch.: ")
+; <L>3154<pc>1-0229<k1>anUbanDya<k2>anUba/nDya
+26234 old <ls>13, 4, 6. 25. 15, 7, 28. 22, 5, 19. 6, 13.</ls> {#paSupuroqASamanvanUbanDyasya#} (Sch.: {#anUbanDyapaSupuroqASamanu#}) 
+26234 new <ls>13, 4, 6. 25. 15, 7, 28. 22, 5, 19. 6, 13.</ls> {#paSupuroqASamanvanUbanDyasya#} (<ls>Sch.</ls>: {#anUbanDyapaSupuroqASamanu#}) 
+;
+; TODO Case 29: (reason = " Sch. (not in ls)")
+; <L>3216<pc>1-0233<k1>anta<k2>a/nta
+26773 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 20, 22.</ls> und <ls>KIR. 6, 17.</ls> {#AntA\dA pa^rA\kAt#} 
+26773 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 20, 22.</ls> und <ls>KIR. 6, 17.</ls> {#AntA\dA pa^rA\kAt#} 
+;
+; TODO Case 30: (reason = " Sch. (not in ls)")
+; <L>3216<pc>1-0233<k1>anta<k2>a/nta
+26886 old <ls>VAIJ.</ls> beim Sch. zu <ls>KIR. 6, 17</ls> (zu <ls>ŚIŚ. 20, 22</ls> : {#asyavasite#}). = {#avasita#} 
+26886 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 6, 17</ls> (zu <ls>ŚIŚ. 20, 22</ls> : {#asyavasite#}). = {#avasita#} 
+;
+; TODO Case 31: (reason = " Sch. (not in ls)")
+; <L>3216<pc>1-0233<k1>anta<k2>a/nta
+26887 old <ls>ŚABDĀRṆ.</ls> beim Sch. zu <ls>ŚIŚ. 4, 40</ls> (st. {#samAsO#} ist {#samAptO#} zu lesen). 
+26887 new <ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 40</ls> (st. {#samAsO#} ist {#samAptO#} zu lesen). 
+;
+; TODO Case 32: (reason = " Sch. (not in ls)")
+; <L>3216<pc>1-0233<k1>anta<k2>a/nta
+26892 old <ls>ŚABDĀRṆ.</ls> beim Sch. zu <ls>ŚIŚ. 4, 40.</ls> = {#atimanohara#} 
+26892 new <ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 40.</ls> = {#atimanohara#} 
+;
+; TODO Case 33: (reason = "(Sch.: ")
+; <L>3217<pc>1-0235<k1>antaHkaraRa<k2>antaHkaraRa
+26905 old <ls>RAGH. 2, 11.</ls> {#antaHkaraRaM triviDam#} (Sch.: {#budDyahaMkAramanAMsi#}) 
+26905 new <ls>RAGH. 2, 11.</ls> {#antaHkaraRaM triviDam#} (<ls>Sch.</ls>: {#budDyahaMkAramanAMsi#}) 
+;
+; TODO Case 34: (reason = "(Sch.: ")
+; <L>3217<pc>1-0235<k1>antaHkaraRa<k2>antaHkaraRa
+26907 old (Sch.: {#ahaMkAramanaHsahitA) budDiH#} 
+26907 new (<ls>Sch.</ls>: {#ahaMkAramanaHsahitA) budDiH#} 
+;
+; TODO Case 35: (reason = "(Sch.: ")
+; <L>3261<pc>1-0240<k1>antara<k2>a/ntara
+27389 old (Sch.: {#na vidyate Soko 'ntare maDye yasya#}). 
+27389 new (<ls>Sch.</ls>: {#na vidyate Soko 'ntare maDye yasya#}). 
+;
+; TODO Case 36: (reason = "(Sch.: ")
+; <L>3276<pc>1-0244<k1>antarA<k2>antarA/
+27721 old (Sch.: {#antarAlaM Bavati#}) 
+27721 new (<ls>Sch.</ls>: {#antarAlaM Bavati#}) 
+;
+; TODO Case 37: (reason = "(Sch.: ")
+; <L>3277<pc>1-0245<k1>antarAMsa<k2>antarAMsa
+27789 old (Sch.: {#SroRito vimfzwaM nyUnamantaramavakASo yayoH tAvaMsO yasyAH sA) maDye saMgrAhyeti#} 
+27789 new (<ls>Sch.</ls>: {#SroRito vimfzwaM nyUnamantaramavakASo yayoH tAvaMsO yasyAH sA) maDye saMgrAhyeti#} 
+;
+; TODO Case 38: (reason = " Sch. (not in ls)")
+; <L>3404<pc>1-0253<k1>antika<k2>antika/
+28804 old <ls>P. 2, 1, 39. 6, 3, 2.</ls> {#antikAdAgataH#} Sch. Accent eines solchen comp. 
+28804 new <ls>P. 2, 1, 39. 6, 3, 2.</ls> {#antikAdAgataH#} <ls>Sch.</ls> Accent eines solchen comp. 
+;
+; TODO Case 39: (reason = " Sch. (not in ls)")
+; <L>3446<pc>1-0256<k1>andu<k2>andu
+29138 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 20, 51.</ls> kennt noch zwei andere Bedeutungen: {#andustu SfNKalAyAM BUzAyazwipalAsvapi#}(?). Vgl. {#anduka, andU, andUka#} .
+29138 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 20, 51.</ls> kennt noch zwei andere Bedeutungen: {#andustu SfNKalAyAM BUzAyazwipalAsvapi#}(?). Vgl. {#anduka, andU, andUka#} .
+;
+; TODO Case 40: (reason = "(Sch.: ")
+; <L>3538<pc>1-0264<k1>anyatama<k2>anyatama
+29983 old (Sch.: {#prAcIM vodIcIM vA#}) 
+29983 new (<ls>Sch.</ls>: {#prAcIM vodIcIM vA#}) 
+;
+; TODO Case 41: (reason = "(Sch.: ")
+; <L>3616<pc>1-0271<k1>anvaYc<k2>anva/Yc
+30712 old (Sch.: {#cA° anudrutya#}) 
+30712 new (<ls>Sch.</ls>: {#cA° anudrutya#}) 
+;
+; TODO Case 42: (reason = " Sch. (not in ls)")
+; <L>3670<pc>1-0275<k1>apa<k2>a/pa<h>1
+31163 old <ls>6, 2, 33.</ls> {#a/patrigartaM vfzwo devaH#} Sch. — 
+31163 new <ls>6, 2, 33.</ls> {#a/patrigartaM vfzwo devaH#} <ls>Sch.</ls> — 
+;
+; TODO Case 43: (reason = " Sch. (not in ls)")
+; <L>3731<pc>1-0280<k1>apawI<k2>apawI
+31633 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 5, 22.</ls> — Var. von {#pawI#} .
+31633 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 5, 22.</ls> — Var. von {#pawI#} .
+;
+; TODO Case 44: (reason = " Sch. (not in ls)")
+; <L>3824<pc>1-0285<k1>apara<k2>a/para
+32367 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 5, 48.</ls> und zu <ls>KIR. 7, 37.</ls> 
+32367 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 5, 48.</ls> und zu <ls>KIR. 7, 37.</ls> 
+;
+; TODO Case 45: (reason = " Sch. (not in ls)")
+; <L>3930<pc>1-0292<k1>apalpUlanakfta<k2>a/palpUlanakfta
+33114 old <ls>KĀTY. ŚR. 7, 2, 18.</ls> hat statt dessen: {#amOtraDOta#}, was der Sch. durch {#arajakaprakzAlita#} erklärt.
+33114 new <ls>KĀTY. ŚR. 7, 2, 18.</ls> hat statt dessen: {#amOtraDOta#}, was der <ls>Sch.</ls> durch {#arajakaprakzAlita#} erklärt.
+;
+; TODO Case 46: (reason = " Sch. (not in ls)")
+; <L>3940<pc>1-0292<k1>apavAda<k2>apavAda
+33243 old <ls>AK. 3, 4, 91.</ls> <ls>SAJJANA</ls> beim Sch. zu <ls>KIR. 14, 27.</ls> 
+33243 new <ls>AK. 3, 4, 91.</ls> <ls>SAJJANA</ls> beim <ls>Sch.</ls> zu <ls>KIR. 14, 27.</ls> 
+;
+; TODO Case 47: (reason = "(Sch.: ")
+; <L>3993<pc>1-0296<k1>apasalavi<k2>apasalavi/
+33613 old (Sch.: = {#apradakziRam) hi pitryaM karma#} 
+33613 new (<ls>Sch.</ls>: = {#apradakziRam) hi pitryaM karma#} 
+;
+; TODO Case 48: (reason = "(Sch.: ")
+; <L>3993<pc>1-0296<k1>apasalavi<k2>apasalavi/
+33615 old (Sch.: = {#apradAkziRyena) sfzwayA rajjvA#} 
+33615 new (<ls>Sch.</ls>: = {#apradAkziRyena) sfzwayA rajjvA#} 
+;
+; TODO Case 49: (reason = "(Sch.: ")
+; <L>3994<pc>1-0296<k1>apasavya<k2>apasavya
+33629 old (Sch.: = {#aNguzWapradeSinyorantarAlena#}) {#savyena vodDaraRasAmarTyAt#} 
+33629 new (<ls>Sch.</ls>: = {#aNguzWapradeSinyorantarAlena#}) {#savyena vodDaraRasAmarTyAt#} 
+;
+; TODO Case 50: (reason = " Sch. (not in ls)")
+; <L>4120<pc>1-0303<k1>api<k2>a/pi
+34806 old <ls>P. 3, 3, 152.</ls> Der Sch. erklärt {#apyaDIyIta#} und {#utADIyIta#} durch {#vAQamaDyezyate#} . 
+34806 new <ls>P. 3, 3, 152.</ls> Der <ls>Sch.</ls> erklärt {#apyaDIyIta#} und {#utADIyIta#} durch {#vAQamaDyezyate#} . 
+;
+; TODO Case 51: (reason = " Sch. (not in ls)")
+; <L>4176<pc>1-0310<k1>apUraRI<k2>apUraRI
+35185 old {#apUraRI#}¦ (3. {#a + pU°#}) <lex>f.</lex> ({%zum Einschlag untauglich) der Wollbaum, Salmalia malabarica Sch. u. Endl.%}, 
+35185 new {#apUraRI#}¦ (3. {#a + pU°#}) <lex>f.</lex> ({%zum Einschlag untauglich) der Wollbaum, Salmalia malabarica <ls>Sch.</ls> u. Endl.%}, 
+;
+; TODO Case 52: (reason = "(Sch.: ")
+; <L>4359<pc>1-0322<k1>apsumant<k2>apsumant<h>1
+36479 old (Sch.: {#vEdyutena cedagnisaMsargaH tadAgnaye 'psumata izwirAhutirvA#}) 
+36479 new (<ls>Sch.</ls>: {#vEdyutena cedagnisaMsargaH tadAgnaye 'psumata izwirAhutirvA#}) 
+;
+; TODO Case 53: (reason = "(Sch.: ")
+; <L>4534<pc>1-0334<k1>aBitas<k2>aBi/tas
+37985 old <ls>?10, 53, 7. 5, 30, 10. 7, 101, 4. 10, 76, 6. 81, 5. VS. 5, 16. 11, 29. 16, 6. 20, 40. AV. 3, 5, 6. u.s.w. ŚAT. BR. 1, 2, 5, 6. R. 2, 94, 20. KATHĀS. 8, 28.</ls> {#aBito#} (Sch.: = {#sarvataH) devayajanamAtradeSa#} {%dessen Platz an allen Seiten zu einem%} {#devayajana#} {%hinreicht%} 
+37985 new <ls>?10, 53, 7. 5, 30, 10. 7, 101, 4. 10, 76, 6. 81, 5. VS. 5, 16. 11, 29. 16, 6. 20, 40. AV. 3, 5, 6. u.s.w. ŚAT. BR. 1, 2, 5, 6. R. 2, 94, 20. KATHĀS. 8, 28.</ls> {#aBito#} (<ls>Sch.</ls>: = {#sarvataH) devayajanamAtradeSa#} {%dessen Platz an allen Seiten zu einem%} {#devayajana#} {%hinreicht%} 
+;
+; TODO Case 54: (reason = "(Sch.: ")
+; <L>4540<pc>1-0335<k1>aBidakziRam<k2>aBidakziRam
+38035 old (Sch.: = {#dakziRaSfNgasaMmuKam) baDnAti#} 
+38035 new (<ls>Sch.</ls>: = {#dakziRaSfNgasaMmuKam) baDnAti#} 
+;
+; TODO Case 55: (reason = " Sch. (not in ls)")
+; <L>4579<pc>1-0338<k1>aBiniveSa<k2>aBiniveSa
+38357 old <ls>SĀH. D. 24, 22.</ls> {#tato devyA samupajAtABiniveSam#} (adv. Sch. = {#utpanno 'BimAno yatra yasyAM kriyAyAM yaTA syAttaTA#}) {#uktamevam#} 
+38357 new <ls>SĀH. D. 24, 22.</ls> {#tato devyA samupajAtABiniveSam#} (adv. <ls>Sch.</ls> = {#utpanno 'BimAno yatra yasyAM kriyAyAM yaTA syAttaTA#}) {#uktamevam#} 
+;
+; TODO Case 56: (reason = " Sch. (not in ls)")
+; <L>4579<pc>1-0338<k1>aBiniveSa<k2>aBiniveSa
+38368 old <ls>SĀṂKHYAK. ed. WILS. S. 150.</ls> <ls>VP. 34, N. 2.</ls> Sch. zu <ls>PRAB. 98, 15.</ls>
+38368 new <ls>SĀṂKHYAK. ed. WILS. S. 150.</ls> <ls>VP. 34, N. 2.</ls> <ls>Sch.</ls> zu <ls>PRAB. 98, 15.</ls>
+;
+; TODO Case 57: (reason = "(Sch.: ")
+; <L>4602<pc>1-0339<k1>aBiprayAyam<k2>aBiprayAyam
+38536 old {#aBiprayAyam#}¦ (von {#yA#} mit {#aBi + pra#}) adv. {%hinzutretend%}: {#aBiprayAyamaBizuRvanti#} (Sch.: = {#yAtvA yAtvA#}) 
+38536 new {#aBiprayAyam#}¦ (von {#yA#} mit {#aBi + pra#}) adv. {%hinzutretend%}: {#aBiprayAyamaBizuRvanti#} (<ls>Sch.</ls>: = {#yAtvA yAtvA#}) 
+;
+; TODO Case 58: (reason = "(Sch.: ")
+; <L>4657<pc>1-0343<k1>aBimAnin<k2>aBimAnin
+38978 old (Sch.: = {#sTAnABimAnaM janayan#}) 
+38978 new (<ls>Sch.</ls>: = {#sTAnABimAnaM janayan#}) 
+;
+; TODO Case 59: (reason = "(Sch.: ")
+; <L>4721<pc>1-0347<k1>aBiviDi<k2>aBiviDi
+39500 old <ls>P. 2, 1, 13</ls> (Sch.: {#tena vinA maryAdA . tatsahito 'BiviDiH#}). 
+39500 new <ls>P. 2, 1, 13</ls> (<ls>Sch.</ls>: {#tena vinA maryAdA . tatsahito 'BiviDiH#}). 
+;
+; TODO Case 60: (reason =  (Sch.:</ls>)
+; <L>4721<pc>1-0347<k1>aBiviDi<k2>aBiviDi
+39501 old <ls>?3, 3, 44 (Sch.:</ls> = {#kriyAyAH kArtsnyena saMbanDaH#}). 
+39501 new <ls>?3, 3, 44</ls> (<ls>Sch.</ls>: = {#kriyAyAH kArtsnyena saMbanDaH#}). 
+;
+; TODO Case 61: (reason =  (Sch.:</ls>)
+; <L>4721<pc>1-0347<k1>aBiviDi<k2>aBiviDi
+39502 old <ls>?5, 4, 53 (Sch.:</ls> {#bahUnAM vyaklInAmekadeSenAnyaTABAvo 'BiviDiH . kArtsnyaM tvekavyakteH sarvAvayavenAnyaTABAvaH#}). 
+39502 new <ls>?5, 4, 53</ls> (<ls>Sch.</ls>: {#bahUnAM vyaklInAmekadeSenAnyaTABAvo 'BiviDiH . kArtsnyaM tvekavyakteH sarvAvayavenAnyaTABAvaH#}). 
+;
+; TODO Case 62: (reason = " Sch. (not in ls)")
+; <L>4866<pc>1-0356<k1>aBIzu<k2>aBIzu
+40605 old <ls>MED. ṣ. 30.</ls> <ls>ŚĀŚVATA</ls> beim Sch. zu <ls>ŚIŚ. 1, 22.</ls>
+40605 new <ls>MED. ṣ. 30.</ls> <ls>ŚĀŚVATA</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 1, 22.</ls>
+;
+; TODO Case 63: (reason = "(Sch.: ")
+; <L>4886<pc>1-0357<k1>aByaYjana<k2>aBya/Yjana
+40744 old <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KĀTY. ŚR. 7, 3, 14. 8, 8, 17. 20, 4, 8.</ls> {#AYjanAByaYjane#} (Sch.: {#AYjanamakzRoraByaYjanaM ca pAdayoH) kftvA#} 
+40744 new <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KĀTY. ŚR. 7, 3, 14. 8, 8, 17. 20, 4, 8.</ls> {#AYjanAByaYjane#} (<ls>Sch.</ls>: {#AYjanamakzRoraByaYjanaM ca pAdayoH) kftvA#} 
+;
+; TODO Case 64: (reason = " Sch. (not in ls)")
+; <L>5460<pc>1-0394<k1>ayasTURa<k2>a/yasTURa
+45433 old <ls>ŚAT. BR. 11, 4, 2, 17.</ls> {#ayasTURAKyaH kaScidfziH sa gfhapatiryezAM te taToktAH#} Sch. <is>gaṇa</is> {#SivAdi, ayaHsTURAs#} pl. zu {#Aya°#} <is>gaṇa</is> {#yaskAdi#} .
+45433 new <ls>ŚAT. BR. 11, 4, 2, 17.</ls> {#ayasTURAKyaH kaScidfziH sa gfhapatiryezAM te taToktAH#} <ls>Sch.</ls> <is>gaṇa</is> {#SivAdi, ayaHsTURAs#} pl. zu {#Aya°#} <is>gaṇa</is> {#yaskAdi#} .
+;
+; TODO Case 65: (reason = " Sch. (not in ls)")
+; <L>5473<pc>1-0395<k1>ayATataTya<k2>a/yATataTya
+45528 old <ls>P. 7, 3, 31.</ls> Nach dem Sch. adv.
+45528 new <ls>P. 7, 3, 31.</ls> Nach dem <ls>Sch.</ls> adv.
+;
+; TODO Case 66: (reason = "(Sch.: ")
+; <L>5483<pc>1-0396<k1>ayukta<k2>a/yukta
+45625 old (Sch.: = {#ayogyAni) yAnAni pravartante#} 
+45625 new (<ls>Sch.</ls>: = {#ayogyAni) yAnAni pravartante#} 
+;
+; TODO Case 67: (reason = " Sch. (not in ls)")
+; <L>5522<pc>1-0398<k1>ayoni<k2>a/yoni<h>1
+45934 old <ls>VAIJ.</ls> beim Sch. zu <ls>H. 1017.</ls> Ist etwa {#ayo'Ri (ayas + aRi)#} zu lesen?
+45934 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>H. 1017.</ls> Ist etwa {#ayo'Ri (ayas + aRi)#} zu lesen?
+;
+; TODO Case 68: (reason = " Sch. (not in ls)")
+; <L>5934<pc>1-0438<k1>arTya<k2>a/rTya
+50443 old <ls>H. an.</ls> Cit. beim Sch. zu <ls>H. 834.</ls> 
+50443 new <ls>H. an.</ls> Cit. beim <ls>Sch.</ls> zu <ls>H. 834.</ls> 
+;
+; TODO Case 69: (reason = " Sch. (not in ls)")
+; <L>5955<pc>1-0443<k1>arDacandra<k2>arDacandra
+50941 old <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 6, 25.</ls> 
+50941 new <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 6, 25.</ls> 
+;
+; TODO Case 70: (reason = " Sch. (not in ls)")
+; <L>6075<pc>1-0453<k1>arh<k2>arh
+52075 old <ls>P. 6, 1, 36.</ls> {#Anarhus#} klass. Sch. mit dem inf. 
+52075 new <ls>P. 6, 1, 36.</ls> {#Anarhus#} klass. <ls>Sch.</ls> mit dem inf. 
+;
+; TODO Case 71: (reason = " Sch. (not in ls)")
+; <L>6208<pc>1-0463<k1>kalpa<k2>ka/lpa
+53468 old <ls>2, 1, 39. 6, 3, 2.</ls> {#alpAnmukta#} Sch. — {#alpena#} dass. 
+53468 new <ls>2, 1, 39. 6, 3, 2.</ls> {#alpAnmukta#} <ls>Sch.</ls> — {#alpena#} dass. 
+;
+; TODO Case 72: (reason = "Sch. " at beg of line)
+; <L>6400<pc>1-0478<k1>avaDfzya<k2>avaDfzya
+55137 old Sch. zu <ls>P. 8, 1, 18</ls> ist aus 
+55137 new <ls>Sch.</ls> zu <ls>P. 8, 1, 18</ls> ist aus 
+;
+; TODO Case 73: (reason = " Sch. (not in ls)")
+; <L>6879<pc>1-0508<k1>aS<k2>aS<h>2
+59039 old <ls>P. 6, 1, 207</ls> (nach dem Sch. mit {#A#} zusammenges.; vgl. 
+59039 new <ls>P. 6, 1, 207</ls> (nach dem <ls>Sch.</ls> mit {#A#} zusammenges.; vgl. 
+;
+; TODO Case 74: (reason = " Sch. (not in ls)")
+; <L>6884<pc>1-0510<k1>aSana<k2>a/Sana<h>2
+59165 old <ls>H. 395</ls> (nach dem Sch. auch m.) {#vipa^kve\ yo mA^ piSA\co aSa^ne da\damBa^#} 
+59165 new <ls>H. 395</ls> (nach dem <ls>Sch.</ls> auch m.) {#vipa^kve\ yo mA^ piSA\co aSa^ne da\damBa^#} 
+;
+; TODO Case 75: (reason = "(Sch.: ")
+; <L>7130<pc>1-0526<k1>aSvavAra<k2>aSvavAra
+61156 old <ls>ŚIŚ. 3, 66</ls> (Sch.: {#aSvAnvArayanti te 'SvavArA aSvArohAH#}). {%Stallknecht%} 
+61156 new <ls>ŚIŚ. 3, 66</ls> (<ls>Sch.</ls>: {#aSvAnvArayanti te 'SvavArA aSvArohAH#}). {%Stallknecht%} 
+;
+; TODO Case 76: (reason = "(Sch.: ")
+; <L>7256<pc>1-0535<k1>as<k2>as<h>1
+62333 old <ls>KIR. 3, 6</ls> (Sch.: {#asmi ahamityarTAvyayam#}; 
+62333 new <ls>KIR. 3, 6</ls> (<ls>Sch.</ls>: {#asmi ahamityarTAvyayam#}; 
+;
+; TODO Case 77: (reason = " Sch. (not in ls)")
+; <L>7257<pc>1-0538<k1>as<k2>as<h>2
+62725 old <ls>VASIṢṬHA</ls> beim Sch. zu 
+62725 new <ls>VASIṢṬHA</ls> beim <ls>Sch.</ls> zu 
+;
+; TODO Case 78: (reason = "(Sch.: ")
+; <L>7257<pc>1-0538<k1>as<k2>as<h>2
+62847 old (Sch.: = {#dUre prakziptAH#}) 
+62847 new (<ls>Sch.</ls>: = {#dUre prakziptAH#}) 
+;
+; TODO Case 79: (reason = " Sch. (not in ls)")
+; <L>7609<pc>1-0569<k1>aha<k2>a/ha<h>1
+65830 old <ls>8, 1, 39. 58. 61</ls> besprochen. Der Sch. führt folgende Beispiele an: {#aha (pUjAyAm#} 
+65830 new <ls>8, 1, 39. 58. 61</ls> besprochen. Der <ls>Sch.</ls> führt folgende Beispiele an: {#aha (pUjAyAm#} 
+;
+; TODO Case 80: (reason = " Sch. (not in ls)")
+; <L>7678<pc>1-0574<k1>ahika<k2>ahika<h>1
+66452 old <div n="1">— 2) <lex>f.</lex> {#A#} N. eines Baumes, {%Salmalia malabarica Sch. u. Endl.%} ({#SAlmalI#}), 
+66452 new <div n="1">— 2) <lex>f.</lex> {#A#} N. eines Baumes, {%Salmalia malabarica <ls>Sch.</ls> u. Endl.%} ({#SAlmalI#}), 
+;
+; TODO Case 81: (reason = " Sch. (not in ls)")
+; <L>7714<pc>1-0576<k1>ahirbuDna<k2>ahirbuDna
+66687 old <ls>H. 197.</ls> beide Theile declin.: {#ahaye buDnAya#} Sch. {#ahirbuDnadevatAH#} <lex>f.</lex> pl. {%das 26ste Mondhaus%} 
+66687 new <ls>H. 197.</ls> beide Theile declin.: {#ahaye buDnAya#} <ls>Sch.</ls> {#ahirbuDnadevatAH#} <lex>f.</lex> pl. {%das 26ste Mondhaus%} 
+;
+; TODO Case 82: (reason = " Sch. (not in ls)")
+; <L>7727<pc>1-0577<k1>ahIra<k2>ahIra
+66790 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 11, 8.</ls> 
+66790 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 11, 8.</ls> 
+;
+; TODO Case 83: (reason = " Sch. (not in ls)")
+; <L>7774<pc>1-0584<k1>AkaraRa<k2>AkaraRa
+67379 old <ls>AK. 1, 1, 5, 9.</ls> Nach den Sch. auch {#°RA#} <lex>f.</lex> Schlechte Lesart für {#AkAraRa#} .
+67379 new <ls>AK. 1, 1, 5, 9.</ls> Nach den <ls>Sch.</ls> auch {#°RA#} <lex>f.</lex> Schlechte Lesart für {#AkAraRa#} .
+;
+; TODO Case 84: (reason = "(Sch.: ")
+; <L>7775<pc>1-0584<k1>Akarin<k2>Akarin
+67384 old (Sch.: = {#Akaraja#}) 
+67384 new (<ls>Sch.</ls>: = {#Akaraja#}) 
+;
+; TODO Case 85: (reason = " Sch. (not in ls)")
+; <L>7848<pc>1-0590<k1>Akfti<k2>A/kfti
+68065 old <ls>H. an.</ls> <ls>MED.</ls> und <ls>VAIJ.</ls> (beim Sch. zu <ls>KIR. 1, 36</ls>) noch weiter, indem sie die Bedeut. {%Körper%} aufstellen. 
+68065 new <ls>H. an.</ls> <ls>MED.</ls> und <ls>VAIJ.</ls> (beim <ls>Sch.</ls> zu <ls>KIR. 1, 36</ls>) noch weiter, indem sie die Bedeut. {%Körper%} aufstellen. 
+;
+; TODO Case 86: (reason = " Sch. (not in ls)")
+; <L>7991<pc>1-0600<k1>AgnIDrya<k2>AgnIDrya
+69328 old <ls>KĀṬHAKA</ls> beim Sch. zu <ls>KĀTY. ŚR. 8, 6, 13.</ls>
+69328 new <ls>KĀṬHAKA</ls> beim <ls>Sch.</ls> zu <ls>KĀTY. ŚR. 8, 6, 13.</ls>
+;
+; TODO Case 87: (reason = " Sch. (not in ls)")
+; <L>8001<pc>1-0601<k1>AgrahAyaRika<k2>AgrahAyaRika/<h>1
+69482 old <ls>P. 4, 2, 22.</ls> {#AgrahAyaRI pOrRamAsyasmin AgrahAyaRiko mAsAdiH#} Sch. <lex>m.</lex> {%der Monat%} <is>Agrahāyaṇa</is> 
+69482 new <ls>P. 4, 2, 22.</ls> {#AgrahAyaRI pOrRamAsyasmin AgrahAyaRiko mAsAdiH#} <ls>Sch.</ls> <lex>m.</lex> {%der Monat%} <is>Agrahāyaṇa</is> 
+;
+; TODO Case 88: (reason = " Sch. (not in ls)")
+; <L>8255<pc>1-0617<k1>AtiTeya<k2>A/tiTeya<h>1
+71539 old <ls>H. 499</ls> (nach den Sch. auch n.).
+71539 new <ls>H. 499</ls> (nach den <ls>Sch.</ls> auch n.).
+;
+; TODO Case 89: (reason = "(Sch.: ")
+; <L>8652<pc>1-0646<k1>Anulomya<k2>Anulomya
+74898 old (Sch.: {#anulomajAtAnAm#}) 
+74898 new (<ls>Sch.</ls>: {#anulomajAtAnAm#}) 
+;
+; TODO Case 90: (reason = " Sch. (not in ls)")
+; <L>8948<pc>1-0671<k1>Amiza<k2>Amiza/
+77837 old <ls>H. 622</ls> (nach dem Sch. auch m.). 
+77837 new <ls>H. 622</ls> (nach dem <ls>Sch.</ls> auch m.). 
+;
+; TODO Case 91: (reason = " Sch. (not in ls)")
+; <L>9022<pc>1-0675<k1>AyaTAtaTya<k2>A/yaTAtaTya
+78453 old <ls>P. 7, 3, 31.</ls> Nach den Sch. adv.
+78453 new <ls>P. 7, 3, 31.</ls> Nach den <ls>Sch.</ls> adv.
+;
+; TODO Case 92: (reason = "(Sch.: ")
+; <L>9148<pc>1-0686<k1>ArAt<k2>ArA/t
+79704 old (Sch.: = {#avyavahitakAle#}) 
+79704 new (<ls>Sch.</ls>: = {#avyavahitakAle#}) 
+;
+; TODO Case 93: (reason = "(Sch.: ")
+; <L>9160<pc>1-0687<k1>ArADya<k2>ArADya
+79801 old (Sch.: = {#asmatsvAminaH#}) 
+79801 new (<ls>Sch.</ls>: = {#asmatsvAminaH#}) 
+;
+; TODO Case 94: (reason = " Sch. (not in ls)")
+; <L>9218<pc>1-0690<k1>Aropya<k2>Aropya
+80203 old {#Aropya#}¦ (wie eben) <lex>adj.</lex> {%aufzusetzen, aufzulegen%}: {#hArAdi#} ist ein {#BUzaRamAropyam#} Cit. beim Sch. zu 
+80203 new {#Aropya#}¦ (wie eben) <lex>adj.</lex> {%aufzusetzen, aufzulegen%}: {#hArAdi#} ist ein {#BUzaRamAropyam#} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 95: (reason = " Sch. (not in ls)")
+; <L>9276<pc>1-0695<k1>Ardraka<k2>Ardraka<h>1
+80817 old <ls>H. 1189</ls> (nach dem Sch. auch m.). 
+80817 new <ls>H. 1189</ls> (nach dem <ls>Sch.</ls> auch m.). 
+;
+; TODO Case 96: (reason = " Sch. (not in ls)")
+; <L>9467<pc>1-0709<k1>Avaha<k2>Avaha
+82562 old <ls>HARIV. 12787.</ls> <ls>BRAHMĀṆḌA-P.</ls> beim Sch. zu <ls>ŚĀK. 165.</ls> einer der sieben Zungen des Feuers 
+82562 new <ls>HARIV. 12787.</ls> <ls>BRAHMĀṆḌA-P.</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 165.</ls> einer der sieben Zungen des Feuers 
+;
+; TODO Case 97: (reason = " Sch. (not in ls)")
+; <L>9469<pc>1-0709<k1>AvApa<k2>AvApa
+82597 old <ls>H. 663.</ls> auch <lex>n.</lex> nach dem Sch. {#mohAtpapAta gARqIvamAvApaM ca karAdapi#} 
+82597 new <ls>H. 663.</ls> auch <lex>n.</lex> nach dem <ls>Sch.</ls> {#mohAtpapAta gARqIvamAvApaM ca karAdapi#} 
+;
+; TODO Case 98: (reason = " Sch. (not in ls)")
+; <L>9475<pc>1-0710<k1>AvAla<k2>AvAla
+82644 old <ls>H. 1095</ls> (nach dem Sch. auch m.).
+82644 new <ls>H. 1095</ls> (nach dem <ls>Sch.</ls> auch m.).
+;
+; TODO Case 99: (reason = " Sch. (not in ls)")
+; <L>9546<pc>1-0715<k1>ASaya<k2>ASaya/
+83315 old <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 2, 77</ls> : {#malina#} {%schmutzig%}, {#aByantara#} {%Zwischenraum.%} 
+83315 new <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 2, 77</ls> : {#malina#} {%schmutzig%}, {#aByantara#} {%Zwischenraum.%} 
+;
+; TODO Case 100: (reason = " Sch. (not in ls)")
+; <L>9587<pc>1-0719<k1>ASI<k2>ASI
+83706 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚUP. 20, 42.</ls> 
+83706 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚUP. 20, 42.</ls> 
+;
+; TODO Case 101: (reason = "(Sch.: ")
+; <L>9779<pc>1-0739<k1>Asura<k2>Asura/
+85866 old {#AsuravipralamBanAni#} (Sch.: = {#akftyacaraRAni#}) 
+85866 new {#AsuravipralamBanAni#} (<ls>Sch.</ls>: = {#akftyacaraRAni#}) 
+;
+; TODO Case 102: (reason = " Sch. (not in ls)")
+; <L>10134<pc>1-0802<k1>indra<k2>i/ndra
+91729 old <ls>H. 1199</ls> (nach dem Sch. auch f.). 
+91729 new <ls>H. 1199</ls> (nach dem <ls>Sch.</ls> auch f.). 
+;
+; TODO Case 103: (reason = " Sch. (not in ls)")
+; <L>10440<pc>1-0833<k1>izwin<k2>izwi/n
+94760 old <ls>P. 5, 2, 88.</ls> {#izwI yajYe#} Sch. 
+94760 new <ls>P. 5, 2, 88.</ls> {#izwI yajYe#} <ls>Sch.</ls> 
+;
+; TODO Case 104: (reason = " Sch. (not in ls)")
+; <L>10456<pc>1-0833<k1>izvAsa<k2>izvAsa/
+94859 old <ls>H. 775</ls> (nach dem Sch. auch n.) 
+94859 new <ls>H. 775</ls> (nach dem <ls>Sch.</ls> auch n.) 
+;
+; TODO Case 105: (reason = " Sch. (not in ls)")
+; <L>10470<pc>1-0835<k1>Ikz<k2>Ikz
+95051 old <ls>VOP. 5, 15.</ls> {#devadattAya Ikzate = pfzwaH sandevadattasya SuBASuBaM paryAlocayati#} Sch. — caus. {#Ikzayati#} {%hinsehen lassen nach%} (acc.): {#AdityamIkzayet#} 
+95051 new <ls>VOP. 5, 15.</ls> {#devadattAya Ikzate = pfzwaH sandevadattasya SuBASuBaM paryAlocayati#} <ls>Sch.</ls> — caus. {#Ikzayati#} {%hinsehen lassen nach%} (acc.): {#AdityamIkzayet#} 
+;
+; TODO Case 106: (reason = " Sch. (not in ls)")
+; <L>10511<pc>1-0850<k1>Irma<k2>Irma/<h>2
+96342 old <ls>H. 465</ls> (nach dem Sch. auch m.). <lex>m.</lex> 
+96342 new <ls>H. 465</ls> (nach dem <ls>Sch.</ls> auch m.). <lex>m.</lex> 
+;
+; TODO Case 107: (reason = "(Sch.: ")
+; <L>10577<pc>1-0859<k1>u<k2>u<h>2
+97272 old (Sch.: = {#sarvamapi pra° vi° na saM°#}) 
+97272 new (<ls>Sch.</ls>: = {#sarvamapi pra° vi° na saM°#}) 
+;
+; TODO Case 108: (reason = " Sch. (not in ls)")
+; <L>10683<pc>1-0872<k1>uccUqa<k2>uccUqa
+98536 old <ls>HALĀY.</ls> beim Sch. zu <ls>ŚIŚ. 5, 13.</ls>
+98536 new <ls>HALĀY.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 5, 13.</ls>
+;
+; TODO Case 109: (reason = " Sch. (not in ls)")
+; <L>10754<pc>1-0878<k1>uYCa<k2>uYCa/
+99241 old <ls>H. 865</ls> (nach dem Sch. auch n.). {#SiloYCamapyAdadIta vipro 'jIvanyatastataH . pratigrahAcCilaH SreyAMstato 'pyuYCaH praSasyate ..#} 
+99241 new <ls>H. 865</ls> (nach dem <ls>Sch.</ls> auch n.). {#SiloYCamapyAdadIta vipro 'jIvanyatastataH . pratigrahAcCilaH SreyAMstato 'pyuYCaH praSasyate ..#} 
+;
+; TODO Case 110: (reason = "(Sch.: ")
+; <L>11107<pc>1-0904<k1>utsava<k2>utsava/
+102461 old (Sch.: = {#nayanaprasAdena#}) 
+102461 new (<ls>Sch.</ls>: = {#nayanaprasAdena#}) 
+;
+; TODO Case 111: (reason = " Sch. (not in ls)")
+; <L>11132<pc>1-0906<k1>utseDa<k2>utseDa/
+102715 old <ls>H. 1431</ls> (nach dem Sch. auch n.).
+102715 new <ls>H. 1431</ls> (nach dem <ls>Sch.</ls> auch n.).
+;
+; TODO Case 112: (reason = " Sch. (not in ls)")
+; <L>11188<pc>1-0910<k1>udaNka<k2>udaNka/
+103174 old <ls>P. 3, 3, 123.</ls> {#tElodaNka#} Sch. Vgl. {#udaYcana#} . 
+103174 new <ls>P. 3, 3, 123.</ls> {#tElodaNka#} <ls>Sch.</ls> Vgl. {#udaYcana#} . 
+;
+; TODO Case 113: (reason = " Sch. (not in ls)")
+; <L>11243<pc>1-0915<k1>udara<k2>uda/ra
+103798 old <ls>MED. r. 117.</ls> <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 7, 81.</ls> — Wohl wie {#udAra#} von {#ar#} mit {#ud#} .
+103798 new <ls>MED. r. 117.</ls> <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 7, 81.</ls> — Wohl wie {#udAra#} von {#ar#} mit {#ud#} .
+;
+; TODO Case 114: (reason = "(Sch.: ")
+; <L>11300<pc>1-0918<k1>udAra<k2>udAra/
+104250 old (Sch.: = {#uccEs): pragIyate#} 
+104250 new (<ls>Sch.</ls>: = {#uccEs): pragIyate#} 
+;
+; TODO Case 115: (reason = " Sch. (not in ls)")
+; <L>11360<pc>1-0923<k1>udgrABa<k2>udgrABa/
+104797 old <ls>P. 3, 3, 36, <is>Vārtt</is>.</ls> beim. Sch. das Beispiel aus 
+104797 new <ls>P. 3, 3, 36, <is>Vārtt</is>.</ls> beim. <ls>Sch.</ls> das Beispiel aus 
+;
+; TODO Case 116: (reason = "(Sch.: ")
+; <L>11381<pc>1-0924<k1>uddaRqa<k2>uddaRqa
+104980 old <ls>KATHĀS. 25, 248.</ls> {#uddaRqadordaRqa = unnatadordaRqa#} (Sch.: = {#udBawa#}) 
+104980 new <ls>KATHĀS. 25, 248.</ls> {#uddaRqadordaRqa = unnatadordaRqa#} (<ls>Sch.</ls>: = {#udBawa#}) 
+;
+; TODO Case 117: (reason = "(Sch.: ")
+; <L>11387<pc>1-0924<k1>uddAma<k2>uddAma
+105038 old <ls>PRAB. 81, 10. 13</ls> (Sch.: = {#KyAta#}). 
+105038 new <ls>PRAB. 81, 10. 13</ls> (<ls>Sch.</ls>: = {#KyAta#}). 
+;
+; TODO Case 118: (reason = "(Sch.: ")
+; <L>11435<pc>1-0928<k1>udDura<k2>udDura
+105473 old <ls>DAŚAK. 122, 13</ls> (Sch.: = {#viSfNKala)#}.{# jayodDura#} {%victorious, conquering%} (wohl: {%durch den Sieg ermuthigt%}) 
+105473 new <ls>DAŚAK. 122, 13</ls> (<ls>Sch.</ls>: = {#viSfNKala)#}.{# jayodDura#} {%victorious, conquering%} (wohl: {%durch den Sieg ermuthigt%}) 
+;
+; TODO Case 119: (reason = " Sch. (not in ls)")
+; <L>11483<pc>1-0931<k1>udyama<k2>udyama
+105849 old <ls>H. 300</ls> (nach dem Sch. auch n.). {#tatkaTyatAM yenAhamAtmarakzArTaM tadvaDAyodyamaM karomi#} 
+105849 new <ls>H. 300</ls> (nach dem <ls>Sch.</ls> auch n.). {#tatkaTyatAM yenAhamAtmarakzArTaM tadvaDAyodyamaM karomi#} 
+;
+; TODO Case 120: (reason = " Sch. (not in ls)")
+; <L>11487<pc>1-0931<k1>udyAna<k2>udyA/na
+105897 old <ls>H. 1112</ls> (nach dem Sch. auch m.) 
+105897 new <ls>H. 1112</ls> (nach dem <ls>Sch.</ls> auch m.) 
+;
+; TODO Case 121: (reason = "(Sch.: ")
+; <L>12144<pc>1-0977<k1>upasadI<k2>u/pasadI
+111409 old (Sch.: = {#saMtatO) mA cCEtsItprajayA ca paSuBiSca#} 
+111409 new (<ls>Sch.</ls>: = {#saMtatO) mA cCEtsItprajayA ca paSuBiSca#} 
+;
+; TODO Case 122: (reason = " Sch. (not in ls)")
+; <L>12273<pc>1-0986<k1>upAdAna<k2>upAdAna
+112493 old <ls>ŚAṄKHA</ls> und <ls>LIKHITA</ls> in <ls>DĀY. 127, 8.</ls> Sch. zu <ls>P. 2, 3, 73. 3, 1, 76. 4, 2, 93.</ls> <ls>SIDDH. K.</ls> zu <ls>2, 4, 32.</ls> 
+112493 new <ls>ŚAṄKHA</ls> und <ls>LIKHITA</ls> in <ls>DĀY. 127, 8.</ls> <ls>Sch.</ls> zu <ls>P. 2, 3, 73. 3, 1, 76. 4, 2, 93.</ls> <ls>SIDDH. K.</ls> zu <ls>2, 4, 32.</ls> 
+;
+; TODO Case 123: (reason = "(Sch.: ")
+; <L>12276<pc>1-0987<k1>upADi<k2>upADi<h>1
+112543 old <ls>PRAB. 101, 11</ls> (Sch.: = {#sahajasundara)#}.{# upADi = nAmacihna#} {%Beiname%} 
+112543 new <ls>PRAB. 101, 11</ls> (<ls>Sch.</ls>: = {#sahajasundara)#}.{# upADi = nAmacihna#} {%Beiname%} 
+;
+; TODO Case 124: (reason = " Sch. (not in ls)")
+; <L>12420<pc>1-0997<k1>uraRa<k2>u/raRa
+113880 old <ls>HĀR. 80.</ls> {#tasyE hAvirdvyuraRA Sayana upabadDAsa tato ha ganDarvA anyataramuraRaM prameTuH#} (nach dem Sch. {%ein junger Widder%}) 
+113880 new <ls>HĀR. 80.</ls> {#tasyE hAvirdvyuraRA Sayana upabadDAsa tato ha ganDarvA anyataramuraRaM prameTuH#} (nach dem <ls>Sch.</ls> {%ein junger Widder%}) 
+;
+; TODO Case 125: (reason = " Sch. (not in ls)")
+; <L>12733<pc>1-1020<k1>Uru<k2>Uru/
+116710 old <ls>H. 613</ls> (nach dem Sch. auch f.). {#yasta^ U\rU vi\hara^ti#} 
+116710 new <ls>H. 613</ls> (nach dem <ls>Sch.</ls> auch f.). {#yasta^ U\rU vi\hara^ti#} 
+;
+; TODO Case 126: (reason = "Sch. " at beg of line)
+; <L>12742<pc>1-1021<k1>Urja<k2>Urja/
+116842 old Sch. m. f. n.). <ls>an. 2, 66.</ls> <ls>MED.</ls> {%Thatkraft%}, {#utsAha#} 
+116842 new <ls>Sch.</ls> m. f. n.). <ls>an. 2, 66.</ls> <ls>MED.</ls> {%Thatkraft%}, {#utsAha#} 
+;
+; TODO Case 127: (reason = "(Sch.: ")
+; <L>12775<pc>1-1024<k1>UrRu<k2>UrRu
+117235 old (Sch.: = {#aBiBUtavAn#}) 
+117235 new (<ls>Sch.</ls>: = {#aBiBUtavAn#}) 
+;
+; TODO Case 128: (reason = " Sch. (not in ls)")
+; <L>12845<pc>1-1029<k1>Urmi<k2>Urmi/
+117805 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 5, 4.</ls> Der Text lautet: {#aSvAH pyaDurvasumatImatirocamAnAstUrRaM payoDaya ivormiBirApatantaH); BaNga#} ({%Bruch?%}) 
+117805 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 5, 4.</ls> Der Text lautet: {#aSvAH pyaDurvasumatImatirocamAnAstUrRaM payoDaya ivormiBirApatantaH); BaNga#} ({%Bruch?%}) 
+;
+; TODO Case 129: (reason = "(Sch.: ")
+; <L>12883<pc>1-1032<k1>Uh<k2>Uh<h>1
+118219 old <ls>ĀŚV. ŚR. 5, 12.</ls> {#vyapohya#} (Sch.: = {#viBajya, vidArya#}) {#SIrzakapAle#} 
+118219 new <ls>ĀŚV. ŚR. 5, 12.</ls> {#vyapohya#} (<ls>Sch.</ls>: = {#viBajya, vidArya#}) {#SIrzakapAle#} 
+;
+; TODO Case 130: (reason = "(Sch.: ")
+; <L>12936<pc>1-1041<k1>fc<k2>fc
+118980 old <ls>8, 1, 3, 5. 4, 6, 7, 11.</ls> {#fggaRa#} (Sch.: = {#fksamudAya#}) pl. 
+118980 new <ls>8, 1, 3, 5. 4, 6, 7, 11.</ls> {#fggaRa#} (<ls>Sch.</ls>: = {#fksamudAya#}) pl. 
+;
+; TODO Case 131: (reason = " Sch. (not in ls)")
+; <L>13055<pc>1-1052<k1>ftu<k2>ftu/
+120182 old <ls>VS. 13, 25. 14, 6. 15. 16. 27. 15, 57.</ls> Vgl. Sch. zu <ls>P. 4, 3, 19—21.</ls> Der Schol. zu 
+120182 new <ls>VS. 13, 25. 14, 6. 15. 16. 27. 15, 57.</ls> Vgl. <ls>Sch.</ls> zu <ls>P. 4, 3, 19—21.</ls> Der Schol. zu 
+;
+; TODO Case 132: (reason = " Sch. (not in ls)")
+; <L>13171<pc>1-1065<k1>fzwi<k2>fzwi/
+121397 old <ls>H. 782</ls> (nach dem Sch. auch m.). 
+121397 new <ls>H. 782</ls> (nach dem <ls>Sch.</ls> auch m.). 
+;
+; TODO Case 133: (reason = " Sch. (not in ls)")
+; <L>13195<pc>1-1069<k1>eka<k2>e/ka
+121592 old <ls>6, 3, 62.</ls> {#ekasyA kzIram = ekakzIram, ekasyA Agatam = ekarUpyam#} Sch. Ableitungen von compp. mit {#eka#} im ersten Gliede 
+121592 new <ls>6, 3, 62.</ls> {#ekasyA kzIram = ekakzIram, ekasyA Agatam = ekarUpyam#} <ls>Sch.</ls> Ableitungen von compp. mit {#eka#} im ersten Gliede 
+;
+; TODO Case 134: (reason = " Sch. (not in ls)")
+; <L>13330<pc>1-1079<k1>ekarAj<k2>ekarA/j
+122734 old <ls>KĀTY. ŚR. 22, 11, 33</ls> (nach dem Sch. {%der König allein%} im Gegens. zu {#janapada#} 
+122734 new <ls>KĀTY. ŚR. 22, 11, 33</ls> (nach dem <ls>Sch.</ls> {%der König allein%} im Gegens. zu {#janapada#} 
+;
+; TODO Case 135: (reason = "(Sch.: ")
+; <L>13556<pc>1-1100<k1>eva<k2>e/va<h>2
+124970 old (Sch.: = {#gamanaSIlA#}) {#na devyaditiranarvA - priyaM devAnAmapyetu pATaH#} 
+124970 new (<ls>Sch.</ls>: = {#gamanaSIlA#}) {#na devyaditiranarvA - priyaM devAnAmapyetu pATaH#} 
+;
+; TODO Case 136: (reason = " Sch. (not in ls)")
+; <L>13713<pc>1-1113<k1>ErAvata<k2>ErAvata/
+126282 old <ls>H. 946.</ls> {#irAvatInAM nivAsa ErAvatAnyapi paYca#} Sch. 
+126282 new <ls>H. 946.</ls> {#irAvatInAM nivAsa ErAvatAnyapi paYca#} <ls>Sch.</ls> 
+;
+; TODO Case 137: (reason = " Sch. (not in ls)")
+; <L>13772<pc>1-1119<k1>ojas<k2>o/jas
+126843 old <ls>P. 6, 3, 3.</ls> {#ojasAkfta#} Sch. Vgl. {#amitOjas, uttamO°, fzvO°, satyO°#} u. s. w. 
+126843 new <ls>P. 6, 3, 3.</ls> {#ojasAkfta#} <ls>Sch.</ls> Vgl. {#amitOjas, uttamO°, fzvO°, satyO°#} u. s. w. 
+;
+; TODO Case 138: (reason = "(Sch.: ")
+; <L>13839<pc>1-1125<k1>ozWa<k2>o/zWa
+127416 old <ls>AV. PRĀT. 1, 25</ls> (Sch.: {%Unterlippe%}). Dagegen bedeutet {#aDarOzWa#} <lex>m.</lex> {%die Unterlippe%} 
+127416 new <ls>AV. PRĀT. 1, 25</ls> (<ls>Sch.</ls>: {%Unterlippe%}). Dagegen bedeutet {#aDarOzWa#} <lex>m.</lex> {%die Unterlippe%} 
+;
+; TODO Case 139: (reason = " Sch. (not in ls)")
+; <L>14064<pc>1-1137<k1>OpAnahya<k2>O/pAnahya
+128889 old <ls>P. 5, 1, 14.</ls> {#muYja#} Sch. {#carman#} 
+128889 new <ls>P. 5, 1, 14.</ls> {#muYja#} <ls>Sch.</ls> {#carman#} 
+;
+; TODO Case 140: (reason = " Sch. (not in ls)")
+; <L>14320<pc>2-0019<k1>kaYcukin<k2>kaYcukin
+131535 old <ls>BHAR.</ls> beim Sch. zu <ls>ŚĀK. 60, 11.</ls> <ls>PAÑCAT. 43, 5. 53, 2. 156, 20. 259, 25.</ls> <ls>ŚĀK. 60, 11. fgg.</ls> 
+131535 new <ls>BHAR.</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 60, 11.</ls> <ls>PAÑCAT. 43, 5. 53, 2. 156, 20. 259, 25.</ls> <ls>ŚĀK. 60, 11. fgg.</ls> 
+;
+; TODO Case 141: (reason = " Sch. (not in ls)")
+; <L>14365<pc>2-0023<k1>kawAha<k2>kawAha
+132066 old <ls>VAIJ.</ls> beim Sch. zu 
+132066 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu 
+;
+; TODO Case 142: (reason = " Sch. (not in ls)")
+; <L>14662<pc>2-0048<k1>kadara<k2>kadara
+134942 old <div n="1">— 3) <lex>m.</lex> Name eines Baumes, der für {#Kadira#} als Opferpfosten substituirt werden kann, Sch. zu 
+134942 new <div n="1">— 3) <lex>m.</lex> Name eines Baumes, der für {#Kadira#} als Opferpfosten substituirt werden kann, <ls>Sch.</ls> zu 
+;
+; TODO Case 143: (reason = " Sch. (not in ls)")
+; <L>14772<pc>2-0057<k1>kandala<k2>kandala
+136072 old <ls>ŚABDĀRṆ.</ls> beim Sch. zu <ls>ŚIŚ. 6, 30.</ls> Neben {#kadalI#} ({%Musa sapientum%}) 
+136072 new <ls>ŚABDĀRṆ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 6, 30.</ls> Neben {#kadalI#} ({%Musa sapientum%}) 
+;
+; TODO Case 144: (reason = "(Sch.: ")
+; <L>14772<pc>2-0057<k1>kandala<k2>kandala
+136087 old <ls>AMAR. 48</ls> (Sch.: {#kandalaM vArzikalatAviSezo navANkuro vA#}). 
+136087 new <ls>AMAR. 48</ls> (<ls>Sch.</ls>: {#kandalaM vArzikalatAviSezo navANkuro vA#}). 
+;
+; TODO Case 145: (reason = " Sch. (not in ls)")
+; <L>15203<pc>2-0114<k1>karikA<k2>karikA
+142091 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 4, 29</ls>; vgl. 
+142091 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 29</ls>; vgl. 
+;
+; TODO Case 146: (reason = " Sch. (not in ls)")
+; <L>15310<pc>2-0121<k1>karcUra<k2>karcUra
+143057 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 3, 11.</ls> 
+143057 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 3, 11.</ls> 
+;
+; TODO Case 147: (reason = " Sch. (not in ls)")
+; <L>15398<pc>2-0126<k1>karRAndu<k2>karRAndu
+143697 old <ls>VAIJ.</ls> beim Sch. zu <ls>H. 656.</ls>
+143697 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>H. 656.</ls>
+;
+; TODO Case 148: (reason = " Sch. (not in ls)")
+; <L>15411<pc>2-0127<k1>karRI<k2>karRI
+143857 old <ls>P. 8, 3, 46.</ls> Davor soll im comp. ein auf {#as#} ausgehendes Wort das {#sa#} bewahren. Der Sch. führt {#ayaskarRI#} und {#payaskarRI#} als Beispiele auf. Solche Verbindungen sind wohl als <lex>adj.</lex> compp. aufzufassen, so dass
+143857 new <ls>P. 8, 3, 46.</ls> Davor soll im comp. ein auf {#as#} ausgehendes Wort das {#sa#} bewahren. Der <ls>Sch.</ls> führt {#ayaskarRI#} und {#payaskarRI#} als Beispiele auf. Solche Verbindungen sind wohl als <lex>adj.</lex> compp. aufzufassen, so dass
+;
+; TODO Case 149: (reason = " Sch. (not in ls)")
+; <L>15635<pc>2-0154<k1>kalana<k2>kalana
+146661 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 1, 59.</ls> <ls>BHĀG. P. 3, 31, 2.</ls> 
+146661 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 1, 59.</ls> <ls>BHĀG. P. 3, 31, 2.</ls> 
+;
+; TODO Case 150: (reason = " Sch. (not in ls)")
+; <L>15642<pc>2-0154<k1>kalaBa<k2>kalaBa/
+146709 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 4, 33.</ls> {#nanu kalaBena yUTapateranukftam#} 
+146709 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 4, 33.</ls> {#nanu kalaBena yUTapateranukftam#} 
+;
+; TODO Case 151: (reason = " Sch. (not in ls)")
+; <L>15678<pc>2-0157<k1>kalA<k2>ka/lA
+147116 old <ls>H. an.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 1, 59.</ls> <ls>MED.</ls> ({#kalanA#}). 
+147116 new <ls>H. an.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 1, 59.</ls> <ls>MED.</ls> ({#kalanA#}). 
+;
+; TODO Case 152: (reason = " Sch. (not in ls)")
+; <L>15833<pc>2-0181<k1>kavara<k2>ka/vara
+149453 old <ls>MED. r. 128.</ls> m. f. n. Sch. zu <ls>AK.</ls> {#kavaraBAra#} 
+149453 new <ls>MED. r. 128.</ls> m. f. n. <ls>Sch.</ls> zu <ls>AK.</ls> {#kavaraBAra#} 
+;
+; TODO Case 153: (reason = " Sch. (not in ls)")
+; <L>15916<pc>2-0188<k1>kazaRa<k2>kazaRa
+150320 old <ls>KIRĀT. 5, 47.</ls> Sch. zu <ls>26.</ls>
+150320 new <ls>KIRĀT. 5, 47.</ls> <ls>Sch.</ls> zu <ls>26.</ls>
+;
+; TODO Case 154: (reason = " Sch. (not in ls)")
+; <L>16095<pc>2-0199<k1>kAkola<k2>kAkola
+151772 old <ls>MED.</ls> m. <ls>TRIK.</ls> <ls>H. 1196</ls> (nach dem Sch. auch n.). <ls>H. an.</ls> {#kAkolamugratejaH syAtkfzRacCavi mahAvizam#} 
+151772 new <ls>MED.</ls> m. <ls>TRIK.</ls> <ls>H. 1196</ls> (nach dem <ls>Sch.</ls> auch n.). <ls>H. an.</ls> {#kAkolamugratejaH syAtkfzRacCavi mahAvizam#} 
+;
+; TODO Case 155: (reason = "Sch. " at beg of line)
+; <L>16173<pc>2-0205<k1>kAYjI<k2>kAYjI
+152463 old Sch. des <ls>AK.</ls> im <ls>ŚKDR.</ls> 
+152463 new <ls>Sch.</ls> des <ls>AK.</ls> im <ls>ŚKDR.</ls> 
+;
+; TODO Case 156: (reason = " Sch. (not in ls)")
+; <L>16212<pc>2-0208<k1>kARqapawa<k2>kARqapawa
+152823 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ.</ls>
+152823 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ.</ls>
+;
+; TODO Case 157: (reason = " Sch. (not in ls)")
+; <L>16325<pc>2-0215<k1>kApaTa<k2>kApaTa
+153778 old <ls>P. 6, 3, 104. 108.</ls> m. <ls>P.</ls>, <ls>Sch.</ls> <ls>VOP. 6, 94.</ls> <ls>AK. 2, 1, 17.</ls> <ls>GAUḌA</ls> beim Sch. zu <ls>H. 984.</ls> <ls>MED. th. 18. n.</ls> <ls>H. 984.</ls> {#AsTAtuM kApaTaM duHKaM vizamaM bahukaRwakam#} 
+153778 new <ls>P. 6, 3, 104. 108.</ls> m. <ls>P.</ls>, <ls>Sch.</ls> <ls>VOP. 6, 94.</ls> <ls>AK. 2, 1, 17.</ls> <ls>GAUḌA</ls> beim <ls>Sch.</ls> zu <ls>H. 984.</ls> <ls>MED. th. 18. n.</ls> <ls>H. 984.</ls> {#AsTAtuM kApaTaM duHKaM vizamaM bahukaRwakam#} 
+;
+; TODO Case 158: (reason = " Sch. (not in ls)")
+; <L>17067<pc>2-0275<k1>kAzWakuddAla<k2>kAzWakuddAla
+160870 old <ls>H. 878.</ls> Nach einem Sch. zu <ls>AK.</ls> auch {#°kudAla#} und {#°kUddAla#} .
+160870 new <ls>H. 878.</ls> Nach einem <ls>Sch.</ls> zu <ls>AK.</ls> auch {#°kudAla#} und {#°kUddAla#} .
+;
+; TODO Case 159: (reason = " Sch. (not in ls)")
+; <L>17419<pc>2-0304<k1>kukundara<k2>kukundara
+164172 old <ls>BHĀGURI</ls> beim Sch. auch masc.) <ls>SUŚR. 1, 345, 7. 20. 346, 13.</ls> Vgl. {#kakundara#} . 
+164172 new <ls>BHĀGURI</ls> beim <ls>Sch.</ls> auch masc.) <ls>SUŚR. 1, 345, 7. 20. 346, 13.</ls> Vgl. {#kakundara#} . 
+;
+; TODO Case 160: (reason = " Sch. (not in ls)")
+; <L>17454<pc>2-0306<k1>kukzi<k2>kukzi/
+164476 old <ls>GAUḌA</ls> beim Sch. auch f.). {#yaH ku\kziH so^ma\pAta^maH#} 
+164476 new <ls>GAUḌA</ls> beim <ls>Sch.</ls> auch f.). {#yaH ku\kziH so^ma\pAta^maH#} 
+;
+; TODO Case 161: (reason = " Sch. (not in ls)")
+; <L>17467<pc>2-0307<k1>kuc<k2>kuc
+164618 old <ls>DHANURV.</ls> beim Sch. zu <ls>H. 777.</ls>
+164618 new <ls>DHANURV.</ls> beim <ls>Sch.</ls> zu <ls>H. 777.</ls>
+;
+; TODO Case 162: (reason = " Sch. (not in ls)")
+; <L>17545<pc>2-0314<k1>kuwIra<k2>kuwIra/
+165427 old <ls>P. 5, 3. 88.</ls> m. Sch. <ls>VOP. 7, 77.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> {#kuYjakuwIra#} 
+165427 new <ls>P. 5, 3. 88.</ls> m. <ls>Sch.</ls> <ls>VOP. 7, 77.</ls> <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> {#kuYjakuwIra#} 
+;
+; TODO Case 163: (reason = " Sch. (not in ls)")
+; <L>17866<pc>2-0339<k1>kumuda<k2>kumuda
+168563 old <ls>BHĀGURI</ls> beim Sch. zu <ls>H. 170.</ls> 
+168563 new <ls>BHĀGURI</ls> beim <ls>Sch.</ls> zu <ls>H. 170.</ls> 
+;
+; TODO Case 164: (reason = " Sch. (not in ls)")
+; <L>18072<pc>2-0354<k1>kulapAli<k2>kulapAli
+170391 old <ls>AK. 2, 6, 1, 7.</ls> Nach dem Sch. auch {#kulapAlI#} . 
+170391 new <ls>AK. 2, 6, 1, 7.</ls> Nach dem <ls>Sch.</ls> auch {#kulapAlI#} . 
+;
+; TODO Case 165: (reason = " Sch. (not in ls)")
+; <L>18340<pc>2-0373<k1>kusuma<k2>kusu/ma
+172751 old <ls>H. 1124.</ls> (nach dem Sch. auch m.). 
+172751 new <ls>H. 1124.</ls> (nach dem <ls>Sch.</ls> auch m.). 
+;
+; TODO Case 166: (reason = "(Sch.: ")
+; <L>18427<pc>2-0379<k1>kUwa<k2>kU/wa<h>1
+173524 old (Sch.: = {#samUha#}) 
+173524 new (<ls>Sch.</ls>: = {#samUha#}) 
+;
+; TODO Case 167: (reason = "(Sch.: ")
+; <L>18835<pc>2-0412<k1>kfzRa<k2>kfzRa
+177453 old (Sch.: = {#nAtibAlo nAtivfdDaH#}) 
+177453 new (<ls>Sch.</ls>: = {#nAtibAlo nAtivfdDaH#}) 
+;
+; TODO Case 168: (reason = " Sch. (not in ls)")
+; <L>19011<pc>2-0423<k1>ketana<k2>ketana
+178814 old <ls>LASSEN</ls> u. <ls>RÜCKERT</ls> ; Sch. 2 : = {#saMketasTAna#}) 
+178814 new <ls>LASSEN</ls> u. <ls>RÜCKERT</ls> ; <ls>Sch.</ls> 2 : = {#saMketasTAna#}) 
+;
+; TODO Case 169: (reason = " Sch. (not in ls)")
+; <L>19296<pc>2-0444<k1>kowIra<k2>kowIra
+181412 old <ls>TRIK.</ls> <ls>NAIṢ. 11, 18</ls> und <ls>BALA</ls> beim Sch. zu d. St. 
+181412 new <ls>TRIK.</ls> <ls>NAIṢ. 11, 18</ls> und <ls>BALA</ls> beim <ls>Sch.</ls> zu d. St. 
+;
+; TODO Case 170: (reason = " Sch. (not in ls)")
+; <L>19299<pc>2-0444<k1>kowwa<k2>kowwa
+181432 old {#kowwa#}¦ <lex>n.</lex> (nach dem Sch. auch m.) {%Festung%} 
+181432 new {#kowwa#}¦ <lex>n.</lex> (nach dem <ls>Sch.</ls> auch m.) {%Festung%} 
+;
+; TODO Case 171: (reason = "(Sch.: ")
+; <L>19382<pc>2-0450<k1>koSa<k2>ko/Sa
+182236 old (Sch.: = {#hfdayaM) me viSa#} 
+182236 new (<ls>Sch.</ls>: = {#hfdayaM) me viSa#} 
+;
+; TODO Case 172: (reason = " Sch. (not in ls)")
+; <L>19668<pc>2-0469<k1>kOSeya<k2>kO/Seya
+184610 old <ls>MĀRK. P. 15, 27.</ls> Cit. beim Sch. zu <ls>ŚĀK. 6, 5.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH BrazwABaraRakOzeyA#} 
+184610 new <ls>MĀRK. P. 15, 27.</ls> Cit. beim <ls>Sch.</ls> zu <ls>ŚĀK. 6, 5.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH BrazwABaraRakOzeyA#} 
+;
+; TODO Case 173: (reason =  (Sch.:</ls>)
+; <L>19725<pc>2-0472<k1>kratu<k2>kra/tu
+185125 old <ls>?4, 3, 68 (Sch.:</ls> {#kratuH somasADyo yAgaH#}; vgl. 
+185125 new <ls>?4, 3, 68</ls> (<ls>Sch.</ls>: {#kratuH somasADyo yAgaH#}; vgl. 
+;
+; TODO Case 174: (reason = "(Sch.: ")
+; <L>19756<pc>2-0475<k1>krand<k2>krand
+185435 old (Sch.: {#tAni daRqAdiBiratAqitAni varmARi carmayuktAni BeryAdIni kanikrandante SabdaM kurvanti#}) 
+185435 new (<ls>Sch.</ls>: {#tAni daRqAdiBiratAqitAni varmARi carmayuktAni BeryAdIni kanikrandante SabdaM kurvanti#}) 
+;
+; TODO Case 175: (reason = "(Sch.: ")
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+185610 old (Sch.: = {#utpatitum) - hariH#} 
+185610 new (<ls>Sch.</ls>: = {#utpatitum) - hariH#} 
+;
+; TODO Case 176: (reason = "(Sch.: ")
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+185612 old (Sch.: = {#utplutyotplutya) sTitaM kvacit - mfgam#} 
+185612 new (<ls>Sch.</ls>: = {#utplutyotplutya) sTitaM kvacit - mfgam#} 
+;
+; TODO Case 177: (reason = "(Sch.: ")
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+185652 old (Sch.: = {#apratibanDena pravartamAnaH) 'risaMsadi#} 
+185652 new (<ls>Sch.</ls>: = {#apratibanDena pravartamAnaH) 'risaMsadi#} 
+;
+; TODO Case 178: (reason = "(Sch.: ")
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+186396 old <ls>BHAṬṬ. 15, 23,</ls> (Sch.: = {#prasTitaH#}, mit Verweisung auf 
+186396 new <ls>BHAṬṬ. 15, 23,</ls> (<ls>Sch.</ls>: = {#prasTitaH#}, mit Verweisung auf 
+;
+; TODO Case 179: (reason = "(Sch.: ")
+; <L>19915<pc>2-0507<k1>krUra<k2>krUra/
+188448 old (Sch.: = {#piSAcAdidarSanAdIni#}) 
+188448 new (<ls>Sch.</ls>: = {#piSAcAdidarSanAdIni#}) 
+;
+; TODO Case 180: (reason = "(Sch.: ")
+; <L>20149<pc>2-0530<k1>kzapaRa<k2>kzapaRa<h>1
+190987 old (Sch.: = {#anaDyAyo lomanaKanikfntanam) pravacanaM ca pUrvavat#} 
+190987 new (<ls>Sch.</ls>: = {#anaDyAyo lomanaKanikfntanam) pravacanaM ca pUrvavat#} 
+;
+; TODO Case 181: (reason = " Sch. (not in ls)")
+; <L>20237<pc>2-0542<k1>kzAraka<k2>kzAraka
+192203 old <ls>COLEBR.</ls> {%Auge, Knospe%}; nach dem Sch. zu H. {%eine Menge junger Knospen.%} {#kzarakajAta#} (sic) <lex>n.</lex> {%Knospe%} 
+192203 new <ls>COLEBR.</ls> {%Auge, Knospe%}; nach dem <ls>Sch.</ls> zu H. {%eine Menge junger Knospen.%} {#kzarakajAta#} (sic) <lex>n.</lex> {%Knospe%} 
+;
+; TODO Case 182: (reason = " Sch. (not in ls)")
+; <L>20446<pc>2-0562<k1>kzutpipAsita<k2>kzutpipAsita
+194469 old <ls>M. 8, 93.</ls> <ls>BHṚGU</ls> beim Sch. zu <ls>ŚĀK. 16, 10. 11.</ls>
+194469 new <ls>M. 8, 93.</ls> <ls>BHṚGU</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 16, 10. 11.</ls>
+;
+; TODO Case 183: (reason = " Sch. (not in ls)")
+; <L>20580<pc>2-0571<k1>kzetra<k2>kze/tra
+195686 old <ls>H. an.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 14, 34.</ls> = {#patnI#} {%Gattin%} 
+195686 new <ls>H. an.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 14, 34.</ls> = {#patnI#} {%Gattin%} 
+;
+; TODO Case 184: (reason = " Sch. (not in ls)")
+; <L>20868<pc>2-0592<k1>KaRqa<k2>KaRqa/
+198335 old <ls>SĀH. D. 27, 18.</ls> Nach <ls>RĀJAV.</ls> im <ls>ŚKDR.</ls> und Sch. zu <ls>H.</ls> auch <lex>n.</lex> Nach <ls>WILSON</ls> bed. das <lex>n.</lex> {%eine Art Zuckerrohr.%} 
+198335 new <ls>SĀH. D. 27, 18.</ls> Nach <ls>RĀJAV.</ls> im <ls>ŚKDR.</ls> und <ls>Sch.</ls> zu <ls>H.</ls> auch <lex>n.</lex> Nach <ls>WILSON</ls> bed. das <lex>n.</lex> {%eine Art Zuckerrohr.%} 
+;
+; TODO Case 185: (reason = " Sch. (not in ls)")
+; <L>20944<pc>2-0599<k1>Kanana<k2>Kanana
+199092 old <ls>ŚAUNAKA</ls> beim Sch. zu <ls>RAGH. 8, 25.</ls>
+199092 new <ls>ŚAUNAKA</ls> beim <ls>Sch.</ls> zu <ls>RAGH. 8, 25.</ls>
+;
+; TODO Case 186: (reason = " Sch. (not in ls)")
+; <L>20965<pc>2-0600<k1>Kara<k2>Kara
+199296 old <ls>TRIK. 2, 8, 44.</ls> <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 10. 8.</ls> 
+199296 new <ls>TRIK. 2, 8, 44.</ls> <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 10. 8.</ls> 
+;
+; TODO Case 187: (reason = "Sch. " at beg of line)
+; <L>21055<pc>2-0605<k1>KalapU<k2>KalapU/
+200025 old Sch. Declin. <ls>6, 4, 83</ls>, <ls>Sch.</ls> <ls>VOP. 3, 65.</ls> <lex>adj.</lex> {%der da kehrt (die Tenne reinigt%}) 
+200025 new <ls>Sch.</ls> Declin. <ls>6, 4, 83</ls>, <ls>Sch.</ls> <ls>VOP. 3, 65.</ls> <lex>adj.</lex> {%der da kehrt (die Tenne reinigt%}) 
+;
+; TODO Case 188: (reason = "(Sch.: ")
+; <L>21063<pc>2-0606<k1>KalIkar<k2>KalIkar
+200088 old (Sch.: = {#Bartsyate) na kaScinmocayati#} 
+200088 new (<ls>Sch.</ls>: = {#Bartsyate) na kaScinmocayati#} 
+;
+; TODO Case 189: (reason = " Sch. (not in ls)")
+; <L>21262<pc>2-0618<k1>Kewa<k2>Kewa
+201719 old <ls>H. an.</ls> n. nach dem Sch. zu <ls>AK. 3, 6, 3, 30.</ls> Vgl. {#AKewa#} . 
+201719 new <ls>H. an.</ls> n. nach dem <ls>Sch.</ls> zu <ls>AK. 3, 6, 3, 30.</ls> Vgl. {#AKewa#} . 
+;
+; TODO Case 190: (reason = " Sch. (not in ls)")
+; <L>21600<pc>2-0646<k1>gati<k2>ga/ti
+204896 old <ls>MED. t. 14.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>KIR. 4, 35.</ls> {#yannU\nama\SyAM gati^M mi\trasya^ yAyAM pa\TA#} 
+204896 new <ls>MED. t. 14.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 4, 35.</ls> {#yannU\nama\SyAM gati^M mi\trasya^ yAyAM pa\TA#} 
+;
+; TODO Case 191: (reason = " Sch. (not in ls)")
+; <L>21607<pc>2-0648<k1>gad<k2>gad<h>1
+205161 old <ls>PAÑCAT. I, 283.</ls> Cit. beim Sch. zu <ls>ŚĀK. 31, 7.</ls> <ls>ŚRUT. 44.</ls> <ls>H. 15.</ls> — caus. {#nigAdayati#} {%hersagen lassen%}: {#tfcAn#} 
+205161 new <ls>PAÑCAT. I, 283.</ls> Cit. beim <ls>Sch.</ls> zu <ls>ŚĀK. 31, 7.</ls> <ls>ŚRUT. 44.</ls> <ls>H. 15.</ls> — caus. {#nigAdayati#} {%hersagen lassen%}: {#tfcAn#} 
+;
+; TODO Case 192: (reason = "(Sch.: ")
+; <L>21607<pc>2-0648<k1>gad<k2>gad<h>1
+205175 old (Sch.: {#vaktuM pravfttaH) rAkzasendram#} 
+205175 new (<ls>Sch.</ls>: {#vaktuM pravfttaH) rAkzasendram#} 
+;
+; TODO Case 193: (reason = "(Sch.: ")
+; <L>21607<pc>2-0648<k1>gad<k2>gad<h>1
+205179 old (Sch.: {#devatApadaM caturTyantamuccArya#}) 
+205179 new (<ls>Sch.</ls>: {#devatApadaM caturTyantamuccArya#}) 
+;
+; TODO Case 194: (reason = "(Sch.: ")
+; <L>21614<pc>2-0650<k1>gadA<k2>gadA
+205262 old (Sch.: {#anantarayoH kendrayoryadA sarve grahA Bavanti . tadA gadA nAma yogo Bavati#}) 
+205262 new (<ls>Sch.</ls>: {#anantarayoH kendrayoryadA sarve grahA Bavanti . tadA gadA nAma yogo Bavati#}) 
+;
+; TODO Case 195: (reason = "(Sch.: ")
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+207660 old (Sch.: = {#jAnantaH) pradrAvErvasuDABftAm#} 
+207660 new (<ls>Sch.</ls>: = {#jAnantaH) pradrAvErvasuDABftAm#} 
+;
+; TODO Case 196: (reason = "(Sch.: ")
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+207873 old (Sch.: = {#AdityAddvAdaSasTAnasTitayoH) tannizpattiratIva gurudfzwyA ..#} 
+207873 new (<ls>Sch.</ls>: = {#AdityAddvAdaSasTAnasTitayoH) tannizpattiratIva gurudfzwyA ..#} 
+;
+; TODO Case 197: (reason = "(Sch.: ")
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+208125 old (Sch.: = {#nipuRAcAryeRAByAsitam#}) 
+208125 new (<ls>Sch.</ls>: = {#nipuRAcAryeRAByAsitam#}) 
+;
+; TODO Case 198: (reason = "(Sch.: ")
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+208444 old (Sch.: = {#pravizwAn) indukiraRAn#} 
+208444 new (<ls>Sch.</ls>: = {#pravizwAn) indukiraRAn#} 
+;
+; TODO Case 199: (reason = " Sch. (not in ls)")
+; <L>21832<pc>2-0687<k1>gamBArI<k2>gamBArI
+209069 old <ls>RATNAM. 1.</ls> Nach dem Sch. zu <ls>AK. 2, 4, 1, 20</ls> auch die {%Blüthe, Frucht%} und {%Wurzel%} dieses Baumes.
+209069 new <ls>RATNAM. 1.</ls> Nach dem <ls>Sch.</ls> zu <ls>AK. 2, 4, 1, 20</ls> auch die {%Blüthe, Frucht%} und {%Wurzel%} dieses Baumes.
+;
+; TODO Case 200: (reason = " Sch. (not in ls)")
+; <L>21989<pc>2-0704<k1>garBarUpa<k2>garBarUpa
+211022 old <ls>BHŪRIPR.</ls> im <ls>ŚKDR.</ls> Nach <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 11, 78</ls> : <lex>m.</lex> {%Kind; Jüngling%} 
+211022 new <ls>BHŪRIPR.</ls> im <ls>ŚKDR.</ls> Nach <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 11, 78</ls> : <lex>m.</lex> {%Kind; Jüngling%} 
+;
+; TODO Case 201: (reason = " Sch. (not in ls)")
+; <L>22068<pc>2-0711<k1>galahasta<k2>galahasta
+211804 old <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 6, 25. 7, 22.</ls> {#anicCangalahastena tABirnirvAsitastadA#} 
+211804 new <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 6, 25. 7, 22.</ls> {#anicCangalahastena tABirnirvAsitastadA#} 
+;
+; TODO Case 202: (reason = " Sch. (not in ls)")
+; <L>22132<pc>2-0715<k1>gavequ<k2>gavequ
+212311 old <ls>AK. 2, 9, 25.</ls> Nach einem Sch. auch {#gavequkA#} .
+212311 new <ls>AK. 2, 9, 25.</ls> Nach einem <ls>Sch.</ls> auch {#gavequkA#} .
+;
+; TODO Case 203: (reason = " Sch. (not in ls)")
+; <L>22270<pc>2-0734<k1>gAnDarvika<k2>gAnDarvika
+214337 old <ls>VARĀH. BṚH. S. 94, 21.</ls> Der Sch. : {#gAnDarvaka#} .
+214337 new <ls>VARĀH. BṚH. S. 94, 21.</ls> Der <ls>Sch.</ls> : {#gAnDarvaka#} .
+;
+; TODO Case 204: (reason = " Sch. (not in ls)")
+; <L>22561<pc>2-0755<k1>guRa<k2>guRa/
+216939 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 1, 62.</ls> = {#tantu#} und {#rajju#} 
+216939 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 1, 62.</ls> = {#tantu#} und {#rajju#} 
+;
+; TODO Case 205: (reason = " Sch. (not in ls)")
+; <L>22561<pc>2-0755<k1>guRa<k2>guRa/
+216942 old <ls>LAUGĀKṢI</ls> beim Sch. zu <ls>KĀTY. ŚR. 1, 3, 23.</ls> {#triguRA mOYjI#} {%aus drei Fäden bestehend%} 
+216942 new <ls>LAUGĀKṢI</ls> beim <ls>Sch.</ls> zu <ls>KĀTY. ŚR. 1, 3, 23.</ls> {#triguRA mOYjI#} {%aus drei Fäden bestehend%} 
+;
+; TODO Case 206: (reason = "(Sch.: ")
+; <L>22685<pc>2-0767<k1>guru<k2>guru/
+218363 old (Sch.: = {#dfQa, kaWina#}, aber genauer: {%angeschwollen%}) 
+218363 new (<ls>Sch.</ls>: = {#dfQa, kaWina#}, aber genauer: {%angeschwollen%}) 
+;
+; TODO Case 207: (reason = " Sch. (not in ls)")
+; <L>22803<pc>2-0777<k1>gUTa<k2>gUTa
+219592 old <ls>H. 634.</ls> (nach dem Sch. auch m.). 
+219592 new <ls>H. 634.</ls> (nach dem <ls>Sch.</ls> auch m.). 
+;
+; TODO Case 208: (reason = " Sch. (not in ls)")
+; <L>23011<pc>2-0789<k1>go<k2>go
+221261 old <ls>NIR. 2, 6. 14.</ls> masc. <ls>Uṇ.</ls>, <ls>Sch.</ls> <ls>BHĀNUD.</ls> bei einem Sch. zu <ls>AK.</ls> <ls>ŚKDR.</ls> Vgl. {#goputra#} . 
+221261 new <ls>NIR. 2, 6. 14.</ls> masc. <ls>Uṇ.</ls>, <ls>Sch.</ls> <ls>BHĀNUD.</ls> bei einem <ls>Sch.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> Vgl. {#goputra#} . 
+;
+; TODO Case 209: (reason = " Sch. (not in ls)")
+; <L>23048<pc>2-0793<k1>goGfta<k2>goGfta
+221642 old <div n="1"> 1) {%von der Kuh kommende Schmelzbutter%} Cit. beim Sch. zu 
+221642 new <div n="1"> 1) {%von der Kuh kommende Schmelzbutter%} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 210: (reason = " Sch. (not in ls)")
+; <L>23053<pc>2-0793<k1>gocara<k2>gocara
+221710 old <ls>VĀCASP.</ls> beim Sch. zu <ls>H. 872.</ls> 
+221710 new <ls>VĀCASP.</ls> beim <ls>Sch.</ls> zu <ls>H. 872.</ls> 
+;
+; TODO Case 211: (reason = " Sch. (not in ls)")
+; <L>23112<pc>2-0798<k1>goda<k2>goda<h>2
+222247 old <ls>H. 625.</ls> m. <ls>VĀCASP.</ls> beim Sch. zu <ls>H.</ls> Vgl. {#gorDa#}, 2. {#godAna, goDi#} .
+222247 new <ls>H. 625.</ls> m. <ls>VĀCASP.</ls> beim <ls>Sch.</ls> zu <ls>H.</ls> Vgl. {#gorDa#}, 2. {#godAna, goDi#} .
+;
+; TODO Case 212: (reason = " Sch. (not in ls)")
+; <L>23450<pc>2-0821<k1>gozpada<k2>gozpada
+225198 old <ls>P. 6, 1, 145.</ls> Nach dem Sch. <lex>m.</lex> oder adj.: {#gozpado gosevito deSaH . agozpadAnyaraRyAni#} .
+225198 new <ls>P. 6, 1, 145.</ls> Nach dem <ls>Sch.</ls> <lex>m.</lex> oder adj.: {#gozpado gosevito deSaH . agozpadAnyaraRyAni#} .
+;
+; TODO Case 213: (reason = " Sch. (not in ls)")
+; <L>23542<pc>2-0826<k1>gOra<k2>gOra/
+226009 old <ls>VIŚVA</ls> beim Sch. zu <ls>CAURAP. 10</ls> {#kanakagOra#} n.: {#kanakagOrakftANgarAga#} 
+226009 new <ls>VIŚVA</ls> beim <ls>Sch.</ls> zu <ls>CAURAP. 10</ls> {#kanakagOra#} n.: {#kanakagOrakftANgarAga#} 
+;
+; TODO Case 214: (reason = "(Sch.: ")
+; <L>23656<pc>2-0834<k1>graB<k2>graB
+227465 old (Sch.: = {#nigfhya) sADyaH#} 
+227465 new (<ls>Sch.</ls>: = {#nigfhya) sADyaH#} 
+;
+; TODO Case 215: (reason = " Sch. (not in ls)")
+; <L>23656<pc>2-0834<k1>graB<k2>graB
+227529 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 2, 75.</ls> = {#udIrRa#} 
+227529 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 2, 75.</ls> = {#udIrRa#} 
+;
+; TODO Case 216: (reason = " Sch. (not in ls)")
+; <L>23661<pc>2-0849<k1>gras<k2>gras<h>1
+228214 old <div n="p">— {#A#}, partic. {#Agrasta#} {%eingebohrt%} Cit. beim Sch. zu 
+228214 new <div n="p">— {#A#}, partic. {#Agrasta#} {%eingebohrt%} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 217: (reason = " Sch. (not in ls)")
+; <L>23675<pc>2-0852<k1>grahaRa<k2>gra/haRa
+228537 old Sch. zu <ls>P. 8, 4, 68</ls> <ls>?(Bd. II).</ls> Sch. zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
+228537 new Sch. zu <ls>P. 8, 4, 68</ls> <ls>?(Bd. II).</ls> <ls>Sch.</ls> zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
+;
+; TODO Case 218: (reason = "Sch. " at beg of line)
+; <L>23675<pc>2-0852<k1>grahaRa<k2>gra/haRa
+228537 old Sch. zu <ls>P. 8, 4, 68</ls> <ls>?(Bd. II).</ls> <ls>Sch.</ls> zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
+228537 new <ls>Sch.</ls> zu <ls>P. 8, 4, 68</ls> <ls>?(Bd. II).</ls> <ls>Sch.</ls> zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
+;
+; TODO Case 219: (reason = " Sch. (not in ls)")
+; <L>23675<pc>2-0852<k1>grahaRa<k2>gra/haRa
+228547 old <ls>P. 1, 1, 23, <is>Vārtt</is>. 1. 2. 2, 1, 42, <is>Vārtt</is>. <is>Kār</is>.</ls> zu <ls>P. 7, 1, 6.</ls> <ls>KĀŚ.</ls> zu <ls>1, 1, 50 und 2, 35.</ls> Sch. zu <ls>1, 2, 6. 22. 27 und 8, 3, 78.</ls> 
+228547 new <ls>P. 1, 1, 23, <is>Vārtt</is>. 1. 2. 2, 1, 42, <is>Vārtt</is>. <is>Kār</is>.</ls> zu <ls>P. 7, 1, 6.</ls> <ls>KĀŚ.</ls> zu <ls>1, 1, 50 und 2, 35.</ls> <ls>Sch.</ls> zu <ls>1, 2, 6. 22. 27 und 8, 3, 78.</ls> 
+;
+; TODO Case 220: (reason = "(Sch.: ")
+; <L>23861<pc>2-0867<k1>glA<k2>glA
+230307 old (Sch.: {#pramlAyati#}) 
+230307 new (<ls>Sch.</ls>: {#pramlAyati#}) 
+;
+; TODO Case 221: (reason = " Sch. (not in ls)")
+; <L>23994<pc>2-0880<k1>GanIy<k2>GanIy
+231722 old <ls>ĀPAST.</ls> beim Sch. zu <ls>KĀTY. ŚR. 7, 4, 28 (S. 648, Z. 3.</ls> v. u.).
+231722 new <ls>ĀPAST.</ls> beim <ls>Sch.</ls> zu <ls>KĀTY. ŚR. 7, 4, 28 (S. 648, Z. 3.</ls> v. u.).
+;
+; TODO Case 222: (reason = " Sch. (not in ls)")
+; <L>24088<pc>2-0887<k1>GuRwa<k2>GuRwa
+232687 old <ls>H. 615.</ls> Nach dem Sch. auch <lex>f.</lex> (wohl {#GuRwikA#}). 
+232687 new <ls>H. 615.</ls> Nach dem <ls>Sch.</ls> auch <lex>f.</lex> (wohl {#GuRwikA#}). 
+;
+; TODO Case 223: (reason = " Sch. (not in ls)")
+; <L>24271<pc>2-0906<k1>cakra<k2>cakra/
+234885 old <ls>BRAHMĀṆḌA-P.</ls> beim Sch. zu <ls>ŚĀK. 165.</ls> <ls>VARĀH. BṚH. S. 85, 78.</ls> {#dikcakra#} 
+234885 new <ls>BRAHMĀṆḌA-P.</ls> beim <ls>Sch.</ls> zu <ls>ŚĀK. 165.</ls> <ls>VARĀH. BṚH. S. 85, 78.</ls> {#dikcakra#} 
+;
+; TODO Case 224: (reason = "(Sch.: ")
+; <L>24630<pc>2-0933<k1>catuzka<k2>catuzka
+238319 old <ls>KUMĀRAS. 5, 68</ls> (Sch.: = {#gfhaviSeza#}). 
+238319 new <ls>KUMĀRAS. 5, 68</ls> (<ls>Sch.</ls>: = {#gfhaviSeza#}). 
+;
+; TODO Case 225: (reason =  (Sch.:</ls>)
+; <L>24630<pc>2-0933<k1>catuzka<k2>catuzka
+238320 old <ls>?7, 9 (Sch.:</ls> = {#catuHstamBagfha#}). 
+238320 new <ls>?7, 9</ls> (<ls>Sch.</ls>: = {#catuHstamBagfha#}). 
+;
+; TODO Case 226: (reason = " Sch. (not in ls)")
+; <L>24841<pc>2-0947<k1>capala<k2>capala/
+240128 old <ls>MED. l. 88.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 2, 117.</ls> = {#vikala#} 
+240128 new <ls>MED. l. 88.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 2, 117.</ls> = {#vikala#} 
+;
+; TODO Case 227: (reason = " Sch. (not in ls)")
+; <L>24858<pc>2-0949<k1>camara<k2>camara/
+240360 old <ls>MED. r. 153.</ls> <ls>KUMĀRAS. 1, 13. 49.</ls> <ls>MEGH. 54.</ls> <ls>VARĀH. BṚH. S. 70, 1.</ls> <ls>BHĀG. P. 3, 10, 21. 8, 2, 20.</ls> <ls>ŚIŚ. 4, 60.</ls> {#keSezu camarIM hanti#} Cit. beim Sch. zu 
+240360 new <ls>MED. r. 153.</ls> <ls>KUMĀRAS. 1, 13. 49.</ls> <ls>MEGH. 54.</ls> <ls>VARĀH. BṚH. S. 70, 1.</ls> <ls>BHĀG. P. 3, 10, 21. 8, 2, 20.</ls> <ls>ŚIŚ. 4, 60.</ls> {#keSezu camarIM hanti#} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 228: (reason = "(Sch.: ")
+; <L>24902<pc>2-0952<k1>car<k2>car
+241024 old (Sch.: = {#garhitaM caranti) 'Bito laNkAm#} 
+241024 new (<ls>Sch.</ls>: = {#garhitaM caranti) 'Bito laNkAm#} 
+;
+; TODO Case 229: (reason = " Sch. (not in ls)")
+; <L>25300<pc>2-1005<k1>ci<k2>ci<h>4
+246522 old <ls>P. 6, 1, 35</ls> soll im <is>Veda</is> für {#cAy#} öfters {#kI#} substituirt werden und der Sch. führt {#ni cikyuH#} (vgl. u. 
+246522 new <ls>P. 6, 1, 35</ls> soll im <is>Veda</is> für {#cAy#} öfters {#kI#} substituirt werden und der <ls>Sch.</ls> führt {#ni cikyuH#} (vgl. u. 
+;
+; TODO Case 230: (reason = " Sch. (not in ls)")
+; <L>25548<pc>2-1025<k1>cid<k2>cid
+249008 old <ls>P. 8, 1, 57.</ls> {#de\vaH paca^ti cit#} Sch. Sehr häufig nach den fragenden pronomm. und advv. {#ka, katama, katara, kad, kim, kaTam, kadA, kutas, kva#}; s. unter diesen Wörtern. Nach einem am Anfange des Satzes stehenden interrog. mit folgendem {#cid#} behält ein verbum fin. seinen Ton nach 
+249008 new <ls>P. 8, 1, 57.</ls> {#de\vaH paca^ti cit#} <ls>Sch.</ls> Sehr häufig nach den fragenden pronomm. und advv. {#ka, katama, katara, kad, kim, kaTam, kadA, kutas, kva#}; s. unter diesen Wörtern. Nach einem am Anfange des Satzes stehenden interrog. mit folgendem {#cid#} behält ein verbum fin. seinen Ton nach 
+;
+; TODO Case 231: (reason = " Sch. (not in ls)")
+; <L>25548<pc>2-1025<k1>cid<k2>cid
+249020 old <ls>P. 8, 2, 101.</ls> {#agnicidBAyA3t, rAjacidBAyA3t#} Sch. In diesen Beispielen schliesst sich {#cid#} wie ein Suffix (!) an den Stamm des Nomens an. 
+249020 new <ls>P. 8, 2, 101.</ls> {#agnicidBAyA3t, rAjacidBAyA3t#} <ls>Sch.</ls> In diesen Beispielen schliesst sich {#cid#} wie ein Suffix (!) an den Stamm des Nomens an. 
+;
+; TODO Case 232: (reason = " Sch. (not in ls)")
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+249518 old <ls>VARĀH. BṚH. S. 67, 79.</ls> {#hastANgulayaH#} (hier und in der folg. Verbindung vom Sch. durch {#carpawa#} erklärt) 
+249518 new <ls>VARĀH. BṚH. S. 67, 79.</ls> {#hastANgulayaH#} (hier und in der folg. Verbindung vom <ls>Sch.</ls> durch {#carpawa#} erklärt) 
+;
+; TODO Case 233: (reason = " Sch. (not in ls)")
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+249521 old <ls>81 (80), 16.</ls> {#°grIva#} {%kurzhalsig%} (nach dem Sch. = {#aspazwagrIva#}) 
+249521 new <ls>81 (80), 16.</ls> {#°grIva#} {%kurzhalsig%} (nach dem <ls>Sch.</ls> = {#aspazwagrIva#}) 
+;
+; TODO Case 234: (reason = " Sch. (not in ls)")
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+249522 old <ls>67, 31.</ls> {#karRa#} (v. l. beim Sch. {#carpawa = vikIrRa#}) wohl {%flach anliegende Ohren%} 
+249522 new <ls>67, 31.</ls> {#karRa#} (v. l. beim <ls>Sch.</ls> {#carpawa = vikIrRa#}) wohl {%flach anliegende Ohren%} 
+;
+; TODO Case 235: (reason = " Sch. (not in ls)")
+; <L>25624<pc>2-1035<k1>ciriRwI<k2>ciriRwI
+249994 old <ls>MED. ṭ. 42.</ls> <ls>HALĀY.</ls> beim Sch. zu <ls>H. 512.</ls>
+249994 new <ls>MED. ṭ. 42.</ls> <ls>HALĀY.</ls> beim <ls>Sch.</ls> zu <ls>H. 512.</ls>
+;
+; TODO Case 236: (reason = " Sch. (not in ls)")
+; <L>25754<pc>2-1043<k1>cubuka<k2>cubuka
+251184 old <ls>ĀPAST.</ls> beim Schol. zu <ls>KĀTY. ŚR. 6, 2, 5.</ls> Cit. beim Sch. zu <ls>TS.</ls> (bei <ls>RÖER 350, 2</ls>). St. {#cubuka#} ist 
+251184 new <ls>ĀPAST.</ls> beim Schol. zu <ls>KĀTY. ŚR. 6, 2, 5.</ls> Cit. beim <ls>Sch.</ls> zu <ls>TS.</ls> (bei <ls>RÖER 350, 2</ls>). St. {#cubuka#} ist 
+;
+; TODO Case 237: (reason = " Sch. (not in ls)")
+; <L>25785<pc>2-1045<k1>cuScyUzA<k2>cuScyUzA
+251454 old <ls>MĀNAVA</ls> beim Sch. zu <ls>KĀTY. ŚR. 10, 8, 3.</ls> 
+251454 new <ls>MĀNAVA</ls> beim <ls>Sch.</ls> zu <ls>KĀTY. ŚR. 10, 8, 3.</ls> 
+;
+; TODO Case 238: (reason = " Sch. (not in ls)")
+; <L>25847<pc>2-1050<k1>ceqaka<k2>ceqaka
+252078 old {#ceqaka#}¦ <lex>m.</lex> dass. Sch. zu 
+252078 new {#ceqaka#}¦ <lex>m.</lex> dass. <ls>Sch.</ls> zu 
+;
+; TODO Case 239: (reason = " Sch. (not in ls)")
+; <L>25882<pc>2-1054<k1>cela<k2>cela
+252508 old <ls>AK. 2, 6, 3, 17</ls> (nach dem Sch. auch {#celI#} f.). 
+252508 new <ls>AK. 2, 6, 3, 17</ls> (nach dem <ls>Sch.</ls> auch {#celI#} f.). 
+;
+; TODO Case 240: (reason = " Sch. (not in ls)")
+; <L>25914<pc>2-1057<k1>cEtanya<k2>cEtanya
+252857 old <ls>ŚAṂK.</ls> zu <ls>ŚVETĀŚV.</ls> <ls>UP. 6, 16.</ls> <ls>VEDĀNTAS. (Allah.) No. 15. 25. 34. 35. 97.</ls> <ls>Sch.</ls> zu <ls>KAP. 1, 100.</ls> Sch. bei <ls>WILS.</ls> <ls>SĀṂKHYAK. S. 75.</ls> <ls>WIND. Sancara 94, 1. 124, 3 v. u.</ls>
+252857 new <ls>ŚAṂK.</ls> zu <ls>ŚVETĀŚV.</ls> <ls>UP. 6, 16.</ls> <ls>VEDĀNTAS. (Allah.) No. 15. 25. 34. 35. 97.</ls> <ls>Sch.</ls> zu <ls>KAP. 1, 100.</ls> <ls>Sch.</ls> bei <ls>WILS.</ls> <ls>SĀṂKHYAK. S. 75.</ls> <ls>WIND. Sancara 94, 1. 124, 3 v. u.</ls>
+;
+; TODO Case 241: (reason = " Sch. (not in ls)")
+; <L>26044<pc>2-1070<k1>cyOtna<k2>cyOtna/
+254220 old <ls>ṚV. 10, 50, 4.</ls> Nach dem Sch. zu <ls>Uṇ.</ls> {%der da geht; dessen guten Werke aufgezehrt sind; aus einem Ei entstanden.%} 
+254220 new <ls>ṚV. 10, 50, 4.</ls> Nach dem <ls>Sch.</ls> zu <ls>Uṇ.</ls> {%der da geht; dessen guten Werke aufgezehrt sind; aus einem Ei entstanden.%} 
+;
+; TODO Case 242: (reason = " Sch. (not in ls)")
+; <L>26050<pc>2-1071<k1>Cagala<k2>Cagala/
+254281 old <ls>P. 4, 1, 117.</ls> Nach dem Sch. auch ein sonst vorkommender Name. 
+254281 new <ls>P. 4, 1, 117.</ls> Nach dem <ls>Sch.</ls> auch ein sonst vorkommender Name. 
+;
+; TODO Case 243: (reason = " Sch. (not in ls)")
+; <L>26056<pc>2-1071<k1>Cagalin<k2>Cagalin
+254328 old {#Cagalin#}¦ (von {#Cagala#}) <lex>m.</lex> N. pr. eines Lehrers (nach dem Sch. zu 
+254328 new {#Cagalin#}¦ (von {#Cagala#}) <lex>m.</lex> N. pr. eines Lehrers (nach dem <ls>Sch.</ls> zu 
+;
+; TODO Case 244: (reason = "(Sch.: ")
+; <L>26057<pc>2-1071<k1>CawA<k2>CawA
+254340 old <ls>ŚIŚ. 1, 47</ls> (Sch.: {#sawACawABiH #}
+254340 new <ls>ŚIŚ. 1, 47</ls> (<ls>Sch.</ls>: {#sawACawABiH #}
+;
+; TODO Case 245: (reason = " Sch. (not in ls)")
+; <L>26080<pc>2-1073<k1>Cad<k2>Cad<h>1
+254820 old <ls>ŚAṂK.</ls> : = {#vidrAvayanti#} . Ders. Sch. erklärt {#vicCAyayati (vicCApayati)#} 
+254820 new <ls>ŚAṂK.</ls> : = {#vidrAvayanti#} . Ders. <ls>Sch.</ls> erklärt {#vicCAyayati (vicCApayati)#} 
+;
+; TODO Case 246: (reason = " Sch. (not in ls)")
+; <L>26105<pc>2-1081<k1>Candasya<k2>Candasya^
+255268 old <ls>P. 4, 3, 71. 4, 93</ls> (nach dem Sch. von {#Candas#} 
+255268 new <ls>P. 4, 3, 71. 4, 93</ls> (nach dem <ls>Sch.</ls> von {#Candas#} 
+;
+; TODO Case 247: (reason = " Sch. (not in ls)")
+; <L>26207<pc>2-1087<k1>CAya<k2>CAya
+256190 old <ls>VAIJ.</ls> beim Sch. zu <ls>ŚIŚ. 3, 35.</ls> 
+256190 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 3, 35.</ls> 
+;
+; TODO Case 248: (reason = " Sch. (not in ls)")
+; <L>26313<pc>3-0002<k1>jakz<k2>jakz<h>1
+257590 old <ls>6, 2, 170</ls>, Sch. {#idamezAM jagDam#} {%dies ist der Ort wo sie gegessen haben%} 
+257590 new <ls>6, 2, 170</ls>, <ls>Sch.</ls> {#idamezAM jagDam#} {%dies ist der Ort wo sie gegessen haben%} 
+;
+; TODO Case 249: (reason = " Sch. (not in ls)")
+; <L>26317<pc>3-0003<k1>jakzma<k2>jakzma
+257628 old {#jakzma#}¦ <lex>m.</lex> = {#jakzman#} Sch. zu 
+257628 new {#jakzma#}¦ <lex>m.</lex> = {#jakzman#} <ls>Sch.</ls> zu 
+;
+; TODO Case 250: (reason = " Sch. (not in ls)")
+; <L>26418<pc>3-0010<k1>jawAjUwa<k2>jawAjUwa
+258606 old <ls>H. 200.</ls> <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 11, 18.</ls> {#piNgottuNga°#} (bei <is>Śiva</is>) 
+258606 new <ls>H. 200.</ls> <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 11, 18.</ls> {#piNgottuNga°#} (bei <is>Śiva</is>) 
+;
+; TODO Case 251: (reason = " Sch. (not in ls)")
+; <L>26443<pc>3-0012<k1>jaWara<k2>jaWara
+258865 old <ls>MED.</ls> <ls>VAIJ.</ls> beim Sch. zu 
+258865 new <ls>MED.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu 
+;
+; TODO Case 252: (reason = " Sch. (not in ls)")
+; <L>26483<pc>3-0016<k1>jan<k2>jan
+259663 old <ls>P. 5, 2, 68</ls>; nach dem Sch. = {#guRena saMbadDaH#} .
+259663 new <ls>P. 5, 2, 68</ls>; nach dem <ls>Sch.</ls> = {#guRena saMbadDaH#} .
+;
+; TODO Case 253: (reason = " Sch. (not in ls)")
+; <L>26623<pc>3-0034<k1>janmAntara<k2>janmAntara
+261218 old <ls>ĪŚVARAG.</ls> beim Sch. zu <ls>KAP. 1, 7.</ls> {#janmajanmAntare#} wohl {%in diesem und im künftigen Leben%} 
+261218 new <ls>ĪŚVARAG.</ls> beim <ls>Sch.</ls> zu <ls>KAP. 1, 7.</ls> {#janmajanmAntare#} wohl {%in diesem und im künftigen Leben%} 
+;
+; TODO Case 254: (reason = " Sch. (not in ls)")
+; <L>26650<pc>3-0037<k1>jabAla<k2>jabAla
+261559 old <ls>P. 2, 4, 58</ls>, <is>Vārtt</is>. 2, Sch. ({#javAla#}). 
+261559 new <ls>P. 2, 4, 58</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls> ({#javAla#}). 
+;
+; TODO Case 255: (reason = "(Sch.: ")
+; <L>27203<pc>3-0074<k1>jAta<k2>jAta/
+266609 old <ls>ŚĀK. 50, 2, v. l.</ls> (Sch.: {#jAta = samUha)#}.{# haranti dozajAtAni naraM jAtaM yaTecCakam#} 
+266609 new <ls>ŚĀK. 50, 2, v. l.</ls> (<ls>Sch.</ls>: {#jAta = samUha)#}.{# haranti dozajAtAni naraM jAtaM yaTecCakam#} 
+;
+; TODO Case 256: (reason = " Sch. (not in ls)")
+; <L>27465<pc>3-0103<k1>jityA<k2>jityA
+269643 old <ls>P. 3, 1, 117</ls> (im <is>Sūtra</is> nicht zu erkennen, ob <lex>m.</lex> oder f., nach dem Sch. m.). 
+269643 new <ls>P. 3, 1, 117</ls> (im <is>Sūtra</is> nicht zu erkennen, ob <lex>m.</lex> oder f., nach dem <ls>Sch.</ls> m.). 
+;
+; TODO Case 257: (reason = " Sch. (not in ls)")
+; <L>27552<pc>3-0110<k1>jIradAnu<k2>jIra/dAnu
+270502 old <ls>Sch. 1, 1, 4</ls>, <is>Vārtt</is>., Sch. {%träufelnd, rieselnd, sprühend%}: {#vfzwi#} 
+270502 new <ls>Sch. 1, 1, 4</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {%träufelnd, rieselnd, sprühend%}: {#vfzwi#} 
+;
+; TODO Case 258: (reason = "(Sch.: ")
+; <L>27976<pc>3-0159<k1>jyEzWineya<k2>jyEzWineya/
+275619 old <ls>KĀTY. ŚR. 23, 1, 15</ls> (Sch.: {#yasyA yozito jyezWo BrAtA vidyate sA jyezWinI#}). 
+275619 new <ls>KĀTY. ŚR. 23, 1, 15</ls> (<ls>Sch.</ls>: {#yasyA yozito jyezWo BrAtA vidyate sA jyezWinI#}). 
+;
+; TODO Case 259: (reason = " Sch. (not in ls)")
+; <L>28033<pc>3-0165<k1>jyotsnA<k2>jyotsnA
+276197 old <ls>P. 5, 2, 114.</ls> oxyt. Sch. parox. <ls>TBR.</ls> 
+276197 new <ls>P. 5, 2, 114.</ls> oxyt. <ls>Sch.</ls> parox. <ls>TBR.</ls> 
+;
+; TODO Case 260: (reason = " Sch. (not in ls)")
+; <L>28175<pc>3-0177<k1>waNka<k2>waNka
+277713 old <ls>VIŚVA</ls> beim Sch. zu <ls>BHAṬṬ. 1, 8</ls> {#aDikoza#} und {#koza#} noch ausserdem. 
+277713 new <ls>VIŚVA</ls> beim <ls>Sch.</ls> zu <ls>BHAṬṬ. 1, 8</ls> {#aDikoza#} und {#koza#} noch ausserdem. 
+;
+; TODO Case 261: (reason = " Sch. (not in ls)")
+; <L>28388<pc>3-0196<k1>tawasTa<k2>tawasTa
+279746 old <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 3, 55.</ls> {#tawasTaH svAnarTAnGawayati ca mOnaM ca Bajate#} 
+279746 new <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 3, 55.</ls> {#tawasTaH svAnarTAnGawayati ca mOnaM ca Bajate#} 
+;
+; TODO Case 262: (reason = " Sch. (not in ls)")
+; <L>28395<pc>3-0198<k1>taqAka<k2>taqA/ka
+279902 old <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>VYUTP. 103.</ls> Nach dem Sch. zu <ls>H. 1094</ls> ist dieses auch die Lesart in 
+279902 new <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>VYUTP. 103.</ls> Nach dem <ls>Sch.</ls> zu <ls>H. 1094</ls> ist dieses auch die Lesart in 
+;
+; TODO Case 263: (reason = "(Sch.: ")
+; <L>28552<pc>3-0214<k1>tan<k2>tan<h>1
+281946 old (Sch.: {#AropitaguRaM kftvA#} oder {#AkarzaRena vitatya#}) 
+281946 new (<ls>Sch.</ls>: {#AropitaguRaM kftvA#} oder {#AkarzaRena vitatya#}) 
+;
+; TODO Case 264: (reason = " Sch. (not in ls)")
+; <L>28661<pc>3-0229<k1>tantra<k2>tantra
+283271 old <ls>VAIJ.</ls> beim Sch. zu 
+283271 new <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu 
+;
+; TODO Case 265: (reason = " Sch. (not in ls)")
+; <L>28717<pc>3-0236<k1>tap<k2>tap<h>1
+284113 old <ls>P. 1, 3, 27</ls>, <is>Vārtt</is>., Sch. {#mahIM vitapatyarkaH#} 
+284113 new <ls>P. 1, 3, 27</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#mahIM vitapatyarkaH#} 
+;
+; TODO Case 266: (reason = " Sch. (not in ls)")
+; <L>28723<pc>3-0244<k1>tapana<k2>tapana
+284546 old <ls>WILS.</ls> und <ls>ŚKDR.</ls> identificiren denselben mit {#godAvarI#}, die aber vom Sch. des H. getrennt wird. 
+284546 new <ls>WILS.</ls> und <ls>ŚKDR.</ls> identificiren denselben mit {#godAvarI#}, die aber vom <ls>Sch.</ls> des H. getrennt wird. 
+;
+; TODO Case 267: (reason = " Sch. (not in ls)")
+; <L>28907<pc>3-0267<k1>tarala<k2>tarala/
+287026 old <ls>MED. l. 95.</ls> <ls>BALA</ls> beim Sch. zu <ls>NAIṢ. 5, 24.</ls> <ls>VAIJ.</ls> beim Sch. zu <ls>KIR. 8, 56.</ls> {#taralatarormi#} 
+287026 new <ls>MED. l. 95.</ls> <ls>BALA</ls> beim <ls>Sch.</ls> zu <ls>NAIṢ. 5, 24.</ls> <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>KIR. 8, 56.</ls> {#taralatarormi#} 
+;
+; TODO Case 268: (reason = " Sch. (not in ls)")
+; <L>29032<pc>3-0281<k1>tarman<k2>ta/rman
+288603 old <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 144.</ls> <ls>AK. 2, 7, 18.</ls> <ls>H. 825</ls> (nach dem Sch. <lex>m.</lex> n.). 
+288603 new <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 144.</ls> <ls>AK. 2, 7, 18.</ls> <ls>H. 825</ls> (nach dem <ls>Sch.</ls> <lex>m.</lex> n.). 
+;
+; TODO Case 269: (reason = " Sch. (not in ls)")
+; <L>29046<pc>3-0282<k1>tala<k2>tala
+288901 old <ls>H. an.</ls> {#pUrvAhRe ca parAhRe ca talaM yasya na muYcati . atyantaSItalacCAyA sa cCAyAtarurucyate ..#} Cit. beim Sch. zu 
+288901 new <ls>H. an.</ls> {#pUrvAhRe ca parAhRe ca talaM yasya na muYcati . atyantaSItalacCAyA sa cCAyAtarurucyate ..#} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 270: (reason = " Sch. (not in ls)")
+; <L>29523<pc>3-0318<k1>tAvant<k2>tA/vant
+293443 old <ls>ŚĀK. 106. -</ls> <ls>ŚĀK. 72. 184. 69, 22. 71, 8. 104, 22.</ls> <ls>PAÑCAT. 4, 14.</ls> <ls>KATHĀS. 5, 6. 25, 217.</ls> <ls>BHĀG. P. 3, 1, 24.</ls> <ls>BRAHMA-P.</ls> in <ls>LA.53, 18.</ls> <ls>RĀJA-TAR. 3, 166.</ls> <ls>PRAB. 13, 6.</ls> <ls>VEDĀNTAS. (Allah.) No. 10.</ls> Sch. zu <ls>KAP. 1, 78.</ls> <ls>SĀH. D. 2, 18.</ls> <ls>P. 4, 2, 93</ls>, <ls>Sch.</ls> Sehr häufig in Verbind. mit einem imperat. als Aufforderung zu dem was {%sofort, zunächst%} zu thun ist. 
+293443 new <ls>ŚĀK. 106. -</ls> <ls>ŚĀK. 72. 184. 69, 22. 71, 8. 104, 22.</ls> <ls>PAÑCAT. 4, 14.</ls> <ls>KATHĀS. 5, 6. 25, 217.</ls> <ls>BHĀG. P. 3, 1, 24.</ls> <ls>BRAHMA-P.</ls> in <ls>LA.53, 18.</ls> <ls>RĀJA-TAR. 3, 166.</ls> <ls>PRAB. 13, 6.</ls> <ls>VEDĀNTAS. (Allah.) No. 10.</ls> <ls>Sch.</ls> zu <ls>KAP. 1, 78.</ls> <ls>SĀH. D. 2, 18.</ls> <ls>P. 4, 2, 93</ls>, <ls>Sch.</ls> Sehr häufig in Verbind. mit einem imperat. als Aufforderung zu dem was {%sofort, zunächst%} zu thun ist. 
+;
+; TODO Case 271: (reason = " Sch. (not in ls)")
+; <L>29605<pc>3-0326<k1>tittiri<k2>titti/ri
+294225 old <ls>P. 4, 1, 65</ls>, Sch. Vgl. {#kutittiri#} . 
+294225 new <ls>P. 4, 1, 65</ls>, <ls>Sch.</ls> Vgl. {#kutittiri#} . 
+;
+; TODO Case 272: (reason = " Sch. (not in ls)")
+; <L>29749<pc>3-0338<k1>tilakAlaka<k2>tilakAlaka
+295496 old <ls>P. 3, 2, 53</ls>, Sch. Nach dem Sch. zu 
+295496 new <ls>P. 3, 2, 53</ls>, <ls>Sch.</ls> Nach dem <ls>Sch.</ls> zu 
+;
+; TODO Case 273: (reason = " Sch. (not in ls)")
+; <L>29820<pc>3-0341<k1>tIkzRa<k2>tIkzRa/
+296040 old <ls>P. 5, 2, 76</ls>, Sch. <lex>n.</lex> subst. {%scharfe Worte, etwas Scharfes, Verletzendes%}: {#SAntvESca tIkzRESca#} 
+296040 new <ls>P. 5, 2, 76</ls>, <ls>Sch.</ls> <lex>n.</lex> subst. {%scharfe Worte, etwas Scharfes, Verletzendes%}: {#SAntvESca tIkzRESca#} 
+;
+; TODO Case 274: (reason = " Sch. (not in ls)")
+; <L>29856<pc>3-0344<k1>tIra<k2>tIra<h>2
+296411 old <ls>H. 780.</ls> {#triBAgaSarajA tIrI SezANge lohasaMBavA#} Cit. beim Sch. 
+296411 new <ls>H. 780.</ls> {#triBAgaSarajA tIrI SezANge lohasaMBavA#} Cit. beim <ls>Sch.</ls> 
+;
+; TODO Case 275: (reason = " Sch. (not in ls)")
+; <L>30093<pc>3-0365<k1>turuzka<k2>turuzka
+298811 old <ls>H. 648</ls> (nach dem Sch. auch n.). 
+298811 new <ls>H. 648</ls> (nach dem <ls>Sch.</ls> auch n.). 
+;
+; TODO Case 276: (reason = " Sch. (not in ls)")
+; <L>30296<pc>3-0381<k1>tUzRIMgaNgam<k2>tUzRIMgaNgam
+300716 old <ls>P. 2, 1, 21</ls>, Sch. Statt {#uzRIgaNge#} 
+300716 new <ls>P. 2, 1, 21</ls>, <ls>Sch.</ls> Statt {#uzRIgaNge#} 
+;
+; TODO Case 277: (reason = "(Sch.: ")
+; <L>30476<pc>3-0391<k1>tejas<k2>te/jas
+302060 old <ls>186.</ls> {#tejodvaya#} {%Sonne und Mond%} 77. {#tejaHparihARimuKAt#} (Sch.: = {#dIptinivftterAraBya#}) 
+302060 new <ls>186.</ls> {#tejodvaya#} {%Sonne und Mond%} 77. {#tejaHparihARimuKAt#} (<ls>Sch.</ls>: = {#dIptinivftterAraBya#}) 
+;
+; TODO Case 278: (reason = " Sch. (not in ls)")
+; <L>30623<pc>3-0401<k1>tomara<k2>toma/ra
+303312 old <ls>HARIV. 5487.</ls> {#tomaru#} (sic) {%eine Art Pfeil%} Cit. beim Sch. zu 
+303312 new <ls>HARIV. 5487.</ls> {#tomaru#} (sic) {%eine Art Pfeil%} Cit. beim <ls>Sch.</ls> zu 
+;
+; TODO Case 279: (reason = " Sch. (not in ls)")
+; <L>30843<pc>3-0423<k1>triMSa<k2>triMSa/
+305685 old <ls>P. 5, 2, 46.</ls> {#Satam#} 130 Sch. 
+305685 new <ls>P. 5, 2, 46.</ls> {#Satam#} 130 <ls>Sch.</ls> 
+;
+; TODO Case 280: (reason = " Sch. (not in ls)")
+; <L>31145<pc>3-0444<k1>trivft<k2>trivf/t
+308169 old <ls>P. 6, 2, 199</ls>, <is>Vārtt</is>., Sch. 
+308169 new <ls>P. 6, 2, 199</ls>, <is>Vārtt</is>., <ls>Sch.</ls> 
+;
+; TODO Case 281: (reason = " Sch. (not in ls)")
+; <L>31360<pc>3-0457<k1>trOk<k2>trOk
+309837 old <ls>P. 7, 4, 82</ls>, <is>Vārtt</is>. 1, Sch. 
+309837 new <ls>P. 7, 4, 82</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls> 
+;
+; TODO Case 282: (reason = " Sch. (not in ls)")
+; <L>31794<pc>3-0499<k1>daRqika<k2>da/Rqika
+314297 old <ls>Sch. 3, 1, 7</ls>, <is>Kār</is>., Sch. 
+314297 new <ls>Sch. 3, 1, 7</ls>, <is>Kār</is>., <ls>Sch.</ls> 
+;
+; TODO Case 283: (reason = " Sch. (not in ls)")
+; <L>31803<pc>3-0500<k1>datta<k2>datta
+314405 old <ls>P. 5, 2, 83</ls>, <is>Vārtt</is>. 4, Sch. 
+314405 new <ls>P. 5, 2, 83</ls>, <is>Vārtt</is>. 4, <ls>Sch.</ls> 
+;
+; TODO Case 284: (reason = "(Sch.: ")
+; <L>32014<pc>3-0513<k1>daB<k2>daB<h>1
+315972 old (Sch.: = {#dagDavantaH#}) 
+315972 new (<ls>Sch.</ls>: = {#dagDavantaH#}) 
+;
+; TODO Case 285: (reason = "(Sch.: ")
+; <L>32021<pc>3-0515<k1>dam<k2>dam<h>1
+316082 old <div n="1"> 1) {%zahm —, sanft sein%}: {#dAmyata#} (Sch.: = {#dAntA Bavata#}) 
+316082 new <div n="1"> 1) {%zahm —, sanft sein%}: {#dAmyata#} (<ls>Sch.</ls>: = {#dAntA Bavata#}) 
+;
+; TODO Case 286: (reason = " Sch. (not in ls)")
+; <L>32024<pc>3-0515<k1>dama<k2>dama<h>2
+316160 old <ls>P. 7, 3, 34</ls>, Sch. oxyt. 
+316160 new <ls>P. 7, 3, 34</ls>, <ls>Sch.</ls> oxyt. 
+;
+; TODO Case 287: (reason = " Sch. (not in ls)")
+; <L>32146<pc>3-0530<k1>darS<k2>darS
+317991 old <ls>P. 1, 4, 53</ls>, <is>Vārtt</is>., Sch. In Verbindung mit {#AtmAnam#} {%sich zeigen, erscheinen%} meist. act. 
+317991 new <ls>P. 1, 4, 53</ls>, <is>Vārtt</is>., <ls>Sch.</ls> In Verbindung mit {#AtmAnam#} {%sich zeigen, erscheinen%} meist. act. 
+;
+; TODO Case 288: (reason = "(Sch.: ")
+; <L>32167<pc>3-0543<k1>dal<k2>dal
+318891 old <ls>PRAB. 40, 10</ls> (Sch.: {#dalita = prakawita#}).
+318891 new <ls>PRAB. 40, 10</ls> (<ls>Sch.</ls>: {#dalita = prakawita#}).
+;
+; TODO Case 289: (reason = " Sch. (not in ls)")
+; <L>32397<pc>3-0565<k1>dahra<k2>dahra
+321204 old <ls>UJJVAL.</ls> <lex>m.</lex> {%Waldbrand%}; nach Uṇ., Sch. {%Feuer.%}
+321204 new <ls>UJJVAL.</ls> <lex>m.</lex> {%Waldbrand%}; nach Uṇ., <ls>Sch.</ls> {%Feuer.%}
+;
+; TODO Case 290: (reason = " Sch. (not in ls)")
+; <L>32481<pc>3-0585<k1>dAtva<k2>dA/tva
+323089 old <ls>UJJVAL.</ls> <lex>m.</lex> {%Geber%} Sch. zu 
+323089 new <ls>UJJVAL.</ls> <lex>m.</lex> {%Geber%} <ls>Sch.</ls> zu 
+;
+; TODO Case 291: (reason = " Sch. (not in ls)")
+; <L>32937<pc>3-0616<k1>div<k2>div<h>1
+326882 old <ls>P. 2, 3, 60</ls>, {#gAmasya tadahaH saBAyAM dIvyeyuH#} Sch. {#gAM dIvyaDvam#} 
+326882 new <ls>P. 2, 3, 60</ls>, {#gAmasya tadahaH saBAyAM dIvyeyuH#} <ls>Sch.</ls> {#gAM dIvyaDvam#} 
+;
+; TODO Case 292: (reason = " Sch. (not in ls)")
+; <L>33063<pc>3-0627<k1>diS<k2>diS<h>1
+328210 old <ls>Schol.</ls> zu <ls>P. 4, 3, 80. 100. 156.</ls> <ls>P. 7, 4, 93</ls>, <is>Vārtt</is>., Sch. 
+328210 new <ls>Schol.</ls> zu <ls>P. 4, 3, 80. 100. 156.</ls> <ls>P. 7, 4, 93</ls>, <is>Vārtt</is>., <ls>Sch.</ls> 
+;
+; TODO Case 293: (reason = " Sch. (not in ls)")
+; <L>33168<pc>3-0652<k1>dIpti<k2>dI/pti
+330393 old <ls>P. 3, 3, 94</ls>, <is>Vārtt</is>. 1, Sch. 
+330393 new <ls>P. 3, 3, 94</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls> 
+;
+; TODO Case 294: (reason = " Sch. (not in ls)")
+; <L>33312<pc>3-0661<k1>dIrGAhan<k2>dIrGAhan
+331625 old <ls>P. 8, 2, 69</ls>, <is>Vārtt</is>. 1, Sch. {#dIrGAhnI Sarat#} 
+331625 new <ls>P. 8, 2, 69</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls> {#dIrGAhnI Sarat#} 
+;
+; TODO Case 295: (reason = " Sch. (not in ls)")
+; <L>33928<pc>3-0704<k1>duzkula<k2>duzkula<h>1
+336699 old <ls>P. 4, 1, 142.</ls> Sch. zu <is>Vārtt</is>. 
+336699 new <ls>P. 4, 1, 142.</ls> <ls>Sch.</ls> zu <is>Vārtt</is>. 
+;
+; TODO Case 296: (reason = " Sch. (not in ls)")
+; <L>34381<pc>3-0739<k1>devaka<k2>devaka
+340685 old <ls>P. 7, 3, 45, <is>Vārtt</is>. 5</ls>, Sch. 
+340685 new <ls>P. 7, 3, 45, <is>Vārtt</is>. 5</ls>, <ls>Sch.</ls> 
+;
+; TODO Case 297: (reason = " Sch. (not in ls)")
+; <L>34849<pc>3-0767<k1>deSya<k2>de/Sya
+344239 old <ls>RĀJA-TAR. 4, 675.</ls> {#vitasti#} {%beinahe eine%} <is>Vit</is>. {%lang%} 600. {#pawu°#} {%ziemlich geschickt%} P., Sch. mit einem verb. fin. verbunden in der Bed. {%ziemlich, beinahe%} 
+344239 new <ls>RĀJA-TAR. 4, 675.</ls> {#vitasti#} {%beinahe eine%} <is>Vit</is>. {%lang%} 600. {#pawu°#} {%ziemlich geschickt%} P., <ls>Sch.</ls> mit einem verb. fin. verbunden in der Bed. {%ziemlich, beinahe%} 
+;
+; TODO Case 298: (reason = " Sch. (not in ls)")
+; <L>34941<pc>3-0774<k1>dEvadatta<k2>dEvadatta
+345035 old <ls>P. 1, 1, 75</ls>, Sch. 
+345035 new <ls>P. 1, 1, 75</ls>, <ls>Sch.</ls> 
+;
+; TODO Case 299: (reason = " Sch. (not in ls)")
+; <L>34945<pc>3-0774<k1>dEvadArava<k2>dE/vadArava
+345060 old <ls>P. 4, 3, 139</ls>, Sch. Davon ein gleichlautendes <lex>adj.</lex> mit der Bed. {%daraus gemacht, daran befindlich%} 
+345060 new <ls>P. 4, 3, 139</ls>, <ls>Sch.</ls> Davon ein gleichlautendes <lex>adj.</lex> mit der Bed. {%daraus gemacht, daran befindlich%} 
+;
+; TODO Case 300: (reason = " Sch. (not in ls)")
+; <L>35162<pc>3-0788<k1>dyut<k2>dyut<h>1
+346819 old <ls>P. 7, 4, 67</ls>, Sch. {%blinken, blitzen%}: {#(agniH) vi\dyunna da^vidyo\tsveBi\H SuzmE^H#} 
+346819 new <ls>P. 7, 4, 67</ls>, <ls>Sch.</ls> {%blinken, blitzen%}: {#(agniH) vi\dyunna da^vidyo\tsveBi\H SuzmE^H#} 
+;
+; TODO Case 301: (reason = " Sch. (not in ls)")
+; <L>35276<pc>3-0797<k1>dravant<k2>dravant
+347825 old <ls>P. 6, 1, 24</ls>, Sch. <is>Kār</is>. zu 
+347825 new <ls>P. 6, 1, 24</ls>, <ls>Sch.</ls> <is>Kār</is>. zu 
+;
+; TODO Case 302: (reason = " Sch. (not in ls)")
+; <L>35768<pc>3-0836<k1>dviBUma<k2>dviBUma/
+352524 old <ls>P. 5, 4, 75</ls>, <is>Vārtt</is>., Sch. {#prAsAdaH#} 
+352524 new <ls>P. 5, 4, 75</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#prAsAdaH#} 
+;
+; TODO Case 303: (reason = " Sch. (not in ls)")
+; <L>35874<pc>3-0842<k1>dvisahasra<k2>dvisahasra
+353327 old <ls>2000</ls> <ls>P. 6, 3, 47</ls>, <is>Vārtt</is>., Sch. 
+353327 new <ls>2000</ls> <ls>P. 6, 3, 47</ls>, <is>Vārtt</is>., <ls>Sch.</ls> 
+;
+; TODO Case 304: (reason = " Sch. (not in ls)")
+; <L>36186<pc>3-0868<k1>Dar<k2>Dar
+356327 old <ls>HIT. I, 23.</ls> <ls>BHĀG. P. 4, 24, 71.</ls> <ls>P. 3, 2, 130</ls>, Sch. {#(mahajjYAnam) DAryate yaddvijAtiBiH#} 
+356327 new <ls>HIT. I, 23.</ls> <ls>BHĀG. P. 4, 24, 71.</ls> <ls>P. 3, 2, 130</ls>, <ls>Sch.</ls> {#(mahajjYAnam) DAryate yaddvijAtiBiH#} 
+;
+; TODO Case 305: (reason = " Sch. (not in ls)")
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+360802 old <ls>P. 6, 2, 178</ls>, Sch. {#tasmAtpraRamya praRiDAya kAyaM prasAdaye tvAm#} 
+360802 new <ls>P. 6, 2, 178</ls>, <ls>Sch.</ls> {#tasmAtpraRamya praRiDAya kAyaM prasAdaye tvAm#} 
+;
+; TODO Case 306: (reason = " Sch. (not in ls)")
+; <L>36928<pc>3-0984<k1>DUrta<k2>DU/rta
+367158 old <ls>P. 2, 1, 65.</ls> {#kaWa°#} Sch. mit einem im loc. gedachten Worte componirt
+367158 new <ls>P. 2, 1, 65.</ls> {#kaWa°#} <ls>Sch.</ls> mit einem im loc. gedachten Worte componirt
+;
+; TODO Case 307: (reason = " Sch. (not in ls)")
+; <L>37095<pc>3-0996<k1>DyA<k2>DyA<h>1
+368633 old <ls>P. 8, 1, 25</ls>, <is>Vārtt</is>., Sch. {#pitFnDyAyan#} 
+368633 new <ls>P. 8, 1, 25</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#pitFnDyAyan#} 
+;
+; TODO Case 308: (reason = " Sch. (not in ls)")
+; <L>37260<pc>4-0001<k1>na<k2>na<h>1
+370475 old <ls>P. 3, 2, 121.</ls> {#akArzIH kim na karomi#} oder {#nAkArzam#} Sch. In aneinandergereihten Sätzen oder Satzgliedern wird die Negation einfach wiederholt, oder sie wird an zweiter oder fernerer Stelle durch die verbindenden Partikeln {#uta, ca, api, cApi, vA, aTa vA#} verstärkt: {#na vA\M dyAvo 'ha^Bi\rnota sinDa^vo\ na de^va\tvaM pa\Rayo\ nAna^Surma\Gam#} 
+370475 new <ls>P. 3, 2, 121.</ls> {#akArzIH kim na karomi#} oder {#nAkArzam#} <ls>Sch.</ls> In aneinandergereihten Sätzen oder Satzgliedern wird die Negation einfach wiederholt, oder sie wird an zweiter oder fernerer Stelle durch die verbindenden Partikeln {#uta, ca, api, cApi, vA, aTa vA#} verstärkt: {#na vA\M dyAvo 'ha^Bi\rnota sinDa^vo\ na de^va\tvaM pa\Rayo\ nAna^Surma\Gam#} 
+;
+; TODO Case 309: (reason = " Sch. (not in ls)")
+; <L>37260<pc>4-0001<k1>na<k2>na<h>1
+370516 old {# hADyezyase#} so v. a. {%du wirst nicht essen, du wirst nicht lesen, das sage ich dir in allem Ernst%} Sch. In dem Beispeile {#na ha vE tasmiMSca loke dakziRAmicCanti#} ist das Verb. fin. nicht orthotonirt, ebend. {#na ha#} mit einem potent. 
+370516 new {# hADyezyase#} so v. a. {%du wirst nicht essen, du wirst nicht lesen, das sage ich dir in allem Ernst%} <ls>Sch.</ls> In dem Beispeile {#na ha vE tasmiMSca loke dakziRAmicCanti#} ist das Verb. fin. nicht orthotonirt, ebend. {#na ha#} mit einem potent. 
+;
+; TODO Case 310: (reason = " Sch. (not in ls)")
+; <L>37552<pc>4-0025<k1>nanu<k2>nanu/
+373149 old <ls>P. 8, 1, 43.</ls> {#nanu gacCAmi BoH#} {%ich kann doch wohl gehen?%} Sch. {#nanvastu#} {%ja, wenn auch eingeräumt wird, dass - ist%} — {#taTApi#} Schol. zu 
+373149 new <ls>P. 8, 1, 43.</ls> {#nanu gacCAmi BoH#} {%ich kann doch wohl gehen?%} <ls>Sch.</ls> {#nanvastu#} {%ja, wenn auch eingeräumt wird, dass - ist%} — {#taTApi#} Schol. zu 
+;
+; TODO Case 311: (reason = " Sch. (not in ls)")
+; <L>38780<pc>4-0139<k1>nigrAha<k2>nigrAha/
+385873 old <ls>P. 3, 3, 45.</ls> {#nigrAhaste BUyAt#} {%möge die Strafe über dich kommen%} Sch. Einfach {%Züchtigung%}: {#nigrAho vo 'rTavAnareH#} 
+385873 new <ls>P. 3, 3, 45.</ls> {#nigrAhaste BUyAt#} {%möge die Strafe über dich kommen%} <ls>Sch.</ls> Einfach {%Züchtigung%}: {#nigrAho vo 'rTavAnareH#} 
+;
+; TODO Case 312: (reason = " Sch. (not in ls)")
+; <L>41344<pc>4-0359<k1>paYcakapAla<k2>pa/YcakapAla
+410403 old {#pa/YcakapAla#}¦ ({#paYcan + ka°#}) <lex>adj.</lex> <lex>f.</lex> {#I#} {%in fünf Schalen bestehend, in fünf Sch. zubereitet%} 
+410403 new {#pa/YcakapAla#}¦ ({#paYcan + ka°#}) <lex>adj.</lex> <lex>f.</lex> {#I#} {%in fünf Schalen bestehend, in fünf <ls>Sch.</ls> zubereitet%} 
+;
+; TODO Case 313: (reason = " Sch. (not in ls)")
+; <L>41629<pc>4-0378<k1>pawa<k2>pawa
+412700 old <ls>P. 5, 2, 29, <is>Vārtt</is>. 5.</ls> {#avipawaH#} Sch. — {#alaMpawa#}, welches wir in {#alam + pawa#} zerlegt haben, ist zu streichen, da a. a. O. {#limpawa#} gelesen wird. {#pawI#} s. u. {#pawi#} .
+412700 new <ls>P. 5, 2, 29, <is>Vārtt</is>. 5.</ls> {#avipawaH#} <ls>Sch.</ls> — {#alaMpawa#}, welches wir in {#alam + pawa#} zerlegt haben, ist zu streichen, da a. a. O. {#limpawa#} gelesen wird. {#pawI#} s. u. {#pawi#} .
+;
+; TODO Case 314: (reason = " Sch. (not in ls)")
+; <L>41828<pc>4-0410<k1>pati<k2>pa/ti
+415758 old <ls>P. 1, 4, 9.</ls> {#kuluYcAnAM pataye#} Sch. Die regelmässigen Formen kommen aber auch in der nachvedischen Sprache vor und auch ohne vorangehenden Genitiv: {#patinA#} 
+415758 new <ls>P. 1, 4, 9.</ls> {#kuluYcAnAM pataye#} <ls>Sch.</ls> Die regelmässigen Formen kommen aber auch in der nachvedischen Sprache vor und auch ohne vorangehenden Genitiv: {#patinA#} 
+;
+; TODO Case 315: (reason = " Sch. (not in ls)")
+; <L>41828<pc>4-0410<k1>pati<k2>pa/ti
+415834 old <ls>P. 6, 3, 24.</ls> {#duhitfpati#} oder {#duhituHpati#} Sch. Verkürzungen einiger Feminina vor {#pati#} im comp. 
+415834 new <ls>P. 6, 3, 24.</ls> {#duhitfpati#} oder {#duhituHpati#} <ls>Sch.</ls> Verkürzungen einiger Feminina vor {#pati#} im comp. 
+;
+; TODO Case 316: (reason = "Sch. " at beg of line)
+; <L>42634<pc>4-0509<k1>pari<k2>pa/ri
+425905 old Sch. Vgl. u. 2,b,
+425905 new <ls>Sch.</ls> Vgl. u. 2,b,
+;
+; TODO Case 317: (reason = " Sch. (not in ls)")
+; <L>43200<pc>4-0554<k1>parizadvala<k2>parizadvala/
+430815 old <ls>P. 5, 2, 112.</ls> {#rAjan#} Sch. {%Versammlungen darbietend%}: {#ASramAn#} 
+430815 new <ls>P. 5, 2, 112.</ls> {#rAjan#} <ls>Sch.</ls> {%Versammlungen darbietend%}: {#ASramAn#} 
+;
+; TODO Case 318: (reason = " Sch. (not in ls)")
+; <L>43657<pc>4-0589<k1>pala<k2>pala/
+434883 old <ls>SŪRYAS. 13, 23.</ls> Sch. zu 
+434883 new <ls>SŪRYAS. 13, 23.</ls> <ls>Sch.</ls> zu 
+;
+; TODO Case 319: (reason = " Sch. (not in ls)")
+; <L>52129<pc>5-0047<k1>bahu<k2>bahu/
+514971 old <ls>?75, 15. Nach P. 5, 3, 68 und VOP. 7, 64</ls> vor adjj. {%beinahe, ziemlich%} (vgl. {#°tfRa, °trivarza): bahu/pawu#} Sch. {#bahu#} (könnte auch als acc. neutr. gefasst werden) {#man#} {%Jmd%} oder {%Etwas für viel halten, zu schätzen wissen, hoch anschlagen%}: {#vi\tte ra^masva ba\hu manya^mAnaH#} 
+514971 new <ls>?75, 15. Nach P. 5, 3, 68 und VOP. 7, 64</ls> vor adjj. {%beinahe, ziemlich%} (vgl. {#°tfRa, °trivarza): bahu/pawu#} <ls>Sch.</ls> {#bahu#} (könnte auch als acc. neutr. gefasst werden) {#man#} {%Jmd%} oder {%Etwas für viel halten, zu schätzen wissen, hoch anschlagen%}: {#vi\tte ra^masva ba\hu manya^mAnaH#} 
+;
+; TODO Case 320: (reason = " Sch. (not in ls)")
+; <L>53548<pc>5-0147<k1>brahmasAma<k2>brahmasAma/
+527008 old <ls>P. 5, 4, 103</ls>, <is>Vārtt</is>., Sch. N. eines <is>Sāman</is>, welches darnach benannt ist, dass dasselbe auf einen vom <is>Brahman</is> (<is>Brāhmaṇācchaṃsin</is>) recitirten Vers zu singen ist. 
+527008 new <ls>P. 5, 4, 103</ls>, <is>Vārtt</is>., <ls>Sch.</ls> N. eines <is>Sāman</is>, welches darnach benannt ist, dass dasselbe auf einen vom <is>Brahman</is> (<is>Brāhmaṇācchaṃsin</is>) recitirten Vers zu singen ist. 
+;
+; TODO Case 321: (reason = " Sch. (not in ls)")
+; <L>54143<pc>5-0204<k1>Bayya<k2>Bayya
+533234 old <ls>P. 6, 1, 83.</ls> {#BayyaM kilAsIt#} Sch. {#nAgfhatAyA Bayyam#} 
+533234 new <ls>P. 6, 1, 83.</ls> {#BayyaM kilAsIt#} <ls>Sch.</ls> {#nAgfhatAyA Bayyam#} 
+;
+; TODO Case 322: (reason = " Sch. (not in ls)")
+; <L>54454<pc>5-0239<k1>BAgya<k2>BAgya<h>2
+537049 old <ls>P. 5, 1, 49.</ls> {#BAgyaM Satam#} {%ein von Hundert, ein Procent%}, {#BAgyA viMSatiH#} {%ein von zwanzig, fünf Procent%} Sch. 
+537049 new <ls>P. 5, 1, 49.</ls> {#BAgyaM Satam#} {%ein von Hundert, ein Procent%}, {#BAgyA viMSatiH#} {%ein von zwanzig, fünf Procent%} <ls>Sch.</ls> 
+;
+; TODO Case 323: (reason = " Sch. (not in ls)")
+; <L>55695<pc>5-0370<k1>BfS<k2>BfS
+551421 old <ls>P. 3, 1, 12.</ls> <is>Vārtt</is>., Sch. {#°daRqaSca Satruzu#} {%eine strenge Strafe verhängend%} 
+551421 new <ls>P. 3, 1, 12.</ls> <is>Vārtt</is>., <ls>Sch.</ls> {#°daRqaSca Satruzu#} {%eine strenge Strafe verhängend%} 
+;
+; TODO Case 324: (reason = " Sch. (not in ls)")
+; <L>59737<pc>5-0714<k1>mADava<k2>mADava
+591229 old <ls>HIOUEN-THSANG I,442. fg.</ls> <ls>KATHĀS. 24,81. fg. 27,88.</ls> <ls>HIT. 128,3.</ls> <ls>MĀLATĪM. 11,12.</ls> <ls>Verz. d. Oxf. H. 162,b,20. 219,a, No. 523. 248,a,29. 264,a,8. 295,a, No. 713. 312,a, No. 745. 332,b, No. 784. 357,b, No. 851. 379,a, No. 388.</ls> <ls>Ind. St.4,174.</ls> <ls>MED. Anh. 4.</ls> <ls>SIDDH. K.</ls> zu <ls>P.1,2,6.3,1,82.5,1,126.7,2,18.</ls> Sch. zu <ls>5,2,139.</ls> <ls>HALL 119. 173.</ls> <ls>HAEB. Anth. 373.</ls> 
+591229 new <ls>HIOUEN-THSANG I,442. fg.</ls> <ls>KATHĀS. 24,81. fg. 27,88.</ls> <ls>HIT. 128,3.</ls> <ls>MĀLATĪM. 11,12.</ls> <ls>Verz. d. Oxf. H. 162,b,20. 219,a, No. 523. 248,a,29. 264,a,8. 295,a, No. 713. 312,a, No. 745. 332,b, No. 784. 357,b, No. 851. 379,a, No. 388.</ls> <ls>Ind. St.4,174.</ls> <ls>MED. Anh. 4.</ls> <ls>SIDDH. K.</ls> zu <ls>P.1,2,6.3,1,82.5,1,126.7,2,18.</ls> <ls>Sch.</ls> zu <ls>5,2,139.</ls> <ls>HALL 119. 173.</ls> <ls>HAEB. Anth. 373.</ls> 
+;
+; TODO Case 325: (reason = " Sch. (not in ls)")
+; <L>62189<pc>5-0918<k1>mocarasa<k2>mocarasa
+615101 old {#mocarasa#}¦ {#(moca + rasa)#} <lex>m.</lex> {%das Harz der Gossampinus Rumphii Sch. & Endl.%} 
+615101 new {#mocarasa#}¦ {#(moca + rasa)#} <lex>m.</lex> {%das Harz der Gossampinus Rumphii <ls>Sch.</ls> & Endl.%} 
+;
+; TODO Case 326: (reason = " Sch. (not in ls)")
+; <L>64931<pc>5-1037<k1>ayATAtaTya<k2>ayATAtaTya
+632412 old {#ayATAtaTya#}¦ (so zu lesen st. {#ayATataTya)#} ist 3. {#a + yA°#} . Streiche «Nach dem Sch. adv.»
+632412 new {#ayATAtaTya#}¦ (so zu lesen st. {#ayATataTya)#} ist 3. {#a + yA°#} . Streiche «Nach dem <ls>Sch.</ls> adv.»
+;
+; TODO Case 327: (reason = " Sch. (not in ls)")
+; <L>81147<pc>6-0033<k1>yatra<k2>ya/tra
+741114 old <ls>P. 8, 1, 66</ls>, <is>Vārtt</is>., Sch. {%weiss Gott wohin%}: {#°gAmin#} 
+741114 new <ls>P. 8, 1, 66</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {%weiss Gott wohin%}: {#°gAmin#} 
+;
+; TODO Case 328: (reason = " Sch. (not in ls)")
+; <L>81147<pc>6-0033<k1>yatra<k2>ya/tra
+741134 old <ls>Spr. 63. 104. 4773.</ls> <ls>?ad ŚĀK. 8, 20. 51, 16. KĀŚ. zu P. 1, 1, 50. P. 1, 1, 3</ls>, Sch. ohne verbum finitum 
+741134 new <ls>Spr. 63. 104. 4773.</ls> <ls>?ad ŚĀK. 8, 20. 51, 16. KĀŚ. zu P. 1, 1, 50. P. 1, 1, 3</ls>, <ls>Sch.</ls> ohne verbum finitum 
+;
+; TODO Case 329: (reason = " Sch. (not in ls)")
+; <L>99098<pc>7-0162<k1>SAlmali<k2>SAlmali
+932442 old <ls>12.</ls> und {#°lI#} <lex>f.</lex> {%Salmalia malabarica Sch. und E., Wollbaum%} (von hohem Wuchs mit Dornen und rother Blüthe; der Same liegt in Wolle) 
+932442 new <ls>12.</ls> und {#°lI#} <lex>f.</lex> {%Salmalia malabarica <ls>Sch.</ls> und E., Wollbaum%} (von hohem Wuchs mit Dornen und rother Blüthe; der Same liegt in Wolle) 
+;
+; TODO Case 330: (reason = " Sch. (not in ls)")
+; <L>111242<pc>7-1112<k1>surasa<k2>surasa
+1051314 old <div n="2">— b) {%das Harz der Gossampinus Rumphii Sch. et Endl.%} 
+1051314 new <div n="2">— b) {%das Harz der Gossampinus Rumphii <ls>Sch.</ls> et Endl.%} 
+;
+; TODO Case 331: (reason = " Sch. (not in ls)")
+; <L>114045<pc>7-1334<k1>sTira<k2>sTira/
+1079791 old <ls>SUŚR. 2, 101, 10. 223, 7. 256, 10. 280, 5. 341, 8. 417, 21. 448, 3.</ls> du. <ls>284, 21.</ls> {%Salmalia%} ({#SAlmali#}) {%malabarica Sch. und E.%} 
+1079791 new <ls>SUŚR. 2, 101, 10. 223, 7. 256, 10. 280, 5. 341, 8. 417, 21. 448, 3.</ls> du. <ls>284, 21.</ls> {%Salmalia%} ({#SAlmali#}) {%malabarica <ls>Sch.</ls> und E.%} 
+;
+; TODO Case 332: (reason = " Sch. (not in ls)")
+; <L>114054<pc>7-1336<k1>sTirajIvita<k2>sTirajIvita
+1079850 old {#sTirajIvita#}¦ <lex>adj.</lex> {%ein zähes Leben habend%}; <lex>f.</lex> {#A#} {%Salmalia%} ({#SAlmali#}) {%malabarica Sch. et E.%} 
+1079850 new {#sTirajIvita#}¦ <lex>adj.</lex> {%ein zähes Leben habend%}; <lex>f.</lex> {#A#} {%Salmalia%} ({#SAlmali#}) {%malabarica <ls>Sch.</ls> et E.%} 
+;
+; TODO Case 333: (reason = " Sch. (not in ls)")
+; <L>114086<pc>7-1337<k1>sTirAyus<k2>sTirAyus
+1080065 old <div n="1">— 2) <lex>m.</lex> {%Salmalia malabarica Sch. et E.%} 
+1080065 new <div n="1">— 2) <lex>m.</lex> {%Salmalia malabarica <ls>Sch.</ls> et E.%} 
+;
+; TODO Case 334: (reason = " Sch. (not in ls)")
+; <L>114119<pc>7-1340<k1>sTUlakaRwakikA<k2>sTUlakaRwakikA
+1080447 old {#sTUlakaRwakikA#}¦ <lex>f.</lex> {%Salmalia%} ({#SAlmali#}) {%malabarica Sch. et E.%} 
+1080447 new {#sTUlakaRwakikA#}¦ <lex>f.</lex> {%Salmalia%} ({#SAlmali#}) {%malabarica <ls>Sch.</ls> et E.%} 
+;
+; TODO Case 335: (reason = " Sch. (not in ls)")
+; <L>114155<pc>7-1341<k1>sTUlaPala<k2>sTUlaPala
+1080649 old <div n="1"> 1) <lex>m.</lex> {%Salmalia malabarica Sch. et E.%} 
+1080649 new <div n="1"> 1) <lex>m.</lex> {%Salmalia malabarica <ls>Sch.</ls> et E.%} 
+;

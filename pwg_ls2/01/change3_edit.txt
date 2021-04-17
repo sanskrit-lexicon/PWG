@@ -1,0 +1,196 @@
+; Case Sch. unmarked
+; <L>3<pc>1-0001<k1>a<k2>a<h>3
+72 old <ls>P. 4, 1, 57.</ls> ({#akeSA#} {%haarlos%}, Sch.). Der Ton ruht auf der letzten Silbe 
+72 new <ls>P. 4, 1, 57.</ls> ({#akeSA#} {%haarlos%}, <ls>Sch.</ls>). Der Ton ruht auf der letzten Silbe 
+;
+; Case Sch. unmarked
+; <L>647<pc>1-0048<k1>aNkura<k2>aNkura/
+5395 old <ls>H. 1118</ls> <ls>?(nach dem Sch. m. n.) an. 3, 518. MED. r. 109.</ls> {#CidrakumBESca sANkurEH . aNkurAQyEH SarAvESca#} 
+5395 new <ls>H. 1118</ls> <ls>?(nach dem <ls>Sch.</ls> m. n.) an. 3, 518. MED. r. 109.</ls> {#CidrakumBESca sANkurEH . aNkurAQyEH SarAvESca#} 
+;
+;
+; Case Sch. unmarked
+; <L>1215<pc>1-0089<k1>ati<k2>a/ti
+10600 old <ls>47, 17.</ls> {#ati#} (Sch. = {#atiSayam) prapede#} 
+10600 new <ls>47, 17.</ls> {#ati#} (<ls>Sch.</ls> = {#atiSayam) prapede#} 
+;
+; Case Sch. unmarked
+; <L>1336<pc>1-0098<k1>atiprabanDa<k2>atiprabanDa
+11554 old {#atiprabanDa#}¦ ({#ati + prabanDa#}) <lex>m.</lex> {%ununterbrochene Fortdauer%}: {#atiprabanDaprahitAstravfzwiBiH#} (Sch. {#atiprabanDenAtinErantaryeRa#}) 
+11554 new {#atiprabanDa#}¦ ({#ati + prabanDa#}) <lex>m.</lex> {%ununterbrochene Fortdauer%}: {#atiprabanDaprahitAstravfzwiBiH#} (<ls>Sch.</ls> {#atiprabanDenAtinErantaryeRa#}) 
+;
+; Case Sch. unmarked
+; <L>1358<pc>1-0099<k1>atiBUmi<k2>atiBUmi
+11704 old <ls>AMAR. 80.</ls> {#prApya - atiBUmim#} (Sch.= {#parAM kAzWAm)#} — {#suratasya#} 
+11704 new <ls>AMAR. 80.</ls> {#prApya - atiBUmim#} (<ls>Sch.</ls> = {#parAM kAzWAm)#} — {#suratasya#} 
+;
+; Case Sch. unmarked
+; <L>2883<pc>1-0210<k1>anubanDa<k2>anubanDa
+24144 old <ls>MED. dh. 40.</ls> <ls>P. 1, 2, 19, Sch. 2, 4, 54</ls>, <ls>Sch.</ls> — Die indischen Lexicographen geben noch folgende Bedeutungen an: 
+24144 new <ls>MED. dh. 40.</ls> <ls>P. 1, 2, 19</ls>, <ls>Sch.</ls> <ls>2, 4, 54</ls>, <ls>Sch.</ls> — Die indischen Lexicographen geben noch folgende Bedeutungen an: 
+;
+; Case Sch. unmarked
+; <L>3309<pc>1-0247<k1>antareRa<k2>a/ntareRa
+28061 old <ls>?14, 9, 4, 5. (= BṚH. ĀR. UP. 6, 4, 5.) TAITT. UP. 1, 6, 1. ĀŚV. ŚR. 4, 13. ŚIŚ. 3, 3. P. 2, 3, 4, Sch. H. 1538</ls>, <ls>Sch.</ls> {#tadAjyaBAgAvantareRAhutIH pratipAdayecCradDayA hutam#} 
+28061 new <ls>?14, 9, 4, 5.</ls> (= <ls>BṚH. ĀR. UP. 6, 4, 5.</ls>) <ls>TAITT. UP. 1, 6, 1.</ls> <ls>ĀŚV. ŚR. 4, 13.</ls> <ls>ŚIŚ. 3, 3.</ls> <ls>P. 2, 3, 4</ls>, <ls>Sch.</ls> <ls>H. 1538</ls>, <ls>Sch.</ls> {#tadAjyaBAgAvantareRAhutIH pratipAdayecCradDayA hutam#} 
+;
+; Case Sch. unmarked
+; <L>3316<pc>1-0248<k1>antarGana<k2>antarGana
+28162 old <ls>?1. Sch. zu BHAṬṬ. 7, 62.</ls> 
+28162 new 1. <ls>Sch.</ls> zu <ls>BHAṬṬ. 7, 62.</ls> 
+;
+; Case Sch. unmarked
+; <L>3447<pc>1-0256<k1>anduka<k2>anduka
+29144 old <ls>?1. AK. 2, 8, 2, 9. H. 1229. (m. n. nach dem Sch.).</ls> 
+29144 new 1. <ls>AK. 2, 8, 2, 9.</ls> <ls>H. 1229.</ls> (m. n. nach dem <ls>Sch.</ls>). 
+;
+; Case Sch. unmarked
+; <L>3523<pc>1-0261<k1>anya<k2>anya/
+29879 old <ls>ṚV. 1, 164, 20.</ls> <ls>?(= MUṆḌ. UP. 3, 1, 1. = ŚVETĀŚV. UP. 4, 6. = P. 8, 1, 65, Sch.)</ls> {#di\vya1^\nyaH sada^naM ca\kra u\ccA pf^Ti\vyAma\nyo aDya\ntari^kze#} 
+29879 new <ls>ṚV. 1, 164, 20.</ls> (= <ls>MUṆḌ. UP. 3, 1, 1.</ls> = <ls>ŚVETĀŚV. UP. 4, 6.</ls> = <ls>P. 8, 1, 65</ls>, <ls>Sch.</ls>) {#di\vya1^\nyaH sada^naM ca\kra u\ccA pf^Ti\vyAma\nyo aDya\ntari^kze#} 
+;
+; Case Sch. unmarked
+; <L>3981<pc>1-0295<k1>apazWu<k2>apazWu/
+33496 old <ls>ŚIŚ. 15, 17</ls> (Text und Sch.: {#apazWum#}). 
+33496 new <ls>ŚIŚ. 15, 17</ls> (Text und <ls>Sch.</ls>: {#apazWum#}). 
+;
+; Case Sch. unmarked
+; <L>4187<pc>1-0311<k1>apekzA<k2>apekzA
+35286 old <ls>?4, 4, 78, Sch. SIDDH. K. zu P. 1, 1, 34.</ls> {#SarIrasADanApekzaM nityaM yatkarma tadyamaH#} 
+35286 new <ls>?4, 4, 78</ls>, <ls>Sch.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 1, 1, 34.</ls> {#SarIrasADanApekzaM nityaM yatkarma tadyamaH#} 
+;
+; Case Sch. unmarked
+; <L>4229<pc>1-0314<k1>apya<k2>a/pya
+35579 old <ls>?10, 86, 12. (P. 4, 4, 134, Sch.)</ls> {#u\sriyA^H#} 
+35579 new <ls>?10, 86, 12.</ls> (<ls>P. 4, 4, 134</ls>, <ls>Sch.</ls>) {#u\sriyA^H#} 
+;
+; Case Sch. unmarked
+; <L>4343<pc>1-0320<k1>apsaras<k2>apsara/s
+36327 old <ls>?(H. 183, Sch. ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#apsarA/m#} 
+36327 new (<ls>H. 183</ls>, <ls>Sch.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#apsarA/m#} 
+;
+; Case Sch. unmarked
+; <L>4421<pc>1-0325<k1>abda<k2>a/bda
+36908 old <ls>H. 159</ls> <ls>?(n., nach den Sch.: m. n.). H. an. MED.</ls> {#sa\jUrabdo\ aya^voBiH#} 
+36908 new <ls>H. 159</ls> (n., nach den <ls>Sch.</ls>: m. n.). <ls>H. an. MED.</ls> {#sa\jUrabdo\ aya^voBiH#} 
+;
+; Case Sch. unmarked
+; <L>5113<pc>1-0372<k1>amA<k2>amA/<h>1
+42644 old <ls>AK. 3, 4, 32,</ls> <ls>?(COL. 28,) 11. H. 1527. P. 3, 1, 122, Sch. VOP. 26, 11.</ls> Vgl. {#amAvasyA#} .
+42644 new <ls>AK. 3, 4, 32,</ls> <ls>?(COL. 28,) 11. H. 1527.</ls> <ls>P. 3, 1, 122</ls>, <ls>Sch.</ls> <ls>VOP. 26, 11.</ls> Vgl. {#amAvasyA#} .
+;
+; Case Sch. unmarked
+; <L>5286<pc>1-0384<k1>ambarIza<k2>amba/rIza
+44075 old <ls>H. 1020</ls> <ls>?(m. n. Sch.). MED. ṣ. 47. m. Uṇ. 4, 9</ls> ({#a/°#}). 
+44075 new <ls>H. 1020</ls> (m. n. <ls>Sch.</ls>). <ls>MED. ṣ. 47.</ls> m. <ls>Uṇ. 4, 9</ls> ({#a/°#}). 
+;
+; Case Sch. unmarked
+; <L>5474<pc>1-0395<k1>ayATApurya<k2>a/yATApurya
+45533 old <ls>P. 7, 3, 31.</ls> <ls>?adv. Sch.</ls>
+45533 new <ls>P. 7, 3, 31.</ls> adv. <ls>Sch.</ls>
+;
+; Case Sch. unmarked
+; <L>5535<pc>1-0399<k1>ar<k2>ar
+46234 old <ls>?(P. 7, 1, 38, Sch.) AV. 12, 2, 55.</ls> 
+46234 new (<ls>P. 7, 1, 38</ls>, <ls>Sch.</ls>) <ls>AV. 12, 2, 55.</ls> 
+;
+; Case Sch. unmarked
+; <L>6391<pc>1-0477<k1>avaDAraRa<k2>avaDAraRa
+55035 old <ls>2, 1, 8</ls> (mit folg. Beispiele beim Sch.: {#yAvadamatraM brAhmaRAnAmantrayasva#} {%lade gerade so viele Brahmanen ein, als Geschirre vorhanden sind%}). 
+55035 new <ls>2, 1, 8</ls> (mit folg. Beispiele beim <ls>Sch.</ls>: {#yAvadamatraM brAhmaRAnAmantrayasva#} {%lade gerade so viele Brahmanen ein, als Geschirre vorhanden sind%}). 
+;
+; Case Sch. unmarked
+; <L>6408<pc>1-0478<k1>avana<k2>avana
+55218 old <ls>AK. 3, 3, 39,</ls> <ls>?(COL. 38,) Sch.</ls>
+55218 new <ls>AK. 3, 3, 39,</ls> (<ls>COL. 38</ls>,) <ls>Sch.</ls>
+;
+; Case Sch. unmarked
+; <L>6487<pc>1-0483<k1>avayava<k2>avayava
+55818 old <ls>M. 1, 16—18.</ls> <ls>SUŚR. 2, 132, 20.</ls> <ls>HIT. III, 83.</ls> <ls>RAGH. 12, 43.</ls> <ls>AMAR. 40. 46.</ls> <ls>P. 1, 1, 46, Sch. 2, 2, 1</ls>, <ls>Sch.</ls> <ls>SĀH. D. 13, 14.</ls> {#SarIrAva°#} 
+55818 new <ls>M. 1, 16—18.</ls> <ls>SUŚR. 2, 132, 20.</ls> <ls>HIT. III, 83.</ls> <ls>RAGH. 12, 43.</ls> <ls>AMAR. 40. 46.</ls> <ls>P. 1, 1, 46</ls>, <ls>Sch.</ls> <ls>2, 2, 1</ls>, <ls>Sch.</ls> <ls>SĀH. D. 13, 14.</ls> {#SarIrAva°#} 
+;
+; Case Sch. unmarked
+; <L>6511<pc>1-0485<k1>avarArDa<k2>avarArDa
+56042 old <ls>P. 5, 4, 57.</ls> Nach den Sch.: {%dessen Hälfte zum Mindesten zweisilbig ist%} {#(dvyajavara + arDa)#}.{# avarArDam#} adv. {%in einer bestimmten Folge der Theile, successiv%}: {#sakftkarma pitFRAmavarArDaM devAnAm#} 
+56042 new <ls>P. 5, 4, 57.</ls> Nach den <ls>Sch.</ls>: {%dessen Hälfte zum Mindesten zweisilbig ist%} {#(dvyajavara + arDa)#}.{# avarArDam#} adv. {%in einer bestimmten Folge der Theile, successiv%}: {#sakftkarma pitFRAmavarArDaM devAnAm#} 
+;
+; Case Sch. unmarked
+; <L>7869<pc>1-0591<k1>AkrIqa<k2>AkrIqa
+68238 old <ls>H. 1112</ls> <ls>?(m., nach den Sch. m. n.). MBH. 3, 11358. 14866.R. 3, 61, 7. 4, 40, 36. m. MBH. 3, 11370. 14867. R. 5, 9, 10. 6, 73, 38. n. MBH. 3, 10823.</ls>
+68238 new <ls>H. 1112</ls> (m., nach den <ls>Sch.</ls> m. n.). <ls>MBH. 3, 11358. 14866. R. 3, 61, 7. 4, 40, 36. m. MBH. 3, 11370. 14867. R. 5, 9, 10. 6, 73, 38. n. MBH. 3, 10823.</ls>
+;
+; Case Sch. unmarked
+; <L>8931<pc>1-0669<k1>Amalaka<k2>Amalaka
+77708 old <ls>?(P. 1, 2, 49, Sch.).</ls> Das herbschmeckende Fruchtfleich wird vielfach medicinisch gebraucht und gilt (
+77708 new (<ls>P. 1, 2, 49</ls>, <ls>Sch.</ls>). Das herbschmeckende Fruchtfleich wird vielfach medicinisch gebraucht und gilt (
+;
+; Case Sch. unmarked
+; <L>9004<pc>1-0674<k1>AmlIkA<k2>AmlIkA
+78248 old <ls>?2. Sch. zu AK. 2, 4, 2, 24. ŚKDR.</ls>
+78248 new 2. <ls>Sch.</ls> zu <ls>AK. 2, 4, 2, 24.</ls> <ls>ŚKDR.</ls>
+;
+; Case Sch. unmarked
+; <L>9045<pc>1-0677<k1>AyAsa<k2>AyAsa/
+78652 old <ls>?2, 25, 1. ADBH. BR. in Ind. St. 1, 39, 3 v. u. Sch.</ls> = {#cittapIqA#} .
+78652 new <ls>?2, 25, 1. ADBH. BR. in Ind. St. 1, 39, 3</ls> v. u. <ls>Sch.</ls> = {#cittapIqA#} .
+;
+; Case Sch. unmarked
+; <L>9358<pc>1-0700<k1>Alambana<k2>Alambana
+81472 old <ls>PRAB. 71, 7</ls> <ls>?(Sch. 1:</ls> = {#nizkAraRameva#}). In der Rhetorik ist {#Alambana#} {%der eigentliche Grund der Gefühlserregung%}, wie z. B. der Held eines Stückes, 
+81472 new <ls>PRAB. 71, 7</ls> (<ls>Sch.</ls> 1: = {#nizkAraRameva#}). In der Rhetorik ist {#Alambana#} {%der eigentliche Grund der Gefühlserregung%}, wie z. B. der Held eines Stückes, 
+;
+; Case Sch. unmarked
+; <L>9366<pc>1-0701<k1>AlamBya<k2>AlamBya^
+81550 old <ls>P. Sch.</ls>
+81550 new <ls>P.</ls> <ls>Sch.</ls>
+;
+; Case Sch. unmarked
+; <L>9499<pc>1-0711<k1>Avizwya<k2>A/vizwya
+82841 old <ls>?1, 95, 5 (vgl. P. 4, 2, 104, <is>Vārtt</is>. 8, Sch. KĀŚ. zu 8, 3, 101).</ls>
+82841 new <ls>?1, 95, 5</ls> (vgl. <ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 8, <ls>Sch.</ls> <ls>KĀŚ.</ls> zu <ls>8, 3, 101</ls>).
+;
+; Case Sch. unmarked
+; <L>9573<pc>1-0718<k1>ASitaMgavIna<k2>ASitaMgavI/na
+83557 old <ls>P. Sch.</ls>
+83557 new <ls>P.</ls> <ls>Sch.</ls>
+;
+; ; Case Sch. unmarked
+; ; <L>19764<pc>2-0477<k1>kram<k2>kram
+186325 old <ls>MBH. 1, 5317. 3, 1937.</ls> {#aDirAme parAkrAntam#} (subst. Sch.: {#rAmaH parAkramasya svAmI#}) 
+186325 new <ls>MBH. 1, 5317. 3, 1937.</ls> {#aDirAme parAkrAntam#} (subst. <ls>Sch.</ls>: {#rAmaH parAkramasya svAmI#}) 
+; ;
+; ; Case Sch. unmarked
+; ; <L>21223<pc>2-0616<k1>KilIBU<k2>KilIBU
+201434 old <ls>ŚĀK. 149.</ls> Nach dem Sch.: = {#durlaBa#} .
+201434 new <ls>ŚĀK. 149.</ls> Nach dem <ls>Sch.</ls>: = {#durlaBa#} .
+; 
+; Case Sch. unmarked
+; <L>23883<pc>2-0870<k1>Gaw<k2>Gaw
+230643 old <ls>?(Sch. 1:</ls> = {#BedaM prApsyante#}, 
+230643 new (<ls>Sch.</ls> 1: = {#BedaM prApsyante#}, 
+;
+; Case Sch. unmarked
+; <L>26057<pc>2-1071<k1>CawA<k2>CawA
+254348 old <ls>PRAB. 65, 10</ls> <ls>?(Sch. 1:</ls> {#CawA = mAlA#}, 
+254348 new <ls>PRAB. 65, 10</ls> (<ls>Sch.</ls> 1: {#CawA = mAlA#}, 
+;
+; Case Sch. unmarked
+; <L>27701<pc>3-0124<k1>juz<k2>juz<h>1
+272094 old <ls>?(Sch. zu P. 3, 1, 34. 4, 7. 94. 97</ls>; vgl. u. {#juj); jujo/za, jujuzu/s, jujuzva/Ms; juzwvI/#} 
+272094 new (<ls>Sch.</ls> zu <ls>P. 3, 1, 34. 4, 7. 94. 97</ls>; vgl. u. {#juj); jujo/za, jujuzu/s, jujuzva/Ms; juzwvI/#} 
+;
+; Case Sch. unmarked
+; <L>28253<pc>3-0182<k1>qamb<k2>qamb
+278322 old <ls>?(Sch. 1 zu PRAB. 15, 14:</ls> = {#anukurvanti#}, 
+278322 new (<ls>Sch.</ls> 1 zu <ls>PRAB. 15, 14:</ls> = {#anukurvanti#}, 
+;
+; Case Sch. unmarked
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+286070 old <ls>BHAṬṬ. 12, 77.</ls> {#(vajram) laDvamBasi tarati#} (Sch. = {#majjati!) raSmivat#} 
+286070 new <ls>BHAṬṬ. 12, 77.</ls> {#(vajram) laDvamBasi tarati#} (<ls>Sch.</ls> = {#majjati!) raSmivat#} 
+;
+; Case Sch. unmarked
+; <L>55166<pc>5-0314<k1>BU<k2>BU<h>1
+545361 old <ls>?(Sch. zu P. 3, 4, 61. fgg.</ls>). Die unregelmässige Imperativ-Form {#boDi#} sind wir geneigt mit 
+545361 new (<ls>Sch.</ls> zu <ls>P. 3, 4, 61. fgg.</ls>). Die unregelmässige Imperativ-Form {#boDi#} sind wir geneigt mit 
+;

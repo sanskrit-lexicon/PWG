@@ -6,6 +6,9 @@ Contains first round of work in identifying literary sources in PWG Sanskrit dic
 Contains second round.  Based on first round.  
 Begun Dec 2017.
 
+### pwg_ls2
+Contains further work to improve `<ls>` markup
+
 ### verbs01
 Identification of PWG verbs, and correlation with MW verbs and prefixed verbs.
 Begun Feb 2020.  verbs01a is an improvement.

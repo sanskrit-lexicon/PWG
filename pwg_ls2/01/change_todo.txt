@@ -1,0 +1,760 @@
+; TODO Case 1: (reason = Sch. unmarked)
+; <L>669<pc>1-0050<k1>aNga<k2>a/Nga<h>2
+5616 old <ls>an. 2, 30</ls> <ls>?(sg.). MED. g. 2. P. 2, 4, 62, Sch. 4, 2, 81, Sch. 125, Sch. VOP. 7, 14.</ls> {#ga\nDAri^Byo\ mUja^va\dByo 'Nge^Byo ma\gaDe^ByaH#} 
+5616 new <ls>an. 2, 30</ls> <ls>?(sg.). MED. g. 2. P. 2, 4, 62, Sch. 4, 2, 81, Sch. 125, Sch. VOP. 7, 14.</ls> {#ga\nDAri^Byo\ mUja^va\dByo 'Nge^Byo ma\gaDe^ByaH#} 
+;
+; TODO Case 2: (reason = Sch. unmarked)
+; <L>2442<pc>1-0180<k1>anaSnant<k2>a/naSnant
+20624 old <ls>ṚV. 1, 164, 20.</ls> <ls>?= MUṆḌ. UP. 3, 1, 1. = P. 8, 1, 65, Sch. ŚAT. BR. 2, 1, 4, 2. 3, 1, 4. 2, 3. KAṬHOP. 1, 1, 5. 6.</ls> {#a\naSnantsAMgamana\H#} N. pr. der Repräsentant des in der <is>Sabhā</is> befindlichen Feuers 
+20624 new <ls>ṚV. 1, 164, 20.</ls> <ls>?= MUṆḌ. UP. 3, 1, 1. = P. 8, 1, 65, Sch. ŚAT. BR. 2, 1, 4, 2. 3, 1, 4. 2, 3. KAṬHOP. 1, 1, 5. 6.</ls> {#a\naSnantsAMgamana\H#} N. pr. der Repräsentant des in der <is>Sabhā</is> befindlichen Feuers 
+;
+; TODO Case 3: (reason = Sch. unmarked)
+; <L>3332<pc>1-0249<k1>antarDA<k2>antarDA/
+28253 old <ls>P.</ls> <ls>?(ed. Calc.) 1, 4, 65, <is>Vārtt</is>. 3, 3, 106, Sch. VOP. 26, 193.</ls> {%Verhüllung, Verbergung%} 
+28253 new <ls>P.</ls> <ls>?(ed. Calc.) 1, 4, 65, <is>Vārtt</is>. 3, 3, 106, Sch. VOP. 26, 193.</ls> {%Verhüllung, Verbergung%} 
+;
+; TODO Case 4: (reason = Sch. unmarked)
+; <L>6224<pc>1-0465<k1>alpaSas<k2>alpaSa/s
+53591 old <ls>?6, 3, 35, <is>Vārtt</is>. 1, Sch. VOP. 7, 68.</ls> {%selten, nur dann und wann%} 
+53591 new <ls>?6, 3, 35, <is>Vārtt</is>. 1, Sch. VOP. 7, 68.</ls> {%selten, nur dann und wann%} 
+;
+; TODO Case 5: (reason = Sch. unmarked)
+; <L>9630<pc>1-0722<k1>ASmaraTa<k2>ASmaraTa/
+84067 old <ls>?4, 3, 105, Sch. Ind. St. 1, 57. 405. WEBER, Lit. 45. 217.</ls>
+84067 new <ls>?4, 3, 105, Sch. Ind. St. 1, 57. 405. WEBER, Lit. 45. 217.</ls>
+;
+; TODO Case 6: (reason = Sch. unmarked)
+; <L>9800<pc>1-0741<k1>AstaraRa<k2>Asta/raRa<h>1
+86039 old <ls>?1. AK. 2, 8, 2, 10. H. 680, Sch. AV. 15, 3, 7.</ls> {#vyAGracarmAstaraRam#} 
+86039 new <ls>?1. AK. 2, 8, 2, 10. H. 680, Sch. AV. 15, 3, 7.</ls> {#vyAGracarmAstaraRam#} 
+;
+; TODO Case 7: (reason = Sch. unmarked)
+; <L>10576<pc>1-0859<k1>u<k2>u<h>1
+97171 old <ls>?1, 1, 14, Sch. VOP. 2, 19</ls> {#(u umeSaH)#}.{# u meti mAtrA tapaso nizidDA paScAdumAKyAM sumuKI jagAma#} 
+97171 new <ls>?1, 1, 14, Sch. VOP. 2, 19</ls> {#(u umeSaH)#}.{# u meti mAtrA tapaso nizidDA paScAdumAKyAM sumuKI jagAma#} 
+;
+; TODO Case 8: (reason = Sch. unmarked)
+; <L>10596<pc>1-0863<k1>ukTaSas<k2>ukTaSa/s
+97478 old <ls>?<is>Vārtt</is>. 8, 2, 67, Sch. VOP. 26, 65. 3, 107—109. 153.</ls> {%den Spruch sprechend, lobpreisend%}: {#bra\hmARe^va vi\daTa^ ukTa\SAsA^#} 
+97478 new <ls>?<is>Vārtt</is>. 8, 2, 67, Sch. VOP. 26, 65. 3, 107—109. 153.</ls> {%den Spruch sprechend, lobpreisend%}: {#bra\hmARe^va vi\daTa^ ukTa\SAsA^#} 
+;
+; TODO Case 9: (reason = Sch. unmarked)
+; <L>12509<pc>1-1003<k1>urva<k2>urva
+114589 old <ls>?2, 4, 64, Sch. VOP. 7, 14.</ls> Vgl. {#Urva#} und {#Orva#} . 
+114589 new <ls>?2, 4, 64, Sch. VOP. 7, 14.</ls> Vgl. {#Urva#} und {#Orva#} . 
+;
+; TODO Case 10: (reason = Sch. unmarked)
+; <L>12595<pc>1-1009<k1>uSInara<k2>uSIna/ra
+115385 old <ls>?8, 4, 9, Sch. sg. MBH. 1, 227. 7000</ls> (ein <is>Vṛṣṇi</is>). 
+115385 new <ls>?8, 4, 9, Sch. sg. MBH. 1, 227. 7000</ls> (ein <is>Vṛṣṇi</is>). 
+;
+; TODO Case 11: (reason = Sch. unmarked)
+; <L>12602<pc>1-1010<k1>uz<k2>uz<h>1
+115473 old <ls>ŚĀṄKH. GṚHY. 1, 5, 9.</ls> {#u/duzwamuKa#} {%ein röthliches%} (nach dem Sch.) {%Maul habend%} (Pferd) 
+115473 new <ls>ŚĀṄKH. GṚHY. 1, 5, 9.</ls> {#u/duzwamuKa#} {%ein röthliches%} (nach dem Sch.) {%Maul habend%} (Pferd) 
+;
+; TODO Case 12: (reason = Sch. unmarked)
+; <L>12772<pc>1-1024<k1>UrRAsUtra<k2>UrRAsUtra/
+117165 old <ls>VS. 19, 80</ls> <ls>?(P. 6, 3, 63, Sch.). ŚAT. BR. 12, 7, 2, 11. ŚĀṄKH. ŚR. 4, 15, 31.</ls>
+117165 new <ls>VS. 19, 80</ls> <ls>?(P. 6, 3, 63, Sch.). ŚAT. BR. 12, 7, 2, 11. ŚĀṄKH. ŚR. 4, 15, 31.</ls>
+;
+; TODO Case 13: (reason = Sch. unmarked)
+; <L>12775<pc>1-1024<k1>UrRu<k2>UrRu
+117186 old <ls>?7, 2, 11, Sch. VOP. 8, 55. 9, 46 - 49. 51. 52. 26, 89.</ls> {%umgeben, umhüllen%} 
+117186 new <ls>?7, 2, 11, Sch. VOP. 8, 55. 9, 46 - 49. 51. 52. 26, 89.</ls> {%umgeben, umhüllen%} 
+;
+; TODO Case 14: (reason = Sch. unmarked)
+; <L>12859<pc>1-1030<k1>Urvya<k2>U/rvya
+117936 old <ls>ŚATAR. UP.</ls> in <ls>Ind. St. 2, 42. Sch.</ls> : {#urvI pfTivI . tasyAM BavAya . CAndaso dIrGaH#}; andere Erkll. führen das Wort auf 3. {#Urva#} zurück. 
+117936 new <ls>ŚATAR. UP.</ls> in <ls>Ind. St. 2, 42. Sch.</ls> : {#urvI pfTivI . tasyAM BavAya . CAndaso dIrGaH#}; andere Erkll. führen das Wort auf 3. {#Urva#} zurück. 
+;
+; TODO Case 15: (reason = Sch. unmarked)
+; <L>13070<pc>1-1055<k1>ftuyAja<k2>ftuyAja
+120362 old <ls>ŚĀṄKH. ŚR. 7, 8, 1</ls> <ls>?(P. 7, 3, 62, Sch.). 3, 4. 17, 12. NIR. 8, 2.</ls>
+120362 new <ls>ŚĀṄKH. ŚR. 7, 8, 1</ls> <ls>?(P. 7, 3, 62, Sch.). 3, 4. 17, 12. NIR. 8, 2.</ls>
+;
+; TODO Case 16: (reason = Sch. unmarked)
+; <L>13225<pc>1-1072<k1>ekajAta<k2>ekajAta
+121934 old <ls>?182. UŚANAS in DĀY. 108, 10. Sch.</ls> : = {#ekajAtIyamAtfjAta#} .
+121934 new <ls>?182. UŚANAS in DĀY. 108, 10. Sch.</ls> : = {#ekajAtIyamAtfjAta#} .
+;
+; TODO Case 17: (reason = Sch. unmarked)
+; <L>13713<pc>1-1113<k1>ErAvata<k2>ErAvata/
+126265 old <ls>MBH. 3, 188.</ls> ({#AsTitO#}) {#prAvfzeRyaM payovAhaM vidyudErAvatAviva#} (Sch. der Calc. Ausg.: = {#SacIndrAviva#}) 
+126265 new <ls>MBH. 3, 188.</ls> ({#AsTitO#}) {#prAvfzeRyaM payovAhaM vidyudErAvatAviva#} (Sch. der Calc. Ausg.: = {#SacIndrAviva#}) 
+;
+; TODO Case 18: (reason = Sch. unmarked)
+; <L>13796<pc>1-1121<k1>odana<k2>odana/
+127053 old <ls>?2, Sch. - NAIGH. 1, 10</ls> erscheint {#odana#} <lex>m.</lex> unter den Namen für {%Wolke.%} 
+127053 new <ls>?2, Sch. - NAIGH. 1, 10</ls> erscheint {#odana#} <lex>m.</lex> unter den Namen für {%Wolke.%} 
+;
+; TODO Case 19: (reason = Sch. unmarked)
+; <L>13890<pc>1-1129<k1>Oqulomi<k2>O/qulomi
+127749 old <ls>?8, Sch. SIDDH. K. 66</ls>,a. 
+127749 new <ls>?8, Sch. SIDDH. K. 66</ls>,a. 
+;
+; TODO Case 20: (reason = Sch. unmarked)
+; <L>14598<pc>2-0039<k1>katara<k2>katara/
+134096 old <ls>?3, 3, 6, Sch. VOP. 25, 5.</ls> {#kataro hariM nindet#} oder {#nindizyati (garhAyAm)#} 
+134096 new <ls>?3, 3, 6, Sch. VOP. 25, 5.</ls> {#kataro hariM nindet#} oder {#nindizyati (garhAyAm)#} 
+;
+; TODO Case 21: (reason = Sch. unmarked)
+; <L>14989<pc>2-0072<k1>kam<k2>kam<h>2
+137938 old <ls>?3, 1, 48, <is>Vārtt</is>. 7, 4, 93, Sch.; aor.</ls> pass. impers. {#akAmi#} 
+137938 new <ls>?3, 1, 48, <is>Vārtt</is>. 7, 4, 93, Sch.; aor.</ls> pass. impers. {#akAmi#} 
+;
+; TODO Case 22: (reason = Sch. unmarked)
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+139033 old <ls>?3, 1, 62, Sch. VOP. 24, 10</ls>; infin. {#ka/rtum, ka/rtave, ka/rtavE/#} (
+139033 new <ls>?3, 1, 62, Sch. VOP. 24, 10</ls>; infin. {#ka/rtum, ka/rtave, ka/rtavE/#} (
+;
+; TODO Case 23: (reason = Sch. unmarked)
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+140066 old <ls>?2, 4, 75, Sch. 4, 2, 24, Sch. KĀŚ. zu 1, 2, 36.</ls> {#punarvararucistasmE prakftArTamavarRayat#} 
+140066 new <ls>?2, 4, 75, Sch. 4, 2, 24, Sch. KĀŚ. zu 1, 2, 36.</ls> {#punarvararucistasmE prakftArTamavarRayat#} 
+;
+; TODO Case 24: (reason = Sch. unmarked)
+; <L>15693<pc>2-0159<k1>kalApa<k2>kalApa
+147308 old <ls>?4, 1, 63, Sch. - MED.</ls> kennt noch zwei Bedeutt.: 
+147308 new <ls>?4, 1, 63, Sch. - MED.</ls> kennt noch zwei Bedeutt.: 
+;
+; TODO Case 25: (reason = Sch. unmarked)
+; <L>15750<pc>2-0173<k1>kalpa<k2>ka/lpa
+148544 old <ls>TAITT. ĀR. 2, 9. 10.</ls> sg. <ls>P. 4, 2, 60, <is>Vārtt</is>. 3. 4. 3, 66, <is>Vārtt</is>. 3. 4, 1, 19, <is>Vārtt</is>. 2, Sch. 4, 2, 66</ls>, <ls>Sch.</ls> <ls>BHĀG. P. 2, 6, 25.</ls> <ls>Ind. St. 1, 44. u.s.w.</ls> {#kalpaprayoge cotpanne jyotize ca paraM gataH#} 
+148544 new <ls>TAITT. ĀR. 2, 9. 10.</ls> sg. <ls>P. 4, 2, 60, <is>Vārtt</is>. 3. 4. 3, 66, <is>Vārtt</is>. 3. 4, 1, 19, <is>Vārtt</is>. 2, Sch. 4, 2, 66</ls>, <ls>Sch.</ls> <ls>BHĀG. P. 2, 6, 25.</ls> <ls>Ind. St. 1, 44. u.s.w.</ls> {#kalpaprayoge cotpanne jyotize ca paraM gataH#} 
+;
+; TODO Case 26: (reason = Sch. unmarked)
+; <L>16174<pc>2-0205<k1>kAYjIka<k2>kAYjIka
+152470 old <ls>?1. Sch. zu AK. 2, 9, 39.</ls>
+152470 new <ls>?1. Sch. zu AK. 2, 9, 39.</ls>
+;
+; TODO Case 27: (reason = Sch. unmarked)
+; <L>16393<pc>2-0220<k1>kAmaRqaleya<k2>kA/maRqaleya
+154450 old <ls>?4, 1, 135, Sch. VOP. 7, 6.</ls> {#kA/maRqaleyI#} <lex>f.</lex> ({#jAtO#}) <is>gaṇa</is> {#SArNgaravAdi#} zu 
+154450 new <ls>?4, 1, 135, Sch. VOP. 7, 6.</ls> {#kA/maRqaleyI#} <lex>f.</lex> ({#jAtO#}) <is>gaṇa</is> {#SArNgaravAdi#} zu 
+;
+; TODO Case 28: (reason = Sch. unmarked)
+; <L>16542<pc>2-0232<k1>kAraka<k2>kA/raka<h>1
+155866 old <ls>P. 2, 3,</ls> <ls>?70,Sch.</ls>
+155866 new <ls>P. 2, 3,</ls> <ls>?70,Sch.</ls>
+;
+; TODO Case 29: (reason = Sch. unmarked)
+; <L>16684<pc>2-0243<k1>kArya<k2>kArya^
+157250 old <ls>?32, Sch. VOP. 8, 112.</ls> im Gegens. zu {#prayoga#} 
+157250 new <ls>?32, Sch. VOP. 8, 112.</ls> im Gegens. zu {#prayoga#} 
+;
+; TODO Case 30: (reason = Sch. unmarked)
+; <L>17432<pc>2-0305<k1>kukkuwa<k2>kukkuwa/
+164313 old <ls>Sch.</ls> zu <ls>P. 4, 1, 63</ls> und <ls>?14. 4, 4, 46. Sch. zu 1, 2, 67. <is>Vārtt</is>. zu 6, 3, 42.</ls> {%Henne.%} 
+164313 new <ls>Sch.</ls> zu <ls>P. 4, 1, 63</ls> und <ls>?14. 4, 4, 46. Sch. zu 1, 2, 67. <is>Vārtt</is>. zu 6, 3, 42.</ls> {%Henne.%} 
+;
+; TODO Case 31: (reason = Sch. unmarked)
+; <L>17697<pc>2-0327<k1>kutsA<k2>kutsA
+166992 old <ls>AK. 1, 1, 5, 14. 3, 4, 32,</ls> <ls>?(COLEBR. 28,) 2. H. 271. P. 4, 1, 167. 148, Sch. VOP. 7, 65.</ls> {#gurukutsAratiSca yaH#} 
+166992 new <ls>AK. 1, 1, 5, 14. 3, 4, 32,</ls> <ls>?(COLEBR. 28,) 2. H. 271. P. 4, 1, 167. 148, Sch. VOP. 7, 65.</ls> {#gurukutsAratiSca yaH#} 
+;
+; TODO Case 32: (reason = Sch. unmarked)
+; <L>18267<pc>2-0368<k1>kuSAmba<k2>kuSAmba
+172098 old <ls>?6 und Sch. zu P. 4, 2, 68). VP. 399.</ls> Letzterer heisst {#kuSAmbu (kuSa + ambu)#} 
+172098 new <ls>?6 und Sch. zu P. 4, 2, 68). VP. 399.</ls> Letzterer heisst {#kuSAmbu (kuSa + ambu)#} 
+;
+; TODO Case 33: (reason = Sch. unmarked)
+; <L>18458<pc>2-0381<k1>kUwasTa<k2>kUwasTa
+173819 old <ls>?127. SARVOPAN. in Ind. St. 1, 301. Sch. zu KAP. 1, 98. 149.</ls> Davon nom. abstr. {#kUwasTatva#} <lex>n.</lex> 
+173819 new <ls>?127. SARVOPAN. in Ind. St. 1, 301. Sch. zu KAP. 1, 98. 149.</ls> Davon nom. abstr. {#kUwasTatva#} <lex>n.</lex> 
+;
+; TODO Case 34: (reason = Sch. unmarked)
+; <L>19308<pc>2-0445<k1>koRa<k2>koRa
+181526 old <ls>H. 294.</ls> <ls>?(nach dem Sch. auch f.). H. an. MED.</ls> {#BerImfdaNgavIRAnAM koRasaMGawitaH (SabdaH)#} 
+181526 new <ls>H. 294.</ls> <ls>?(nach dem Sch. auch f.). H. an. MED.</ls> {#BerImfdaNgavIRAnAM koRasaMGawitaH (SabdaH)#} 
+;
+; TODO Case 35: (reason = Sch. unmarked)
+; <L>19316<pc>2-0446<k1>kodaRqa<k2>kodaRqa
+181594 old <ls>H. 775.</ls> <ls>?(nach dem Sch. auch m.) MED. ḍ. 28. m. H. an. 3, 180. - BHARTṚ. 1, 97. MĀLAV. 85. HIT. 35, 11. KATHĀS. 22, 92. RĀJA-TAR. 5, 104. BHĀG. P. 3, 21, 52. 9. 10, 9.</ls> Nirgends das Geschlecht zu erkennen. 
+181594 new <ls>H. 775.</ls> <ls>?(nach dem Sch. auch m.) MED. ḍ. 28. m. H. an. 3, 180. - BHARTṚ. 1, 97. MĀLAV. 85. HIT. 35, 11. KATHĀS. 22, 92. RĀJA-TAR. 5, 104. BHĀG. P. 3, 21, 52. 9. 10, 9.</ls> Nirgends das Geschlecht zu erkennen. 
+;
+; TODO Case 36: (reason = Sch. unmarked)
+; <L>19634<pc>2-0466<k1>kOvera<k2>kOvera
+184258 old <ls>VARĀH. BṚH. S. 13</ls> in <ls>Verz. d. B. H. 240.</ls> <ls>KATHĀS. 18. 58.</ls> <ls>P. 2, 2, 26. Sch.</ls> 
+184258 new <ls>VARĀH. BṚH. S. 13</ls> in <ls>Verz. d. B. H. 240.</ls> <ls>KATHĀS. 18. 58.</ls> <ls>P. 2, 2, 26. Sch.</ls> 
+;
+; TODO Case 37: (reason = Sch. unmarked)
+; <L>19756<pc>2-0475<k1>krand<k2>krand
+185367 old <ls>?(P. 7, 4, 65, Sch.).</ls> 
+185367 new <ls>?(P. 7, 4, 65, Sch.).</ls> 
+;
+; TODO Case 38: (reason = Sch. unmarked)
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+186327 old <ls>22; Sch.</ls> : {#parAkraMsta = utsehe, utsAhaM cakAra#}, mit Verweisung auf 
+186327 new <ls>22; Sch.</ls> : {#parAkraMsta = utsehe, utsAhaM cakAra#}, mit Verweisung auf 
+;
+; TODO Case 39: (reason = Sch. unmarked)
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+186408 old <ls>P. 3, 4,</ls> <ls>?65,Sch.</ls>
+186408 new <ls>P. 3, 4,</ls> <ls>?65,Sch.</ls>
+;
+; TODO Case 40: (reason = Sch. unmarked)
+; <L>19987<pc>2-0512<k1>krOYca<k2>krOYca/
+189059 old <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>H.</ls> <ls>?1329,Sch.</ls>)
+189059 new <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>H.</ls> <ls>?1329,Sch.</ls>)
+;
+; TODO Case 41: (reason = Sch. unmarked)
+; <L>20092<pc>2-0524<k1>kzaRika<k2>kzaRika
+190324 old <ls>?94, 2. Sch. zu KAP. 1, 26. BHĀṢĀP. 26. MADHUS. in Ind. St. 1, 13.</ls> Davon {#kzaRikatva#} <lex>n.</lex> {%eine Dauer auf Augenblicke%} 
+190324 new <ls>?94, 2. Sch. zu KAP. 1, 26. BHĀṢĀP. 26. MADHUS. in Ind. St. 1, 13.</ls> Davon {#kzaRikatva#} <lex>n.</lex> {%eine Dauer auf Augenblicke%} 
+;
+; TODO Case 42: (reason = Sch. unmarked)
+; <L>20315<pc>2-0549<k1>kzip<k2>kzip<h>1
+193401 old <ls>KAIY.</ls> zu <ls>P. 6, 1, 100</ls> und <ls>?3, 3, 122. Sch. zu 6, 3, 83. Sch. am Ende von R. 2, 96.</ls> — caus. {%hineinwerfen —, hineinlegen lassen%}: {#tadBakzye - vizaM prakzepayAmAsa#} 
+193401 new <ls>KAIY.</ls> zu <ls>P. 6, 1, 100</ls> und <ls>?3, 3, 122. Sch. zu 6, 3, 83. Sch. am Ende von R. 2, 96.</ls> — caus. {%hineinwerfen —, hineinlegen lassen%}: {#tadBakzye - vizaM prakzepayAmAsa#} 
+;
+; TODO Case 43: (reason = Sch. unmarked)
+; <L>20941<pc>2-0597<k1>Kan<k2>Kan
+198930 old <ls>?(P. 7, 1, 44, Sch.) AIT. BR. 2, 6. TS. 2, 6, 4, 2. ŚAT. BR. 1, 2, 4, 16. 8, 1, 3. 4, 5, 5, 6.</ls> {#SvaBram#} 
+198930 new <ls>?(P. 7, 1, 44, Sch.) AIT. BR. 2, 6. TS. 2, 6, 4, 2. ŚAT. BR. 1, 2, 4, 16. 8, 1, 3. 4, 5, 5, 6.</ls> {#SvaBram#} 
+;
+; TODO Case 44: (reason = Sch. unmarked)
+; <L>21600<pc>2-0646<k1>gati<k2>ga/ti
+204977 old <ls>?5, 10. Sch. zu JAIM. 1, 2, 17.</ls> {%Kunstgriff, Strategem%}: {#gatIrdaSa samApannO pravartananivartanEH#} 
+204977 new <ls>?5, 10. Sch. zu JAIM. 1, 2, 17.</ls> {%Kunstgriff, Strategem%}: {#gatIrdaSa samApannO pravartananivartanEH#} 
+;
+; TODO Case 45: (reason = Sch. unmarked)
+; <L>22023<pc>2-0706<k1>garBin<k2>garBi/n
+211237 old <ls>?(P. 7, 3, 107, <is>Vārtt</is>. 3, Sch. 3, 1, 85, <is>Kār</is>., Sch.) 2, 1, 2, 6.</ls> Das womit eine Person schwanger geht im acc. oder instr.: {#so 'zwO drapsAngarByaBavat#} 
+211237 new <ls>?(P. 7, 3, 107, <is>Vārtt</is>. 3, Sch. 3, 1, 85, <is>Kār</is>., Sch.) 2, 1, 2, 6.</ls> Das womit eine Person schwanger geht im acc. oder instr.: {#so 'zwO drapsAngarByaBavat#} 
+;
+; TODO Case 46: (reason = Sch. unmarked)
+; <L>22171<pc>2-0723<k1>gA<k2>gA<h>2
+213250 old <ls>?3, 4, 14, 81. MED. t. 178. VIŚVA beim Sch. zu KIR. 2, 7.</ls> = {#vigarhita#} 
+213250 new <ls>?3, 4, 14, 81. MED. t. 178. VIŚVA beim Sch. zu KIR. 2, 7.</ls> = {#vigarhita#} 
+;
+; TODO Case 47: (reason = Sch. unmarked)
+; <L>22216<pc>2-0730<k1>gAtra<k2>gA/tra
+213881 old <ls>TRIK. 2, 8, 39.</ls> f. <ls>H. 1228. Sch.</ls> 
+213881 new <ls>TRIK. 2, 8, 39.</ls> f. <ls>H. 1228. Sch.</ls> 
+;
+; TODO Case 48: (reason = Sch. unmarked)
+; <L>22256<pc>2-0733<k1>gAna<k2>gAna
+214199 old <ls>?24, 6, 40. LĀṬY. 1, 8, 5. 7, 10, 18. HARIV. 11793. Cit. beim Sch. zu ŚĀK. 98. Verz. d. B. H. 125, 4. 7.</ls> {%Laut%} 
+214199 new <ls>?24, 6, 40. LĀṬY. 1, 8, 5. 7, 10, 18. HARIV. 11793. Cit. beim Sch. zu ŚĀK. 98. Verz. d. B. H. 125, 4. 7.</ls> {%Laut%} 
+;
+; TODO Case 49: (reason = Sch. unmarked)
+; <L>23417<pc>2-0818<k1>gozaRi<k2>goza/Ri
+224918 old <ls>TS.</ls><ls>?). P. 3, 2, 27, Sch. 8, 3, 108</ls>, <ls>Sch.</ls> {#gosaniM gosanim#} <is>gaṇa</is> {#savanAdi#} zu 
+224918 new <ls>TS.</ls><ls>?). P. 3, 2, 27, Sch. 8, 3, 108</ls>, <ls>Sch.</ls> {#gosaniM gosanim#} <is>gaṇa</is> {#savanAdi#} zu 
+;
+; TODO Case 50: (reason = Sch. unmarked)
+; <L>23504<pc>2-0823<k1>gORa<k2>gORa
+225574 old <ls>PAT. </ls> zu <ls>P. 1, 4, 108 und 8, 3, 82.</ls> <ls>SĀH. D. 6, 13. 14, 2. 5. 9. 11. 15, 8. Sch.</ls> zu <ls>KĀTY. ŚR. 1, 1, 11. 6, 16. Sch.</ls> zu <ls>SĀṂKHYAK. 51 (S. 157).</ls>
+225574 new <ls>PAT. </ls> zu <ls>P. 1, 4, 108 und 8, 3, 82.</ls> <ls>SĀH. D. 6, 13. 14, 2. 5. 9. 11. 15, 8. Sch.</ls> zu <ls>KĀTY. ŚR. 1, 1, 11. 6, 16. Sch.</ls> zu <ls>SĀṂKHYAK. 51 (S. 157).</ls>
+;
+; TODO Case 51: (reason = Sch. unmarked)
+; <L>23542<pc>2-0826<k1>gOra<k2>gOra/
+225941 old <ls>?(P. 1, 1, 19, Sch.) ṚV. 9, 12, 3.</ls> {#maDva^H pibanti gO\rya^H . yA indre^Ra sa\yAva^rI\rvfzRA\ mada^nti#} 
+225941 new <ls>?(P. 1, 1, 19, Sch.) ṚV. 9, 12, 3.</ls> {#maDva^H pibanti gO\rya^H . yA indre^Ra sa\yAva^rI\rvfzRA\ mada^nti#} 
+;
+; TODO Case 52: (reason = Sch. unmarked)
+; <L>23656<pc>2-0834<k1>graB<k2>graB
+228045 old <ls>PAT.</ls> zu <ls>P. 8, 1, 55</ls> und <ls>?2, 25. Sch. zu SĀṂKHYAK. 51 (S. 158).</ls> 
+228045 new <ls>PAT.</ls> zu <ls>P. 8, 1, 55</ls> und <ls>?2, 25. Sch. zu SĀṂKHYAK. 51 (S. 158).</ls> 
+;
+; TODO Case 53: (reason = Sch. unmarked)
+; <L>23675<pc>2-0852<k1>grahaRa<k2>gra/haRa
+228565 old <ls>SIDDH. K.</ls> zu <ls>?1, 1, 28. Sch. zu 1, 1, 68 und 2, 48.</ls> 
+228565 new <ls>SIDDH. K.</ls> zu <ls>?1, 1, 28. Sch. zu 1, 1, 68 und 2, 48.</ls> 
+;
+; TODO Case 54: (reason = Sch. unmarked)
+; <L>23679<pc>2-0853<k1>grahaRI<k2>grahaRI/
+228593 old <ls>?1, 192, 17. 2, 506, 11. Nach dem Sch. zu Uṇ.</ls> = {#grahaRIruj#} .
+228593 new <ls>?1, 192, 17. 2, 506, 11. Nach dem Sch. zu Uṇ.</ls> = {#grahaRIruj#} .
+;
+; TODO Case 55: (reason = Sch. unmarked)
+; <L>24902<pc>2-0952<k1>car<k2>car
+241026 old <ls>4, 19. Sch.</ls> : = {#garhitamAcarantI, garhitaM punaH punaScarantI#} {%sich winden und drehen um des Mannes Leidenschaft zu erregen.%}
+241026 new <ls>4, 19. Sch.</ls> : = {#garhitamAcarantI, garhitaM punaH punaScarantI#} {%sich winden und drehen um des Mannes Leidenschaft zu erregen.%}
+;
+; TODO Case 56: (reason = Sch. unmarked)
+; <L>25078<pc>2-0983<k1>cazati<k2>cazati
+243958 old <ls>ŚKDR.</ls> <ls>?angeblich nach dem Sch. zu Uṇ. in SIDDH. K.</ls> {%decay, infirmity%} 
+243958 new <ls>ŚKDR.</ls> <ls>?angeblich nach dem Sch. zu Uṇ. in SIDDH. K.</ls> {%decay, infirmity%} 
+;
+; TODO Case 57: (reason = Sch. unmarked)
+; <L>25602<pc>2-1033<k1>cirantana<k2>cira/ntana
+249837 old <ls>P. 4, 3,</ls> <ls>?105,Sch.</ls>
+249837 new <ls>P. 4, 3,</ls> <ls>?105,Sch.</ls>
+;
+; TODO Case 58: (reason = Sch. unmarked)
+; <L>25934<pc>2-1059<k1>cEtra<k2>cEtra/
+253034 old <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 5. 7.</ls> <ls>Z. d. d. m. G.</ls> <ls>?VII, 310. Sch. zu PRAB. 50, 11.</ls> Hierher gehört wohl auch: {#cEtro mEtrAtpUrvadeSe#} 
+253034 new <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 5. 7.</ls> <ls>Z. d. d. m. G.</ls> <ls>?VII, 310. Sch. zu PRAB. 50, 11.</ls> Hierher gehört wohl auch: {#cEtro mEtrAtpUrvadeSe#} 
+;
+; TODO Case 59: (reason = Sch. unmarked)
+; <L>25979<pc>2-1062<k1>cora<k2>cora/
+253444 old <ls>?6, 1, 157. VOP. 7, 19. 22. H. 381, Sch. ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#corI/#} <lex>f.</lex> <is>gaṇa</is> {#pacAdi#} . 
+253444 new <ls>?6, 1, 157. VOP. 7, 19. 22. H. 381, Sch. ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#corI/#} <lex>f.</lex> <is>gaṇa</is> {#pacAdi#} . 
+;
+; TODO Case 60: (reason = Sch. unmarked)
+; <L>26337<pc>3-0004<k1>jagada<k2>jagada
+257856 old {#jagada#}¦ <lex>m.</lex> {%Begleiter, Wächter%} (nach dem Sch.): {#A tvA kumArastaruRa A vatso jagadEH saha, vasUMSca rudrAnAdityAn - jagadEH saha#} 
+257856 new {#jagada#}¦ <lex>m.</lex> {%Begleiter, Wächter%} (nach dem Sch.): {#A tvA kumArastaruRa A vatso jagadEH saha, vasUMSca rudrAnAdityAn - jagadEH saha#} 
+;
+; TODO Case 61: (reason = Sch. unmarked)
+; <L>26483<pc>3-0016<k1>jan<k2>jan
+259282 old <ls>P. 6, 1, 192.</ls> conj. {#jajanat (indram)#} Sch., {#jajanam (indram)#} 
+259282 new <ls>P. 6, 1, 192.</ls> conj. {#jajanat (indram)#} Sch., {#jajanam (indram)#} 
+;
+; TODO Case 62: (reason = Sch. unmarked)
+; <L>27096<pc>3-0066<k1>jalp<k2>jalp
+265443 old <ls>?1, Sch. VOP. 23, 55. 56.</ls>
+265443 new <ls>?1, Sch. VOP. 23, 55. 56.</ls>
+;
+; TODO Case 63: (reason = Sch. unmarked)
+; <L>27153<pc>3-0071<k1>jAgara<k2>jAgara<h>1
+266041 old <ls>?2, Sch. VOP. 26, 190. AK. TRIK. H.</ls> 
+266041 new <ls>?2, Sch. VOP. 26, 190. AK. TRIK. H.</ls> 
+;
+; TODO Case 64: (reason = Sch. unmarked)
+; <L>27574<pc>3-0115<k1>jIvaka<k2>jIvaka
+271004 old <ls>?4, Sch. VOP. 26, 42. 4, 6.</ls> 
+271004 new <ls>?4, Sch. VOP. 26, 42. 4, 6.</ls> 
+;
+; TODO Case 65: (reason = Sch. unmarked)
+; <L>27781<pc>3-0132<k1>jEna<k2>jEna<h>1
+272996 old <ls>?861, Sch. Verz. d. B. H. No. 901. 964. COLEBR. Misc. Ess. I, 228. 329. 378. fgg. II, 191. fgg. 315. fgg.</ls>
+272996 new <ls>?861, Sch. Verz. d. B. H. No. 901. 964. COLEBR. Misc. Ess. I, 228. 329. 378. fgg. II, 191. fgg. 315. fgg.</ls>
+;
+; TODO Case 66: (reason = Sch. unmarked)
+; <L>27903<pc>3-0153<k1>jYApana<k2>jYApana
+274912 old <ls>PAT.</ls> zu <ls>P. 2, 4, 66.</ls> <ls>KĀŚ.</ls> zu <ls>P. 5, 1, 9. Sch.</ls> zu <ls>P. 2, 1, 67.</ls>
+274912 new <ls>PAT.</ls> zu <ls>P. 2, 4, 66.</ls> <ls>KĀŚ.</ls> zu <ls>P. 5, 1, 9. Sch.</ls> zu <ls>P. 2, 1, 67.</ls>
+;
+; TODO Case 67: (reason = Sch. unmarked)
+; <L>27918<pc>3-0154<k1>jyA<k2>jyA<h>1
+275040 old <ls>?11, 3, 55. ŚAT. BR. 10, 5, 5, 8. 14, 4, 3, 23. Sch. zu KĀTY. ŚR. 4, 11, 1. LĀṬY. 10, 17, 7.</ls> 
+275040 new <ls>?11, 3, 55. ŚAT. BR. 10, 5, 5, 8. 14, 4, 3, 23. Sch. zu KĀTY. ŚR. 4, 11, 1. LĀṬY. 10, 17, 7.</ls> 
+;
+; TODO Case 68: (reason = Sch. unmarked)
+; <L>28292<pc>3-0185<k1>qI<k2>qI
+278644 old <ls>P. 7, 2,</ls> <ls>?14; vgl. 8, 2, 45, Sch. VOP. 26, 107.</ls> {%fliegen%} 
+278644 new <ls>P. 7, 2,</ls> <ls>?14; vgl. 8, 2, 45, Sch. VOP. 26, 107.</ls> {%fliegen%} 
+;
+; TODO Case 69: (reason = Sch. unmarked)
+; <L>28529<pc>3-0212<k1>tadIya<k2>tadI/ya
+281417 old <ls>BHARTṚ. 1, 51. 2,</ls> <ls>?68.RAGH. 1, 81. 2, 28. 3, 8. 25. 68. PAÑCAT. 182, 2. KATHĀS. 10, 136. 18, 114. 293. 20, 10. 22, 128. RĀJA-TAR. 4, 330. CAURAP. 43. DHŪRTAS. 92, 5. BHĀG. P. 2, 7, 35. 3, 1, 31. 15, 44. 4, 22, 48. 6, 15, 28. 9, 11, 14. 19, 21. VEDĀNTAS. (Allah.) No. 4. Sch. zu JAIM. 1, 1, 21.</ls>
+281417 new <ls>BHARTṚ. 1, 51. 2,</ls> <ls>?68.RAGH. 1, 81. 2, 28. 3, 8. 25. 68. PAÑCAT. 182, 2. KATHĀS. 10, 136. 18, 114. 293. 20, 10. 22, 128. RĀJA-TAR. 4, 330. CAURAP. 43. DHŪRTAS. 92, 5. BHĀG. P. 2, 7, 35. 3, 1, 31. 15, 44. 4, 22, 48. 6, 15, 28. 9, 11, 14. 19, 21. VEDĀNTAS. (Allah.) No. 4. Sch. zu JAIM. 1, 1, 21.</ls>
+;
+; TODO Case 70: (reason = Sch. unmarked)
+; <L>28639<pc>3-0228<k1>tantu<k2>ta/ntu
+282959 old <ls>?7, 15, 63. Sch. zu JAIM. 1, 21.</ls> {#mOYja#} 
+282959 new <ls>?7, 15, 63. Sch. zu JAIM. 1, 21.</ls> {#mOYja#} 
+;
+; TODO Case 71: (reason = Sch. unmarked)
+; <L>28737<pc>3-0245<k1>tapas<k2>ta/pas
+284729 old <ls>?2, Sch. COLEBR. Misc. Ess. I, 108. VP. 225.</ls> {#tapasi#} (so ist zu lesen) {#mandagaBastiraBIzumAn#} 
+284729 new <ls>?2, Sch. COLEBR. Misc. Ess. I, 108. VP. 225.</ls> {#tapasi#} (so ist zu lesen) {#mandagaBastiraBIzumAn#} 
+;
+; TODO Case 72: (reason = Sch. unmarked)
+; <L>28999<pc>3-0275<k1>tarku<k2>tarku/
+287999 old <ls>H. 911</ls> <ls>?(nach dem Sch. m.) HĀR. 213. Sch. zu PĀR. GṚHY. 1, 15.</ls> <lex>f.</lex> nach 
+287999 new <ls>H. 911</ls> <ls>?(nach dem Sch. m.) HĀR. 213. Sch. zu PĀR. GṚHY. 1, 15.</ls> <lex>f.</lex> nach 
+;
+; TODO Case 73: (reason = Sch. unmarked)
+; <L>29181<pc>3-0293<k1>tAtparya<k2>tAtparya
+290130 old <ls>MADHUS.</ls> in <ls>Ind. St. 1, 13, 2. 15, 24. 19, 16.</ls> <ls>Schol.</ls> zu <ls>JAIM. 1, 32.</ls> <ls>VEDĀNTAS. (Allah.) No. 15. 97. Sch.</ls> zu <ls>KAP. 1, 155.</ls> {#iha yaTArTakaTane tAtparyam#} 
+290130 new <ls>MADHUS.</ls> in <ls>Ind. St. 1, 13, 2. 15, 24. 19, 16.</ls> <ls>Schol.</ls> zu <ls>JAIM. 1, 32.</ls> <ls>VEDĀNTAS. (Allah.) No. 15. 97. Sch.</ls> zu <ls>KAP. 1, 155.</ls> {#iha yaTArTakaTane tAtparyam#} 
+;
+; TODO Case 74: (reason = Sch. unmarked)
+; <L>29188<pc>3-0293<k1>tAdarTya<k2>tA/darTya
+290180 old <ls>?1. P. 5, 1, 12, Sch. VOP. 5, 15. 26, 200.</ls> {%Rücksicht auf Etwas%} 
+290180 new <ls>?1. P. 5, 1, 12, Sch. VOP. 5, 15. 26, 200.</ls> {%Rücksicht auf Etwas%} 
+;
+; TODO Case 75: (reason = Sch. unmarked)
+; <L>30030<pc>3-0360<k1>tumbaru<k2>tumbaru
+298253 old <ls>?183, Sch. MBH. 1, 2559.</ls> Wohl falsche Lesart für {#tumburu#} .
+298253 new <ls>?183, Sch. MBH. 1, 2559.</ls> Wohl falsche Lesart für {#tumburu#} .
+;
+; TODO Case 76: (reason = Sch. unmarked)
+; <L>30294<pc>3-0381<k1>tUzRIMSIla<k2>tUzRIMSIla
+300699 old <ls>?3, Sch. AK. 3, 1, 39.</ls> 
+300699 new <ls>?3, Sch. AK. 3, 1, 39.</ls> 
+;
+; TODO Case 77: (reason = Sch. unmarked)
+; <L>31619<pc>3-0483<k1>dakziRa<k2>da/kziRa
+312531 old <ls>P. 7, 1, 39</ls>, <is>Vārtt</is>. 1, Sch.) {#diSi#} 
+312531 new <ls>P. 7, 1, 39</ls>, <is>Vārtt</is>. 1, Sch.) {#diSi#} 
+;
+; TODO Case 78: (reason = Sch. unmarked)
+; <L>31628<pc>3-0486<k1>dakziRapaScArDa<k2>dakziRapaScArDa
+312774 old <ls>?3, Sch. ŚĀṄKH. GṚHY. 1, 9.</ls>
+312774 new <ls>?3, Sch. ŚĀṄKH. GṚHY. 1, 9.</ls>
+;
+; TODO Case 79: (reason = Sch. unmarked)
+; <L>31832<pc>3-0502<k1>dadi<k2>dadi/
+314593 old <ls>?(P. 2, 3, 69, Sch.) ṚV. 6, 23, 4.</ls> {#made^ made\ hi no^ da\diryU\TA gavA^mfju\kratu^H#} 
+314593 new <ls>?(P. 2, 3, 69, Sch.) ṚV. 6, 23, 4.</ls> {#made^ made\ hi no^ da\diryU\TA gavA^mfju\kratu^H#} 
+;
+; TODO Case 80: (reason = Sch. unmarked)
+; <L>32138<pc>3-0529<k1>darvi<k2>da/rvi
+317663 old <ls>P. 7, 3, 109</ls>, <is>Vārtt</is>., Sch.; acc. {#darvyam#} und {#darvIm#} . 
+317663 new <ls>P. 7, 3, 109</ls>, <is>Vārtt</is>., Sch.; acc. {#darvyam#} und {#darvIm#} . 
+;
+; TODO Case 81: (reason = Sch. unmarked)
+; <L>32334<pc>3-0554<k1>daSArRa<k2>daSArRa
+320220 old <ls>?7, Sch. DURGĀD. zu VOP. 2, 9.</ls> Soll aus {#daSan + fRa#} zusammengesetzt sein. 
+320220 new <ls>?7, Sch. DURGĀD. zu VOP. 2, 9.</ls> Soll aus {#daSan + fRa#} zusammengesetzt sein. 
+;
+; TODO Case 82: (reason = Sch. unmarked)
+; <L>32349<pc>3-0556<k1>daSendra<k2>daSendra
+320360 old <ls>?2, Sch. P. 1, 2, 49</ls>, <ls>Sch.</ls>
+320360 new <ls>?2, Sch. P. 1, 2, 49</ls>, <ls>Sch.</ls>
+;
+; TODO Case 83: (reason = Sch. unmarked)
+; <L>32399<pc>3-0565<k1>dA<k2>dA<h>1
+321224 old <ls>?3, Sch. P. 2, 4, 76</ls>, <ls>Sch.</ls>). 
+321224 new <ls>?3, Sch. P. 2, 4, 76</ls>, <ls>Sch.</ls>). 
+;
+; TODO Case 84: (reason = Sch. unmarked)
+; <L>32408<pc>3-0579<k1>dAkza<k2>dAkza
+322437 old <ls>P. 4, 3, 127</ls>, Sch.;
+322437 new <ls>P. 4, 3, 127</ls>, Sch.;
+;
+; TODO Case 85: (reason = Sch. unmarked)
+; <L>32408<pc>3-0579<k1>dAkza<k2>dAkza
+322444 old <ls>P. 6, 2, 69</ls>, Sch.; vgl. 
+322444 new <ls>P. 6, 2, 69</ls>, Sch.; vgl. 
+;
+; TODO Case 86: (reason = Sch. unmarked)
+; <L>32416<pc>3-0580<k1>dAkzi<k2>dA/kzi
+322550 old <ls>?1, 1, 20. TRIK. 2, 7, 24. H. 851, Sch. ŚIKṢĀ 32. 33 in Ind. St. 4, 356</ls> (der Vers 33 ist offenbar verdorben); vgl. {#dAkzeya#} .
+322550 new <ls>?1, 1, 20. TRIK. 2, 7, 24. H. 851, Sch. ŚIKṢĀ 32. 33 in Ind. St. 4, 356</ls> (der Vers 33 ist offenbar verdorben); vgl. {#dAkzeya#} .
+;
+; TODO Case 87: (reason = Sch. unmarked)
+; <L>32590<pc>3-0593<k1>dAra<k2>dAra/<h>2
+324072 old <ls>P.</ls><ls>?6,1,159). P.1,2,53, Sch. SIDDH. K. 249,b,11. AK.2,6,1,6.3,4,31,240. TRIK.3,5,6. H. 513.</ls> {#dArAnkurvIta#} {%er nehme sich ein Weib%} 
+324072 new <ls>P.</ls><ls>?6,1,159). P.1,2,53, Sch. SIDDH. K. 249,b,11. AK.2,6,1,6.3,4,31,240. TRIK.3,5,6. H. 513.</ls> {#dArAnkurvIta#} {%er nehme sich ein Weib%} 
+;
+; TODO Case 88: (reason = Sch. unmarked)
+; <L>33323<pc>3-0661<k1>du<k2>du<h>1
+331749 old <ls>P. 8, 2, 44</ls>, <is>Vārtt</is>. 2, Sch.; nach 
+331749 new <ls>P. 8, 2, 44</ls>, <is>Vārtt</is>. 2, Sch.; nach 
+;
+; TODO Case 89: (reason = Sch. unmarked)
+; <L>34104<pc>3-0717<k1>dUra<k2>dUra/
+338229 old <ls>?34, Sch. VOP. 5, 22. ṚV. 1, 29, 6, 7, 20, 7.</ls> {#A\rAcCatru\mapa^ bADasva dU\ram#} 
+338229 new <ls>?34, Sch. VOP. 5, 22. ṚV. 1, 29, 6, 7, 20, 7.</ls> {#A\rAcCatru\mapa^ bADasva dU\ram#} 
+;
+; TODO Case 90: (reason = Sch. unmarked)
+; <L>36080<pc>3-0858<k1>Danu<k2>Danu/<h>1
+355011 old <ls>?51. H. 775, Sch. H. an. 2, 270. MED. n. 11. UJJVAL.</ls> {#DanurvaMSaviSudDo 'pi nirguRaH kiM karizyati#} 
+355011 new <ls>?51. H. 775, Sch. H. an. 2, 270. MED. n. 11. UJJVAL.</ls> {#DanurvaMSaviSudDo 'pi nirguRaH kiM karizyati#} 
+;
+; TODO Case 91: (reason = Sch. unmarked)
+; <L>36486<pc>3-0930<k1>DA<k2>DA<h>3
+361683 old <ls>P. 1, 3,</ls> <ls>?89; Sch. VOP. 23, 58</ls> ({#Palini kartari#}). {%säugen, ernähren%} 
+361683 new <ls>P. 1, 3,</ls> <ls>?89; Sch. VOP. 23, 58</ls> ({#Palini kartari#}). {%säugen, ernähren%} 
+;
+; TODO Case 92: (reason = Sch. unmarked)
+; <L>36487<pc>3-0930<k1>DAka<k2>DAka/
+361710 old <ls>P. 7, 4, 13</ls>, Sch.; vgl. 
+361710 new <ls>P. 7, 4, 13</ls>, Sch.; vgl. 
+;
+; TODO Case 93: (reason = Sch. unmarked)
+; <L>36813<pc>3-0970<k1>Dur<k2>Dur
+365633 old <ls>?(P. 7, 1, 39, <is>Vārtt</is>. 1, Sch.) 164, 9.</ls> {#e\vedDUrvfzRa\ utta^rA#} 
+365633 new <ls>?(P. 7, 1, 39, <is>Vārtt</is>. 1, Sch.) 164, 9.</ls> {#e\vedDUrvfzRa\ utta^rA#} 
+;
+; TODO Case 94: (reason = Sch. unmarked)
+; <L>38129<pc>4-0089<k1>nAga<k2>nA/ga<h>1
+379959 old <ls>?(P. 4, 1, 42, Sch. VOP. 4, 26) MBH. 1, 8239.</ls> 
+379959 new <ls>?(P. 4, 1, 42, Sch. VOP. 4, 26) MBH. 1, 8239.</ls> 
+;
+; TODO Case 95: (reason = Sch. unmarked)
+; <L>39002<pc>4-0160<k1>nibanDana<k2>nibanDana
+388255 old <ls>KĀM. NĪTIS. 13, 39.</ls> <ls>KATHĀS. 4, 13.</ls> <ls>PAÑCAT. I, 91.</ls> <ls>HIT. III, 78.</ls> <ls>PRAB. 93, 3.</ls> <ls>RĀJA-TAR. 3, 424.</ls> <ls>P. 2, 2, 36, Sch. 6, 3, 35, <is>Vārtt</is>. 3, Sch. Schol.</ls> bei <ls>WILSON, SĀṂKHYAK. S. 9.</ls> <lex>f.</lex> {#A#} 
+388255 new <ls>KĀM. NĪTIS. 13, 39.</ls> <ls>KATHĀS. 4, 13.</ls> <ls>PAÑCAT. I, 91.</ls> <ls>HIT. III, 78.</ls> <ls>PRAB. 93, 3.</ls> <ls>RĀJA-TAR. 3, 424.</ls> <ls>P. 2, 2, 36, Sch. 6, 3, 35, <is>Vārtt</is>. 3, Sch. Schol.</ls> bei <ls>WILSON, SĀṂKHYAK. S. 9.</ls> <lex>f.</lex> {#A#} 
+;
+; TODO Case 96: (reason = Sch. unmarked)
+; <L>40020<pc>4-0238<k1>nizaDa<k2>nizaDa
+397197 old <ls>?1538, Sch. H. an. 3, 345. MED. dh. 33. HĀR. 26. MBH. 3, 12917. 17460. 6, 198. 202. 272. 13, 7658. HARIV. 11447. RAGH. 18. 1. VP. 167. 172. BHĀG. P. 5, 16, 9. 27. LIA. I, 22, N.</ls> 
+397197 new <ls>?1538, Sch. H. an. 3, 345. MED. dh. 33. HĀR. 26. MBH. 3, 12917. 17460. 6, 198. 202. 272. 13, 7658. HARIV. 11447. RAGH. 18. 1. VP. 167. 172. BHĀG. P. 5, 16, 9. 27. LIA. I, 22, N.</ls> 
+;
+; TODO Case 97: (reason = Sch. unmarked)
+; <L>40819<pc>4-0315<k1>ned<k2>ne/d<h>2
+405603 old <ls>NIR. 1, 11</ls> <ls>?(P. 3, 4, 8, Sch. 8, 1, 30, Sch.).</ls>
+405603 new <ls>NIR. 1, 11</ls> <ls>?(P. 3, 4, 8, Sch. 8, 1, 30, Sch.).</ls>
+;
+; TODO Case 98: (reason = Sch. unmarked)
+; <L>40845<pc>4-0318<k1>nemin<k2>nemin
+405921 old <ls>7.</ls> <ls>H. 28. Sch.</ls> 
+405921 new <ls>7.</ls> <ls>H. 28. Sch.</ls> 
+;
+; TODO Case 99: (reason = Sch. unmarked)
+; <L>41009<pc>4-0328<k1>nEzkika<k2>nEzkika/
+407148 old <ls>?5, 1, 20, Sch. SIDDH. K. zu 7, 3, 17.</ls> 
+407148 new <ls>?5, 1, 20, Sch. SIDDH. K. zu 7, 3, 17.</ls> 
+;
+; TODO Case 100: (reason = Sch. unmarked)
+; <L>41788<pc>4-0393<k1>pat<k2>pat<h>1
+414380 old <ls>NIR. 1, 11</ls> <ls>?(vgl. Sch. zu P. 3, 4, 8. 8, 1, 30). R. GORR. 2, 49, 27.</ls> {#narakaM patitaH, narakapatitaH#} 
+414380 new <ls>NIR. 1, 11</ls> <ls>?(vgl. Sch. zu P. 3, 4, 8. 8, 1, 30). R. GORR. 2, 49, 27.</ls> {#narakaM patitaH, narakapatitaH#} 
+;
+; TODO Case 101: (reason = Sch. unmarked)
+; <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
+418310 old <ls>?(P. 7, 4, 54, Sch.) DAŚAK. 114, 10.</ls>
+418310 new <ls>?(P. 7, 4, 54, Sch.) DAŚAK. 114, 10.</ls>
+;
+; TODO Case 102: (reason = Sch. unmarked)
+; <L>43920<pc>4-0615<k1>pA<k2>pA<h>1
+437827 old <ls>?63, 6. KATHĀS. 10, 109. 13, 85. BHĀG. P. 1, 3, 17. 3, 2, 23. 31. 5, 26, 26. P. 8, 1, 60, Sch. SIDDH. K. zu P. 2, 3, 27. VOP. 5, 12.</ls> {#pAyayanti stanaM harim#} 
+437827 new <ls>?63, 6. KATHĀS. 10, 109. 13, 85. BHĀG. P. 1, 3, 17. 3, 2, 23. 31. 5, 26, 26. P. 8, 1, 60, Sch. SIDDH. K. zu P. 2, 3, 27. VOP. 5, 12.</ls> {#pAyayanti stanaM harim#} 
+;
+; TODO Case 103: (reason = Sch. unmarked)
+; <L>43999<pc>4-0625<k1>pAkzika<k2>pAkzika<h>1
+438790 old <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 174, 9. Schol. zu P. 3, 3, 79. 4, 2, 83. KĀŚ. zu P. 1, 2, 36. P. 7, 3, 44, <is>Vārtt</is>. 2, Sch. Ind. St. 5, 339.</ls>
+438790 new <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 174, 9. Schol. zu P. 3, 3, 79. 4, 2, 83. KĀŚ. zu P. 1, 2, 36. P. 7, 3, 44, <is>Vārtt</is>. 2, Sch. Ind. St. 5, 339.</ls>
+;
+; TODO Case 104: (reason = Sch. unmarked)
+; <L>44141<pc>4-0635<k1>pARinIya<k2>pARinI/ya<h>2
+440101 old <ls>?2, 64, Sch. ŚIŚ. 19, 75. VOP. 7, 15.</ls> {#aBavizyadidaM SAstraM pARinIyopamardakam#} 
+440101 new <ls>?2, 64, Sch. ŚIŚ. 19, 75. VOP. 7, 15.</ls> {#aBavizyadidaM SAstraM pARinIyopamardakam#} 
+;
+; TODO Case 105: (reason = Sch. unmarked)
+; <L>44651<pc>4-0671<k1>pArayizRu<k2>pArayizRu/
+444530 old <ls>ṚV. 10, 97, 3</ls> <ls>?(P. 3, 2, 137, Sch.). AV. 5, 28, 14.</ls> {#A\jiM ja^ya\ sama^ne pArayi\zRuH#} 
+444530 new <ls>ṚV. 10, 97, 3</ls> <ls>?(P. 3, 2, 137, Sch.). AV. 5, 28, 14.</ls> {#A\jiM ja^ya\ sama^ne pArayi\zRuH#} 
+;
+; TODO Case 106: (reason = Sch. unmarked)
+; <L>45580<pc>4-0747<k1>pIlu<k2>pIlu/
+453855 old <ls>?(P. 7, 1, 74, Sch. VOP. 3, 94) AK. 2, 4, 2, 9. 3, 4, 26, 195. H. 1142. an. 2, 497. MED. I. 32. HALĀY. 5, 47. VIŚVA bei UJJVAL. a. a. O. COLEBR. Misc. Ess. I, 314. P. 5, 2, 24. MBH. 2, 1824. 3, 12361. 7, 8098. 8, 2043. 2054</ls> (wo {#pIla#} gedruckt ist). 
+453855 new <ls>?(P. 7, 1, 74, Sch. VOP. 3, 94) AK. 2, 4, 2, 9. 3, 4, 26, 195. H. 1142. an. 2, 497. MED. I. 32. HALĀY. 5, 47. VIŚVA bei UJJVAL. a. a. O. COLEBR. Misc. Ess. I, 314. P. 5, 2, 24. MBH. 2, 1824. 3, 12361. 7, 8098. 8, 2043. 2054</ls> (wo {#pIla#} gedruckt ist). 
+;
+; TODO Case 107: (reason = Sch. unmarked)
+; <L>45916<pc>4-0772<k1>punarvacana<k2>punarvacana
+456949 old <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 20. KULL. zu M. 3, 168. Sch. zu P. 2, 4, 33. Schol. ṚV. PRĀT. 1, 15.</ls>
+456949 new <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 20. KULL. zu M. 3, 168. Sch. zu P. 2, 4, 33. Schol. ṚV. PRĀT. 1, 15.</ls>
+;
+; TODO Case 108: (reason = Sch. unmarked)
+; <L>45921<pc>4-0773<k1>punarvasu<k2>pu/narvasu
+457009 old <ls>?(P. 1, 2, 61, Sch.).</ls> 
+457009 new <ls>?(P. 1, 2, 61, Sch.).</ls> 
+;
+; TODO Case 109: (reason = Sch. unmarked)
+; <L>45994<pc>4-0778<k1>puraBid<k2>puraBid
+457717 old <ls>H.</ls> <ls>?10,Sch.</ls>
+457717 new <ls>H.</ls> <ls>?10,Sch.</ls>
+;
+; TODO Case 110: (reason = Sch. unmarked)
+; <L>46024<pc>4-0783<k1>purA<k2>purA/
+458212 old <ls>TS. 2, 2, 9, 5</ls> <ls>?(vgl. P. 3, 4, 16, Sch.).</ls> {#purA vAgByaH saMpravaditoH#} 
+458212 new <ls>TS. 2, 2, 9, 5</ls> <ls>?(vgl. P. 3, 4, 16, Sch.).</ls> {#purA vAgByaH saMpravaditoH#} 
+;
+; TODO Case 111: (reason = Sch. unmarked)
+; <L>46157<pc>4-0793<k1>puruza<k2>pu/ruza
+459320 old <ls>PRĀT. 3, 118.</ls> <ls>WHITNEY</ls> zu <ls>AV.</ls> <ls>PRĀT. 3, 21.</ls> <ls>P. 6, 3, 137, Sch. 6, 1, 7, <is>Vārtt</is>. 3</ls>, <ls>Sch.</ls> <ls>AK. 2, 6, 1, 1.</ls> <ls>H. 337.</ls> <ls>MED. ṣ. 41.</ls> <ls>HALĀY. 2, 176.</ls> 
+459320 new <ls>PRĀT. 3, 118.</ls> <ls>WHITNEY</ls> zu <ls>AV.</ls> <ls>PRĀT. 3, 21.</ls> <ls>P. 6, 3, 137, Sch. 6, 1, 7, <is>Vārtt</is>. 3</ls>, <ls>Sch.</ls> <ls>AK. 2, 6, 1, 1.</ls> <ls>H. 337.</ls> <ls>MED. ṣ. 41.</ls> <ls>HALĀY. 2, 176.</ls> 
+;
+; TODO Case 112: (reason = Sch. unmarked)
+; <L>46376<pc>4-0812<k1>puzkarAvatI<k2>puzkarA/vatI
+461404 old <ls>HIOUEN-THSANG,</ls> <ls>P. 6, 3, 119, Sch. 1, 219</ls>, <ls>Sch.</ls> <ls>R. 4, 43, 23 (GORR.</ls> übersetzt es als adj.). 
+461404 new <ls>HIOUEN-THSANG,</ls> <ls>P. 6, 3, 119, Sch. 1, 219</ls>, <ls>Sch.</ls> <ls>R. 4, 43, 23 (GORR.</ls> übersetzt es als adj.). 
+;
+; TODO Case 113: (reason = Sch. unmarked)
+; <L>47570<pc>4-0894<k1>pOza<k2>pOza/
+471901 old <ls>?21, Sch. VOP. 7, 15.</ls> {#pOzyAM tiTO#} 
+471901 new <ls>?21, Sch. VOP. 7, 15.</ls> {#pOzyAM tiTO#} 
+;
+; TODO Case 114: (reason = Sch. unmarked)
+; <L>47707<pc>4-0906<k1>prakfti<k2>prakfti
+473393 old <ls>P. 1, 2, 56. 51, Sch. 4, 1, 155</ls>, <ls>Sch.</ls> <ls>VOP. 1, 16.</ls> <ls>AK. 3, 3, 1. 3, 4, 17, 101.</ls> <ls>SĀH. D. 17, 2.</ls> 
+473393 new <ls>P. 1, 2, 56. 51, Sch. 4, 1, 155</ls>, <ls>Sch.</ls> <ls>VOP. 1, 16.</ls> <ls>AK. 3, 3, 1. 3, 4, 17, 101.</ls> <ls>SĀH. D. 17, 2.</ls> 
+;
+; TODO Case 115: (reason = Sch. unmarked)
+; <L>47920<pc>4-0923<k1>praC<k2>praC
+475274 old <ls>?1, 858. 2, 150. R. 1, 8, 13. R. GORR. 1, 21, 9. RAGH. 1, 45. 58. 14, 27. ŚĀK. 14, 10. 71, 5. MEGH. 99. VID. 130. KATHĀS. 27, 177. 28, 192. BHAṬṬ. 6, 8. 42. P. 1, 4, 51, Sch. VOP. 5, 6.</ls> {#sarvAnyaTAvacca divOkasaSca papracCurenaM kururAjaputrAH#}
+475274 new <ls>?1, 858. 2, 150. R. 1, 8, 13. R. GORR. 1, 21, 9. RAGH. 1, 45. 58. 14, 27. ŚĀK. 14, 10. 71, 5. MEGH. 99. VID. 130. KATHĀS. 27, 177. 28, 192. BHAṬṬ. 6, 8. 42. P. 1, 4, 51, Sch. VOP. 5, 6.</ls> {#sarvAnyaTAvacca divOkasaSca papracCurenaM kururAjaputrAH#}
+;
+; TODO Case 116: (reason = Sch. unmarked)
+; <L>49073<pc>4-1010<k1>pratyeka<k2>pratyeka
+485354 old <ls>?3.7,31. KUMĀRAS.2,31. RĀJA-TAR.5,127. MĀRK. P. 58,57. 110,40. PAÑCAT. 241,7. VET.3,1. PRAB. 44,9. SĀH. D. 16. Verz. d. Oxf. H. 14,b,36. KULL. zu M.5,20. KĀŚ. zu P.5,1,9. Sch. zu P.1,1,69.2,1,6.2,11.</ls> Am Auf. eines comp. ohne Casuszeichen 
+485354 new <ls>?3.7,31. KUMĀRAS.2,31. RĀJA-TAR.5,127. MĀRK. P. 58,57. 110,40. PAÑCAT. 241,7. VET.3,1. PRAB. 44,9. SĀH. D. 16. Verz. d. Oxf. H. 14,b,36. KULL. zu M.5,20. KĀŚ. zu P.5,1,9. Sch. zu P.1,1,69.2,1,6.2,11.</ls> Am Auf. eines comp. ohne Casuszeichen 
+;
+; TODO Case 117: (reason = Sch. unmarked)
+; <L>49507<pc>4-1048<k1>pramARa<k2>pramARa
+489937 old <ls>?2, 25. YĀJÑ. 2, 22. Spr. 2182. 2389. MBH. 3, 2803. PRAB. 27, 19. MADHUS. in Ind. St. 1, 18, 6 v. u. SĀH. D. 35. 57. P. 8, 2, 97, Sch. WASSILYEW 330</ls> ({%Logik%}). 
+489937 new <ls>?2, 25. YĀJÑ. 2, 22. Spr. 2182. 2389. MBH. 3, 2803. PRAB. 27, 19. MADHUS. in Ind. St. 1, 18, 6 v. u. SĀH. D. 35. 57. P. 8, 2, 97, Sch. WASSILYEW 330</ls> ({%Logik%}). 
+;
+; TODO Case 118: (reason = Sch. unmarked)
+; <L>50034<pc>4-1090<k1>prazWavAh<k2>prazWavAh
+494794 old <ls>?6, 4, 132, Sch.). m. ved. P. 3, 2, 64, Sch. VOP. 26, 64.</ls> = {#yugapArSvaga#} 
+494794 new <ls>?6, 4, 132, Sch.). m. ved. P. 3, 2, 64, Sch. VOP. 26, 64.</ls> = {#yugapArSvaga#} 
+;
+; TODO Case 119: (reason = Sch. unmarked)
+; <L>50324<pc>4-1115<k1>prA<k2>prA<h>1
+497690 old <ls>?81, 5. 115, 1 (P. 2, 4, 80, Sch.). 4, 52, 5. 6. 53, 3. 7, 20, 4. 98, 8. 10, 127, 2. 134, 1.</ls>
+497690 new <ls>?81, 5. 115, 1 (P. 2, 4, 80, Sch.). 4, 52, 5. 6. 53, 3. 7, 20, 4. 98, 8. 10, 127, 2. 134, 1.</ls>
+;
+; TODO Case 120: (reason = Sch. unmarked)
+; <L>51895<pc>5-0031<k1>bala<k2>ba/la<h>1
+512836 old <ls>?3, Sch. VOP. 8, 127.</ls> {#Agame (Agamo#} v. l.) {#'pi balaM nEva BuktiH stokApi yatra no#} {%aber selbst Erwerb hat keine Kraft%} 
+512836 new <ls>?3, Sch. VOP. 8, 127.</ls> {#Agame (Agamo#} v. l.) {#'pi balaM nEva BuktiH stokApi yatra no#} {%aber selbst Erwerb hat keine Kraft%} 
+;
+; TODO Case 121: (reason = Sch. unmarked)
+; <L>52176<pc>5-0051<k1>bahutrA<k2>bahutrA/
+515311 old <ls>ṚV. 10, 164, 2</ls> <ls>?(P. 5, 4, 56, Sch.).</ls>
+515311 new <ls>ṚV. 10, 164, 2</ls> <ls>?(P. 5, 4, 56, Sch.).</ls>
+;
+; TODO Case 122: (reason = Sch. unmarked)
+; <L>52557<pc>5-0077<k1>bAlhIka<k2>bAlhIka/
+518666 old <ls>?5, 1525. 6, 354 (VP. 189). HARIV. 9600. R. 4, 43, 5. 44, 13. VARĀH. BṚH. S. 16, 1. MĀRK. P. 57, 35. P. 8, 4, 9, Sch. WEBER, Nakṣ. II, 392.</ls> {#°deSyaH striyaH#} 
+518666 new <ls>?5, 1525. 6, 354 (VP. 189). HARIV. 9600. R. 4, 43, 5. 44, 13. VARĀH. BṚH. S. 16, 1. MĀRK. P. 57, 35. P. 8, 4, 9, Sch. WEBER, Nakṣ. II, 392.</ls> {#°deSyaH striyaH#} 
+;
+; TODO Case 123: (reason = Sch. unmarked)
+; <L>52927<pc>5-0102<k1>buD<k2>buD<h>1
+521745 old <ls>?(<is>Kār</is>. 3. 8 aus SIDDH. K. zu P. 7, 2, 10. P. 8, 2, 37. Sch.).</ls> {#ButsIzwa#} (
+521745 new <ls>?(<is>Kār</is>. 3. 8 aus SIDDH. K. zu P. 7, 2, 10. P. 8, 2, 37. Sch.).</ls> {#ButsIzwa#} (
+;
+; TODO Case 124: (reason = Sch. unmarked)
+; <L>53345<pc>5-0133<k1>brahmaRya<k2>brahmaRya^
+525346 old <ls>?3 und 4. P. 6, 4, 168, Sch. H. an. 3, 502. MED. y. 95. HALĀY. 2, 251.</ls> {%dem Heiligen zugethan%} oder {%Brahmanen hold%} 
+525346 new <ls>?3 und 4. P. 6, 4, 168, Sch. H. an. 3, 502. MED. y. 95. HALĀY. 2, 251.</ls> {%dem Heiligen zugethan%} oder {%Brahmanen hold%} 
+;
+; TODO Case 125: (reason = Sch. unmarked)
+; <L>54144<pc>5-0204<k1>Bar<k2>Bar<h>1
+533517 old <ls>?(P. 2, 4, 39, Sch.) ṚV. 3, 21, 5. VS. 21, 43.</ls> {#udu^ no Barzaddyu\matI\mindra^hUtim#} 
+533517 new <ls>?(P. 2, 4, 39, Sch.) ṚV. 3, 21, 5. VS. 21, 43.</ls> {#udu^ no Barzaddyu\matI\mindra^hUtim#} 
+;
+; TODO Case 126: (reason = Sch. unmarked)
+; <L>54703<pc>5-0261<k1>BAvana<k2>BAvana<h>1
+539674 old <ls>?4. ŚAṂK. zu BṚH. ĀR. UP. S. 182. Schol. zu KĀTY. ŚR. 38, 15. 117, 23. 122. 1. VEDĀNTAS. (Allah.) No. 38. VP. 654. P. 3, 2, 85, Sch. HALĀY. 89 (n.). Spr. 4179. ŚAṂK. zu BṚH. ĀR. UP. S. 65. 113. BHĀG. P. 3, 28, 31. KULL. zu M. 1, 9. 2, 83.</ls> {#loBaBAvanayA nityaM bata tanmayatAM gatam#} 
+539674 new <ls>?4. ŚAṂK. zu BṚH. ĀR. UP. S. 182. Schol. zu KĀTY. ŚR. 38, 15. 117, 23. 122. 1. VEDĀNTAS. (Allah.) No. 38. VP. 654. P. 3, 2, 85, Sch. HALĀY. 89 (n.). Spr. 4179. ŚAṂK. zu BṚH. ĀR. UP. S. 65. 113. BHĀG. P. 3, 28, 31. KULL. zu M. 1, 9. 2, 83.</ls> {#loBaBAvanayA nityaM bata tanmayatAM gatam#} 
+;
+; TODO Case 127: (reason = Sch. unmarked)
+; <L>54863<pc>5-0281<k1>Bid<k2>Bid<h>1
+541691 old <ls>?(P. 8, 2, 6, Sch.), ved.</ls> {#Bed, Bedi, BitTAs; Betsyati, °te, BettA#} (<is>Kār</is>. 
+541691 new <ls>?(P. 8, 2, 6, Sch.), ved.</ls> {#Bed, Bedi, BitTAs; Betsyati, °te, BettA#} (<is>Kār</is>. 
+;
+; TODO Case 128: (reason = Sch. unmarked)
+; <L>54863<pc>5-0281<k1>Bid<k2>Bid<h>1
+541692 old <ls>?3 aus SIDDH. K. zu P. 7, 2, 10. Sch. zu 7, 2, 61. fg.</ls>); {#BitsIzwa#} (
+541692 new <ls>?3 aus SIDDH. K. zu P. 7, 2, 10. Sch. zu 7, 2, 61. fg.</ls>); {#BitsIzwa#} (
+;
+; TODO Case 129: (reason = Sch. unmarked)
+; <L>54863<pc>5-0281<k1>Bid<k2>Bid<h>1
+541706 old <ls>?(P. 3, 1, 85, Sch.) 8, 40, 10. AV. 6, 138, 2. VS. 11, 64. 68. AV. 2, 32, 6.</ls> {#muzkO#} 
+541706 new <ls>?(P. 3, 1, 85, Sch.) 8, 40, 10. AV. 6, 138, 2. VS. 11, 64. 68. AV. 2, 32, 6.</ls> {#muzkO#} 
+;
+; TODO Case 130: (reason = Sch. unmarked)
+; <L>55166<pc>5-0314<k1>BU<k2>BU<h>1
+545747 old <ls>?65, Sch. VOP. 20, 17.</ls> {#boBUtu#} 
+545747 new <ls>?65, Sch. VOP. 20, 17.</ls> {#boBUtu#} 
+;
+; TODO Case 131: (reason = Sch. unmarked)
+; <L>55240<pc>5-0338<k1>BUtapUrva<k2>BUtapUrva
+547520 old <ls>?3, 1, 97, Sch. VOP. 7, 66.</ls> {#bAnDavA BUtapUrvASca#} so v. a. {%und die Verwandten sind todt%} 
+547520 new <ls>?3, 1, 97, Sch. VOP. 7, 66.</ls> {#bAnDavA BUtapUrvASca#} so v. a. {%und die Verwandten sind todt%} 
+;
+; TODO Case 132: (reason = Sch. unmarked)
+; <L>55717<pc>5-0374<k1>Bedaka<k2>Bedaka
+551829 old <ls>?2, 1, 57, Sch. VOP. 5, 9.</ls> {#nAnArTaBedakAH#} 
+551829 new <ls>?2, 1, 57, Sch. VOP. 5, 9.</ls> {#nAnArTaBedakAH#} 
+;
+; TODO Case 133: (reason = Sch. unmarked)
+; <L>55851<pc>5-0386<k1>Boja<k2>Boja/
+553260 old <ls>?182,b,42. 352,a,19. H. 460, Sch. Arzt Verz. d. Oxf. H. 311,b,33. 314,b,4 v. u. 317,b, N. 2. 358,a,1. Verz. d. B. H. No. 947.</ls> {#°smfti#} 
+553260 new <ls>?182,b,42. 352,a,19. H. 460, Sch. Arzt Verz. d. Oxf. H. 311,b,33. 314,b,4 v. u. 317,b, N. 2. 358,a,1. Verz. d. B. H. No. 947.</ls> {#°smfti#} 
+;
+; TODO Case 134: (reason = Sch. unmarked)
+; <L>57283<pc>5-0522<k1>manasiSaya<k2>manasiSaya
+568413 old <ls>?1. H. 227, Sch. HALĀY. 1, 33. Spr. 1403.</ls>
+568413 new <ls>?1. H. 227, Sch. HALĀY. 1, 33. Spr. 1403.</ls>
+;
+; TODO Case 135: (reason = Sch. unmarked)
+; <L>59394<pc>5-0687<k1>mA<k2>mA<h>5
+588077 old <ls>?6, 4, 70, Sch. VOP. 26, 216.</ls> 
+588077 new <ls>?6, 4, 70, Sch. VOP. 26, 216.</ls> 
+;
+; TODO Case 136: (reason = Sch. unmarked)
+; <L>60351<pc>5-0763<k1>mAheSvara<k2>mAheSvara
+597146 old <ls>?184,a,4. MIT. 142,10. H. 201, Sch. ŚABDAR.</ls> im <ls>ŚKDR.</ls> = <is>Durgā</is> ebend. 
+597146 new <ls>?184,a,4. MIT. 142,10. H. 201, Sch. ŚABDAR.</ls> im <ls>ŚKDR.</ls> = <is>Durgā</is> ebend. 
+;
+; TODO Case 137: (reason = Sch. unmarked)
+; <L>60353<pc>5-0764<k1>mi<k2>mi<h>2
+597369 old <ls>1, 24, 6.</ls> {#pramiRantam (= aBiBavantam#} Sch.) {#dvizanmatIH#} {%übertreffend%} 
+597369 new <ls>1, 24, 6.</ls> {#pramiRantam (= aBiBavantam#} Sch.) {#dvizanmatIH#} {%übertreffend%} 
+;
+; TODO Case 138: (reason = Sch. unmarked)
+; <L>61899<pc>5-0895<k1>meDya<k2>me/Dya
+612372 old <ls>VS. 16, 38</ls> <ls>?(vgl. P. 4, 4, 110, Sch.), perisp. TS. 4, 5, 7, 2.</ls> Am Ende eines comp. {#vargyAdi#} zu 
+612372 new <ls>VS. 16, 38</ls> <ls>?(vgl. P. 4, 4, 110, Sch.), perisp. TS. 4, 5, 7, 2.</ls> Am Ende eines comp. {#vargyAdi#} zu 
+;
+; TODO Case 139: (reason = Sch. unmarked)
+; <L>62308<pc>5-0926<k1>mOdga<k2>mOdga
+616091 old <ls>?151, Sch. Schol. zu KĀTY. ŚR. 102, 8. 319, 13.</ls> {#yUza#} 
+616091 new <ls>?151, Sch. Schol. zu KĀTY. ŚR. 102, 8. 319, 13.</ls> {#yUza#} 
+;
+; TODO Case 140: (reason = Sch. unmarked)
+; <L>62377<pc>5-0932<k1>mreq<k2>mreq
+616844 old <ls>?2, 62, Sch. P. 8, 1, 2. 6, 1, 99. fg. 8, 2, 95. 103. 3, 12.</ls>
+616844 new <ls>?2, 62, Sch. P. 8, 1, 2. 6, 1, 99. fg. 8, 2, 95. 103. 3, 12.</ls>
+;
+; TODO Case 141: (reason = Sch. unmarked)
+; <L>64932<pc>5-1037<k1>ayATApurya<k2>ayATApurya
+632416 old {#ayATApurya#}¦ ist 3. {#a + yA°#} . Streiche «adv. Sch.»
+632416 new {#ayATApurya#}¦ ist 3. {#a + yA°#} . Streiche «adv. Sch.»
+;
+; TODO Case 142: (reason = Sch. unmarked)
+; <L>81094<pc>6-0024<k1>yat<k2>yat
+740171 old <ls>?(P. 5, 4, 36, <is>Vārtt</is>. 3, Sch.) VS. 27, 5. 7, 45. 10, 29.</ls> {#pi\turna pu\traH kratu^BiryatA\naH#} {%wie ein Sohn des Vaters Willen sich fügend%} 
+740171 new <ls>?(P. 5, 4, 36, <is>Vārtt</is>. 3, Sch.) VS. 27, 5. 7, 45. 10, 29.</ls> {#pi\turna pu\traH kratu^BiryatA\naH#} {%wie ein Sohn des Vaters Willen sich fügend%} 
+;
+; TODO Case 143: (reason = Sch. unmarked)
+; <L>81147<pc>6-0033<k1>yatra<k2>ya/tra
+741111 old <ls>ṚV. 6, 16, 17</ls> <ls>?(P. 8, 1, 30, Sch.). ĀŚV. GṚHY. 1, 3, 1. LĀṬY. 10, 5, 11.</ls> {%so oft, jedesmal wenn%} 
+741111 new <ls>ṚV. 6, 16, 17</ls> <ls>?(P. 8, 1, 30, Sch.). ĀŚV. GṚHY. 1, 3, 1. LĀṬY. 10, 5, 11.</ls> {%so oft, jedesmal wenn%} 
+;
+; TODO Case 144: (reason = Sch. unmarked)
+; <L>81643<pc>6-0084<k1>yava<k2>ya/va<h>1
+746661 old <ls>?(AK. 2, 9, 15. 24. H. 401. 1170. 1181. an. 2, 534. HALĀY. 2, 430. P. 4, 3, 166, <is>Vārtt</is>. 1, Sch.). Im AV.</ls> und namentlich in den 
+746661 new <ls>?(AK. 2, 9, 15. 24. H. 401. 1170. 1181. an. 2, 534. HALĀY. 2, 430. P. 4, 3, 166, <is>Vārtt</is>. 1, Sch.). Im AV.</ls> und namentlich in den 
+;
+; TODO Case 145: (reason = Sch. unmarked)
+; <L>81843<pc>6-0116<k1>yAjaka<k2>yAjaka
+750100 old <ls>?14, 260. 15, 516. R. 1, 13, 3. 59, 13 (61, 14 GORR.). 60, 8. 2, 76, 13. R. GORR. 1, 13, 2. 38. VARĀH. BṚH. S. 10, 5. 48, 18. KATHĀS. 41, 18. BHĀG. P. 10, 74, 16. P. 1, 3, 72, Sch. VOP. 23, 58.</ls> {#gaRAnAm#} 
+750100 new <ls>?14, 260. 15, 516. R. 1, 13, 3. 59, 13 (61, 14 GORR.). 60, 8. 2, 76, 13. R. GORR. 1, 13, 2. 38. VARĀH. BṚH. S. 10, 5. 48, 18. KATHĀS. 41, 18. BHĀG. P. 10, 74, 16. P. 1, 3, 72, Sch. VOP. 23, 58.</ls> {#gaRAnAm#} 
+;
+; TODO Case 146: (reason = Sch. unmarked)
+; <L>82033<pc>6-0131<k1>yAvaka<k2>yA/vaka<h>1
+751945 old <ls>?2, 92, Sch. AK. 2, 9, 18. H. 1175. M. 11, 125. MBH. 12, 7815. 11080. 12092. 13, 3841. 6228. Spr. 4845. HARIV. 7855. 7872. 7885. SUŚR. 2, 72, 19. 163, 8. VARĀH. BṚH. S. 44, 11. 51, 30. BHĀG. P. 9, 10, 34. MĀRK. P. 41, 11. RĀJA-TAR. 3, 415</ls> (zugleich = 2. {#yAvaka)#}.{# °kfcCra#} <lex>m.</lex> {%eine best. Askese%}: {#yavAnAmapsu sADitAnAM saptarAtraM pakzaM mAsaM vA prASane yAvakakfcCraH#} 
+751945 new <ls>?2, 92, Sch. AK. 2, 9, 18. H. 1175. M. 11, 125. MBH. 12, 7815. 11080. 12092. 13, 3841. 6228. Spr. 4845. HARIV. 7855. 7872. 7885. SUŚR. 2, 72, 19. 163, 8. VARĀH. BṚH. S. 44, 11. 51, 30. BHĀG. P. 9, 10, 34. MĀRK. P. 41, 11. RĀJA-TAR. 3, 415</ls> (zugleich = 2. {#yAvaka)#}.{# °kfcCra#} <lex>m.</lex> {%eine best. Askese%}: {#yavAnAmapsu sADitAnAM saptarAtraM pakzaM mAsaM vA prASane yAvakakfcCraH#} 
+;
+; TODO Case 147: (reason = Sch. unmarked)
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+754668 old <ls>PAÑCAR. 1, 7, 76.</ls> <ls>MĀLAV. 11.</ls> <ls>Spr. 1583. 2572. 3472</ls> <ls>?(Conj.). KATHĀS. 14, 35. P. 4, 4, 70, Sch. BHĀG. P. 5, 21, 16. 8, 14, 1. HIT. 91, 11, v. l. 97, 17. BHAṬṬ. 3, 5.</ls> {#sa putramekaM rAjyAya pAlayeti niyujya#} 
+754668 new <ls>PAÑCAR. 1, 7, 76.</ls> <ls>MĀLAV. 11.</ls> <ls>Spr. 1583. 2572. 3472</ls> <ls>?(Conj.). KATHĀS. 14, 35. P. 4, 4, 70, Sch. BHĀG. P. 5, 21, 16. 8, 14, 1. HIT. 91, 11, v. l. 97, 17. BHAṬṬ. 3, 5.</ls> {#sa putramekaM rAjyAya pAlayeti niyujya#} 
+;
+; TODO Case 148: (reason = Sch. unmarked)
+; <L>83075<pc>6-0239<k1>rajju<k2>ra/jju
+763931 old <ls>?(P. 6, 2, 9, Sch.).</ls> 
+763931 new <ls>?(P. 6, 2, 9, Sch.).</ls> 
+;
+; TODO Case 149: (reason = Sch. unmarked)
+; <L>85625<pc>6-0463<k1>lakzaRa<k2>lakzaRa/
+790546 old <ls>?1, 2, 52, <is>Vārtt</is>. 3, Sch. Schol. zu AV. PRĀT. 4, 122.</ls> {#purARaM daSalakzaRam#} so v. a. {%behandelt Zehnerlei%} 
+790546 new <ls>?1, 2, 52, <is>Vārtt</is>. 3, Sch. Schol. zu AV. PRĀT. 4, 122.</ls> {#purARaM daSalakzaRam#} so v. a. {%behandelt Zehnerlei%} 
+;
+; TODO Case 150: (reason = Sch. unmarked)
+; <L>86539<pc>6-0567<k1>lU<k2>lU<h>1
+802072 old <ls>?16, Sch. VOP. 23, 55. fg.</ls>
+802072 new <ls>?16, Sch. VOP. 23, 55. fg.</ls>
+;
+; TODO Case 151: (reason = Sch. unmarked)
+; <L>88101<pc>6-0696<k1>var<k2>var<h>1
+818069 old <ls>?39. 42. 1, 12, 12, Sch. VOP. 12, 3. 16, 5.</ls> {#varitum, varItum#} und {#vartum#} (
+818069 new <ls>?39. 42. 1, 12, 12, Sch. VOP. 12, 3. 16, 5.</ls> {#varitum, varItum#} und {#vartum#} (
+;
+; TODO Case 152: (reason = Sch. unmarked)
+; <L>88101<pc>6-0696<k1>var<k2>var<h>1
+818731 old <ls>?9, 45, 3. 97, 38. VS. 13, 3 (P. 2, 4, 80, Sch.). 20, 36. ŚAT. BR. 7, 4, 1, 14. 11, 1, 1, 2.</ls> {#dvAraM vyavArizam#} 
+818731 new <ls>?9, 45, 3. 97, 38. VS. 13, 3 (P. 2, 4, 80, Sch.). 20, 36. ŚAT. BR. 7, 4, 1, 14. 11, 1, 1, 2.</ls> {#dvAraM vyavArizam#} 
+;
