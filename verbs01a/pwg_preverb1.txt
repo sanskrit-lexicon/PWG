@@ -9793,11 +9793,11 @@
 ;; Case 2142: L=99832, k1=SIk, k2=SIk, code=3D, #upasargas=0, mw=SIk (same)
 ;; Case 2143: L=99974, k1=SIB, k2=SIB, code=3D, #upasargas=0, mw=SIB (same)
 ;; Case 2144: L=100032, k1=SIl, k2=SIl, code=3D, #upasargas=0, mw=SIl (same)
-;; Case 2145: L=100050, k1=SIlay, k2=SIlay, code=DU, #upasargas=4 (0/0), mw=?
-01        ati      SIlay                    ?                saMSI no 
-02        anu      SIlay                    ?                saMSI no 
-03       pari      SIlay                    ?                saMSI no 
-04        sam      SIlay                    ?                saMSI no 
+;; Case 2145: L=100050, k1=SIlay, k2=SIlay, code=DU, #upasargas=4 (3/1), mw=SIlaya (diff)
+01        ati      SIlay             atiSIlay            atiSIlaya yes ati+SIlaya
+02        anu      SIlay             anuSIlay            anuSIlaya yes anu+SIlaya
+03       pari      SIlay            pariSIlay              pariSIl yes pari+SIl
+04        sam      SIlay             saMSIlay            saMSIlaya no 
 ;
 ;; Case 2146: L=100069, k1=Su, k2=Su, code=D, #upasargas=0, mw=Su (same)
 ;; Case 2147: L=100071, k1=Suk, k2=Suk, code=D, #upasargas=0, mw=Suk (same)
@@ -11799,7 +11799,7 @@
 01         vi         ci                 vici                 vici yes vi+ci
 02        sam         ci                saMci                saMci yes sam+ci
 ;
-;; Case 2528: L=119950, k1=cimicimAy, k2=cimicimAy, code=3, #upasargas=0, mw=?
+;; Case 2528: L=119950, k1=cimicimAy, k2=cimicimAy, code=3, #upasargas=0, mw=cimicimAya (diff)
 ;; Case 2529: L=119974, k1=Cid, k2=Cid, code=U, #upasargas=1 (1/0), mw=Cid (same)
 01        pra        Cid              pracCid              pracCid yes pra+Cid
 ;
