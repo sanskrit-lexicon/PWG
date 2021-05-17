@@ -4,11 +4,11 @@ cp1252  encoding (his usual encoding)
 This contains abbreviations from volume 1 only.
 
 corresponding images:
-* [vol 1.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--06.png)
-* [vol 1.2](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc_images/pwg1-0000--08.png)
-* [vol 1.3](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--09.png)
-* [vol 1.4](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--10.png)
-* [vol 1.5](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg1-0000--11.png)
+* [vol 1.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg1-0000--06.png)
+* [vol 1.2](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg1-0000--08.png)
+* [vol 1.3](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg1-0000--09.png)
+* [vol 1.4](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg1-0000--10.png)
+* [vol 1.5](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg1-0000--11.png)
 
 ## pwgbib1_utf8.txt
 
@@ -53,8 +53,8 @@ diff -w pwgbib1_utf8.txt pwgbib1_as.txt
 Received July 13, 2016
 
 Images:
-* [vol 2.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg2-0000--05.png)
-* [vol 3.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldoc/_images/pwg3-0000--03.png)
+* [vol 2.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg2-0000--05.png)
+* [vol 3.1](http://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/pwg3-0000--03.png)
 
 Make utf8 version:
 ```
