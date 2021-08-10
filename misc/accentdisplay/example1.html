@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>example1</title>
+<meta charset="UTF-8">
+<style>
+@font-face { 
+ src: url(fonts/siddhanta.ttf); /* relative to this css file */
+ font-family: siddhanta_deva;
+}
+.siddhanta {color: teal; font-family:siddhanta_deva}
+@font-face { 
+ src: url(fonts/Adishila.ttf); /* relative to this css file */
+ font-family: adhishila_deva;
+}
+.adhishila {color: blue; font-family:adhishila_deva}
+.default {color: gray}
+.codepoint {font-size: 10px; font-family:Sans-Serif;};
+</style>
+</head>
+<body> 
+<p> three fonts for Devanagari: 
+ <span class='siddhanta'> siddhanta</span>
+ <span class='adhishila'> adhishila</span>
+ <span class='default'> default</span>
+</p>
+ 
+sva1^\H ➔ <span class='siddhanta'>स्व१॒॑ः</span> | <span class='adhishila'>स्व१॒॑ः</span> | <span class='default'>स्व१॒॑ः</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0967  DEVANAGARI DIGIT ONE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+sva1H^\ ➔ <span class='siddhanta'>स्व१ः॒॑</span> | <span class='adhishila'>स्व१ः॒॑</span> | <span class='default'>स्व१ः॒॑</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0967  DEVANAGARI DIGIT ONE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+sva1^H\ ➔ <span class='siddhanta'>स्व१॑ः॒</span> | <span class='adhishila'>स्व१॑ः॒</span> | <span class='default'>स्व१॑ः॒</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0967  DEVANAGARI DIGIT ONE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+sva^\H ➔ <span class='siddhanta'>स्व॒॑ः</span> | <span class='adhishila'>स्व॒॑ः</span> | <span class='default'>स्व॒॑ः</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+svaH^\ ➔ <span class='siddhanta'>स्वः॒॑</span> | <span class='adhishila'>स्वः॒॑</span> | <span class='default'>स्वः॒॑</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+sva^H\ ➔ <span class='siddhanta'>स्व॑ः॒</span> | <span class='adhishila'>स्व॑ः॒</span> | <span class='default'>स्व॑ः॒</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0935  DEVANAGARI LETTER VA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+a/Mhati ➔ <span class='siddhanta'>अ꣫ंहति</span> | <span class='adhishila'>अ꣫ंहति</span> | <span class='default'>अ꣫ंहति</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+aM/hati ➔ <span class='siddhanta'>अं꣫हति</span> | <span class='adhishila'>अं꣫हति</span> | <span class='default'>अं꣫हति</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+a^Mhati ➔ <span class='siddhanta'>अ॑ंहति</span> | <span class='adhishila'>अ॑ंहति</span> | <span class='default'>अ॑ंहति</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+aM^hati ➔ <span class='siddhanta'>अं॑हति</span> | <span class='adhishila'>अं॑हति</span> | <span class='default'>अं॑हति</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+a/H ➔ <span class='siddhanta'>अ꣫ः</span> | <span class='adhishila'>अ꣫ः</span> | <span class='default'>अ꣫ः</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+aH/ ➔ <span class='siddhanta'>अः꣫</span> | <span class='adhishila'>अः꣫</span> | <span class='default'>अः꣫</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+a/M ➔ <span class='siddhanta'>अ꣫ं</span> | <span class='adhishila'>अ꣫ं</span> | <span class='default'>अ꣫ं</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+aM/ ➔ <span class='siddhanta'>अं꣫</span> | <span class='adhishila'>अं꣫</span> | <span class='default'>अं꣫</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+ga/H ➔ <span class='siddhanta'>ग꣫ः</span> | <span class='adhishila'>ग꣫ः</span> | <span class='default'>ग꣫ः</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0917  DEVANAGARI LETTER GA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+gaH/ ➔ <span class='siddhanta'>गः꣫</span> | <span class='adhishila'>गः꣫</span> | <span class='default'>गः꣫</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0917  DEVANAGARI LETTER GA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+ga/M ➔ <span class='siddhanta'>ग꣫ं</span> | <span class='adhishila'>ग꣫ं</span> | <span class='default'>ग꣫ं</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0917  DEVANAGARI LETTER GA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+gaM/ ➔ <span class='siddhanta'>गं꣫</span> | <span class='adhishila'>गं꣫</span> | <span class='default'>गं꣫</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0917  DEVANAGARI LETTER GA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+</body>
+</html
