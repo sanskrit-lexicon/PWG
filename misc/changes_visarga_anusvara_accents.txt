@@ -1,0 +1,84 @@
+; <L>49<pc>1-0006<k1>aMhati<k2>aMhati/<h>1
+; x = dU\Qya1^H\
+492 old <ls n="ṚV.">8, 56, 2.</ls> <ls n="ṚV. 8, 56,">21.</ls> {#mA na^H samasya dU\Qya1^H\ pari^dvezaso aMha\tiH . U\rmirna nAva\mA va^DIt#} 
+492 new <ls n="ṚV.">8, 56, 2.</ls> <ls n="ṚV. 8, 56,">21.</ls> {#mA na^H samasya dU\Qya1^\H pari^dvezaso aMha\tiH . U\rmirna nAva\mA va^DIt#} 
+;
+; <L>608<pc>1-0045<k1>aGArin<k2>aGAri/n
+; x = ruda\tya1^H\
+5009 old {#aGAri/n#}¦ (3. {#a + GArin#}) <lex>adj.</lex> {%nicht salbend%} (die Haare): {#a\GA\riRI^rvike\Syo^ ruda\tya1^H\ puru^ze ha\te#} 
+5009 new {#aGAri/n#}¦ (3. {#a + GArin#}) <lex>adj.</lex> {%nicht salbend%} (die Haare): {#a\GA\riRI^rvike\Syo^ ruda\tya1^\H puru^ze ha\te#} 
+;
+; <L>5935<pc>1-0439<k1>ard<k2>ard
+; x = su\Bva1^H\
+50460 old <div n="1"> 1) {%in Bewegung%} (der Theile) {%gerathen, zerstieben, sich auflösen%}: {#f\GA\yanta^ su\Bva1^H\ parva^tAsa\ Arda\nDanvA^ni sa\raya^nta\ Apa^H#} 
+50460 new <div n="1"> 1) {%in Bewegung%} (der Theile) {%gerathen, zerstieben, sich auflösen%}: {#f\GA\yanta^ su\Bva1^\H parva^tAsa\ Arda\nDanvA^ni sa\raya^nta\ Apa^H#} 
+;
+; <L>7197<pc>1-0530<k1>azwakarRI<k2>azwakarRI/
+; x = azwaka\rRya1^H\
+61693 old <ls>ṚV. 10, 62, 7</ls> : {#sa\hasra^M me\ dada^to azwaka\rRya1^H\ Sravo^ de\vezva^krata#} .
+61693 new <ls>ṚV. 10, 62, 7</ls> : {#sa\hasra^M me\ dada^to azwaka\rRya1^\H Sravo^ de\vezva^krata#} .
+;
+; <L>7381<pc>1-0551<k1>asita<k2>a/sita<h>2
+; x = asi^knyA^M\
+63910 old <ls>ṚV. 10, 3, 1.</ls> {#asi^knyA^M\ yaja^mAno\ na hotA^#} 
+63910 new <ls>ṚV. 10, 3, 1.</ls> {#asi^knyA^\M yaja^mAno\ na hotA^#} 
+;
+; <L>9940<pc>1-0753<k1>i<k2>i<h>3
+; x = udraTA^nA^M\
+88439 old <ls n="ṚV.">10, 17, 10.</ls> <ls n="ṚV. 10,">108, 11.</ls> <ls n="ṚV. 10,">27, 23.</ls> <ls>AV. 6, 76, 1. 2. 8, 2, 8.</ls> vom Schall: {#udraTA^nA^M\ jaya^tAM yantu\ GozA^H#} 
+88439 new <ls n="ṚV.">10, 17, 10.</ls> <ls n="ṚV. 10,">108, 11.</ls> <ls n="ṚV. 10,">27, 23.</ls> <ls>AV. 6, 76, 1. 2. 8, 2, 8.</ls> vom Schall: {#udraTA^nA^\M jaya^tAM yantu\ GozA^H#} 
+;
+; <L>12367<pc>1-0993<k1>ubj<k2>ubj
+; x = su\Bva1^H\
+113337 old <ls>ṚV. 1, 21, 5.</ls> <ls n="ṚV.">7, 104, 1.</ls> {#u\bjantu\ taM su\Bva1^H\ parva^tAsaH#} 
+113337 new <ls>ṚV. 1, 21, 5.</ls> <ls n="ṚV.">7, 104, 1.</ls> {#u\bjantu\ taM su\Bva1^\H parva^tAsaH#} 
+;
+; <L>12623<pc>1-1011<k1>uzA<k2>uzA/<h>2
+; x = sva1^H\
+115672 old <div n="1"> 1) = {#uzas: sozAma^vinda\tsa sva1^H\ so a\gnim#}
+115672 new <div n="1"> 1) = {#uzas: sozAma^vinda\tsa sva1^\H so a\gnim#}
+;
+; <L>12932<pc>1-1040<k1>fGAy<k2>fGAy
+; x = su\Bva1^H\
+118925 old <div n="1"> 1) {%beben%}: {#reja\dBUmi^rBi\yasA\ svasya^ ma\nyoH . f\GA\yanta^ su\Bva1^H\ parva^tAsaH#} 
+118925 new <div n="1"> 1) {%beben%}: {#reja\dBUmi^rBi\yasA\ svasya^ ma\nyoH . f\GA\yanta^ su\Bva1^\H parva^tAsaH#} 
+;
+; <L>13791<pc>1-1120<k1>oRi<k2>oRi/
+; x = Da\rtAra^mo\Ryo\3^H\
+126971 old <ls>ṚV. 9, 16, 1.</ls> {#taM tvA^ Da\rtAra^mo\Ryo\3^H\ pava^mAna sva\rdfSa^m . hi\nve vAji^zu vA\jina^m#} 
+126971 new <ls>ṚV. 9, 16, 1.</ls> {#taM tvA^ Da\rtAra^mo\Ryo\3^\H pava^mAna sva\rdfSa^m . hi\nve vAji^zu vA\jina^m#} 
+;
+; <L>49084<pc>4-1013<k1>praTama<k2>praTama/
+; x = nApara^M\
+485631 old <ls n="ṚV.">1, 123, 9.</ls> {#na mf^zyate praTa\maM nApara^M\ vaca^H#} {%früheres und späteres%} 
+485631 new <ls n="ṚV.">1, 123, 9.</ls> {#na mf^zyate praTa\maM nApara^\M vaca^H#} {%früheres und späteres%} 
+;
+; <L>52599<pc>5-0080<k1>bAhutA<k2>bAhu/tA
+; x = martya^M\
+519053 old {#bAhu/tA#}¦ (von {#bAhu)#} adv. {%auf den Armen, in ulnis%}: {#yaM bA\hute^va\ pipra^ti pAnti\ martya^M\ ri\zaH#} 
+519053 new {#bAhu/tA#}¦ (von {#bAhu)#} adv. {%auf den Armen, in ulnis%}: {#yaM bA\hute^va\ pipra^ti pAnti\ martya^\M ri\zaH#} 
+;
+; <L>54651<pc>5-0255<k1>BArman<k2>BA/rman
+; x = ti\mraSca\mva1^H\
+538994 old {#BA/rman#}¦ (von 1. {#Bar)#} {%Bringung, Aufwartung%}: {#traya\H koSA^saH Scotanti ti\mraSca\mva1^H\ supU^rRAH . sa\mA\ne aDi\ BArma^n#} 
+538994 new {#BA/rman#}¦ (von 1. {#Bar)#} {%Bringung, Aufwartung%}: {#traya\H koSA^saH Scotanti ti\mraSca\mva1^\H supU^rRAH . sa\mA\ne aDi\ BArma^n#} 
+;
+; <L>57353<pc>5-0528<k1>manuzya<k2>manuzya^
+; x = manu\zyA\3^H\
+569110 old <ls>ŚAT. BR. 1, 8, 1, 27.</ls> {#indre^ndra manu\zyA\3^H\ pare^hi#} (wohl {#viSaH)#} 
+569110 new <ls>ŚAT. BR. 1, 8, 1, 27.</ls> {#indre^ndra manu\zyA\3^\H pare^hi#} (wohl {#viSaH)#} 
+;
+; <L>116719<pc>7-1588<k1>hA<k2>hA<h>2
+; x = ta\nva1^H\
+1110079 old <ls>3, 5, 1, 18.</ls> {#mA te^ hAsta ta\nva1^H\ kiM ca\neha#} {%bleibe hier zurück%} 
+1110079 new <ls>3, 5, 1, 18.</ls> {#mA te^ hAsta ta\nva1^\H kiM ca\neha#} {%bleibe hier zurück%} 
+;
+; Two other slightly different: M\H
+; <L>28552<pc>3-0214<k1>tan<k2>tan<h>1
+; 3-9218 4)
+281980 old <ls>ṚV. 6, 46, 12.</ls> {#aM\Ho\yuva^sta\nva^stanvate\ vi#} 
+281980 new <ls>ṚV. 6, 46, 12.</ls> {#a\Mho\yuva^sta\nva^stanvate\ vi#}
+;
+; <L>32023<pc>3-0515<k1>dama<k2>dama/<h>1
+316133 old <ls n="ṚV.">1, 1, 8.</ls> <ls n="ṚV.">2, 2, 11.</ls> <ls n="ṚV.">4, 8, 3.</ls> <ls>VS. 8, 24.</ls> {#siM\Ho na dame^#} 
+316133 new <ls n="ṚV.">1, 1, 8.</ls> <ls n="ṚV.">2, 2, 11.</ls> <ls n="ṚV.">4, 8, 3.</ls> <ls>VS. 8, 24.</ls> {#si\Mho na dame^#} 
