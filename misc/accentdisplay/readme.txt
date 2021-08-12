@@ -1,6 +1,18 @@
 
-Display various spellings with 3 fonts (siddhanta, adhishila, default);
+example1: Display various spellings with 3 fonts (siddhanta, adhishila, default);
 python example1.py example1.txt example1.html
+
+# Common conjunct consonants (from MW grammar).
+python example3.py example3.txt example3.html
+
+# not yet done
+example2: Longer list of spellings compared in two fonts:
+  In adhishila font, use the order-preserving slp1_deva2.xml transcoding
+  In siddhanta font, use the order-adjusting slp1_deva3.xml transcoding.
+     When accent(s) precede M or H, the transcoding rules generate
+     unicode code point sequence so that M or H code point precedes the
+     accent(s) code points.
+
 
 --- rest of file for later use
 python changes_1.py pwg.txt changes_1.txt

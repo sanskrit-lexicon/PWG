@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>example3</title>
+<meta charset="UTF-8">
+<style>
+html {font-size:16px};
+@font-face { 
+ src: url(fonts/siddhanta.ttf); /* relative to this css file */
+ font-family: siddhanta_deva;
+}
+.siddhanta {color: teal; font-family:siddhanta_deva;;
+ font-size:1rem;
+line-height: 1.5;  /* times font-size;*/
+}
+@font-face { 
+ src: url(fonts/Adishila.ttf); /* relative to this css file */
+ font-family: adhishila_deva;
+}
+.adhishila {color: blue; 
+ font-family:adhishila_deva;
+ font-size:1.3rem;
+line-height: 1.5;  /* times font-size;*/
+}  
+.default {color: gray;
+ font-size:1rem;
+line-height: 1.5;  /* times font-size;*/
+}
+.codepoint {font-size: 10px; font-family:Sans-Serif;};
+p {font-size:1rem;
+ line-height: 1.5;  /* times font-size;*/
+}
+</style>
+</head>
+<body> 
+
+<p>  font-size of root element is 16px<br/>
+  <span style="font-size:1rem;">1rem</span>
+  <span style="font-size:12px;">12px</span>
+  <span style="font-size:16px;">16px</span>
+  <span style="font-size:24px;">24px</span>
+</p>
+<p> three fonts for Devanagari:<br/> 
+ 
+ <span class='siddhanta'> siddhanta (size=1rem)</span> <br/>
+ <span class='adhishila'> adhishila (size=1.3rem)</span> <br/>
+ <span class='default'> default (size=1rem)</span> <br/>
+</p>
+<hr/>
+<h2>The more common conjunct consonants</h2>
+<a href="http://rb.vertimus.co.uk/assets/sanskrit/conjuncts/monier-williams_-_conjuncts.png">Source</a>
+<hr/>
+ 
+kka ➔ <span class='siddhanta'>क्क</span> | <span class='adhishila'>क्क</span> | <span class='default'>क्क</span><br/>
+kta ➔ <span class='siddhanta'>क्त</span> | <span class='adhishila'>क्त</span> | <span class='default'>क्त</span><br/>
+kra ➔ <span class='siddhanta'>क्र</span> | <span class='adhishila'>क्र</span> | <span class='default'>क्र</span><br/>
+kla ➔ <span class='siddhanta'>क्ल</span> | <span class='adhishila'>क्ल</span> | <span class='default'>क्ल</span><br/>
+kva ➔ <span class='siddhanta'>क्व</span> | <span class='adhishila'>क्व</span> | <span class='default'>क्व</span><br/>
+kza ➔ <span class='siddhanta'>क्ष</span> | <span class='adhishila'>क्ष</span> | <span class='default'>क्ष</span><br/>
+Kya ➔ <span class='siddhanta'>ख्य</span> | <span class='adhishila'>ख्य</span> | <span class='default'>ख्य</span><br/>
+gna ➔ <span class='siddhanta'>ग्न</span> | <span class='adhishila'>ग्न</span> | <span class='default'>ग्न</span><br/>
+gra ➔ <span class='siddhanta'>ग्र</span> | <span class='adhishila'>ग्र</span> | <span class='default'>ग्र</span><br/>
+gla ➔ <span class='siddhanta'>ग्ल</span> | <span class='adhishila'>ग्ल</span> | <span class='default'>ग्ल</span><br/>
+Gra ➔ <span class='siddhanta'>घ्र</span> | <span class='adhishila'>घ्र</span> | <span class='default'>घ्र</span><br/>
+Nka ➔ <span class='siddhanta'>ङ्क</span> | <span class='adhishila'>ङ्क</span> | <span class='default'>ङ्क</span><br/>
+Nga ➔ <span class='siddhanta'>ङ्ग</span> | <span class='adhishila'>ङ्ग</span> | <span class='default'>ङ्ग</span><br/>
+cca ➔ <span class='siddhanta'>च्च</span> | <span class='adhishila'>च्च</span> | <span class='default'>च्च</span><br/>
+cCa ➔ <span class='siddhanta'>च्छ</span> | <span class='adhishila'>च्छ</span> | <span class='default'>च्छ</span><br/>
+cya ➔ <span class='siddhanta'>च्य</span> | <span class='adhishila'>च्य</span> | <span class='default'>च्य</span><br/>
+jja ➔ <span class='siddhanta'>ज्ज</span> | <span class='adhishila'>ज्ज</span> | <span class='default'>ज्ज</span><br/>
+jYa ➔ <span class='siddhanta'>ज्ञ</span> | <span class='adhishila'>ज्ञ</span> | <span class='default'>ज्ञ</span><br/>
+jva ➔ <span class='siddhanta'>ज्व</span> | <span class='adhishila'>ज्व</span> | <span class='default'>ज्व</span><br/>
+Yca ➔ <span class='siddhanta'>ञ्च</span> | <span class='adhishila'>ञ्च</span> | <span class='default'>ञ्च</span><br/>
+YCa ➔ <span class='siddhanta'>ञ्छ</span> | <span class='adhishila'>ञ्छ</span> | <span class='default'>ञ्छ</span><br/>
+Yja ➔ <span class='siddhanta'>ञ्ज</span> | <span class='adhishila'>ञ्ज</span> | <span class='default'>ञ्ज</span><br/>
+wwa ➔ <span class='siddhanta'>ट्ट</span> | <span class='adhishila'>ट्ट</span> | <span class='default'>ट्ट</span><br/>
+wya ➔ <span class='siddhanta'>ट्य</span> | <span class='adhishila'>ट्य</span> | <span class='default'>ट्य</span><br/>
+qga ➔ <span class='siddhanta'>ड्ग</span> | <span class='adhishila'>ड्ग</span> | <span class='default'>ड्ग</span><br/>
+qya ➔ <span class='siddhanta'>ड्य</span> | <span class='adhishila'>ड्य</span> | <span class='default'>ड्य</span><br/>
+Rwa ➔ <span class='siddhanta'>ण्ट</span> | <span class='adhishila'>ण्ट</span> | <span class='default'>ण्ट</span><br/>
+RWa ➔ <span class='siddhanta'>ण्ठ</span> | <span class='adhishila'>ण्ठ</span> | <span class='default'>ण्ठ</span><br/>
+Rqa ➔ <span class='siddhanta'>ण्ड</span> | <span class='adhishila'>ण्ड</span> | <span class='default'>ण्ड</span><br/>
+RRa ➔ <span class='siddhanta'>ण्ण</span> | <span class='adhishila'>ण्ण</span> | <span class='default'>ण्ण</span><br/>
+Rya ➔ <span class='siddhanta'>ण्य</span> | <span class='adhishila'>ण्य</span> | <span class='default'>ण्य</span><br/>
+tta ➔ <span class='siddhanta'>त्त</span> | <span class='adhishila'>त्त</span> | <span class='default'>त्त</span><br/>
+tTa ➔ <span class='siddhanta'>त्थ</span> | <span class='adhishila'>त्थ</span> | <span class='default'>त्थ</span><br/>
+tna ➔ <span class='siddhanta'>त्न</span> | <span class='adhishila'>त्न</span> | <span class='default'>त्न</span><br/>
+tma ➔ <span class='siddhanta'>त्म</span> | <span class='adhishila'>त्म</span> | <span class='default'>त्म</span><br/>
+tya ➔ <span class='siddhanta'>त्य</span> | <span class='adhishila'>त्य</span> | <span class='default'>त्य</span><br/>
+tra ➔ <span class='siddhanta'>त्र</span> | <span class='adhishila'>त्र</span> | <span class='default'>त्र</span><br/>
+tva ➔ <span class='siddhanta'>त्व</span> | <span class='adhishila'>त्व</span> | <span class='default'>त्व</span><br/>
+tsa ➔ <span class='siddhanta'>त्स</span> | <span class='adhishila'>त्स</span> | <span class='default'>त्स</span><br/>
+nta ➔ <span class='siddhanta'>न्त</span> | <span class='adhishila'>न्त</span> | <span class='default'>न्त</span><br/>
+nda ➔ <span class='siddhanta'>न्द</span> | <span class='adhishila'>न्द</span> | <span class='default'>न्द</span><br/>
+nna ➔ <span class='siddhanta'>न्न</span> | <span class='adhishila'>न्न</span> | <span class='default'>न्न</span><br/>
+nya ➔ <span class='siddhanta'>न्य</span> | <span class='adhishila'>न्य</span> | <span class='default'>न्य</span><br/>
+pta ➔ <span class='siddhanta'>प्त</span> | <span class='adhishila'>प्त</span> | <span class='default'>प्त</span><br/>
+pya ➔ <span class='siddhanta'>प्य</span> | <span class='adhishila'>प्य</span> | <span class='default'>प्य</span><br/>
+pra ➔ <span class='siddhanta'>प्र</span> | <span class='adhishila'>प्र</span> | <span class='default'>प्र</span><br/>
+pla ➔ <span class='siddhanta'>प्ल</span> | <span class='adhishila'>प्ल</span> | <span class='default'>प्ल</span><br/>
+bja ➔ <span class='siddhanta'>ब्ज</span> | <span class='adhishila'>ब्ज</span> | <span class='default'>ब्ज</span><br/>
+bda ➔ <span class='siddhanta'>ब्द</span> | <span class='adhishila'>ब्द</span> | <span class='default'>ब्द</span><br/>
+bya ➔ <span class='siddhanta'>ब्य</span> | <span class='adhishila'>ब्य</span> | <span class='default'>ब्य</span><br/>
+bra ➔ <span class='siddhanta'>ब्र</span> | <span class='adhishila'>ब्र</span> | <span class='default'>ब्र</span><br/>
+Bya ➔ <span class='siddhanta'>भ्य</span> | <span class='adhishila'>भ्य</span> | <span class='default'>भ्य</span><br/>
+Bra ➔ <span class='siddhanta'>भ्र</span> | <span class='adhishila'>भ्र</span> | <span class='default'>भ्र</span><br/>
+mBa ➔ <span class='siddhanta'>म्भ</span> | <span class='adhishila'>म्भ</span> | <span class='default'>म्भ</span><br/>
+mma ➔ <span class='siddhanta'>म्म</span> | <span class='adhishila'>म्म</span> | <span class='default'>म्म</span><br/>
+mya ➔ <span class='siddhanta'>म्य</span> | <span class='adhishila'>म्य</span> | <span class='default'>म्य</span><br/>
+mla ➔ <span class='siddhanta'>म्ल</span> | <span class='adhishila'>म्ल</span> | <span class='default'>म्ल</span><br/>
+yya ➔ <span class='siddhanta'>य्य</span> | <span class='adhishila'>य्य</span> | <span class='default'>य्य</span><br/>
+arka ➔ <span class='siddhanta'>अर्क</span> | <span class='adhishila'>अर्क</span> | <span class='default'>अर्क</span><br/>
+arma ➔ <span class='siddhanta'>अर्म</span> | <span class='adhishila'>अर्म</span> | <span class='default'>अर्म</span><br/>
+lpa ➔ <span class='siddhanta'>ल्प</span> | <span class='adhishila'>ल्प</span> | <span class='default'>ल्प</span><br/>
+lla ➔ <span class='siddhanta'>ल्ल</span> | <span class='adhishila'>ल्ल</span> | <span class='default'>ल्ल</span><br/>
+vya ➔ <span class='siddhanta'>व्य</span> | <span class='adhishila'>व्य</span> | <span class='default'>व्य</span><br/>
+vra ➔ <span class='siddhanta'>व्र</span> | <span class='adhishila'>व्र</span> | <span class='default'>व्र</span><br/>
+Sca ➔ <span class='siddhanta'>श्च</span> | <span class='adhishila'>श्च</span> | <span class='default'>श्च</span><br/>
+Sya ➔ <span class='siddhanta'>श्य</span> | <span class='adhishila'>श्य</span> | <span class='default'>श्य</span><br/>
+Sra ➔ <span class='siddhanta'>श्र</span> | <span class='adhishila'>श्र</span> | <span class='default'>श्र</span><br/>
+Sla ➔ <span class='siddhanta'>श्ल</span> | <span class='adhishila'>श्ल</span> | <span class='default'>श्ल</span><br/>
+Sva ➔ <span class='siddhanta'>श्व</span> | <span class='adhishila'>श्व</span> | <span class='default'>श्व</span><br/>
+zwa ➔ <span class='siddhanta'>ष्ट</span> | <span class='adhishila'>ष्ट</span> | <span class='default'>ष्ट</span><br/>
+zWa ➔ <span class='siddhanta'>ष्ठ</span> | <span class='adhishila'>ष्ठ</span> | <span class='default'>ष्ठ</span><br/>
+zRa ➔ <span class='siddhanta'>ष्ण</span> | <span class='adhishila'>ष्ण</span> | <span class='default'>ष्ण</span><br/>
+zya ➔ <span class='siddhanta'>ष्य</span> | <span class='adhishila'>ष्य</span> | <span class='default'>ष्य</span><br/>
+ska ➔ <span class='siddhanta'>स्क</span> | <span class='adhishila'>स्क</span> | <span class='default'>स्क</span><br/>
+sKa ➔ <span class='siddhanta'>स्ख</span> | <span class='adhishila'>स्ख</span> | <span class='default'>स्ख</span><br/>
+sta ➔ <span class='siddhanta'>स्त</span> | <span class='adhishila'>स्त</span> | <span class='default'>स्त</span><br/>
+sTa ➔ <span class='siddhanta'>स्थ</span> | <span class='adhishila'>स्थ</span> | <span class='default'>स्थ</span><br/>
+sna ➔ <span class='siddhanta'>स्न</span> | <span class='adhishila'>स्न</span> | <span class='default'>स्न</span><br/>
+sma ➔ <span class='siddhanta'>स्म</span> | <span class='adhishila'>स्म</span> | <span class='default'>स्म</span><br/>
+sya ➔ <span class='siddhanta'>स्य</span> | <span class='adhishila'>स्य</span> | <span class='default'>स्य</span><br/>
+sra ➔ <span class='siddhanta'>स्र</span> | <span class='adhishila'>स्र</span> | <span class='default'>स्र</span><br/>
+sva ➔ <span class='siddhanta'>स्व</span> | <span class='adhishila'>स्व</span> | <span class='default'>स्व</span><br/>
+ssa ➔ <span class='siddhanta'>स्स</span> | <span class='adhishila'>स्स</span> | <span class='default'>स्स</span><br/>
+hma ➔ <span class='siddhanta'>ह्म</span> | <span class='adhishila'>ह्म</span> | <span class='default'>ह्म</span><br/>
+hya ➔ <span class='siddhanta'>ह्य</span> | <span class='adhishila'>ह्य</span> | <span class='default'>ह्य</span><br/>
+hla ➔ <span class='siddhanta'>ह्ल</span> | <span class='adhishila'>ह्ल</span> | <span class='default'>ह्ल</span><br/>
+ktya ➔ <span class='siddhanta'>क्त्य</span> | <span class='adhishila'>क्त्य</span> | <span class='default'>क्त्य</span><br/>
+ktra ➔ <span class='siddhanta'>क्त्र</span> | <span class='adhishila'>क्त्र</span> | <span class='default'>क्त्र</span><br/>
+ktva ➔ <span class='siddhanta'>क्त्व</span> | <span class='adhishila'>क्त्व</span> | <span class='default'>क्त्व</span><br/>
+kzRa ➔ <span class='siddhanta'>क्ष्ण</span> | <span class='adhishila'>क्ष्ण</span> | <span class='default'>क्ष्ण</span><br/>
+kzma ➔ <span class='siddhanta'>क्ष्म</span> | <span class='adhishila'>क्ष्म</span> | <span class='default'>क्ष्म</span><br/>
+kzya ➔ <span class='siddhanta'>क्ष्य</span> | <span class='adhishila'>क्ष्य</span> | <span class='default'>क्ष्य</span><br/>
+gnya ➔ <span class='siddhanta'>ग्न्य</span> | <span class='adhishila'>ग्न्य</span> | <span class='default'>ग्न्य</span><br/>
+gBya ➔ <span class='siddhanta'>ग्भ्य</span> | <span class='adhishila'>ग्भ्य</span> | <span class='default'>ग्भ्य</span><br/>
+grya ➔ <span class='siddhanta'>ग्र्य</span> | <span class='adhishila'>ग्र्य</span> | <span class='default'>ग्र्य</span><br/>
+Nkta ➔ <span class='siddhanta'>ङ्क्त</span> | <span class='adhishila'>ङ्क्त</span> | <span class='default'>ङ्क्त</span><br/>
+Nkya ➔ <span class='siddhanta'>ङ्क्य</span> | <span class='adhishila'>ङ्क्य</span> | <span class='default'>ङ्क्य</span><br/>
+cCya ➔ <span class='siddhanta'>च्छ्य</span> | <span class='adhishila'>च्छ्य</span> | <span class='default'>च्छ्य</span><br/>
+cCra ➔ <span class='siddhanta'>च्छ्र</span> | <span class='adhishila'>च्छ्र</span> | <span class='default'>च्छ्र</span><br/>
+Rqya ➔ <span class='siddhanta'>ण्ड्य</span> | <span class='adhishila'>ण्ड्य</span> | <span class='default'>ण्ड्य</span><br/>
+tsna ➔ <span class='siddhanta'>त्स्न</span> | <span class='adhishila'>त्स्न</span> | <span class='default'>त्स्न</span><br/>
+tmya ➔ <span class='siddhanta'>त्म्य</span> | <span class='adhishila'>त्म्य</span> | <span class='default'>त्म्य</span><br/>
+trya ➔ <span class='siddhanta'>त्र्य</span> | <span class='adhishila'>त्र्य</span> | <span class='default'>त्र्य</span><br/>
+tsya ➔ <span class='siddhanta'>त्स्य</span> | <span class='adhishila'>त्स्य</span> | <span class='default'>त्स्य</span><br/>
+ttra ➔ <span class='siddhanta'>त्त्र</span> | <span class='adhishila'>त्त्र</span> | <span class='default'>त्त्र</span><br/>
+ttva ➔ <span class='siddhanta'>त्त्व</span> | <span class='adhishila'>त्त्व</span> | <span class='default'>त्त्व</span><br/>
+ddya ➔ <span class='siddhanta'>द्द्य</span> | <span class='adhishila'>द्द्य</span> | <span class='default'>द्द्य</span><br/>
+dDya ➔ <span class='siddhanta'>द्ध्य</span> | <span class='adhishila'>द्ध्य</span> | <span class='default'>द्ध्य</span><br/>
+dBya ➔ <span class='siddhanta'>द्भ्य</span> | <span class='adhishila'>द्भ्य</span> | <span class='default'>द्भ्य</span><br/>
+drya ➔ <span class='siddhanta'>द्र्य</span> | <span class='adhishila'>द्र्य</span> | <span class='default'>द्र्य</span><br/>
+ntya ➔ <span class='siddhanta'>न्त्य</span> | <span class='adhishila'>न्त्य</span> | <span class='default'>न्त्य</span><br/>
+mbya ➔ <span class='siddhanta'>म्ब्य</span> | <span class='adhishila'>म्ब्य</span> | <span class='default'>म्ब्य</span><br/>
+ardra ➔ <span class='siddhanta'>अर्द्र</span> | <span class='adhishila'>अर्द्र</span> | <span class='default'>अर्द्र</span><br/>
+aryya ➔ <span class='siddhanta'>अर्य्य</span> | <span class='adhishila'>अर्य्य</span> | <span class='default'>अर्य्य</span><br/>
+arvva ➔ <span class='siddhanta'>अर्व्व</span> | <span class='adhishila'>अर्व्व</span> | <span class='default'>अर्व्व</span><br/>
+zwra ➔ <span class='siddhanta'>ष्ट्र</span> | <span class='adhishila'>ष्ट्र</span> | <span class='default'>ष्ट्र</span><br/>
+sTna ➔ <span class='siddhanta'>स्थ्न</span> | <span class='adhishila'>स्थ्न</span> | <span class='default'>स्थ्न</span><br/>
+stya ➔ <span class='siddhanta'>स्त्य</span> | <span class='adhishila'>स्त्य</span> | <span class='default'>स्त्य</span><br/>
+stra ➔ <span class='siddhanta'>स्त्र</span> | <span class='adhishila'>स्त्र</span> | <span class='default'>स्त्र</span><br/>
+tsnya ➔ <span class='siddhanta'>त्स्न्य</span> | <span class='adhishila'>त्स्न्य</span> | <span class='default'>त्स्न्य</span><br/>
+ntrya ➔ <span class='siddhanta'>न्त्र्य</span> | <span class='adhishila'>न्त्र्य</span> | <span class='default'>न्त्र्य</span><br/>
+artsya ➔ <span class='siddhanta'>अर्त्स्य</span> | <span class='adhishila'>अर्त्स्य</span> | <span class='default'>अर्त्स्य</span><br/>
+artsnya ➔ <span class='siddhanta'>अर्त्स्न्य</span> | <span class='adhishila'>अर्त्स्न्य</span> | <span class='default'>अर्त्स्न्य</span><br/>
+</body>
+</html
