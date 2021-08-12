@@ -2,8 +2,13 @@
 example1: Display various spellings with 3 fonts (siddhanta, adhishila, default);
 python example1.py example1.txt example1.html
 
+# -------------------------------------------
+# compare glyphs using siddhanta, adhishila,
 # Common conjunct consonants (from MW grammar).
 python example3.py example3.txt example3.html
+# conjunct consonant frequency, VCP.
+# REF: https://github.com/sanskrit-lexicon/COLOGNE/issues/354
+python example3a.py example3a.txt example3a.html
 
 # not yet done
 example2: Longer list of spellings compared in two fonts:
