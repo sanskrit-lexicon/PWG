@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>example3b</title>
+<meta charset="UTF-8">
+<style>
+html {font-size:16px;}
+@font-face { 
+ src: url(fonts/siddhanta.ttf); /* relative to this css file */
+ font-family: siddhanta_deva;
+}
+.siddhanta {color: teal; font-family:siddhanta_deva;
+ font-size:1rem;
+line-height: 1.5;  /* times font-size;*/
+}
+@font-face { 
+ src: url(fonts/Adishila.ttf); /* relative to this css file */
+ font-family: adhishila_deva;
+}
+.adhishila {color: blue; 
+ font-family:adhishila_deva;
+ font-size:1.3rem;
+line-height: 1.5;  /* times font-size;*/
+}  
+@font-face { 
+ src: url(fonts/sanskr.ttf); /* relative to this css file */
+ font-family: sanskr_deva;
+}
+.sanskr {color: gray;
+ font-family:sanskr_deva;
+ font-size:1.2rem;
+line-height: 1.5;  /* times font-size;*/
+}
+.codepoint {font-size: 10px; font-family:Sans-Serif;};
+p {font-size:1rem;
+ line-height: 1.5;  /* times font-size;*/
+}
+</style>
+</head>
+<body> 
+
+<p>  font-size of root element is 16px<br/>
+  <span style="font-size:1rem;">1rem</span>
+  <span style="font-size:12px;">12px</span>
+  <span style="font-size:16px;">16px</span>
+  <span style="font-size:24px;">24px</span>
+</p>
+<p> three fonts for Devanagari:<br/> 
+ 
+ <span class='siddhanta'> siddhanta (size=1rem)</span> <br/>
+ <span class='adhishila'> adhishila (size=1.3rem)</span> <br/>
+ <span class='sanskr'> sanskr (size=1.2rem)</span> <br/>
+</p>
+<hr/>
+<h2>Conjunct consonants and accents</h2>
+
+<hr/>
+ 
+<p>Dhaval Prefers Siddanta</p>
+jja ➔ <span class='siddhanta'>ज्ज</span> | <span class='adhishila'>ज्ज</span> | <span class='sanskr'>ज्ज</span><br/>
+tna ➔ <span class='siddhanta'>त्न</span> | <span class='adhishila'>त्न</span> | <span class='sanskr'>त्न</span><br/>
+ktya ➔ <span class='siddhanta'>क्त्य</span> | <span class='adhishila'>क्त्य</span> | <span class='sanskr'>क्त्य</span><br/>
+Nkya ➔ <span class='siddhanta'>ङ्क्य</span> | <span class='adhishila'>ङ्क्य</span> | <span class='sanskr'>ङ्क्य</span><br/>
+arvva ➔ <span class='siddhanta'>अर्व्व</span> | <span class='adhishila'>अर्व्व</span> | <span class='sanskr'>अर्व्व</span><br/>
+<p>Dhaval Prefers Adhishila</p>
+cCa ➔ <span class='siddhanta'>च्छ</span> | <span class='adhishila'>च्छ</span> | <span class='sanskr'>च्छ</span><br/>
+Yca ➔ <span class='siddhanta'>ञ्च</span> | <span class='adhishila'>ञ्च</span> | <span class='sanskr'>ञ्च</span><br/>
+YCa ➔ <span class='siddhanta'>ञ्छ</span> | <span class='adhishila'>ञ्छ</span> | <span class='sanskr'>ञ्छ</span><br/>
+Yja ➔ <span class='siddhanta'>ञ्ज</span> | <span class='adhishila'>ञ्ज</span> | <span class='sanskr'>ञ्ज</span><br/>
+qya ➔ <span class='siddhanta'>ड्य</span> | <span class='adhishila'>ड्य</span> | <span class='sanskr'>ड्य</span><br/>
+bja ➔ <span class='siddhanta'>ब्ज</span> | <span class='adhishila'>ब्ज</span> | <span class='sanskr'>ब्ज</span><br/>
+Sca ➔ <span class='siddhanta'>श्च</span> | <span class='adhishila'>श्च</span> | <span class='sanskr'>श्च</span><br/>
+gBya ➔ <span class='siddhanta'>ग्भ्य</span> | <span class='adhishila'>ग्भ्य</span> | <span class='sanskr'>ग्भ्य</span><br/>
+cCya ➔ <span class='siddhanta'>च्छ्य</span> | <span class='adhishila'>च्छ्य</span> | <span class='sanskr'>च्छ्य</span><br/>
+ttra ➔ <span class='siddhanta'>त्त्र</span> | <span class='adhishila'>त्त्र</span> | <span class='sanskr'>त्त्र</span><br/>
+ddya ➔ <span class='siddhanta'>द्द्य</span> | <span class='adhishila'>द्द्य</span> | <span class='sanskr'>द्द्य</span><br/>
+dDya ➔ <span class='siddhanta'>द्ध्य</span> | <span class='adhishila'>द्ध्य</span> | <span class='sanskr'>द्ध्य</span><br/>
+dBya ➔ <span class='siddhanta'>द्भ्य</span> | <span class='adhishila'>द्भ्य</span> | <span class='sanskr'>द्भ्य</span><br/>
+<hr>
+zwya ➔ <span class='siddhanta'>ष्ट्य</span> | <span class='adhishila'>ष्ट्य</span> | <span class='sanskr'>ष्ट्य</span><br/>
+rzwya ➔ <span class='siddhanta'>र्ष्ट्य</span> | <span class='adhishila'>र्ष्ट्य</span> | <span class='sanskr'>र्ष्ट्य</span><br/>
+qya ➔ <span class='siddhanta'>ड्य</span> | <span class='adhishila'>ड्य</span> | <span class='sanskr'>ड्य</span><br/>
+Rqya ➔ <span class='siddhanta'>ण्ड्य</span> | <span class='adhishila'>ण्ड्य</span> | <span class='sanskr'>ण्ड्य</span><br/>
+qqya ➔ <span class='siddhanta'>ड्ड्य</span> | <span class='adhishila'>ड्ड्य</span> | <span class='sanskr'>ड्ड्य</span><br/>
+rqya ➔ <span class='siddhanta'>र्ड्य</span> | <span class='adhishila'>र्ड्य</span> | <span class='sanskr'>र्ड्य</span><br/>
+Qya ➔ <span class='siddhanta'>ढ्य</span> | <span class='adhishila'>ढ्य</span> | <span class='sanskr'>ढ्य</span><br/>
+qQya ➔ <span class='siddhanta'>ड्ढ्य</span> | <span class='adhishila'>ड्ढ्य</span> | <span class='sanskr'>ड्ढ्य</span><br/>
+RQya ➔ <span class='siddhanta'>ण्ढ्य</span> | <span class='adhishila'>ण्ढ्य</span> | <span class='sanskr'>ण्ढ्य</span><br/>
+Wya ➔ <span class='siddhanta'>ठ्य</span> | <span class='adhishila'>ठ्य</span> | <span class='sanskr'>ठ्य</span><br/>
+RWya ➔ <span class='siddhanta'>ण्ठ्य</span> | <span class='adhishila'>ण्ठ्य</span> | <span class='sanskr'>ण्ठ्य</span><br/>
+cCya ➔ <span class='siddhanta'>च्छ्य</span> | <span class='adhishila'>च्छ्य</span> | <span class='sanskr'>च्छ्य</span><br/>
+Cya ➔ <span class='siddhanta'>छ्य</span> | <span class='adhishila'>छ्य</span> | <span class='sanskr'>छ्य</span><br/>
+YCya ➔ <span class='siddhanta'>ञ्छ्य</span> | <span class='adhishila'>ञ्छ्य</span> | <span class='sanskr'>ञ्छ्य</span><br/>
+SCya ➔ <span class='siddhanta'>श्छ्य</span> | <span class='adhishila'>श्छ्य</span> | <span class='sanskr'>श्छ्य</span><br/>
+Nya ➔ <span class='siddhanta'>ङ्य</span> | <span class='adhishila'>ङ्य</span> | <span class='sanskr'>ङ्य</span><br/>
+lNya ➔ <span class='siddhanta'>ल्ङ्य</span> | <span class='adhishila'>ल्ङ्य</span> | <span class='sanskr'>ल्ङ्य</span><br/>
+qdya ➔ <span class='siddhanta'>ड्द्य</span> | <span class='adhishila'>ड्द्य</span> | <span class='sanskr'>ड्द्य</span><br/>
+qdvya ➔ <span class='siddhanta'>ड्द्व्य</span> | <span class='adhishila'>ड्द्व्य</span> | <span class='sanskr'>ड्द्व्य</span><br/>
+qrya ➔ <span class='siddhanta'>ड्र्य</span> | <span class='adhishila'>ड्र्य</span> | <span class='sanskr'>ड्र्य</span><br/>
+<hr>
+wya ➔ <span class='siddhanta'>ट्य</span> | <span class='adhishila'>ट्य</span> | <span class='sanskr'>ट्य</span><br/>
+Rwya ➔ <span class='siddhanta'>ण्ट्य</span> | <span class='adhishila'>ण्ट्य</span> | <span class='sanskr'>ण्ट्य</span><br/>
+wwya ➔ <span class='siddhanta'>ट्ट्य</span> | <span class='adhishila'>ट्ट्य</span> | <span class='sanskr'>ट्ट्य</span><br/>
+rwya ➔ <span class='siddhanta'>र्ट्य</span> | <span class='adhishila'>र्ट्य</span> | <span class='sanskr'>र्ट्य</span><br/>
+hRya ➔ <span class='siddhanta'>ह्ण्य</span> | <span class='adhishila'>ह्ण्य</span> | <span class='sanskr'>ह्ण्य</span><br/>
+ktya ➔ <span class='siddhanta'>क्त्य</span> | <span class='adhishila'>क्त्य</span> | <span class='sanskr'>क्त्य</span><br/>
+rktya ➔ <span class='siddhanta'>र्क्त्य</span> | <span class='adhishila'>र्क्त्य</span> | <span class='sanskr'>र्क्त्य</span><br/>
+wdya ➔ <span class='siddhanta'>ट्द्य</span> | <span class='adhishila'>ट्द्य</span> | <span class='sanskr'>ट्द्य</span><br/>
+hnya ➔ <span class='siddhanta'>ह्न्य</span> | <span class='adhishila'>ह्न्य</span> | <span class='sanskr'>ह्न्य</span><br/>
+dgnya ➔ <span class='siddhanta'>द्ग्न्य</span> | <span class='adhishila'>द्ग्न्य</span> | <span class='sanskr'>द्ग्न्य</span><br/>
+zwrya ➔ <span class='siddhanta'>ष्ट्र्य</span> | <span class='adhishila'>ष्ट्र्य</span> | <span class='sanskr'>ष्ट्र्य</span><br/>
+dDrya ➔ <span class='siddhanta'>द्ध्र्य</span> | <span class='adhishila'>द्ध्र्य</span> | <span class='sanskr'>द्ध्र्य</span><br/>
+llya ➔ <span class='siddhanta'>ल्ल्य</span> | <span class='adhishila'>ल्ल्य</span> | <span class='sanskr'>ल्ल्य</span><br/>
+hvya ➔ <span class='siddhanta'>ह्व्य</span> | <span class='adhishila'>ह्व्य</span> | <span class='sanskr'>ह्व्य</span><br/>
+dDvya ➔ <span class='siddhanta'>द्ध्व्य</span> | <span class='adhishila'>द्ध्व्य</span> | <span class='sanskr'>द्ध्व्य</span><br/>
+ktvya ➔ <span class='siddhanta'>क्त्व्य</span> | <span class='adhishila'>क्त्व्य</span> | <span class='sanskr'>क्त्व्य</span><br/>
+drvya ➔ <span class='siddhanta'>द्र्व्य</span> | <span class='adhishila'>द्र्व्य</span> | <span class='sanskr'>द्र्व्य</span><br/>
+<hr>
+<p>Accents</p>
+syA^\rTina\H ➔ <span class='siddhanta'>स्या॒॑र्थिनः॒</span> | <span class='adhishila'>स्या॒॑र्थिन॒ः</span> | <span class='sanskr'>स्या॒॑र्थिनः॒</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0938  DEVANAGARI LETTER SA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092F  DEVANAGARI LETTER YA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0925  DEVANAGARI LETTER THA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+ba\hve\3^\tadra^pAmi ➔ <span class='siddhanta'>ब॒ह्वे॒३॒॑तद्र॑पामि</span> | <span class='adhishila'>ब॒ह्वे॒३॒॑तद्र॑पामि</span> | <span class='sanskr'>ब॒ह्वे॒३॒॑तद्र॑पामि</span><br/>
+ta\nvA\3^\ ➔ <span class='siddhanta'>त॒न्वा॒३॒॑</span> | <span class='adhishila'>त॒न्वा॒३॒॑</span> | <span class='sanskr'>त॒न्वा॒३॒॑</span><br/>
+yu\vAku^\ ➔ <span class='siddhanta'>यु॒वाकु॒॑</span> | <span class='adhishila'>यु॒वाकु॒॑</span> | <span class='sanskr'>यु॒वाकु॒॑</span><br/>
+a/Mhati ➔ <span class='siddhanta'>अं꣫हति</span> | <span class='adhishila'>अ꣫ंहति</span> | <span class='sanskr'>अं꣫हति</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+</details>
+aMha/ti ➔ <span class='siddhanta'>अंह꣫ति</span> | <span class='adhishila'>अंह꣫ति</span> | <span class='sanskr'>अंह꣫ति</span><br/>
+aMhati/ ➔ <span class='siddhanta'>अंहति꣫</span> | <span class='adhishila'>अंहति꣫</span> | <span class='sanskr'>अंहति꣫</span><br/>
+vi\^srasa^Sca\ritrA^t ➔ <span class='siddhanta'>वि॒॑स्रस॑श्च॒रित्रा॑त्</span> | <span class='adhishila'>वि॒॑स्रस॑श्च॒रित्रा॑त्</span> | <span class='sanskr'>वि॒॑स्रस॑श्च॒रित्रा॑त्</span><br/>
+Baga\M ➔ <span class='siddhanta'>भगं॒</span> | <span class='adhishila'>भग॒ं</span> | <span class='sanskr'>भगं॒</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 092D  DEVANAGARI LETTER BHA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0917  DEVANAGARI LETTER GA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+dU\Qya1^\H ➔ <span class='siddhanta'>दू॒ढ्य१ः॒॑</span> | <span class='adhishila'>दू॒ढ्य१॒॑ः</span> | <span class='sanskr'>दू॒ढ्य१ः॒॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0926  DEVANAGARI LETTER DA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0942  DEVANAGARI VOWEL SIGN UU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0922  DEVANAGARI LETTER DDHA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092F  DEVANAGARI LETTER YA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0967  DEVANAGARI DIGIT ONE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+a\Bya1^\Gam ➔ <span class='siddhanta'>अ॒भ्य१॒॑घम्</span> | <span class='adhishila'>अ॒भ्य१॒॑घम्</span> | <span class='sanskr'>अ॒भ्य१॒॑घम्</span><br/>
+hya1^\Nga ➔ <span class='siddhanta'>ह्य१॒॑ङ्ग</span> | <span class='adhishila'>ह्य१॒॑ङ्ग</span> | <span class='sanskr'>ह्य१॒॑ङ्ग</span><br/>
+a\pasyaM1^\ ➔ <span class='siddhanta'>अ॒पस्यं१॒॑</span> | <span class='adhishila'>अ॒पस्यं१॒॑</span> | <span class='sanskr'>अ॒पस्यं१॒॑</span><br/>
+manu\zyA\3^\H ➔ <span class='siddhanta'>मनु॒ष्या॒३ः॒॑</span> | <span class='adhishila'>मनु॒ष्या॒३॒॑ः</span> | <span class='sanskr'>मनु॒ष्या॒३ः॒॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 092E  DEVANAGARI LETTER MA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0941  DEVANAGARI VOWEL SIGN U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0937  DEVANAGARI LETTER SSA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092F  DEVANAGARI LETTER YA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0969  DEVANAGARI DIGIT THREE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+nira\mitrA^~ ➔ <span class='siddhanta'>निर॒मित्राँ॑</span> | <span class='adhishila'>निर॒मित्रा॑ँ</span> | <span class='sanskr'>निर॒मित्राँ॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092E  DEVANAGARI LETTER MA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0901  DEVANAGARI SIGN CANDRABINDU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+</details>
+apA\mitrA\~ ➔ <span class='siddhanta'>अपा॒मित्राँ॒</span> | <span class='adhishila'>अपा॒मित्रा॒ँ</span> | <span class='sanskr'>अपा॒मित्राँ॒</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0905  DEVANAGARI LETTER A</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092A  DEVANAGARI LETTER PA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092E  DEVANAGARI LETTER MA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0901  DEVANAGARI SIGN CANDRABINDU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+SatrU\~r ➔ <span class='siddhanta'>शत्रूँ॒र्</span> | <span class='adhishila'>शत्रू॒ँर्</span> | <span class='sanskr'>शत्रूँ॒र्</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0936  DEVANAGARI LETTER SHA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0942  DEVANAGARI VOWEL SIGN UU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0901  DEVANAGARI SIGN CANDRABINDU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+</details>
+manu\zyA\~3^\ ➔ <span class='siddhanta'>मनु॒ष्याँ॒३॒॑</span> | <span class='adhishila'>मनु॒ष्या॒ँ३॒॑</span> | <span class='sanskr'>मनु॒ष्याँ॒३॒॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 092E  DEVANAGARI LETTER MA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0941  DEVANAGARI VOWEL SIGN U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0937  DEVANAGARI LETTER SSA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092F  DEVANAGARI LETTER YA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093E  DEVANAGARI VOWEL SIGN AA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0901  DEVANAGARI SIGN CANDRABINDU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0969  DEVANAGARI DIGIT THREE</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+</details>
+nF/~HpraRetra ➔ <span class='siddhanta'>नॄँः꣫प्रणेत्र</span> | <span class='adhishila'>नॄ꣫ँःप्रणेत्र</span> | <span class='sanskr'>नॄँः꣫प्रणेत्र</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0944  DEVANAGARI VOWEL SIGN VOCALIC RR</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0901  DEVANAGARI SIGN CANDRABINDU</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0903  DEVANAGARI SIGN VISARGA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> A8EB  COMBINING DEVANAGARI LETTER U</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092A  DEVANAGARI LETTER PA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0923  DEVANAGARI LETTER NNA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0947  DEVANAGARI VOWEL SIGN E</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+</details>
+<p>adhiSila anusvara indistinct. '^M' is quite common 3700 instances.</p>
+nira^Mha\tiByo^ ➔ <span class='siddhanta'>निरं॑ह॒तिभ्यो॑</span> | <span class='adhishila'>निर॑ंह॒तिभ्यो॑</span> | <span class='sanskr'>निरं॑ह॒तिभ्यो॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 0928  DEVANAGARI LETTER NA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0930  DEVANAGARI LETTER RA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0939  DEVANAGARI LETTER HA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0952  DEVANAGARI STRESS SIGN ANUDATTA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0924  DEVANAGARI LETTER TA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092D  DEVANAGARI LETTER BHA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094D  DEVANAGARI SIGN VIRAMA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 092F  DEVANAGARI LETTER YA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 094B  DEVANAGARI VOWEL SIGN O</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+</details>
+fzi^M ➔ <span class='siddhanta'>ऋषिं॑</span> | <span class='adhishila'>ऋषि॑ं</span> | <span class='sanskr'>ऋषिं॑</span><br/>
+<details class="codepoint" style="margin-left:40px">
+<summary>altered unicode sequence for siddhanta, sanskr</summary>
+&nbsp;&nbsp; <span class='codepoint'> 090B  DEVANAGARI LETTER VOCALIC R</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0937  DEVANAGARI LETTER SSA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 093F  DEVANAGARI VOWEL SIGN I</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0902  DEVANAGARI SIGN ANUSVARA</span><br/>
+&nbsp;&nbsp; <span class='codepoint'> 0951  DEVANAGARI STRESS SIGN UDATTA</span><br/>
+</details>
+</body>
+</html
