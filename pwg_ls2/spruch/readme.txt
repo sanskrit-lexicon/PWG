@@ -216,3 +216,20 @@ NOTE: the 'verse' is set to '0' for the 2 that don't have links (see above)
 # linkable verse from 5308 to the 6949 after changes.
 python listls_instances.py 'Spr. (II)' temp_pwg_00.txt temp_listls_instances_SprII_00.txt
 5308 instances written to temp_listls_instances_SprII_00.txt
+
+# -------------------------------------------------------------
+Further corrections to Spr. (II) markup.
+cp temp_pwg_01.txt temp_pwg_02.txt
+Manually change temp_pwg_02.txt using 150+ lines  [^>"]Spr[.] (II)
+
+cp temp_pwg_02.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+ #prints 'ok'
+
+Generate change_02.txt:
+cp /c/xampp/htdocs/funderburkjim/boesp-prep/step0/changes/diff_to_changes.py .
+python diff_to_changes.py temp_pwg_01.txt temp_pwg_02.txt change_02.txt
+194 changes
