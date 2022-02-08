@@ -4,3 +4,4 @@
 * RV Improve ls markup for Rg Veda in pwg
 * spruch Improve ls markup for 'Spr. (II) N'  (Indische Spruch 2nd edition)
 * mbh  Improve ls markup for 'MBH.'  (Mahabharata calcutta edition)
+* hariv Improve ls markup for 'HARIV.'
