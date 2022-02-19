@@ -12,3 +12,4 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * mbh1 general cleanup of <ls> markup. Focus on 'hidden' ls references, such
        as '<ls>AV. 1, 2, 3. HARIV. 12345.</ls>'
        and text mis-allocated to <ls>.
+* mbh2 Improve ls markup for 'MBH.' Focus on non-marked numeric ls.
