@@ -13,3 +13,4 @@ pwg_ls2  revisions of markup for <ls> in pwg.
        as '<ls>AV. 1, 2, 3. HARIV. 12345.</ls>'
        and text mis-allocated to <ls>.
 * mbh2 Improve ls markup for 'MBH.' Focus on non-marked numeric ls.
+* rv1  Further improvement of Rg Veda ls markup
