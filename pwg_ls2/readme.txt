@@ -15,3 +15,4 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * mbh2 Improve ls markup for 'MBH.' Focus on non-marked numeric ls.
 * rv1  Further improvement of Rg Veda ls markup
 * av  Improvement of AV Veda ls markup
+* p   Improvement of Panini ls markup
