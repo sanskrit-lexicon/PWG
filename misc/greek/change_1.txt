@@ -1,0 +1,410 @@
+; =======================================================================
+; from onegreekletter.py
+; =======================================================================
+; --------------------------------------------------
+; <L>1632<pc>1-0115<k1>aTa  type=section label
+13834 old Das u.
+13834 new Das u. α 
+;
+13835 old <lang n="greek">α</lang> besprochene {#aTa vA#} ist das {#aTa vA pakzAntare#} . 
+13835 new besprochene {#aTa vA#} ist das {#aTa vA pakzAntare#} . 
+; --------------------------------------------------
+; <L>1917<pc>1-0143<k1>aDika  type=section label
+16492 old <ls>P. 5, 2, 73</ls>, <ls>Sch.</ls>; vgl. 1. {#aDi#} 2, {%d%},
+16492 new <ls>P. 5, 2, 73</ls>, <ls>Sch.</ls>; vgl. 1. {#aDi#} 2, {%d%}, β 
+;
+16493 old <lang n="greek">β</lang> am Ende. 
+16493 new am Ende. 
+; --------------------------------------------------
+; <L>2696<pc>1-0196<k1>anu  type=section label
+22512 old <ls>VOP. 8, 56</ls>; vgl. u. {%f%},
+22512 new <ls>VOP. 8, 56</ls>; vgl. u. {%f%}, β 
+;
+22513 old <lang n="greek">β</lang> und u. {%k.%} 
+22513 new und u. {%k.%} 
+; --------------------------------------------------
+; <L>3669<pc>1-0275<k1>ap  type=STAR 
+;31138 old <ls>NAIGH. 1, 3.</ls> beruht auf falscher Deutung vedischer Stellen. — Am Himmel sind die {#ApaH#} der Stern
+;31138 new <ls>NAIGH. 1, 3.</ls> beruht auf falscher Deutung vedischer Stellen. — Am Himmel sind die {#ApaH#} der Stern
+;;
+31139 old <lang n="greek">δ</lang> {%Virginis%} 
+31139 new δ {%Virginis%} 
+; --------------------------------------------------
+; <L>10134<pc>1-0802<k1>indra type=STAR
+;91732 old <ls>MED. r. 8.</ls> <ls>KOṢṬHĪPRADĪPA</ls> im <ls>ŚKDR.</ls> {%der%} <is>Yoga</is> {%Stern im 26sten%} <is>Nakṣatra</is>,
+;91732 new <ls>MED. r. 8.</ls> <ls>KOṢṬHĪPRADĪPA</ls> im <ls>ŚKDR.</ls> {%der%} <is>Yoga</is> {%Stern im 26sten%} <is>Nakṣatra</is>,
+;
+91733 old <lang n="greek">γ</lang> {%Pegasi%}, 
+91733 new γ {%Pegasi%}, 
+; --------------------------------------------------
+; <L>10983<pc>1-0896<k1>uttAnapAda  type=STAR
+;101360 old {#uttAnapAda#}¦ ({#u° + pAda#}) <lex>m.</lex> {%der Stern%}
+;101360 new {#uttAnapAda#}¦ ({#u° + pAda#}) <lex>m.</lex> {%der Stern%}
+;
+101361 old <lang n="greek">β</lang> {%im kleinen Bären%}, person. der Sohn <is>Vīra's</is> (oder <is>Manu</is> <is>Svāyaṃbhuva's</is>) und Vater <is>Dhruva's</is> ({%des Polarsterns%}) 
+101361 new β {%im kleinen Bären%}, person. der Sohn <is>Vīra's</is> (oder <is>Manu</is> <is>Svāyaṃbhuva's</is>) und Vater <is>Dhruva's</is> ({%des Polarsterns%}) 
+; --------------------------------------------------
+; <L>11634<pc>1-0940<k1>upa  type=section label
+107090 old <ls>VOP. 5, 7.</ls> Vgl. {%b%},
+107090 new <ls>VOP. 5, 7.</ls> Vgl. {%b%}, ε 
+;
+107091 old <lang n="greek">ε</lang> und {#aDi#} . 
+107091 new und {#aDi#} . 
+; --------------------------------------------------
+; <L>21731<pc>2-0657<k1>ganDarva  type=section label
+;206344 old <ls>VP. 150.</ls> der <is>Vāc</is> (vgl. 
+;206344 new <ls>VP. 150.</ls> der <is>Vāc</is> (vgl. 
+;
+206345 old <ls>ṚV. 10, 177, 2</ls> oben u.a, <lang n="greek">γ</lang>) <ls>PADMA-P. ebend. N. 21</ls>; vgl. 
+206345 new <ls>ṚV. 10, 177, 2</ls> oben u. a, γ) <ls>PADMA-P. ebend. N. 21</ls>; vgl. 
+;
+206356 old <ls>BHĀG. P. 4, 29, 21</ls> (s. u. {%b%},
+206356 new <ls>BHĀG. P. 4, 29, 21</ls> (s. u. {%b%}, γ).
+;
+206357 old <lang n="greek">γ</lang>). — Die iranische Sage kennt einen <ab n="?">G.</ab> <is>Zairipāśna</is>, {%Goldferse%} 
+206357 new — Die iranische Sage kennt einen <ab n="?">G.</ab> <is>Zairipāśna</is>, {%Goldferse%} 
+; --------------------------------------------------
+; <L>21838<pc>2-0688<k1>gayaSiras  type=section label
+209221 old <div n="v">— Vgl. {#gaya#} 1,d.
+209221 new <div n="v">— Vgl. {#gaya#} 1, d, ε 
+;
+209222 old <lang n="greek">ε</lang> und {#gayASIrza#} .
+209222 new und {#gayASIrza#} .
+; --------------------------------------------------
+; <L>23728<pc>2-0856<k1>grABa  type=section label
+228890 old <div n="1"> 1) {%Ergreifer%} (so v. a. {#graha#} 
+228890 new <div n="1"> 1) {%Ergreifer%} (so v. a. {#graha#} 
+;
+228891 old <ls>2,a,</ls> <lang n="greek">β</lang>) {#i\damaha\M ruSa^ntaM grA\BaM ta^nU\dUzi\mapo^hAmi#} 
+228891 new 2, a, β) {#i\damaha\M ruSa^ntaM grA\BaM ta^nU\dUzi\mapo^hAmi#} 
+; --------------------------------------------------
+; <L>25411<pc>2-1017<k1>citraka  type=section label
+247869 old <div n="2">— c) {%eine Schlangenart%} 
+247869 new <div n="2">— c) {%eine Schlangenart%} 
+;
+247870 old <ls>SUŚR. 2, 265, 14</ls>; vgl. e,<lang n="greek">γ</lang>. 
+247870 new <ls>SUŚR. 2, 265, 14</ls>; vgl. e, γ. 
+; --------------------------------------------------
+; <L>26483<pc>3-0016<k1>jan   type=section label
+259498 old <div n="p">— {#aDi#} . In zahlreichen Stellen der älteren Sprache erscheint {#jan#} mit {#aDi#} verbunden in der Bed. {%geboren werden von%} (abl.), {%entstehen aus%}, aber wie die betonten Texte zeigen, ist die praep. nicht unmittelbar zum Verbum zu ziehen. Ausser den u. {#aDi#} 2, {%c%},
+259498 new <div n="p">— {#aDi#} . In zahlreichen Stellen der älteren Sprache erscheint {#jan#} mit {#aDi#} verbunden in der Bed. {%geboren werden von%} (abl.), {%entstehen aus%}, aber wie die betonten Texte zeigen, ist die praep. nicht unmittelbar zum Verbum zu ziehen. Ausser den u. {#aDi#} 2, {%c%}, δ 
+;
+259499 old <lang n="greek">δ</lang> angeführten Beispielen vgl. noch: {#tasmAdyatra kva ca Socati svedate vA puruzastejasa eva tadaDyApo jAyante#} 
+259499 new angeführten Beispielen vgl. noch: {#tasmAdyatra kva ca Socati svedate vA puruzastejasa eva tadaDyApo jAyante#} 
+;
+259502 old <ls>M. 1, 99.</ls> Ein Beispiel mit vorangeh. acc. findet man unter {#aDi#} 2, {%a%},
+259502 new <ls>M. 1, 99.</ls> Ein Beispiel mit vorangeh. acc. findet man unter {#aDi#} 2, {%a%}, α 
+;
+259503 old <lang n="greek">α</lang> Entschieden zum Verbum gehört {#aDi#} an der folg. Stelle: {#(tena) aDijajYe - AtmajamUrtirAtmA#} {%wurde erzeugt%} 
+259503 new Entschieden zum Verbum gehört {#aDi#} an der folg. Stelle: {#(tena) aDijajYe - AtmajamUrtirAtmA#} {%wurde erzeugt%} 
+; --------------------------------------------------
+; <L>29807<pc>3-0341<k1>tizya  type=STAR
+;295879 old <ls n="ṚV.">10, 64, 8.</ls> als {%Sternbild das 6te%} <is>Nakṣatra</is> {%nach der alten, das 8te nach der späteren Ordnung, mit%}
+;295879 new <ls n="ṚV.">10, 64, 8.</ls> als {%Sternbild das 6te%} <is>Nakṣatra</is> {%nach der alten, das 8te nach der späteren Ordnung, mit%}
+;
+295880 old <lang n="greek">δ</lang> {%Cancri als Hauptstern.%} 
+295880 new δ {%Cancri als Hauptstern.%} 
+; --------------------------------------------------
+; <L>34581<pc>3-0751<k1>devamAtfka  type=section label
+342210 old {#devamAtfka#}¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> {#A#} {%nur vom Regen%} (vgl. {#deva#} 2, {%d%},
+342210 new {#devamAtfka#}¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> {#A#} {%nur vom Regen%} (vgl. {#deva#} 2, {%d%}, α)
+;
+342211 old <lang n="greek">α</lang>) {%genährt, einzig nur vom Regen befeuchtet%} d. i. {%alles anderen Wassers entbehrend%}, = {#vfzwyambusaMpannavrIhipAlita (deSa)#} 
+342211 new {%genährt, einzig nur vom Regen befeuchtet%} d. i. {%alles anderen Wassers entbehrend%}, = {#vfzwyambusaMpannavrIhipAlita (deSa)#} 
+; --------------------------------------------------
+; <L>47961<pc>4-0929<k1>prajApati  type=STAR
+;475975 old <div n="1">— 9) {%ein best. Stern%},
+;475975 new <div n="1">— 9) {%ein best. Stern%},
+;
+475976 old <lang n="greek">δ</lang> {%Aurigae%} 
+475976 new δ {%Aurigae%} 
+; --------------------------------------------------
+; <L>53378<pc>5-0137<k1>brahman  type=STAR
+;525852 old <div n="1">— 10) N. eines Sterns,
+;525852 new <div n="1">— 10) N. eines Sterns,
+;
+525853 old <lang n="greek">δ</lang> {%aurigae%} 
+525853 new δ {%aurigae%} 
+; --------------------------------------------------
+; <L>57327<pc>5-0526<k1>manu  type=section label
+568907 old <ls>MBH. 13, 991.</ls> es sind dies: <is>Svāyaṃbhuva</is>, <is>Svārociṣa</is>, <is>Auttami</is> (später auch <is>Uttama</is> ge- nannt), <is>Tāmasa</is> (vgl. oben {#tApasa#} u.
+568907 new <ls>MBH. 13, 991.</ls> es sind dies: <is>Svāyaṃbhuva</is>, <is>Svārociṣa</is>, <is>Auttami</is> (später auch <is>Uttama</is> ge- nannt), <is>Tāmasa</is> (vgl. oben {#tApasa#} u. δ), 
+;
+568908 old <lang n="greek">δ</lang>), <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is> (s. oben u.
+568908 new <is>Raivata</is>, <is>Cākṣuṣa</is> und <is>Vaivasvata</is> (s. oben u. β) 
+;
+568909 old <lang n="greek">β</lang>) 
+568909 new 
+; --------------------------------------------------
+; <L>59685<pc>5-0707<k1>mAtra  type=section label
+590729 old <div n="2">— d) {%das volle Maass, nur so viel als das vorangehende Wort besagt%} (vgl. 1, {%b%},
+590729 new <div n="2">— d) {%das volle Maass, nur so viel als das vorangehende Wort besagt%} (vgl. 1, {%b%}, α): 
+;
+590730 old <lang n="greek">α</lang>): {#vANmAtrAmaDura#} {%nur in Worten%} 
+590730 new {#vANmAtrAmaDura#} {%nur in Worten%} 
+; --------------------------------------------------
+; <L>59686<pc>5-0711<k1>mAtraka  type=section label
+590774 old <div n="1">— 2) <lex>n.</lex> = {#mAtra#} 1, {%b%},
+590774 new <div n="1">— 2) <lex>n.</lex> = {#mAtra#} 1, {%b%}, α: 
+;
+590775 old <lang n="greek">α</lang>: {#mantrabrAhmaRamAtrakAt#} {%aus den blossen Hymnen und%} <is>Brāhmaṇa</is> 
+590775 new {#mantrabrAhmaRamAtrakAt#} {%aus den blossen Hymnen und%} <is>Brāhmaṇa</is> 
+;
+590780 old <div n="1">— 3) <lex>n.</lex> = {#mAtra#} 1, {%b%},
+590780 new <div n="1">— 3) <lex>n.</lex> = {#mAtra#} 1, {%b%}, β: 
+;
+590781 old <lang n="greek">β</lang>: {#BikzA syAdgrAsamAtrakam#} <is>Bhikṣā</is> {%bedeutet Bissen überhaupt, - schlechtweg%} 
+590781 new {#BikzA syAdgrAsamAtrakam#} <is>Bhikṣā</is> {%bedeutet Bissen überhaupt, - schlechtweg%} 
+; --------------------------------------------------
+; <L>66038<pc>5-1086<k1>A
+639627 old <div n="3">— γ) {%bis zu, bis exclusive%} (wie unter
+639627 new <div n="3">— γ) {%bis zu, bis exclusive%} (wie unter β) 
+;
+639628 old <lang n="greek">β</lang>) 
+639628 new 
+; --------------------------------------------------
+; <L>77094<pc>5-1545<k1>nigraha  type=section label
+713805 old <div n="2">— d)
+713805 new <div n="2">— d) θ) 
+;
+713806 old <lang n="greek">θ</lang>) 
+713806 new 
+;
+713807 old <ls>MBH. 12, 5454.</ls> —
+713807 new <ls>MBH. 12, 5454.</ls> 
+;
+713808 old <lang n="greek">ι</lang>) {#graha#} 
+713808 new — ι) {#graha#} 
+; --------------------------------------------------
+; <L>83706<pc>6-0290<k1>rasa  type=section label
+770485 old <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>; vgl. oben u. 
+770485 new <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>; 
+770486 old <div n="1"> 1) {%a)%}
+770486 new vgl. oben u. 1) {%a%}) γ). 
+;
+770487 old <lang n="greek">γ</lang>). 
+770487 new 
+;
+770488 old <div n="2">— b) {%Milch%}; s. oben u. 
+770488 new <div n="2">— b) {%Milch%}; 
+;
+770490 old <div n="2"> a)
+770490 new s. oben u. 1) {%a%}) (ζ). 
+;
+770491 old (<lang n="greek">ζ</lang>). 
+770491 new 
+;
+770508 old <ls>UTTARAR. 79, 6</ls> = <ls>102, 3</ls> der neueren Ausg.; so v. a. {#sTira#} nach dem Comm.; vgl. auch oben 
+770508 new <ls>UTTARAR. 79, 6</ls> = <ls>102, 3</ls> der neueren Ausg.; so v. a. {#sTira#} nach dem Comm.; 
+;
+770509 old <div n="1"> 1) 
+770509 new vgl. auch oben  1) b) γ), 
+;
+770510 old <div n="2"> b)
+770510 new 
+;
+770511 old <lang n="greek">γ</lang>), {#kanaka°, kAma°, kzudra°, gaNgADara°#} (lies {%Mixtur%}), st. {%Recept%} {#garBa°, go°, jyotI°#} (Comm. zu 
+770511 new {#kanaka°, kAma°, kzudra°, gaNgADara°#} (lies {%Mixtur%}), st. {%Recept%} {#garBa°, go°, jyotI°#} (Comm. zu 
+; --------------------------------------------------
+; <L>117265<pc>7-1637<k1>hutaBuj  type=STAR
+;1116056 old <div n="1">— 3) Bez. {%eines best. Sterns%},
+;1116056 new <div n="1">— 3) Bez. {%eines best. Sterns%},
+;
+1116057 old <lang n="greek">β</lang> {%Tauri%} 
+1116057 new β {%Tauri%} 
+; --------------------------------------------------
+; <L>118772<pc>7-1709<k1>Apa  type=STAR
+1126805 old 2. {#Apa#}¦ <lex>m.</lex> (Comm.) {%ein best. Stern%},
+1126805 new 2. {#Apa#}¦ <lex>m.</lex> (Comm.) {%ein best. Stern%},
+;
+1126806 old <lang n="greek">δ</lang> {%Virginis%} 
+1126806 new δ {%Virginis%} 
+; =======================================================================
+; from onegreekletter_a.py
+; =======================================================================
+; --------------------------------------------------
+; <L>5225<pc>1-0381<k1>amftavallI  type=section label
+43620 old <div n="v">— Vgl. {#amfta#} 3, {%b%},
+43620 new <div n="v">— Vgl. {#amfta#} 3, {%b%}, γ.
+;
+43621 old <lang n="greek">γ.</lang>
+43621 new 
+; --------------------------------------------------
+; <L>5681<pc>1-0413<k1>arizwaka
+47574 old {#arizwaka#}¦ (von {#arizwa#}) <lex>m.</lex> = {#arizwa#} 2, {%c%},
+47574 new {#arizwaka#}¦ (von {#arizwa#}) <lex>m.</lex> = {#arizwa#} 2, {%c%}, α. 
+;
+47575 old <lang n="greek">α.</lang> 
+47575 new 
+; --------------------------------------------------
+; <L>12766<pc>1-1023<k1>UrRavABi  type=NO CHANGE
+;117105 old <ls>AUFRECHT</ls> (Z. f. vgl. <ls>Spr. 4, 282</ls>) führt den letzten Bestandtheil auf eine Wurzel {#vaB#}, die mit
+;117105 new <ls>AUFRECHT</ls> (Z. f. vgl. <ls>Spr. 4, 282</ls>) führt den letzten Bestandtheil auf eine Wurzel {#vaB#}, die mit
+;
+;117106 old <lang n="greek">ὙΦ</lang> und dem deutschen <ab n="?">WAB</ab> zusammengestellt wird, zurück. Vgl. auch {#OrRavABa#} .
+;117106 new ὙΦ und dem deutschen <ab n="?">WAB</ab> zusammengestellt wird, zurück. Vgl. auch {#OrRavABa#} .
+; --------------------------------------------------
+; <L>17290<pc>2-0292<k1>kila type=section label
+162856 old <ls>PAÑCAT. 89, 4.</ls> Ueber {#kiM kila#} s. u. {#kim#} 
+162856 new <ls>PAÑCAT. 89, 4.</ls> Ueber {#kiM kila#} 
+;
+162857 old <ls>2,c,</ls> <lang n="greek">ζ.</lang> Nach den Lexicographen wird {#kila#} gesetzt: 
+162857 new s. u. {#kim#} 2,c,ζ. Nach den Lexicographen wird {#kila#} gesetzt: 
+; --------------------------------------------------
+; <L>23670<pc>2-0850<k1>graha  type=section label type=section label
+228325 old <ls>ŚAT. BR. 4, 6, 5, 1. 5</ls> wird die {%Sonne%} {#graha#} genannt, aber wohl nicht als {%Planet%}, sondern als {%ein Wesen, welches dämonischen Einfluss auf andere Wesen ausübt%}; vgl.
+228325 new <ls>ŚAT. BR. 4, 6, 5, 1. 5</ls> wird die {%Sonne%} {#graha#} genannt, aber wohl nicht als {%Planet%}, sondern als {%ein Wesen, welches dämonischen Einfluss auf andere Wesen ausübt%}; vgl. β.
+;
+228326 old <lang n="greek">β.</lang> Die {%Planeten%} werden in {%günstige%} (☿ , ♃ , ♀ , ☾), {#SuBagrahAH#} oder {#sadgrahAH#}, und in {%ungünstige%} (♂ , ♄ , ☉ , ☊ , ☋), {#krUragrahAH#} oder {#pApagrahAH#} eingetheilt, 
+228326 new Die {%Planeten%} werden in {%günstige%} (☿ , ♃ , ♀ , ☾), {#SuBagrahAH#} oder {#sadgrahAH#}, und in {%ungünstige%} (♂ , ♄ , ☉ , ☊ , ☋), {#krUragrahAH#} oder {#pApagrahAH#} eingetheilt, 
+; --------------------------------------------------
+; <L>23677<pc>2-0853<k1>grahaRAnta  type=section label
+228575 old {#grahaRAnta#}¦ und {#grahaRAntika#} s. u. {#grahaRa#} 
+228575 new {#grahaRAnta#}¦ und {#grahaRAntika#} s. u. {#grahaRa#} 3, ξ.
+;
+228576 old <ls>3,</ls> <lang n="greek">ξ.</lang>
+228576 new 
+; --------------------------------------------------
+; <L>23727<pc>2-0856<k1>grahya   type=section label
+228883 old {#gra/hya#}¦ <lex>adj.</lex> {%zum%} <is>Graha</is> (in der Bed. 2, {%b%},
+228883 new {#gra/hya#}¦ <lex>adj.</lex> {%zum%} <is>Graha</is> (in der Bed. 2, {%b%}, β) 
+;
+228884 old <lang n="greek">β)</lang> {%gehörig, geeignet%}: {#a\smA\ko^ 'si Su\kraste\ grahya^H#} 
+228884 new {%gehörig, geeignet%}: {#a\smA\ko^ 'si Su\kraste\ grahya^H#} 
+; --------------------------------------------------
+; <L>25410<pc>2-1015<k1>citra type=section label
+247760 old <ls>RĀJAN.</ls> - <ls>SUŚR. 1, 144, 14. 2, 21, 15. 23, 2</ls>, wahrscheinlich in der Bed.
+247760 new <ls>RĀJAN.</ls> - <ls>SUŚR. 1, 144, 14. 2, 21, 15. 23, 2</ls>, wahrscheinlich in der Bed. β. 
+;
+247761 old <lang n="greek">β.</lang> 
+247761 new 
+; --------------------------------------------------
+; <L>28822<pc>3-0252<k1>tamas type=section label
+285544 old <div n="1">— 4) {%Finsterniss, Irrthum, Unwissenheit%} als eine der drei Grundeigenschaften alles Seienden (s. {#guRa#} 1, {%g%},
+285544 new <div n="1">— 4) {%Finsterniss, Irrthum, Unwissenheit%} als eine der drei Grundeigenschaften alles Seienden (s. {#guRa#} 1, {%g%}, β)
+;
+285545 old <lang n="greek">β)</lang> 
+285545 new  
+; --------------------------------------------------
+; <L>29299<pc>3-0301<k1>tAmradvIpa  type=section label
+291228 old <ls>2,b,</ls>
+291228 new 2,b,β.
+;
+291229 old <lang n="greek">β.</lang>
+291229 new 
+; --------------------------------------------------
+; <L>29909<pc>3-0350<k1>tu  type=section label
+297054 old <ls>M. 2, 22.</ls> {#tu vAva#} s. u. {#tvAva#}.{# kAmam (kAmaM tu) - tu, na tu#} s. u. {#kAmam#} 
+297054 new <ls>M. 2, 22.</ls> {#tu vAva#} s. u. {#tvAva#}.{# kAmam (kAmaM tu) - tu, na tu#} s. u. {#kAmam#} 2; 
+;
+297055 old <ls>2</ls>; {#kiM tu#} s. u. {#kim#} 2,
+297055 new {#kiM tu#} s. u. {#kim#} 2,λ; 
+;
+297056 old <lang n="greek">λ;</lang> {#api tu#} (s. u. {#api#} 14) {%wohl aber, sondern%} 
+297056 new {#api tu#} (s. u. {#api#} 14) {%wohl aber, sondern%} 
+; --------------------------------------------------
+; <L>36924<pc>3-0984<k1>DUmrorRA  type=section label
+367109 old {#DUmrorRA#}¦ ({#DUmra + UrRA#}) <lex>f.</lex> wohl = {#DUmorRA#}; s. u. 1. {#DArin#} 3, {%c%},
+367109 new {#DUmrorRA#}¦ ({#DUmra + UrRA#}) <lex>f.</lex> wohl = {#DUmorRA#}; s. u. 1. {#DArin#} 3, {%c%}, β.
+;
+367110 old <lang n="greek">β.</lang>
+367110 new 
+; --------------------------------------------------
+; <L>41378<pc>4-0360<k1>paYcajana type=section label
+410606 old <div n="1"> 1) <lex>m.</lex> pl. oxyt. {%die fünf Stämme, - Geschlechter%} (vgl. {#jana#} 1, {%a%},
+410606 new <div n="1"> 1) <lex>m.</lex> pl. oxyt. {%die fünf Stämme, - Geschlechter%} (vgl. {#jana#} 1, {%a%}, α) 
+;
+410607 old <lang n="greek">α)</lang> 
+410607 new 
+; --------------------------------------------------
+; <L>42634<pc>4-0509<k1>pari  type=section label
+425905 old <ls>Sch.</ls> Vgl. u. 2,b,
+425905 new <ls>Sch.</ls> Vgl. u. 2,b,β. 
+;
+425906 old <lang n="greek">β.</lang> 
+425906 new 
+; --------------------------------------------------
+; <L>45851<pc>4-0768<k1>punar  type=section label
+456503 old <ls>AK. 3, 5, 15</ls> ist {#punar = evam#} u. s. w. ({#avaDAraRavAcaka#}).{# kiM punar#} s. u. {#kim#} 2. c.
+456503 new <ls>AK. 3, 5, 15</ls> ist {#punar = evam#} u. s. w. ({#avaDAraRavAcaka#}).{# kiM punar#} s. u. {#kim#} 2,c,ν. 
+;
+456504 old <lang n="greek">ν.</lang> 
+456504 new 
+; --------------------------------------------------
+; <L>47817<pc>4-0916<k1>pragraha  type=section label
+474315 old <ls>SUŚR. 1, 281, 9. 2, 231, 15.</ls> {%das Packen der Sonne und des Mondes, der Anfang einer Finsterniss%} (vgl. {#pragrahaRa#}) 
+474315 new <ls>SUŚR. 1, 281, 9. 2, 231, 15.</ls> {%das Packen der Sonne und des Mondes, der Anfang einer Finsterniss%} (vgl. {#pragrahaRa#}) 
+;
+474316 old <ls>SŪRYAS. 4, 14</ls>; vgl. {#graha#} 2,c,<lang n="greek">α.</lang> {#pragrahaM gataH#} {%gepackt, ergriffen, eingefangen%}: {#nahi me mucyate kaScitkaTaMcitpragrahaM gataH . gajo vA mahizo vApi#} 
+474316 new <ls>SŪRYAS. 4, 14</ls>; vgl. {#graha#} 2,c,α. {#pragrahaM gataH#} {%gepackt, ergriffen, eingefangen%}: {#nahi me mucyate kaScitkaTaMcitpragrahaM gataH . gajo vA mahizo vApi#} 
+; --------------------------------------------------
+; <L>51914<pc>5-0033<k1>baladeva  type=section label
+513109 old <div n="2">— b) N. pr. des altern Bruders des <is>Kṛṣṇa</is> (vgl. 2. {#bala#} 2, {%c%},
+513109 new <div n="2">— b) N. pr. des altern Bruders des <is>Kṛṣṇa</is> (vgl. 2. {#bala#} 2, {%c%},α) 
+;
+513110 old <lang n="greek">α)</lang> 
+513110 new 
+; --------------------------------------------------
+; <L>57708<pc>5-0559<k1>manvantara  type=section label
+572641 old <div n="1"> 1) <lex>n.</lex> {%eine%} <is>Manu</is>-{%Periode, ein Zeitraum von 71 göttlichen%} <is>Yuga</is>, {%dem ein besonderer%} <is>Manu</is> {%mit seinen Göttern und seinen sieben Weisen vorsteht.%} Sechs solcher <is>Manvantara</is> sind verflossen, im gegenwärtigen 7ten herrscht <is>Manu</is> <is>Vaivasvata</is> und sieben fernere <is>Manu</is> werden für die nächstfolgenden sieben <is>Manvantara</is> mit Namen aufgeführt; vgl. u. {#manu#} 1, {%b%},
+572641 new <div n="1"> 1) <lex>n.</lex> {%eine%} <is>Manu</is>-{%Periode, ein Zeitraum von 71 göttlichen%} <is>Yuga</is>, {%dem ein besonderer%} <is>Manu</is> {%mit seinen Göttern und seinen sieben Weisen vorsteht.%} Sechs solcher <is>Manvantara</is> sind verflossen, im gegenwärtigen 7ten herrscht <is>Manu</is> <is>Vaivasvata</is> und sieben fernere <is>Manu</is> werden für die nächstfolgenden sieben <is>Manvantara</is> mit Namen aufgeführt; 
+;
+572642 old <lang n="greek">ζ.</lang> Vierzehn <is>Manvantara</is> bilden erst einen Tag <is>Brahman's</is>. 
+572642 new vgl. u. {#manu#} 1, {%b%}, ζ. Vierzehn <is>Manvantara</is> bilden erst einen Tag <is>Brahman's</is>. 
+; --------------------------------------------------
+; <L>76866<pc>5-1537<k1>nalina type=section label
+712403 old <div n="1"> 2) 
+712403 new <div n="1"> 2) f) vgl. {#nIlI#} unter {#nIla#} 3) b) ε) und {#nIlinI#} 3). 
+;
+712404 old <div n="2"> f) vgl. {#nIlI#} unter {#nIla#} 
+712404 new 
+;
+712405 old <div n="1"> 3) 
+712405 new 
+;
+712406 old <div n="2"> b)
+712406 new 
+;
+712407 old <lang n="greek">ε)</lang> und {#nIlinI#} 3). 
+712407 new 
+; --------------------------------------------------
+; <L>77603<pc>5-1563<k1>nIla  type=section label
+717050 old <div n="1">— 3) 
+717050 new <div n="1">— 3) a) η) 
+;
+717051 old <div n="2"> a)
+717051 new 
+;
+717052 old <lang n="greek">η)</lang> N. pr. einer Göttin 
+717052 new N. pr. einer Göttin 
+; --------------------------------------------------
+; <L>78085<pc>5-1583<k1>paras type=section label
+720262 old <div n="1"> 2) 
+720262 new <div n="1"> 2) c) β) 
+;
+720263 old <div n="2"> c)
+720263 new 
+;
+720264 old <lang n="greek">β)</lang> {#kabanDeByaH paro#} (so ist zu trennen) {#nftyaM na vyaDatta#} 
+720264 new {#kabanDeByaH paro#} (so ist zu trennen) {#nftyaM na vyaDatta#} 
+; --------------------------------------------------
+; <L>81468<pc>6-0055<k1>yadi  type=section label
+743949 old <ls>7,b,</ls>
+743949 new 7,b,β) 
+;
+743950 old <lang n="greek">β)</lang> 
+743950 new 
+; --------------------------------------------------
+; <L>110252<pc>7-1058<k1>sudarSinI  type=section label
+;1043289 old <ls>R. GORR. 2, 52, 34.</ls>
+;1043289 new <ls>R. GORR. 2, 52, 34.</ls>
+;
+1043290 old {#sudarSinI#}¦ <lex>f.</lex> = {#sudarSana#} 3)e)<lang n="greek">γ)</lang> 
+1043290 new {#sudarSinI#}¦ <lex>f.</lex> = {#sudarSana#} 3)e)γ) 
+; --------------------------------------------------
+; <L>112150<pc>7-1161<k1>sUtaputraka type=section label
+;1058480 old <ls>TRIK. 2, 8, 19.</ls>
+;1058480 new <ls>TRIK. 2, 8, 19.</ls>
+;
+1058481 old {#sUtaputraka#}¦ <lex>m.</lex> = {#sUtaputra#} 1) b)<lang n="greek">α)</lang> 
+1058481 new {#sUtaputraka#}¦ <lex>m.</lex> = {#sUtaputra#} 1) b) α) 
