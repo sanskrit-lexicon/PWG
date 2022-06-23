@@ -16,3 +16,6 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * rv1  Further improvement of Rg Veda ls markup
 * av  Improvement of AV Veda ls markup
 * p   Improvement of Panini ls markup
+* ramayana0 coordination of pwg refs to Goressio and Schlegel pdfs
+* rgorr Ramayana Goressio markup improvement 'R. GORR.'
+
