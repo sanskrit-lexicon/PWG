@@ -1,12 +1,12 @@
-714437	ALL	As of 2022-06-22
-32387	NUMBER	ls starts with number
-02161	UNKNOWN	ls is unknown
-66824	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+717756	ALL	As of 2022-06-24
+32357	NUMBER	ls starts with number
+02103	UNKNOWN	ls is unknown
+66821	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 55640	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
-37595	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
-24914	P.	PĀṆINI'S acht Bücher grammatischer Regel
+37642	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
+24912	P.	PĀṆINI'S acht Bücher grammatischer Regel
 20121	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
-19039	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
+19044	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
 16150	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
 16031	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 15636	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
@@ -14,17 +14,17 @@
 14467	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
 12976	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
 12498	Verz. d. Oxf. H.	? 
-12393	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
+12391	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
 10603	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
 09776	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 09688	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
 09373	Spr.	Indische Sprüche. Sanskrit und deutsch h
 08361	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
 07990	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-07734	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+07617	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
 07310	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
-07119	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
-07076	R. GORR.	RĀMĀYAṆA, translation by Gaspare Gorresi
+07108	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
+07076	R. GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 
 07068	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
 06882	Sch.	Scholiast.
 06648	RĀJAN.	RĀJANIRGHAṆṬA, ein medicinisches Wörterb
@@ -41,13 +41,14 @@
 03625	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
 03543	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
 03519	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
-03287	GORR.	GORRESIO.
+03287	GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 [
 03128	ŚABDAR.	ŚABDARATNĀVALĪ, ein Wörterbuch; nach Anf
 03049	Schol.	Scholiast.
 03034	NIR.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVA'S h
 02984	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
 02979	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
 02783	TBR.	TAITTIRĪYABRĀHMAṆA.
+02678	ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 OR&#13
 02463	KUMĀRAS.	KUMĀRASAM̃BHAVA, ed. STENZLER (GILD. Bib
 02432	PRAB.	PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.
 02360	DHĀTUP.	DHĀTUPĀṬHA in WESTERGAARD'S Radices (GIL
@@ -68,7 +69,7 @@
 01786	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
 01763	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
 01735	ĀŚV. ŚR.	ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya
-01713	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
+01711	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
 01674	PAÑCAV. BR.	PAÑCAVIṂŚABRĀHMAṆA.
 01664	ṚV. PRĀT.	PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach Paṭa
 01633	VYUTP.	VYUTPATTI oder MAHĀVYUTPATTI (s. Mél. as
@@ -102,7 +103,6 @@
 00806	WEBER, RĀMAT. UP.	? 
 00804	Z. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
 00803	ṚT.	ṚTUSAM̃HĀRA, ed. BOHLEN (GILD. Bibl. 155
-00797	LALIT.	RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou Dé
 00786	GOBH.	GOBHILA'S GṚHYASŪTRA; nach Mittheilungen
 00783	ŚABDAM.	ŚABDAMĀLĀ, ein Wörterbuch; nach Anführun
 00773	WILSON.	? 
@@ -114,6 +114,7 @@
 00735	ŚĀṄKH. GṚHY.	ŚĀṄKHĀYANA'S GṚHYASŪTRĀṆI.
 00734	Uṇ.	Die Uṇādi-Affixe. Herausgegeben und mit 
 00728	KAP.	KAPILA (The Aphorisms of the Sánkhya Phi
+00718	ed. Calc.	Calcutta edition of various works [Colog
 00717	VET. in LA.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
 00712	BṚH. ĀR. UP.	BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe v
 00707	ŚABDĀRTHAK.	?  
@@ -140,6 +141,7 @@
 00496	AMAR.	AMARUŚATAKA nach der Calc. Ausg. (GILD. 
 00496	ŚATR.	ŚATRUM̃JAYAMĀHĀTMYA, nach den von A. WEB
 00485	ARJ.	ARJUNASAMĀGAMA, ed. BOPP (GILD. Bibl. 10
+00477	LALIT. ed. Calc.	LALITAVISTARA in der Bibliotheca indica.
 00476	KAṬHOP.	KAṬHOPANIṢAD in der Bibliotheca indica.
 00461	BṚH.	?  
 00457	VEDĀNTAS. (Allah.)	A Lecture on the Vedánta, embracing the 
@@ -173,12 +175,12 @@
 00331	VĀLAKH.	VĀLAKHILYA, die zwischen ṚV. 8, 48 und 4
 00330	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens Jy
 00329	COLEBR. Alg.	Algebra, with Arithmetic and Mensuration
-00328	SCHL.	?  
-00326	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
+00328	SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838  
+00327	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
 00324	SCHIEFNER, Lebensb.	? 
 00324	VĀSAVAD.	?  
+00323	LALIT.	RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou Dé
 00312	ŚUK.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
-00310	R. ed. Bomb.	RĀMĀYAṆA. ? [Cologne addition]
 00309	KUSUM.	?  
 00309	WEBER, KṚṢṆAJ.	?  
 00306	MUIR, ST.	MUIR, Sanskr. Texts ?
@@ -193,6 +195,7 @@
 00277	SUND.	SUNDOPASUNDOPĀKHYĀNA, ed. BOPP (GILD. Bi
 00277	UṆĀDIK.	UṆĀDIKOṢA, nach Anführungen im ŚKDR.
 00273	SV.	SĀMAVEDA. Die Hymnen des SĀMA-VEDA, hera
+00272	R. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Colog
 00270	MIT.	MITĀKṢARĀ, ed. Calc. 1829 (GILD. Bibl. 3
 00266	VAIJ.	VAIJAYANTĪ, ein Wörterbuch. Excerpte dar
 00260	ŚĀK. CH.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
@@ -215,7 +218,7 @@
 00212	ŚĀNT.	ŚĀNTANĀCĀRYA'S PHIṬSŪTRĀṆI in BÖHTLINGK,
 00211	HIT. Pr.	Prooemium im HIT.
 00211	YOGAS.	YOGASŪTRA (The Aphorisms of the Yoga Phi
-00210	R. SCHL.	RĀMĀYAṆA. ? [Cologne addition]
+00210	R. SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838 [
 00210	HIOUEN-THSANG I	Mémoires sur les contrées occidentales, 
 00209	VYĀḌI	?  
 00206	KUVALAY.	KUVALAYĀNANDA (Rhetorik) von APYADĪKṢITA
@@ -269,6 +272,7 @@
 00119	NĀṬYAŚ.	NĀṬYAŚĀSTRA ?  
 00119	VIŚVA.	?  
 00119	STENZLER	?  
+00117	RAGH. ed. Calc	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
 00115	DURGA	?  
 00113	As. Res.	Asiatick Researches; or, transactions of
 00106	BĀLAB.	BĀLABODHANĪ in WINDISCHMANN'S Sancara (G
@@ -285,11 +289,11 @@
 00092	RĀJAV.	RĀJAVALLABHA, nach Anführungen im ŚKDR.
 00088	AṢṬĀV.	? 
 00087	Verz. d. Tüb. H.	? 
-00084	ST.	STENZLER.
 00084	VṚDDHA-CĀṆ.	VṚDDHACĀṆAKYA ? 
 00082	GAṆIT.	GAṆITĀDHYĀYA?  
 00082	ROTH	?  
 00081	RATNĀV.	RATNĀVALĪ, ed. Calc. (GILD. Bibl. 214).
+00081	ST.	STENZLER.
 00081	PRĀYAŚCITTEND.	?  
 00081	N. (BOPP)	? 
 00079	HAUGHTON	A Dictionary Bengali and Sanskrit, expla
@@ -361,7 +365,6 @@
 00042	LIṄGA-P.	LIṄGAPURĀṆA.
 00042	BṚHADD.	?  
 00041	AJAYAPĀLA	?  
-00041	KĀD.	?  
 00040	VYAVAHĀRAT.	VYAVAHĀRATATTVA, ed. Calc. (GILD. Bibl. 
 00040	UṆ.	?  
 00039	Mél. asiat.	Mélanges asiatiques tirés du Bulletin hi
@@ -376,6 +379,7 @@
 00037	MAHĀVĪRAC.	?  
 00037	PRASAṄGĀBH.	?  
 00037	NĀGĀN.	?  
+00037	KĀD.	?  
 00036	GOLD. MĀN.	MĀNAVA-KALPA-SŪTRA; being a portion of t
 00036	ŚĀṆḌ.	bhakti-sūtra, by śāṇḍilya  
 00036	MAD.	?  
@@ -519,7 +523,6 @@
 00014	ŚABDĀRṆ.	ŚABDĀRṆAVA, ein Wörterbuch; nach Anführu
 00014	PUR.	PURĀṆA.
 00014	SAṂGĪTAD.	SAM̃GĪTADĀMODARA (über Musik), nach Anfü
-00014	v. l.	varia lectio.
 00014	RĀMAT. UP.	? 
 00014	KATHOP.	?  
 00014	KṚṢISAM̃GR.	?  
@@ -537,6 +540,7 @@
 00014	MATHUREŚA	?  
 00013	KĀṬH. ANUKR.	ANUKRAMAṆIKĀ des  ? [Cologne addition]
 00013	BRAHMAV. P.	BRAHMAVAIVARTAPURĀṆA.
+00013	v. l.	varia lectio.
 00013	BHĀR. NĀṬYAŚ.	? 
 00013	DAŚABHŪM.	?  
 00013	STENZLER.	?  
@@ -583,6 +587,7 @@
 00012	WEBER, PRATIJÑĀS.	? 
 00011	ĀRUṆ. UP.	ĀRUṆIKOPANIṢAD.
 00011	BENF. Gr.	BENFEY, Vollständige Grammatik der Sansk
+00011	RĀJA-TAR. ed. Calc.	RĀJATARAṄGIṆĪ,  Calc. Ausg. (GILD. Bibl.
 00011	RASAM.	RASAMAÑJARĪ (s. Verz. d. B. H. {%N;%} 59
 00011	VARĀH. L. JĀT.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
 00011	BAUDH.	BAUDHĀYANA.
@@ -912,6 +917,7 @@
 00004	YAJURVEDA	?  
 00004	JOHNS. Sel.	?  
 00004	MĀDHAVA.	?  
+00004	KĀD. (ed. Calc. 1862)	KĀD.(?), Calcutta edition  
 00004	MĀDHAVAKARA	?  
 00004	UṆADIVṚ.	?  
 00004	KALPA	?  
@@ -1211,8 +1217,11 @@
 00002	KULLŪKA	KULLŪKA, ein Scholiast des MANU, vollstä
 00002	KUNT.	KUNTĀPA, zehn Lieder, welche einen beson
 00002	WEBER. Lit.	Akademische Vorlesungen über Indische Li
+00002	M. ed. Calc.	MANU'S Gesetzbuch, Calcutta edition 
 00002	MAHOP.	MAHOPANIṢAD.
 00002	MĀṆD. UP.	MĀṆḌŪKYOPANIṢAD in der Bibliotheca indic
+00002	MBH. ed. Calc.	MAHĀBHĀRATA, Calcutta edition 
+00002	MṚCCH. ed. Calc.	MṚCCHAKAṬIKĀ, Calcutta edition [Cologne 
 00002	PRABODHACANDRODAYA	PRABODHACANDRODAYA ? {Cologne Addition]
 00002	SARVOP. S.	SARVOPANIṢATSĀRA.
 00002	BENFEY, SV.	SĀMAVEDA. Die Hymnen des SĀMA-VEDA, hera
@@ -1523,6 +1532,7 @@
 00001	VEDA-P.	VEDAPURĀṆA.
 00001	Verz. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
 00001	B. H.	WEBER'S Verzeichniss der Berliner Sanskr
+00001	VOP. (ed. Calc.)	VOPADEVA'S Grammatik, Calcutta edition 
 00001	WIND. SANCARA	FRID. H. H. WINDISCHMANNI Sancara sive d
 00001	WINDISCHMANN, Sanc.	FRID. H. H. WINDISCHMANNI Sancara sive d
 00001	Zeitschr. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
@@ -1775,7 +1785,7 @@
 00001	Ind. Lit.	? 
 00001	CHĀND. BR.	? 
 00001	MAHĀNĀH. UP.	? 
-00001	RĀM. ed. Bomb.	? 
+00001	RĀM. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Colog
 00001	ABHIDHĀNOTTARA	?  
 00001	MALAYAGIRI	?  
 00001	UTPATTITANTRA	?  
@@ -2193,7 +2203,6 @@
 00001	KLAPROTH	?  
 00001	CAKR.	?  
 00001	JAGADDH.	?  
-00001	VOP	?  
 00001	YOGIYĀJÑAVALKYA	?  
 00001	GOVINDARĀJA	?  
 00001	KALĀPAVYĀKARAṆA.	?  

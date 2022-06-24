@@ -106,7 +106,12 @@ class Tooltip(object):
  def __init__(self,line):
   line = line.rstrip('\r\n')
   # pwg has code, abbrevUpper, abbrevLower,tip
-  self.code,self.abbrev,self.abbrevlo,self.tip = line.split('\t')
+  try:
+   self.code,self.abbrev,self.abbrevlo,self.tip = line.split('\t')
+  except:
+   print('Tooltip error:\n%s' %line)
+   parts=line.split('\t')
+   exit(1)
   self.total = 0
   
 def init_tooltip(filein):
@@ -193,6 +198,9 @@ def count_tips(lines,tipd,numbertip,unknowntip):
    # found a match
    
    tip.total = tip.total + 1
+   if False: # debug
+    if iline == 21943:
+     print("DBG: ",tip.abbrev)
    #lscase = LSCase(elt,abbrev,metaline,iline,line)
    #entry.append(lscase)
  
