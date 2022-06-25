@@ -835,7 +835,7 @@ sh generate_dict.sh pwg  ../../pwg
 sh xmlchk_xampp.sh pwg
  #prints 'ok'
 
-*******************************************************************************************
+***************************************************************************
 # markup for 'ed. Calc.'
 cp temp_pwg_4.txt temp_pwg_5.txt
 # manual changes from temp_pwg_4.txt
@@ -904,3 +904,45 @@ sh xmlchk_xampp.sh pwg
 # redo the summary
 cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt temp_pwgbib_input.txt
 python ../mbh1/lsextract_all.py temp_pwg_5.txt temp_pwgbib_input.txt lsextract_pwg.txt
+********************************************************************
+temp_pwg_6, change_6.
+Misc. corrections from
+ https://github.com/sanskrit-lexicon/PWG/issues/57
+;
+1. "<ls> "  14 instances. corrected variously.
+2. prAjApatya problem previously corrected
+3. aByudyAtA  problem previously corrected.
+4. " >" one instance found and corrected. (hw. vedas)
+5. <ls n="?">  3 instances corrected.
+6. untagged 'R. ed. Ser.'  corrected
+7. <ls n="R. SCHL. 2,">1, 26, 1.</ls>  corrected.
+8. "R. ed. Bomb " -> "R. ed. Bomb. " (32)
+9. 'R. ed. Bomb"' -> 'R. ed. Bomb."' (13)
+10. <ls n="R. GORR.">7, x, y, z.</ls> -> <ls n="R. ed. Bomb.">7, x, y, z.</ls>
+ 8 instances
+<ls n="R. GORR.">7, 23, 5, 8.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 59, 1, 21.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 59, 1, 22.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 23, 4, 18.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 23, 5, 61.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 23, 1, 14.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 59, 3, 26.</ls>  (ABNORMAL)
+<ls n="R. GORR.">7, 23, 4, 32.</ls>  (ABNORMAL)
+
+python diff_to_changes.py temp_pwg_5.txt temp_pwg_6.txt change_6.txt
+417 changes written to change_6.txt
+
+; ------------------------------------------------------------------
+# install temp_pwg_6.txt and check xml
+cp temp_pwg_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+ #prints 'ok'
+
+# redo the summary
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt temp_pwgbib_input.txt
+python ../mbh1/lsextract_all.py temp_pwg_5.txt temp_pwgbib_input.txt lsextract_pwg.txt
+sh redo_lsextract_v1.sh
+grep 'ABNORMAL' lsextract_v1_*.txt > lsextract_abnormal.txt

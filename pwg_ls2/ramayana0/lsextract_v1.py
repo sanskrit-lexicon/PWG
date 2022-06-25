@@ -212,6 +212,11 @@ def get_norm_3_regexes(abbrev):
   rawregexes.append(r'^<ls>R\. ed\. GORR\.')
   rawregexes.append(r'^<ls n="R\. ed\. GORR\."')
   rawregexes.append(r'^<ls n="%s">7, [0-9]+, [0-9]+, [0-9]+\.?</ls>$' % abbrev)
+  rawregexes.append(r'^<ls n="R. 7,">[0-9]+, [0-9]+, [0-9]+\.?</ls>$')
+  rawregexes.append(r'^<ls n="R. 7, [0-9]+,">[0-9]+, [0-9]+\.?</ls>$')
+  rawregexes.append(r'^<ls n="R. 7, [0-9]+, [0-9]+,">[0-9]+\.?</ls>$')
+  rawregexes.append(r'^<ls>R\. 7, [0-9]+, [0-9]+, [0-9]+\.? fgg?\.</ls>$')
+  
  regexes = [re.compile(regex) for regex in rawregexes]
  #print(rawregexes[0])
  #exit(1)

@@ -1,9 +1,9 @@
-717756	ALL	As of 2022-06-24
+717756	ALL	As of 2022-06-25
 32357	NUMBER	ls starts with number
 02103	UNKNOWN	ls is unknown
 66821	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 55640	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
-37642	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
+37638	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
 24912	P.	PĀṆINI'S acht Bücher grammatischer Regel
 20121	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
 19044	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
@@ -903,6 +903,7 @@
 00004	Journ. as.	Journal asiatique.
 00004	NĪTIPR.	NĪTIPRADĪPA in HAEB. Chr. S. 526--528.
 00004	PAÑCAV.	PAÑCAVIṂŚABRĀHMAṆA ? [Cologne addition]
+00004	R. ed. Ser.	Serampore ed. of Rāmāyaṇa [Cologne addit
 00004	UTT. RĀMAC.	UTTARA-RĀMACARITRA, ed. Calc. (GILD. Bib
 00004	VĪRAM.	VĪRAMITRODAYA.
 00004	AIT. ĀR.	AITAREYĀRAṆYAKA; nach Mittheilungen von 
