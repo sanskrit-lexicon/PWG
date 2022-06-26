@@ -946,3 +946,31 @@ cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbi
 python ../mbh1/lsextract_all.py temp_pwg_5.txt temp_pwgbib_input.txt lsextract_pwg.txt
 sh redo_lsextract_v1.sh
 grep 'ABNORMAL' lsextract_v1_*.txt > lsextract_abnormal.txt
+********************************************************************
+cp temp_pwg_6.txt temp_pwg_7.txt
+touch change_7.txt
+Suggestions by Andhrabharati
+ at https://github.com/sanskrit-lexicon/PWG/issues/57#issuecomment-1166420289
+In Emacs syntax, do the regex replacement:
+<ls>\([^<]*[.]\)\([0-9]\) → <ls>\1 \2
+This must be done several times to get all the cases;
+Roughly 5500 occurrences changed
+
+After this, there are only 11 cases "\.[0-9]" (period followed by digit,
+  not necessarily in <ls>X</ls>
+  A couple of these changed as deemed appropriate.
+Now the only "\.[0-9]" instances are in cases like <L>12345.6, which are ok.
+
+Did not replace ",D" by ", D" (D a digit).  May do this later on.
+
+python diff_to_changes.py temp_pwg_6.txt temp_pwg_7.txt change_7.txt
+3756 lines changed.
+
+# install
+cp temp_pwg_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+#ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/ramayana0/
