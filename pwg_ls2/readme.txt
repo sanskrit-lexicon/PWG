@@ -18,4 +18,4 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * p   Improvement of Panini ls markup
 * ramayana0 coordination of pwg refs to Goressio and Schlegel pdfs
 * rgorr Ramayana Goressio markup improvement 'R. GORR.'
-
+* ak amarakosha markup improvement 'AK.'. 
