@@ -783,9 +783,36 @@ python lsextract_all.py temp_pwg_1.txt temp_bib.txt lsextract_pwg_1.txt
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
+https://archive.org/details/amarakochaouvoca01amaruoft/
+LOISELEUR DESLONGCHAMPS
+ This may be the 'nach der Ausgabe von COLEBROOKE und LOISELEUR' mentioned
+ as the source for 'AK.'
+VOCABULAIRE D'AMARASINHA, A. LOISELEUR DESLONGCHAMPS,
+ PREMIERE PARTIE,
+ M DCCC XXXIX (1839)
 
+ak_index_ld.txt  like ak_index.txt, but for the LD version.
+python ak_index_verses.py ak_index_ld.txt ak_index_ld_verses_set.py
 
+# cp ak_verse_list.py ak_verse_ld_list.py
+# ak_verse_ld uses ak_index_ld_verses_set.py
+python ak_verse_ld_list.py temp_pwg_1.txt ak_verse_ld_list.txt
 
+511 matches for "^-" in buffer: ak_verse_list.txt
+306 matches for "^-" in buffer: ak_verse_ld_list.txt
 
+This comparison provides support for contention that
+the LD version should be preferred as a link target.
+However, there are still 306 PWG references which
+do not correspond to a verse in LD.
 
+The next comparison is puzzling:
+263 matches for "\+ (3, 4," in buffer: ak_verse_list.txt
+262 matches for "\+ (3, 4," in buffer: ak_verse_ld_list.txt
+
+442 matches for "\- (3, 4," in buffer: ak_verse_list.txt
+234 matches for "\- (3, 4," in buffer: ak_verse_ld_list.txt
+This shows that about 200 additional (3, 4, ...) of PWG are
+ recognized by LD version.
+ 
 *****************************************************

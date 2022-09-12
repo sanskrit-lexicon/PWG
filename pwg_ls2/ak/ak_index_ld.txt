@@ -1,0 +1,86 @@
+; This is taken from Loiseleur Deslongchamps LD
+; https://archive.org/details/amarakochaouvoca01amaruoft/
+; This is made in the same format as ak_index.txt, although
+; there is no section in the LD book of 1838.
+; file has a regular structure, with 2 kinds of entries.
+; lines beginning with semi-colon are comments ignored
+; by processing programs.
+; first 3 characters are (beginning) page number
+003 Book 1. Chapter 1. Sect. 1 1-67
+014 Book 1. Chapter 1. Sect. 2 1-37
+022 Book 1. Chapter 1. Sect. 3 1-22
+028 Book 1. Chapter 1. Sect. 4 1-26
+034 Book 1. Chapter 1. Sect. 5 1-22
+040 Book 1. Chapter 1. Sect. 6 1-4
+041 Book 1. Chapter 1. Sect. 7 1-38
+051 Book 1. Chapter 2. Sect. 1 1-11
+054 Book 1. Chapter 2. Sect. 2 1-4
+055 Book 1. Chapter 2. Sect. 3 1-44
+067 Book 2. Chapter 1. 1-18
+071 Book 2. Chapter 2. 1-20
+077 Book 2. Chapter 3. 1-8
+079 Book 2. Chapter 4. Sect. 1 1-20 
+084 Book 2. Chapter 4. Sect. 2 1-62
+097 Book 2. Chapter 4. Sect. 3 1-31
+103 Book 2. Chapter 4. Sect. 4 1-22
+; above has 1-23 in COL
+108 Book 2. Chapter 4. Sect. 5 1-35
+116 Book 2. Chapter 5. 1-43
+125 Book 2. Chapter 6. Sect. 1 1-49
+137 Book 2. Chapter 6. Sect. 2 1-50
+149 Book 2. Chapter 6. Sect. 3 1-41
+159 Book 2. Chapter 7. 1-57
+174 Book 2. Chapter 8. Sect. 1 1-32
+182 Book 2. Chapter 8. Sect. 2 1-88
+202 Book 2. Chapter 9. 1-112
+228 Book 2. Chapter 10. 1-47
+240 Book 3. Chapter 1. 1-51
+251 Book 3. Chapter 2. 1-62
+264 Book 3. Chapter 3. 1-43
+277 Book 3. Chapter 4. Sect. 1 1-18
+; LIV. IV, CHAP. IV, SECT. 1.  (should be LIV. III ?)
+282 Book 3. Chapter 4. Sect. 2 19-20
+; ? is previous 19-19 or 19-20?
+283 Book 3. Chapter 4. Sect. 3 20-27
+285 Book 3. Chapter 4. Sect. 4 28-28
+285 Book 3. Chapter 4. Sect. 5 29-30
+286 Book 3. Chapter 4. Sect. 6 31-31
+286 Book 3. Chapter 4. Sect. 7 32-34
+287 Book 3. Chapter 4. Sect. 8 35-35
+288 Book 3. Chapter 4. Sect. 9 36-41
+290 Book 3. Chapter 4. Sect. 10 42-43
+290 Book 3. Chapter 4. Sect. 11 44-46
+291 Book 3. Chapter 4. Sect. 12 47-47
+292 Book 3. Chapter 4. Sect. 13 48-59
+295 Book 3. Chapter 4. Sect. 14 60-87
+303 Book 3. Chapter 4. Sect. 15 88-90
+304 Book 3. Chapter 4. Sect. 16 91-97
+306 Book 3. Chapter 4. Sect. 17 98-106
+308 Book 3. Chapter 4. Sect. 18 107-130
+315 Book 3. Chapter 4. Sect. 19 131-134
+316 Book 3. Chapter 4. Sect. 20 134-134
+; section 20 is empty
+316 Book 3. Chapter 4. Sect. 21 135-136
+316 Book 3. Chapter 4. Sect. 22 137-139
+318 Book 3. Chapter 4. Sect. 23 140-146
+320 Book 3. Chapter 4. Sect. 24 147-162
+324 Book 3. Chapter 4. Sect. 25 163-194
+333 Book 3. Chapter 4. Sect. 26 194-207
+337 Book 3. Chapter 4. Sect. 27 208-215
+339 Book 3. Chapter 4. Sect. 28 216-219
+340 Book 3. Chapter 4. Sect. 29 220-227
+342 Book 3. Chapter 4. Sect. 30 228-237
+345 Book 3. Chapter 4. Sect. 31 238-241
+347 Book 3. Chapter 4. Sect. 32 1-18
+352 Book 3. Chapter 5. 1-23
+359 Book 3. Chapter 6. Sect. 1 1-10
+362 Book 3. Chapter 6. Sect. 2 11-21
+366 Book 3. Chapter 6. Sect. 3 22-31
+369 Book 3. Chapter 6. Sect. 4 32-36
+371 Book 3. Chapter 6. Sect. 5 37-38
+372 Book 3. Chapter 6. Sect. 6 39-41
+372 Book 3. Chapter 6. Sect. 7 41-41
+; previous is empty section
+373 Book 3. Chapter 6. Sect. 8 42-46
+; 374  last page
+; 375 additions et corrections
