@@ -1,0 +1,42 @@
+8c8
+< Book 1. Chapter 2. Sect. 1 1-12
+---
+> Book 1. Chapter 2. Sect. 1 1-11
+10,11c10,11
+< Book 1. Chapter 2. Sect. 3 1-43
+< Book 2. Chapter 1. 1-19
+---
+> Book 1. Chapter 2. Sect. 3 1-44
+> Book 2. Chapter 1. 1-18
+14c14
+< Book 2. Chapter 4. Sect. 1 1-20
+---
+> Book 2. Chapter 4. Sect. 1 1-20 
+23,24c23,24
+< Book 2. Chapter 7. 1-41
+< Book 2. Chapter 8. Sect. 1 12-32
+---
+> Book 2. Chapter 7. 1-57
+> Book 2. Chapter 8. Sect. 1 1-32
+33c33
+< Book 3. Chapter 4. Sect. 3 20-27
+---
+> Book 3. Chapter 4. Sect. 3 20/21-27
+35c35
+< Book 3. Chapter 4. Sect. 5 29-30
+---
+> Book 3. Chapter 4. Sect. 5 29/30-30
+39,40c39,40
+< Book 3. Chapter 4. Sect. 9 36-42
+< Book 3. Chapter 4. Sect. 10 43-46
+---
+> Book 3. Chapter 4. Sect. 9 36/37-42
+> Book 3. Chapter 4. Sect. 10 42/43-46
+63c63
+< Book 3. Chapter 6. Sect. 4 33-36
+---
+> Book 3. Chapter 6. Sect. 4 32/33-36
+67c67
+< Book 3. Chapter 6. Sect. 8 43-47
+---
+> Book 3. Chapter 6. Sect. 8 42/43-47

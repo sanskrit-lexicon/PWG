@@ -1,0 +1,86 @@
+; This is taken from Colebrooke, 1808 edition, 'contents'
+; Page X
+; file has a regular structure, with 2 kinds of entries.
+; lines beginning with semi-colon are comments ignored
+; by processing programs.
+; first 3 characters are (beginning) page number
+001 Book 1. Chapter 1. Sect. 1 1-67
+013 Book 1. Chapter 1. Sect. 2 1-37
+020 Book 1. Chapter 1. Sect. 3 1-22
+026 Book 1. Chapter 1. Sect. 4 1-26
+032 Book 1. Chapter 1. Sect. 5 1-22
+038 Book 1. Chapter 1. Sect. 6 1-4
+039 Book 1. Chapter 1. Sect. 7 1-38
+; is 1-11 in 1891 edition
+049 Book 1. Chapter 2. Sect. 1 1-12
+052 Book 1. Chapter 2. Sect. 2 1-4
+; 1-44 in 1891
+053 Book 1. Chapter 2. Sect. 3 1-43
+; 1-18 1891
+065 Book 2. Chapter 1. 1-19
+069 Book 2. Chapter 2. 1-20
+075 Book 2. Chapter 3. 1-8
+077 Book 2. Chapter 4. Sect. 1 1-20
+082 Book 2. Chapter 4. Sect. 2 1-62
+097 Book 2. Chapter 4. Sect. 3 1-31
+103 Book 2. Chapter 4. Sect. 4 1-23
+; section v mislabeled as section iv.
+109 Book 2. Chapter 4. Sect. 5 1-35
+118 Book 2. Chapter 5. 1-43
+128 Book 2. Chapter 6. Sect. 1 1-49
+141 Book 2. Chapter 6. Sect. 2 1-50
+155 Book 2. Chapter 6. Sect. 3 1-41
+; 1808 missing: pages 
+;  Chapter 7 1-41  (41 on page 176)
+;  Chapter 8. Sect. 1. 1-12 missing
+; pages 169-176  duplicate pages?
+; page 185
+; 1891  2.7.1-57
+166 Book 2. Chapter 7. 1-41
+; 2.8.1:1-11 missing, 12 partial
+184 Book 2. Chapter 8. Sect. 1 12-32
+190 Book 2. Chapter 8. Sect. 2 1-88
+211 Book 2. Chapter 9. 1-112
+239 Book 2. Chapter 10. 1-47
+250 Book 3. Chapter 1. 1-51
+262 Book 3. Chapter 2. 1-62
+276 Book 3. Chapter 3. 1-43
+; internal page numbers not checked (9-19-2022)
+288 Book 3. Chapter 4. Sect. 1 1-18
+294 Book 3. Chapter 4. Sect. 2 19-20
+294 Book 3. Chapter 4. Sect. 3 20-27
+297 Book 3. Chapter 4. Sect. 4 28-29
+297 Book 3. Chapter 4. Sect. 5 29-30
+298 Book 3. Chapter 4. Sect. 6 31-31
+298 Book 3. Chapter 4. Sect. 7 32-34
+299 Book 3. Chapter 4. Sect. 8 35-36
+300 Book 3. Chapter 4. Sect. 9 36-42
+302 Book 3. Chapter 4. Sect. 10 43-46
+303 Book 3. Chapter 4. Sect. 11 47-59
+307 Book 3. Chapter 4. Sect. 12 60-88
+315 Book 3. Chapter 4. Sect. 13 89-90
+315 Book 3. Chapter 4. Sect. 14 91-98
+318 Book 3. Chapter 4. Sect. 15 99-107
+321 Book 3. Chapter 4. Sect. 16 108-131
+328 Book 3. Chapter 4. Sect. 17 132-134
+329 Book 3. Chapter 4. Sect. 18 135-135
+329 Book 3. Chapter 4. Sect. 19 136-147
+333 Book 3. Chapter 4. Sect. 20 148-163
+337 Book 3. Chapter 4. Sect. 21 164-194
+346 Book 3. Chapter 4. Sect. 22 195-207
+350 Book 3. Chapter 4. Sect. 23 208-215
+352 Book 3. Chapter 4. Sect. 24 216-220
+354 Book 3. Chapter 4. Sect. 25 221-227
+357 Book 3. Chapter 4. Sect. 26 228-237
+360 Book 3. Chapter 4. Sect. 27 238-241
+362 Book 3. Chapter 4. Sect. 28 1-18
+367 Book 3. Chapter 5. 1-23
+374 Book 3. Chapter 6. Sect. 1 1-10
+378 Book 3. Chapter 6. Sect. 2 11-21
+383 Book 3. Chapter 6. Sect. 3 22-32
+387 Book 3. Chapter 6. Sect. 4 33-36
+389 Book 3. Chapter 6. Sect. 5 37-38
+390 Book 3. Chapter 6. Sect. 6 39-41
+391 Book 3. Chapter 6. Sect. 7 42-42
+392 Book 3. Chapter 6. Sect. 8 43-47
+; 395 Corrections and Additions
