@@ -153,7 +153,7 @@ class LSCase(object):
   # exit(1)
   
 def count_tips(lines,tipd,numbertip,unknowntip):
- #
+ lsunknowns = []
  lsentries = []  # list of 'entry' with ls of given abbrev
  metaline = None
  imetaline1 = None
@@ -190,11 +190,13 @@ def count_tips(lines,tipd,numbertip,unknowntip):
     tip = numbertip
    elif elt[0] not in tipd:
     tip = unknowntip
+    lsunknowns.append((metaline,m.group(0)))
    else:
     tiplist = tipd[elt[0]]
     tip  = findtip(elt,tiplist)
     if tip == None:
      tip = unknowntip
+     lsunknowns.append((metaline,m.group(0)))
    # found a match
    
    tip.total = tip.total + 1
@@ -206,7 +208,18 @@ def count_tips(lines,tipd,numbertip,unknowntip):
  
  #print(len(lsentries),'entries with ls for  %s'%abbrev)
  #return lsentries
+ write_lsunknowns(lsunknowns)
 
+def write_lsunknowns(lsunknowns):
+ fileout = "lsunknowns.txt"
+ with codecs.open(fileout,"w","utf-8") as f:
+  for temp in lsunknowns:
+   metaline,lsunknown = temp
+   meta = re.sub(r'<k2>.*$','',metaline)
+   meta1 = meta.ljust(30)
+   out = '%s : %s' %(meta1,lsunknown)
+   f.write(out+'\n')
+ print(len(lsunknowns),"unknown ls written to",fileout)
 def unused_write_lscases(fileout,cases,abbrev):
  parmsd = {}  # 
  mparm = 0

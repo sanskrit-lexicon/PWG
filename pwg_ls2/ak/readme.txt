@@ -816,3 +816,12 @@ This shows that about 200 additional (3, 4, ...) of PWG are
  recognized by LD version.
  
 *****************************************************
+The 1808 version.
+This is very close to 1891 edition, when indexes are compared.
+  See ak_index.txt (1891), ak_index_1808.txt,
+  ak_index_diff_1808_1891.txt.
+The print quality in general is somewhat better in 1808 ed.
+when compared to 1891 edition.  However, there are several
+missing pages in one spot in the 1808 edition (see 'missing' in ak_index_1808)
+
+The loiseleur edition is probably best print quality.
