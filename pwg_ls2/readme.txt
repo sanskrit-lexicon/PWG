@@ -17,5 +17,6 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * av  Improvement of AV Veda ls markup
 * p   Improvement of Panini ls markup
 * ramayana0 coordination of pwg refs to Goressio and Schlegel pdfs
-* rgorr Ramayana Goressio markup improvement 'R. GORR.'
+* rgorr ?? Ramayana Goressio markup improvement 'R. GORR.'
 * ak amarakosha markup improvement 'AK.'. 
+* lsunknown  resolve the unknown ls (initially 2085 of these)
