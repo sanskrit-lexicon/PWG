@@ -20,3 +20,4 @@ pwg_ls2  revisions of markup for <ls> in pwg.
 * rgorr ?? Ramayana Goressio markup improvement 'R. GORR.'
 * ak amarakosha markup improvement 'AK.'. 
 * lsunknown  resolve the unknown ls (initially 2085 of these)
+* lsnum1     Begin resolve <ls>[0-9] items. initially 32089 instances!

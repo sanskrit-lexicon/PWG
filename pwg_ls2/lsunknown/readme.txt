@@ -140,6 +140,8 @@ One problem noticed:
 <ls n="PAÑCAT.">ed. orn. 18, 17</ls>
 
 Tooltip for "PAÑCAT. ed. orn." not recognized in display
+  Note: this problem solved by adding entry "PAÑCAT. ed. orn." to
+  tooltip file.
 ---------------------------------------------------------------------------
 push repositories to Github:
 csl-orig
