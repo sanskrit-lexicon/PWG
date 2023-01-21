@@ -197,6 +197,70 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 add and push.
 Add issue comment
 
+***************************************************************************
+Step 3.
+
+cp temp_pwg_2.txt temp_pwg_3.txt
+
+touch change_pwg_3.txt
+------------------------
+# option 3a
+python make_change_b.py 3a temp_pwg_3.txt temp_change_3_3a.txt
+1982 change transactions written to temp_change_3_3a.txt
+
+Insert temp_change_3_3a into change_pwg_3
+python updateByLine.py temp_pwg_2.txt change_pwg_3.txt temp_pwg_3.txt
+
+-----------------------
+# option 3b
+python make_change_b.py 3b temp_pwg_3.txt temp_change_3_3b.txt
+3020 change transactions written to temp_change_3_3a.txt
+
+Insert temp_change_3_3b into bottom of change_pwg_3
+python updateByLine.py temp_pwg_2.txt change_pwg_3.txt temp_pwg_3.txt
+5002 change transactions from change_pwg_3.txt
+
+---------------------------------------------------------------------------
+install  temp_pwg_3.txt to check xml
+cp temp_pwg_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 3
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 3
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+
+update issue comment
+
+
 ---------------------------------------------------------------------------
 
 #install temp_pwg_tooltip_2.txt in csl-pywork
