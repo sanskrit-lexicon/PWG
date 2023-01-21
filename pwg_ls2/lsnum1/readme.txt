@@ -31,6 +31,8 @@ python lsextract_all.py temp_pwg_0.txt temp_pwg_tooltip_0.txt temp_lsextract_pwg
 32089 lsnums written to temp_lsnum1_0.txt
 write_tips Output in  lsextract_pwg_0.txt
 
+***************************************************************************
+Step 1: first 10%
 ===============================================================
 temp_pwg_1.txt
  identify with '<ls n="">' markup the ls instances starting with a digit.
@@ -140,6 +142,61 @@ grep 'pwg' redo_cologne_all.sh
 update pwg repository
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 
+***************************************************************************
+Step 2.
+cp temp_pwg_1a.txt temp_pwg_2.txt
+
+Continue with the <ls n=""> instances. in temp_pwg_2.txt.
+Now 29000+ to go.
+
+
+touch change_pwg_2.txt
+# option 1
+python make_change_b.py 1 temp_pwg_2.txt temp_change_2_1.txt
+8115 change transactions written to temp_change_2_1.txt# insert temp_change_2_1.txt into change_pwg_2.txt
+
+python updateByLine.py temp_pwg_1a.txt change_pwg_2.txt temp_pwg_2.txt
+1149413 lines read from temp_pwg_1a.txt
+1149413 records written to temp_pwg_2.txt
+8115 change transactions from change_pwg_2.txt
+
+---------------------------------------------------------------------------
+install  temp_pwg_2.txt to check xml
+cp temp_pwg_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 2
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add and push.
+Add issue comment
+
 ---------------------------------------------------------------------------
 
 #install temp_pwg_tooltip_2.txt in csl-pywork
@@ -164,5 +221,3 @@ csl-orig
 csl-pywork
 
 ---------------------------------------------------------------------------
-Further comments in https://github.com/sanskrit-lexicon/PWG/issues/64
-***************************************************************************
