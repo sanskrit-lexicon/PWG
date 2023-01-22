@@ -257,9 +257,113 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 add .
 git commit -m "PWG: numeric orphans, 3
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
-
+git push
 update issue comment
 
+***************************************************************************
+Step 4.
+
+cp temp_pwg_3.txt temp_pwg_4.txt
+
+touch change_pwg_4.txt
+------------------------
+# option 4a
+python make_change_b.py 4a temp_pwg_4.txt temp_change_4_4a.txt
+752 change transactions written to temp_change_4_4a.txt
+# edit 4_4a, to remove/correct many false positives under Verz. d. Oxf. H.
+# Insert temp_change_4_4a into change_pwg_4
+python updateByLine.py temp_pwg_3.txt change_pwg_4.txt temp_pwg_4.txt
+1071 change transactions from change_pwg_4.txt
+
+------------------------
+# option 4b
+python make_change_b.py 4b temp_pwg_4.txt temp_change_4_4b.txt
+2620 change transactions written to temp_change_4_4b.txt
+
+# Insert temp_change_4_4b into change_pwg_4
+python updateByLine.py temp_pwg_3.txt change_pwg_4.txt temp_pwg_4.txt
+3691 change transactions from change_pwg_4.txt
+
+------------------------
+# option 4c
+python make_change_b.py 4c temp_pwg_4.txt temp_change_4_4c.txt
+2170 change transactions written to temp_change_4_4c.txt
+
+# Insert temp_change_4_4c into change_pwg_4
+python updateByLine.py temp_pwg_3.txt change_pwg_4.txt temp_pwg_4.txt
+5861 change transactions from change_pwg_4.txt
+
+------------------------
+89 matches for "<ls>[0-9, ]+</ls>, <ls>Sch.</ls>
+cp temp_pwg_4.txt temp_pwg_4_work.txt
+# manually edit temp_pwg_4_work.txt
+python diff_to_changes_dict.py temp_pwg_4.txt temp_pwg_4_work.txt temp_change_4_x1.txt
+103 changes written to temp_change_4_x1.txt
+
+insert temp_change_4_x1.txt into change_pwg_4.txt
+python updateByLine.py temp_pwg_3.txt change_pwg_4.txt temp_pwg_4.txt
+5964 change transactions from change_pwg_4.txt
+# temp_pwg_4_work.txt no longer needed
+rm temp_pwg_4_work.txt
+
+------------------------
+ a two-line pattern
+479 matches for "{#[a-zA-Z]+#} *
+<ls>[1-9]\.</ls>"
+cp temp_pwg_4.txt temp_pwg_4_work.txt
+Emacs change the 479 in temp_pwg_4_work.txt
+\({#[a-zA-Z]+#}\) *
+<ls>\([1-9]\.\)</ls>\( *\) → \1 _\2 
+
+python diff_to_changes_dict.py temp_pwg_4.txt temp_pwg_4_work.txt temp_change_4_x2.txt
+961 changes written to temp_change_4_x2.txt
+insert temp_change_4_x2 into change_pwg_4.txt
+
+python updateByLine.py temp_pwg_3.txt change_pwg_4.txt temp_pwg_4.txt
+6925 change transactions from change_pwg_4.txt
+# temp_pwg_4_work.txt no longer needed
+rm temp_pwg_4_work.txt
+
+That's enough for this batch of changes. ready to install temp_pwg_4
+---------------------------------------------------------------------------
+install  temp_pwg_4.txt to check xml
+cp temp_pwg_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+ 
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 4
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 4
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+update issue comment
 
 ---------------------------------------------------------------------------
 
