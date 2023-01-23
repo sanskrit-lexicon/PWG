@@ -358,7 +358,336 @@ def change_4c(lines,d_approved):
   changes = d_approved[lsname]  # previous changes for this lsname
   changes.append(change)
  print("change_4c changes %s lines" %nchg)
-                    
+
+def change_5a(lines,d_approved):
+ d_not_approved = {}
+ newlines = []
+ for line in lines:
+  newlines.append(line)
+ #
+ changes = []
+ nchg = 0
+ for iline,old in enumerate(newlines):
+  # require old start with a numeric orphan
+  m = re.search(r'^<ls>[0-9].*?</ls>',old)
+  if m == None:
+   continue
+  # prev line and lastls
+  lastls = None
+  for i in [1,2,3]:
+   ilineprev = iline - i
+   oldprev = newlines[ilineprev] # preceding line
+   if oldprev.startswith('<div'):
+    # fail
+    break
+   # remove parenthetical expressions
+   oldprev1 = re.sub(r'\(.*?\)','',oldprev)
+   ls_all_prev = re.findall(r'<ls.*?</ls>',oldprev1)
+   if len(ls_all_prev) == 0:  # 
+    continue
+   lastls = ls_all_prev[-1] # last ls in previous line
+   break  # for i
+  if lastls == None:
+   continue
+  m = re.search(r'<ls([^>]*)>([^<]*)</ls>',lastls)
+  if m == None:
+   # Can happen if there is '<is>' or other markup in lsprev
+   continue
+  # further restrictions
+  mprev = re.search(r'^<ls([^>]*)>([^<]*)</ls>',lastls)
+  if mprev == None:
+   continue
+  a = mprev.group(1)
+  b = mprev.group(2)
+  # get lsname
+  m1 = re.search(r' n="(.*?)"',a)
+  if m1 != None:
+   a1 = m1.group(1)
+   m2 = re.search(r'^[^0-9]+\.$',a1)
+   if m2 != None:
+    lsname = a1
+   else:
+    m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',a1)
+    if m3 != None:
+     lsname = m3.group(1)
+    else:
+     # cannot get lsname from <ls n="X">
+     continue
+  else:
+   # m1 == None
+   m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',b)
+   if m3 != None:
+    lsname = m3.group(1)
+   else:
+    # cannot get lsname from <ls>X</ls>
+    continue
+  # now we have lsname.
+  if lsname not in d_approved:
+   if lsname not in d_not_approved:
+    d_not_approved[lsname] = 0
+   d_not_approved[lsname] = d_not_approved[lsname] + 1
+   continue
+  lsnew = '<ls n="%s">' %lsname 
+  new = old.replace('<ls>',lsnew,1)  # first ls is replaced
+  newlines[iline] = new
+  nchg = nchg + 1
+  change = Change(ilineprev,oldprev,iline,old,new)
+  changes = d_approved[lsname]  # previous changes for this lsname
+  changes.append(change)
+ print("change_5a changes %s lines" %nchg)
+
+def change_5b(lines,d_approved):
+ d_not_approved = {}
+ newlines = []
+ for line in lines:
+  newlines.append(line)
+ #
+ changes = []
+ nchg = 0
+ for iline,old in enumerate(newlines):
+  # require old start with a numeric orphan
+  m = re.search(r'^<ls>[0-9].*?</ls>',old)
+  if m == None:
+   continue
+  # prev line and lastls
+  lastls = None
+  for i in [1,2,3]:
+   ilineprev = iline - i
+   oldprev = newlines[ilineprev] # preceding line
+   if oldprev.startswith('<div'):
+    # fail
+    break
+   # remove parenthetical expressions
+   # special handling for Spr. (II)
+   oldprev1a = oldprev.replace('Spr. (II)','Spr. _II_')
+   oldprev1 = re.sub(r'\(.*?\)','',oldprev1a)
+   ls_all_prev = re.findall(r'<ls.*?</ls>',oldprev1)
+   if len(ls_all_prev) == 0:  # 
+    continue
+   lastls1 = ls_all_prev[-1] # last ls in previous line
+   lastls = lastls1.replace('Spr. _II_','Spr. (II)')
+   break  # for i
+  if lastls == None:
+   continue
+  # ----------------------------------------------
+  # get lsname from lastls
+  m = re.search(r'<ls([^>]*)>([^<]*)</ls>',lastls)
+  if m == None:
+   # Can happen if there is '<is>' or other markup in lsprev
+   continue
+  # further restrictions
+  mprev = re.search(r'^<ls([^>]*)>([^<]*)</ls>',lastls)
+  if mprev == None:
+   continue
+  a = mprev.group(1)
+  b = mprev.group(2)
+  # get lsname
+  m1 = re.search(r' n="(.*?)"',a)
+  if m1 != None:
+   a1 = m1.group(1)
+   # next misses when "Spr. (II)"
+   m2 = re.search(r'^[^0-9]+\.$',a1)
+   if m2 != None:
+    lsname = a1
+   elif a1.startswith('Spr. (II)'):
+    lsname = 'Spr. (II)'
+   else:
+    m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',a1)
+    if m3 != None:
+     lsname = m3.group(1)
+    else:
+     # cannot get lsname from <ls n="X">
+     continue
+  else:
+   # m1 == None
+   m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',b)
+   if m3 != None:
+    lsname = m3.group(1)
+   elif b.startswith('Spr. (II)'):
+    lsname = 'Spr. (II)'
+   else:
+    # cannot get lsname from <ls>X</ls>
+    continue
+  # now we have lsname.
+  if False:
+   print("%s -> %s" %(lastls,lsname))
+  if lsname not in d_approved:
+   if lsname not in d_not_approved:
+    d_not_approved[lsname] = 0
+   d_not_approved[lsname] = d_not_approved[lsname] + 1
+   continue
+  lsnew = '<ls n="%s">' %lsname 
+  new = old.replace('<ls>',lsnew,1)  # first ls is replaced
+  newlines[iline] = new
+  nchg = nchg + 1
+  change = Change(ilineprev,oldprev,iline,old,new)
+  changes = d_approved[lsname]  # previous changes for this lsname
+  changes.append(change)
+ print("change_5b changes %s lines" %nchg)
+
+def change_5b3(lines,d_approved):
+ d_not_approved = {}
+ newlines = []
+ for line in lines:
+  newlines.append(line)
+ #
+ changes = []
+ nchg = 0
+ for iline,old in enumerate(newlines):
+  # require old start with a numeric orphan
+  m = re.search(r'^<ls>[0-9].*?</ls>',old)
+  if m == None:
+   continue
+  # prev line and lastls
+  lastls = None
+  for i in [1,2,3]:
+   ilineprev = iline - i
+   oldprev = newlines[ilineprev] # preceding line
+   if oldprev.startswith('<div'):
+    # fail
+    break
+   # remove parenthetical expressions
+   # special handling for HALL  (which does not end in period_
+   #oldprev1a = oldprev.replace('Spr. (II)','Spr. _II_')
+   oldprev1 = re.sub(r'\(.*?\)','',oldprev)
+   ls_all_prev = re.findall(r'<ls.*?</ls>',oldprev1)
+   if len(ls_all_prev) == 0:  # 
+    continue
+   lastls = ls_all_prev[-1] # last ls in previous line
+   break  # for i
+  if lastls == None:
+   continue
+  # ----------------------------------------------
+  # get lsname from lastls
+  m = re.search(r'<ls([^>]*)>([^<]*)</ls>',lastls)
+  if m == None:
+   # Can happen if there is '<is>' or other markup in lsprev
+   continue
+  # further restrictions
+  mprev = re.search(r'^<ls([^>]*)>([^<]*)</ls>',lastls)
+  if mprev == None:
+   continue
+  a = mprev.group(1)
+  b = mprev.group(2)
+  # get lsname
+  m1 = re.search(r' n="(.*?)"',a)
+  if m1 != None:
+   a1 = m1.group(1)
+   # next misses when "HALL"
+   m2 = re.search(r'^[^0-9]+\.?$',a1)
+   if m2 != None:
+    lsname = a1
+   else:
+    m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',a1)
+    if m3 != None:
+     lsname = m3.group(1)
+    else:
+     # cannot get lsname from <ls n="X">
+     continue
+  else:
+   # m1 == None
+   m3 = re.search(r'^([^0-9]+\.?) [0-9,. ]+$',b)
+   if m3 != None:
+    lsname = m3.group(1)
+   #elif b.startswith('Spr. (II)'):
+   # lsname = 'Spr. (II)'
+   else:
+    # cannot get lsname from <ls>X</ls>
+    continue
+  # now we have lsname.
+  if False:
+   print("%s -> %s" %(lastls,lsname))
+  if lsname not in d_approved:
+   if lsname not in d_not_approved:
+    d_not_approved[lsname] = 0
+   d_not_approved[lsname] = d_not_approved[lsname] + 1
+   continue
+  lsnew = '<ls n="%s">' %lsname 
+  new = old.replace('<ls>',lsnew,1)  # first ls is replaced
+  newlines[iline] = new
+  nchg = nchg + 1
+  change = Change(ilineprev,oldprev,iline,old,new)
+  changes = d_approved[lsname]  # previous changes for this lsname
+  changes.append(change)
+ print("change_5b3 changes %s lines" %nchg)
+
+def change_5b4(lines,d_approved):
+ d_not_approved = {}
+ newlines = []
+ for line in lines:
+  newlines.append(line)
+ #
+ changes = []
+ nchg = 0
+ for iline,old in enumerate(newlines):
+  # require old start with a numeric orphan
+  m = re.search(r'^<ls>[0-9].*?</ls>',old)
+  if m == None:
+   continue
+  # prev line and lastls
+  lastls = None
+  for i in [1,2,3]:
+   ilineprev = iline - i
+   oldprev = newlines[ilineprev] # preceding line
+   if oldprev.startswith('<div'):
+    # fail
+    break
+   # remove parenthetical expressions
+   oldprev1 = re.sub(r'\(.*?\)','',oldprev)
+   ls_all_prev = re.findall(r'<ls.*?</ls>',oldprev1)
+   if len(ls_all_prev) == 0:  # 
+    continue
+   lastls = ls_all_prev[-1] # last ls in previous line
+   break  # for i
+  if lastls == None:
+   continue
+  m = re.search(r'<ls([^>]*)>([^<]*)</ls>',lastls)
+  if m == None:
+   # Can happen if there is '<is>' or other markup in lsprev
+   continue
+  # further restrictions
+  mprev = re.search(r'^<ls([^>]*)>([^<]*)</ls>',lastls)
+  if mprev == None:
+   continue
+  a = mprev.group(1)
+  b = mprev.group(2)
+  # get lsname
+  m1 = re.search(r' n="(.*?)"',a)
+  if m1 != None:
+   a1 = m1.group(1)
+   m2 = re.search(r'^[^0-9]+\.$',a1)
+   if m2 != None:
+    lsname = a1
+   else:
+    m3 = re.search(r'^([^0-9]+\.) *$',a1)  # no numbers
+    if m3 != None:
+     lsname = m3.group(1)
+    else:
+     # cannot get lsname from <ls n="X">
+     continue
+  else:
+   # m1 == None
+   m3 = re.search(r'^([^0-9]+\.) *$',b) # no numbers
+   if m3 != None:
+    lsname = m3.group(1)
+   else:
+    # cannot get lsname from <ls>X</ls>
+    continue
+  # now we have lsname.
+  if lsname not in d_approved:
+   if lsname not in d_not_approved:
+    d_not_approved[lsname] = 0
+   d_not_approved[lsname] = d_not_approved[lsname] + 1
+   continue
+  lsnew = '<ls n="%s">' %lsname 
+  new = old.replace('<ls>',lsnew,1)  # first ls is replaced
+  newlines[iline] = new
+  nchg = nchg + 1
+  change = Change(ilineprev,oldprev,iline,old,new)
+  changes = d_approved[lsname]  # previous changes for this lsname
+  changes.append(change)
+ print("change_5a changes %s lines" %nchg)
+
 def write_changes(fileout,d):
  outrecs = []
  # file title
@@ -427,6 +756,28 @@ if __name__=="__main__":
  elif option == '4c':
   lsnames_d = get_lsnames_approved(option)
   change_4c(lines, lsnames_d) # update lsnames_d  
+ elif option == '5a':
+  lsnames_d = get_lsnames_approved(option)
+  change_5a(lines, lsnames_d) # update lsnames_d  
+ elif option == '5b1':
+  lsnames_d = {}
+  lsnames_d['Spr. (II)'] = []
+  #lsnames_d['Spr.'] = []
+  change_5b(lines, lsnames_d) # update lsnames_d  
+ elif option == '5b2':
+  lsnames_d = {}
+  #lsnames_d['Spr. (II)'] = []
+  lsnames_d['Spr.'] = []
+  change_5b(lines, lsnames_d) # update lsnames_d  
+ elif option == '5b3':
+  lsnames_d = {}
+  lsnames_d['HALL'] = []
+  change_5b3(lines, lsnames_d) # update lsnames_d  
+ elif option == '5b4':
+  lsnames_d = get_lsnames_approved(option)
+  #lsnames_d = {}
+  #lsnames_d['HALL'] = []
+  change_5b4(lines, lsnames_d) # update lsnames_d  
  else:
   print('ERROR: unknown option',option)
   exit(1)

@@ -71,7 +71,10 @@ editing pastes
  http://localhost/cologne/csl-apidev/simple-search/v1.1/list-0.2s_rw.php
  http://localhost/cologne/simple/
  n="" X n="COLEBR. Misc. Ess."
+<ls n="HARIV.">  <ls n="Verz. d. Oxf. H.">
+<ls n="Spr.">  <ls n="Spr. (II)">  
 -----------------------------------------------
+
 -----------------------------------------------
 regex change pairs of 3
 <ls>\(X\.\) \([0-9]+, [0-9]+, [0-9]+\.\) \([0-9]+, [0-9]+, [0-9]+\.\)</ls>
@@ -361,6 +364,152 @@ update pwg repository
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 add .
 git commit -m "PWG: numeric orphans, 4
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+update issue comment
+
+***************************************************************************
+Step 5.
+
+cp temp_pwg_5.txt temp_pwg_5.txt
+
+touch change_pwg_5.txt
+------------------------
+# option 5a
+# get 'parent' lsname from previous 3 lines
+python make_change_b.py 5a temp_pwg_5.txt temp_change_5_5a.txt
+731 change transactions written to temp_change_5_5a.txt
+
+# brief look suggests 5_5a ok.
+# Insert temp_change_5_5a into change_pwg_5
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+731 change transactions from change_pwg_5.txt
+
+------------------------
+#  5_5x1
+cp temp_pwg_5.txt temp_pwg_5_work.txt
+# manual edit of temp_pwg_5_work.txt
+python diff_to_changes_dict.py temp_pwg_5.txt temp_pwg_5_work.txt change_pwg_5_x1.txt
+insert change_pwg_5_x1.txt into change_pwg_5.txt
+
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+840 change transactions from change_pwg_5.txt
+
+# temp_pwg_5_work.txt not needed
+rm temp_pwg_5_work.txt
+
+------------------------
+#  5_5x2
+cp temp_pwg_5.txt temp_pwg_5_work.txt
+# manual edit of temp_pwg_5_work.txt,
+# 596 matches for "^<ls>[0-9]+</ls>"matching
+python diff_to_changes_dict.py temp_pwg_5.txt temp_pwg_5_work.txt temp_change_pwg_5_x2.txt
+1380 changes written to change_pwg_5_x2.txt
+#insert temp_change_pwg_5_x2.txt into change_pwg_5.txt
+
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+2220 change transactions from change_pwg_5.txt
+
+# temp_pwg_5_work.txt not needed
+rm temp_pwg_5_work.txt
+
+------------------------
+# option 5b
+# get 'parent' lsname from previous 3 lines
+# add Spr. to list of approved codes
+python make_change_b.py 5b temp_pwg_5.txt temp_change_5_5b.txt
+731 change transactions written to temp_change_5_5b.txt
+
+# brief look suggests 5_5b ok.
+# Insert temp_change_5_5b into change_pwg_5
+2220 python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+
+------------------------
+# option 5b1
+# get 'parent' lsname from previous 3 lines
+# cases 'Spr. (II)'
+python make_change_b.py 5b1 temp_pwg_5.txt temp_change_5_5b1.txt
+732 change transactions written to temp_change_5_5b1.txt
+
+# brief look suggests 5_5b1 ok.
+# Insert temp_change_5_5b1 into change_pwg_5
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+2952 change transactions from change_pwg_5.txt
+
+------------------------
+# option 5b2
+# get 'parent' lsname from previous 3 lines
+# cases 'Spr.'
+python make_change_b.py 5b2 temp_pwg_5.txt temp_change_5_5b2.txt
+1118 change transactions written to temp_change_5_5b2.txt
+
+# brief look suggests 5_5b2 ok.
+# Insert temp_change_5_5b2 into change_pwg_5
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+4274 change transactions from change_pwg_5.txt
+
+------------------------
+# option 5b3
+# get 'parent' lsname from previous 3 lines
+# cases 'HALL'
+python make_change_b.py 5b3 temp_pwg_5.txt temp_change_5_5b3.txt
+204 change transactions written to temp_change_5_5b3.txt
+
+# brief look suggests 5_5b3 ok.
+# Insert temp_change_5_5b3 into change_pwg_5
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+ change transactions from change_pwg_5.txt
+
+------------------------
+# option 5b4
+# get 'parent' lsname from previous 3 lines
+# most lsnames approved. Previous reference has no numbers.
+python make_change_b.py 5b4 temp_pwg_5.txt temp_change_5_5b4.txt
+123 hange transactions written to temp_change_5_5b4.txt
+
+# brief look suggests 5_5b4 ok.
+# Insert temp_change_5_5b4 into change_pwg_5
+python updateByLine.py temp_pwg_4.txt change_pwg_5.txt temp_pwg_5.txt
+4397 change transactions from change_pwg_5.txt
+
+
+That's enough for this batch of changes. ready to install temp_pwg_5
+---------------------------------------------------------------------------
+install  temp_pwg_5.txt to check xml
+cp temp_pwg_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+ 
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 5
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 5
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
 git push
 update issue comment
