@@ -63,16 +63,17 @@ print changes
 editing pastes
 </ls> <ls n="ŚAT. BR.">  </ls> <ls n="KĀTY. ŚR.">  </ls> <ls n="BṚH. ĀR. UP.">
 </ls> <ls n="PAÑCAT."> </ls> <ls n="PRAB.">  </ls> <ls n="P.">
-</ls> <ls n="M.">   </ls> <ls n="N.">
+</ls> <ls n="M.">   </ls> <ls n="H.">
 </ls> <ls n="ŚĀK.">  </ls> <ls n="SUŚR.">
 </ls> <ls n="ṚV.">   </ls> <ls n="HIT.">  </ls> <ls n="KATHĀS.">
-</ls> <ls n="AIT. BR.">  </ls> <ls n="VS.">  </ls> <ls n="PAÑCAT.">
-</ls> <ls n="">  </ls> <ls n="TS.">
+</ls> <ls n="Verz. d. B. H.">  </ls> <ls n="LIA. II">  </ls> <ls n="PAÑCAT.">
+</ls> <ls n="">  </ls> <ls n="P."> n="TRIK."
  http://localhost/cologne/csl-apidev/simple-search/v1.1/list-0.2s_rw.php
  http://localhost/cologne/simple/
  n="" X n="COLEBR. Misc. Ess."
 <ls n="HARIV.">  <ls n="Verz. d. Oxf. H.">
-<ls n="Spr.">  <ls n="Spr. (II)">  
+<ls n="Spr.">  <ls n="Spr. (II)">
+<ls n="SIDDH. K.">  </ls> <ls>
 -----------------------------------------------
 
 -----------------------------------------------
@@ -510,6 +511,161 @@ update pwg repository
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 add .
 git commit -m "PWG: numeric orphans, 5
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+update issue comment
+
+***************************************************************************
+Step 6.
+
+cp temp_pwg_5.txt temp_pwg_6.txt
+
+touch change_pwg_6.txt
+------------------------
+
+------------------------
+#  6_x1
+cp temp_pwg_6.txt temp_pwg_6_work.txt
+# 415 matches for ",a,</ls>"
+# manual edit of temp_pwg_6_work.txt,
+
+python diff_to_changes_dict.py temp_pwg_6.txt temp_pwg_6_work.txt temp_change_pwg_6_x1.txt
+
+#insert temp_change_pwg_6_x2.txt into change_pwg_6.txt
+
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+920 lines changed
+
+# temp_pwg_6_work.txt not needed
+rm temp_pwg_6_work.txt
+
+------------------------
+#  6_x2
+cp temp_pwg_6.txt temp_pwg_6_work.txt
+# 287 matches for ",b,<"
+# manual edit of temp_pwg_6_work.txt,
+
+python diff_to_changes_dict.py temp_pwg_6.txt temp_pwg_6_work.txt temp_change_pwg_6_x2.txt
+592 changes written to temp_change_pwg_6_x2.txt
+
+#insert temp_change_pwg_6_x2.txt into change_pwg_6.txt
+
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+1532 lines changed
+
+# now temp_pwg_6 = temp_pwg_6_work
+# temp_pwg_6_work.txt not needed
+rm temp_pwg_6_work.txt
+
+------------------------
+#  6_x3
+cp temp_pwg_6.txt temp_pwg_6_work.txt
+# 200+ matches for "</ls>,a."
+# 193 matches for "</ls>,b\."
+# 42 matches for "zu <ls>[1-8], [0-9]+, [0-9]+\.</ls>
+# manual edit of temp_pwg_6_work.txt,
+
+python diff_to_changes_dict.py temp_pwg_6.txt temp_pwg_6_work.txt temp_change_pwg_6_x3.txt
+450 changes written to temp_change_pwg_6_x3.txt
+
+#insert temp_change_pwg_6_x3.txt into change_pwg_6.txt
+
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+1982 lines changed
+
+# now temp_pwg_6 = temp_pwg_6_work
+# temp_pwg_6_work.txt not needed
+rm temp_pwg_6_work.txt
+
+------------------------
+#  6_x4
+cp temp_pwg_6.txt temp_pwg_6_work.txt
+# 5252 matches in 5172 lines for "<ls>[0-9]"
+# 
+# manual edit of temp_pwg_6_work.txt,
+# <is>Kār</is>. -> <is>Kār.</is> (281 instances)
+
+python diff_to_changes_dict.py temp_pwg_6.txt temp_pwg_6_work.txt temp_change_pwg_6_x4.txt
+769 changes written to temp_change_pwg_6_x4.txt
+
+#insert temp_change_pwg_6_x4.txt into change_pwg_6.txt
+
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+2751 lines changed
+
+# now temp_pwg_6 = temp_pwg_6_work
+# temp_pwg_6_work.txt not needed
+rm temp_pwg_6_work.txt
+
+---------------------------------------------------------------------------
+python make_change_b.py 6a temp_pwg_6.txt temp_change_6a.txt
+220 change transactions written to temp_change_6a.txt
+
+#insert temp_change_6a.txt into change_pwg_6.txt.
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+2971 change transactions from change_pwg_6.txt
+
+##cp temp_pwg_6.txt temptemp_pwg_6.txt
+
+------------------------
+#  6_x5
+cp temp_pwg_6.txt temp_pwg_6_work.txt
+# 4686 matches in 4610 lines for "<ls>[0-9]" 
+
+# back to manual changes.
+
+python diff_to_changes_dict.py temp_pwg_6.txt temp_pwg_6_work.txt temp_change_pwg_6_x5.txt
+1186 changes written to temp_change_pwg_6_x5.txt
+
+#insert temp_change_6_x5.txt into change_pwg_6.txt.
+python updateByLine.py temp_pwg_5.txt change_pwg_6.txt temp_pwg_6.txt
+4157 change transactions from change_pwg_6.txt
+
+
+# temp_pwg_6_work.txt not needed
+rm temp_pwg_6_work.txt
+
+
+--------------
+install  temp_pwg_6.txt to check xml
+cp temp_pwg_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+ 
+
+---------------------------------------------------------------------------
+That's enough for this batch of changes. ready to install temp_pwg_6
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 6
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 6
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
 git push
 update issue comment

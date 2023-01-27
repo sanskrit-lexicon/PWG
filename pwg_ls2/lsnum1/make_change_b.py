@@ -688,6 +688,82 @@ def change_5b4(lines,d_approved):
   changes.append(change)
  print("change_5a changes %s lines" %nchg)
 
+def change_6a(lines,d_approved):
+ d_not_approved = {}
+ newlines = []
+ for line in lines:
+  newlines.append(line)
+ #
+ changes = []
+ nchg = 0
+ for iline,old in enumerate(newlines):
+  # require exactly 2 ls, 2nd numeric
+  ls_all = re.findall(r'<ls.*?</ls>',old)
+  if len(ls_all) != 2:
+   continue
+  lsfirst = ls_all[0]
+  lslast = ls_all[1]
+  # require lslast start with a numeric orphan
+  m = re.search(r'^<ls>[0-9]',lslast)
+  if m == None:
+   continue
+  # ----------------------------------------------
+  # get lsname from lsfirst
+  m = re.search(r'<ls([^>]*)>([^<]*)</ls>',lsfirst)
+  if m == None:
+   # Can happen if there is '<is>' or other markup in lsprev
+   continue
+  # further restrictions
+  mprev = re.search(r'^<ls([^>]*)>([^<]*)</ls>',lsfirst)
+  if mprev == None:
+   continue
+  a = mprev.group(1)
+  b = mprev.group(2)
+  # get lsname
+  m1 = re.search(r' n="(.*?)"',a)
+  if m1 != None:
+   a1 = m1.group(1)
+   # next misses when "HALL"
+   m2 = re.search(r'^[^0-9]+\.?$',a1)
+   if m2 != None:
+    lsname = a1
+   else:
+    m3 = re.search(r'^([^0-9]+\.) [0-9,. ]+$',a1)
+    if m3 != None:
+     lsname = m3.group(1)
+    else:
+     # cannot get lsname from <ls n="X">
+     continue
+  else:
+   # m1 == None
+   m3 = re.search(r'^([^0-9]+\.?) [0-9,. ]+$',b)
+   if m3 != None:
+    lsname = m3.group(1)
+   #elif b.startswith('Spr. (II)'):
+   # lsname = 'Spr. (II)'
+   else:
+    # cannot get lsname from <ls>X</ls>
+    continue
+  # now we have lsname.
+  if False:
+   print("%s -> %s" %(lastls,lsname))
+  if lsname not in d_approved:
+   if lsname not in d_not_approved:
+    d_not_approved[lsname] = 0
+   d_not_approved[lsname] = d_not_approved[lsname] + 1
+   continue
+  lsnew = '<ls n="%s">' %lsname
+  lslastnew = lslast.replace('<ls>',lsnew)
+  new = old.replace(lslast,lslastnew)
+  newlines[iline] = new
+  nchg = nchg + 1
+  ilineprev = iline
+  oldprev = old
+  change = Change(ilineprev,oldprev,iline,old,new)
+  changes = d_approved[lsname]  # previous changes for this lsname
+  changes.append(change)
+ print("change_6a changes %s lines" %nchg)
+
 def write_changes(fileout,d):
  outrecs = []
  # file title
@@ -715,7 +791,8 @@ def write_changes(fileout,d):
    old = c.old
    new = c.new
    outarr.append('; --------------------------------------')
-   outarr.append('; %s %s' %(lnumprev,lineprev))
+   if lnumprev != lnum:
+    outarr.append('; %s %s' %(lnumprev,lineprev))
    outarr.append(';')
    outarr.append('%s old %s' %(lnum,old))
    outarr.append(';')
@@ -778,6 +855,11 @@ if __name__=="__main__":
   #lsnames_d = {}
   #lsnames_d['HALL'] = []
   change_5b4(lines, lsnames_d) # update lsnames_d  
+ elif option == '6a':
+  lsnames_d = get_lsnames_approved(option)
+  #lsnames_d = {}
+  #lsnames_d['HALL'] = []
+  change_6a(lines, lsnames_d) # update lsnames_d  
  else:
   print('ERROR: unknown option',option)
   exit(1)
