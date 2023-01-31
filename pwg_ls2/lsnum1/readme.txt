@@ -671,13 +671,133 @@ git push
 update issue comment
 
 ---------------------------------------------------------------------------
+------------------------
+#  7
+cp temp_pwg_6.txt  temp_pwg_7.txt 
+touch change_pwg_7.txt
+
+# 3942 matches in 3873 lines for "<ls>[0-9]"
+
+# back to manual changes.
+cp temp_pwg_7.txt temp_pwg_7_work.txt
+
+python diff_to_changes_dict.py temp_pwg_7.txt temp_pwg_7_work.txt temp_change_pwg_7_x1.txt
+51 changes written to temp_change_pwg_7_x1.txt
+
+#insert temp_change_7_x1.txt into change_pwg_7.txt.
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+# now temp_pwg_7.txt == temp_pwg_7_work.txt
+
+# temp_pwg_7_work.txt not needed
+rm temp_pwg_7_work.txt
+
+--------------------------------------------------------
+python make_change_b.py 7b temp_pwg_7.txt temp_change_7_7b.txt
+11 change transactions
+# insert temp_change_7_7b.txt into change_pwg_7.txt
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+534 change transactions
+
+--------------------------------------------------------
+# back to manual changes. 7_x2  START
+cp temp_pwg_7.txt temp_pwg_7_work.txt
+# Manual changes to temp_pwg_7_work.txt
+python diff_to_changes_dict.py temp_pwg_7.txt temp_pwg_7_work.txt temp_change_pwg_7_x2.txt
+
+
+#insert temp_change_7_x2.txt into change_pwg_7.txt.
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+change transactions from change_pwg_7.txt
+
+--------------------------------------------------------
+python make_change_b.py 7b temp_pwg_7.txt temp_change_7_7b.txt
+change transactions
+# insert temp_change_7_7a.txt into change_pwg_7.txt
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+11 change transactions
+
+--------------------------------------------------------
+# back to manual changes.
+cp temp_pwg_7.txt temp_pwg_7_work.txt
+# Manual changes to temp_pwg_7_work.txt
+python diff_to_changes_dict.py temp_pwg_7.txt temp_pwg_7_work.txt temp_change_pwg_7_x2.txt
+460 changes written to temp_change_pwg_7_x2.txt
+
+#insert temp_change_7_x2.txt into change_pwg_7.txt.
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+523 change transactions from change_pwg_7.txt
+
+# now temp_pwg_7.txt == temp_pwg_7_work.txt
+
+# temp_pwg_7_work.txt not needed
+rm temp_pwg_7_work.txt
+
+--------------------------------------------------------
+# back to manual changes. 7_x3
+cp temp_pwg_7.txt temp_pwg_7_work.txt
+# Manual changes to temp_pwg_7_work.txt
+python diff_to_changes_dict.py temp_pwg_7.txt temp_pwg_7_work.txt temp_change_pwg_7_x3.txt
+3083 changes written to temp_change_pwg_7_x3.txt
+
+#insert temp_change_7_x3.txt into change_pwg_7.txt.
+python updateByLine.py temp_pwg_6.txt change_pwg_7.txt temp_pwg_7.txt
+3617 change transactions from change_pwg_7.txt
+
+# now temp_pwg_7.txt == temp_pwg_7_work.txt
+
+# temp_pwg_7_work.txt not needed
+rm temp_pwg_7_work.txt
+
+--------------
+
+--------------
+install  temp_pwg_7.txt to check xml
+cp temp_pwg_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+ 
+
+---------------------------------------------------------------------------
+That's enough for this batch of changes. ready to install temp_pwg_7
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 7
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 7
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+update issue comment
 
 #install temp_pwg_tooltip_2.txt in csl-pywork
 cp temp_pwg_tooltip_2.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt
 ---------------------------------------------------------------------------
 # regenerate dictionary displays,  a way to check for errors in new tooltips
-One problem noticed:
-<ls n="PAÑCAT.">ed. orn. 18, 17</ls>
 
 Tooltip for "PAÑCAT. ed. orn." not recognized in display
   Note: this problem solved by adding entry "PAÑCAT. ed. orn." to
@@ -693,4 +813,9 @@ pull repositories from Github to Cologne.
 csl-orig
 csl-pywork
 
+---------------------------------------------------------------------------
+{Ç} end of entry preceding <L>52710<pc>5-0088<k1>bimbaka<k2>bimbaka
+ should be 'long-short' .
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 ---------------------------------------------------------------------------

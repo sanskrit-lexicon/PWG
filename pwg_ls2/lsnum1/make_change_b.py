@@ -860,6 +860,25 @@ if __name__=="__main__":
   #lsnames_d = {}
   #lsnames_d['HALL'] = []
   change_6a(lines, lsnames_d) # update lsnames_d  
+ elif option == '7a':
+  lsnames_d = {}
+  lsnames_d['VS. PRĀT.'] = []
+  #lsnames_d['PAÑCAT.'] = []
+  change_7a = change_5b3
+  change_5b3(lines, lsnames_d) # update lsnames_d  
+ elif option == '7b': # not yet used
+  lsnames_d = {}
+  lsnames_d['TARKAS.'] = []
+  lsnames_d[' MṚKCH.'] = []
+  lsnames_d['ŚUK.'] = []
+  lsnames_d['Spr.'] = []
+  lsnames_d['BRAHMA-P.'] = []
+  lsnames_d['ŚĀṄKH. BR.'] = []
+  #lsnames_d[''] = []
+  #lsnames_d[''] = []
+ 
+  change_7b = change_5b3
+  change_5b3(lines, lsnames_d) # update lsnames_d  
  else:
   print('ERROR: unknown option',option)
   exit(1)
