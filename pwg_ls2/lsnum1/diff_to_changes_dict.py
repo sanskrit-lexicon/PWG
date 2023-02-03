@@ -44,7 +44,15 @@ def write_changes(fileout,changes):
   for out in outarr:
    f.write(out+'\n')
  print(len(changes),"changes written to",fileout)
- 
+
+def find_first_L_diff(lines1,lines2):
+ for iline,line1 in enumerate(lines1):
+  line2 = lines2[iline]
+  if line1.startswith('<L>'):
+   metaline1 = line1
+   if not line2.startswith('<L>'):
+    print('first L-difference at',iline+1,metaline1)
+    return
 if __name__=="__main__":
  filein1 = sys.argv[1] # old.txt
  filein2 = sys.argv[2] # new.txt
@@ -54,6 +62,7 @@ if __name__=="__main__":
  n = len(lines1)
  if n != len(lines2):
   print('ERROR: files have different number of lines')
+  find_first_L_diff(lines1,lines2)
   exit(1)
  changes = []
  metaline1 = None

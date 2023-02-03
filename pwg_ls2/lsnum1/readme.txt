@@ -766,7 +766,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
 ---------------------------------------------------------------------------
 That's enough for this batch of changes. ready to install temp_pwg_7
 ---------------------------------------------------------------------------
----------------------------------------------------------------------------
+
 Commit csl-orig, and update at Cologne.
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull  # to handle other changes, if any
@@ -796,12 +796,127 @@ update issue comment
 
 #install temp_pwg_tooltip_2.txt in csl-pywork
 cp temp_pwg_tooltip_2.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt
+
+--------------------------------------------------------
+---------------------------------------------------------------------------
+#  8
+cp temp_pwg_7.txt  temp_pwg_8.txt 
+touch change_pwg_8.txt
+
+# 3942 matches in 3873 lines for "<ls>[0-9]"
+
+# back to manual changes.
+cp temp_pwg_8.txt temp_pwg_8_work.txt
+
+cp temp_pwg_8.txt temp_pwg_8_work.txt
+# Manual changes to temp_pwg_8_work.txt
+python diff_to_changes_dict.py temp_pwg_8.txt temp_pwg_8_work.txt temp_change_pwg_8.txt
+2016 changes written to temp_change_pwg_8.txt
+
+#insert temp_change_8.txt into change_pwg_8.txt.
+python updateByLine.py temp_pwg_7.txt change_pwg_8.txt temp_pwg_8.txt
+2016 change transactions from change_pwg_8.txt
+
+# now temp_pwg_8.txt == temp_pwg_8_work.txt
+
+# temp_pwg_8_work.txt not needed
+rm temp_pwg_8_work.txt
+
+# some introduced errors identified by rerunning lextract
+# revise lsextract_all.py 
+python lsextract_all.py temp_pwg_8.txt temp_pwg_tooltip_1.txt temp_lsextract_pwg_8a.txt temp_lsnum1_8a.txt
+File temp_lsnum1_1.txt shows 81 items
+- 59 are unresolved <ls>{number} -- nothing more to do with these
+- the rest (22) are errors in ls
+
+cp temp_pwg_8.txt temp_pwg_8_work.txt
+# manually correct those 22 items in temp_pwg_8_work.txt
+# A couple of changes also to temp_pwg_tooltip_1.txt
+python diff_to_changes_dict.py temp_pwg_8.txt temp_pwg_8_work.txt temp_change_pwg_8x.txt
+21 changes written to temp_change_pwg_8x.txt
+
+# insert temp_change_pwg_8x.txt into change_pwg_8.txt
+python updateByLine.py temp_pwg_7.txt change_pwg_8.txt temp_pwg_8.txt
+2037 change transactions from change_pwg_8.txt
+
+# more cleanup
+python diff_to_changes_dict.py temp_pwg_8.txt temp_pwg_8_work.txt temp_change_pwg_8x1.txt
+3 changes written to temp_change_pwg_8x1.txt
+
+# insert temp_change_pwg_8x1.txt into change_pwg_8.txt
+python updateByLine.py temp_pwg_7.txt change_pwg_8.txt temp_pwg_8.txt
+2040 change transactions from change_pwg_8.txt
+
+# one more time for lsextract
+python lsextract_all.py temp_pwg_8.txt temp_pwg_tooltip_1.txt temp_lsextract_pwg_8b.txt temp_lsnum1_8b.txt
+# Now there are 58 'number' ls, and 0 'unknown' ls.
+# Good!
+# ready to install
+
+--------------
+# Several changes were made to tooltips, in coordination with
+# the above changes to pwg.txt.
+# install temp_pwg_tooltip_1.txt in csl-pywork
+cp temp_pwg_tooltip_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt
+
+
+--------------
+# install  temp_pwg_8.txt to check xml
+cp temp_pwg_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'pwg ' redo_xampp_all.sh
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+ 
+
+---------------------------------------------------------------------------
+That's enough for this batch of changes. ready to install temp_pwg_8
+---------------------------------------------------------------------------
+Commit csl-pywork (for tooltips)
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+git add .
+git commit -m "PWG: numeric orphans, 8.  Tooltip changes. minor rev.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+
+---------------------------------------------------------------------------
+Commit csl-orig, and update at Cologne.
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull  # to handle other changes, if any
+git add .
+git commit -m "PWG: numeric orphans, 8. minor rev.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+-------------------------------------------------
+# do the necessary at cologne:
+# login via ssh.
+cd csl-orig
+git pull
+cd ../csl-pywork/v02
+git pull # for the new tooltips
+grep 'pwg' redo_cologne_all.sh
+# etc.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+
+---------------------------------------------------------------------------
+update pwg repository
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/lsnum1/
+add .
+git commit -m "PWG: numeric orphans, 8
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/65"
+git push
+update issue comment
+
+
 ---------------------------------------------------------------------------
 # regenerate dictionary displays,  a way to check for errors in new tooltips
 
-Tooltip for "PAÑCAT. ed. orn." not recognized in display
-  Note: this problem solved by adding entry "PAÑCAT. ed. orn." to
-  tooltip file.
 ---------------------------------------------------------------------------
 push repositories to Github:
 csl-orig
@@ -817,5 +932,11 @@ csl-pywork
 {Ç} end of entry preceding <L>52710<pc>5-0088<k1>bimbaka<k2>bimbaka
  should be 'long-short' .
 ---------------------------------------------------------------------------
+# revise lsextract_all.py 
+python lsextract_all.py temp_pwg_8.txt temp_pwg_tooltip_1.txt temp_lsextract_pwg_1.txt temp_lsnum1_1.txt
+
+2834 tooltips from temp_pwg_tooltip_1.txt
+81 lsnums written to temp_lsnum1_1.txt
+write_tips Output in  temp_lsextract_pwg_1.txt
 ---------------------------------------------------------------------------
 ---------------------------------------------------------------------------

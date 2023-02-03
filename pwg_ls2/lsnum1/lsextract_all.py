@@ -191,6 +191,7 @@ def count_tips(lines,tipd,numbertip,unknowntip,filenum):
     lsnums.append((metaline,iline,m.group(0)))
    elif elt[0] not in tipd:
     tip = unknowntip
+    lsnums.append((metaline,iline,m.group(0)))
    else:
     tiplist = tipd[elt[0]]
     tip  = findtip(elt,tiplist)
