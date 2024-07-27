@@ -82,7 +82,7 @@ The renaming convention chosen is Vppp.pdf (V = 1 or 2, ppp 0-filled)
 So vol1/'Katha_sarit_sagara_1839 1.pdf' is copied to pdfpages/1001.pdf
  etc.
 and similarly
-  vol1/'Katha_sarit_sagara_1862_better 1.pdf' is copied to pdfpages/2001.pdf
+  vol2/'Katha_sarit_sagara_1862_better 1.pdf' is copied to pdfpages/2001.pdf
 
 This work is done as follows:
 -----------------------------
