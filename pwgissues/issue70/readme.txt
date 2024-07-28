@@ -292,3 +292,119 @@ cologne updates
 End of work as of 7/27/2024
 **************************************************************
 
+**************************************************************
+Other dictionaries
+
+PWG ls abbreviation is KATHĀS.
+  All displays revised and functioning
+----
+PW
+ls abbrev = KATHĀS.
+links available in csl-apidev displays (simple-search)
+BLAM displays need to be regenerated, locally and at cologne.
+
+Regenerate local displays for pw
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pw  ../../pw
+sh xmlchk_xampp.sh pw
+ok
+
+----
+PWKVN
+ls abbrev = KATHĀS.
+links available in csl-apidev displays (simple-search)
+BLAM displays need to be regenerated, locally and at cologne.
+
+Regenerate local displays for pwkvn
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwkvn  ../../pwkvn
+sh xmlchk_xampp.sh pwkvn
+ok
+
+-------------------------------------------------
+SCH
+ls abbrev = Kathās. (note lower case)
+ The link parameters are not within scope of ls.
+ Example: <ls>Kathās.</ls> 27, 92.
+changes required:
+- basicadjust.php  recognize Kathās.
+- sch.txt modified : <ls>Kathās.</ls> 27, 92. -> <ls>Kathās. 27, 92.</ls>
+- csl-apidev: revise basicadjust
+BLAM displays need to be regenerated, locally and at cologne.
+
+147 matches in 144 lines for "<ls>Kathās.</ls>" in buffer: sch.txt
+127 matches in 126 lines for "<ls>Kathās.</ls> [0-9]+, [0-9]+\." in buffer: sch.txt
+ The 20 different are similiar - can be revised manually.
+
+Global change (Emacs) TO /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt
+<ls>Kathās.</ls> \([0-9]+, [0-9]+\.\) → <ls>Kathās. \1</ls>
+ The other 20 modified individually
+<ls n="Kathās.">
+
+---
+in csl-pywork/v02:
+
+
+---
+in csl-websanlexicon:
+Change basicadjust.php to recognize "Kathās." (lower case letters)
+Generate href for sch.
+
+---
+Regenerate local displays for sch
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh sch  ../../sch
+sh xmlchk_xampp.sh sch
+ok
+
+-----
+sync repos to github
+ csl-orig
+ csl-websanlexicon
+ csl-apidev
+
+----
+------------------------------------------------
+MW
+ls abbrev = Kathās. (note lower case)
+ taranga parameter given in lower-case roman numerals, e.g.
+ <ls>Kathās. lxx, 33.</ls>
+ <ls>Kathās. 57, 136</ls>   ! sometimes digits
+  Also 
+ Thus, changes to basicadjust required.
+
+----
+lxx,232  70,232 not found  
+838 matches in 837 lines for "<ls>Kathās. " in buffer: mw.txt
+
+830 matches in 829 lines for "<ls>Kathās. [ivxlc]" in buffer: mw.txt
+8 matches for "<ls>Kathās. [1-9]" in buffer: mw.txt
+---
+change to basicadjust.php in csl-websanlexicon:
+  So local displays generate links for Kathās..
+---
+regenerate local display for mw
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+ok
+
+---
+# copy basicadjust to csl-apidev
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+sh apidev_copy.sh
+
+---
+# sync repos to Github
+csl-websanlexicon, csl-apidev
+------------------------------------------------
+update repos on cologne server
+csl-orig
+csl-websanlexicon
+csl-apidev
+----------
+regenerate displays on cologne server for:
+pwg, pw, pwkvn, sch, mw
+
+Work completed 07-28-2024
+****************************************************************
