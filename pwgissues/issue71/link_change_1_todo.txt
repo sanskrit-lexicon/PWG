@@ -1,0 +1,898 @@
+* <ls n="KATHĀS.">1,d.</ls>	7	<ls>KATHĀS. 7, 13</ls>
+  <ls? n="KATHĀS.">1,d.</ls>
+
+* <ls n="KATHĀS.">101.</ls>	13	<ls>KATHĀS. 13, 99.</ls>
+  <ls n="KATHĀS. 13,">101.</ls>
+
+* <ls n="KATHĀS.">101.</ls>	44	<ls n="KATHĀS. 44,">103.</ls>
+  <ls n="KATHĀS. 44,">101.</ls>
+
+* <ls n="KATHĀS.">102. RAJA-TAR. 4,471.</ls>	117	<ls n="KATHĀS.">117, 1.</ls>
+  <ls n="KATHĀS. 117,">102.</ls>
+  <ls? n="KATHĀS.">RAJA-TAR.</ls>
+  <ls n="KATHĀS.">4, 471.</ls>
+
+* <ls n="KATHĀS.">102.</ls>	15	<ls>KATHĀS. 15, 101.</ls>
+  <ls n="KATHĀS. 15,">102.</ls>
+
+* <ls n="KATHĀS.">102.</ls>	47	<ls>KATHĀS. 47, 101.</ls>
+  <ls n="KATHĀS. 47,">102.</ls>
+
+* <ls n="KATHĀS.">103.HIT. 121, 14.</ls>	14	<ls n="KATHĀS. 14,">37</ls>
+  <ls? n="KATHĀS.">103.HIT.</ls>
+  <ls n="KATHĀS.">121, 14.</ls>
+
+* <ls n="KATHĀS.">104.</ls>	5	<ls>KATHĀS. 5, 80.</ls>
+  <ls n="KATHĀS. 5,">104.</ls>
+
+* <ls n="KATHĀS.">104.</ls>	56	<ls n="KATHĀS. 56,">100.</ls>
+  <ls n="KATHĀS. 56,">104.</ls>
+
+* <ls n="KATHĀS.">107.</ls>	64	<ls n="KATHĀS.">64, 100.</ls>
+  <ls n="KATHĀS. 64,">107.</ls>
+
+* <ls n="KATHĀS.">107.</ls>	33	<ls>KATHĀS. 33, 44.</ls>
+  <ls n="KATHĀS. 33,">107.</ls>
+
+* <ls n="KATHĀS.">107.</ls>	48	<ls>KATHĀS. 48, 100.</ls>
+  <ls n="KATHĀS. 48,">107.</ls>
+
+* <ls n="KATHĀS.">107.</ls>	67	<ls>KATHĀS. 67, 5.</ls>
+  <ls n="KATHĀS. 67,">107.</ls>
+
+* <ls n="KATHĀS.">109. 11.</ls>	73	<ls n="KATHĀS.">73, 277.</ls>
+  <ls n="KATHĀS. 73,">109.</ls>
+  <ls? n="KATHĀS.">11.</ls>
+
+* <ls n="KATHĀS.">109. 111.</ls>	124	<ls>KATHĀS. 124, 112.</ls>
+  <ls n="KATHĀS. 124,">109.</ls>
+  <ls? n="KATHĀS.">111.</ls>
+
+* <ls n="KATHĀS.">11. 37.</ls>	-1	<ls n="KATHĀS.">14. 38. 39. 44.</ls>
+  <ls n="KATHĀS. None,">11.</ls>
+  <ls? n="KATHĀS.">37.</ls>
+
+* <ls n="KATHĀS.">113.</ls>	47	<ls n="KATHĀS.">47, 111.</ls>
+  <ls n="KATHĀS. 47,">113.</ls>
+
+* <ls n="KATHĀS.">113.</ls>	22	<ls>KATHĀS. 22, 233.</ls>
+  <ls n="KATHĀS. 22,">113.</ls>
+
+* <ls n="KATHĀS.">116.</ls>	-1	<ls n="KATHĀS.">115.</ls>
+  <ls n="KATHĀS. None,">116.</ls>
+
+* <ls n="KATHĀS.">117, 140. Insbes.</ls>	28	<ls n="KATHĀS.">28, 104.</ls>
+  <ls n="KATHĀS.">117, 140.</ls>
+  <ls? n="KATHĀS.">Insbes.</ls>
+
+* <ls n="KATHĀS.">118. 121.</ls>	46	<ls>KATHĀS. 46, 110.</ls>
+  <ls n="KATHĀS. 46,">118.</ls>
+  <ls? n="KATHĀS.">121.</ls>
+
+* <ls n="KATHĀS.">118.RĀJA-TAR. 4, 571.</ls>	-1	<ls>KATHĀS. 44</ls>
+  <ls? n="KATHĀS.">118.RĀJA-TAR.</ls>
+  <ls n="KATHĀS.">4, 571.</ls>
+
+* <ls n="KATHĀS.">12. 20. 26.</ls>	82	<ls n="KATHĀS. 82,">46.</ls>
+  <ls n="KATHĀS. 82,">12.</ls>
+  <ls? n="KATHĀS.">20.</ls>
+  <ls? n="KATHĀS.">26.</ls>
+
+* <ls n="KATHĀS.">12. 28. 33. 35.</ls>	-1	<ls n="KATHĀS.">12. 20. 26.</ls>
+  <ls n="KATHĀS. None,">12.</ls>
+  <ls? n="KATHĀS.">28.</ls>
+  <ls? n="KATHĀS.">33.</ls>
+  <ls? n="KATHĀS.">35.</ls>
+
+* <ls n="KATHĀS.">122*.</ls>	-1	<ls>KATHĀS. 5</ls>
+  <ls? n="KATHĀS.">122*.</ls>
+
+* <ls n="KATHĀS.">125.</ls>	18	<ls n="KATHĀS.">18, 153.</ls>
+  <ls n="KATHĀS. 18,">125.</ls>
+
+* <ls n="KATHĀS.">125.</ls>	-1	<ls n="KATHĀS.">128</ls>
+  <ls n="KATHĀS. None,">125.</ls>
+
+* <ls n="KATHĀS.">136.</ls>	65	<ls>KATHĀS. 65, 135.</ls>
+  <ls n="KATHĀS. 65,">136.</ls>
+
+* <ls n="KATHĀS.">136.</ls>	65	<ls>KATHĀS. 65, 135.</ls>
+  <ls n="KATHĀS. 65,">136.</ls>
+
+* <ls n="KATHĀS.">137.</ls>	57	<ls n="KATHĀS. 57,">143.</ls>
+  <ls n="KATHĀS. 57,">137.</ls>
+
+* <ls n="KATHĀS.">137.</ls>	114	<ls>KATHĀS. 114, 23. fgg.</ls>
+  <ls n="KATHĀS. 114,">137.</ls>
+
+* <ls n="KATHĀS.">14. 38. 39. 44.</ls>	-1	<ls n="KATHĀS.">12. 28. 33. 35.</ls>
+  <ls n="KATHĀS. None,">14.</ls>
+  <ls? n="KATHĀS.">38.</ls>
+  <ls? n="KATHĀS.">39.</ls>
+  <ls? n="KATHĀS.">44.</ls>
+
+* <ls n="KATHĀS.">142. 161.</ls>	20	<ls>KATHĀS. 20, 143.</ls>
+  <ls n="KATHĀS. 20,">142.</ls>
+  <ls? n="KATHĀS.">161.</ls>
+
+* <ls n="KATHĀS.">146.</ls>	13	<ls>KATHĀS. 13, 142.</ls>
+  <ls n="KATHĀS. 13,">146.</ls>
+
+* <ls n="KATHĀS.">146.</ls>	29	<ls>KATHĀS. 29, 145.</ls>
+  <ls n="KATHĀS. 29,">146.</ls>
+
+* <ls n="KATHĀS.">15. 41.</ls>	65	<ls>KATHĀS. 65, 11.</ls>
+  <ls n="KATHĀS. 65,">15.</ls>
+  <ls? n="KATHĀS.">41.</ls>
+
+* <ls n="KATHĀS.">150. 137. 272. 359. 1, 42. 7, 88.</ls>	18	<ls>KATHĀS. 18, 131.</ls>
+  <ls n="KATHĀS. 18,">150.</ls>
+  <ls? n="KATHĀS.">137.</ls>
+  <ls? n="KATHĀS.">272.</ls>
+  <ls? n="KATHĀS.">359.</ls>
+  <ls n="KATHĀS.">1, 42.</ls>
+  <ls n="KATHĀS.">7, 88.</ls>
+
+* <ls n="KATHĀS.">151.fg.</ls>	-1	<ls n="KATHĀS.">141.</ls>
+  <ls n="KATHĀS. None,">151. fg.</ls>
+
+* <ls n="KATHĀS.">154. 244. 396.</ls>	18	<ls n="KATHĀS.">18, 83.</ls>
+  <ls n="KATHĀS. 18,">154.</ls>
+  <ls? n="KATHĀS.">244.</ls>
+  <ls? n="KATHĀS.">396.</ls>
+
+* <ls n="KATHĀS.">154.</ls>	37	<ls>KATHĀS. 37, 153.</ls>
+  <ls n="KATHĀS. 37,">154.</ls>
+
+* <ls n="KATHĀS.">154.</ls>	22	<ls>KATHĀS. 22, 24.</ls>
+  <ls n="KATHĀS. 22,">154.</ls>
+
+* <ls n="KATHĀS.">157.</ls>	55	<ls>KATHĀS. 55, 153.</ls>
+  <ls n="KATHĀS. 55,">157.</ls>
+
+* <ls n="KATHĀS.">157.</ls>	49	<ls>KATHĀS. 49, 156.</ls>
+  <ls n="KATHĀS. 49,">157.</ls>
+
+* <ls n="KATHĀS.">158. 159. 161.</ls>	37	<ls>KATHĀS. 37, 155.</ls>
+  <ls n="KATHĀS. 37,">158.</ls>
+  <ls? n="KATHĀS.">159.</ls>
+  <ls? n="KATHĀS.">161.</ls>
+
+* <ls n="KATHĀS.">16. 17.</ls>	66	<ls>KATHĀS. 66, 13.</ls>
+  <ls n="KATHĀS. 66,">16.</ls>
+  <ls? n="KATHĀS.">17.</ls>
+
+* <ls n="KATHĀS.">16.</ls>	-1	<ls n="KATHĀS.">114.</ls>
+  <ls n="KATHĀS. None,">16.</ls>
+
+* <ls n="KATHĀS.">16.</ls>	57	<ls n="KATHĀS. 57,">20.</ls>
+  <ls n="KATHĀS. 57,">16.</ls>
+
+* <ls n="KATHĀS.">16.</ls>	39	<ls n="KATHĀS. 39,">12.</ls>
+  <ls n="KATHĀS. 39,">16.</ls>
+
+* <ls n="KATHĀS.">16.</ls>	61	<ls>KATHĀS. 61, 14</ls>
+  <ls n="KATHĀS. 61,">16.</ls>
+
+* <ls n="KATHĀS.">165. 349.</ls>	18	<ls>KATHĀS. 18, 310.</ls>
+  <ls n="KATHĀS. 18,">165.</ls>
+  <ls? n="KATHĀS.">349.</ls>
+
+* <ls n="KATHĀS.">168. 180.</ls>	71	<ls n="KATHĀS.">71, 162.</ls>
+  <ls n="KATHĀS. 71,">168.</ls>
+  <ls? n="KATHĀS.">180.</ls>
+
+* <ls n="KATHĀS.">169. 177.</ls>	73	<ls n="KATHĀS.">73, 178.</ls>
+  <ls n="KATHĀS. 73,">169.</ls>
+  <ls? n="KATHĀS.">177.</ls>
+
+* <ls n="KATHĀS.">177.</ls>	-1	<ls n="KATHĀS.">172.</ls>
+  <ls n="KATHĀS. None,">177.</ls>
+
+* <ls n="KATHĀS.">182(?).</ls>	-1	<ls>KATHĀS. 52</ls>
+  <ls? n="KATHĀS.">182(?).</ls>
+
+* <ls n="KATHĀS.">182.</ls>	-1	<ls n="KATHĀS.">180.</ls>
+  <ls n="KATHĀS. None,">182.</ls>
+
+* <ls n="KATHĀS.">185.</ls>	18	<ls>KATHĀS. 18, 112.</ls>
+  <ls n="KATHĀS. 18,">185.</ls>
+
+* <ls n="KATHĀS.">185.</ls>	54	<ls>KATHĀS. 54, 183.</ls>
+  <ls n="KATHĀS. 54,">185.</ls>
+
+* <ls n="KATHĀS.">187.</ls>	72	<ls n="KATHĀS.">72, 276.</ls>
+  <ls n="KATHĀS. 72,">187.</ls>
+
+* <ls n="KATHĀS.">187.</ls>	61	<ls>KATHĀS. 61, 185.</ls>
+  <ls n="KATHĀS. 61,">187.</ls>
+
+* <ls n="KATHĀS.">195. 197. 200.</ls>	62	<ls>KATHĀS. 62, 198.</ls>
+  <ls n="KATHĀS. 62,">195.</ls>
+  <ls? n="KATHĀS.">197.</ls>
+  <ls? n="KATHĀS.">200.</ls>
+
+* <ls n="KATHĀS.">197.</ls>	73	<ls n="KATHĀS.">73, 384.</ls>
+  <ls n="KATHĀS. 73,">197.</ls>
+
+* <ls n="KATHĀS.">197.</ls>	60	<ls>KATHĀS. 60, 201</ls>
+  <ls n="KATHĀS. 60,">197.</ls>
+
+* <ls n="KATHĀS.">2,b</ls>	22	<ls>KATHĀS. 22, 90.</ls>
+  <ls? n="KATHĀS.">2,b</ls>
+
+* <ls n="KATHĀS.">2.) 111, 5.</ls>	98	<ls n="KATHĀS.">98, 43.</ls>
+  <ls? n="KATHĀS.">2.)</ls>
+  <ls n="KATHĀS.">111, 5.</ls>
+
+* <ls n="KATHĀS.">201.</ls>	43	<ls n="KATHĀS. 43,">38.</ls>
+  <ls n="KATHĀS. 43,">201.</ls>
+
+* <ls n="KATHĀS.">201.</ls>	43	<ls n="KATHĀS.">43, 44.</ls>
+  <ls n="KATHĀS. 43,">201.</ls>
+
+* <ls n="KATHĀS.">21. 54.</ls>	26	<ls n="KATHĀS.">26, 194. fgg.</ls>
+  <ls n="KATHĀS. 26,">21.</ls>
+  <ls? n="KATHĀS.">54.</ls>
+
+* <ls n="KATHĀS.">22,a.</ls>	1	<ls n="KATHĀS.">1, 15</ls>
+  <ls? n="KATHĀS.">22,a.</ls>
+
+* <ls n="KATHĀS.">223.</ls>	-1	<ls n="KATHĀS.">222.</ls>
+  <ls n="KATHĀS. None,">223.</ls>
+
+* <ls n="KATHĀS.">229.</ls>	18	<ls>KATHĀS. 18, 224.</ls>
+  <ls n="KATHĀS. 18,">229.</ls>
+
+* <ls n="KATHĀS.">229.</ls>	101	<ls>KATHĀS. 101, 71.</ls>
+  <ls n="KATHĀS. 101,">229.</ls>
+
+* <ls n="KATHĀS.">23. 55.</ls>	100	<ls>KATHĀS. 100, 39. fg.</ls>
+  <ls n="KATHĀS. 100,">23.</ls>
+  <ls? n="KATHĀS.">55.</ls>
+
+* <ls n="KATHĀS.">230.</ls>	46	<ls>KATHĀS. 46, 79.</ls>
+  <ls n="KATHĀS. 46,">230.</ls>
+
+* <ls n="KATHĀS.">230.</ls>	18	<ls n="KATHĀS. 18,">303.</ls>
+  <ls n="KATHĀS. 18,">230.</ls>
+
+* <ls n="KATHĀS.">230.</ls>	20	<ls n="KATHĀS.">20, 72</ls>
+  <ls n="KATHĀS. 20,">230.</ls>
+
+* <ls n="KATHĀS.">236.</ls>	-1	<ls n="KATHĀS.">362.</ls>
+  <ls n="KATHĀS. None,">236.</ls>
+
+* <ls n="KATHĀS.">244. 247.</ls>	61	<ls n="KATHĀS.">61, 241.</ls>
+  <ls n="KATHĀS. 61,">244.</ls>
+  <ls? n="KATHĀS.">247.</ls>
+
+* <ls n="KATHĀS.">259. 277.</ls>	-1	<ls n="KATHĀS.">236.</ls>
+  <ls n="KATHĀS. None,">259.</ls>
+  <ls? n="KATHĀS.">277.</ls>
+
+* <ls n="KATHĀS.">259.</ls>	-1	<ls n="KATHĀS.">259. 277.</ls>
+  <ls n="KATHĀS. None,">259.</ls>
+
+* <ls n="KATHĀS.">277. 283.</ls>	-1	<ls n="KATHĀS.">259.</ls>
+  <ls n="KATHĀS. None,">277.</ls>
+  <ls? n="KATHĀS.">283.</ls>
+
+* <ls n="KATHĀS.">28. 69.</ls>	117	<ls>KATHĀS. 117, 18.</ls>
+  <ls n="KATHĀS. 117,">28.</ls>
+  <ls? n="KATHĀS.">69.</ls>
+
+* <ls n="KATHĀS.">283.</ls>	-1	<ls n="KATHĀS.">277. 283.</ls>
+  <ls n="KATHĀS. None,">283.</ls>
+
+* <ls n="KATHĀS.">2</ls>	113	<ls>KATHĀS. 113, 74</ls>
+  <ls n="KATHĀS. 113,">2</ls>
+
+* <ls n="KATHĀS.">2</ls>	-1	<ls n="KATHĀS.">82. 84. 93. 169</ls>
+  <ls n="KATHĀS. None,">2</ls>
+
+* <ls n="KATHĀS.">2</ls>	104	<ls>KATHĀS. 104, 203</ls>
+  <ls n="KATHĀS. 104,">2</ls>
+
+* <ls n="KATHĀS.">30.</ls>	43	<ls>KATHĀS. 43, 28.</ls>
+  <ls n="KATHĀS. 43,">30.</ls>
+
+* <ls n="KATHĀS.">30.</ls>	108	<ls>KATHĀS. 108, 28.</ls>
+  <ls n="KATHĀS. 108,">30.</ls>
+
+* <ls n="KATHĀS.">316.</ls>	18	<ls>KATHĀS. 18, 269.</ls>
+  <ls n="KATHĀS. 18,">316.</ls>
+
+* <ls n="KATHĀS.">316.</ls>	18	<ls>KATHĀS. 18, 341.</ls>
+  <ls n="KATHĀS. 18,">316.</ls>
+
+* <ls n="KATHĀS.">318. 361.</ls>	-1	<ls n="KATHĀS.">283.</ls>
+  <ls n="KATHĀS. None,">318.</ls>
+  <ls? n="KATHĀS.">361.</ls>
+
+* <ls n="KATHĀS.">32.</ls>	-1	<ls n="KATHĀS.">40.</ls>
+  <ls n="KATHĀS. None,">32.</ls>
+
+* <ls n="KATHĀS.">33.</ls>	35	<ls n="KATHĀS.">35, 3.</ls>
+  <ls n="KATHĀS. 35,">33.</ls>
+
+* <ls n="KATHĀS.">33.</ls>	102	<ls>KATHĀS. 102, 55.</ls>
+  <ls n="KATHĀS. 102,">33.</ls>
+
+* <ls n="KATHĀS.">336.</ls>	56	<ls>KATHĀS. 56, 332.</ls>
+  <ls n="KATHĀS. 56,">336.</ls>
+
+* <ls n="KATHĀS.">336.</ls>	123	<ls>KATHĀS. 123, 316.</ls>
+  <ls n="KATHĀS. 123,">336.</ls>
+
+* <ls n="KATHĀS.">34. 36.</ls>	20	<ls>KATHĀS. 20, 40.</ls>
+  <ls n="KATHĀS. 20,">34.</ls>
+  <ls? n="KATHĀS.">36.</ls>
+
+* <ls n="KATHĀS.">35, 120. fgg. erzählt wird, 1, 6.</ls>	-1	<ls>KATHĀS.</ls>
+  <ls n="KATHĀS.">35, 120. fgg.</ls>
+  <ls? n="KATHĀS.">erzählt</ls>
+  <ls? n="KATHĀS.">wird,</ls>
+  <ls n="KATHĀS.">1, 6.</ls>
+
+* <ls n="KATHĀS.">36.</ls>	35	<ls n="KATHĀS.">35, 35.</ls>
+  <ls n="KATHĀS. 35,">36.</ls>
+
+* <ls n="KATHĀS.">36.</ls>	63	<ls n="KATHĀS.">63, 58.</ls>
+  <ls n="KATHĀS. 63,">36.</ls>
+
+* <ls n="KATHĀS.">362.</ls>	72	<ls>KATHĀS. 72, 218.</ls>
+  <ls n="KATHĀS. 72,">362.</ls>
+
+* <ls n="KATHĀS.">362.</ls>	52	<ls>KATHĀS. 52, 282.</ls>
+  <ls n="KATHĀS. 52,">362.</ls>
+
+* <ls n="KATHĀS.">40.</ls>	11	<ls>KATHĀS. 11, 7.</ls>
+  <ls n="KATHĀS. 11,">40.</ls>
+
+* <ls n="KATHĀS.">40.</ls>	37	<ls>KATHĀS. 37, 37. fg.</ls>
+  <ls n="KATHĀS. 37,">40.</ls>
+
+* <ls n="KATHĀS.">40.</ls>	-1	<ls n="KATHĀS.">15. 41.</ls>
+  <ls n="KATHĀS. None,">40.</ls>
+
+* <ls n="KATHĀS.">401. 35</ls>	52	<ls>KATHĀS. 52, 400.</ls>
+  <ls n="KATHĀS. 52,">401.</ls>
+  <ls? n="KATHĀS.">35</ls>
+
+* <ls n="KATHĀS.">41.</ls>	68	<ls n="KATHĀS. 68,">46.</ls>
+  <ls n="KATHĀS. 68,">41.</ls>
+
+* <ls n="KATHĀS.">41.</ls>	74	<ls>KATHĀS. 74, 36.</ls>
+  <ls n="KATHĀS. 74,">41.</ls>
+
+* <ls n="KATHĀS.">42.</ls>	45	<ls>KATHĀS. 45, 45.</ls>
+  <ls n="KATHĀS. 45,">42.</ls>
+
+* <ls n="KATHĀS.">42.</ls>	53	<ls>KATHĀS. 53, 64</ls>
+  <ls n="KATHĀS. 53,">42.</ls>
+
+* <ls n="KATHĀS.">42.</ls>	17	<ls n="KATHĀS.">17, 38.</ls>
+  <ls n="KATHĀS. 17,">42.</ls>
+
+* <ls n="KATHĀS.">434. 3435</ls>	30	<ls>KATHĀS. 30, 17.</ls>
+  <ls n="KATHĀS. 30,">434.</ls>
+  <ls? n="KATHĀS.">3435</ls>
+
+* <ls n="KATHĀS.">47.</ls>	27	<ls n="KATHĀS. 27,">50.</ls>
+  <ls n="KATHĀS. 27,">47.</ls>
+
+* <ls n="KATHĀS.">47.</ls>	81	<ls>KATHĀS. 81, 97.</ls>
+  <ls n="KATHĀS. 81,">47.</ls>
+
+* <ls n="KATHĀS.">49. 51.</ls>	38	<ls>KATHĀS. 38, 47</ls>
+  <ls n="KATHĀS. 38,">49.</ls>
+  <ls? n="KATHĀS.">51.</ls>
+
+* <ls n="KATHĀS.">51. fgg.</ls>	-1	<ls>KATHĀS. 53, 90, 78, 9</ls>
+  <ls n="KATHĀS. None,">51. fgg.</ls>
+
+* <ls n="KATHĀS.">52, 299. - 55, 5. 56, 296.</ls>	61	<ls n="KATHĀS.">61, 305.</ls>
+  <ls n="KATHĀS.">52, 299.</ls>
+  <ls? n="KATHĀS.">-</ls>
+  <ls n="KATHĀS.">55, 5.</ls>
+  <ls n="KATHĀS.">56, 296.</ls>
+
+* <ls n="KATHĀS.">52.</ls>	64	<ls>KATHĀS. 64, 43. fgg.</ls>
+  <ls n="KATHĀS. 64,">52.</ls>
+
+* <ls n="KATHĀS.">52.</ls>	18	<ls>KATHĀS. 18, 293.</ls>
+  <ls n="KATHĀS. 18,">52.</ls>
+
+* <ls n="KATHĀS.">56.</ls>	89	<ls>KATHĀS. 89, 25. fg.</ls>
+  <ls n="KATHĀS. 89,">56.</ls>
+
+* <ls n="KATHĀS.">56.</ls>	61	<ls n="KATHĀS.">61, 36.</ls>
+  <ls n="KATHĀS. 61,">56.</ls>
+
+* <ls n="KATHĀS.">66, 97. act.</ls>	56	<ls n="KATHĀS.">56, 354.</ls>
+  <ls n="KATHĀS.">66, 97.</ls>
+  <ls? n="KATHĀS.">act.</ls>
+
+* <ls n="KATHĀS.">67.</ls>	4	<ls>KATHĀS. 4, 47.</ls>
+  <ls n="KATHĀS. 4,">67.</ls>
+
+* <ls n="KATHĀS.">67.</ls>	55	<ls>KATHĀS. 55, 43.</ls>
+  <ls n="KATHĀS. 55,">67.</ls>
+
+* <ls n="KATHĀS.">68. 58. fg. 114, 112.</ls>	97	<ls>KATHĀS. 97, 6.</ls>
+  <ls n="KATHĀS. 97,">68.</ls>
+  <ls? n="KATHĀS.">58. fg.</ls>
+  <ls n="KATHĀS.">114, 112.</ls>
+
+* <ls n="KATHĀS.">70. 32.</ls>	39	<ls>KATHĀS. 39, 14.</ls>
+  <ls n="KATHĀS. 39,">70.</ls>
+  <ls? n="KATHĀS.">32.</ls>
+
+* <ls n="KATHĀS.">71. 264.</ls>	29	<ls n="KATHĀS.">29, 100.</ls>
+  <ls n="KATHĀS. 29,">71.</ls>
+  <ls? n="KATHĀS.">264.</ls>
+
+* <ls n="KATHĀS.">75.</ls>	62	<ls>KATHĀS. 62, 53.</ls>
+  <ls n="KATHĀS. 62,">75.</ls>
+
+* <ls n="KATHĀS.">75.</ls>	109	<ls>KATHĀS. 109, 60</ls>
+  <ls n="KATHĀS. 109,">75.</ls>
+
+* <ls n="KATHĀS.">75.</ls>	112	<ls n="KATHĀS.">112, 70.</ls>
+  <ls n="KATHĀS. 112,">75.</ls>
+
+* <ls n="KATHĀS.">75.</ls>	101	<ls n="KATHĀS.">101, 74.</ls>
+  <ls n="KATHĀS. 101,">75.</ls>
+
+* <ls n="KATHĀS.">8, 2, 55</ls>	13	<ls>KATHĀS. 13, 10.</ls>
+  <ls? n="KATHĀS.">8,</ls>
+  <ls n="KATHĀS.">2, 55</ls>
+
+* <ls n="KATHĀS.">80.</ls>	66	<ls n="KATHĀS. 66,">97.</ls>
+  <ls n="KATHĀS. 66,">80.</ls>
+
+* <ls n="KATHĀS.">80.</ls>	27	<ls>KATHĀS. 27, 35.</ls>
+  <ls n="KATHĀS. 27,">80.</ls>
+
+* <ls n="KATHĀS.">81. 123. 6, 95.</ls>	4	<ls>KATHĀS. 4, 5</ls>
+  <ls n="KATHĀS. 4,">81.</ls>
+  <ls? n="KATHĀS.">123.</ls>
+  <ls n="KATHĀS.">6, 95.</ls>
+
+* <ls n="KATHĀS.">82. 84. 93. 169</ls>	75	<ls n="KATHĀS. 75,">185.</ls>
+  <ls n="KATHĀS. 75,">82.</ls>
+  <ls? n="KATHĀS.">84.</ls>
+  <ls? n="KATHĀS.">93.</ls>
+  <ls? n="KATHĀS.">169</ls>
+
+* <ls n="KATHĀS.">82.</ls>	16	<ls>KATHĀS. 16, 79.</ls>
+  <ls n="KATHĀS. 16,">82.</ls>
+
+* <ls n="KATHĀS.">82.</ls>	28	<ls>KATHĀS. 28, 83.</ls>
+  <ls n="KATHĀS. 28,">82.</ls>
+
+* <ls n="KATHĀS.">84.</ls>	14	<ls n="KATHĀS. 14,">83.</ls>
+  <ls n="KATHĀS. 14,">84.</ls>
+
+* <ls n="KATHĀS.">84.</ls>	114	<ls n="KATHĀS.">114, 95.</ls>
+  <ls n="KATHĀS. 114,">84.</ls>
+
+* <ls n="KATHĀS.">856.</ls>	-1	<ls>H.</ls>
+  <ls n="KATHĀS. None,">856.</ls>
+
+* <ls n="KATHĀS.">86. 90.</ls>	65	<ls>KATHĀS. 65, 122.</ls>
+  <ls n="KATHĀS. 65,">86.</ls>
+  <ls? n="KATHĀS.">90.</ls>
+
+* <ls n="KATHĀS.">89. 95.</ls>	-1	<ls n="KATHĀS.">80.</ls>
+  <ls n="KATHĀS. None,">89.</ls>
+  <ls? n="KATHĀS.">95.</ls>
+
+* <ls n="KATHĀS.">9, 77. - 20, 17. 123, 265.</ls>	82	<ls n="KATHĀS.">82, 40.</ls>
+  <ls n="KATHĀS.">9, 77.</ls>
+  <ls? n="KATHĀS.">-</ls>
+  <ls n="KATHĀS.">20, 17.</ls>
+  <ls n="KATHĀS.">123, 265.</ls>
+
+* <ls n="KATHĀS.">97. 223. 24, 179. 28, 159. 37, 125. 39, 119.</ls>	18	<ls n="KATHĀS.">18, 93.</ls>
+  <ls n="KATHĀS. 18,">97.</ls>
+  <ls? n="KATHĀS.">223.</ls>
+  <ls n="KATHĀS.">24, 179.</ls>
+  <ls n="KATHĀS.">28, 159.</ls>
+  <ls n="KATHĀS.">37, 125.</ls>
+  <ls n="KATHĀS.">39, 119.</ls>
+
+* <ls>KATHĀS. 1, 23, 158</ls>	-1	<ls>ed. Bomb.</ls>
+  <ls? n="KATHĀS.">1,</ls>
+  <ls n="KATHĀS.">23, 158</ls>
+
+* <ls>KATHĀS. 1. 30.</ls>	-1	<ls>SĀH. D. 69, 7.</ls>
+  <ls n="KATHĀS. None,">1.</ls>
+  <ls? n="KATHĀS.">30.</ls>
+
+* <ls>KATHĀS. 1. 53.</ls>	-1	<ls n="Spr. (II)">1487. 6017.</ls>
+  <ls n="KATHĀS. None,">1.</ls>
+  <ls? n="KATHĀS.">53.</ls>
+
+* <ls>KATHĀS. 10. 130.</ls>	-1	<ls>SUŚR. 2, 503, 13.</ls>
+  <ls n="KATHĀS. None,">10.</ls>
+  <ls? n="KATHĀS.">130.</ls>
+
+* <ls>KATHĀS. 102. 51.</ls>	-1	<ls>RĀJA-TAR. 5, 346.</ls>
+  <ls n="KATHĀS. None,">102.</ls>
+  <ls? n="KATHĀS.">51.</ls>
+
+* <ls>KATHĀS. 104. 83.</ls>	-1	NA
+  <ls n="KATHĀS. None,">104.</ls>
+  <ls? n="KATHĀS.">83.</ls>
+
+* <ls>KATHĀS. 107. 86.</ls>	-1	NA
+  <ls n="KATHĀS. None,">107.</ls>
+  <ls? n="KATHĀS.">86.</ls>
+
+* <ls>KATHĀS. 109. 59.</ls>	-1	<ls>SARVADARŚANAS. 40, 19.</ls>
+  <ls n="KATHĀS. None,">109.</ls>
+  <ls? n="KATHĀS.">59.</ls>
+
+* <ls>KATHĀS. 119. 184.</ls>	-1	<ls n="RĀJA-TAR.">191.</ls>
+  <ls n="KATHĀS. None,">119.</ls>
+  <ls? n="KATHĀS.">184.</ls>
+
+* <ls>KATHĀS. 12. 51. 60.</ls>	-1	<ls>VID. 178.</ls>
+  <ls n="KATHĀS. None,">12.</ls>
+  <ls? n="KATHĀS.">51.</ls>
+  <ls? n="KATHĀS.">60.</ls>
+
+* <ls>KATHĀS. 12.</ls>	-1	<ls>Spr. (II) 1542.</ls>
+  <ls n="KATHĀS. None,">12.</ls>
+
+* <ls>KATHĀS. 123. 153.</ls>	-1	NA
+  <ls n="KATHĀS. None,">123.</ls>
+  <ls? n="KATHĀS.">153.</ls>
+
+* <ls>KATHĀS. 13. 165. 26, 3.</ls>	-1	<ls>Z. f. d. K. d. M. 2,426,3.</ls>
+  <ls n="KATHĀS. None,">13.</ls>
+  <ls? n="KATHĀS.">165.</ls>
+  <ls n="KATHĀS.">26, 3.</ls>
+
+* <ls>KATHĀS. 13. 190.</ls>	-1	<ls>RĀJA-TAR. 5, 396.</ls>
+  <ls n="KATHĀS. None,">13.</ls>
+  <ls? n="KATHĀS.">190.</ls>
+
+* <ls>KATHĀS. 16, 31. 27, 133).</ls>	-1	<ls>KĀM. NĪTIS. 11, 2.</ls>
+  <ls>KATHĀS. 16, 31.</ls>
+  <ls? n="KATHĀS.">27,</ls>
+  <ls? n="KATHĀS.">133).</ls>
+
+* <ls>KATHĀS. 16. 38.</ls>	-1	<ls>VARĀH. BṚH. S. 12, 18. 15, 66. 57. 8. 94, 23.</ls>
+  <ls n="KATHĀS. None,">16.</ls>
+  <ls? n="KATHĀS.">38.</ls>
+
+* <ls>KATHĀS. 16. 85.</ls>	-1	<ls n="MBH.">12, 13249.</ls>
+  <ls n="KATHĀS. None,">16.</ls>
+  <ls? n="KATHĀS.">85.</ls>
+
+* <ls>KATHĀS. 18. 58.</ls>	-1	<ls>Verz. d. B. H. 240.</ls>
+  <ls n="KATHĀS. None,">18.</ls>
+  <ls? n="KATHĀS.">58.</ls>
+
+* <ls>KATHĀS. 19. 95.</ls>	-1	<ls>RAGH. 15, 101.</ls>
+  <ls n="KATHĀS. None,">19.</ls>
+  <ls? n="KATHĀS.">95.</ls>
+
+* <ls>KATHĀS. 2. 37.</ls>	-1	<ls>R. 4, 20, 16.</ls>
+  <ls n="KATHĀS. None,">2.</ls>
+  <ls? n="KATHĀS.">37.</ls>
+
+* <ls>KATHĀS. 2. 49. 5, 30. 26, 44. 29, 59. 34, 145.</ls>	-1	<ls>MĀLAV. 50, 6.</ls>
+  <ls n="KATHĀS. None,">2.</ls>
+  <ls? n="KATHĀS.">49.</ls>
+  <ls n="KATHĀS.">5, 30.</ls>
+  <ls n="KATHĀS.">26, 44.</ls>
+  <ls n="KATHĀS.">29, 59.</ls>
+  <ls n="KATHĀS.">34, 145.</ls>
+
+* <ls>KATHĀS. 2. 49.</ls>	-1	<ls n="HIT.">32, 9.</ls>
+  <ls n="KATHĀS. None,">2.</ls>
+  <ls? n="KATHĀS.">49.</ls>
+
+* <ls>KATHĀS. 20. 114.</ls>	-1	<ls n="Lot. de la b. l.">416.</ls>
+  <ls n="KATHĀS. None,">20.</ls>
+  <ls? n="KATHĀS.">114.</ls>
+
+* <ls>KATHĀS. 20. 161. 71, 282. fg. 94, 72.</ls>	-1	<ls>MBH. 8, 2099.</ls>
+  <ls n="KATHĀS. None,">20.</ls>
+  <ls? n="KATHĀS.">161.</ls>
+  <ls n="KATHĀS.">71, 282. fg.</ls>
+  <ls n="KATHĀS.">94, 72.</ls>
+
+* <ls>KATHĀS. 20. 92. 39, 145.</ls>	-1	<ls n="HARIV.">11963</ls>
+  <ls n="KATHĀS. None,">20.</ls>
+  <ls? n="KATHĀS.">92.</ls>
+  <ls n="KATHĀS.">39, 145.</ls>
+
+* <ls>KATHĀS. 21,85. Nägel 23,88. 25,238. 37,87. 54,127. 81,17. 109,10. 123,208.</ls>	-1	<ls n="Spr. (II)">2303. 2545. 4772. 7106. 7254.</ls>
+  <ls>KATHĀS. 21, 85.</ls>
+  <ls? n="KATHĀS.">Nägel</ls>
+  <ls n="KATHĀS.">23, 88.</ls>
+  <ls n="KATHĀS.">25, 238.</ls>
+  <ls n="KATHĀS.">37, 87.</ls>
+  <ls n="KATHĀS.">54, 127.</ls>
+  <ls n="KATHĀS.">81, 17.</ls>
+  <ls n="KATHĀS.">109, 10.</ls>
+  <ls n="KATHĀS.">123, 208.</ls>
+
+* <ls>KATHĀS. 21. 22.</ls>	-1	<ls>MBH. 15, 113.</ls>
+  <ls n="KATHĀS. None,">21.</ls>
+  <ls? n="KATHĀS.">22.</ls>
+
+* <ls>KATHĀS. 22. 1.</ls>	-1	<ls>BHĀG. P. 10, 1, 23.</ls>
+  <ls n="KATHĀS. None,">22.</ls>
+  <ls? n="KATHĀS.">1.</ls>
+
+* <ls>KATHĀS. 23. 67.</ls>	-1	<ls n="R. GORR.">2, 2, 33.</ls>
+  <ls n="KATHĀS. None,">23.</ls>
+  <ls? n="KATHĀS.">67.</ls>
+
+* <ls>KATHĀS. 24, 136. S.</ls>	-1	<ls>AK. 3, 6, 12.</ls>
+  <ls>KATHĀS. 24, 136.</ls>
+  <ls? n="KATHĀS.">S.</ls>
+
+* <ls>KATHĀS. 24. 101.</ls>	-1	<ls>BHARTṚ. 3, 97.</ls>
+  <ls n="KATHĀS. None,">24.</ls>
+  <ls? n="KATHĀS.">101.</ls>
+
+* <ls>KATHĀS. 24. 160. 61, 247.</ls>	-1	<ls>MAITRYUP. 3, 5.</ls>
+  <ls n="KATHĀS. None,">24.</ls>
+  <ls? n="KATHĀS.">160.</ls>
+  <ls n="KATHĀS.">61, 247.</ls>
+
+* <ls>KATHĀS. 24. 87</ls>	-1	<ls>SUND. 4, 14.</ls>
+  <ls n="KATHĀS. None,">24.</ls>
+  <ls? n="KATHĀS.">87</ls>
+
+* <ls>KATHĀS. 25, 295. -</ls>	-1	<ls>BHAG. 18, 26.</ls>
+  <ls>KATHĀS. 25, 295.</ls>
+  <ls? n="KATHĀS.">-</ls>
+
+* <ls>KATHĀS. 26, 174)</ls>	-1	<ls>RĀJA-TAR. 2, 131. 4, 48. 306.</ls>
+  <ls? n="KATHĀS.">26,</ls>
+  <ls? n="KATHĀS.">174)</ls>
+
+* <ls>KATHĀS. 26. 192.</ls>	-1	NA
+  <ls n="KATHĀS. None,">26.</ls>
+  <ls? n="KATHĀS.">192.</ls>
+
+* <ls>KATHĀS. 26. 59. 46, 48. 47, 9.</ls>	-1	<ls>SŪRYAS. 3, 42.</ls>
+  <ls n="KATHĀS. None,">26.</ls>
+  <ls? n="KATHĀS.">59.</ls>
+  <ls n="KATHĀS.">46, 48.</ls>
+  <ls n="KATHĀS.">47, 9.</ls>
+
+* <ls>KATHĀS. 27, 18. <is>Agni</is></ls>	-1	<ls>ŚĀK. 128.</ls>
+  <ls>KATHĀS. 27, 18.</ls>
+  <ls? n="KATHĀS."><is>Agni</is></ls>
+
+* <ls>KATHĀS. 27. 119.</ls>	-1	<ls>M. 8, 101.</ls>
+  <ls n="KATHĀS. None,">27.</ls>
+  <ls? n="KATHĀS.">119.</ls>
+
+* <ls>KATHĀS. 27. 57.</ls>	-1	<ls>MBH. 5, 1567.</ls>
+  <ls n="KATHĀS. None,">27.</ls>
+  <ls? n="KATHĀS.">57.</ls>
+
+* <ls>KATHĀS. 28, 44. - 42, 35. 60.</ls>	-1	<ls>PAÑCAT. 165, 19.</ls>
+  <ls>KATHĀS. 28, 44.</ls>
+  <ls? n="KATHĀS.">-</ls>
+  <ls n="KATHĀS.">42, 35.</ls>
+  <ls n="KATHĀS. 42,">60.</ls>
+
+* <ls>KATHĀS. 29, 110), 1.</ls>	-1	<ls>MBH. 11, 166.</ls>
+  <ls? n="KATHĀS.">29,</ls>
+  <ls? n="KATHĀS.">110),</ls>
+  <ls? n="KATHĀS.">1.</ls>
+
+* <ls>KATHĀS. 29, 87. 34, 211)</ls>	-1	<ls>Spr. (II) 2129.</ls>
+  <ls>KATHĀS. 29, 87.</ls>
+  <ls? n="KATHĀS.">34,</ls>
+  <ls? n="KATHĀS.">211)</ls>
+
+* <ls>KATHĀS. 29. 3.</ls>	-1	NA
+  <ls n="KATHĀS. None,">29.</ls>
+  <ls? n="KATHĀS.">3.</ls>
+
+* <ls>KATHĀS. 31. 69.</ls>	-1	NA
+  <ls n="KATHĀS. None,">31.</ls>
+  <ls? n="KATHĀS.">69.</ls>
+
+* <ls>KATHĀS. 32; 140.</ls>	-1	NA
+  <ls? n="KATHĀS.">32;</ls>
+  <ls? n="KATHĀS.">140.</ls>
+
+* <ls>KATHĀS. 36. 106.</ls>	-1	<ls>Spr. 1576.</ls>
+  <ls n="KATHĀS. None,">36.</ls>
+  <ls? n="KATHĀS.">106.</ls>
+
+* <ls>KATHĀS. 37, 75. 45, 408. 56, 165 320. 342. 61, 312. 65, 10. 13. 45. 72, 224.</ls>	-1	<ls>MBH. 3, 14339.</ls>
+  <ls>KATHĀS. 37, 75.</ls>
+  <ls n="KATHĀS.">45, 408.</ls>
+  <ls? n="KATHĀS.">56,</ls>
+  <ls? n="KATHĀS.">165</ls>
+  <ls n="KATHĀS. 45,">320.</ls>
+  <ls n="KATHĀS. 45,">342.</ls>
+  <ls n="KATHĀS.">61, 312.</ls>
+  <ls n="KATHĀS.">65, 10.</ls>
+  <ls n="KATHĀS. 65,">13.</ls>
+  <ls n="KATHĀS. 65,">45.</ls>
+  <ls n="KATHĀS.">72, 224.</ls>
+
+* <ls>KATHĀS. 38. 126. 30, 48.</ls>	-1	<ls>VID. 195. 215.</ls>
+  <ls n="KATHĀS. None,">38.</ls>
+  <ls? n="KATHĀS.">126.</ls>
+  <ls n="KATHĀS.">30, 48.</ls>
+
+* <ls>KATHĀS. 39. 36.</ls>	-1	<ls>RAGH. 15, 101.</ls>
+  <ls n="KATHĀS. None,">39.</ls>
+  <ls? n="KATHĀS.">36.</ls>
+
+* <ls>KATHĀS. 4, 41).</ls>	-1	<ls>RAGH. 13, 18.</ls>
+  <ls? n="KATHĀS.">4,</ls>
+  <ls? n="KATHĀS.">41).</ls>
+
+* <ls>KATHĀS. 4, 75).</ls>	-1	<ls>UPAK. 73</ls>
+  <ls? n="KATHĀS.">4,</ls>
+  <ls? n="KATHĀS.">75).</ls>
+
+* <ls>KATHĀS. 4. 79. 27, 26. 36, 49. 38, 54.</ls>	-1	<ls>VID. 169.</ls>
+  <ls n="KATHĀS. None,">4.</ls>
+  <ls? n="KATHĀS.">79.</ls>
+  <ls n="KATHĀS.">27, 26.</ls>
+  <ls n="KATHĀS.">36, 49.</ls>
+  <ls n="KATHĀS.">38, 54.</ls>
+
+* <ls>KATHĀS. 40. 12.</ls>	-1	<ls n="Spr. (II)">6515, v. l.</ls>
+  <ls n="KATHĀS. None,">40.</ls>
+  <ls? n="KATHĀS.">12.</ls>
+
+* <ls>KATHĀS. 42, 45 (44</ls>	-1	NA
+  <ls? n="KATHĀS.">42,</ls>
+  <ls? n="KATHĀS.">45</ls>
+  <ls? n="KATHĀS.">(44</ls>
+
+* <ls>KATHĀS. 43, 65. 47, 108. 49, 236. ad</ls>	-1	<ls>SUŚR. 2, 117, 17. 248, 20.</ls>
+  <ls>KATHĀS. 43, 65.</ls>
+  <ls n="KATHĀS.">47, 108.</ls>
+  <ls n="KATHĀS.">49, 236.</ls>
+  <ls? n="KATHĀS.">ad</ls>
+
+* <ls>KATHĀS. 43. 248.</ls>	-1	<ls>ŚAK. 53, 10.</ls>
+  <ls n="KATHĀS. None,">43.</ls>
+  <ls? n="KATHĀS.">248.</ls>
+
+* <ls>KATHĀS. 44 60.</ls>	-1	<ls>Spr. 4971. 5118. 3223.</ls>
+  <ls? n="KATHĀS.">44</ls>
+  <ls? n="KATHĀS.">60.</ls>
+
+* <ls>KATHĀS. 44, 178)</ls>	-1	<ls>Spr. (II) 1356.</ls>
+  <ls? n="KATHĀS.">44,</ls>
+  <ls? n="KATHĀS.">178)</ls>
+
+* <ls>KATHĀS. 44</ls>	-1	<ls>Spr. (II) 2722.</ls>
+  <ls n="KATHĀS. None,">44</ls>
+
+* <ls>KATHĀS. 46. 185.</ls>	-1	<ls>TBR. 1, 2, 1, 26.</ls>
+  <ls n="KATHĀS. None,">46.</ls>
+  <ls? n="KATHĀS.">185.</ls>
+
+* <ls>KATHĀS. 5, 30 21, 60. 29, 176. 36, 43. 43, 260.</ls>	-1	<ls>Spr. 908.</ls>
+  <ls? n="KATHĀS.">5,</ls>
+  <ls? n="KATHĀS.">30</ls>
+  <ls n="KATHĀS.">21, 60.</ls>
+  <ls n="KATHĀS.">29, 176.</ls>
+  <ls n="KATHĀS.">36, 43.</ls>
+  <ls n="KATHĀS.">43, 260.</ls>
+
+* <ls>KATHĀS. 5. 113.</ls>	-1	<ls>MĀRK. P. 54, 8.</ls>
+  <ls n="KATHĀS. None,">5.</ls>
+  <ls? n="KATHĀS.">113.</ls>
+
+* <ls>KATHĀS. 50. 4.</ls>	-1	<ls>AK. 2, 8, 2, 41.</ls>
+  <ls n="KATHĀS. None,">50.</ls>
+  <ls? n="KATHĀS.">4.</ls>
+
+* <ls>KATHĀS. 53, 90, 78, 9</ls>	-1	NA
+  <ls? n="KATHĀS.">53,</ls>
+  <ls? n="KATHĀS.">90,</ls>
+  <ls n="KATHĀS.">78, 9</ls>
+
+* <ls>KATHĀS. 54. 225.</ls>	-1	NA
+  <ls n="KATHĀS. None,">54.</ls>
+  <ls? n="KATHĀS.">225.</ls>
+
+* <ls>KATHĀS. 59. 87. 106.</ls>	-1	NA
+  <ls n="KATHĀS. None,">59.</ls>
+  <ls? n="KATHĀS.">87.</ls>
+  <ls? n="KATHĀS.">106.</ls>
+
+* <ls>KATHĀS. 5</ls>	-1	<ls>R. 1, 18, 9.</ls>
+  <ls n="KATHĀS. None,">5</ls>
+
+* <ls>KATHĀS. 6, 24. AMAR 39.</ls>	-1	<ls>RAGH. 3, 26. 11, 63. 12, 87.</ls>
+  <ls>KATHĀS. 6, 24.</ls>
+  <ls? n="KATHĀS.">AMAR</ls>
+  <ls n="KATHĀS. 6,">39.</ls>
+
+* <ls>KATHĀS. 6. 114.</ls>	-1	<ls>MEGH. 49.</ls>
+  <ls n="KATHĀS. None,">6.</ls>
+  <ls? n="KATHĀS.">114.</ls>
+
+* <ls>KATHĀS. 61. 167.</ls>	-1	<ls>RĀJA-TAR. 4, 54.</ls>
+  <ls n="KATHĀS. None,">61.</ls>
+  <ls? n="KATHĀS.">167.</ls>
+
+* <ls>KATHĀS. 64, (46)</ls>	-1	<ls>P. 7, 2, 10.</ls>
+  <ls? n="KATHĀS.">64,</ls>
+  <ls? n="KATHĀS.">(46)</ls>
+
+* <ls>KATHĀS. 64. 112.</ls>	-1	<ls>RĀJA-TAR. 5, 450.</ls>
+  <ls n="KATHĀS. None,">64.</ls>
+  <ls? n="KATHĀS.">112.</ls>
+
+* <ls>KATHĀS. 64. 28.</ls>	-1	NA
+  <ls n="KATHĀS. None,">64.</ls>
+  <ls? n="KATHĀS.">28.</ls>
+
+* <ls>KATHĀS. 72. 165. 102, 49.</ls>	-1	<ls>MĀLATĪM. 151, 9.</ls>
+  <ls n="KATHĀS. None,">72.</ls>
+  <ls? n="KATHĀS.">165.</ls>
+  <ls n="KATHĀS.">102, 49.</ls>
+
+* <ls>KATHĀS. 75. fgg.</ls>	-1	<ls n="Verz. d. Oxf. H.">84,b,9.</ls>
+  <ls n="KATHĀS. None,">75. fgg.</ls>
+
+* <ls>KATHĀS. 75; 45.</ls>	-1	<ls>BHĀG. P. 11, 82, 33.</ls>
+  <ls? n="KATHĀS.">75;</ls>
+  <ls? n="KATHĀS.">45.</ls>
+
+* <ls>KATHĀS. 77. 56.</ls>	-1	<ls>HARIV. 9130.</ls>
+  <ls n="KATHĀS. None,">77.</ls>
+  <ls? n="KATHĀS.">56.</ls>
+
+* <ls>KATHĀS. 9,</ls>	-1	<ls>MAITRYUP. 6, 7.</ls>
+  <ls? n="KATHĀS.">9,</ls>
+
+* <ls>KATHĀS. 9. fgg.</ls>	-1	<ls>MED.</ls>
+  <ls n="KATHĀS. None,">9. fgg.</ls>
+
+* <ls>KATHĀS. 9</ls>	-1	NA
+  <ls n="KATHĀS. None,">9</ls>
+
+* <ls>KATHĀS. S. 96.</ls>	-1	<ls>Sch.</ls>
+  <ls? n="KATHĀS.">S.</ls>
+  <ls? n="KATHĀS.">96.</ls>
+
+* <ls>KATHĀS.).</ls>	-1	<ls>Spr. (II) 483</ls>
+?
+
+* <ls>KATHĀS.</ls>	-1	NA
+?
+
+* <ls>KATHĀS.</ls>	-1	<ls>P. 2, 3, 17</ls>
+?
+
+* <ls>KATHĀS.</ls>	55	<ls n="KATHĀS. 55,">151.</ls>
+?
+
+* <ls>KATHĀS.</ls>	-1	<ls>R. 1, 19, 8.</ls>
+?
+
+* <ls>KATHĀS.</ls>	-1	<ls>LIA. II, 409. 750. III, 501. fgg.</ls>
+?
+
+* <ls>KATHĀS.</ls>	93	<ls n="KATHĀS.">93, 3. fgg.</ls>
+?
+
+* <ls>KATHĀS.</ls>	-1	NA
+?
+

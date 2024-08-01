@@ -1,0 +1,1168 @@
+; -----------------------------------------------------
+; <L>14839<pc>2-0061<k1>kapardin<k2>kapardi/n
+; oldls:<ls n="KATHĀS.">11</ls>
+; prevls:<ls>KATHĀS. 25, 231.</ls>
+; newls:<ls n="KATHĀS. 25,">11</ls>
+136633 old <ls n="KATHĀS.">11</ls> <is>Rudra</is> 
+;
+136633 new <ls n="KATHĀS. 25,">11</ls> <is>Rudra</is> 
+; -----------------------------------------------------
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+; oldls:<ls n="KATHĀS.">13.</ls>
+; prevls:<ls>KATHĀS. 5, 30.</ls>
+; newls:<ls n="KATHĀS. 5,">13.</ls>
+139430 old <ls n="KATHĀS.">13.</ls> 
+;
+139430 new <ls n="KATHĀS. 5,">13.</ls> 
+; -----------------------------------------------------
+; <L>15678<pc>2-0157<k1>kalA<k2>ka/lA
+; oldls:<ls n="KATHĀS.">27.</ls>
+; prevls:<ls>KATHĀS. 6, 26.</ls>
+; newls:<ls n="KATHĀS. 6,">27.</ls>
+147134 old <ls n="KATHĀS.">27.</ls> {#kalA nftyAdikA#} 
+;
+147134 new <ls n="KATHĀS. 6,">27.</ls> {#kalA nftyAdikA#} 
+; -----------------------------------------------------
+; <L>15693<pc>2-0159<k1>kalApa<k2>kalApa
+; oldls:<ls n="KATHĀS.">45.</ls>
+; prevls:<ls>KATHĀS. 7, 13</ls>
+; newls:<ls n="KATHĀS. 7,">45.</ls>
+147304 old <ls n="KATHĀS.">45.</ls> Vgl. {#kalApin#} 2,d. 
+;
+147304 new <ls n="KATHĀS. 7,">45.</ls> Vgl. {#kalApin#} 2,d. 
+; -----------------------------------------------------
+; <L>21590<pc>2-0645<k1>gatAgata<k2>gatAgata
+; oldls:<ls n="KATHĀS.">66.</ls>
+; prevls:<ls>KATHĀS. 3, 69.</ls>
+; newls:<ls n="KATHĀS. 3,">66.</ls>
+204821 old <ls n="KATHĀS.">66.</ls> {#gatAgatakutUhalaM nayanayorapANgAvaDi#} 
+;
+204821 new <ls n="KATHĀS. 3,">66.</ls> {#gatAgatakutUhalaM nayanayorapANgAvaDi#} 
+; -----------------------------------------------------
+; <L>21849<pc>2-0691<k1>gar<k2>gar<h>3
+; oldls:<ls n="KATHĀS.">279.</ls>
+; prevls:<ls>KATHĀS. 18, 329.</ls>
+; newls:<ls n="KATHĀS. 18,">279.</ls>
+209568 old <ls n="KATHĀS.">279.</ls> 
+;
+209568 new <ls n="KATHĀS. 18,">279.</ls> 
+; -----------------------------------------------------
+; <L>24854<pc>2-0948<k1>camatkAra<k2>camatkAra
+; oldls:<ls n="KATHĀS.">147.</ls>
+; prevls:<ls>KATHĀS. 22, 257.</ls>
+; newls:<ls n="KATHĀS. 22,">147.</ls>
+240329 old <ls n="KATHĀS.">147.</ls> {#camatkAracandrikA#} <lex>f.</lex> Titel einer Grammatik 
+;
+240329 new <ls n="KATHĀS. 22,">147.</ls> {#camatkAracandrikA#} <lex>f.</lex> Titel einer Grammatik 
+; -----------------------------------------------------
+; <L>27058<pc>3-0064<k1>jalASaya<k2>jalASaya
+; oldls:<ls n="KATHĀS.">132</ls>
+; prevls:<ls>KATHĀS. 6, 58.</ls>
+; newls:<ls n="KATHĀS. 6,">132</ls>
+265080 old <ls n="KATHĀS.">132</ls> ist wohl so zu lesen. 
+;
+265080 new <ls n="KATHĀS. 6,">132</ls> ist wohl so zu lesen. 
+; -----------------------------------------------------
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+; oldls:<ls n="KATHĀS.">31. 7, 17.</ls>
+; prevls:<ls>KATHĀS. 2, 21.</ls>
+; newls:<ls n="KATHĀS. 2,">31.</ls> <ls n="KATHĀS.">7, 17.</ls>
+286269 old <ls n="KATHĀS.">31. 7, 17.</ls> <ls>PAÑCAT. 45, 3.</ls> <ls>RĀJA-TAR. 1, 130. 5, 66.</ls> <ls>BHĀG. P. 1, 11, 36. 3, 1, 26.</ls> {#vizRurevAvatIrRo 'sO#} 
+;
+286269 new <ls n="KATHĀS. 2,">31.</ls> <ls n="KATHĀS.">7, 17.</ls> <ls>PAÑCAT. 45, 3.</ls> <ls>RĀJA-TAR. 1, 130. 5, 66.</ls> <ls>BHĀG. P. 1, 11, 36. 3, 1, 26.</ls> {#vizRurevAvatIrRo 'sO#} 
+; -----------------------------------------------------
+; <L>30117<pc>3-0367<k1>tulA<k2>tulA/
+; oldls:<ls n="KATHĀS.">95.</ls>
+; prevls:<ls>KATHĀS. 7, 94.</ls>
+; newls:<ls n="KATHĀS. 7,">95.</ls>
+299059 old <ls n="KATHĀS.">95.</ls> {#tulAM tataH samArUQaH#} 
+;
+299059 new <ls n="KATHĀS. 7,">95.</ls> {#tulAM tataH samArUQaH#} 
+; -----------------------------------------------------
+; <L>34715<pc>3-0760<k1>devasena<k2>devasena
+; oldls:<ls n="KATHĀS.">31.</ls>
+; prevls:<ls n="KATHĀS.">18, 259.</ls>
+; newls:<ls n="KATHĀS. 18,">31.</ls>
+343236 old <ls n="KATHĀS.">31.</ls> eines buddh. <is>Arhant's</is> 
+;
+343236 new <ls n="KATHĀS. 18,">31.</ls> eines buddh. <is>Arhant's</is> 
+; -----------------------------------------------------
+; <L>34826<pc>3-0766<k1>deSa<k2>deSa/
+; oldls:<ls n="KATHĀS.">81.</ls>
+; prevls:<ls>KATHĀS. 17, 108.</ls>
+; newls:<ls n="KATHĀS. 17,">81.</ls>
+344035 old <ls n="KATHĀS.">81.</ls> <ls>ṚT. 1, 6.</ls> <ls>DRAUP. 5, 8.</ls> <ls>PAÑCAT. 252, 21.</ls> <ls>HIT. 34, 21.</ls> <ls>AK. 1, 1, 2, 25.</ls> <ls n="AK.">2, 8, 2, 8.</ls> <ls>TRIK. 2, 9, 22.</ls> <ls>H. 1225.</ls> {#yonideSAcca yavanAH SakfddeSAcCakAH smftAH (= yoneH#} und {#SakftaH#}) 
+;
+344035 new <ls n="KATHĀS. 17,">81.</ls> <ls>ṚT. 1, 6.</ls> <ls>DRAUP. 5, 8.</ls> <ls>PAÑCAT. 252, 21.</ls> <ls>HIT. 34, 21.</ls> <ls>AK. 1, 1, 2, 25.</ls> <ls n="AK.">2, 8, 2, 8.</ls> <ls>TRIK. 2, 9, 22.</ls> <ls>H. 1225.</ls> {#yonideSAcca yavanAH SakfddeSAcCakAH smftAH (= yoneH#} und {#SakftaH#}) 
+; -----------------------------------------------------
+; <L>35055<pc>3-0783<k1>dohadin<k2>dohadin
+; oldls:<ls n="KATHĀS.">258.</ls>
+; prevls:<ls>KATHĀS. 22, 9.</ls>
+; newls:<ls n="KATHĀS. 22,">258.</ls>
+346051 old <ls n="KATHĀS.">258.</ls>
+;
+346051 new <ls n="KATHĀS. 22,">258.</ls>
+; -----------------------------------------------------
+; <L>35481<pc>3-0817<k1>drohin<k2>drohi/n
+; oldls:<ls n="KATHĀS.">87.</ls>
+; prevls:<ls>KATHĀS. 5, 63.</ls>
+; newls:<ls n="KATHĀS. 5,">87.</ls>
+350145 old <ls n="KATHĀS.">87.</ls> {#Sizya°#} 
+;
+350145 new <ls n="KATHĀS. 5,">87.</ls> {#Sizya°#} 
+; -----------------------------------------------------
+; <L>35576<pc>3-0824<k1>dvAra<k2>dvA/ra
+; oldls:<ls n="KATHĀS.">121.</ls>
+; prevls:<ls>KATHĀS. 21, 118.</ls>
+; newls:<ls n="KATHĀS. 21,">121.</ls>
+351020 old <ls n="KATHĀS.">121.</ls> <ls>BHARTṚ. 3, 34.</ls> <ls>KĀM. NĪTIS. 5, 74.</ls> {#kftavAgdvAre vaMSe 'sminpUrvasUriBiH#} 
+;
+351020 new <ls n="KATHĀS. 21,">121.</ls> <ls>BHARTṚ. 3, 34.</ls> <ls>KĀM. NĪTIS. 5, 74.</ls> {#kftavAgdvAre vaMSe 'sminpUrvasUriBiH#} 
+; -----------------------------------------------------
+; <L>36813<pc>3-0970<k1>Dur<k2>Dur
+; oldls:<ls n="KATHĀS.">115.</ls>
+; prevls:<ls>KATHĀS. 5, 113.</ls>
+; newls:<ls n="KATHĀS. 5,">115.</ls>
+365689 old <ls n="KATHĀS.">115.</ls> {#tAmEcCadDuramAtmanaH#} ebend. {#subanDurDuri tizWatu#} 
+;
+365689 new <ls n="KATHĀS. 5,">115.</ls> {#tAmEcCadDuramAtmanaH#} ebend. {#subanDurDuri tizWatu#} 
+; -----------------------------------------------------
+; <L>37738<pc>4-0052<k1>naya<k2>na/ya
+; oldls:<ls n="KATHĀS.">195.</ls>
+; prevls:<ls>KATHĀS. 20, 190.</ls>
+; newls:<ls n="KATHĀS. 20,">195.</ls>
+375863 old <ls n="KATHĀS.">195.</ls> 
+;
+375863 new <ls n="KATHĀS. 20,">195.</ls> 
+; -----------------------------------------------------
+; <L>41628<pc>4-0377<k1>paw<k2>paw
+; oldls:<ls n="KATHĀS.">255.</ls>
+; prevls:<ls n="KATHĀS. 26,">218.</ls>
+; newls:<ls n="KATHĀS. 26,">255.</ls>
+412639 old <ls n="KATHĀS.">255.</ls> <ls>BHĀG. P. 8, 3, 33.</ls> {#mAm#} 
+;
+412639 new <ls n="KATHĀS. 26,">255.</ls> <ls>BHĀG. P. 8, 3, 33.</ls> {#mAm#} 
+; -----------------------------------------------------
+; <L>43871<pc>4-0611<k1>paScAt<k2>paScA/t
+; oldls:<ls n="KATHĀS.">158. 7, 72. 9, 23. 27, 181. 185. 39, 135. 42, 84.</ls>
+; prevls:<ls>KATHĀS. 6, 134.</ls>
+; newls:<ls n="KATHĀS. 6,">158.</ls> <ls n="KATHĀS.">7, 72.</ls> <ls n="KATHĀS.">9, 23.</ls> <ls n="KATHĀS.">27, 181.</ls> <ls n="KATHĀS. 27,">185.</ls> <ls n="KATHĀS.">39, 135.</ls> <ls n="KATHĀS.">42, 84.</ls>
+437324 old <ls n="KATHĀS.">158. 7, 72. 9, 23. 27, 181. 185. 39, 135. 42, 84.</ls> <ls>VOP. 6, 61.</ls> 
+;
+437324 new <ls n="KATHĀS. 6,">158.</ls> <ls n="KATHĀS.">7, 72.</ls> <ls n="KATHĀS.">9, 23.</ls> <ls n="KATHĀS.">27, 181.</ls> <ls n="KATHĀS. 27,">185.</ls> <ls n="KATHĀS.">39, 135.</ls> <ls n="KATHĀS.">42, 84.</ls> <ls>VOP. 6, 61.</ls> 
+; -----------------------------------------------------
+; <L>44432<pc>4-0655<k1>pAduka<k2>pA/duka
+; oldls:<ls n="KATHĀS.">49.</ls>
+; prevls:<ls>KATHĀS. 3, 47.</ls>
+; newls:<ls n="KATHĀS. 3,">49.</ls>
+442628 old <ls n="KATHĀS.">49.</ls> <ls>Verz. d. B. H. No. 904. fg.</ls> {#°Boga#} 590. {#guruSrIpAdukApUjA#} 
+;
+442628 new <ls n="KATHĀS. 3,">49.</ls> <ls>Verz. d. B. H. No. 904. fg.</ls> {#°Boga#} 590. {#guruSrIpAdukApUjA#} 
+; -----------------------------------------------------
+; <L>44446<pc>4-0656<k1>pAna<k2>pA/na<h>1
+; oldls:<ls n="KATHĀS.">121. 33, 13. 38, 33.</ls>
+; prevls:<ls>KATHĀS. 28, 28.</ls>
+; newls:<ls n="KATHĀS. 28,">121.</ls> <ls n="KATHĀS.">33, 13.</ls> <ls n="KATHĀS.">38, 33.</ls>
+442751 old <ls n="KATHĀS.">121. 33, 13. 38, 33.</ls> {#°gata#} 
+;
+442751 new <ls n="KATHĀS. 28,">121.</ls> <ls n="KATHĀS.">33, 13.</ls> <ls n="KATHĀS.">38, 33.</ls> {#°gata#} 
+; -----------------------------------------------------
+; <L>44450<pc>4-0656<k1>pAnaka<k2>pAnaka
+; oldls:<ls n="KATHĀS.">175.</ls>
+; prevls:<ls>KATHĀS. 34, 176.</ls>
+; newls:<ls n="KATHĀS. 34,">175.</ls>
+442806 old <ls n="KATHĀS.">175.</ls>
+;
+442806 new <ls n="KATHĀS. 34,">175.</ls>
+; -----------------------------------------------------
+; <L>48244<pc>4-0954<k1>pratijYA<k2>pratijYA
+; oldls:<ls n="KATHĀS.">114.</ls>
+; prevls:<ls>KATHĀS. 38, 112.</ls>
+; newls:<ls n="KATHĀS. 38,">114.</ls>
+478686 old <ls n="KATHĀS.">114.</ls> {#mA pratijYAnyaTA tu BUt#} 
+;
+478686 new <ls n="KATHĀS. 38,">114.</ls> {#mA pratijYAnyaTA tu BUt#} 
+; -----------------------------------------------------
+; <L>48426<pc>4-0966<k1>pratiBA<k2>pratiBA
+; oldls:<ls n="KATHĀS.">96. 38, 156.</ls>
+; prevls:<ls>KATHĀS. 5, 32.</ls>
+; newls:<ls n="KATHĀS. 5,">96.</ls> <ls n="KATHĀS.">38, 156.</ls>
+480114 old <ls n="KATHĀS.">96. 38, 156.</ls> {#na paSyetsarvasaMvedyAnBAvAnpratiBayA yadi#} 
+;
+480114 new <ls n="KATHĀS. 5,">96.</ls> <ls n="KATHĀS.">38, 156.</ls> {#na paSyetsarvasaMvedyAnBAvAnpratiBayA yadi#} 
+; -----------------------------------------------------
+; <L>50994<pc>4-1160<k1>prAhuRa<k2>prAhuRa
+; oldls:<ls n="KATHĀS.">272. 47, 5.</ls>
+; prevls:<ls n="KATHĀS. 45,">311.</ls>
+; newls:<ls n="KATHĀS. 45,">272.</ls> <ls n="KATHĀS.">47, 5.</ls>
+503110 old <ls n="KATHĀS.">272. 47, 5.</ls> {#prAhuRikA#} <lex>f.</lex> 
+;
+503110 new <ls n="KATHĀS. 45,">272.</ls> <ls n="KATHĀS.">47, 5.</ls> {#prAhuRikA#} <lex>f.</lex> 
+; -----------------------------------------------------
+; <L>51985<pc>5-0037<k1>bali<k2>bali/<h>1
+; oldls:<ls n="KATHĀS.">39.</ls>
+; prevls:<ls n="KATHĀS.">45, 40.</ls>
+; newls:<ls n="KATHĀS. 45,">39.</ls>
+513733 old <ls n="KATHĀS.">39.</ls> {#bAhyaM balimakalpayat#} 
+;
+513733 new <ls n="KATHĀS. 45,">39.</ls> {#bAhyaM balimakalpayat#} 
+; -----------------------------------------------------
+; <L>52900<pc>5-0099<k1>budDi<k2>budDi
+; oldls:<ls n="KATHĀS.">60.</ls>
+; prevls:<ls>KATHĀS. 29, 59.</ls>
+; newls:<ls n="KATHĀS. 29,">60.</ls>
+521488 old <ls n="KATHĀS.">60.</ls> {#dozabudDyA#} 
+;
+521488 new <ls n="KATHĀS. 29,">60.</ls> {#dozabudDyA#} 
+; -----------------------------------------------------
+; <L>53305<pc>5-0130<k1>brahmagupta<k2>brahmagupta
+; oldls:<ls n="KATHĀS.">598</ls>
+; prevls:<ls n="KATHĀS.">48, 17.</ls>
+; newls:<ls n="KATHĀS. 48,">598</ls>
+525041 old <ls n="KATHĀS.">598</ls> n. <ls>Chr.</ls> geboren wurde, 
+;
+525041 new <ls n="KATHĀS. 48,">598</ls> n. <ls>Chr.</ls> geboren wurde, 
+; -----------------------------------------------------
+; <L>54658<pc>5-0256<k1>BAryAtva<k2>BAryAtva
+; oldls:<ls n="KATHĀS.">86.</ls>
+; prevls:<ls n="KATHĀS.">34, 3.</ls>
+; newls:<ls n="KATHĀS. 34,">86.</ls>
+539081 old <ls n="KATHĀS.">86.</ls> <ls>Ind. St. 8, 353, 13.</ls>
+;
+539081 new <ls n="KATHĀS. 34,">86.</ls> <ls>Ind. St. 8, 353, 13.</ls>
+; -----------------------------------------------------
+; <L>54756<pc>5-0266<k1>BAz<k2>BAz<h>1
+; oldls:<ls n="KATHĀS.">78. 18, 19. 32, 20.</ls>
+; prevls:<ls>KATHĀS. 4, 73.</ls>
+; newls:<ls n="KATHĀS. 4,">78.</ls> <ls n="KATHĀS.">18, 19.</ls> <ls n="KATHĀS.">32, 20.</ls>
+540145 old <ls n="KATHĀS.">78. 18, 19. 32, 20.</ls> <ls>BHĀG. P. 8, 9, 12.</ls> <ls>BRAHMA-P. in LA. (II) 54, 20.</ls> {#ityaBAzizWAH#} 
+;
+540145 new <ls n="KATHĀS. 4,">78.</ls> <ls n="KATHĀS.">18, 19.</ls> <ls n="KATHĀS.">32, 20.</ls> <ls>BHĀG. P. 8, 9, 12.</ls> <ls>BRAHMA-P. in LA. (II) 54, 20.</ls> {#ityaBAzizWAH#} 
+; -----------------------------------------------------
+; <L>55910<pc>5-0392<k1>BOta<k2>BOta
+; oldls:<ls n="KATHĀS.">168.</ls>
+; prevls:<ls>KATHĀS. 39, 108.</ls>
+; newls:<ls n="KATHĀS. 39,">168.</ls>
+553878 old <ls n="KATHĀS.">168.</ls> 
+;
+553878 new <ls n="KATHĀS. 39,">168.</ls> 
+; -----------------------------------------------------
+; <L>55960<pc>5-0399<k1>Bram<k2>Bram
+; oldls:<ls n="KATHĀS.">50.</ls>
+; prevls:<ls>KATHĀS. 24, 52.</ls>
+; newls:<ls n="KATHĀS. 24,">50.</ls>
+554725 old <ls n="KATHĀS.">50.</ls> 
+;
+554725 new <ls n="KATHĀS. 24,">50.</ls> 
+; -----------------------------------------------------
+; <L>57436<pc>5-0534<k1>manoraTasidDi<k2>manoraTasidDi<h>2
+; oldls:<ls n="KATHĀS.">247.</ls>
+; prevls:<ls n="KATHĀS. 71,">237.</ls>
+; newls:<ls n="KATHĀS. 71,">247.</ls>
+569828 old <ls n="KATHĀS.">247.</ls> 
+;
+569828 new <ls n="KATHĀS. 71,">247.</ls> 
+; -----------------------------------------------------
+; <L>57752<pc>5-0562<k1>mayUra<k2>mayU/ra
+; oldls:<ls n="KATHĀS.">284.</ls>
+; prevls:<ls n="KATHĀS. 71,">301.</ls>
+; newls:<ls n="KATHĀS. 71,">284.</ls>
+573012 old <ls n="KATHĀS.">284.</ls> 
+;
+573012 new <ls n="KATHĀS. 71,">284.</ls> 
+; -----------------------------------------------------
+; <L>57891<pc>5-0573<k1>maruBUmi<k2>maruBUmi
+; oldls:<ls n="KATHĀS.">377.</ls>
+; prevls:<ls>KATHĀS. 72, 180.</ls>
+; newls:<ls n="KATHĀS. 72,">377.</ls>
+574415 old <ls n="KATHĀS.">377.</ls> 
+;
+574415 new <ls n="KATHĀS. 72,">377.</ls> 
+; -----------------------------------------------------
+; <L>58867<pc>5-0649<k1>mahAraTa<k2>mahAraTa<h>1
+; oldls:<ls n="KATHĀS.">26.</ls>
+; prevls:<ls>KATHĀS. 47, 23.</ls>
+; newls:<ls n="KATHĀS. 47,">26.</ls>
+583423 old <ls n="KATHĀS.">26.</ls> {#eko daSasahasrARi yoDayedyastu DanvinAm . astraSastrapravIRaSca mahAraTa iti smftaH ..#} 
+;
+583423 new <ls n="KATHĀS. 47,">26.</ls> {#eko daSasahasrARi yoDayedyastu DanvinAm . astraSastrapravIRaSca mahAraTa iti smftaH ..#} 
+; -----------------------------------------------------
+; <L>59978<pc>5-0734<k1>mAyAyantra<k2>mAyAyantra
+; oldls:<ls n="KATHĀS.">22.</ls>
+; prevls:<ls n="KATHĀS.">43, 37.</ls>
+; newls:<ls n="KATHĀS. 43,">22.</ls>
+593545 old <ls n="KATHĀS.">22.</ls> {#°vimAna#} {%Zauberwagen%} 
+;
+593545 new <ls n="KATHĀS. 43,">22.</ls> {#°vimAna#} {%Zauberwagen%} 
+; -----------------------------------------------------
+; <L>59978<pc>5-0734<k1>mAyAyantra<k2>mAyAyantra
+; oldls:<ls n="KATHĀS.">18</ls>
+; prevls:<ls n="KATHĀS.">29, 37.</ls>
+; newls:<ls n="KATHĀS. 29,">18</ls>
+593548 old <ls n="KATHĀS.">18</ls>; vgl. noch {#nyastadArumayAnekamAyAsadyantraputrikA#} 1.
+;
+593548 new <ls n="KATHĀS. 29,">18</ls>; vgl. noch {#nyastadArumayAnekamAyAsadyantraputrikA#} 1.
+; -----------------------------------------------------
+; <L>61106<pc>5-0836<k1>muz<k2>muz<h>1
+; oldls:<ls n="KATHĀS.">103. 52, 297.</ls>
+; prevls:<ls>KATHĀS. 13, 95.</ls>
+; newls:<ls n="KATHĀS. 13,">103.</ls> <ls n="KATHĀS.">52, 297.</ls>
+605125 old <ls n="KATHĀS.">103. 52, 297.</ls> {#ekaM nAma jaqAtmakasya muzitaM lAvaRyamindostaTA#} 
+;
+605125 new <ls n="KATHĀS. 13,">103.</ls> <ls n="KATHĀS.">52, 297.</ls> {#ekaM nAma jaqAtmakasya muzitaM lAvaRyamindostaTA#} 
+; -----------------------------------------------------
+; <L>61535<pc>5-0875<k1>mfgANka<k2>mfgANka
+; oldls:<ls n="KATHĀS.">73</ls>
+; prevls:<ls>KATHĀS. 10, 45.</ls>
+; newls:<ls n="KATHĀS. 10,">73</ls>
+609544 old <ls n="KATHĀS.">73</ls> wohl fehlerhaft für {#mfgANkaka#} . 
+;
+609544 new <ls n="KATHĀS. 10,">73</ls> wohl fehlerhaft für {#mfgANkaka#} . 
+; -----------------------------------------------------
+; <L>61536<pc>5-0875<k1>mfgANkadatta<k2>mfgANkadatta
+; oldls:<ls n="KATHĀS.">12.</ls>
+; prevls:<ls>KATHĀS. 69, 17. fgg.</ls>
+; newls:<ls n="KATHĀS. 69,">12.</ls>
+609553 old <ls n="KATHĀS.">12.</ls> 
+;
+609553 new <ls n="KATHĀS. 69,">12.</ls> 
+; -----------------------------------------------------
+; <L>65126<pc>5-1046<k1>arTay<k2>arTay
+; oldls:<ls n="KATHĀS.">3. 43, 82.</ls>
+; prevls:<ls>KATHĀS. 34, 17.</ls>
+; newls:<ls n="KATHĀS. 34,">3.</ls> <ls n="KATHĀS.">43, 82.</ls>
+633769 old <ls n="KATHĀS.">3. 43, 82.</ls> {#prArTayizyanti#} 
+;
+633769 new <ls n="KATHĀS. 34,">3.</ls> <ls n="KATHĀS.">43, 82.</ls> {#prArTayizyanti#} 
+; -----------------------------------------------------
+; <L>67042<pc>5-1128<k1>As<k2>As<h>2
+; oldls:<ls n="KATHĀS.">53.</ls>
+; prevls:<ls>KATHĀS. 52, 36.</ls>
+; newls:<ls n="KATHĀS. 52,">53.</ls>
+646026 old <ls n="KATHĀS.">53.</ls> 
+;
+646026 new <ls n="KATHĀS. 52,">53.</ls> 
+; -----------------------------------------------------
+; <L>69368<pc>5-1236<k1>kawi<k2>kawi
+; oldls:<ls n="KATHĀS.">106.</ls>
+; prevls:<ls n="KATHĀS.">54, 105.</ls>
+; newls:<ls n="KATHĀS. 54,">106.</ls>
+661881 old <ls n="KATHĀS.">106.</ls> 
+;
+661881 new <ls n="KATHĀS. 54,">106.</ls> 
+; -----------------------------------------------------
+; <L>69828<pc>5-1257<k1>karkawikA<k2>karkawikA
+; oldls:<ls n="KATHĀS.">44.</ls>
+; prevls:<ls>KATHĀS. 123, 32.</ls>
+; newls:<ls n="KATHĀS. 123,">44.</ls>
+665130 old <ls n="KATHĀS.">44.</ls> {#°Pala#} 
+;
+665130 new <ls n="KATHĀS. 123,">44.</ls> {#°Pala#} 
+; -----------------------------------------------------
+; <L>70074<pc>5-1269<k1>kalpavfkza<k2>kalpavfkza
+; oldls:<ls n="KATHĀS.">222.</ls>
+; prevls:<ls>KATHĀS. 72, 159.</ls>
+; newls:<ls n="KATHĀS. 72,">222.</ls>
+667036 old <ls n="KATHĀS.">222.</ls> {#°tva#} 
+;
+667036 new <ls n="KATHĀS. 72,">222.</ls> {#°tva#} 
+; -----------------------------------------------------
+; <L>70471<pc>5-1286<k1>kArkowa<k2>kArkowa
+; oldls:<ls n="KATHĀS.">353</ls>
+; prevls:<ls n="KATHĀS. 56,">386</ls>
+; newls:<ls n="KATHĀS. 56,">353</ls>
+669618 old <ls n="KATHĀS.">353</ls>) <lex>m.</lex> N. pr. eines Schlangendämons, = {#ka°#} .
+;
+669618 new <ls n="KATHĀS. 56,">353</ls>) <lex>m.</lex> N. pr. eines Schlangendämons, = {#ka°#} .
+; -----------------------------------------------------
+; <L>70532<pc>5-1288<k1>kAlakrama<k2>kAlakrama
+; oldls:<ls n="KATHĀS.">126.</ls>
+; prevls:<ls>KATHĀS. 101, 177.</ls>
+; newls:<ls n="KATHĀS. 101,">126.</ls>
+670015 old <ls n="KATHĀS.">126.</ls>
+;
+670015 new <ls n="KATHĀS. 101,">126.</ls>
+; -----------------------------------------------------
+; <L>71782<pc>5-1335<k1>kOlIna<k2>kOlIna
+; oldls:<ls>KATHĀS. 52</ls>
+; prevls:<ls>KATHĀS. 124, 237</ls>
+; newls:<ls n="KATHĀS. 124,">52</ls>
+677964 old <ls>KATHĀS. 52</ls>, <ls n="KATHĀS.">182(?).</ls>
+;
+677964 new <ls n="KATHĀS. 124,">52</ls>, <ls n="KATHĀS.">182(?).</ls>
+; -----------------------------------------------------
+; <L>72049<pc>5-1347<k1>kzi<k2>kzi<h>3
+; oldls:<ls n="KATHĀS.">307.</ls>
+; prevls:<ls>KATHĀS. 61, 277.</ls>
+; newls:<ls n="KATHĀS. 61,">307.</ls>
+679978 old <ls n="KATHĀS.">307.</ls> {#aGasaMcayam#} 
+;
+679978 new <ls n="KATHĀS. 61,">307.</ls> {#aGasaMcayam#} 
+; -----------------------------------------------------
+; <L>72074<pc>5-1349<k1>kzip<k2>kzip<h>1
+; oldls:<ls n="KATHĀS.">64. 121, 79.</ls>
+; prevls:<ls n="KATHĀS.">66, 12.</ls>
+; newls:<ls n="KATHĀS. 66,">64.</ls> <ls n="KATHĀS.">121, 79.</ls>
+680205 old <ls n="KATHĀS.">64. 121, 79.</ls> 
+;
+680205 new <ls n="KATHĀS. 66,">64.</ls> <ls n="KATHĀS.">121, 79.</ls> 
+; -----------------------------------------------------
+; <L>72229<pc>5-1355<k1>KawvA<k2>KawvA
+; oldls:<ls n="KATHĀS.">213.</ls>
+; prevls:<ls>KATHĀS. 124, 215.</ls>
+; newls:<ls n="KATHĀS. 124,">213.</ls>
+681278 old <ls n="KATHĀS.">213.</ls> {#yena KawvAM samArUQaH paritapyeta karmaRA#} so v. a. {%auf dem Krankenlager, auf dem Todesbette%} 
+;
+681278 new <ls n="KATHĀS. 124,">213.</ls> {#yena KawvAM samArUQaH paritapyeta karmaRA#} so v. a. {%auf dem Krankenlager, auf dem Todesbette%} 
+; -----------------------------------------------------
+; <L>72530<pc>5-1367<k1>gad<k2>gad<h>1
+; oldls:<ls n="KATHĀS.">63.</ls>
+; prevls:<ls n="KATHĀS. 60,">129.</ls>
+; newls:<ls n="KATHĀS. 60,">63.</ls>
+683328 old <ls n="KATHĀS.">63.</ls> {#agadita#} {%unaufgefordert%} 
+;
+683328 new <ls n="KATHĀS. 60,">63.</ls> {#agadita#} {%unaufgefordert%} 
+; -----------------------------------------------------
+; <L>72610<pc>5-1373<k1>garj<k2>garj
+; oldls:<ls n="KATHĀS.">271.</ls>
+; prevls:<ls>KATHĀS. 74, 98.</ls>
+; newls:<ls n="KATHĀS. 74,">271.</ls>
+684148 old <ls n="KATHĀS.">271.</ls>
+;
+684148 new <ls n="KATHĀS. 74,">271.</ls>
+; -----------------------------------------------------
+; <L>72766<pc>5-1379<k1>girija<k2>girija
+; oldls:<ls n="KATHĀS.">125. 59, 175.</ls>
+; prevls:<ls n="KATHĀS.">107, 129.</ls>
+; newls:<ls n="KATHĀS. 107,">125.</ls> <ls n="KATHĀS.">59, 175.</ls>
+685261 old <ls n="KATHĀS.">125. 59, 175.</ls> {#°Dava#} 
+;
+685261 new <ls n="KATHĀS. 107,">125.</ls> <ls n="KATHĀS.">59, 175.</ls> {#°Dava#} 
+; -----------------------------------------------------
+; <L>72789<pc>5-1380<k1>gItikA<k2>gItikA
+; oldls:<ls n="KATHĀS.">65. fg.</ls>
+; prevls:<ls>KATHĀS. 117, 109</ls>
+; newls:<ls n="KATHĀS. 117,">65. fg.</ls>
+685392 old <ls n="KATHĀS.">65. fg.</ls>). 
+;
+685392 new <ls n="KATHĀS. 117,">65. fg.</ls>). 
+; -----------------------------------------------------
+; <L>74238<pc>5-1439<k1>jarjara<k2>jarjara
+; oldls:<ls n="KATHĀS.">93.</ls>
+; prevls:<ls>KATHĀS. 61, 96.</ls>
+; newls:<ls n="KATHĀS. 61,">93.</ls>
+695359 old <ls n="KATHĀS.">93.</ls>
+;
+695359 new <ls n="KATHĀS. 61,">93.</ls>
+; -----------------------------------------------------
+; <L>74267<pc>5-1439<k1>jalavAsin<k2>jalavAsin
+; oldls:<ls n="KATHĀS.">51.</ls>
+; prevls:<ls>KATHĀS. 63, 52.</ls>
+; newls:<ls n="KATHĀS. 63,">51.</ls>
+695516 old <ls n="KATHĀS.">51.</ls>
+;
+695516 new <ls n="KATHĀS. 63,">51.</ls>
+; -----------------------------------------------------
+; <L>74571<pc>5-1451<k1>jyezWatarA<k2>jyezWatarA
+; oldls:<ls n="KATHĀS.">133.</ls>
+; prevls:<ls>KATHĀS. 75, 94.</ls>
+; newls:<ls n="KATHĀS. 75,">133.</ls>
+697555 old <ls n="KATHĀS.">133.</ls>
+;
+697555 new <ls n="KATHĀS. 75,">133.</ls>
+; -----------------------------------------------------
+; <L>74684<pc>5-1456<k1>qAgineya<k2>qAgineya
+; oldls:<ls n="KATHĀS.">37.</ls>
+; prevls:<ls>KATHĀS. 121, 33.</ls>
+; newls:<ls n="KATHĀS. 121,">37.</ls>
+698271 old <ls n="KATHĀS.">37.</ls>
+;
+698271 new <ls n="KATHĀS. 121,">37.</ls>
+; -----------------------------------------------------
+; <L>75358<pc>5-1480<k1>triSIrzaguhA<k2>triSIrzaguhA
+; oldls:<ls n="KATHĀS.">75. 108, 196.</ls>
+; prevls:<ls>KATHĀS. 109, 60.</ls>
+; newls:<ls n="KATHĀS. 109,">75.</ls> <ls n="KATHĀS.">108, 196.</ls>
+702616 old <ls n="KATHĀS.">75. 108, 196.</ls>
+;
+702616 new <ls n="KATHĀS. 109,">75.</ls> <ls n="KATHĀS.">108, 196.</ls>
+; -----------------------------------------------------
+; <L>75519<pc>5-1486<k1>daridra<k2>daridra
+; oldls:<ls n="KATHĀS.">58.</ls>
+; prevls:<ls n="KATHĀS.">73, 22.</ls>
+; newls:<ls n="KATHĀS. 73,">58.</ls>
+703617 old <ls n="KATHĀS.">58.</ls> {#arTa°, DI°#} 
+;
+703617 new <ls n="KATHĀS. 73,">58.</ls> {#arTa°, DI°#} 
+; -----------------------------------------------------
+; <L>75898<pc>5-1500<k1>durgraha<k2>durgraha<h>1
+; oldls:<ls n="KATHĀS.">171.</ls>
+; prevls:<ls n="KATHĀS.">52, 178.</ls>
+; newls:<ls n="KATHĀS. 52,">171.</ls>
+706017 old <ls n="KATHĀS.">171.</ls> Diese Bed. hat das Wort auch 
+;
+706017 new <ls n="KATHĀS. 52,">171.</ls> Diese Bed. hat das Wort auch 
+; -----------------------------------------------------
+; <L>76117<pc>5-1508<k1>devaputra<k2>devaputra<h>1
+; oldls:<ls n="KATHĀS.">27. 53, 117.</ls>
+; prevls:<ls n="KATHĀS. 54,">28.</ls>
+; newls:<ls n="KATHĀS. 54,">27.</ls> <ls n="KATHĀS.">53, 117.</ls>
+707372 old <ls n="KATHĀS.">27. 53, 117.</ls>
+;
+707372 new <ls n="KATHĀS. 54,">27.</ls> <ls n="KATHĀS.">53, 117.</ls>
+; -----------------------------------------------------
+; <L>76560<pc>5-1523<k1>DA<k2>DA<h>1
+; oldls:<ls n="KATHĀS.">188.</ls>
+; prevls:<ls>KATHĀS. 60, 183.</ls>
+; newls:<ls n="KATHĀS. 60,">188.</ls>
+710254 old <ls n="KATHĀS.">188.</ls> — desid. vgl. {#prativiDitsA#} .
+;
+710254 new <ls n="KATHĀS. 60,">188.</ls> — desid. vgl. {#prativiDitsA#} .
+; -----------------------------------------------------
+; <L>76820<pc>5-1535<k1>naya<k2>naya
+; oldls:<ls n="KATHĀS.">95</ls>
+; prevls:<ls>KATHĀS. 72, 98</ls>
+; newls:<ls n="KATHĀS. 72,">95</ls>
+712078 old <ls n="KATHĀS.">95</ls>).
+;
+712078 new <ls n="KATHĀS. 72,">95</ls>).
+; -----------------------------------------------------
+; <L>77484<pc>5-1559<k1>nizAda<k2>nizAda
+; oldls:<ls n="KATHĀS.">160.</ls>
+; prevls:<ls n="KATHĀS. 59,">26.</ls>
+; newls:<ls n="KATHĀS. 59,">160.</ls>
+716219 old <ls n="KATHĀS.">160.</ls> 
+;
+716219 new <ls n="KATHĀS. 59,">160.</ls> 
+; -----------------------------------------------------
+; <L>77624<pc>5-1564<k1>nUtana<k2>nUtana
+; oldls:<ls n="KATHĀS.">265.</ls>
+; prevls:<ls>KATHĀS. 52, 373.</ls>
+; newls:<ls n="KATHĀS. 52,">265.</ls>
+717222 old <ls n="KATHĀS.">265.</ls> {#°BojarAja#} 
+;
+717222 new <ls n="KATHĀS. 52,">265.</ls> {#°BojarAja#} 
+; -----------------------------------------------------
+; <L>78677<pc>5-1602<k1>puYja<k2>puYja
+; oldls:<ls n="KATHĀS.">111.</ls>
+; prevls:<ls>KATHĀS. 59, 2.</ls>
+; newls:<ls n="KATHĀS. 59,">111.</ls>
+723879 old <ls n="KATHĀS.">111.</ls> {#kftapuRya°#} 
+;
+723879 new <ls n="KATHĀS. 59,">111.</ls> {#kftapuRya°#} 
+; -----------------------------------------------------
+; <L>78698<pc>5-1603<k1>putraka<k2>putraka
+; oldls:<ls n="KATHĀS.">179. 123, 136.</ls>
+; prevls:<ls>KATHĀS. 121, 149.</ls>
+; newls:<ls n="KATHĀS. 121,">179.</ls> <ls n="KATHĀS.">123, 136.</ls>
+724021 old <ls n="KATHĀS.">179. 123, 136.</ls>
+;
+724021 new <ls n="KATHĀS. 121,">179.</ls> <ls n="KATHĀS.">123, 136.</ls>
+; -----------------------------------------------------
+; <L>79220<pc>5-1620<k1>pratiloma<k2>pratiloma
+; oldls:<ls n="KATHĀS.">234.</ls>
+; prevls:<ls>KATHĀS. 74, 133. fg.</ls>
+; newls:<ls n="KATHĀS. 74,">234.</ls>
+727141 old <ls>KATHĀS. 74, 133. fg.</ls> ; vgl. <ls n="KATHĀS.">234.</ls> {#°guRa#} 
+;
+727141 new <ls>KATHĀS. 74, 133. fg.</ls> ; vgl. <ls n="KATHĀS. 74,">234.</ls> {#°guRa#} 
+; -----------------------------------------------------
+; <L>80087<pc>5-1654<k1>BadraGawa<k2>BadraGawa
+; oldls:<ls n="KATHĀS.">46.</ls>
+; prevls:<ls n="KATHĀS. 57,">41.</ls>
+; newls:<ls n="KATHĀS. 57,">46.</ls>
+732836 old m. <ls n="KATHĀS.">46.</ls>
+;
+732836 new m. <ls n="KATHĀS. 57,">46.</ls>
+; -----------------------------------------------------
+; <L>80814<pc>6-0004<k1>yakza<k2>yakza/<h>1
+; oldls:<ls n="KATHĀS.">172.</ls>
+; prevls:<ls>KATHĀS. 13, 170.</ls>
+; newls:<ls n="KATHĀS. 13,">172.</ls>
+737734 old <ls n="KATHĀS.">172.</ls> {#°Bavana#} 
+;
+737734 new <ls n="KATHĀS. 13,">172.</ls> {#°Bavana#} 
+; -----------------------------------------------------
+; <L>81505<pc>6-0062<k1>yantramaya<k2>yantramaya
+; oldls:<ls n="KATHĀS.">10.</ls>
+; prevls:<ls n="KATHĀS.">43, 58.</ls>
+; newls:<ls n="KATHĀS. 43,">10.</ls>
+744368 old <ls n="KATHĀS.">10.</ls>
+;
+744368 new <ls n="KATHĀS. 43,">10.</ls>
+; -----------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+; oldls:<ls n="KATHĀS.">289.</ls>
+; prevls:<ls>KATHĀS. 18, 392.</ls>
+; newls:<ls n="KATHĀS. 18,">289.</ls>
+749427 old <ls n="KATHĀS.">289.</ls> {#puRyavanAya#} 
+;
+749427 new <ls n="KATHĀS. 18,">289.</ls> {#puRyavanAya#} 
+; -----------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+; oldls:<ls n="KATHĀS.">159. 12, 166. 45, 196.</ls>
+; prevls:<ls>KATHĀS. 57, 157.</ls>
+; newls:<ls n="KATHĀS. 57,">159.</ls> <ls n="KATHĀS.">12, 166.</ls> <ls n="KATHĀS.">45, 196.</ls>
+754150 old <ls n="KATHĀS.">159. 12, 166. 45, 196.</ls> {#nEtadyujyate sahasEva pitfparyAyAgataM vanaM tyaktum#} 
+;
+754150 new <ls n="KATHĀS. 57,">159.</ls> <ls n="KATHĀS.">12, 166.</ls> <ls n="KATHĀS.">45, 196.</ls> {#nEtadyujyate sahasEva pitfparyAyAgataM vanaM tyaktum#} 
+; -----------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+; oldls:<ls n="KATHĀS.">267. 71, 82.</ls>
+; prevls:<ls>KATHĀS. 43, 70.</ls>
+; newls:<ls n="KATHĀS. 43,">267.</ls> <ls n="KATHĀS.">71, 82.</ls>
+754662 old <ls n="KATHĀS.">267. 71, 82.</ls> <ls>BHĀG. P. 10, 73, 24.</ls> <ls>HIT. 41, 22. 62, 20. 90, 18.</ls> {#prARezu ca Danezu ca#} 
+;
+754662 new <ls n="KATHĀS. 43,">267.</ls> <ls n="KATHĀS.">71, 82.</ls> <ls>BHĀG. P. 10, 73, 24.</ls> <ls>HIT. 41, 22. 62, 20. 90, 18.</ls> {#prARezu ca Danezu ca#} 
+; -----------------------------------------------------
+; <L>82999<pc>6-0227<k1>rac<k2>rac
+; oldls:<ls n="KATHĀS.">79.</ls>
+; prevls:<ls n="KATHĀS.">43, 235.</ls>
+; newls:<ls n="KATHĀS. 43,">79.</ls>
+762739 old <ls n="KATHĀS.">79.</ls> {#racitAnati#} 
+;
+762739 new <ls n="KATHĀS. 43,">79.</ls> {#racitAnati#} 
+; -----------------------------------------------------
+; <L>83813<pc>6-0297<k1>rasAtala<k2>rasAtala
+; oldls:<ls n="KATHĀS.">325.</ls>
+; prevls:<ls>KATHĀS. 45, 282.</ls>
+; newls:<ls n="KATHĀS. 45,">325.</ls>
+771210 old <ls n="KATHĀS.">325.</ls> {#medinIM sarasAtalAm#} 
+;
+771210 new <ls n="KATHĀS. 45,">325.</ls> {#medinIM sarasAtalAm#} 
+; -----------------------------------------------------
+; <L>83909<pc>6-0305<k1>rAkzasa<k2>rAkzasa/
+; oldls:<ls n="KATHĀS.">4</ls>
+; prevls:<ls>KATHĀS. 98, 1.</ls>
+; newls:<ls n="KATHĀS. 98,">4</ls>
+772147 old <ls n="KATHĀS.">4</ls> Ecken eines Hauses sich aufhält, 
+;
+772147 new <ls n="KATHĀS. 98,">4</ls> Ecken eines Hauses sich aufhält, 
+; -----------------------------------------------------
+; <L>84653<pc>6-0352<k1>rASIkar<k2>rASIkar
+; oldls:<ls n="KATHĀS.">124.</ls>
+; prevls:<ls>KATHĀS. 39, 122.</ls>
+; newls:<ls n="KATHĀS. 39,">124.</ls>
+778287 old <ls n="KATHĀS.">124.</ls> <ls>R. 2, 96, 34.</ls> {#BasmarASIkfta#}
+;
+778287 new <ls n="KATHĀS. 39,">124.</ls> <ls>R. 2, 96, 34.</ls> {#BasmarASIkfta#}
+; -----------------------------------------------------
+; <L>85443<pc>6-0448<k1>romaSa<k2>romaSa/
+; oldls:<ls n="KATHĀS.">167.</ls>
+; prevls:<ls>KATHĀS. 65, 162.</ls>
+; newls:<ls n="KATHĀS. 65,">167.</ls>
+788629 old <ls n="KATHĀS.">167.</ls> {#Kararomatvac#} ({#sUkara#}) 
+;
+788629 new <ls n="KATHĀS. 65,">167.</ls> {#Kararomatvac#} ({#sUkara#}) 
+; -----------------------------------------------------
+; <L>85715<pc>6-0475<k1>lag<k2>lag
+; oldls:<ls n="KATHĀS.">149.</ls>
+; prevls:<ls n="KATHĀS.">54, 148.</ls>
+; newls:<ls n="KATHĀS. 54,">149.</ls>
+791867 old <ls n="KATHĀS.">149.</ls> {#ukto lagnaSca dUre yat#} 
+;
+791867 new <ls n="KATHĀS. 54,">149.</ls> {#ukto lagnaSca dUre yat#} 
+; -----------------------------------------------------
+; <L>85715<pc>6-0475<k1>lag<k2>lag
+; oldls:<ls n="KATHĀS.">15.</ls>
+; prevls:<ls n="KATHĀS.">32, 17.</ls>
+; newls:<ls n="KATHĀS. 32,">15.</ls>
+791870 old <ls n="KATHĀS.">15.</ls> {#papracCa lagnaM vivAhe rAjadattAyA gaRakAnAtmanastaTA#} 
+;
+791870 new <ls n="KATHĀS. 32,">15.</ls> {#papracCa lagnaM vivAhe rAjadattAyA gaRakAnAtmanastaTA#} 
+; -----------------------------------------------------
+; <L>85715<pc>6-0475<k1>lag<k2>lag
+; oldls:<ls n="KATHĀS.">3.</ls>
+; prevls:<ls>KATHĀS. 32, 6.</ls>
+; newls:<ls n="KATHĀS. 32,">3.</ls>
+791879 old <ls n="KATHĀS.">3.</ls> {#SuBaPaladamapfcCallagnam#} 
+;
+791879 new <ls n="KATHĀS. 32,">3.</ls> {#SuBaPaladamapfcCallagnam#} 
+; -----------------------------------------------------
+; <L>85715<pc>6-0475<k1>lag<k2>lag
+; oldls:<ls n="KATHĀS.">43.</ls>
+; prevls:<ls n="KATHĀS.">79, 40.</ls>
+; newls:<ls n="KATHĀS. 79,">43.</ls>
+791884 old <ls n="KATHĀS.">43.</ls> 
+;
+791884 new <ls n="KATHĀS. 79,">43.</ls> 
+; -----------------------------------------------------
+; <L>85874<pc>6-0486<k1>laNG<k2>laNG
+; oldls:<ls n="KATHĀS.">190.</ls>
+; prevls:<ls>KATHĀS. 108, 183.</ls>
+; newls:<ls n="KATHĀS. 108,">190.</ls>
+793212 old <ls n="KATHĀS.">190.</ls> {#satyAmimAM giram#} 
+;
+793212 new <ls n="KATHĀS. 108,">190.</ls> {#satyAmimAM giram#} 
+; -----------------------------------------------------
+; <L>85881<pc>6-0489<k1>laNGya<k2>laNGya
+; oldls:<ls n="KATHĀS.">350. 110, 13.</ls>
+; prevls:<ls>KATHĀS. 18, 355.</ls>
+; newls:<ls n="KATHĀS. 18,">350.</ls> <ls n="KATHĀS.">110, 13.</ls>
+793380 old <ls n="KATHĀS.">350. 110, 13.</ls> {#akfcCralaNGyAH panTAnaH#} {%ohne Beschwerde zurückzulegen%} 
+;
+793380 new <ls n="KATHĀS. 18,">350.</ls> <ls n="KATHĀS.">110, 13.</ls> {#akfcCralaNGyAH panTAnaH#} {%ohne Beschwerde zurückzulegen%} 
+; -----------------------------------------------------
+; <L>85996<pc>6-0497<k1>laB<k2>laB
+; oldls:<ls n="KATHĀS.">346.</ls>
+; prevls:<ls>KATHĀS. 18, 315.</ls>
+; newls:<ls n="KATHĀS. 18,">346.</ls>
+794646 old <ls n="KATHĀS.">346.</ls> {#SAntimAtmanaH#} 
+;
+794646 new <ls n="KATHĀS. 18,">346.</ls> {#SAntimAtmanaH#} 
+; -----------------------------------------------------
+; <L>86163<pc>6-0522<k1>las<k2>las<h>1
+; oldls:<ls n="KATHĀS.">407.</ls>
+; prevls:<ls n="KATHĀS.">52, 306.</ls>
+; newls:<ls n="KATHĀS. 52,">407.</ls>
+797192 old <ls n="KATHĀS.">407.</ls> {#lasadbAzpapUrA#} 
+;
+797192 new <ls n="KATHĀS. 52,">407.</ls> {#lasadbAzpapUrA#} 
+; -----------------------------------------------------
+; <L>86354<pc>6-0535<k1>liK<k2>liK
+; oldls:<ls n="KATHĀS.">189.</ls>
+; prevls:<ls>KATHĀS. 24, 174.</ls>
+; newls:<ls n="KATHĀS. 24,">189.</ls>
+798937 old <ls n="KATHĀS.">189.</ls> 
+;
+798937 new <ls n="KATHĀS. 24,">189.</ls> 
+; -----------------------------------------------------
+; <L>87676<pc>6-0660<k1>vaDa<k2>vaDa/
+; oldls:<ls n="KATHĀS.">150.</ls>
+; prevls:<ls>KATHĀS. 28, 147.</ls>
+; newls:<ls n="KATHĀS. 28,">150.</ls>
+813691 old <ls n="KATHĀS.">150.</ls> {#vikftaM prApnuyAdvaDam#} 
+;
+813691 new <ls n="KATHĀS. 28,">150.</ls> {#vikftaM prApnuyAdvaDam#} 
+; -----------------------------------------------------
+; <L>87964<pc>6-0678<k1>vand<k2>vand
+; oldls:<ls n="KATHĀS.">365.</ls>
+; prevls:<ls n="KATHĀS.">45, 155.</ls>
+; newls:<ls n="KATHĀS. 45,">365.</ls>
+816001 old <ls n="KATHĀS.">365.</ls> {#rAmasya vavande caraRO#} 
+;
+816001 new <ls n="KATHĀS. 45,">365.</ls> {#rAmasya vavande caraRO#} 
+; -----------------------------------------------------
+; <L>88101<pc>6-0696<k1>var<k2>var<h>1
+; oldls:<ls n="KATHĀS.">352.</ls>
+; prevls:<ls n="KATHĀS.">56, 341.</ls>
+; newls:<ls n="KATHĀS. 56,">352.</ls>
+818452 old <ls n="KATHĀS.">352.</ls> m. f. n. = {#nivIta#} 
+;
+818452 new <ls n="KATHĀS. 56,">352.</ls> m. f. n. = {#nivIta#} 
+; -----------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+; oldls:<ls n="KATHĀS.">128</ls>
+; prevls:<ls>KATHĀS. 28, 131.</ls>
+; newls:<ls n="KATHĀS. 28,">128</ls>
+824884 old <ls n="KATHĀS.">128</ls>; statt dessen {#virarAma#} 
+;
+824884 new <ls n="KATHĀS. 28,">128</ls>; statt dessen {#virarAma#} 
+; -----------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+; oldls:<ls n="KATHĀS.">414.</ls>
+; prevls:<ls n="KATHĀS.">56, 249.</ls>
+; newls:<ls n="KATHĀS. 56,">414.</ls>
+825693 old <ls n="KATHĀS.">414.</ls> {#kulakzaya°#} 
+;
+825693 new <ls n="KATHĀS. 56,">414.</ls> {#kulakzaya°#} 
+; -----------------------------------------------------
+; <L>88922<pc>6-0838<k1>vasati<k2>vasati/
+; oldls:<ls n="KATHĀS.">93. 24, 110. 28, 189. 38, 157. 45, 150. 49, 236. 53, 73. 58, 13. 79, 31. 35. 86, 108.</ls>
+; prevls:<ls>KATHĀS. 16, 30.</ls>
+; newls:<ls n="KATHĀS. 16,">93.</ls> <ls n="KATHĀS.">24, 110.</ls> <ls n="KATHĀS.">28, 189.</ls> <ls n="KATHĀS.">38, 157.</ls> <ls n="KATHĀS.">45, 150.</ls> <ls n="KATHĀS.">49, 236.</ls> <ls n="KATHĀS.">53, 73.</ls> <ls n="KATHĀS.">58, 13.</ls> <ls n="KATHĀS.">79, 31.</ls> <ls n="KATHĀS. 79,">35.</ls> <ls n="KATHĀS.">86, 108.</ls>
+832607 old <ls n="KATHĀS.">93. 24, 110. 28, 189. 38, 157. 45, 150. 49, 236. 53, 73. 58, 13. 79, 31. 35. 86, 108.</ls> <ls>RĀJA-TAR. 3, 331. 4, 129. 431. 5, 481. 6, 237.</ls> <ls>PRAB. 80, 7.</ls> <ls>NALOD. 4, 29.</ls> {#jIviteSa°#} 
+;
+832607 new <ls n="KATHĀS. 16,">93.</ls> <ls n="KATHĀS.">24, 110.</ls> <ls n="KATHĀS.">28, 189.</ls> <ls n="KATHĀS.">38, 157.</ls> <ls n="KATHĀS.">45, 150.</ls> <ls n="KATHĀS.">49, 236.</ls> <ls n="KATHĀS.">53, 73.</ls> <ls n="KATHĀS.">58, 13.</ls> <ls n="KATHĀS.">79, 31.</ls> <ls n="KATHĀS. 79,">35.</ls> <ls n="KATHĀS.">86, 108.</ls> <ls>RĀJA-TAR. 3, 331. 4, 129. 431. 5, 481. 6, 237.</ls> <ls>PRAB. 80, 7.</ls> <ls>NALOD. 4, 29.</ls> {#jIviteSa°#} 
+; -----------------------------------------------------
+; <L>89015<pc>6-0848<k1>vasudatta<k2>vasudatta
+; oldls:<ls n="KATHĀS.">62.</ls>
+; prevls:<ls>KATHĀS. 77, 49</ls>
+; newls:<ls n="KATHĀS. 77,">62.</ls>
+833618 old <ls n="KATHĀS.">62.</ls> angeblich N. der Mutter <is>Vararuci's</is> 
+;
+833618 new <ls n="KATHĀS. 77,">62.</ls> angeblich N. der Mutter <is>Vararuci's</is> 
+; -----------------------------------------------------
+; <L>89128<pc>6-0854<k1>vasti<k2>vasti/
+; oldls:<ls n="KATHĀS.">18.</ls>
+; prevls:<ls>KATHĀS. 64, 15.</ls>
+; newls:<ls n="KATHĀS. 64,">18.</ls>
+834478 old <ls n="KATHĀS.">18.</ls> {#vastyAdidAnaprAyaScitta#} 
+;
+834478 new <ls n="KATHĀS. 64,">18.</ls> {#vastyAdidAnaprAyaScitta#} 
+; -----------------------------------------------------
+; <L>89199<pc>6-0859<k1>vah<k2>vah<h>1
+; oldls:<ls n="KATHĀS.">114</ls>
+; prevls:<ls>KATHĀS. 62, 115.</ls>
+; newls:<ls n="KATHĀS. 62,">114</ls>
+835236 old <ls n="KATHĀS.">114</ls> (med.). <ls>BHĀG. P. 8, 20, 18. 9, 4, 54.</ls> <ls>BHAṬṬ. 14, 91.</ls> {#vakzasi#} 
+;
+835236 new <ls n="KATHĀS. 62,">114</ls> (med.). <ls>BHĀG. P. 8, 20, 18. 9, 4, 54.</ls> <ls>BHAṬṬ. 14, 91.</ls> {#vakzasi#} 
+; -----------------------------------------------------
+; <L>90450<pc>6-0953<k1>vAla<k2>vA/la<h>1
+; oldls:<ls n="KATHĀS.">19.</ls>
+; prevls:<ls n="KATHĀS.">49, 21.</ls>
+; newls:<ls n="KATHĀS. 49,">19.</ls>
+846825 old <ls n="KATHĀS.">19.</ls> {#govAlAH#} 
+;
+846825 new <ls n="KATHĀS. 49,">19.</ls> {#govAlAH#} 
+; -----------------------------------------------------
+; <L>90905<pc>6-0991<k1>vikfti<k2>vikfti
+; oldls:<ls n="KATHĀS.">254. 31, 66.</ls>
+; prevls:<ls n="KATHĀS.">22, 37.</ls>
+; newls:<ls n="KATHĀS. 22,">254.</ls> <ls n="KATHĀS.">31, 66.</ls>
+851503 old <ls n="KATHĀS.">254. 31, 66.</ls> {#vikftiM nI#} 
+;
+851503 new <ls n="KATHĀS. 22,">254.</ls> <ls n="KATHĀS.">31, 66.</ls> {#vikftiM nI#} 
+; -----------------------------------------------------
+; <L>92168<pc>6-1101<k1>vipaRi<k2>vipa/Ri
+; oldls:<ls n="KATHĀS.">24. 56, 184. 112, 164.</ls>
+; prevls:<ls n="KATHĀS.">19, 23</ls>
+; newls:<ls n="KATHĀS. 19,">24.</ls> <ls n="KATHĀS.">56, 184.</ls> <ls n="KATHĀS.">112, 164.</ls>
+864210 old <ls n="KATHĀS.">24. 56, 184. 112, 164.</ls> {#tapaHpaRena sa (varaH) krayyaH sutIrTavipaRO kvacit#} 
+;
+864210 new <ls n="KATHĀS. 19,">24.</ls> <ls n="KATHĀS.">56, 184.</ls> <ls n="KATHĀS.">112, 164.</ls> {#tapaHpaRena sa (varaH) krayyaH sutIrTavipaRO kvacit#} 
+; -----------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+; oldls:<ls n="KATHĀS.">156.</ls>
+; prevls:<ls>KATHĀS. 101, 285.</ls>
+; newls:<ls n="KATHĀS. 101,">156.</ls>
+866196 old <ls n="KATHĀS.">156.</ls> {#vikalpa°#} 
+;
+866196 new <ls n="KATHĀS. 101,">156.</ls> {#vikalpa°#} 
+; -----------------------------------------------------
+; <L>93388<pc>6-1223<k1>viSva<k2>vi/Sva
+; oldls:<ls n="KATHĀS.">240.</ls>
+; prevls:<ls>KATHĀS. 22, 90.</ls>
+; newls:<ls n="KATHĀS. 22,">240.</ls>
+878065 old <ls n="KATHĀS.">240.</ls> {#viSvatrayeRa yo mitraM kartuM na SakitaH purA#} (zur Erklärung des Namens <is>Viśvāmitra</is>) {%die drei Welten%} 
+;
+878065 new <ls n="KATHĀS. 22,">240.</ls> {#viSvatrayeRa yo mitraM kartuM na SakitaH purA#} (zur Erklärung des Namens <is>Viśvāmitra</is>) {%die drei Welten%} 
+; -----------------------------------------------------
+; <L>94792<pc>6-1318<k1>vfttAnta<k2>vfttAnta
+; oldls:<ls n="KATHĀS.">52. 7, 22. 34, 227.</ls>
+; prevls:<ls>KATHĀS. 2, 28.</ls>
+; newls:<ls n="KATHĀS. 2,">52.</ls> <ls n="KATHĀS.">7, 22.</ls> <ls n="KATHĀS.">34, 227.</ls>
+890095 old ? <ls n="KATHĀS.">52. 7, 22. 34, 227.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#rAtri°#} {%was sich in der Nacht begeben hat%} 
+;
+890095 new ? <ls n="KATHĀS. 2,">52.</ls> <ls n="KATHĀS.">7, 22.</ls> <ls n="KATHĀS.">34, 227.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#rAtri°#} {%was sich in der Nacht begeben hat%} 
+; -----------------------------------------------------
+; <L>95487<pc>6-1375<k1>vell<k2>vell
+; oldls:<ls n="KATHĀS.">196. 109, 11.</ls>
+; prevls:<ls n="KATHĀS.">71, 2.</ls>
+; newls:<ls n="KATHĀS. 71,">196.</ls> <ls n="KATHĀS.">109, 11.</ls>
+896990 old <ls n="KATHĀS.">196. 109, 11.</ls> {#vAtavellacCara#} 
+;
+896990 new <ls n="KATHĀS. 71,">196.</ls> <ls n="KATHĀS.">109, 11.</ls> {#vAtavellacCara#} 
+; -----------------------------------------------------
+; <L>95542<pc>6-1378<k1>veza<k2>ve/za<h>1
+; oldls:<ls n="KATHĀS.">179. 12, 168. 27, 197. 29, 102. 43, 172.</ls>
+; prevls:<ls>KATHĀS. 13, 146.</ls>
+; newls:<ls n="KATHĀS. 13,">179.</ls> <ls n="KATHĀS.">12, 168.</ls> <ls n="KATHĀS.">27, 197.</ls> <ls n="KATHĀS.">29, 102.</ls> <ls n="KATHĀS.">43, 172.</ls>
+897467 old <ls n="KATHĀS.">179. 12, 168. 27, 197. 29, 102. 43, 172.</ls> {#kArpawikavezaBft#} 
+;
+897467 new <ls n="KATHĀS. 13,">179.</ls> <ls n="KATHĀS.">12, 168.</ls> <ls n="KATHĀS.">27, 197.</ls> <ls n="KATHĀS.">29, 102.</ls> <ls n="KATHĀS.">43, 172.</ls> {#kArpawikavezaBft#} 
+; -----------------------------------------------------
+; <L>95779<pc>6-1401<k1>vEdyADara<k2>vEdyADara
+; oldls:<ls n="KATHĀS.">253.</ls>
+; prevls:<ls n="KATHĀS.">52, 63.</ls>
+; newls:<ls n="KATHĀS. 52,">253.</ls>
+899969 old <ls n="KATHĀS.">253.</ls> {#purI#} 
+;
+899969 new <ls n="KATHĀS. 52,">253.</ls> {#purI#} 
+; -----------------------------------------------------
+; <L>95779<pc>6-1401<k1>vEdyADara<k2>vEdyADara
+; oldls:<ls n="KATHĀS.">162.</ls>
+; prevls:<ls n="KATHĀS.">22, 58.</ls>
+; newls:<ls n="KATHĀS. 22,">162.</ls>
+899974 old <ls n="KATHĀS.">162.</ls>
+;
+899974 new <ls n="KATHĀS. 22,">162.</ls>
+; -----------------------------------------------------
+; <L>96281<pc>6-1438<k1>vyaD<k2>vyaD
+; oldls:<ls n="KATHĀS.">138.</ls>
+; prevls:<ls>KATHĀS. 25, 130.</ls>
+; newls:<ls n="KATHĀS. 25,">138.</ls>
+904625 old <ls n="KATHĀS.">138.</ls> {#vfkzezu#} 
+;
+904625 new <ls n="KATHĀS. 25,">138.</ls> {#vfkzezu#} 
+; -----------------------------------------------------
+; <L>96335<pc>6-1448<k1>vyaya<k2>vyaya
+; oldls:<ls n="KATHĀS.">141.</ls>
+; prevls:<ls n="KATHĀS.">57, 138.</ls>
+; newls:<ls n="KATHĀS. 57,">141.</ls>
+905564 old <ls n="KATHĀS.">141.</ls> {#dInArAnprAggIrRAnvyayezvadAt#} 
+;
+905564 new <ls n="KATHĀS. 57,">141.</ls> {#dInArAnprAggIrRAnvyayezvadAt#} 
+; -----------------------------------------------------
+; <L>96347<pc>6-1449<k1>vyayIkar<k2>vyayIkar
+; oldls:<ls n="KATHĀS.">21. 53, 163.</ls>
+; prevls:<ls>KATHĀS. 57, 117.</ls>
+; newls:<ls n="KATHĀS. 57,">21.</ls> <ls n="KATHĀS.">53, 163.</ls>
+905681 old <ls n="KATHĀS.">21. 53, 163.</ls> {#°kfta#} 
+;
+905681 new <ls n="KATHĀS. 57,">21.</ls> <ls n="KATHĀS.">53, 163.</ls> {#°kfta#} 
+; -----------------------------------------------------
+; <L>96769<pc>6-1484<k1>vyUha<k2>vyUha/<h>1
+; oldls:<ls n="KATHĀS.">11.</ls>
+; prevls:<ls>KATHĀS. 48, 7.</ls>
+; newls:<ls n="KATHĀS. 48,">11.</ls>
+909743 old <ls n="KATHĀS.">11.</ls> {#vyUhAnAmuttamA mArgAH sapta cEva mahApaTAH#} 
+;
+909743 new <ls n="KATHĀS. 48,">11.</ls> {#vyUhAnAmuttamA mArgAH sapta cEva mahApaTAH#} 
+; -----------------------------------------------------
+; <L>96798<pc>6-1486<k1>vyoman<k2>vyo^man<h>1
+; oldls:<ls n="KATHĀS.">186. 20, 103.</ls>
+; prevls:<ls>KATHĀS. 18, 71.</ls>
+; newls:<ls n="KATHĀS. 18,">186.</ls> <ls n="KATHĀS.">20, 103.</ls>
+910007 old <ls n="KATHĀS.">186. 20, 103.</ls> <ls>RĀJA-TAR. 3, 81. 4, 203.</ls> <ls>DHŪRTAS. 74, 1.</ls> {#vyomno 'vatarantaM nArAyaRam#} 
+;
+910007 new <ls n="KATHĀS. 18,">186.</ls> <ls n="KATHĀS.">20, 103.</ls> <ls>RĀJA-TAR. 3, 81. 4, 203.</ls> <ls>DHŪRTAS. 74, 1.</ls> {#vyomno 'vatarantaM nArAyaRam#} 
+; -----------------------------------------------------
+; <L>98388<pc>7-0115<k1>SaSANkapura<k2>SaSANkapura
+; oldls:<ls n="KATHĀS.">382.</ls>
+; prevls:<ls>KATHĀS. 101, 96.</ls>
+; newls:<ls n="KATHĀS. 101,">382.</ls>
+926326 old <ls n="KATHĀS.">382.</ls>
+;
+926326 new <ls n="KATHĀS. 101,">382.</ls>
+; -----------------------------------------------------
+; <L>98694<pc>7-0135<k1>SAwaka<k2>SAwaka
+; oldls:<ls n="KATHĀS.">190</ls>
+; prevls:<ls n="KATHĀS.">13, 187</ls>
+; newls:<ls n="KATHĀS. 13,">190</ls>
+928884 old <ls n="KATHĀS.">190</ls>). {#SiraH°#} 
+;
+928884 new <ls n="KATHĀS. 13,">190</ls>). {#SiraH°#} 
+; -----------------------------------------------------
+; <L>99221<pc>7-0174<k1>Sikz<k2>Sikz<h>1
+; oldls:<ls n="KATHĀS.">120.</ls>
+; prevls:<ls n="KATHĀS.">37, 73.</ls>
+; newls:<ls n="KATHĀS. 37,">120.</ls>
+933842 old <ls n="KATHĀS.">120.</ls> <ls>HIT. II, 154.</ls> <ls>RĀJA-TAR. 5, 8.</ls> <ls>BHĀG. P. 1, 7, 44. 2, 9, 28. 8, 6, 30.</ls> {#SikzitAyuDa#} <lex>adj.</lex> 
+;
+933842 new <ls n="KATHĀS. 37,">120.</ls> <ls>HIT. II, 154.</ls> <ls>RĀJA-TAR. 5, 8.</ls> <ls>BHĀG. P. 1, 7, 44. 2, 9, 28. 8, 6, 30.</ls> {#SikzitAyuDa#} <lex>adj.</lex> 
+; -----------------------------------------------------
+; <L>99255<pc>7-0179<k1>SiKA<k2>Si/KA
+; oldls:<ls n="KATHĀS.">119.</ls>
+; prevls:<ls>KATHĀS. 5, 118.</ls>
+; newls:<ls n="KATHĀS. 5,">119.</ls>
+934433 old <ls n="KATHĀS.">119.</ls> {#°banDana#} 
+;
+934433 new <ls n="KATHĀS. 5,">119.</ls> {#°banDana#} 
+; -----------------------------------------------------
+; <L>99479<pc>7-0194<k1>SiromaRi<k2>SiromaRi
+; oldls:<ls n="KATHĀS.">250.</ls>
+; prevls:<ls>KATHĀS. 61, 202.</ls>
+; newls:<ls n="KATHĀS. 61,">250.</ls>
+936425 old <ls n="KATHĀS.">250.</ls> {#DUrta°#} 
+;
+936425 new <ls n="KATHĀS. 61,">250.</ls> {#DUrta°#} 
+; -----------------------------------------------------
+; <L>100333<pc>7-0254<k1>SudDi<k2>Su/dDi
+; oldls:<ls n="KATHĀS.">76. fg.</ls>
+; prevls:<ls>KATHĀS. 5, 58.</ls>
+; newls:<ls n="KATHĀS. 5,">76. fg.</ls>
+944590 old <ls n="KATHĀS.">76. fg.</ls> {#agni°#} {%durch die Feuerprobe%} 
+;
+944590 new <ls n="KATHĀS. 5,">76. fg.</ls> {#agni°#} {%durch die Feuerprobe%} 
+; -----------------------------------------------------
+; <L>101446<pc>7-0336<k1>Sram<k2>Sram<h>1
+; oldls:<ls n="KATHĀS.">191.</ls>
+; prevls:<ls>KATHĀS. 18, 106.</ls>
+; newls:<ls n="KATHĀS. 18,">191.</ls>
+955450 old <ls n="KATHĀS.">191.</ls> {#aDva°#} 
+;
+955450 new <ls n="KATHĀS. 18,">191.</ls> {#aDva°#} 
+; -----------------------------------------------------
+; <L>101446<pc>7-0336<k1>Sram<k2>Sram<h>1
+; oldls:<ls n="KATHĀS.">220.</ls>
+; prevls:<ls>KATHĀS. 46, 175.</ls>
+; newls:<ls n="KATHĀS. 46,">220.</ls>
+955557 old <ls n="KATHĀS.">220.</ls> {#karRAntaviSrAnte viSAle tasya locane#} {%bei den Ohren aufhörend%}
+;
+955557 new <ls n="KATHĀS. 46,">220.</ls> {#karRAntaviSrAnte viSAle tasya locane#} {%bei den Ohren aufhörend%}
+; -----------------------------------------------------
+; <L>101597<pc>7-0365<k1>SrIkaRWa<k2>SrIkaRWa
+; oldls:<ls n="KATHĀS.">39. 44, 47. 108. 113.</ls>
+; prevls:<ls>KATHĀS. 20, 33.</ls>
+; newls:<ls n="KATHĀS. 20,">39.</ls> <ls n="KATHĀS.">44, 47.</ls> <ls n="KATHĀS. 44,">108.</ls> <ls n="KATHĀS. 44,">113.</ls>
+958397 old <ls n="KATHĀS.">39. 44, 47. 108. 113.</ls> {#kuru = °jANgala#} 
+;
+958397 new <ls n="KATHĀS. 20,">39.</ls> <ls n="KATHĀS.">44, 47.</ls> <ls n="KATHĀS. 44,">108.</ls> <ls n="KATHĀS. 44,">113.</ls> {#kuru = °jANgala#} 
+; -----------------------------------------------------
+; <L>102040<pc>7-0402<k1>Sliz<k2>Sliz<h>2
+; oldls:<ls n="KATHĀS.">145.</ls>
+; prevls:<ls n="KATHĀS. 32,">188.</ls>
+; newls:<ls n="KATHĀS. 32,">145.</ls>
+963125 old <ls n="KATHĀS.">145.</ls> Vielleicht ist überall {#viSle°#} zu lesen. — partic. {#°Slizwa#} {%getrennt%} 
+;
+963125 new <ls n="KATHĀS. 32,">145.</ls> Vielleicht ist überall {#viSle°#} zu lesen. — partic. {#°Slizwa#} {%getrennt%} 
+; -----------------------------------------------------
+; <L>102187<pc>7-0419<k1>SvAgra<k2>SvAgra
+; oldls:<ls n="KATHĀS.">123.</ls>
+; prevls:<ls>KATHĀS. 114, 116</ls>
+; newls:<ls n="KATHĀS. 114,">123.</ls>
+964932 old <ls n="KATHĀS.">123.</ls>
+;
+964932 new <ls n="KATHĀS. 114,">123.</ls>
+; -----------------------------------------------------
+; <L>102722<pc>7-0451<k1>sa<k2>sa<h>1
+; oldls:<ls n="KATHĀS.">366.</ls>
+; prevls:<ls n="KATHĀS. 18,">174.</ls>
+; newls:<ls n="KATHĀS. 18,">366.</ls>
+969038 old <ls n="KATHĀS.">366.</ls> {#sa ca mfgaH#} 
+;
+969038 new <ls n="KATHĀS. 18,">366.</ls> {#sa ca mfgaH#} 
+; -----------------------------------------------------
+; <L>102907<pc>7-0470<k1>saMvid<k2>saMvi/d<h>1
+; oldls:<ls n="KATHĀS.">256.</ls>
+; prevls:<ls n="KATHĀS.">123, 193.</ls>
+; newls:<ls n="KATHĀS. 123,">256.</ls>
+971158 old <ls n="KATHĀS.">256.</ls> <ls>BHĀG. P. 8, 6, 32.</ls> {#akftvA kAlasaMvidam#} {%in Betreff des Zeitpunktes%} 
+;
+971158 new <ls n="KATHĀS. 123,">256.</ls> <ls>BHĀG. P. 8, 6, 32.</ls> {#akftvA kAlasaMvidam#} {%in Betreff des Zeitpunktes%} 
+; -----------------------------------------------------
+; <L>103150<pc>7-0492<k1>saMstava<k2>saMstava
+; oldls:<ls n="KATHĀS.">65.</ls>
+; prevls:<ls n="KATHĀS.">60, 66.</ls>
+; newls:<ls n="KATHĀS. 60,">65.</ls>
+973573 old <ls n="KATHĀS.">65.</ls> {#vaRijA saha#} 
+;
+973573 new <ls n="KATHĀS. 60,">65.</ls> {#vaRijA saha#} 
+; -----------------------------------------------------
+; <L>104019<pc>7-0575<k1>sattva<k2>sattva/
+; oldls:<ls n="KATHĀS.">67. 88, 49.</ls>
+; prevls:<ls>KATHĀS. 35, 75. fg.</ls>
+; newls:<ls n="KATHĀS. 35,">67.</ls> <ls n="KATHĀS.">88, 49.</ls>
+983073 old <ls n="KATHĀS.">67. 88, 49.</ls> {#DIra°#} 
+;
+983073 new <ls n="KATHĀS. 35,">67.</ls> <ls n="KATHĀS.">88, 49.</ls> {#DIra°#} 
+; -----------------------------------------------------
+; <L>104041<pc>7-0577<k1>satpaTa<k2>satpaTa
+; oldls:<ls n="KATHĀS.">294.</ls>
+; prevls:<ls>KATHĀS. 56, 13.</ls>
+; newls:<ls n="KATHĀS. 56,">294.</ls>
+983371 old <ls n="KATHĀS.">294.</ls> {#ullaNGita°#} 
+;
+983371 new <ls n="KATHĀS. 56,">294.</ls> {#ullaNGita°#} 
+; -----------------------------------------------------
+; <L>105208<pc>7-0674<k1>sama<k2>sama/<h>2
+; oldls:<ls n="KATHĀS.">180.</ls>
+; prevls:<ls>KATHĀS. 121, 147.</ls>
+; newls:<ls n="KATHĀS. 121,">180.</ls>
+995146 old <ls n="KATHĀS.">180.</ls> {#devagfhaM BUmisamaM vyaDAt#} 
+;
+995146 new <ls n="KATHĀS. 121,">180.</ls> {#devagfhaM BUmisamaM vyaDAt#} 
+; -----------------------------------------------------
+; <L>105345<pc>7-0686<k1>samaya<k2>samaya/
+; oldls:<ls n="KATHĀS.">110.</ls>
+; prevls:<ls>KATHĀS. 86, 113.</ls>
+; newls:<ls n="KATHĀS. 86,">110.</ls>
+996591 old <ls n="KATHĀS.">110.</ls> so v. a. {%versprechen%} 
+;
+996591 new <ls n="KATHĀS. 86,">110.</ls> so v. a. {%versprechen%} 
+; -----------------------------------------------------
+; <L>107462<pc>7-0852<k1>sah<k2>sah<h>1
+; oldls:<ls n="KATHĀS.">134.</ls>
+; prevls:<ls>KATHĀS. 101, 135.</ls>
+; newls:<ls n="KATHĀS. 101,">134.</ls>
+1017430 old <ls n="KATHĀS.">134.</ls> <ls>HARIV. 10270.</ls> {#dUtikAgamanakAlamapArayantI soQum#} {%erwarten%} 
+;
+1017430 new <ls n="KATHĀS. 101,">134.</ls> <ls>HARIV. 10270.</ls> {#dUtikAgamanakAlamapArayantI soQum#} {%erwarten%} 
+; -----------------------------------------------------
+; <L>108102<pc>7-0900<k1>sAtavAhana<k2>sAtavAhana
+; oldls:<ls n="KATHĀS.">105. fgg. 7, 18.</ls>
+; prevls:<ls>KATHĀS. 6, 1.</ls>
+; newls:<ls n="KATHĀS. 6,">105. fgg.</ls> <ls n="KATHĀS.">7, 18.</ls>
+1023154 old <ls n="KATHĀS.">105. fgg. 7, 18.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 54.</ls> {#SAta°#} 
+;
+1023154 new <ls n="KATHĀS. 6,">105. fgg.</ls> <ls n="KATHĀS.">7, 18.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 54.</ls> {#SAta°#} 
+; -----------------------------------------------------
+; <L>108162<pc>7-0904<k1>sAdara<k2>sAdara
+; oldls:<ls n="KATHĀS.">257. 45, 365.</ls>
+; prevls:<ls n="KATHĀS.">43, 213</ls>
+; newls:<ls n="KATHĀS. 43,">257.</ls> <ls n="KATHĀS.">45, 365.</ls>
+1023640 old <ls n="KATHĀS.">257. 45, 365.</ls> <ls>MĀRK. P. 69, 14.</ls> <ls>BHĀG. P. 4, 4, 7.</ls> in comp. mit der Ergänzung: {#DarmEka°#} {%nur bedacht auf%} 
+;
+1023640 new <ls n="KATHĀS. 43,">257.</ls> <ls n="KATHĀS.">45, 365.</ls> <ls>MĀRK. P. 69, 14.</ls> <ls>BHĀG. P. 4, 4, 7.</ls> in comp. mit der Ergänzung: {#DarmEka°#} {%nur bedacht auf%} 
+; -----------------------------------------------------
+; <L>108184<pc>7-0909<k1>sADana<k2>sA/Dana
+; oldls:<ls n="KATHĀS.">167</ls>
+; prevls:<ls n="KATHĀS.">49, 168.</ls>
+; newls:<ls n="KATHĀS. 49,">167</ls>
+1024220 old <ls n="KATHĀS.">167</ls>), {#manma°, mUla°, mokza°, yajYa°, Sabda°, sarva°, sarvamaRqala°, sarvaliNga°, sarvArTa°, svArTa°#} .
+;
+1024220 new <ls n="KATHĀS. 49,">167</ls>), {#manma°, mUla°, mokza°, yajYa°, Sabda°, sarva°, sarvamaRqala°, sarvaliNga°, sarvArTa°, svArTa°#} .
+; -----------------------------------------------------
+; <L>108459<pc>7-0933<k1>sAmarza<k2>sAmarza
+; oldls:<ls n="KATHĀS.">143. 42, 74. 74, 31.</ls>
+; prevls:<ls>KATHĀS. 38, 6</ls>
+; newls:<ls n="KATHĀS. 38,">143.</ls> <ls n="KATHĀS.">42, 74.</ls> <ls n="KATHĀS.">74, 31.</ls>
+1026973 old <ls n="KATHĀS.">143. 42, 74. 74, 31.</ls> <ls>PAÑCAT. 66, 9, v. l.</ls> {#°m#} adv. 
+;
+1026973 new <ls n="KATHĀS. 38,">143.</ls> <ls n="KATHĀS.">42, 74.</ls> <ls n="KATHĀS.">74, 31.</ls> <ls>PAÑCAT. 66, 9, v. l.</ls> {#°m#} adv. 
+; -----------------------------------------------------
+; <L>108499<pc>7-0935<k1>sAmAnya<k2>sAmAnya
+; oldls:<ls n="KATHĀS.">241. 60, 2. 63, 56.</ls>
+; prevls:<ls n="KATHĀS.">34, 211.</ls>
+; newls:<ls n="KATHĀS. 34,">241.</ls> <ls n="KATHĀS.">60, 2.</ls> <ls n="KATHĀS.">63, 56.</ls>
+1027260 old <ls n="KATHĀS.">241. 60, 2. 63, 56.</ls> <ls>RĀJA-TAR. 5, 197. 6, 85.</ls> <ls>PAÑCAR. 4, 3, 200.</ls> {#vizRusAmAnyadarSin#} {%in%} <is>Viṣṇu</is> {%einen gewöhnlichen Menschen sehend%} 186. {#°deSavat#} {%wie jedes andere Land%} 
+;
+1027260 new <ls n="KATHĀS. 34,">241.</ls> <ls n="KATHĀS.">60, 2.</ls> <ls n="KATHĀS.">63, 56.</ls> <ls>RĀJA-TAR. 5, 197. 6, 85.</ls> <ls>PAÑCAR. 4, 3, 200.</ls> {#vizRusAmAnyadarSin#} {%in%} <is>Viṣṇu</is> {%einen gewöhnlichen Menschen sehend%} 186. {#°deSavat#} {%wie jedes andere Land%} 
+; -----------------------------------------------------
+; <L>108901<pc>7-0964<k1>sAvitra<k2>sAvitra/
+; oldls:<ls n="KATHĀS.">29.</ls>
+; prevls:<ls>KATHĀS. 105, 27</ls>
+; newls:<ls n="KATHĀS. 105,">29.</ls>
+1030929 old <ls n="KATHĀS.">29.</ls> <ls>BHĀG. P. 5, 9, 5. 6, 18, 1</ls> (eine Tochter <is>Savitar's</is> von der <is>Pṛśni</is>). 
+;
+1030929 new <ls n="KATHĀS. 105,">29.</ls> <ls>BHĀG. P. 5, 9, 5. 6, 18, 1</ls> (eine Tochter <is>Savitar's</is> von der <is>Pṛśni</is>). 
+; -----------------------------------------------------
+; <L>111578<pc>7-1129<k1>suvAsakumAra<k2>suvAsakumAra
+; oldls:<ls n="KATHĀS.">131.</ls>
+; prevls:<ls n="KATHĀS. 46,">172.</ls>
+; newls:<ls n="KATHĀS. 46,">131.</ls>
+1053851 old <ls n="KATHĀS.">131.</ls>
+;
+1053851 new <ls n="KATHĀS. 46,">131.</ls>
+; -----------------------------------------------------
+; <L>113928<pc>7-1285<k1>sTA<k2>sTA<h>1
+; oldls:<ls n="KATHĀS.">302.</ls>
+; prevls:<ls n="KATHĀS. 18,">146.</ls>
+; newls:<ls n="KATHĀS. 18,">302.</ls>
+1076987 old <ls n="KATHĀS.">302.</ls> {#BakzyaM BojyaM ca peyaM ca lehyaM cEtadupasTitam#} {%steht bereit, - zur Verfügung%} 
+;
+1076987 new <ls n="KATHĀS. 18,">302.</ls> {#BakzyaM BojyaM ca peyaM ca lehyaM cEtadupasTitam#} {%steht bereit, - zur Verfügung%} 
+; -----------------------------------------------------
+; <L>113928<pc>7-1285<k1>sTA<k2>sTA<h>1
+; oldls:<ls n="KATHĀS.">293. 39, 183.</ls>
+; prevls:<ls n="KATHĀS.">18, 101.</ls>
+; newls:<ls n="KATHĀS. 18,">293.</ls> <ls n="KATHĀS.">39, 183.</ls>
+1077253 old <ls n="KATHĀS.">293. 39, 183.</ls> <ls>DAŚAK. 78, 4.</ls> <ls>PAÑCAT. ed. orn. 19, 13.</ls> <ls>BHAṬṬ. 3, 12. 8, 11.</ls> {#tasmAddeSAt#} 
+;
+1077253 new <ls n="KATHĀS. 18,">293.</ls> <ls n="KATHĀS.">39, 183.</ls> <ls>DAŚAK. 78, 4.</ls> <ls>PAÑCAT. ed. orn. 19, 13.</ls> <ls>BHAṬṬ. 3, 12. 8, 11.</ls> {#tasmAddeSAt#} 
+; -----------------------------------------------------
+; <L>115989<pc>7-1494<k1>han<k2>han<h>1
+; oldls:<ls n="KATHĀS.">277.</ls>
+; prevls:<ls>KATHĀS. 18, 129.</ls>
+; newls:<ls n="KATHĀS. 18,">277.</ls>
+1100019 old <ls n="KATHĀS.">277.</ls> {#balodData#} 
+;
+1100019 new <ls n="KATHĀS. 18,">277.</ls> {#balodData#} 
+; -----------------------------------------------------
+; <L>116085<pc>7-1519<k1>har<k2>har<h>1
+; oldls:<ls n="KATHĀS.">25.</ls>
+; prevls:<ls n="KATHĀS.">41, 19.</ls>
+; newls:<ls n="KATHĀS. 41,">25.</ls>
+1103671 old <ls n="KATHĀS.">25.</ls> {#yudDam#} 
+;
+1103671 new <ls n="KATHĀS. 41,">25.</ls> {#yudDam#} 
+; -----------------------------------------------------
+; <L>117952<pc>7-1685<k1>akzakzapaRa<k2>akzakzapaRa
+; oldls:<ls n="KATHĀS.">148.</ls>
+; prevls:<ls n="KATHĀS. 74,">182.</ls>
+; newls:<ls n="KATHĀS. 74,">148.</ls>
+1122294 old <ls n="KATHĀS.">148.</ls>
+;
+1122294 new <ls n="KATHĀS. 74,">148.</ls>
