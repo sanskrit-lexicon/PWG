@@ -198,9 +198,16 @@ links in cdsl displays - local install
 ----
 1. modifications to the basicadjust.php program in the
 csl-websanlexicon repository.
+/c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc
+Modify basicadjust.php
+
+git add .
+git commit -m "PWG: activate 'M.' (Manava dharmashastra) link target
+ Ref: https://github.com/sanskrit-lexicon/PWG/issues/73"
+git push
 
 See this csl-websanlexicon commit:
- https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/44d3e4f64500733c8f4e75e443984ebe0221e297
+ https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/c15a6192342cb0e0a1ed1e5f76869ea85bb3ccb0
 
 ----
 2. Regeneration of the cdsl BLAM local displays for pwg
@@ -237,11 +244,11 @@ End of work as of 7/27/2024
 **************************************************************
 Other dictionaries
 
-PWG ls abbreviation is KATHĀS.
+PWG ls abbreviation is "M."
   All displays revised and functioning
 ----
 PW
-ls abbrev = KATHĀS.
+ls abbrev = "M."
 links available in csl-apidev displays (simple-search)
 BLAM displays need to be regenerated, locally and at cologne.
 
@@ -265,32 +272,73 @@ ok
 
 -------------------------------------------------
 SCH
-ls abbrev = Kathās. (note lower case)
+ls abbrev = M. (note lower case)
  The link parameters are not within scope of ls.
- Example: <ls>Kathās.</ls> 27, 92.
+ Example: <ls>M.</ls> 5, 67.
+
 changes required:
-- basicadjust.php  recognize Kathās.
-- sch.txt modified : <ls>Kathās.</ls> 27, 92. -> <ls>Kathās. 27, 92.</ls>
+- basicadjust.php  recognize M.
+- sch.txt modified : <ls>M.</ls> 5, 67. -> <ls>M. 5, 67.</ls>
 - csl-apidev: revise basicadjust
 BLAM displays need to be regenerated, locally and at cologne.
 
-147 matches in 144 lines for "<ls>Kathās.</ls>" in buffer: sch.txt
-127 matches in 126 lines for "<ls>Kathās.</ls> [0-9]+, [0-9]+\." in buffer: sch.txt
- The 20 different are similiar - can be revised manually.
+manual edit of /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt
+119 matches in 116 lines for "<ls>M.</ls>" in buffer: sch.txt
+---
+1. 
+84 matches for "<ls>M.</ls> [0-9]+, [0-9]+\." in buffer: sch.txt
 
-Global change (Emacs) TO /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt
-<ls>Kathās.</ls> \([0-9]+, [0-9]+\.\) → <ls>Kathās. \1</ls>
- The other 20 modified individually
-<ls n="Kathās.">
+Global change (Emacs) 
+<ls>M.</ls> \([0-9]+, [0-9]+\.\) → <ls>M. \1</ls>
+  # Replaced 84 occurrences
 
 ---
-in csl-pywork/v02:
+2.
+6 matches for "<ls>M.</ls> [0-9]+, [0-9]+\;" in buffer: sch.txt
+Global change:
+<ls>M.</ls> \([0-9]+, [0-9]+\); → <ls>M. \1</ls>;
+  # Replaced 6 occurrences
 
+---
+3.
+6 matches in 5 lines for "<ls>M.</ls> [0-9]+, [0-9]+)" in buffer: sch.txt
+Global change:
+<ls>M.</ls> \([0-9]+, [0-9]+\)) → <ls>M. \1</ls>)
+  # Replaced 6 occurrences
+---
+4.
+There remain: 23 matches for "<ls>M.</ls>" in buffer: sch.txt
+Handle these individually.
+---
+old: {%ardhika%}¦ Adj. = {%ārdhika%} = {%ardhasīrin%}, <ls>Viṣṇus.</ls> 57, 16;
+<ls>M.</ls> (Jolly) 4, 253.
+new: {%ardhika%}¦ Adj. = {%ārdhika%} = {%ardhasīrin%}, <ls>Viṣṇus.</ls> 57, 16;
+<ls>M.</ls> (Jolly) <ls n="M.">4, 253.</ls>
+
+Note: the manu scan at https://sanskrit-lexicon-scans.github.io/manu/index.html?4,253
+looks like ārddhika  
+----
+After examining/changing those 23:
+* 12 '<ls>M.</ls>'  no adhyaya,shloka references here
+*  9 '<ls n="M."> x, y.</ls>'
+----
+Final counts:
+104 matches in 101 lines for "<ls>M. [0-9]+, [0-9]+\.?</ls>" in buffer: sch.txt
+9 matches in 5 lines for "<ls n="M.">" in buffer: sch.txt
+
+-----------------------------
+Regenerate local sch displays:
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh sch  ../../sch
+sh xmlchk_xampp.sh sch
 
 ---
 in csl-websanlexicon:
-Change basicadjust.php to recognize "Kathās." (lower case letters)
-Generate href for sch.
+Change basicadjust.php to recognize "M." 
+Revise csl-websanlexicon to handle '<ls n="X">Y</ls>' properly for SCH.
+
+# cp basicadjust.php to csl-apidev
+sh apidev_copy.sh
 
 ---
 Regenerate local displays for sch
@@ -308,23 +356,10 @@ sync repos to github
 ----
 ------------------------------------------------
 MW
-ls abbrev = Kathās. (note lower case)
- taranga parameter given in lower-case roman numerals, e.g.
- <ls>Kathās. lxx, 33.</ls>
- <ls>Kathās. 57, 136</ls>   ! sometimes digits
-  Also 
- Thus, changes to basicadjust required.
+ls abbrev = Mn. 
+ adhyaya parameter given in lower-case roman numerals, e.g.
+ <ls>Mn. ii, 54</ls>
 
-----
-lxx,232  70,232 not found  
-838 matches in 837 lines for "<ls>Kathās. " in buffer: mw.txt
-
-830 matches in 829 lines for "<ls>Kathās. [ivxlc]" in buffer: mw.txt
-8 matches for "<ls>Kathās. [1-9]" in buffer: mw.txt
----
-change to basicadjust.php in csl-websanlexicon:
-  So local displays generate links for Kathās..
----
 regenerate local display for mw
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
 sh generate_dict.sh mw  ../../mw
@@ -336,9 +371,29 @@ ok
 cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
 sh apidev_copy.sh
 
----
+------------------------------------------------
 # sync repos to Github
-csl-websanlexicon, csl-apidev
+-----------------
+csl-websanlexicon
+  basicadjust.php
+git commit -m "pwg, pw, pwkvn, sch, mw: manu link target for BLAM displays
+ Ref: https://github.com/sanskrit-lexicon/PWG/issues/73"
+git push
+
+-----------------
+csl-apidev
+  basicadjust.php
+git commit -m "pwg, pw, pwkvn, sch, mw: manu link target for simple-search
+ Ref: https://github.com/sanskrit-lexicon/PWG/issues/73"
+git push
+
+-----------------
+csl-orig
+git add .  # sch/sch.txt
+git commit -m "sch: link target standardization for 'M.' (manu-smfti).
+ Ref: https://github.com/sanskrit-lexicon/PWG/issues/73"
+git push
+
 ------------------------------------------------
 update repos on cologne server
 csl-orig
@@ -348,5 +403,12 @@ csl-apidev
 regenerate displays on cologne server for:
 pwg, pw, pwkvn, sch, mw
 
-Work completed 07-28-2024
+----------------------------------
+sync this repo
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue73
+git add .
+git commit -m "finish this issue. #73"
+
+****************************************************************
+THE END
 ****************************************************************
