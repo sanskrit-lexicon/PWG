@@ -1,0 +1,118 @@
+<L>50102<pc>4-1098<k1>prasAdaka
+old: <ls>Spr. 1931</ls> (<ls>M.).</ls>
+new: <ls>Spr. 1931</ls> (<ls>M.</ls>).
+---
+ <ls>M.). 6039. 6818. 7263.</ls>
+<L>96382<pc>6-1452<k1>vyavasAyin<k2>vyavasAyin
+old: <ls>Spr. (II) 113</ls> (<ls>M.). 1926. 2150. 2584.</ls>
+new: <ls>Spr. (II) 113</ls> (<ls>M.</ls>). <ls n="Spr. (II)">1926.</ls> <ls n="Spr. (II)">2150.</ls> <ls n="Spr. (II)">2584.</ls>
+
+---
+<L>96450<pc>6-1459<k1>vyasanin
+ <ls>M.).</ls>
+old: <ls n="Spr.">(I) 2901. 3298. 5041</ls> (<ls>M.).</ls>
+new: <ls n="Spr.">(I) 2901. 3298. 5041</ls> (<ls>M.</ls>).
+---
+<L>97760<pc>7-0060<k1>Sap<k2>Sap
+ <ls>M.).</ls>
+old: <ls>Spr. (II) 2407</ls> (<ls>M.).</ls>
+new: <ls>Spr. (II) 2407</ls> (<ls>M.</ls>).
+---
+<L>105245<pc>7-0679<k1>samaYjasa
+ <ls>M.).</ls>
+old: <ls>Spr. (II) 6838</ls> (<ls>M.).</ls>
+new: <ls>Spr. (II) 6838</ls> (<ls>M.</ls>).
+---
+<L>107614<pc>7-0868<k1>sahasta<k2>sahasta
+ <ls>M.).</ls>
+old: <ls>Spr. (II) 2258</ls> (<ls>M.).</ls>
+new: <ls>Spr. (II) 2258</ls> (<ls>M.</ls>).
+---
+<L>109764<pc>7-1031<k1>sukftin
+ <ls>M.).</ls>
+old: <ls n="Spr. (II)">5736</ls> (<ls>M.). 6039. 6818. 7263.</ls>
+new: <ls n="Spr. (II)">5736</ls> (<ls>M.</ls>). <ls n="Spr. (II)">6039.</ls> <ls n="Spr. (II)">6818.</ls> <ls n="Spr. (II)">7263.</ls>
+---
+<L>113705<pc>7-1270<k1>stenay
+ <ls>M.).</ls>
+old: <ls>Spr. (II) 6027</ls> (<ls>M.).</ls>
+new: <ls>Spr. (II) 6027</ls> (<ls>M.</ls>).
+---
+<L>114268<pc>7-1348<k1>snAyin
+ <ls>M., 11, 214.</ls>
+old: <ls>M., 11, 214.</ls>
+new: <ls>M. 11, 214.</ls>
+NOTE: https://sanskrit-lexicon-scans.github.io/kss/index.html?11,214
+  yields: unknown!
+---
+<L>3523<pc>1-0261<k1>anya
+ <ls n="M. ">6, 51.</ls>
+old: <ls n="M. ">6, 51.</ls>
+new: <ls n="M.">6, 51.</ls>
+---
+<L>3523<pc>1-0261<k1>anya
+ <ls n="M. ">8, 328.</ls>
+old: <ls n="M. ">8, 328.</ls>
+new: <ls n="M.">8, 328.</ls>
+---
+<L>7626<pc>1-0570<k1>ahan
+ <ls n="M. 1,">3, 5, 9.</ls>
+old: <ls>ŚAT. BR. 1, 1, 2, 21.</ls> <ls n="M. 1,">3, 5, 9.</ls> <ls n="M.">3, 4, 3, 22.</ls> 
+new: <ls>ŚAT. BR. 1, 1, 2, 21.</ls> <ls n="ŚAT. BR. 1,">3, 5, 9.</ls> <ls n="ŚAT. BR.">3, 4, 3, 22.</ls> 
+---
+<L>96298<pc>6-1444<k1>vyapadeSa
+ <ls n="M. 1,">49. 58. 7, 158. 9, 178. 10, 37.</ls>
+ Don't know why this marked as wrong form!
+old: <ls n="M. 1,">49. 58. 7, 158. 9, 178. 10, 37.</ls>
+new: <ls n="M. 1,">49.</ls> <ls n="M. 1,">58.</ls> <ls n="M.">7, 158.</ls> <ls n="M.">9, 178.</ls> <ls n="M.">10, 37.</ls>
+---
+<L>11885<pc>1-0958<k1>upapAtaka
+ <ls n="M. 11,">59-66.</ls>
+old: <ls n="M. 11,">59-66.</ls>
+new: <ls n="M. 11,">59</ls>-<ls n="M. 11,">66.</ls>
+---
+<L>8712<pc>1-0649<k1>Ap  [Page1-0653]
+ <ls n="M. 12">126.</ls>
+old: <ls n="M. 12">126.</ls>
+new: <ls n="M. 12,">126.</ls>
+---
+<L>1891<pc>1-0139<k1>aDarma  [Page1-0140]
+ <ls n="M. 12,"></ls>
+old: <ls n="M.">12, 20.</ls> <ls n="M. 12,"></ls> <ls n="M. 12,">21.</ls>
+new: <ls n="M.">12, 20.</ls> <ls n="M. 12,">21.</ls>
+---
+<L>9297<pc>1-0696<k1>Arya
+ <ls n="M. 13, 3,">8.</ls>
+old: <ls>KĀTY. ŚR. 13, 3, 7.</ls> <ls n="M. 13, 3,">8.</ls> <ls n="M.">4, 14, 1.</ls>
+new: <ls>KĀTY. ŚR. 13, 3, 7.</ls> <ls n="KĀTY. ŚR. 13, 3,">8.</ls> <ls n="KĀTY. ŚR.">4, 14, 1.</ls>
+---
+<L>99782<pc>7-0210<k1>SiSu
+ <ls n="M. 2,">151. fg. 8, 66.</ls>
+old: <ls n="M. 2,">151. fg. 8, 66.</ls>
+new: <ls n="M. 2,">151. fg.</ls> <ls n="M.">8, 66.</ls>
+---
+<L>2140<pc>1-0160<k1>aDyAya
+ <ls n="M. 4,">106-108.</ls>
+old: <ls n="M. 4,">106-108.</ls>
+new: <ls n="M. 4,">106</ls>-<ls n="M. 4,">108.</ls>
+---
+<L>53377<pc>5-0135<k1>brahman   [Page5-0136]
+ <ls n="M. 4,">110. 111.</ls>
+old: <ls n="M. 4,">110. 111.</ls>
+new: <ls n="M. 4,">110.</ls> <ls n="M. 4,">111.</ls>
+---
+<L>53377<pc>5-0135<k1>brahman   [Page5-0136]
+ <ls n="M. 4,">149. 11, 84. 97.</ls>
+old: <ls n="M. 4,">149. 11, 84. 97.</ls>
+new: <ls n="M. 4,">149.</ls> <ls n="M.">11, 84.</ls> <ls n="M. 11,">97.</ls>
+---
+<L>10373<pc>1-0823<k1>iz   [Page1-0824]
+ <ls n="M. 8,">412. 9, 328.</ls>
+old: <ls n="M. 8,">412. 9, 328.</ls>
+new: <ls n="M. 8,">412.</ls> <ls n="M.">9, 328.</ls>
+---
+<L>2567<pc>1-0187<k1>anArya
+ <ls n="M. 9,">10, 57.</ls>
+old: <ls n="M. 9,">10, 57.</ls>
+new: <ls n="M.">10, 57.</ls>
+---
