@@ -343,10 +343,56 @@ cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwg_ls2/ak/lsextract_all.py .
 cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgauth/pwgbib_input.txt  .
 
 python lsextract_all.py temp_pwg_3.txt pwgbib_input.txt lsextract_all.txt
-compare to Amarakosha (AK.) done exactly 2 years ago.
+compare to https://github.com/sanskrit-lexicon/PWG/blob/master/pwg_ls2/ak/lsextract_pwg_1.txt done exactly 2 years ago.
 
 ----------------------------------
 sync this repo to github
 
+----------------------------------
+09-12-2024 reopen for a few changes
+
+------------------------
+# generate change_0a file:
+python diff_to_changes_dict.py temp_pwg_0.txt temp_pwg_0a.txt change_0a.txt
+27 changes written to change_0a.txt
+
+----------------------------------
+# remove un-needed work file
+rm temp_pwg_3_work.txt
+
+----------------------------------
+# 4 ls unknowns
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2345495387
+cp temp_pwg_3.txt temp_pwg_4.txt
+manual edit temp_pwg_4.txt
+
+----------------------------------
+# discover bug in linksort.py (in get_standard_regexes)
+# linksorta.py corrects the bug
+# 
+python linksorta.py 2 temp_pwg_3.txt linksorta2_3.txt
+22557 total number of 'regular' links
+2723 cases written to linksorta2_3.txt
+
+The correction does not affect the total number of regular links.
+It does increase the number of cases, from 2659 to 2723.
+-------------------------------------------------------
+
+----------------------------------
+compare linksort2_3.txt with
+c:/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue73/Manu.Deslongchamps.index.txt
+Based on the index, there are 37 invalid adhyAya,shlokas.
+  These are identified in file ls_M_invalid.txt
+
+Note: program used to find some info (metaline, <ls>) of invalid items.
+python linksort_debug.py 2 temp_pwg_3.txt ls_M_invalid.txt
+
+----------------------------------
+
+----------------------------------
+
+----------------------------------
+----------------------------------
+----------------------------------
 ----------------------------------
 THE END
