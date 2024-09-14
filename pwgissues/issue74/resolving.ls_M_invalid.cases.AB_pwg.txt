@@ -1,0 +1,216 @@
+---
+* D <L>290<pc>1-0023<k1>aKila pc = print change
+<ls>M. 1, 144.</ls>
+ (1, 144) -> (1, 114)
+---
+* D <L>1289<pc>1-0095<k1>atiTin pc
+<ls>M. 12, 917.</ls>
+ M. -> MBH.
+---
+* D <L>1289<pc>1-0095<k1>atiTin 
+<ls n="M. 12,">921.</ls>
+ M. -> MBH.
+---
+* D <L>3959<pc>1-0294<k1>apaveDa pc
+<ls>M. 11, 286.</ls>
+ (11, 286) -> (9, 286)
+---
+* D <L>5935<pc>1-0439<k1>ard pc
+<ls>M. 1, 4116.</ls>
+ M. -> MBH.
+---
+* D <L>7257<pc>1-0538<k1>as pc
+<ls>M. 6, 183.</ls>
+ (6, 183) -> (8, 183)
+---
+* D <L>7373<pc>1-0551<k1>asAra pc
+<ls>M. 11, 331.</ls>
+ (11, 331) -> (9,331) 
+---
+* T <L>9990<pc>1-0780<k1>icCA ? 
+<ls n="M.">87, 11.</ls>
+ 
+<ls n="M.">87, 11.</ls> -> 
+<ls>87, 11.</ls> 
+;; ls with numeric string (yet to identify the actual ls entity)
+---
+* D <L>20315<pc>2-0549<k1>kzip pc
+<ls>M. 3, 628.</ls>
+ 
+<ls>M. 3, 628.</ls> -> to be deleted, being a repeat for 
+<ls>MBH. 3, 628</ls> at the line beginning! 
+
+[<ls>M. 3, 88</ls> is already there above.]
+
+Jim:
+old:
+<ls n="MBH.">3, 628.</ls> <ls n="MBH. 3,">1174.</ls> 
+<ls n="MBH. 3,">8672.</ls> <ls n="MBH. 3,">10883.</ls> 
+<ls>M. 3, 628.</ls> <ls n="M.">8, 312.</ls> 
+<ls n="M. 8,">313.</ls>
+new:
+<ls n="MBH.">3, 628.</ls> <ls n="MBH. 3,">1174.</ls> 
+<ls n="MBH. 3,">8672.</ls> <ls n="MBH. 3,">10883.</ls> 
+<ls>M. >8, 312.</ls> 
+<ls n="M. 8,">313.</ls>
+
+---
+* D <L>22844<pc>2-0779<k1>gfDra pc
+ (13, 63) -> (12, 63)
+---
+* D <L>23675<pc>2-0852<k1>grahaRa pc
+<ls>M. 2, 317.</ls>
+ (2, 317) -> (2, 217)
+---
+* D <L>24902<pc>2-0952<k1>car pc
+<ls n="M.">8, 787.</ls>
+ (8, 787) -> (8, 187)
+---
+* D <L>25028<pc>2-0975<k1>carmAvakarttar pc
+<ls>M. 12, 1321.</ls>
+ M. -> MBH.
+---
+* D <L>25882<pc>2-1054<k1>cela 
+<ls n="M. 11,">576</ls>
+ 
+<ls n="M. 11,">576</ls> -> 
+<ls n="RĀJA-TAR. 4,">576</ls>
+---
+* D <L>26306<pc>3-0001<k1>ja pc
+<ls n="M.">51, 5.</ls>
+
+<ls n="M.">51, 5.</ls> -> 
+<ls>51, 5.</ls> ;; ls with numeric string (yet to identify the actual ls entity)
+<ls n="VARĀH. BṚH. S.">52,5.</ls>
+ ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2350901360
+---
+* D <L>27977<pc>3-0159<k1>jyEzWya pc
+<ls n="M.">125, 210.</ls>
+ 
+<ls n="M.">125, 210.</ls> -> 
+<ls n="M. 9,">125. 210.</ls>
+---
+* D <L>35015<pc>3-0778<k1>doza 
+<ls n="M. 12,">179.</ls>
+ 
+<ls n="M. 12,">179.</ls> -> 
+<ls n="M. 7,">179.</ls>
+---
+* D <L>38438<pc>4-0110<k1>nABivarDana pc
+<ls>M. 3, 12484.</ls>
+ M. -> MBH.
+---
+* D <L>44518<pc>4-0661<k1>pApapuruza pc
+<ls>M. 10, 181.</ls>
+ M. -> MBH.
+---
+* D <L>47942<pc>4-0927<k1>prajA 
+ 
+<ls n="M. 5,">195.</ls> -> 
+<ls n="M. 9,">195.</ls> ;; also 
+
+<ls n="M. 5,">9.</ls> 
+<ls n="M. 5,">45.</ls> -> 
+<ls n="M.">9, 45.</ls>;; also 
+<ls n="M. 5,">59.</ls> -> 
+<ls n="M. 9,">59.</ls> 
+
+old:
+<ls>M. 3, 42.</ls> <ls n="M. 3,">277.</ls> <ls n="M.">4, 219.</ls> 
+<ls n="M. 4,">229.</ls> <ls n="M.">5, 162.</ls> 
+  <ls n="M. 5,">9.</ls> <ls n="M. 5,">45.</ls> 
+  <ls n="M. 5,">59.</ls> <ls n="M. 5,">195.</ls> 
+new:
+<ls>M. 3, 42.</ls> <ls n="M. 3,">277.</ls> <ls n="M.">4, 219.</ls> 
+<ls n="M. 4,">229.</ls> <ls n="M.">5, 162.</ls> 
+  <ls n="M.">9, 45.</ls> 
+  <ls n="M. 9,">59.</ls> <ls n="M. 9,">195.</ls> 
+
+---
+* D <L>53973<pc>5-0195<k1>Badraka pc
+<ls>M. 12, 226.</ls>
+ (12, 226) -> (9, 226)
+---
+* D <L>56846<pc>5-0480<k1>madya 
+<ls n="M. 70,">97.</ls>
+ 
+<ls n="M. 70,">97.</ls> -> 
+<ls n="M. 11,">97.</ls>
+---
+<ls n="M.">70, 95.</ls>
+ 
+<ls n="M.">70, 95.</ls> -> 
+<ls n="M. 11,">70. 95.</ls>
+
+old:
+<ls n="M.">70, 95.</ls> <ls n="M. 70,">97.</ls>
+new:
+<ls n="M. 11,">70.</ls> <ls n="M. 11,">95.</ls> <ls n="M. 11,">97.</ls>
+---
+* D <L>60883<pc>5-0810<k1>muc pc
+<ls n="M.">13, 1659.</ls>
+ M. -> MBH.
+---
+* D <L>61217<pc>5-0849<k1>mUtra 
+<ls n="M.">12, 212.</ls>
+ (12, 212) -> (11, 212)
+---
+* D <L>65881<pc>5-1079<k1>asAra pc
+<ls>M. 11, 331</ls>
+ (11, 331) -> (9, 331)
+---
+* D <L>85042<pc>6-0392<k1>ruD pc
+<ls>M. 4, 348.</ls>
+ (4, 348) -> (8, 348)
+---
+* D <L>86636<pc>6-0578<k1>loka pc
+<ls n="M.">10, 158.</ls>
+ (10, 158) -> (10, 58)
+---
+* D <L>89631<pc>6-0904<k1>vARijaka  ? 
+Jim  Could not find vARijaka in MBH. 13, 4283
+
+<ls n="M. 3,">6028.</ls>
+ 
+<ls n="M. 3,">6028.</ls> -> 
+<ls n="MBH. 13,">6028.</ls> ;; also 
+<ls>MBH. 14, 4283</ls> -> 
+<ls>MBH. 13, 4283</ls>
+---
+* D <L>90669<pc>6-0972<k1>vAstu 
+<ls n="M.">87, 18.</ls>
+ 
+<ls n="M.">87, 18.</ls> -> 
+<ls n="VARĀH. BṚH. S.">87, 18.</ls>
+---
+* D <L>92053<pc>6-1092<k1>vinirgama  pc
+<ls>M. 7, 2498.</ls>
+ M. -> MBH.
+---
+* D <L>96403<pc>6-1454<k1>vyavahAra pc
+<ls n="M.">40, 53.</ls>
+ (40, 53) -> (10, 53)
+---
+* D <L>97902<pc>7-0076<k1>Sam 
+<ls n="M.">1, 180.</ls>
+ 
+<ls>M. MÜLLER</ls>, Transl. {lbr}
+<ls n="M.">1, 180.</ls> -> 
+<ls>M. MÜLLER, Transl. 1,180.</ls>
+---
+* D <L>105227<pc>7-0678<k1>samagra 
+<ls n="M.">12, 1825.</ls>
+ M. -> MBH. 
+---
+* D <L>108217<pc>7-0913<k1>sADu pc
+<ls n="M. 6,">165.</ls>
+ 
+<ls n="M. 6,">165.</ls> -> 
+<ls n="M. 5,">165.</ls>
+
+<ls n="M. 6,">162.</ls> -> 
+<ls n="M. 5,">162. 165.</ls>
+---
+* D <L>111262<pc>7-1114<k1>surA pc
+<ls>M. 11, 747.</ls>
+ (11, 747) -> (11, 147) 

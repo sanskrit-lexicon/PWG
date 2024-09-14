@@ -360,11 +360,6 @@ python diff_to_changes_dict.py temp_pwg_0.txt temp_pwg_0a.txt change_0a.txt
 # remove un-needed work file
 rm temp_pwg_3_work.txt
 
-----------------------------------
-# 4 ls unknowns
-Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2345495387
-cp temp_pwg_3.txt temp_pwg_4.txt
-manual edit temp_pwg_4.txt
 
 ----------------------------------
 # discover bug in linksort.py (in get_standard_regexes)
@@ -388,10 +383,55 @@ Note: program used to find some info (metaline, <ls>) of invalid items.
 python linksort_debug.py 2 temp_pwg_3.txt ls_M_invalid.txt
 
 ----------------------------------
+----------------------------------
+# 4 ls unknowns
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2345495387
+cp temp_pwg_3.txt temp_pwg_4.txt
+manual edit temp_pwg_4.txt
+
+resolving.ls_M_invalid.cases.AB_pwg.txt  AB's solutions to
+ ls_M_invalid.txt.  Solves all but 2.
+ Note: jim edits resolving.ls_M_invalid.cases.AB_pwg.txt
+ 
+ Further corrections made to temp_pwg_4.txt
+
+# generate change_4.txt
+python diff_to_changes_dict.py temp_pwg_3.txt temp_pwg_4.txt change_4.txt
+39 changes written to change_4.txt
 
 ----------------------------------
 
+ls-entries.to.split.further_pwg.txt
+From AB.
+About 50.
+
+# generate formal change file --
+python make_change_split.py temp_pwg_4.txt ls-entries.to.split.further_pwg.txt temp_change_5.txt
+
+cp temp_change_5.txt change_5.txt
+# edit change_5.txt
+
+</ls> <ls n="R.">
+</ls> <ls n="ṚV.">
+</ls> <ls n="AV.">
+</ls> <ls n="GORR.">
+</ls> <ls n="R. GORR.">
+
+# then apply changes to get temp_pwg_5.txt
+python updateByLine.py temp_pwg_4.txt change_5.txt temp_pwg_5.txt
+48 change transactions from change_5.txt
+
 ----------------------------------
+# regenerate local displays from temp_pwg_5
+# check for errors
+
+cp temp_pwg_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+
 ----------------------------------
 ----------------------------------
 ----------------------------------
