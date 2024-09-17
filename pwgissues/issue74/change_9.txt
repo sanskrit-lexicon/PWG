@@ -1,0 +1,37 @@
+; Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2351900537
+; <L>4336<pc>1-0320<k1>apriya<k2>a/priya
+; oldls:<ls>AV. 8, 10, 3, 1. 6, 26.</ls>
+36273 old <ls>AV. 8, 10, 3, 1.</ls> <ls n="AV. 8,">6, 26.</ls> <ls n="AV.">12, 1, 30.</ls> 
+;AB: <ls>AV. 8, 10, 3, 1.</ls> -> <ls>AV. 8, 10, 18.</ls> 
+36273 new <ls>AV. 8, 10, 18.</ls> <ls n="AV. 8,">6, 26.</ls> <ls n="AV.">12, 1, 30.</ls>
+;----------------------------------------------------------------
+; <L>7429<pc>1-0555<k1>asura<k2>a/sura
+; oldls:<ls n="ṚV.">83, 6. 10, 124, 3.</ls>
+; ? <ls n="ṚV.">83, 6.</ls>
+64273 old <ls n="ṚV.">83, 6.</ls> <ls n="ṚV.">10, 124, 3.</ls> {#ma\haspu\trAso\ asu^rasya vI\rA di\vo Da\rtAra^ urvi\yA pari^ Kyan#} 
+; AB: <ls n="ṚV.">83, 6.</ls> -> <ls n="ṚV. 5,">83, 6.</ls>
+64273 new <ls n="ṚV. 5,">83, 6.</ls> <ls n="ṚV.">10, 124, 3.</ls> {#ma\haspu\trAso\ asu^rasya vI\rA di\vo Da\rtAra^ urvi\yA pari^ Kyan#}
+;
+; AB also <ls n="ṚV. 5,">63, 7, 3.</ls> -> <ls n="ṚV. 5,">63, 7.</ls>
+64271 old <ls n="ṚV.">63, 7, 3.</ls> {#a\po nizi^Yca\nnasu^raH pi\tA na^H#} 
+; pc
+64271 new <ls n="ṚV. 5,">63, 7.</ls> {#a\po nizi^Yca\nnasu^raH pi\tA na^H#} 
+;----------------------------------------------------------------
+; <L>7429<pc>1-0555<k1>asura<k2>a/sura
+; oldls:<ls n="ṚV.">10, 2. 6, 7, 2. 3, 56, 3.</ls>
+; ? <ls n="ṚV.">10, 2.</ls>
+;64274 old <ls n="ṚV.">10, 2. 6, 7, 2. 3, 56, 3.</ls> {#yadI^ Gf\teBi\rAhuto\ vASI^ma\gnirBara^ta\ uccAva^ ca . asu^ra iva ni\rRija^m#} 
+;
+64274 old <ls n="ṚV.">10, 2.</ls> <ls n="ṚV.">6, 7, 2.</ls> <ls n="ṚV.">3, 56, 3.</ls> {#yadI^ Gf\teBi\rAhuto\ vASI^ma\gnirBara^ta\ uccAva^ ca . asu^ra iva ni\rRija^m#} 
+;; AB: <ls n="ṚV.">10, 2.</ls> -> <ls n="ṚV. 10,">10, 2.</ls>
+64274 new <ls n="ṚV.10,">10, 2.</ls> <ls n="ṚV.">6, 7, 2.</ls> <ls n="ṚV.">3, 56, 3.</ls> {#yadI^ Gf\teBi\rAhuto\ vASI^ma\gnirBara^ta\ uccAva^ ca . asu^ra iva ni\rRija^m#} 
+;----------------------------------------------------------------
+; <L>14692<pc>2-0051<k1>kan<k2>kan
+; ? <ls n="ṚV. 1,">175, 5.</ls> no mention of kan
+; oldls:<ls n="ṚV.">1, 51, 12. 33, 14. 175, 5.</ls>
+; previous 135296 old <ls n="ṚV.">1, 51, 12. 33, 14. 175, 5.</ls> {#asta^M nanakze\ yasmi^M cA\kan#} 
+; pc
+135296 old <ls n="ṚV.">1, 51, 12.</ls> <ls n="ṚV. 1,">33, 14.</ls> <ls n="ṚV. 1,">175, 5.</ls> {#asta^M nanakze\ yasmi^M cA\kan#} 
+; AB: <ls n="ṚV. 1,">175, 5.</ls> -> <ls n="ṚV. 1,">174, 5.</ls>
+135296 new <ls n="ṚV.">1, 51, 12.</ls> <ls n="ṚV. 1,">33, 14.</ls> <ls n="ṚV. 1,">174, 5.</ls> {#asta^M nanakze\ yasmi^M cA\kan#}
+;----------------------------------------------------------------

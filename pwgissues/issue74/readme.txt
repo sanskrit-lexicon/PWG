@@ -417,6 +417,13 @@ cp temp_change_5.txt change_5.txt
 </ls> <ls n="GORR.">
 </ls> <ls n="R. GORR.">
 
+https://sanskrit-lexicon-scans.github.io/ramayanagorr/?4,2,25
+https://sanskrit-lexicon-scans.github.io/ramayanaschl/?2,25,73
+https://sanskrit-lexicon.github.io/avlinks/avhymns/av08.010.html
+https://sanskrit-lexicon.github.io/rvlinks/rvhymns/rv01.175.html
+https://sanskrit-lexicon-scans.github.io/manu/index.html?5,162
+https://sanskrit-lexicon-scans.github.io/mbhcalc/?13.4283
+
 # then apply changes to get temp_pwg_5.txt
 python updateByLine.py temp_pwg_4.txt change_5.txt temp_pwg_5.txt
 48 change transactions from change_5.txt
@@ -432,7 +439,208 @@ sh xmlchk_xampp.sh pwg
 # ok
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
 
+------------------------------------------------------------
+Corrections from issue66
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/66
+
+cp temp_pwg_5.txt temp_pwg_6.txt
+# manual edit
+
+6 cases  working ....
+done 204440: <div n="2">— g) {%ein best. Metrum%} (4 Mal {Ç}{?} {Ç}{?}) 
+---
+done 277743: <ls>HIT. 98, 11.</ls> — In den beiden letzten Bedd. offenbar = {?}
+<L>28175<pc>3-0177<k1>waNka
+ <pic name='rajatamudra.png'/>
+ changes to
+   csl-websanlexicon/v02/inventory.txt
+   csl-websanlexicon/v02/makotemplates/web/webtc/basicdisplay.php
+ NOTE: The image does NOT show up in simple-search.
+ 
+277749: {#waNkaka#}¦ <lex>m.</lex> {%gestempeltes%} {?} {%Silber, Silbergeld%} ({#rajatamudrA#})
+<L>28176<pc>3-0178<k1>waNkaka
+---
+done 533545: <ls>KUMĀRAS. 3, 42.</ls> {#cOrajArarnif{?}BatEreva sTAtavyam#}
+old:
+{#cOrajArarnif{?}BatEreva sTAtavyam#}
+new:
+{#cOrajArErniBftEreva sTAtavyam#}
+print change
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/66#issue-1570786740
+
+---
+done 613960:
+old:
+<ls>H. 633.</ls> {#nAgnO mehaM#} {%(Urin%} oder {?} {%Urinlassen)%} {#kurvIta#}
+new: from AB:  Note paren imbalance:
+<ls>H. 633.</ls> {#nAgnO mehaM#} {%(Urin%} oder {%das Urinlassen)%} {#kurvIta#}
+new: jim adjust
+<ls>H. 633.</ls> {#nAgnO mehaM#} ({%Urin%} oder {%das Urinlassen%}) {#kurvIta#}
+
+---
+651213: 1. {#utpulaka#}¦ ({#ud + pu°#}) <lex>n.</lex> {%das Sträuben der Härchen am Körper%} (vor Auf{?}sung): {#biBratyutpulakAni#} 
+
+<L>67734<pc>5-1166<k1>utpulaka
+old:
+1. {#utpulaka#}¦ ({#ud + pu°#}) <lex>n.</lex> {%das Sträuben der Härchen am Körper%} (vor Auf{?}sung): {#biBratyutpulakAni#}
+
+new:
+1. {#utpulaka#}¦ ({#1. ud + pu°#}) <lex>n.</lex> {%das Sträuben der Härchen am Körper%} (vor Aufregung): {#biBratyutpulakAni#}
+-------------
+TODO:
+1.   print change (see above)
+2. scan page replacement:
+  https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PWG&page=5-0908
+  original-url=
+  "https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpdf/pwg5-0907.pdf"
+3. scan page replacement
+original-url="https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpdf/pwg5-1165.pdf" 
 ----------------------------------
+# generate change_6
+python diff_to_changes_dict.py temp_pwg_5.txt temp_pwg_6.txt change_6.txt
+7 changes written to change_6.txt 
 ----------------------------------
+# regenerate local displays from temp_pwg_6
+# check for errors
+
+cp temp_pwg_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+(* 5 126) 630
 ----------------------------------
+C.lines.filled.or.corrected.-.wiki.style.txt
+  from issue29.
+
+python make_change_prosody.py temp_pwg_6.txt C.lines.filled.or.corrected.-.wiki.style.txt temp_change_7.txt
+
+cp temp_change_7.txt change_7.txt
+# manual edit of change_7.txt
+'; ?' (31 of these) where other (non-prosody) differences noticed:
+1. {#(X)#} - I used ({#X#})
+2. <ls>Z. 2</ls> --  I kept this but 99 of these found in cdsl
+   Jim thinks all should be re-written as Z. 2  (no ls markup)
+3. d. i. -> <ab>d. i.</ab>
+4. linenum difference
+   1098078 -> 1098076
+   1098113 -> 1098111
+   1104666 -> 1104663
+   1104667 -> 1104664
+
+--------------------
+# apply change_7
+python updateByLine.py temp_pwg_6.txt change_7.txt temp_pwg_7.txt
+1149413 lines read from temp_pwg_6.txt
+1149413 records written to temp_pwg_7.txt
+126 change transactions from change_7.txt
+
+----------------------------------
+# regenerate local displays from temp_pwg_7
+# check for errors
+
+cp temp_pwg_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+
+----------------------------------
+¯ -> –  2004 matches in 322 lines for "¯" in buffer: temp_pwg_7.txt
+˘ -> ⏑  2438 matches in 312 lines for "˘" in buffer: temp_pwg_7.txt
+
+python make_change_prosody1.py temp_pwg_7.txt change_8.txt
+1149413 lines read from temp_pwg_7.txt
+122736 entries found
+326 cases written to change_8.txt
+
+python updateByLine.py temp_pwg_7.txt change_8.txt temp_pwg_8.txt
+1149413 lines read from temp_pwg_7.txt
+1149413 records written to temp_pwg_8.txt
+326 change transactions from change_8.txt
+
+2743 matches in 446 lines for "–" in buffer: temp_pwg_8.txt
+3354 matches in 437 lines for " ⏑" in buffer: temp_pwg_8.txt
+
+----------------------------------
+# regenerate local displays from temp_pwg_8
+# check for errors
+
+cp temp_pwg_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+
+
+----------------------------------
+Andhrabharati's resolution of the 7 unresolved from change_5.txt
+ Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2351900537
+
+make new file change_9.txt
+
+# apply the changes: temp_pwg_9.txt
+python updateByLine.py temp_pwg_8.txt change_9.txt temp_pwg_9.txt
+5 change transactions from change_9.txt
+
+----------------------------------
+# regenerate local displays from temp_pwg_9
+# check for errors
+
+cp temp_pwg_9.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+
+
+-------------------------------------------------------------
+notes re some of AB's observations in above comment
+32 matches for "<ls>AV. [0-9]+, [0-9]+\.?</ls>"
+4 matches in 1 line for "<ls n="AV.">[0-9]+, [0-9]+\.?</ls>"
+
+365 matches in 364 lines for "<ls>ṚV. [0-9]+, [0-9]+\.?</ls>" in buffer: temp_pwg_8.txt
+79 matches in 63 lines for "<ls n="ṚV.">[0-9]+, [0-9]+\.?</ls>" in buffer: temp_pwg_8.txt
+
+180 matches for "<ls>R. [0-9]+, [0-9]+, [0-9]+, [0-9]+\.?</ls>"
+ (प्रक्षिप्त)
+ Three subsets:
+ 7, 59, x, y
+ 7, 23, x, y
+ 7, 37, x, y
+ 
+----------------------------------
+----------------------------------------------------------------
+install version 9 of pwg
+cd /c/xampp/htdocs/cologne/csl-orig
+
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74"
+git push
+----
+sh apidev_copy.sh  # for basicdisplay.php
+
+cd /c/xampp/htdocs/cologne/csl-apidev
+git add .
+git commit -m "PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74"
+git push
+
+----------------------------------------------------------------
+update cologne server
+
+cd scans/csl-orig
+git pull
+cd scans/csl-websanlexicon
+git pull
+cd scans/csl-apidev
+git pull
+cd scans/csl-pywork/v02
+sh generate_dict.sh pwg  ../../PWGScan/2020/
+
+----------------------------------------------------------------
 THE END

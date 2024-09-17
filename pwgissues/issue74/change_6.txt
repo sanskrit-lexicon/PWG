@@ -1,0 +1,35 @@
+; <L>21539<pc>2-0642<k1>gaRqaka<k2>gaRqaka
+204440 old <div n="2">— g) {%ein best. Metrum%} (4 Mal {Ç}{?} {Ç}{?}) 
+;
+204440 new <div n="2">— g) {%ein best. Metrum%} (4 Mal ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ ˘)
+;---------------------------------------------------
+; <L>28175<pc>3-0177<k1>waNka<k2>waNka
+277743 old <ls>HIT. 98, 11.</ls> — In den beiden letzten Bedd. offenbar = {?}
+;
+277743 new <ls>HIT. 98, 11.</ls> — In den beiden letzten Bedd. offenbar = 
+;---------------------------------------------------
+; <L>28175<pc>3-0177<k1>waNka<k2>waNka
+277744 old <lang n="arabic">تمغا</lang> {%Stempel.%} 
+;
+277744 new <pic name='rajatamudra.png'/> <lang n="arabic">تمغا</lang> {%Stempel.%} 
+;---------------------------------------------------
+; <L>28176<pc>3-0178<k1>waNkaka<k2>waNkaka
+277749 old {#waNkaka#}¦ <lex>m.</lex> {%gestempeltes%} {?} {%Silber, Silbergeld%} ({#rajatamudrA#}) 
+;
+277749 new {#waNkaka#}¦ <lex>m.</lex> {%gestempeltes%} {%Silber, Silbergeld%} ({#rajatamudrA#}) 
+;---------------------------------------------------
+; <L>54144<pc>5-0204<k1>Bar<k2>Bar<h>1
+533545 old <ls>KUMĀRAS. 3, 42.</ls> {#cOrajArarnif{?}BatEreva sTAtavyam#} 
+;
+533545 new <ls>KUMĀRAS. 3, 42.</ls> {#cOrajArErniBftEreva sTAtavyam#}
+;---------------------------------------------------
+; <L>62078<pc>5-0908<k1>meha<k2>meha
+613960 old <ls>H. 633.</ls> {#nAgnO mehaM#} {%(Urin%} oder {?} {%Urinlassen)%} {#kurvIta#} 
+;
+613960 new <ls>H. 633.</ls> {#nAgnO mehaM#} ({%Urin%} oder {%das Urinlassen%}) {#kurvIta#} 
+;---------------------------------------------------
+; <L>67733<pc>5-1166<k1>utpulaka<k2>utpulaka<h>1
+651213 old 1. {#utpulaka#}¦ ({#ud + pu°#}) <lex>n.</lex> {%das Sträuben der Härchen am Körper%} (vor Auf{?}sung): {#biBratyutpulakAni#} 
+;
+651213 new 1. {#utpulaka#}¦ ({#1. ud + pu°#}) <lex>n.</lex> {%das Sträuben der Härchen am Körper%} (vor Aufregung): {#biBratyutpulakAni#}
+;---------------------------------------------------

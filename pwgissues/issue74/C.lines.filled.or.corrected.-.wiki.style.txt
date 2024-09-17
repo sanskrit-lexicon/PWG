@@ -1,0 +1,603 @@
+<L>214<pc>1-0018<k1>akzarapaNkti<k2>akza/rapaNkti<h>1
+(1894): <ls>ṚV.</ls> <ls>PRĀTIŚ. 17, 30.</ls> Besteht aus 4 fünfsilbigen Theilen oder <is>pada's</is> (Ç)
+replace (Ç)
+with (– ⏑ ⏑ – –)
+
+<L>2726<pc>1-0199<k1>anukUla<k2>anukU/la
+(22873): <div n="2">— b) N. eines Metrums (4 Mal (Ç) ¯ ˘ ˘ ¯ ¯, ˘ ˘ ˘ ˘ ¯ ¯)
+replace (4 Mal (Ç) ¯ ˘ ˘ ¯ ¯, ˘ ˘ ˘ ˘ ¯ ¯)
+with (4 Mal – ⏑ ⏑ – –, ⏑ ⏑ ⏑ ⏑ – –)
+
+<L>6202<pc>1-0463<k1>alolA<k2>alolA
+(53355): {#alolA#}¦ oder {#lolA#} <lex>f.</lex> Name eines Metrums (4 Mal (Ç) ¯ ¯ ¯ ˘ ˘ ¯ ¯, (Ç) ¯ ¯ ¯ ˘ ˘ ¯ ¯)
+replace (4 Mal (Ç) ¯ ¯ ¯ ˘ ˘ ¯ ¯, (Ç) ¯ ¯ ¯ ˘ ˘ ¯ ¯)
+with (4 Mal – – – ⏑ ⏑ – –, – – – ⏑ ⏑ – –)
+
+<L>21539<pc>2-0642<k1>gaRqaka<k2>gaRqaka
+(204440): <div n="2">— g) {%ein best. Metrum%} (4 Mal {Ç}{?} {Ç}{?})
+replace (4 Mal {Ç}{?} {Ç}{?})
+with (4 Mal – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑)
+
+<L>49477<pc>4-1046<k1>pramada<k2>pramada<h>2
+(489628): <div n="3">— β) {%4 Mal%} {Ç}{˘ ˘ ˘ ˘ ¯ ˘ ¯  ˘ ˘ ˘ ¯ ˘ ˘ ¯
+replace {Ç}{˘ ˘ ˘ ˘ ¯ ˘ ¯  ˘ ˘ ˘ ¯ ˘ ˘ ¯
+with ⏑ ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ –
+
+<L>51773<pc>5-0019<k1>banDu<k2>ba/nDu
+(511501): <div n="1">— 4) {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>52456<pc>5-0071<k1>bAla<k2>bAla/
+(517958): <div n="2">— c) {%ein best. Metrum, a, b, c%}: {Ç} {%d%}: {Ç} u. s. w.
+replace {Ç} {%d%}: {Ç} u. s. w.
+with ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –  {%d%}: – – ⏑ – –  u. s. w.
+
+<L>52709<pc>5-0087<k1>bimba<k2>bi/mba
+(519989): <div n="3"> α) {%4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ – –
+(519991): <div n="3">— β) {%4 Mal%} {Ç} {Ç}, ebend.
+replace {Ç} {Ç}, ebend.
+with – – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –, – – ⏑ – – ⏑ –  ebend.
+
+<L>52900<pc>5-0099<k1>budDi<k2>budDi
+(521544): <div n="1">— 8) {%ein best. Metrum, a%}: {Ç} {Ç} {%b. c. d%}: {Ç} u. s. w.
+replace {Ç} {Ç} {%b. c. d%}: {Ç} u. s. w.
+with ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –  {%b. c. d%}: – – ⏑  u. s. w.
+
+<L>53972<pc>5-0193<k1>Badra<k2>Badra/
+(531941): <div n="2">— c) {%ein best. Metrum, a, c%}: {Ç}, {%b, d%}: {Ç} u. s. w.
+replace {Ç}, {%b, d%}: {Ç} u. s. w.
+with ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –, {%b, d%}: – – ⏑ – –  u. s. w.
+
+<L>53973<pc>5-0195<k1>Badraka<k2>Badraka
+(532011): <div n="3"> α) {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – ⏑ ⏑ ⏑ – ⏑ –
+(532014): <div n="3">— β) {%4 Mal%} {Ç} ebend.
+replace {Ç} ebend.
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ – ⏑ –  ebend.
+(532023): <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ –, ⏑ – ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ –
+
+<L>54624<pc>5-0253<k1>BArAkrAnta<k2>BArAkrAnta
+(538753): <div n="1">— 2) <lex>f.</lex> {#A#} {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ –, ⏑ – ⏑ ⏑ – – –
+
+<L>55059<pc>5-0307<k1>BujagaSiSusfta<k2>BujagaSiSusfta
+(544480): {#BujagaSiSusfta#}¦ {#(Bu° - SiSu + sf°)#} <lex>adj.</lex> {%den Gang einer jungen Schlange habend%}; <lex>f.</lex> {#A#} {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –, ⏑ ⏑
+
+<L>55072<pc>5-0308<k1>BujaMgaprayAta<k2>BujaMgaprayAta
+(544578): {#BujaMgaprayAta#}¦ {#(Bu° + pra°)#} <lex>n.</lex> {%Schlangengang%}, Bez. {%eines best. Metrums: 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – – ⏑ – – ⏑ – – ⏑ – –
+
+<L>55079<pc>5-0308<k1>BujaMgasaMgatA<k2>BujaMgasaMgatA
+(544640): <ls>CHANDOM. 22.</ls> subst. {%ein best. Metrum: 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ – ⏑ – ⏑ –
+
+<L>55972<pc>5-0405<k1>Bramarapada<k2>Bramarapada
+(555114): {#Bramarapada#}¦ {#(Bra° + pada)#} <lex>n.</lex> {%Bienenfuss%}, Bez. {%eines best. Metrums, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – – –
+
+<L>55975<pc>5-0405<k1>Bramaravilasita<k2>Bramaravilasita
+(555131): <ls>Ind. St. 8, 375.</ls> <lex>n.</lex> {%das Umherfliegen der Bienen%} ebend. <lex>f.</lex> {#A#} und <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>55981<pc>5-0405<k1>BramarAvalI<k2>BramarAvalI
+(555161): {#BramarAvalI#}¦ {#(Bramara + A°)#} <lex>f.</lex> {%Bienenzug%}, Bez. {%eines best. Metrums, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ –
+
+<L>56129<pc>5-0418<k1>makarandikA<k2>makarandikA
+(556585): {#makarandikA#}¦ (von {#makaranda)#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç}, {Ç}
+replace {Ç}, {Ç}
+with ⏑ – – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ –, ⏑ – ⏑ ⏑ – ⏑ –
+
+<L>56334<pc>5-0435<k1>maYjari<k2>maYjari
+(558537): <div n="2"> a) {%4 Mal%} {Ç}, {Ç}
+replace {Ç}, {Ç}
+with ⏑ ⏑ – ⏑ –, ⏑ ⏑ ⏑ – ⏑ – – ⏑ –
+
+<L>56347<pc>5-0436<k1>maYjIra<k2>maYjIra
+(558651): <div n="1">— 3) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – – – – – ⏑ ⏑ – – – ⏑ ⏑ – – – –
+
+<L>56364<pc>5-0437<k1>maYjuBAzin<k2>maYjuBAzin
+(558774): <div n="1">— 2) <lex>f.</lex> {#°RI#} {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>56367<pc>5-0438<k1>maYjuvAdin<k2>maYjuvAdin
+(558815): <div n="2"> a) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑ – – ⏑ ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>56370<pc>5-0438<k1>maYjusOraBa<k2>maYjusOraBa
+(558837): {#maYjusOraBa#}¦ {#(maYju + sO°)#} <lex>n.</lex> {%ein best. Metrum, 2 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –, ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>56412<pc>5-0442<k1>maRiguRanikara<k2>maRiguRanikara
+(559256): <ls>Ind. St. 8, 390.</ls> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>56441<pc>5-0443<k1>maRipraBA<k2>maRipraBA
+(559442): <div n="1"> 1) {%ein best. Metrum, a%}: {Ç}, {%b. c. d%}: {Ç}
+replace {Ç}, {%b. c. d%}: {Ç}
+with – – ⏑ – – ⏑ ⏑ – ⏑ – –, {%b. c. d%}: ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –
+
+<L>56442<pc>5-0443<k1>maRibanDa<k2>maRibanDa
+(559454): <div n="1">— 3) {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – ⏑ ⏑ – ⏑ – ⏑ ⏑ –
+
+<L>56452<pc>5-0444<k1>maRimaYjarI<k2>maRimaYjarI
+(559533): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – – – ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – – ⏑ – ⏑ ⏑ – ⏑ –
+
+<L>56454<pc>5-0444<k1>maRimaDya<k2>maRimaDya
+(559545): {#maRimaDya#}¦ {#(Ba° + ma°)#} <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – –, – ⏑ ⏑ –
+(559547): <ls>CHANDOM. 21.</ls> Nach <ls>COLEBR. Misc. Ess. II, 159 (IV, 11)</ls> = {#maRibanDa#} d. i. {%4 Mal%} {Ç}.
+replace {Ç}.
+with – ⏑ ⏑ – ⏑ – ⏑ ⏑ – .
+
+<L>56459<pc>5-0444<k1>maRimAlA<k2>maRimAlA
+(559616): <div n="1">— 5) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – ⏑ ⏑ – –, – – ⏑ ⏑ – –
+
+<L>56470<pc>5-0445<k1>maRirAga<k2>maRirAga<h>1
+(559676): <div n="1">— 2) <lex>m.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>56567<pc>5-0454<k1>matallikA<k2>matallikA
+(560720): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑ – ⏑ – ⏑ –
+
+<L>56610<pc>5-0457<k1>matta<k2>matta
+(561116): <div n="2">— b) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – –, ⏑ ⏑ ⏑ ⏑ – –
+
+<L>56617<pc>5-0457<k1>mattamayUra<k2>mattamayUra
+(561167): <div n="1">— 2) <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – – – –, – ⏑ ⏑ – – ⏑ ⏑ – –
+
+<L>56622<pc>5-0458<k1>mattavilAsinI<k2>mattavilAsinI
+(561207): {#mattavilAsinI#}¦ {#(matta + vi°)#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ –
+
+<L>56624<pc>5-0458<k1>mattAkrIqA<k2>mattAkrIqA
+(561228): {#mattAkrIqA#}¦ {#(matta + A°)#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç}, {Ç} (auch mit Cäsur nach der 5ten Kürze)
+replace {Ç}, {Ç}
+with – – – – – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>56627<pc>5-0458<k1>matteBavikrIqita<k2>matteBavikrIqita
+(561243): {#matteBavikrIqita#}¦ {#(matta - iBa + vi°)#} <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ – – ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – – – ⏑ – – ⏑ –
+
+<L>56753<pc>5-0475<k1>madanalalitA<k2>madanalalitA
+(562992): <ls>CHANDOM. 84.</ls> subst. {%ein best. Metrum, 4 Mal%} {Ç} {Ç} ebend.
+replace {Ç} {Ç} ebend.
+with – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ –, – – ⏑ ⏑ ⏑ –  ebend.
+
+<L>56782<pc>5-0477<k1>madamattA<k2>madamattA
+(563160): {#madamattA#}¦ {#(mada + ma°)#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>56791<pc>5-0477<k1>madaleKA<k2>madaleKA
+(563229): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – ⏑ ⏑ – –
+
+<L>56808<pc>5-0478<k1>madAnDa<k2>madAnDa
+(563333): <div n="1">— 2) <lex>f.</lex> {#A#} {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – – – ⏑ ⏑ – ⏑ – ⏑ – –
+
+<L>56821<pc>5-0478<k1>madira<k2>madira/
+(563460): <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ –
+
+<L>56864<pc>5-0481<k1>madraka<k2>ma/draka
+(563859): <div n="2">— b) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ –, ⏑ – ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ –
+
+<L>56888<pc>5-0483<k1>maDu<k2>ma/Du
+(564198): <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑
+
+<L>56996<pc>5-0490<k1>maDumant<k2>ma/Dumant
+(564994): <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>57003<pc>5-0491<k1>maDumADavI<k2>maDumADavI
+(565055): <div n="1">— 3) {%ein best. Metrum, 4 Mal%} {Ç} (nach
+replace {Ç} (nach
+with – – ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – –  (nach
+
+<L>57123<pc>5-0500<k1>maDyakzAmA<k2>maDyakzAmA
+(566206): {#maDyakzAmA#}¦ {#(ma° + kzA°)#} <lex>adj.</lex> <lex>f.</lex> {%in der Mitte schlank%}; subst. {%ein best. Metrum, 4 Mal%} {Ç},
+replace {Ç},
+with – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – – – –
+
+<L>57305<pc>5-0524<k1>manahaMsa<k2>manahaMsa
+(568591): {#manahaMsa#}¦ {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ – ⏑ ⏑ – ⏑ – ⏑ ⏑ – ⏑ –
+
+<L>57437<pc>5-0534<k1>manorama<k2>manorama
+(569844): <div n="2">— b) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ – ⏑ – ⏑ – ⏑ –
+
+<L>57574<pc>5-0547<k1>manTAna<k2>manTAna
+(571326): <div n="1">— 3) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – ⏑ – ⏑ ⏑
+
+<L>57625<pc>5-0551<k1>mandara<k2>manda/ra
+(571829): <div n="2">— e) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑
+
+<L>57636<pc>5-0552<k1>mandAkinI<k2>mandAki/nI
+(571919): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ – – ⏑ –
+
+<L>57637<pc>5-0552<k1>mandAkrAntA<k2>mandAkrAntA
+(571927): {#mandAkrAntA#}¦ {#(manda + A°)#} <lex>adj.</lex> <lex>f.</lex> {%langsam herankommend%}; subst. {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ –, – ⏑ – – ⏑ – –
+
+<L>57756<pc>5-0562<k1>mayUragati<k2>mayUragati
+(573076): {#mayUragati#}¦ {#(ma° + ga°)#} <lex>f.</lex> {%Pfauengang%}, Bez. {%eines best. Metrums, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>57774<pc>5-0563<k1>mayUrasArin<k2>mayUrasArin
+(573172): {#mayUrasArin#}¦ {#(ma° + sA°)#} <lex>adj.</lex> {%wie ein Pfau einherschreitend%}; <lex>f.</lex> {#°sAriRI#} {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – ⏑ – ⏑ – ⏑ – –
+
+<L>58105<pc>5-0602<k1>mallaka<k2>mallaka
+(577403): <div n="3"> α) {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – ⏑ – ⏑ – ⏑
+(577405): <div n="3">— β) {%4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ –
+
+<L>58233<pc>5-0609<k1>mah<k2>mah<h>3
+(578512): <div n="2">— i) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ –
+
+<L>58795<pc>5-0645<k1>mahAmAlikA<k2>mahAmAlikA
+(582900): {#mahAmAlikA#}¦ {#(ma° + mA°)#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ – –, ⏑ – – ⏑ – – ⏑ –
+
+<L>58919<pc>5-0652<k1>mahAlakzmI<k2>mahAlakzmI
+(583872): <div n="1">— 4) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – – ⏑ – – ⏑ –
+
+<L>59545<pc>5-0696<k1>mARavaka<k2>mARavaka
+(589305): <div n="1">— 3) <lex>n.</lex> {%ein best. Metrum%} (Abkürzung von {#mARavakakrIqa):#} {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – – ⏑ ⏑ –
+
+<L>59546<pc>5-0696<k1>mARavakakrIqa<k2>mARavakakrIqa
+(589311): {#mARavakakrIqa#}¦ {#(mA° + krIqA)#} <lex>n.</lex> {%Knabenspiel%}, Bez. {%eines best. Metrums: 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – – ⏑ ⏑ –
+
+<L>59738<pc>5-0715<k1>mADavaka<k2>mA/Davaka
+(591283): <div n="2">— b) {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ – –
+
+<L>59956<pc>5-0732<k1>mAya<k2>mAya
+(593407): <div n="3"> α) {%4 Mal%} {Ç}, {Ç}
+replace {Ç}, {Ç}
+with – – – –, – ⏑ ⏑ – – ⏑ ⏑ – –
+(593409): <div n="3">— β) {%a, d%}: {Ç} {Ç} {%b, c%}: {Ç}
+replace {Ç} {Ç} {%b, c%}: {Ç}
+with ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –  {%b, c%}: – – ⏑ – – ⏑ ⏑ – ⏑ – –
+
+<L>60153<pc>5-0749<k1>mAlatI<k2>mAlatI/
+(595382): <div n="2"> a) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑ ⏑ – ⏑
+(595384): <div n="2">— b) {%4 Mal%} {Ç} {Ç} (nach
+replace {Ç} {Ç} (nach
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –  (nach
+(595387): <div n="2">— c) {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>60178<pc>5-0751<k1>mAlA<k2>mA/lA
+(595640): <div n="2"> a) {%a, b%}: {Ç} {Ç}; {%c, d%}: {Ç}
+replace {Ç} {Ç}; {%c, d%}: {Ç}
+with – – ⏑ – – ⏑ ⏑ – ⏑ – –; {%c, d%}: ⏑ – ⏑ – – ⏑ ⏑ – ⏑ – –
+(595642): <div n="2">— b) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>60192<pc>5-0752<k1>mAlADara<k2>mAlADara
+(595753): <div n="1">— 4) <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ – – ⏑ –
+
+<L>60207<pc>5-0753<k1>mAlin<k2>mAli/n
+(595932): <div n="3"> α) {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – – – –
+(595934): <div n="3">— β) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –
+(595936): <div n="3">— γ) {%4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – –, – ⏑ – – ⏑ – –
+
+<L>60698<pc>5-0798<k1>mukula<k2>mukula
+(600767): <div n="1">— 2) <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – – – ⏑ ⏑ –
+
+<L>61440<pc>5-0868<k1>mfga<k2>mfga/
+(608813): <div n="2">— d) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ –
+
+<L>61568<pc>5-0876<k1>mfgendra<k2>mfgendra
+(609778): <div n="1">— 2) <lex>m.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑
+
+<L>61571<pc>5-0876<k1>mfgendramuKa<k2>mfgendramuKa
+(609798): {#mfgendramuKa#}¦ {#(mf° + muKa)#} <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ – –
+
+<L>61694<pc>5-0884<k1>mfdaNgaka<k2>mfdaNgaka
+(610802): {#mfdaNgaka#}¦ (von {#mfdaNga)#} <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with – – ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>61865<pc>5-0894<k1>meGavitAna<k2>meGavitAna
+(612180): <div n="1">— 2) <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>61866<pc>5-0894<k1>meGavisPUrjita<k2>meGavisPUrjita
+(612188): <div n="1">— 2) <lex>f.</lex> {#A#} (sc. {#vftti)#} {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ – – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ –, – ⏑ – – ⏑ – –
+
+<L>62201<pc>5-0919<k1>mowanaka<k2>mowanaka
+(615188): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç} ebend. und
+replace {Ç} ebend. und
+with – – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ –  ebend. und
+
+<L>62211<pc>5-0919<k1>modaka<k2>modaka
+(615276): <div n="1">— 4) wohl <lex>n.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑
+
+<L>62267<pc>5-0924<k1>mOktikadAman<k2>mOktikadAman
+(615805): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑
+
+<L>62269<pc>5-0924<k1>mOktimAlA<k2>mOktimAlA
+(615818): <div n="1">— 2) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – –, ⏑ ⏑ ⏑ ⏑ – –
+
+<L>62990<pc>5-0963<k1>atireKA<k2>atireKA
+(620738): {#atireKA#}¦ und {#°leKA#} <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – –
+
+<L>63021<pc>5-0964<k1>atiSAyin<k2>atiSAyin
+(620917): <div n="1">— 2) <lex>f.</lex> {#°nI#} {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –, ⏑ ⏑ ⏑ – ⏑ – –
+
+<L>64386<pc>5-1017<k1>aBikfti<k2>aBikfti
+(629134): {#aBikfti#}¦ {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – –, – ⏑ ⏑ – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+************
+<L>64812<pc>5-1033<k1>amftapuwa<k2>amftapuwa
+(631705): {#amftapuwa#}¦ {#(a° + puwa)#} <lex>m.</lex> {%eine Tüte mit%} <is>Amṛta</is> und wohl auch ein anderer Name für das Metrum <is>Śrīpuṭa</is> {%(4 Mal%} {Ç})
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – –, – ⏑ – –
+
+<L>65743<pc>5-1072<k1>aSvagati<k2>aSvagati
+(637685): {#aSvagati#}¦ auch {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ ⏑ ⏑ –
+
+<L>65916<pc>5-1081<k1>asuvilAsa<k2>asuvilAsa
+(638898): {#asuvilAsa#}¦ {#(asu + vi°)#} <lex>m.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ – – ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>67537<pc>5-1156<k1>ujjvala<k2>ujjvala
+(649914): <ls>Z. 2</ls> verbessere {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ –
+
+<L>68406<pc>5-1195<k1>upasTita<k2>upasTita
+(655630): <ls>386</ls> {%das Versmaass 4 Mal%} {Ç}.
+replace {Ç}.
+with ⏑ – ⏑ ⏑ ⏑ – – – ⏑ ⏑ ⏑ – – .
+
+<L>68734<pc>5-1209<k1>UrmimAlA<k2>UrmimAlA
+(657742): {#UrmimAlA#}¦ {#(U° + mAlA)#} <lex>f.</lex> {%Wogenreihe%} und Bez. eines best. Metrums: {%4 Mal%} {Ç}
+replace {Ç}
+with – – – –, ⏑ ⏑ – – ⏑ – –
+*********
+<L>68894<pc>5-1217<k1>ekarUpa<k2>ekarUpa<h>2
+(658854): <div n="2"> a) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –
+(658856): <div n="2">— b) {%4 Mal%} {Ç} ebend.
+replace {Ç} ebend.
+with – – – ⏑ ⏑ – ⏑ – ⏑ – –  ebend.
+
+<L>70868<pc>5-1301<k1>kuwilagati<k2>kuwilagati
+(672114): {#kuwilagati#}¦ {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –, – ⏑ – – ⏑ –
+
+<L>70906<pc>5-1302<k1>kuqmaladantI<k2>kuqmaladantI
+(672345): {#kuqmaladantI#}¦ {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – –, ⏑ ⏑ ⏑ ⏑ – –
+
+<L>71029<pc>5-1307<k1>kumAra<k2>kumAra
+(673110): <div n="2">— k) {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>71047<pc>5-1307<k1>kumAralalitA<k2>kumAralalitA
+(673212): {#kumAralalitA#}¦ auch {Ç}
+replace {Ç}
+with ⏑ – ⏑, ⏑ ⏑ – –
+
+<L>72007<pc>5-1345<k1>kzama<k2>kzama
+(679669): <div n="2">— g) {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – – ⏑ – – ⏑ –
+
+<L>72211<pc>5-1354<k1>Kagati<k2>Kagati
+(681161): {#Kagati#}¦ {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ –
+
+<L>73152<pc>5-1393<k1>gOra<k2>gOra
+(687691): <div n="3"> δ) 4 Mal {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ – –
+
+<L>73557<pc>5-1410<k1>candraleKa<k2>candraleKa
+(690554): <div n="3"> α) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ ⏑ – – ⏑ – – ⏑ – –
+(690558): <div n="3">— γ) {%4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ – – ⏑ – – ⏑ – – ⏑ – – ⏑ –
+
+<L>73898<pc>5-1424<k1>cUqAmaRi<k2>cUqAmaRi
+(693011): <div n="1">— 4) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with – – ⏑ – ⏑ ⏑ –
+
+<L>74280<pc>5-1440<k1>jalodDatagati<k2>jalodDatagati
+(695587): {#jalodDatagati#}¦ lies {Ç} und vgl. noch
+replace {Ç} und vgl. noch
+with ⏑ – ⏑ ⏑ ⏑ –, ⏑ – ⏑ ⏑ ⏑ –  und vgl. noch
+
+<L>74736<pc>5-1458<k1>tati<k2>tati<h>2
+(698596): <div n="1">— 3) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>75418<pc>5-1482<k1>tvaritagati<k2>tvaritagati
+(702957): {#tvaritagati#}¦ <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ ⏑ ⏑ –
+
+<L>75781<pc>5-1496<k1>dIpakamAlA<k2>dIpakamAlA
+(705331): {#dIpakamAlA#}¦ <lex>f.</lex> {%ein best. Metrum: 4 Mal%} {Ç}
+replace {Ç}
+with – ⏑ ⏑ – – – – – ⏑ –
+
+<L>76323<pc>5-1514<k1>drutapada<k2>drutapada
+(708631): <div n="1"> 2) {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>76777<pc>5-1533<k1>nada<k2>nada
+(711704): <div n="2">— b) {%4 Mal%} {Ç}
+replace {Ç}
+with – – – – ⏑ –
+
+<L>76796<pc>5-1534<k1>nandin<k2>nandin
+(711837): <div n="2"> k) {%ein best. Metrum, 4 Mal%} {Ç}
+replace {Ç}
+with ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ – –
+
+<L>77011<pc>5-1542<k1>nAra<k2>nAra
+(713302): <div n="2"> c) {%4 Mal%} {Ç}
+replace {Ç}
+with – – – ⏑ ⏑ – ⏑ –
+
+<L>77823<pc>5-1571<k1>paYcakAvalI<k2>paYcakAvalI
+(718397): {#paYcakAvalI#}¦ <lex>f.</lex> {%ein best. Metrum, 4 Mal%} {Ç} {Ç}
+replace {Ç} {Ç}
+with ⏑ ⏑ ⏑ ⏑ – ⏑ – ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ – ⏑ –
+
+<L>77828<pc>5-1571<k1>paYcacAmara<k2>paYcacAmara
+(718428): <div n="1">— 3) <lex>n.</lex> {%4 Mal%} {Ç}
+replace {Ç}
+with ⏑ – ⏑ – ⏑ – ⏑ – ⏑ – ⏑ –
+
+<L>78823<pc>5-1607<k1>puzpavicitrA<k2>puzpavicitrA
+(724770): {#puzpavicitrA#}¦ <lex>f.</lex> {%ein best. Metrum: 4 Mal%} {Ç}
+replace {Ç}
+with – – ⏑ ⏑ – – – – ⏑ ⏑ – –
+
+<L>100388<pc>7-0262<k1>SuBa<k2>SuBa
+(945563): <div n="2">— f) {%ein best. Metrum%}: ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯ + {%3 Mal%} {Ç}{¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯  ˘ ¯ ¯
+replace {%3 Mal%} {Ç}}{¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯  ˘ ¯ ¯
+with {%3 Mal%} – – ⏑ – – ⏑ ⏑ – ⏑ – –
+
+<L>115849<pc>7-1486<k1>haMsa<k2>haMsa/
+(1098078): <div n="3">— β) {%4 Mal%} {Ç}{˘ ˘ ˘ ˘ ¯ ˘ ˘ ¯, ˘ ¯ ˘ ¯ ˘ ¯ ¯ ebend.
+replace {Ç}{˘ ˘ ˘ ˘ ¯ ˘ ˘ ¯, ˘ ¯ ˘ ¯ ˘ ¯ ¯ ebend.
+with ⏑ ⏑ ⏑ ⏑ – ⏑ ⏑ –, ⏑ – ⏑ – ⏑ – –  ebend.
+(1098113): <div n="3">— γ) {%4 Mal%} {Ç}¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ¯
+replace {Ç}¯ ¯ ¯ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ˘ ¯
+with – – – – – – – –, ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ ⏑ –
+
+<L>116170<pc>7-1548<k1>hariRapluta<k2>hariRapluta
+(1104666): <ls>1. 3.</ls> {Ç}};
+replace {Ç}};
+with ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ –;
+(1104667): <ls>2. 4.</ls> {Ç}}
+replace {Ç}}
+with ⏑ ⏑ ⏑ – ⏑ ⏑ – ⏑ ⏑ – ⏑ –
+
+-----------------------------
+Note:
+Finally, if anymore {¯ }, {˘} are remaining, they are to be changed as {–}, {⏑} espectively.
