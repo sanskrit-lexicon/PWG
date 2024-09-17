@@ -642,5 +642,76 @@ git pull
 cd scans/csl-pywork/v02
 sh generate_dict.sh pwg  ../../PWGScan/2020/
 
+-------------------------------------------------------------
+notes re some of AB's observations in above comment
+32 matches for "<ls>AV. [0-9]+, [0-9]+\.?</ls>"
+4 matches in 1 line for "<ls n="AV.">[0-9]+, [0-9]+\.?</ls>"
+
+365 matches in 364 lines for "<ls>ṚV. [0-9]+, [0-9]+\.?</ls>" in buffer: temp_pwg_8.txt
+79 matches in 63 lines for "<ls n="ṚV.">[0-9]+, [0-9]+\.?</ls>" in buffer: temp_pwg_8.txt
+
+180 matches for "<ls>R. [0-9]+, [0-9]+, [0-9]+, [0-9]+\.?</ls>"
+ (प्रक्षिप्त)
+ Three subsets:
+ 7, 59, x, y
+ 7, 23, x, y
+ 7, 37, x, y
+ 
 ----------------------------------------------------------------
+09-17-2024
+Some changes Jim missed.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2354602700
+
+touch change_10.txt
+# manual edit change_10.txt
+
+csl-websanlexicon/v02
+- revert <pic name='rajatamudra.png'/> in inventory.txt
+- delete distinctfiles/pwg/web/images directory
+- No need to update basicdisplay.php. The prior change ok.
+
+--------------------------------
+# apply the changes: temp_pwg_10.txt
+python updateByLine.py temp_pwg_9.txt change_10.txt temp_pwg_10.txt
+1149413 lines read from temp_pwg_9.txt
+1149413 records written to temp_pwg_10.txt
+8 change transactions from change_10.txt
+
+----------------------------------
+# regenerate local displays from temp_pwg_10
+# check for errors
+
+cp temp_pwg_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue74
+
+----------------------------------
+----------------------------------------------------------------
+install version 10 of pwg
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add .
+git commit -m "PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 local version 10"
+git push
+---------
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git add .
+git commit -m "PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 version 10"
+git push
+----
+
+----------------------------------------------------------------
+update cologne server
+
+cd scans/csl-orig
+git pull
+cd scans/csl-websanlexicon
+git pull
+cd scans/csl-pywork/v02cd
+sh generate_dict.sh pwg  ../../PWGScan/2020/
+
+--------------------------------------
 THE END

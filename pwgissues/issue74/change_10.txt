@@ -1,0 +1,40 @@
+; change_10.txt
+; Ref: https://github.com/sanskrit-lexicon/PWG/issues/74#issuecomment-2354602700
+; <L>13998<pc>1-1134<k1>OpacCandasika
+128490 old (2 Mal 16 + 18 Moren; Ausgang -o- und o—) 
+128490 new (2 Mal 16 + 18 Moren; Ausgang – ⏑ – und ⏑ – –)
+;-----------------------------------------------------------------------
+; <L>214<pc>1-0018<k1>akzarapaNkti
+1894 old <ls>ṚV.</ls> <ls>PRĀTIŚ. 17, 30.</ls> Besteht aus 4 fünfsilbigen Theilen oder <is>pada's</is> (– ⏑ ⏑ – –)
+;
+1894 new <ls>ṚV. PRĀTIŚ. 17, 30.</ls> Besteht aus 4 fünfsilbigen Theilen oder <is>pada's</is> (– ⏑ ⏑ – –)
+;-----------------------------------------------------------------------
+; <L>14175<pc>2-0008<k1>kakud
+130057 old <ls n="AV.">3, 4, 2.</ls> <ls n="ṚV.">7, 76, 3.</ls> {#yo vA aSvameDe tisraH kakudo veda kakudDa rAjYAM Bavati#} 
+;
+130057 new <ls n="AV.">3, 4, 2.</ls> <ls n="AV.">7, 76, 3.</ls> {#yo vA aSvameDe tisraH kakudo veda kakudDa rAjYAM Bavati#} 
+;-----------------------------------------------------------------------
+; <L>28175<pc>3-0177<k1>waNka
+277744 old <pic name='rajatamudra.png'/> <lang n="arabic">تمغا</lang> {%Stempel.%} 
+;
+277744 new <lang n="mongolian">ᠲᠠᠮᠭᠠ</lang> <lang n="arabic">تمغا</lang> {%Stempel.%} 
+;-----------------------------------------------------------------------
+; <L>68406<pc>5-1195<k1>upasTita
+655630 old <ls>386</ls> {%das Versmaass 4 Mal%} ⏑ – ⏑ ⏑ ⏑ – – – ⏑ ⏑ ⏑ – – .
+;
+655630 new <ls n="Ind. St.">386</ls> {%das Versmaass 4 Mal%} ⏑ – ⏑ ⏑ ⏑ – – – ⏑ ⏑ ⏑ – – .
+;-----------------------------------------------------------------------
+; <L>96821<pc>6-1488<k1>vraj
+910175 old <ls>DHĀTUP. 7, 79.</ls> <ls n="DHĀTUP 7,">40</ls>, v. l. {#vajrA/ja; avrAjIt#} 
+;
+910175 new <ls>DHĀTUP. 7, 79.</ls> <ls n="DHĀTUP. 7,">40</ls>, v. l. {#vajrA/ja; avrAjIt#} 
+;-----------------------------------------------------------------------
+; <L>52576<pc>5-0078<k1>bAhAdura
+518808 old <lang n="arabic">بهانور</lang>
+;
+518808 new <lang n="arabic">بهانور</lang>,
+;------
+518809 old ,
+;
+518809 new <lang n="mongolian">ᠪᠠᠭᠠᠶᠤᠷ</lang>
+;-----------------------------------------------------------------------
