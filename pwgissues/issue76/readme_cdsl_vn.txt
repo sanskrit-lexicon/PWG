@@ -1,11 +1,15 @@
 09-17-2024
+Revised 09-18-2024
 Summary of PWG VN matter from cdsl 'Scanned edition'
   https://sanskrit-lexicon.uni-koeln.de/pwgindex.html
 
 ---------------------------------------------------------------------------
-vol. 1 (no VN matter)
+vol. 1 (3 vn pages)
 https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/index.php?sfx=png&vol=1
 Publication date 1855
+https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg1-0000--13.png
+https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg1-0000--14.png
+https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg1-0000--15.png
  
 ---------------------------------------------------------------------------
 vol. 2 (2 pages VN)
@@ -69,10 +73,10 @@ https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg5-1677--mokSay
    ...
    पारिभाषिक 
 ---------------------------------------------------------------------------
-vol. 6  (Nothing found -- technical error image not found!)
+vol. 6  (1 VN page)
 publication date 1871
 https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/serveimg.php?file=PWGScanpng/pwg6-1511--kor.png
- file not found!
+ 
 ---------------------------------------------------------------------------
 vol. 7  (/ (- 1821 1683) 2)  69 pages.
 Publication date 1875
