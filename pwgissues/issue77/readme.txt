@@ -103,7 +103,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue77
 ---------------------------------------------
 sync this issue to Github
 git add .
-git commit -m '#77'
+git commit -m "#77"
 git push
 
 ---------------------------------------------
