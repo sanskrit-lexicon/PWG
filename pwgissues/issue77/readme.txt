@@ -227,12 +227,77 @@ git push
 # 130 insertions(+), 126 deletions(-)
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue77
 
+
+--------------------------------------------
+hyphen to em-dash
+
+cp temp_pwg_6.txt temp_pwg_7.txt
+
+10169 matches in 9237 lines for " - " in buffer: temp_pwg_7.txt
+Change these to " — "  # space,em-dash,space  U+2014
+10169 occurrences changed.
+
+-------------------------
+Ref3: https://github.com/sanskrit-lexicon/PWG/issues/34#issuecomment-2364472837
+-------------
+L-38153
+old:
+<L>38153<pc>4-0091<k1>nAgadalopama<k2>nAgadalopama
+{#nAgadalopama#}¦ (1. {#nAga#} 1.f {#-dala + upamA#}) <lex>n.</lex> N. eines Baumes, {%Xylocarpus Granatum Koen.%},
+<ls>RATNAM. 254.</ls>
+<LEND>
+
+new:
+<L>38153<pc>4-0091<k1>nAgadalopama<k2>nAgadalopama
+{#nAgadalopama#}¦ (<hom>1.</hom> {#nAga#} 1,f — {#dala#} + {#upamA#}) <lex>n.</lex> N. eines Baumes, {%Xylocarpus Granatum Koen.%},
+<ls>RATNAM. 254.</ls>
+<LEND>
+
+-------------
+L-51648
+old:
+<L>51648<pc>4-1212<k1>PullAraRyamAhAtmya<k2>PullAraRyamAhAtmya
+{#PullAraRyamAhAtmya#}¦ ({#Pulla#} 2.- {#a° + mA°#}) <lex>n.</lex> Titel eines Abschnittes im
+<ls>AGNI-P.</ls> <ls>MACK. Coll. I,78.</ls>
+<LEND>
+
+new:
+<L>51648<pc>4-1212<k1>PullAraRyamAhAtmya<k2>PullAraRyamAhAtmya
+{#PullAraRyamAhAtmya#}¦ ({#Pulla#} 2. — {#a°#} + {#mA°#}) <lex>n.</lex> Titel eines Abschnittes im
+<ls>AGNI-P.</ls> <ls>MACK. Coll. I,78.</ls>
+<LEND>
+
+
+--------------------------------------------
+# regenerate local displays from temp_pwg_7
+# This to check xml validity.
+
+cp temp_pwg_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok  No problems noticed
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue77
+
+--------------------------------------------
+sync to github
+
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "PWG:
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/34#issuecomment-2364472837
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2364178541"
+
+git push
+# 9239 insertions(+), 9239 deletions(-)
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue77
+
 --------------
 sync Cologne to github
 csl-orig
 pwg displays
+-------------
+sync this repo to github
 
---------------------------------------------
-
---------------------------------------------
+-------------------------------------------------------
 THE END
