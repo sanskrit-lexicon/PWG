@@ -46,6 +46,15 @@ python pwg_transcode.py pwgtranscoder1 slp1 deva ../vntxt_0.txt tempchk.txt
 diff ../vntxt_0_deva.txt tempchk.txt | wc -l
 0  # invertibility checks.
 
- python pwg_transcode.py pwgtranscoder1 deva slp1 ../vntxt_0_deva.txt ../vntxt_0.txt
+commit repo and sync to github.
+--------------------------------------------------------------
 
+The transcoding mishandled the udAtta accent (and maybe others?)
+ Correct several errors. Mostly the Devanagari combining U change to /
+ e.g. a꣫ -> a/
+Also a few unbalanced parens noticed and changed.
+See the 'replacements_data' in the program for details.
+cd transcode
+python make_vntxt_1.py ../vntxt_0.txt ../vntxt_1.txt
 
+--------------------------------------------------------
