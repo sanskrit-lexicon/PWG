@@ -130,3 +130,36 @@ python check_ea.py vntxt_1_rev.txt check_ea_vntxt_1_rev.txt
 conclusion:
 vntxt_1_rev.txt looks ok to Jim
 ----------------------------------------------------------
+09-28-2024
+compare to prior versions of deva1_slp1.xml
+see transcoderpwg/readme_deva1.txt
+
+cd transcoderpwg
+#copy deva1_slp1.xml to csl-websanlexicon and csl-apidev
+cp pwgtranscoder2/deva1_slp1.xml /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/utilities/transcoder/deva1_slp1.xml
+
+cp pwgtranscoder2/deva1_slp1.xml /c/xampp/htdocs/cologne/csl-apidev/utilities/transcoder/deva1_slp1.xml
+
+# sync csl-websanlexicon 
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+git add . # deva1_slp1.xml
+git commit -m "deva1_slp1.xml transcoder file.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/76"
+git push
+
+cp pwgtranscoder2/deva1_slp1.xml /c/xampp/htdocs/cologne/csl-apidev/utilities/transcoder/deva1_slp1.xml
+
+# sync csl-apidev
+cd /c/xampp/htdocs/cologne/csl-apidev
+# modify .gitignore and simple-search/.gitignore so deva_slp1.xml tracked
+git add . # deva1_slp1.xml
+git commit -m "deva1_slp1.xml transcoder file.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/76"
+git push
+
+# sync cologne server
+login to cologne server.
+for csl-websanlexicon and csl-apidev, do git pull
+
+# sync this PWG repo to Github
+--------------------------------------------------------------------

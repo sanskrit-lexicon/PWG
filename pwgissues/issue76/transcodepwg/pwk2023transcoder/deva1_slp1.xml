@@ -1,5 +1,17 @@
 <fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
-  <!-- 09-27-2024. Inverse of slp1_deva1.xml -->
+  <!--
+udatta: /  0951 -> a8eb
+svarita: ^ 1ce0 0951
+additional rules
+<e> <s>INIT,SKT</s> <in>\u0902\ua8eb</in> <out>/M</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0903\ua8eb</in> <out>/H</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0901\ua8eb</in> <out>/~</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0903\u0951</in> <out>^H</out> <next>INIT</next> </e> 
+<e> <s>INIT,SKT</s> <in>\u0901\u0903\ua8eb</in> <out>/~H</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0902\u0951</in> <out>^M</out> <next>INIT</next> </e> 
+ 'Z' is not used in PW
+<e> <s>INIT,SKT</s> <in>\u1cf2</in> <out>Z</out> <next>INIT</next></e>
+-->
 <e> <s>INIT</s> <in>\u0905</in> <out>a</out></e>
 <e> <s>INIT</s> <in>\u0906</in> <out>A</out></e>
 <e> <s>INIT</s> <in>\u0907</in> <out>i</out></e>
@@ -44,7 +56,7 @@
 <e> <s>INIT</s> <in>\u0910\u0952</in> <out>E\</out></e>
 <e> <s>INIT</s> <in>\u0913\u0952</in> <out>o\</out></e>
 <e> <s>INIT</s> <in>\u0914\u0952</in> <out>O\</out></e>
-
+<!-- <e> <s>INIT</s> <in></in> <out>a</out></e> -->
 <e> <s>INIT</s> <in>\u093e</in> <out>A</out></e>
 <e> <s>INIT</s> <in>\u093f</in> <out>i</out></e>
 <e> <s>INIT</s> <in>\u0940</in> <out>I</out></e>
@@ -58,7 +70,6 @@
 <e> <s>INIT</s> <in>\u0948</in> <out>E</out></e>
 <e> <s>INIT</s> <in>\u094b</in> <out>o</out></e>
 <e> <s>INIT</s> <in>\u094c</in> <out>O</out></e>
-
 <e> <s>INIT</s> <in>\u0951</in> <out>^</out></e>
 <e> <s>INIT</s> <in>\u093e\u0951</in> <out>A^</out></e>
 <e> <s>INIT</s> <in>\u093f\u0951</in> <out>i^</out></e>
@@ -73,7 +84,6 @@
 <e> <s>INIT</s> <in>\u0948\u0951</in> <out>E^</out></e>
 <e> <s>INIT</s> <in>\u094b\u0951</in> <out>o^</out></e>
 <e> <s>INIT</s> <in>\u094c\u0951</in> <out>O^</out></e>
-
 <e> <s>INIT</s> <in>\u0952</in> <out>\</out></e>
 <e> <s>INIT</s> <in>\u093e\u0952</in> <out>A\</out></e>
 <e> <s>INIT</s> <in>\u093f\u0952</in> <out>i\</out></e>
@@ -103,7 +113,6 @@
 <e> <s>INIT</s> <in>\u0948\ua8eb</in> <out>E/</out></e>
 <e> <s>INIT</s> <in>\u094b\ua8eb</in> <out>o/</out></e>
 <e> <s>INIT</s> <in>\u094c\ua8eb</in> <out>O/</out></e>
-
 <!-- virama outputs empty string -->
 <e> <s>INIT</s> <in>\u094d</in> <out></out></e>
 <!-- if a consonant is **not** followed by a vowel sign or a virama, then include schwa  Note: the /^ implies the check (by hard-coding) in transcoder.php-->
@@ -197,24 +206,19 @@
 <e> <s>INIT</s> <in>\u096f</in> <out>9</out></e>
 <!-- candrabindu -->
 <e> <s>INIT</s> <in>\u0901</in> <out>~</out></e>
-<!-- OM -->
-<e> <s>INIT</s> <in>\u0950</in> <out>o~</out></e>
-
-<!-- special rules such as
-<e n='123b'> <s>INIT</s> <in>\u0902\ua8eb</in> <out>/M</out></e>
+<!--
+<e> <s>INIT</s> <in> </in> <out> </out></e>
+<e> <s>INIT</s> <in>	</in> <out>	</out></e>
+<e> <s>INIT</s> <in></in> <out></out></e>
+<e> <s>INIT</s> <in></in> <out></out></e>
+<e> <s>INIT</s> <in></in> <out>/</out></e>
 -->
-<e n='122a'> <s>INIT</s> <in>\u0903\u0952</in> <out>\H</out> </e>
-<e n='122b'> <s>INIT</s> <in>\u0902\u0952</in> <out>\M</out> </e>
-<e n='123a'> <s>INIT</s> <in>\u0903\ua8eb</in> <out>/H</out> </e>
-<e n='123b'> <s>INIT</s> <in>\u0902\ua8eb</in> <out>/M</out> </e>
-<e n='124a'> <s>INIT</s> <in>\u0903\u0951</in> <out>^H</out> </e> 
-<e n='124b'> <s>INIT</s> <in>\u0902\u0951</in> <out>^M</out> </e> 
-<!-- additional rewriting for accents. 8/13/2021 -->
-<e n='125a'> <s>INIT</s> <in>\u0903\u0951\u0952</in> <out>^\H</out> </e> 
-<e n='125b'> <s>INIT</s> <in>\u0902\u0951\u0952</in> <out>^\M</out> </e> 
-<e n='126a'> <s>INIT</s> <in>\u0901\u0952</in> <out>\~</out> </e>
-<e n='126b'> <s>INIT</s> <in>\u0901\u0951</in> <out>^~</out> </e>
-<e n='126d'> <s>INIT</s> <in>\u0901\ua8eb</in> <out>/~</out> </e>
-<e n='126e'> <s>INIT</s> <in>\u0901\u0903\ua8eb</in> <out>/~H</out> </e>
-<e> <s>INIT</s> <in>\u1cf2</in> <out>Z</out> </e>
+<e> <s>INIT,SKT</s> <in>\u0902\ua8eb</in> <out>/M</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0903\ua8eb</in> <out>/H</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0901\ua8eb</in> <out>/~</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0903\u0951</in> <out>^H</out> <next>INIT</next> </e> 
+<e> <s>INIT,SKT</s> <in>\u0901\u0903\ua8eb</in> <out>/~H</out>  <next>INIT</next></e>
+<e> <s>INIT,SKT</s> <in>\u0902\u0951</in> <out>^M</out> <next>INIT</next> </e> 
+<e> <s>INIT,SKT</s> <in>\u1cf2</in> <out>Z</out> <next>INIT</next></e>
+
 </fsm>
