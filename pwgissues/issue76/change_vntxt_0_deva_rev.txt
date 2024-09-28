@@ -1,0 +1,89 @@
+Notes on changes to vntxt_0_deva_rev.txt relative to vntxt_0_deva_orig.txt
+These changes made so
+1) transcoding to slp1 is invertible.
+2) Some typos are corrected.
+---
+old:
+{#अनरुस्#}	 ¦ [1.0176] lies: {#ते एवैतदनरुष्करोति यदक्ष्यावानक्ति.#}
+new:
+{#अनरुस्#}	 ¦ [1.0176] lies: {#ते एवैतदनरुष्करोति यदक्ष्यावानक्ति#}.
+---
+old:
+{#ऋजीक#}	 ¦ [1.1042] Das Beispiel aus <ls>ṚV.</ls> ist zu streichen, da {#आविर्ऋजीक#} ein Wort ist.
+new:
+{#ऋजीक#}	 ¦ [1.1042] Das Beispiel aus <ls>ṚV.</ls> ist zu streichen, da {#आविरृजीक#} ein Wort ist.
+This is subtle.  The unicode characters differ but when rendered look identical:
+old unicode:
+0906 | आ | DEVANAGARI LETTER AA
+0935 | व | DEVANAGARI LETTER VA
+093F | ि | DEVANAGARI VOWEL SIGN I
+0930 | र | DEVANAGARI LETTER RA
+094D | ् | DEVANAGARI SIGN VIRAMA    <<<
+090B | ऋ | DEVANAGARI LETTER VOCALIC R  <<<
+091C | ज | DEVANAGARI LETTER JA
+0940 | ी | DEVANAGARI VOWEL SIGN II
+0915 | क | DEVANAGARI LETTER KA
+new unicode:
+0906 | आ | DEVANAGARI LETTER AA
+0935 | व | DEVANAGARI LETTER VA
+093F | ि | DEVANAGARI VOWEL SIGN I
+0930 | र | DEVANAGARI LETTER RA
+0943 | ृ | DEVANAGARI VOWEL SIGN VOCALIC R   <<<
+091C | ज | DEVANAGARI LETTER JA
+0940 | ी | DEVANAGARI VOWEL SIGN II
+0915 | क | DEVANAGARI LETTER KA
+---
+old:
+{#जंह्॒#} und {#जंहस्#}	 ¦ [3.0002] Ueber eine andere Auffassung s. <ls>BENFEY</ls> in <ls>Gött. gel. Anz. 1860. Stück 74. 75. S. 742. fgg.</ls>
+new:
+{#जंह्#} und {#जंहस्#}	 ¦ [3.0002] Ueber eine andere Auffassung s. <ls>BENFEY</ls> in <ls>Gött. gel. Anz. 1860. Stück 74. 75. S. 742. fgg.</ls>
+old unicode:
+091C | ज | DEVANAGARI LETTER JA
+0902 | ं | DEVANAGARI SIGN ANUSVARA
+0939 | ह | DEVANAGARI LETTER HA
+094D | ् | DEVANAGARI SIGN VIRAMA
+0952 | ॒ | DEVANAGARI STRESS SIGN ANUDATTA   <<< to remove
+new unicode:
+091C | ज | DEVANAGARI LETTER JA
+0902 | ं | DEVANAGARI SIGN ANUSVARA
+0939 | ह | DEVANAGARI LETTER HA
+094D | ् | DEVANAGARI SIGN VIRAMA
+---
+old:
+{#तरुदूालका#}	 ¦ [3.0271] nach dem {#तरुत्र#} lies: {#तरुदूलिका#}.
+new: typo in 1st word
+{#तरुदूलिका#}	 ¦ [3.0271] nach dem {#तरुत्र#} lies: {#तरुदूलिका#}.
+---
+old:
+{#रााण꣫#}	 ¦ [6.0317] (auf Bogen 21*) Z. 1; in {#राणि#} und {#पैलादि#} ist der Haken über dem {#ि#} abgebrochen.
+new:
+ (1) {#रााण꣫#} -> {#राण꣫#} 
+ (2) Replace  DEVANAGARI VOWEL SIGN I with DEVANAGARI LETTER I
+{#राण꣫#}	 ¦ [6.0317] (auf Bogen 21*) Z. 1; in {#राणि#} und {#पैलादि#} ist der Haken über dem {#इ#} abgebrochen.
+;    Jim doesn't know how to represent in slp1 the 'naked' vowel sign.
+;    the hook above the {#ि#} is broken
+
+--------------------------------------------------------
+; Additional typos 
+--------------------------------------------------------
+---
+old:
+{#प्रत्य꣫ञ्च्}
+new:
+{#प्रत्य꣫ञ्च्#}
+---
+old: 
+({#छर्दन)#}
+new: 
+({#छर्दन#})
+---
+old: 
+(lies {#अन्तिसुम्न)#}
+new: 
+(lies {#अन्तिसुम्न#})
+---
+old: 
+{##अनृत}
+new:
+{#अनृत#}
+---

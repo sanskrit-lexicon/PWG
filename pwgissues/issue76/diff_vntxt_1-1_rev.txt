@@ -1,0 +1,75 @@
+Note:
+ < refers to previous (wrong) vntxt_1.txt
+ > refers to current (better) vntxt_1_rev.txt
+   Created with deva1_slp1.xml and slp1_deva1.txt
+ See readme.txt starting at 09-27-2024.
+The differences are in the accents.
+
+19c19
+< <hom>1.</hom> {#agra#}	 ¦ [1.0039] Z. 24 lies: {#agra/magra\midBa/jate#}.
+---
+> <hom>1.</hom> {#agra#}	 ¦ [1.0039] Z. 24 lies: {#agra^magra\midBa^jate#}.
+28c28
+< {#atimAtra#}	 ¦ [1.0099] Z. 2 lies: {#A\tmAna/matimA\tra°#}.
+---
+> {#atimAtra#}	 ¦ [1.0099] Z. 2 lies: {#A\tmAna^matimA\tra°#}.
+40c40
+< {#anapta#}	 ¦ [1.0174] Z. 2 und 1 von u. lies: {#ana/ptama\psu — A sfja/#}.
+---
+> {#anapta#}	 ¦ [1.0174] Z. 2 und 1 von u. lies: {#ana^ptama\psu — A sfja^#}.
+52c52
+< {#anAvraska#} und {#anASIrdA#}	 ¦ [1.0188] <ab>vgl.</ab> u. {#Avraska#} und {#ASIrdA#}. Bei <hom>2.</hom> {#anAvraska#} ist Z. 2 zu lesen: {#pra\jApa/tO#}.
+---
+> {#anAvraska#} und {#anASIrdA#}	 ¦ [1.0188] <ab>vgl.</ab> u. {#Avraska#} und {#ASIrdA#}. Bei <hom>2.</hom> {#anAvraska#} ist Z. 2 zu lesen: {#pra\jApa^tO#}.
+59c59
+< <hom>2.</hom> {#anUcya/#}	 ¦ [1.0228] bedeutet {%Armlehne eines Sessels%}.
+---
+> <hom>2.</hom> {#anUcya^#}	 ¦ [1.0228] bedeutet {%Armlehne eines Sessels%}.
+61c61
+< {#anehas#}	 ¦ [1.0233] Z. 5 lies: {#cf/tA#}.
+---
+> {#anehas#}	 ¦ [1.0233] Z. 5 lies: {#cf^tA#}.
+184c184
+< {##अनृत}	 ¦ [1.0231] — S. 231, Z. 6: <1,32,2> = <1,33,2>.
+---
+> {#anfta#}	 ¦ [1.0231] — S. 231, Z. 6: <1,32,2> = <1,33,2>.
+226c226
+< {#anapacyuta#}	 ¦ [1.0173] Z. 2 lies: {#ana/pa°#}, Z. 3 lies: {#viSva/syA\rTi\naH#}.
+---
+> {#anapacyuta#}	 ¦ [1.0173] Z. 2 lies: {#ana^pa°#}, Z. 3 lies: {#viSva^syA\rTi\naH#}.
+243c243
+< {#aBri#}	 ¦ [1.0366] Z. 2 lies: {#aBri/BirgirI\°#}.
+---
+> {#aBri#}	 ¦ [1.0366] Z. 2 lies: {#aBri^BirgirI\°#}.
+265c265
+< <hom>1.</hom> {#asma#}	 ¦ [1.0564] Z. 9 lies: {#vajra/hastaH#}.
+---
+> <hom>1.</hom> {#asma#}	 ¦ [1.0564] Z. 9 lies: {#vajra^hastaH#}.
+355c355
+< {#kva/#}	 ¦ [2.0520] Z. 23 <ab>v. u.</ab> lies: {#sUryapraBavo#}.
+---
+> {#kva^#}	 ¦ [2.0520] Z. 23 <ab>v. u.</ab> lies: {#sUryapraBavo#}.
+563c563
+< {#AlokagadADarI#}	 ¦ [5.1122] lies {#AlokagAdADarI#}. ;;jim 7-1711 has AlokagAdADarI but not AlokagadADarI
+---
+> {#AlokagadADarI#}	 ¦ [5.1122] lies {#AlokagAdADarI#}.
+570c570
+< {#pAriBAzika#}	 ¦ [5.1597] die im <ls>ŚKDR.</ls> angegebene <ab>Bed.</ab> passt doch nicht zu <ls>SUŚR.</ls> und <ls>SARVADARŚANAS.</ls>; hier bedeutet das Wort {%einen allgemeinen Begriff ausdrückend%}. ;;jim 7-1770 quite different
+---
+> {#pAriBAzika#}	 ¦ [5.1597] die im <ls>ŚKDR.</ls> angegebene <ab>Bed.</ab> passt doch nicht zu <ls>SUŚR.</ls> und <ls>SARVADARŚANAS.</ls>; hier bedeutet das Wort {%einen allgemeinen Begriff ausdrückend%}.
+600c600
+< ...do...	 ¦ [6.0666] Z. 1 lies {#vanA/va#} st. {#vane/ma#}.
+---
+> ...do...	 ¦ [6.0666] Z. 1 lies {#vanA^va#} st. {#vane^ma#}.
+607c607
+< <hom>2.</hom> {#var#}	 ¦ [6.0706] Z. 3 <ab>v. u.</ab> lies {#dEvyaM\#}.
+---
+> <hom>2.</hom> {#var#}	 ¦ [6.0706] Z. 3 <ab>v. u.</ab> lies {#dEvya\M#}.
+614c614
+< {#valgUy#}	 ¦ [6.0813] Z. 2 lies {#vanda/te#} st. {#vanda/ne#}.
+---
+> {#valgUy#}	 ¦ [6.0813] Z. 2 lies {#vanda^te#} st. {#vanda^ne#}.
+625c625
+< <hom>1.</hom> {#vip#}	 ¦ [6.1098] Z. 1 <ab>v. u.</ab> lies {#ma\rutaH/#}.
+---
+> <hom>1.</hom> {#vip#}	 ¦ [6.1098] Z. 1 <ab>v. u.</ab> lies {#ma\ruta^H#}.

@@ -1,0 +1,24 @@
+(1) 42c42
+< {#अनरुस्#}	 ¦ [1.0176] lies: {#ते एवैतदनरुष्करोति यदक्ष्यावानक्ति.#}
+---
+> {#अनरुस्#}	 ¦ [1.0176] lies: {#ते एवैतदनरुष्करोति यदक्ष्यावानक्ति#}.
+
+(2) 305c305
+< {#ऋजीक#}	 ¦ [1.1042] Das Beispiel aus <ls>ṚV.</ls> ist zu streichen, da {#आविर्ऋजीक#} ein Wort ist.
+---
+> {#ऋजीक#}	 ¦ [1.1042] Das Beispiel aus <ls>ṚV.</ls> ist zu streichen, da {#आविरृजीक#} ein Wort ist.
+
+(3) 372c372
+< {#जंह्॒#} und {#जंहस्#}	 ¦ [3.0002] Ueber eine andere Auffassung s. <ls>BENFEY</ls> in <ls>Gött. gel. Anz. 1860. Stück 74. 75. S. 742. fgg.</ls>
+---
+> {#जंह्#} und {#जंहस्#}	 ¦ [3.0002] Ueber eine andere Auffassung s. <ls>BENFEY</ls> in <ls>Gött. gel. Anz. 1860. Stück 74. 75. S. 742. fgg.</ls>
+
+(4) 407c407
+< {#तरुदूालका#}	 ¦ [3.0271] nach dem {#तरुत्र#} lies: {#तरुदूलिका#}.
+---
+> {#तरुदूलिका#}	 ¦ [3.0271] nach dem {#तरुत्र#} lies: {#तरुदूलिका#}.
+
+(5) 584c584
+< {#रााण꣫#}	 ¦ [6.0317] (auf Bogen 21*) Z. 1; in {#राणि#} und {#पैलादि#} ist der Haken über dem {#ि#} abgebrochen. ;; Jim, this is a case of non-invertibility of Devanagari-slp1-devanagari!! ;; intended Sp. header number %6.0333%
+---
+> {#राण॑#}	 ¦ [6.0317] (auf Bogen 21*) Z. 1; in {#राणि#} und {#पैलादि#} ist der Haken über dem {#इ#} abgebrochen. ;; Jim, this is a case of non-invertibility of Devanagari-slp1-devanagari!! ;; intended Sp. header number %6.0333%

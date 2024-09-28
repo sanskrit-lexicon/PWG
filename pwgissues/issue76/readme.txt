@@ -51,10 +51,82 @@ commit repo and sync to github.
 
 The transcoding mishandled the udAtta accent (and maybe others?)
  Correct several errors. Mostly the Devanagari combining U change to /
- e.g. a꣫ -> a/
+ e.g. aÃªÂ£Â« -> a/
 Also a few unbalanced parens noticed and changed.
 See the 'replacements_data' in the program for details.
 cd transcode
 python make_vntxt_1.py ../vntxt_0.txt ../vntxt_1.txt
 
 --------------------------------------------------------
+09-27-2024
+Redo transcoding using the pwg slp1_deva1.xml.
+Main task is to create an 'inverse' transcoder deva1_slp1.xml.
+Do this in a 'transcodepwg' directory
+
+mkdir transcodepwg
+cd transcodepwg
+mkdir pwgtranscoder2
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/utilities/transcoder/slp1_deva1.xml pwgtranscoder2/slp1_deva1.xml
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/utilities/transcoder/deva_slp1.xml pwgtranscoder2/deva_slp1.xml
+
+# also copy slp1_deva.xml for reference:
+cp /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/utilities/transcoder/slp1_deva.xml pwgtranscoder2/slp1_deva.xml
+
+Of course, deva_slp1.xml was constructed as an inverse for the non-pwg version slp1_deva.xml.
+But we need an inverse for the pwg version slp1_deva1.xml.
+We will call this inverse deva1_slp1.xml.
+It starts as a copy of deva_slp1.xml:
+cp pwgtranscoder2/deva_slp1.xml pwgtranscoder2/deva1_slp1.xml
+# Manually edit pwgtranscoder2/deva1_slp1.xml
+
+cd pwgtranscoder2
+diff slp1_deva.xml slp1_deva1.xml > diff_slp1_deva_deva1.txt
+
+name    slp1  deva      deva1
+anudAtta \    u0952     u0952
+udAtta   /    u0951     ua8eb  
+svarita  ^    u1ce0     u0951
+
+python make_deva1_slp1.py pwgtranscoder2/deva_slp1.xml pwgtranscoder2/deva1_slp1.xml
+ a) u0951 -> ua8eb
+ b) u1ce0 -> u095a
+In addition, manually add the 'special rules ...' section at end of
+deva1_slp1.xml.
+
+-------------------------------------------------------
+# We want to apply the deva1 transcoding to AB's file.
+We had previously used a slightly modified version of AB's file:
+  ../vntxt_0_deva.txt (his original file being ../vntxt_0_deva_orig.txt)
+However, one of the changes in this file is not needed,
+  namely {#रााण꣫#} -> {#राण॑#}  is removed.
+
+In following work will use this as AB version:
+  ../vntxt_0_deva_rev.txt
+whose changes are noted in change_vntxt_0_deva_rev.txt
+  Note: this also corrects a few typos in AB original file.
+
+-------------------------------------------------------
+cd transcodepwg
+# construct slp1 version ../vntxt_1_rev.txt  from ../vntxt_0_deva_rev.txt
+# use the deva1 transcoder files (slp1_deva1.xml and deva1_slp1.xml).
+#  these transcoder files are in pwgtranscoder2 sub-directory.
+
+python pwg_transcode.py pwgtranscoder2 deva1 slp1 ../vntxt_0_deva_rev.txt ../vntxt_1_rev.txt
+# check invertibility 
+python pwg_transcode.py pwgtranscoder2 slp1 deva1 ../vntxt_1_rev.txt tempchk.txt
+diff ../vntxt_0_deva_rev.txt tempchk.txt | wc -l
+0  # invertibility checks.
+
+# compare to previous vntxt_1.
+diff ../vntxt_1.txt ../vntxt_1_rev.txt  > ../diff_vntxt_1-1_rev.txt
+64 lines in diff file (so 16 lines changed).
+These are corrections to some accents which were incorrect in vntxt_1.txt.
+
+# as a further check, examine the extended ascii charactersin vntxt_1_rev.txt
+cd ../
+python check_ea.py vntxt_1_rev.txt check_ea_vntxt_1_rev.txt
+  Note no Devanagari characters!
+
+conclusion:
+vntxt_1_rev.txt looks ok to Jim
+----------------------------------------------------------
