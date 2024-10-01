@@ -163,3 +163,35 @@ for csl-websanlexicon and csl-apidev, do git pull
 
 # sync this PWG repo to Github
 --------------------------------------------------------------------
+09-30-2024
+cp vntxt_1_rev.txt vntxt_2.txt
+---
+Change the [Page:VNv-ppp] lines  (
+ Add two fields:
+* [v-pppp]  This is synthetic for volus 
+  pc value
+  newurl: https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwgv-pppp.png
+* [https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/CDSLFILENAME.png]
+  old url
+
+Note:
+
+/c/xampp/htdocs/cologne/csl-websanlexicon/v02/distinctfiles/pwg/web/webtc/pdffiles.txt
+
+sample:
+1-0001:pwg1-0001.pdf:a
+1-0003:pwg1-0003.pdf:a
+1-0005:pwg1-0005.pdf:aMSuka
+1-0007:pwg1-0007.pdf:aMhasaspati
+
+See pwg
+Construct pdf
+---------------------------------------------------
+pwgvn/readme_vn_pdfs.txt
+1. Update pdffiles.txt (csl-websanlexicon)
+2. Cologne server PWGScanpdf
+3. sanskrit-lexicon-scans/pwg repo
+   Added the 10 pages to pdffiles directory.
+
+---------------------------------------------------
+

@@ -135,7 +135,7 @@ VNTXT [5.1597] पारिभाषिक	 ¦ die im <ls>ŚKDR.</ls> ...
 ---------------------------------------------------------------------------
 vol. 6  (1 VN page)
 publication date 1871
-https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/serveimg.php?file=PWGScanpng/pwg6-1511--kor.png
+https://sanskrit-lexicon.uni-koeln.de/scans/PWGScan/PWGScanpng/pwg6-1511--kor.png
 
 pwg6-1511--kor.png
 ; corrections vol 6
