@@ -1,0 +1,46 @@
+; Changes to lines of vntxt_2.txt
+; used by make_vntxt_3.py
+; Lines starting with ';' are ignored.
+; Format is 4 lines per change:
+; old
+; OLDLINE
+; new
+; NEWLINE
+; ----- Case 1
+old
+<hom>2.</hom> {#ruD#}	 ¦ [6.0379] Z. 3 lies {#tanurudDaH#}.
+new
+<hom>2.</hom> {#ruD#}	 ¦ [6.0395] (wrong [6.0379]) Z. 3 lies {#tanurudDaH#}.
+;Question: is this already corrected?
+; pwg txt reference is
+; <ls n="MBH.">3,15632.</ls> {#anurudDaH#} ({#tanurudDa#} beide Ausgg.) {#SiKI rAjA miTyopacarito mayA#} {%dem ich zugethan bin%}
+; ----- Case 2
+old
+<hom>1.</hom> {#ruh#}	 ¦ [6.0385] mit {#vi#} <ab>caus.</ab> 3〉 Z. 4 und 5. {#deSakAlaviroDitA#} bedeutet {%mit Ort und Zeit in Widerspruch gebracht%}.
+new
+<hom>1.</hom> {#ruh#}	 ¦ [6.0418] (wrong [6.0385]) mit {#vi#} <ab>caus.</ab> 3〉 Z. 4 und 5. {#deSakAlaviroDitA#} bedeutet {%mit Ort und Zeit in Widerspruch gebracht%}.
+; ----- Case 3
+old
+{#ac#}	 ¦ [1.0165] mit {#pra#} <1,31,1> = <1,32,1>. 11,6,10> = <11,4,10>. <11,9,23> = <11,7,23>.
+new
+{#ac#}	 ¦ [1.0165] mit {#pra#} <1,31,1> = <1,32,1>. <11,6,10> = <11,4,10>. <11,9,23> = <11,7,23>.
+; ----- Case 4
+old
+{#Dar#}	 ¦ [3.0868] <ab>fgg.</ab> {#Dfta#} ist an mehreren Stellen als <ab>part.</ab> vom <ab>intrans.</ab> {#Dar#} (<ab>Bed.</ab> 22) in der <ab>Bed.</ab> {%bestehend, fortbestehend, andauernd%} zu fassen; so <ab>z. B.</ab> <S. 869, Z. 16> <ab>v. u.</ab> <S. 870, Z. 872, Z. 14>.
+new
+{#Dar#}	 ¦ [3.0868] <ab>fgg.</ab> {#Dfta#} ist an mehreren Stellen als <ab>part.</ab> vom <ab>intrans.</ab> {#Dar#} (<ab>Bed.</ab> 22) in der <ab>Bed.</ab> {%bestehend, fortbestehend, andauernd%} zu fassen; so <ab>z. B.</ab> S. 869, Z. 16 <ab>v. u.</ab> S. 870, Z. 872, Z. 14.
+; ----- Case 5
+old
+<hom>1.</hom> {#pad#}	 ¦ [4.0440] mit {#saMprati#}, Z. 5. 6. Man streiche {%über Jmd kommen%} <ab>u. s. w.</ab> bis <I,164>. Nach der richtigen Lesart bedeutet {#vyasanaM saMpratipad#} {%sich bösen Neigungen hingeben%}; <ab>vgl.</ab> <ls>Spr. 2912.</ls>
+new
+<hom>1.</hom> {#pad#}	 ¦ [4.0440] mit {#saMprati#}, Z. 5. 6. Man streiche {%über Jmd kommen%} <ab>u. s. w.</ab> bis I,164. Nach der richtigen Lesart bedeutet {#vyasanaM saMpratipad#} {%sich bösen Neigungen hingeben%}; <ab>vgl.</ab> <ls>Spr. 2912.</ls>
+; ----- Case 6
+old
+{#alambuza#}	 ¦ [1.0459] Z. 2 ist st. b〉 Erbrechen <ab>u. s. w.</ab>%} zu lesen: Name einer Pflanze ({#Cardana#}) <ls>TRIK.</ls> <ab>u. s. w.</ab>
+new
+{#alambuza#}	 ¦ [1.0459] Z. 2 ist st. {%b〉 Erbrechen <ab>u. s. w.</ab>%} zu lesen: Name einer Pflanze ({#Cardana#}) <ls>TRIK.</ls> <ab>u. s. w.</ab>
+; ----- Case 
+;old
+;
+;new
+;
