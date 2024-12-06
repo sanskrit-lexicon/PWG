@@ -16,6 +16,6 @@
 92108	vinoda	850753	<ls n="BHĀG. P.">6,29,41.</ls>  6,29 not found	AB: it is at 6,9,41   print change
 101574	Sri	943815	<ls n="BHĀG. P. 8,">30,44.</ls> 8,30 not found	AB: it is at 4,30,44  print change
 106039	saMparAya	988455	<ls>BHĀG. P. 4,5,38.</ls> 38 not found	AB: it is at 4,25,38  print change
-106569	sarj	995565	<ls>BHĀG. P. 4,31,32.</ls>  32 not found	AB: it is at 4,11,32  print change ?
+106569	sarj	995565	<ls>BHĀG. P. 4,31,32.</ls>  32 not found	AB: it is at X4,11,32X 4,31,22  print change 
 114961	svana	1074718	<ls>BHĀG. P. 2,23,39.</ls>  2,23 not found	AB: it is at 3,23,39  print change
 117491	hetutva	1101720	<ls>BHĀG. P. 3,18,36.</ls>  36 not found	AB: it is at 3,28,36  print change

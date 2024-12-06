@@ -366,7 +366,7 @@ sync csl-orig to Github
 cd /c/xampp/htdocs/cologne/csl-orig
 
 git add . # pwg.txt
-git commit -m "PWG: standardization of links for 'Bhāg. P.', version 3
+git commit -m "PWG: standardization of links for 'Bhāg. P.', version 3 
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/81"
 # 19 insertions(+), 19 deletions(-)
 git push
@@ -389,6 +389,38 @@ Sync Cologne server to github
 -----------------------------------
 sync this PWG repo to github.
 
+-----------------------------------------------------------------
+sync to github (minor correction to temp_pwg_3.txt for sarj)
 -----------------------------------
+sh redo_pwg.sh 3
+
+sync csl-orig to Github
+(using temp_pwg_3.txt)
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add . # pwg.txt
+git commit -m "PWG:sarj  Revise previous correction.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/81"
+# 1 insertions(+), 1 deletions(-)
+git push
+
+-----------------------------------
+sync csl-corrections to Github
+cd /c/xampp/htdocs/cologne/csl-corrections/
+git add . # dictionaries/pwg/pwg_printchange.txt
+git commit -m "PWG: print change revision under sarj.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/81"
+
+git push
+
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo
+2. csl-pywork/v02  pwg  make displays
+3. csl-corrections
+
+-----------------------------------
+sync this PWG repo to github.
+
 
 
