@@ -1,0 +1,95 @@
+; <L>21945<pc>2-0701<k1>garBa<k2>ga/rBa
+207767 old <ls>BHĀG. P. 3,34,20.</ls> Uebertr.: {#nazwo na dfSyate yatra SamIgarBe hutASanaH#}
+;
+207767 new <ls>BHĀG. P. 3,31,20.</ls> Uebertr.: {#nazwo na dfSyate yatra SamIgarBe hutASanaH#}
+;---------------------------------------------------
+; <L>26081<pc>2-1076<k1>Cad<k2>Cad<h>2
+251030 old <ls n="MBH.">1,2166.</ls> <ls n="MBH. 1,">7635.</ls> <ls n="MBH. 1,">7733.</ls> <ls n="MBH.">2,1138.</ls> <ls n="MBH.">13,220.</ls> <ls n="MBH. 13,">2341.</ls> <ls n="MBH. 13,">2709.</ls> <ls>HARIV. 240.</ls> <ls n="HARIV.">751.</ls> <ls n="HARIV.">7157.</ls> <ls>R. 6,4,42.</ls> <ls>BHĀG. P. 7,16,7.</ls> {#vareRa cCandyatAm#}
+;
+251030 new <ls n="MBH.">1,2166.</ls> <ls n="MBH. 1,">7635.</ls> <ls n="MBH. 1,">7733.</ls> <ls n="MBH.">2,1138.</ls> <ls n="MBH.">13,220.</ls> <ls n="MBH. 13,">2341.</ls> <ls n="MBH. 13,">2709.</ls> <ls>HARIV. 240.</ls> <ls n="HARIV.">751.</ls> <ls n="HARIV.">7157.</ls> <ls>R. 6,4,42.</ls> <ls>BHĀG. P. 9,16,7.</ls> {#vareRa cCandyatAm#}
+;---------------------------------------------------
+; <L>27572<pc>3-0111<k1>jIv<k2>jIv
+267325 old <ls n="BHĀG. P. 4,">3,52.</ls> {#upajIvya DanaM muYcan (jAram)#}
+;
+267325 new <ls n="M.">3,52.</ls> {#upajIvya DanaM muYcan (jAram)#}
+;---------------------------------------------------
+; <L>29867<pc>3-0345<k1>tIrTa<k2>tIrTa/
+292483 old <ls n="BHĀG. P. 3,">24,58.</ls> {#tatkamalareRusuganDi vaktraM tatpremavAri makaraDvajatApahAri — suratEkatIrTam#}
+;
+292483 new <ls n="BHĀG. P.">4,24,58.</ls> {#tatkamalareRusuganDi vaktraM tatpremavAri makaraDvajatApahAri — suratEkatIrTam#}
+;---------------------------------------------------
+; <L>33916<pc>3-0699<k1>duz<k2>duz<h>1
+331741 old <ls>BHĀG. P. 1,33,22.</ls> {#adUzitA#}
+;
+331741 new <ls>BHĀG. P. 1,13,22.</ls> {#adUzitA#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354796 old <ls n="BHĀG. P.">7,34,9.</ls>
+;
+354796 new <ls n="ṚV.">7,34,9.</ls>
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354945 old <ls>BHĀG. P. 1,29,70.</ls> {#etAM smftiM te — na hyeza vyavaDAtkAlaH#}
+;
+354945 new <ls>BHĀG. P. 4,29,70.</ls> {#etAM smftiM te — na hyeza vyavaDAtkAlaH#}
+;---------------------------------------------------
+; <L>57252<pc>5-0508<k1>man<k2>man
+560085 old <ls>BHĀG. P. 3,24,56.</ls>
+;
+560085 new <ls>BHĀG. P. 4,24,56.</ls>
+;---------------------------------------------------
+; <L>86526<pc>6-0564<k1>luB<k2>luB
+789980 old <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 116.</ls> <ls>BHĀG. P. 3,30,37.</ls> <ls n="BHĀG. P.">7,2,50. fg.</ls> <ls n="BHĀG. P. 7,">9,55.</ls> <ls n="BHĀG. P. 7,">10,2.</ls> <ls>MĀRK. P. 31,50.</ls> med. <ls>MBH. 3,10071.</ls> <ls>HARIV. 9224.</ls> {#kumAraM bAlakrIqanakEH praloBya#} so v. a. {%des Knaben Aufmerksamkeit ablenkend%}
+;
+789980 new <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 116.</ls> <ls>BHĀG. P. 3,20,37.</ls> <ls n="BHĀG. P.">7,2,50. fg.</ls> <ls n="BHĀG. P. 7,">9,55.</ls> <ls n="BHĀG. P. 7,">10,2.</ls> <ls>MĀRK. P. 31,50.</ls> med. <ls>MBH. 3,10071.</ls> <ls>HARIV. 9224.</ls> {#kumAraM bAlakrIqanakEH praloBya#} so v. a. {%des Knaben Aufmerksamkeit ablenkend%}
+;---------------------------------------------------
+; <L>88380<pc>6-0730<k1>vargaSas<k2>vargaSas
+809704 old <ls>BHĀG. P. 4,9,68.</ls> <ls n="BHĀG. P.">12,6,50.</ls>
+;
+809704 new <ls>BHĀG. P. 4,29,68.</ls> <ls n="BHĀG. P.">12,6,50.</ls>
+;---------------------------------------------------
+; <L>89199<pc>6-0859<k1>vah<k2>vah<h>1
+823086 old <ls n="BHĀG. P.">4,10,36.</ls> {#udvahizyAmi tAMste 'haM kAmAn#}
+;
+823086 new <ls n="BHĀG. P.">4,10,16.</ls> {#udvahizyAmi tAMste 'haM kAmAn#}
+;---------------------------------------------------
+; <L>90860<pc>6-0989<k1>vikArin<k2>vikArin
+838368 old <ls n="MBH. 12,">5986.</ls> <ls>PAT.</ls> in <ls>MAHĀBH. S. 104.</ls> <ls>MĀRK. P. 23,40.</ls> <ls>BHĀG. P. 2,29,20.</ls> <ls n="BHĀG. P. 2,">7,2.</ls> {#kaNkamuKaM praDAnaM sTAnezu sarvezvavikAri#} {%ohne Aenderung aller Orten brauchbar%}
+;
+838368 new <ls n="MBH. 12,">5986.</ls> <ls>PAT.</ls> in <ls>MAHĀBH. S. 104.</ls> <ls>MĀRK. P. 23,40.</ls> <ls>BHĀG. P. 3,29,20.</ls> <ls n="BHĀG. P. 3,">7,2.</ls> {#kaNkamuKaM praDAnaM sTAnezu sarvezvavikAri#} {%ohne Aenderung aller Orten brauchbar%}
+;---------------------------------------------------
+; <L>92108<pc>6-1095<k1>vinoda<k2>vinoda
+850753 old <ls>BHĀG. P. 5,24,8.</ls> <ls n="BHĀG. P.">6,29,41.</ls> <ls>Verz. d. Oxf. H. 199,a,17.</ls>
+;
+850753 new <ls>BHĀG. P. 5,24,8.</ls> <ls n="BHĀG. P.">6,9,41.</ls> <ls>Verz. d. Oxf. H. 199,a,17.</ls>
+;---------------------------------------------------
+; <L>101574<pc>7-0349<k1>Sri<k2>Sri<h>1
+943809 old <div n="1">— 2) {%hoch%}
+;
+943809 new <div n="1">— 2) {%hoch%}cd
+;---------------------------------------------------
+; <L>101574<pc>7-0349<k1>Sri<k2>Sri<h>1
+943815 old <ls n="BHĀG. P. 8,">30,44.</ls> <ls>PAÑCAR. 1,7,13</ls> (zu lesen {#yojanAyutam)#}.{# ekANgulocCrita#}
+;
+943815 new <ls n="BHĀG. P.">4,30,44.</ls> <ls>PAÑCAR. 1,7,13</ls> (zu lesen {#yojanAyutam)#}.{# ekANgulocCrita#}
+;---------------------------------------------------
+; <L>106039<pc>7-0737<k1>saMparAya<k2>saMparAya
+988455 old <ls>BHĀG. P. 4,5,38.</ls>
+;
+988455 new <ls>BHĀG. P. 4,25,38.</ls>
+;---------------------------------------------------
+; <L>106569<pc>7-0791<k1>sarj<k2>sarj<h>3
+995565 old <ls>BHĀG. P. 4,31,32.</ls>
+;
+995565 new <ls>BHĀG. P. 4,11,32.</ls>
+;---------------------------------------------------
+; <L>114961<pc>7-1427<k1>svana<k2>svana/
+1074718 old <ls n="R. GORR.">2,73,21.</ls> <ls n="R. GORR.">5,83,5.</ls> <ls n="R. GORR.">7,8,10.</ls> <ls>SUŚR. 1,22,17. 107,9.</ls> <ls>RAGH. 1,39. 12,39. 19,13.</ls> <ls>VIKR. 60,12.</ls> <ls>VARĀH. BṚH. S. 12,6. 24,1. 19. 33,4. 5. 23. 46,23. 47,10. 56,6. 69,24. 74,18. 88,21. 31. 47.</ls> <ls>KATHĀS. 56,391.</ls> <ls>MĀRK. P. 8,155.</ls> <ls>BHĀG. P. 2,23,39.</ls> <ls n="BHĀG. P.">6,8,32.</ls> {#mahAsvana#}
+;
+1074718 new <ls n="R. GORR.">2,73,21.</ls> <ls n="R. GORR.">5,83,5.</ls> <ls n="R. GORR.">7,8,10.</ls> <ls>SUŚR. 1,22,17. 107,9.</ls> <ls>RAGH. 1,39. 12,39. 19,13.</ls> <ls>VIKR. 60,12.</ls> <ls>VARĀH. BṚH. S. 12,6. 24,1. 19. 33,4. 5. 23. 46,23. 47,10. 56,6. 69,24. 74,18. 88,21. 31. 47.</ls> <ls>KATHĀS. 56,391.</ls> <ls>MĀRK. P. 8,155.</ls> <ls>BHĀG. P. 3,23,39.</ls> <ls n="BHĀG. P.">6,8,32.</ls> {#mahAsvana#}
+;---------------------------------------------------
+; <L>117491<pc>7-1652<k1>hetutva<k2>hetutva
+1101720 old <ls>KAṆ. 1,2,4.</ls> <ls>YOGAS. 2,14.</ls> <ls>MĀRK. P. 119,14.</ls> <ls>BHĀG. P. 3,18,36.</ls> <ls>SĀH. D. 37.</ls> <ls>SARVADARŚANAS. 18,17. 36,9.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,75.</ls> <ls>BHĀṢĀP. 146. fg.</ls> <ls>KUSUM. 18,22.</ls>
+;
+1101720 new <ls>KAṆ. 1,2,4.</ls> <ls>YOGAS. 2,14.</ls> <ls>MĀRK. P. 119,14.</ls> <ls>BHĀG. P. 3,28,36.</ls> <ls>SĀH. D. 37.</ls> <ls>SARVADARŚANAS. 18,17. 36,9.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,75.</ls> <ls>BHĀṢĀP. 146. fg.</ls> <ls>KUSUM. 18,22.</ls>
+;---------------------------------------------------

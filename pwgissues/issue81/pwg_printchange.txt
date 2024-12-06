@@ -1,0 +1,26 @@
+print changes to install in csl-corrections
+
+from readme_check_bur.txt
+
+37862	nart	371694	<ls>BHĀG. P. 5,9,29.</ls>  print change 5,9,19
+106193	saMbanDa	989918	<ls n="BHĀG. P.">7,1,84.</ls> print change 7,1,34
+106569	sarj	994699	<ls>BHĀG. P. 2,20,11.</ls>  print change 2,10,11 
+109440	siD	1020759	<ls n="BHĀG. P. 8,">21,45.</ls> print change 21,15
+
+from readme_check_bur---.Unsolved.Problems.txt
+
+26081	Cad	251030	<ls>BHĀG. P. 7,16,7.</ls>  7,16 not found	AB: it is at 9,16,7   print change
+29867	tIrTa	292483	<ls n="BHĀG. P. 3,">24,58.</ls>  58 not found	AB: it is at 4,24,58  print change
+33916	duz	331741	<ls>BHĀG. P. 1,33,22.</ls>  1,33 not found	AB: it is at 1,13,22  print change
+36484	DA	354945	<ls>BHĀG. P. 1,29,70.</ls>   1,29 not found	AB: it is at 4,29,70  print change
+57252	man	560085	<ls>BHĀG. P. 3,24,56.</ls>  56 not found	AB: it is at 4,24,56  print change
+86526	luB	789980	<ls>BHĀG. P. 3,30,37.</ls>  37 not found	AB: it is at 3,20,37  print change
+88380	vargaSas	809704	<ls>BHĀG. P. 4,9,68.</ls>  68 not found	AB: it is at 4,29,68  print change
+89199	vah	823086	<ls n="BHĀG. P.">4,10,36.</ls>  36 not found	AB: it is at 4,10,16  print change
+90860	vikArin	838368	<ls>BHĀG. P. 2,29,20.</ls>  2,29 not found.	AB: it is at 3,29,20  print change
+92108	vinoda	850753	<ls n="BHĀG. P.">6,29,41.</ls>  6,29 not found	AB: it is at 6,9,41   print change
+101574	Sri	943815	<ls n="BHĀG. P. 8,">30,44.</ls> 8,30 not found	AB: it is at 4,30,44  print change
+106039	saMparAya	988455	<ls>BHĀG. P. 4,5,38.</ls> 38 not found	AB: it is at 4,25,38  print change
+106569	sarj	995565	<ls>BHĀG. P. 4,31,32.</ls>  32 not found	AB: it is at 4,11,32  print change ?
+114961	svana	1074718	<ls>BHĀG. P. 2,23,39.</ls>  2,23 not found	AB: it is at 3,23,39  print change
+117491	hetutva	1101720	<ls>BHĀG. P. 3,18,36.</ls>  36 not found	AB: it is at 3,28,36  print change

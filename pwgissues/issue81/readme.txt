@@ -282,7 +282,7 @@ python summary.py 1 temp_pwg_2.txt bhagp_standard_2.txt bhagp_nonstandard_2.txt
 python summary.py 2 temp_pwg_2.txt bhagp_verse_2.txt
 
 --------------------------------------------
-Installation
+Installation version 2
 --------------------------------------------
 # local installation
 sh redo_pwg.sh 2
@@ -300,3 +300,95 @@ git push
 
 -----------------------------------
 sync this PWG repo to github.
+============================================================
+12-06-2024
+Andhrabharati found solutions for unsolved problems of readme_check_bur.txt.
+AB's file: readme_check_bur---.Unsolved.Problems.txt
+
+cp temp_pwg_2.txt temp_pwg_3.txt
+Manual edit temp_pwg_3.txt
+
+Process version 3
+
+sh redo_pwg.sh  3
+
+python link_prelim2.py temp_pwg_3.txt temp_prelim2_3.txt
+19052 <ls>BHĀG. P..*?</ls>
+11510 <ls n="BHĀG. P..*?</ls>
+30562 Total
+
+python link_expand.py temp_prelim2_3.txt temp_link_expand_3.txt temp_link_change_3_todo.txt
+30562 ALL
+30459 STANDARD
+00103 CANTDO
+103 lines written to temp_link_change_3_todo.txt
+
+python check_bur.py temp_prelim2_3.txt Burnouf.BhP.index.txt temp_check_bur.txt
+0 links incompatible with index
+
+-----------------------------
+change file
+python diff_to_changes_dict.py temp_pwg_2.txt temp_pwg_3.txt change_3.txt
+19 changes written to change_3.txt
+
+-----------------------------
+pwg_printchange.txt  gathers the print changes
+from readme_check_bur.txt and readme_check_bur---.Unsolved.Problems.txt
+
+Add these to
+ /c/xampp/htdocs/cologne/csl-corrections/dictionaries/pwg/pwg_printchange.txt
+
+----------------------------
+prepare summaries for version 3
+
+# summary by book order
+python summary.py 1 temp_pwg_3.txt bhagp_standard_3.txt bhagp_nonstandard_3.txt
+30459 cases written to bhagp_standard_3.txt
+103 cases written to bhagp_nonstandard_3.txt
+
+# summary by skandha, adhyaya, verse  # only standard
+python summary.py 2 temp_pwg_3.txt bhagp_verse_3.txt
+30562 instances of ls
+10493 cases written to bhagp_verse_3.txt
+
+
+----------------------------
+ready to install
+--------------------------------------------
+Installation version 3
+--------------------------------------------
+# local installation
+sh redo_pwg.sh 3
+
+-----------------------------------
+sync csl-orig to Github
+(using temp_pwg_3.txt)
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add . # pwg.txt
+git commit -m "PWG: standardization of links for 'Bhāg. P.', version 3
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/81"
+# 19 insertions(+), 19 deletions(-)
+git push
+
+-----------------------------------
+sync csl-corrections to Github
+cd /c/xampp/htdocs/cologne/csl-corrections/
+git add . # dictionaries/pwg/pwg_printchange.txt
+git commit -m "PWG: print changes
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/81"
+
+git push
+
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo
+2. csl-pywork/v02  pwg  make displays
+3. csl-corrections
+
+-----------------------------------
+sync this PWG repo to github.
+
+-----------------------------------
+
+
