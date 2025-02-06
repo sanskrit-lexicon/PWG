@@ -11,4 +11,4 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue77 Remove gratuitous spaces in ls
 * issue78 Transcoding vowel-marker characters
 * issue81 BHĀGAVATAPURĀṆA link target
-
+* issue87 Indische Sprüche 1st ed. link target
