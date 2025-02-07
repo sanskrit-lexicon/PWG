@@ -16,7 +16,7 @@ def roman_to_int(roman):
   return None
  
 # global parameters
-parm_regex_split = r'[ ]+'
+parm_regex_split = '\t' #    r'[ ]+'
 parm_numcols = 5
 parm_numparm = 1  
 parm_vol = r'^(I|II|III)$'
@@ -24,11 +24,11 @@ parm_page = r'^([0-9]+)$'
 parm_fromv = r'^([0-9]+)([b])?$'
 parm_tov = r'^([0-9]+)([a])?$'
 parm_ipage = r'^([0-9]+)$'
+parm_vpstr_format = '%d%03d'
 
 # scanned image file name prefix 2 parameters
 # first parameter = volume (as int -- 1,2,3)
 # second parameter = page  (as 3-digit 0-filled integer 001, etc.
-parm_vpstr_format = '%d%03d'
 # number of paramenters in a verse reference
 class Pagerec(object):
  """
@@ -43,9 +43,9 @@ ipage is an 'internal page number'  Not used by this app
   self.line = line
   self.iline = iline
   parts = re.split(parm_regex_split,line)
-  assert len(parts) == parm_numcols
+  #assert len(parts) == parm_numcols
   self.status = True  # assume a is well
-  self.status_reason = 'All is ok'
+  self.status_message = 'All is ok'
   if len(parts) != parm_numcols:
    self.status = False
    self.message = 'Expected %s values. Found %s value' %(parm_numcols,len(parts))
