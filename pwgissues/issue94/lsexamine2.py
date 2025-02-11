@@ -102,16 +102,22 @@ def write_tips(fileout,tips0):
     f.write(out+'\n')
  print("write_tips Output in ",fileout)
 
-def analyze2_helper(parm):
+def analyze2_helper(parm,lstext):
  nparm_other = 5
+ dbg = (lstext == '<ls>Spr. 109, v. l.</ls>')
+ if dbg: print('parm="%s"' % parm)
  if parm == '':
   return 0 # no parameters
  parm1 = parm.lstrip()
  parm1a = re.sub(r'\. fgg?\.$','',parm1)
- parm1b = re.sub(r'\[.,] v\. l\.$','',parm1a)
+ parm1b = re.sub(r'[.,] v\. l\.$','',parm1a)
+ if dbg:
+  print('parm1="%s"' % parm1)
+  print('parm1a="%s"' % parm1a)
+  print('parm1b="%s"' % parm1b)
  if '. ' in parm1b:
   return nparm_other
- parm2 = re.sub(r'[.].*$','',parm1a)
+ parm2 = re.sub(r'[.].*$','',parm1b)
  m = re.search(r'^[0-9,]+$',parm2)
  if m == None:
   return nparm_other
@@ -122,8 +128,9 @@ def analyze2_helper(parm):
  return nparm
 
 def analyze2(tip):
- for eltparm in tip.eltparms:
-  nparm = analyze2_helper(eltparm)
+ for i,eltparm in enumerate(tip.eltparms):
+  lstext = tip.lstexts[i]
+  nparm = analyze2_helper(eltparm,lstext)
   tip.nparms.append(nparm)
   
 def tipformat(tip):

@@ -1,7 +1,7 @@
 * 67170	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-** !(66604) MBH. with 2 numeric parameters 
+** !(66629) MBH. with 2 numeric parameters 
 ** (454) MBH. with 0 numeric parameters 
-** (96) MBH. with OTHER parameters 
+** (71) MBH. with OTHER parameters 
 ** (13) MBH. with 1 numeric parameters 
 ** (3) MBH. with 3 numeric parameters 
 ** (0) MBH. with 4 numeric parameters 
@@ -27,9 +27,9 @@
 ** (2) BHĀG. P. with 1 numeric parameters 
 ** (0) BHĀG. P. with 4 numeric parameters 
 * 25302	P.	PĀṆINI'S acht Bücher grammatischer Regel
-** !(25044) P. with 3 numeric parameters 
+** !(25060) P. with 3 numeric parameters 
 ** (211) P. with 0 numeric parameters 
-** (47) P. with OTHER parameters 
+** (31) P. with OTHER parameters 
 ** (0) P. with 1 numeric parameters 
 ** (0) P. with 2 numeric parameters 
 ** (0) P. with 4 numeric parameters 
@@ -62,29 +62,29 @@
 ** (6) AV. with OTHER parameters 
 ** (1) AV. with 1 numeric parameters 
 * 16153	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
-** !(9438) AK. with 4 numeric parameters 
-** (5358) AK. with 3 numeric parameters 
+** !(9471) AK. with 4 numeric parameters 
+** (5378) AK. with 3 numeric parameters 
 ** (1137) AK. with 0 numeric parameters 
-** (184) AK. with OTHER parameters 
+** (131) AK. with OTHER parameters 
 ** (20) AK. with 1 numeric parameters 
 ** (16) AK. with 2 numeric parameters 
 * 16150	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
-** !(15262) H. with 1 numeric parameters 
-** (778) H. with OTHER parameters 
+** !(15429) H. with 1 numeric parameters 
+** (611) H. with OTHER parameters 
 ** (99) H. with 0 numeric parameters 
 ** (11) H. with 2 numeric parameters 
 ** (0) H. with 3 numeric parameters 
 ** (0) H. with 4 numeric parameters 
 * 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
-** !(15414) HARIV. with 1 numeric parameters 
+** !(15425) HARIV. with 1 numeric parameters 
 ** (253) HARIV. with 0 numeric parameters 
-** (35) HARIV. with OTHER parameters 
+** (24) HARIV. with OTHER parameters 
 ** (1) HARIV. with 2 numeric parameters 
 ** (0) HARIV. with 3 numeric parameters 
 ** (0) HARIV. with 4 numeric parameters 
 * 15436	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
-** !(12275) ŚAT. BR. with 4 numeric parameters 
-** (2834) ŚAT. BR. with OTHER parameters 
+** !(12276) ŚAT. BR. with 4 numeric parameters 
+** (2833) ŚAT. BR. with OTHER parameters 
 ** (148) ŚAT. BR. with 3 numeric parameters 
 ** (107) ŚAT. BR. with 0 numeric parameters 
 ** (37) ŚAT. BR. with 1 numeric parameters 
@@ -104,16 +104,16 @@
 ** (1) MED. with 4 numeric parameters 
 ** (0) MED. with 3 numeric parameters 
 * 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
-** !(7939) SUŚR. with 3 numeric parameters 
-** (3607) SUŚR. with OTHER parameters 
+** !(7940) SUŚR. with 3 numeric parameters 
+** (3606) SUŚR. with OTHER parameters 
 ** (810) SUŚR. with 2 numeric parameters 
 ** (61) SUŚR. with 1 numeric parameters 
 ** (27) SUŚR. with 0 numeric parameters 
 ** (2) SUŚR. with 4 numeric parameters 
 * 10509	Spr.	Indische Sprüche. Sanskrit und deutsch h
-** !(8644) Spr. with 1 numeric parameters 
-** (1788) Spr. with OTHER parameters 
-** (47) Spr. with 2 numeric parameters 
+** !(8953) Spr. with 1 numeric parameters 
+** (1478) Spr. with OTHER parameters 
+** (48) Spr. with 2 numeric parameters 
 ** (30) Spr. with 0 numeric parameters 
 ** (0) Spr. with 3 numeric parameters 
 ** (0) Spr. with 4 numeric parameters 
@@ -125,36 +125,36 @@
 ** (1) H. an. with 3 numeric parameters 
 ** (0) H. an. with 4 numeric parameters 
 * 09176	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-** !(6109) VARĀH. BṚH. S. with 2 numeric parameters 
-** (2834) VARĀH. BṚH. S. with OTHER parameters 
+** !(6147) VARĀH. BṚH. S. with 2 numeric parameters 
+** (2796) VARĀH. BṚH. S. with OTHER parameters 
 ** (174) VARĀH. BṚH. S. with 1 numeric parameters 
 ** (57) VARĀH. BṚH. S. with 0 numeric parameters 
 ** (2) VARĀH. BṚH. S. with 3 numeric parameters 
 ** (0) VARĀH. BṚH. S. with 4 numeric parameters 
 * 08752	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
-** !(8096) RAGH. with 2 numeric parameters 
-** (586) RAGH. with OTHER parameters 
+** !(8105) RAGH. with 2 numeric parameters 
+** (577) RAGH. with OTHER parameters 
 ** (57) RAGH. with 1 numeric parameters 
 ** (10) RAGH. with 0 numeric parameters 
 ** (3) RAGH. with 3 numeric parameters 
 ** (0) RAGH. with 4 numeric parameters 
 * 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
-** !(6873) TRIK. with 3 numeric parameters 
+** !(6874) TRIK. with 3 numeric parameters 
 ** (1102) TRIK. with 0 numeric parameters 
-** (425) TRIK. with OTHER parameters 
+** (424) TRIK. with OTHER parameters 
 ** (15) TRIK. with 1 numeric parameters 
 ** (7) TRIK. with 2 numeric parameters 
 ** (7) TRIK. with 4 numeric parameters 
 * 08244	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
-** !(7732) Spr. (II) with 1 numeric parameters 
-** (508) Spr. (II) with OTHER parameters 
+** !(8080) Spr. (II) with 1 numeric parameters 
+** (160) Spr. (II) with OTHER parameters 
 ** (3) Spr. (II) with 2 numeric parameters 
 ** (1) Spr. (II) with 3 numeric parameters 
 ** (0) Spr. (II) with 0 numeric parameters 
 ** (0) Spr. (II) with 4 numeric parameters 
 * 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
-** !(5628) PAÑCAT. with 2 numeric parameters 
-** (2482) PAÑCAT. with OTHER parameters 
+** !(5636) PAÑCAT. with 2 numeric parameters 
+** (2474) PAÑCAT. with OTHER parameters 
 ** (36) PAÑCAT. with 0 numeric parameters 
 ** (24) PAÑCAT. with 1 numeric parameters 
 ** (5) PAÑCAT. with 3 numeric parameters 
@@ -182,15 +182,15 @@
 ** (4) Sch. with OTHER parameters 
 * 06783	RĀJAN.	RĀJANIRGHAṆṬA, ein medicinisches Wörterb
 ** !(5904) RĀJAN. with 0 numeric parameters 
-** (848) RĀJAN. with 2 numeric parameters 
+** (849) RĀJAN. with 2 numeric parameters 
 ** (18) RĀJAN. with 1 numeric parameters 
-** (13) RĀJAN. with OTHER parameters 
+** (12) RĀJAN. with OTHER parameters 
 ** (0) RĀJAN. with 3 numeric parameters 
 ** (0) RĀJAN. with 4 numeric parameters 
 * 06734	KĀTY. ŚR.	KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 Adhyāya. H
-** !(5353) KĀTY. ŚR. with 3 numeric parameters 
-** (1034) KĀTY. ŚR. with OTHER parameters 
-** (305) KĀTY. ŚR. with 2 numeric parameters 
+** !(5361) KĀTY. ŚR. with 3 numeric parameters 
+** (1025) KĀTY. ŚR. with OTHER parameters 
+** (306) KĀTY. ŚR. with 2 numeric parameters 
 ** (26) KĀTY. ŚR. with 1 numeric parameters 
 ** (14) KĀTY. ŚR. with 0 numeric parameters 
 ** (2) KĀTY. ŚR. with 4 numeric parameters 
@@ -202,16 +202,16 @@
 ** (5) Ind. St. with 0 numeric parameters 
 ** (0) Ind. St. with 4 numeric parameters 
 * 06080	VS.	VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHI
-** !(5375) VS. with 2 numeric parameters 
-** (559) VS. with OTHER parameters 
+** !(5376) VS. with 2 numeric parameters 
+** (558) VS. with OTHER parameters 
 ** (89) VS. with 0 numeric parameters 
 ** (35) VS. with 3 numeric parameters 
 ** (19) VS. with 1 numeric parameters 
 ** (3) VS. with 4 numeric parameters 
 * 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
-** !(2242) ŚĀK. with 2 numeric parameters 
-** (2212) ŚĀK. with 1 numeric parameters 
-** (1032) ŚĀK. with OTHER parameters 
+** !(2467) ŚĀK. with 1 numeric parameters 
+** (2442) ŚĀK. with 2 numeric parameters 
+** (577) ŚĀK. with OTHER parameters 
 ** (13) ŚĀK. with 0 numeric parameters 
 ** (1) ŚĀK. with 3 numeric parameters 
 ** (0) ŚĀK. with 4 numeric parameters 
@@ -223,29 +223,29 @@
 ** (2) MĀRK. P. with 3 numeric parameters 
 ** (0) MĀRK. P. with 4 numeric parameters 
 * 05388	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
-** !(4513) TS. with 4 numeric parameters 
-** (632) TS. with OTHER parameters 
+** !(4514) TS. with 4 numeric parameters 
+** (631) TS. with OTHER parameters 
 ** (111) TS. with 0 numeric parameters 
 ** (79) TS. with 3 numeric parameters 
 ** (42) TS. with 2 numeric parameters 
 ** (11) TS. with 1 numeric parameters 
 * 05159	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
-** !(4479) HALĀY. with 2 numeric parameters 
+** !(4492) HALĀY. with 2 numeric parameters 
 ** (346) HALĀY. with 0 numeric parameters 
-** (302) HALĀY. with OTHER parameters 
+** (289) HALĀY. with OTHER parameters 
 ** (28) HALĀY. with 1 numeric parameters 
 ** (3) HALĀY. with 3 numeric parameters 
 ** (1) HALĀY. with 4 numeric parameters 
 * 05149	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-** !(4046) VOP. with 2 numeric parameters 
-** (758) VOP. with OTHER parameters 
+** !(4074) VOP. with 2 numeric parameters 
+** (730) VOP. with OTHER parameters 
 ** (288) VOP. with 0 numeric parameters 
 ** (41) VOP. with 1 numeric parameters 
 ** (16) VOP. with 3 numeric parameters 
 ** (0) VOP. with 4 numeric parameters 
 * 04547	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
-** !(4052) AIT. BR. with 2 numeric parameters 
-** (416) AIT. BR. with OTHER parameters 
+** !(4054) AIT. BR. with 2 numeric parameters 
+** (414) AIT. BR. with OTHER parameters 
 ** (38) AIT. BR. with 1 numeric parameters 
 ** (33) AIT. BR. with 0 numeric parameters 
 ** (8) AIT. BR. with 3 numeric parameters 
@@ -258,36 +258,36 @@
 ** (1) Verz. d. B. H. with 3 numeric parameters 
 ** (0) Verz. d. B. H. with 4 numeric parameters 
 * 03861	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
-** !(2230) SĀH. D. with 2 numeric parameters 
-** (1058) SĀH. D. with 1 numeric parameters 
-** (558) SĀH. D. with OTHER parameters 
+** !(2231) SĀH. D. with 2 numeric parameters 
+** (1059) SĀH. D. with 1 numeric parameters 
+** (556) SĀH. D. with OTHER parameters 
 ** (15) SĀH. D. with 0 numeric parameters 
 ** (0) SĀH. D. with 3 numeric parameters 
 ** (0) SĀH. D. with 4 numeric parameters 
 * 03795	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
-** !(3499) YĀJÑ. with 2 numeric parameters 
-** (223) YĀJÑ. with OTHER parameters 
+** !(3512) YĀJÑ. with 2 numeric parameters 
+** (210) YĀJÑ. with OTHER parameters 
 ** (64) YĀJÑ. with 1 numeric parameters 
 ** (9) YĀJÑ. with 0 numeric parameters 
 ** (0) YĀJÑ. with 3 numeric parameters 
 ** (0) YĀJÑ. with 4 numeric parameters 
 * 03697	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
-** !(2014) VP. with 1 numeric parameters 
-** (786) VP. with OTHER parameters 
+** !(2017) VP. with 1 numeric parameters 
+** (783) VP. with OTHER parameters 
 ** (501) VP. with 2 numeric parameters 
 ** (220) VP. with 3 numeric parameters 
 ** (176) VP. with 0 numeric parameters 
 ** (0) VP. with 4 numeric parameters 
 * 03446	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
-** !(2190) N. with 2 numeric parameters 
-** (775) N. with 1 numeric parameters 
-** (246) N. with OTHER parameters 
+** !(2191) N. with 2 numeric parameters 
+** (776) N. with 1 numeric parameters 
+** (244) N. with OTHER parameters 
 ** (233) N. with 0 numeric parameters 
 ** (2) N. with 3 numeric parameters 
 ** (0) N. with 4 numeric parameters 
 * 03364	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
-** !(1959) HIT. with 2 numeric parameters 
-** (1381) HIT. with OTHER parameters 
+** !(2063) HIT. with 2 numeric parameters 
+** (1277) HIT. with OTHER parameters 
 ** (15) HIT. with 0 numeric parameters 
 ** (8) HIT. with 1 numeric parameters 
 ** (1) HIT. with 3 numeric parameters 
@@ -300,8 +300,8 @@
 ** (1) GORR. with 1 numeric parameters 
 ** (0) GORR. with 4 numeric parameters 
 * 03166	NIR.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVA'S h
-** !(2679) NIR. with 2 numeric parameters 
-** (451) NIR. with OTHER parameters 
+** !(2682) NIR. with 2 numeric parameters 
+** (448) NIR. with OTHER parameters 
 ** (17) NIR. with 0 numeric parameters 
 ** (10) NIR. with 1 numeric parameters 
 ** (8) NIR. with 3 numeric parameters 
@@ -342,8 +342,8 @@
 ** (1) ed. Bomb. with OTHER parameters 
 ** (0) ed. Bomb. with 4 numeric parameters 
 * 02659	PRAB.	PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.
-** !(2480) PRAB. with 2 numeric parameters 
-** (170) PRAB. with OTHER parameters 
+** !(2508) PRAB. with 2 numeric parameters 
+** (142) PRAB. with OTHER parameters 
 ** (5) PRAB. with 0 numeric parameters 
 ** (4) PRAB. with 1 numeric parameters 
 ** (0) PRAB. with 3 numeric parameters 
@@ -356,8 +356,8 @@
 ** (0) SARVADARŚANAS. with 3 numeric parameters 
 ** (0) SARVADARŚANAS. with 4 numeric parameters 
 * 02561	BHAṬṬ.	BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137)
-** !(2284) BHAṬṬ. with 2 numeric parameters 
-** (213) BHAṬṬ. with OTHER parameters 
+** !(2299) BHAṬṬ. with 2 numeric parameters 
+** (198) BHAṬṬ. with OTHER parameters 
 ** (50) BHAṬṬ. with 1 numeric parameters 
 ** (12) BHAṬṬ. with 0 numeric parameters 
 ** (2) BHAṬṬ. with 3 numeric parameters 
@@ -384,15 +384,15 @@
 ** (0) COLEBR. Misc. Ess. with 0 numeric parameters 
 ** (0) COLEBR. Misc. Ess. with 4 numeric parameters 
 * 02277	BHAG.	BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. 
-** !(1987) BHAG. with 2 numeric parameters 
-** (264) BHAG. with OTHER parameters 
+** !(1993) BHAG. with 2 numeric parameters 
+** (258) BHAG. with OTHER parameters 
 ** (19) BHAG. with 1 numeric parameters 
 ** (6) BHAG. with 0 numeric parameters 
 ** (1) BHAG. with 3 numeric parameters 
 ** (0) BHAG. with 4 numeric parameters 
 * 02221	PAÑCAR.	PAÑCARATNA ? 
-** !(1801) PAÑCAR. with 3 numeric parameters 
-** (360) PAÑCAR. with OTHER parameters 
+** !(1810) PAÑCAR. with 3 numeric parameters 
+** (351) PAÑCAR. with OTHER parameters 
 ** (40) PAÑCAR. with 2 numeric parameters 
 ** (16) PAÑCAR. with 1 numeric parameters 
 ** (4) PAÑCAR. with 0 numeric parameters 
@@ -412,15 +412,15 @@
 ** (0) HALL with 3 numeric parameters 
 ** (0) HALL with 4 numeric parameters 
 * 02021	KĀM. NĪTIS.	? 
-** !(1739) KĀM. NĪTIS. with 2 numeric parameters 
-** (236) KĀM. NĪTIS. with OTHER parameters 
+** !(1743) KĀM. NĪTIS. with 2 numeric parameters 
+** (232) KĀM. NĪTIS. with OTHER parameters 
 ** (34) KĀM. NĪTIS. with 1 numeric parameters 
 ** (12) KĀM. NĪTIS. with 0 numeric parameters 
 ** (0) KĀM. NĪTIS. with 3 numeric parameters 
 ** (0) KĀM. NĪTIS. with 4 numeric parameters 
 * 02020	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
-** !(1746) MEGH. with 1 numeric parameters 
-** (270) MEGH. with OTHER parameters 
+** !(1791) MEGH. with 1 numeric parameters 
+** (225) MEGH. with OTHER parameters 
 ** (3) MEGH. with 2 numeric parameters 
 ** (1) MEGH. with 0 numeric parameters 
 ** (0) MEGH. with 3 numeric parameters 
@@ -433,30 +433,30 @@
 ** (0) WILS. with 3 numeric parameters 
 ** (0) WILS. with 4 numeric parameters 
 * 02018	UṆĀDIS.	?  
-** !(1909) UṆĀDIS. with 2 numeric parameters 
-** (79) UṆĀDIS. with OTHER parameters 
+** !(1910) UṆĀDIS. with 2 numeric parameters 
+** (78) UṆĀDIS. with OTHER parameters 
 ** (27) UṆĀDIS. with 0 numeric parameters 
 ** (3) UṆĀDIS. with 1 numeric parameters 
 ** (0) UṆĀDIS. with 3 numeric parameters 
 ** (0) UṆĀDIS. with 4 numeric parameters 
 * 01866	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
-** !(1777) HĀR. with 1 numeric parameters 
+** !(1778) HĀR. with 1 numeric parameters 
 ** (77) HĀR. with 0 numeric parameters 
-** (10) HĀR. with OTHER parameters 
+** (9) HĀR. with OTHER parameters 
 ** (2) HĀR. with 2 numeric parameters 
 ** (0) HĀR. with 3 numeric parameters 
 ** (0) HĀR. with 4 numeric parameters 
 * 01847	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
-** !(1316) LĀṬY. with 3 numeric parameters 
-** (473) LĀṬY. with OTHER parameters 
+** !(1317) LĀṬY. with 3 numeric parameters 
+** (472) LĀṬY. with OTHER parameters 
 ** (30) LĀṬY. with 2 numeric parameters 
 ** (19) LĀṬY. with 0 numeric parameters 
 ** (8) LĀṬY. with 1 numeric parameters 
 ** (1) LĀṬY. with 4 numeric parameters 
 * 01843	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
-** !(1017) DAŚAK. with 2 numeric parameters 
+** !(1018) DAŚAK. with 2 numeric parameters 
 ** (741) DAŚAK. with 0 numeric parameters 
-** (62) DAŚAK. with OTHER parameters 
+** (61) DAŚAK. with OTHER parameters 
 ** (23) DAŚAK. with 1 numeric parameters 
 ** (0) DAŚAK. with 3 numeric parameters 
 ** (0) DAŚAK. with 4 numeric parameters 
@@ -475,8 +475,8 @@
 ** (0) an. with 3 numeric parameters 
 ** (0) an. with 4 numeric parameters 
 * 01788	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
-** !(1605) MṚCCH. with 2 numeric parameters 
-** (172) MṚCCH. with OTHER parameters 
+** !(1611) MṚCCH. with 2 numeric parameters 
+** (166) MṚCCH. with OTHER parameters 
 ** (8) MṚCCH. with 1 numeric parameters 
 ** (3) MṚCCH. with 0 numeric parameters 
 ** (0) MṚCCH. with 3 numeric parameters 
@@ -510,9 +510,9 @@
 ** (0) VYUTP. with 3 numeric parameters 
 ** (0) VYUTP. with 4 numeric parameters 
 * 01561	VIKR.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl.
-** !(857) VIKR. with 1 numeric parameters 
-** (611) VIKR. with 2 numeric parameters 
-** (92) VIKR. with OTHER parameters 
+** !(862) VIKR. with 1 numeric parameters 
+** (616) VIKR. with 2 numeric parameters 
+** (82) VIKR. with OTHER parameters 
 ** (1) VIKR. with 0 numeric parameters 
 ** (0) VIKR. with 3 numeric parameters 
 ** (0) VIKR. with 4 numeric parameters 
@@ -545,8 +545,8 @@
 ** (0) ŚABDAC. with 4 numeric parameters 
 ** (0) ŚABDAC. with OTHER parameters 
 * 01418	NAIGH.	das, YĀSKA'S NIRUKTA zu Grunde liegende 
-** !(1328) NAIGH. with 2 numeric parameters 
-** (60) NAIGH. with OTHER parameters 
+** !(1342) NAIGH. with 2 numeric parameters 
+** (46) NAIGH. with OTHER parameters 
 ** (14) NAIGH. with 0 numeric parameters 
 ** (11) NAIGH. with 1 numeric parameters 
 ** (5) NAIGH. with 3 numeric parameters 
@@ -580,15 +580,15 @@
 ** (0) H. ś. with 3 numeric parameters 
 ** (0) H. ś. with 4 numeric parameters 
 * 01300	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 14
-** !(1234) ŚIŚ. with 2 numeric parameters 
-** (47) ŚIŚ. with OTHER parameters 
+** !(1235) ŚIŚ. with 2 numeric parameters 
+** (46) ŚIŚ. with OTHER parameters 
 ** (12) ŚIŚ. with 1 numeric parameters 
 ** (5) ŚIŚ. with 0 numeric parameters 
 ** (2) ŚIŚ. with 3 numeric parameters 
 ** (0) ŚIŚ. with 4 numeric parameters 
 * 01291	BHARTṚ.	BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl
-** !(1111) BHARTṚ. with 2 numeric parameters 
-** (153) BHARTṚ. with OTHER parameters 
+** !(1124) BHARTṚ. with 2 numeric parameters 
+** (140) BHARTṚ. with OTHER parameters 
 ** (21) BHARTṚ. with 1 numeric parameters 
 ** (6) BHARTṚ. with 0 numeric parameters 
 ** (0) BHARTṚ. with 3 numeric parameters 
@@ -608,8 +608,8 @@
 ** (0) NĪLAK. with 3 numeric parameters 
 ** (0) NĪLAK. with 4 numeric parameters 
 * 01140	GĪT.	GĪTAGOVINDA, ed. LASSEN (GILD. Bibl. 168
-** !(1025) GĪT. with 2 numeric parameters 
-** (99) GĪT. with OTHER parameters 
+** !(1028) GĪT. with 2 numeric parameters 
+** (96) GĪT. with OTHER parameters 
 ** (12) GĪT. with 1 numeric parameters 
 ** (4) GĪT. with 0 numeric parameters 
 ** (0) GĪT. with 3 numeric parameters 
@@ -629,9 +629,9 @@
 ** (0) VID. with 3 numeric parameters 
 ** (0) VID. with 4 numeric parameters 
 * 01077	MĀLAV.	MĀLAVIKĀGNIMITRA, ed. TULLBERG (GILD. Bi
-** !(528) MĀLAV. with 2 numeric parameters 
-** (462) MĀLAV. with 1 numeric parameters 
-** (86) MĀLAV. with OTHER parameters 
+** !(533) MĀLAV. with 2 numeric parameters 
+** (464) MĀLAV. with 1 numeric parameters 
+** (79) MĀLAV. with OTHER parameters 
 ** (1) MĀLAV. with 0 numeric parameters 
 ** (0) MĀLAV. with 3 numeric parameters 
 ** (0) MĀLAV. with 4 numeric parameters 
@@ -678,8 +678,8 @@
 ** (0) PAT. a. a. O. with 3 numeric parameters 
 ** (0) PAT. a. a. O. with 4 numeric parameters 
 * 00899	SŪRYAS.	SŪRYASIDDHĀNTA, nach Anführungen in HAUG
-** !(524) SŪRYAS. with 2 numeric parameters 
-** (342) SŪRYAS. with OTHER parameters 
+** !(525) SŪRYAS. with 2 numeric parameters 
+** (341) SŪRYAS. with OTHER parameters 
 ** (23) SŪRYAS. with 1 numeric parameters 
 ** (10) SŪRYAS. with 0 numeric parameters 
 ** (0) SŪRYAS. with 3 numeric parameters 
@@ -692,8 +692,8 @@
 ** (0) LIA. with 1 numeric parameters 
 ** (0) LIA. with 4 numeric parameters 
 * 00839	ṚT.	ṚTUSAM̃HĀRA, ed. BOHLEN (GILD. Bibl. 155
-** !(733) ṚT. with 2 numeric parameters 
-** (85) ṚT. with OTHER parameters 
+** !(752) ṚT. with 2 numeric parameters 
+** (66) ṚT. with OTHER parameters 
 ** (20) ṚT. with 1 numeric parameters 
 ** (1) ṚT. with 0 numeric parameters 
 ** (0) ṚT. with 3 numeric parameters 
@@ -762,9 +762,9 @@
 ** (0) ŚĀṄKH. GṚHY. with 1 numeric parameters 
 ** (0) ŚĀṄKH. GṚHY. with 4 numeric parameters 
 * 00766	Uṇ.	Die Uṇādi-Affixe. Herausgegeben und mit 
-** !(672) Uṇ. with 2 numeric parameters 
+** !(673) Uṇ. with 2 numeric parameters 
 ** (79) Uṇ. with 0 numeric parameters 
-** (15) Uṇ. with OTHER parameters 
+** (14) Uṇ. with OTHER parameters 
 ** (0) Uṇ. with 1 numeric parameters 
 ** (0) Uṇ. with 3 numeric parameters 
 ** (0) Uṇ. with 4 numeric parameters 
@@ -776,15 +776,15 @@
 ** (0) KAP. with 0 numeric parameters 
 ** (0) KAP. with 4 numeric parameters 
 * 00747	VET. in LA.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
-** !(605) VET. in LA. with OTHER parameters 
-** (142) VET. in LA. with 2 numeric parameters 
+** !(604) VET. in LA. with OTHER parameters 
+** (143) VET. in LA. with 2 numeric parameters 
 ** (0) VET. in LA. with 0 numeric parameters 
 ** (0) VET. in LA. with 1 numeric parameters 
 ** (0) VET. in LA. with 3 numeric parameters 
 ** (0) VET. in LA. with 4 numeric parameters 
 * 00745	BṚH. ĀR. UP.	BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe v
-** !(588) BṚH. ĀR. UP. with 3 numeric parameters 
-** (124) BṚH. ĀR. UP. with OTHER parameters 
+** !(589) BṚH. ĀR. UP. with 3 numeric parameters 
+** (123) BṚH. ĀR. UP. with OTHER parameters 
 ** (20) BṚH. ĀR. UP. with 2 numeric parameters 
 ** (11) BṚH. ĀR. UP. with 0 numeric parameters 
 ** (2) BṚH. ĀR. UP. with 1 numeric parameters 
@@ -825,8 +825,8 @@
 ** (0) ŚABDĀRTHAK. with 3 numeric parameters 
 ** (0) ŚABDĀRTHAK. with 4 numeric parameters 
 * 00677	VARĀH. BṚH.	VARĀHAMIHIRA'S BṚHAJJĀTAKA. [Pagè-a+ 33]
-** !(419) VARĀH. BṚH. with 2 numeric parameters 
-** (233) VARĀH. BṚH. with OTHER parameters 
+** !(420) VARĀH. BṚH. with 2 numeric parameters 
+** (232) VARĀH. BṚH. with OTHER parameters 
 ** (17) VARĀH. BṚH. with 0 numeric parameters 
 ** (8) VARĀH. BṚH. with 1 numeric parameters 
 ** (0) VARĀH. BṚH. with 3 numeric parameters 
@@ -881,15 +881,15 @@
 ** (0) SĀṂKHYAK. with 3 numeric parameters 
 ** (0) SĀṂKHYAK. with 4 numeric parameters 
 * 00588	TS. PRĀT.	? 
-** !(571) TS. PRĀT. with 2 numeric parameters 
-** (13) TS. PRĀT. with OTHER parameters 
+** !(572) TS. PRĀT. with 2 numeric parameters 
+** (12) TS. PRĀT. with OTHER parameters 
 ** (2) TS. PRĀT. with 1 numeric parameters 
 ** (1) TS. PRĀT. with 0 numeric parameters 
 ** (1) TS. PRĀT. with 3 numeric parameters 
 ** (0) TS. PRĀT. with 4 numeric parameters 
 * 00568	CARAKA	?  
-** !(504) CARAKA with 2 numeric parameters 
-** (43) CARAKA with OTHER parameters 
+** !(505) CARAKA with 2 numeric parameters 
+** (42) CARAKA with OTHER parameters 
 ** (21) CARAKA with 0 numeric parameters 
 ** (0) CARAKA with 1 numeric parameters 
 ** (0) CARAKA with 3 numeric parameters 
@@ -909,15 +909,15 @@
 ** (0) ŚĀRṄG. SAṂH. with 1 numeric parameters 
 ** (0) ŚĀRṄG. SAṂH. with 4 numeric parameters 
 * 00555	ŚVETĀŚV. UP.	ŚVETĀŚVATAROPANIṢAD in der Bibliotheca i
-** !(496) ŚVETĀŚV. UP. with 2 numeric parameters 
-** (54) ŚVETĀŚV. UP. with OTHER parameters 
+** !(498) ŚVETĀŚV. UP. with 2 numeric parameters 
+** (52) ŚVETĀŚV. UP. with OTHER parameters 
 ** (4) ŚVETĀŚV. UP. with 0 numeric parameters 
 ** (1) ŚVETĀŚV. UP. with 3 numeric parameters 
 ** (0) ŚVETĀŚV. UP. with 1 numeric parameters 
 ** (0) ŚVETĀŚV. UP. with 4 numeric parameters 
 * 00544	MĀLATĪM.	?  
-** !(506) MĀLATĪM. with 2 numeric parameters 
-** (32) MĀLATĪM. with OTHER parameters 
+** !(507) MĀLATĪM. with 2 numeric parameters 
+** (31) MĀLATĪM. with OTHER parameters 
 ** (5) MĀLATĪM. with 0 numeric parameters 
 ** (1) MĀLATĪM. with 1 numeric parameters 
 ** (0) MĀLATĪM. with 3 numeric parameters 
@@ -937,8 +937,8 @@
 ** (0) WASSILJEW with 3 numeric parameters 
 ** (0) WASSILJEW with 4 numeric parameters 
 * 00515	MAITRYUP.	?  
-** !(460) MAITRYUP. with 2 numeric parameters 
-** (51) MAITRYUP. with OTHER parameters 
+** !(462) MAITRYUP. with 2 numeric parameters 
+** (49) MAITRYUP. with OTHER parameters 
 ** (3) MAITRYUP. with 0 numeric parameters 
 ** (1) MAITRYUP. with 1 numeric parameters 
 ** (0) MAITRYUP. with 3 numeric parameters 
@@ -951,8 +951,8 @@
 ** (0) ŚATR. with 3 numeric parameters 
 ** (0) ŚATR. with 4 numeric parameters 
 * 00511	AMAR.	AMARUŚATAKA nach der Calc. Ausg. (GILD. 
-** !(481) AMAR. with 1 numeric parameters 
-** (28) AMAR. with OTHER parameters 
+** !(483) AMAR. with 1 numeric parameters 
+** (26) AMAR. with OTHER parameters 
 ** (2) AMAR. with 0 numeric parameters 
 ** (0) AMAR. with 2 numeric parameters 
 ** (0) AMAR. with 3 numeric parameters 
@@ -979,8 +979,8 @@
 ** (0) ARJ. with 3 numeric parameters 
 ** (0) ARJ. with 4 numeric parameters 
 * 00488	KAṬHOP.	KAṬHOPANIṢAD in der Bibliotheca indica.
-** !(468) KAṬHOP. with 2 numeric parameters 
-** (17) KAṬHOP. with OTHER parameters 
+** !(470) KAṬHOP. with 2 numeric parameters 
+** (15) KAṬHOP. with OTHER parameters 
 ** (2) KAṬHOP. with 0 numeric parameters 
 ** (1) KAṬHOP. with 3 numeric parameters 
 ** (0) KAṬHOP. with 1 numeric parameters 
@@ -1091,8 +1091,8 @@
 ** (0) TAITT. ĀR. with 1 numeric parameters 
 ** (0) TAITT. ĀR. with 4 numeric parameters 
 * 00385	NAIṢ.	NAIṢADHACARITA, ed. Calc. (GILD. Bibl. 1
-** !(358) NAIṢ. with 2 numeric parameters 
-** (18) NAIṢ. with OTHER parameters 
+** !(359) NAIṢ. with 2 numeric parameters 
+** (17) NAIṢ. with OTHER parameters 
 ** (9) NAIṢ. with 0 numeric parameters 
 ** (0) NAIṢ. with 1 numeric parameters 
 ** (0) NAIṢ. with 3 numeric parameters 
@@ -1105,8 +1105,8 @@
 ** (1) VĀLAKH. with 4 numeric parameters 
 ** (0) VĀLAKH. with 0 numeric parameters 
 * 00381	KĀVYĀD.	?  
-** !(367) KĀVYĀD. with 2 numeric parameters 
-** (13) KĀVYĀD. with OTHER parameters 
+** !(368) KĀVYĀD. with 2 numeric parameters 
+** (12) KĀVYĀD. with OTHER parameters 
 ** (1) KĀVYĀD. with 0 numeric parameters 
 ** (0) KĀVYĀD. with 1 numeric parameters 
 ** (0) KĀVYĀD. with 3 numeric parameters 
@@ -1119,8 +1119,8 @@
 ** (0) YOGAŚ. with 3 numeric parameters 
 ** (0) YOGAŚ. with 4 numeric parameters 
 * 00370	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
-** !(346) VIŚV. with 2 numeric parameters 
-** (24) VIŚV. with OTHER parameters 
+** !(347) VIŚV. with 2 numeric parameters 
+** (23) VIŚV. with OTHER parameters 
 ** (0) VIŚV. with 0 numeric parameters 
 ** (0) VIŚV. with 1 numeric parameters 
 ** (0) VIŚV. with 3 numeric parameters 
@@ -1239,8 +1239,8 @@
 ** (0) SCHIEFNER, Lebensb. with 4 numeric parameters 
 * 00328	VĀSAVAD.	?  
 ** !(239) VĀSAVAD. with 1 numeric parameters 
-** (54) VĀSAVAD. with OTHER parameters 
-** (31) VĀSAVAD. with 2 numeric parameters 
+** (53) VĀSAVAD. with OTHER parameters 
+** (32) VĀSAVAD. with 2 numeric parameters 
 ** (4) VĀSAVAD. with 0 numeric parameters 
 ** (0) VĀSAVAD. with 3 numeric parameters 
 ** (0) VĀSAVAD. with 4 numeric parameters 
@@ -1266,9 +1266,9 @@
 ** (0) KUSUM. with 3 numeric parameters 
 ** (0) KUSUM. with 4 numeric parameters 
 * 00311	ŚRUT.	ŚRUTABODHA in der Zeitschrift für die Ku
-** !(235) ŚRUT. with 1 numeric parameters 
+** !(240) ŚRUT. with 1 numeric parameters 
 ** (38) ŚRUT. with 0 numeric parameters 
-** (37) ŚRUT. with OTHER parameters 
+** (32) ŚRUT. with OTHER parameters 
 ** (1) ŚRUT. with 2 numeric parameters 
 ** (0) ŚRUT. with 3 numeric parameters 
 ** (0) ŚRUT. with 4 numeric parameters 
@@ -1287,9 +1287,9 @@
 ** (0) TĀRAN. with 3 numeric parameters 
 ** (0) TĀRAN. with 4 numeric parameters 
 * 00304	KAUṢ. UP.	KAUṢĪTAKYUPANIṢAD.
-** !(218) KAUṢ. UP. with 2 numeric parameters 
-** (43) KAUṢ. UP. with OTHER parameters 
+** !(220) KAUṢ. UP. with 2 numeric parameters 
 ** (42) KAUṢ. UP. with 0 numeric parameters 
+** (41) KAUṢ. UP. with OTHER parameters 
 ** (1) KAUṢ. UP. with 1 numeric parameters 
 ** (0) KAUṢ. UP. with 3 numeric parameters 
 ** (0) KAUṢ. UP. with 4 numeric parameters 
@@ -1343,8 +1343,8 @@
 ** (0) UṆĀDIK. with 4 numeric parameters 
 ** (0) UṆĀDIK. with OTHER parameters 
 * 00275	Sp.	? 
-** !(262) Sp. with OTHER parameters 
-** (10) Sp. with 1 numeric parameters 
+** !(261) Sp. with OTHER parameters 
+** (11) Sp. with 1 numeric parameters 
 ** (3) Sp. with 2 numeric parameters 
 ** (0) Sp. with 0 numeric parameters 
 ** (0) Sp. with 3 numeric parameters 
@@ -1385,8 +1385,8 @@
 ** (0) UTTARARĀMAC. with 3 numeric parameters 
 ** (0) UTTARARĀMAC. with 4 numeric parameters 
 * 00258	Spr. (I)	Indische Sprüche. Sanskrit und deutsch h
-** !(191) Spr. (I) with 1 numeric parameters 
-** (67) Spr. (I) with OTHER parameters 
+** !(196) Spr. (I) with 1 numeric parameters 
+** (62) Spr. (I) with OTHER parameters 
 ** (0) Spr. (I) with 0 numeric parameters 
 ** (0) Spr. (I) with 2 numeric parameters 
 ** (0) Spr. (I) with 3 numeric parameters 
@@ -1427,8 +1427,8 @@
 ** (0) DHAR. with 3 numeric parameters 
 ** (0) DHAR. with 4 numeric parameters 
 * 00245	PRAŚNOP.	PRAŚNOPANIṢAD, nach der Ausgabe von RÖER
-** !(229) PRAŚNOP. with 2 numeric parameters 
-** (16) PRAŚNOP. with OTHER parameters 
+** !(230) PRAŚNOP. with 2 numeric parameters 
+** (15) PRAŚNOP. with OTHER parameters 
 ** (0) PRAŚNOP. with 0 numeric parameters 
 ** (0) PRAŚNOP. with 1 numeric parameters 
 ** (0) PRAŚNOP. with 3 numeric parameters 
@@ -1518,15 +1518,15 @@
 ** (0) HIOUEN-THSANG I with 3 numeric parameters 
 ** (0) HIOUEN-THSANG I with 4 numeric parameters 
 * 00214	ŚĀNT.	ŚĀNTANĀCĀRYA'S PHIṬSŪTRĀṆI in BÖHTLINGK,
-** !(196) ŚĀNT. with 2 numeric parameters 
-** (15) ŚĀNT. with OTHER parameters 
+** !(197) ŚĀNT. with 2 numeric parameters 
+** (14) ŚĀNT. with OTHER parameters 
 ** (3) ŚĀNT. with 3 numeric parameters 
 ** (0) ŚĀNT. with 0 numeric parameters 
 ** (0) ŚĀNT. with 1 numeric parameters 
 ** (0) ŚĀNT. with 4 numeric parameters 
 * 00213	HIT. Pr.	Prooemium im HIT.
-** !(169) HIT. Pr. with 1 numeric parameters 
-** (43) HIT. Pr. with OTHER parameters 
+** !(172) HIT. Pr. with 1 numeric parameters 
+** (40) HIT. Pr. with OTHER parameters 
 ** (1) HIT. Pr. with 2 numeric parameters 
 ** (0) HIT. Pr. with 0 numeric parameters 
 ** (0) HIT. Pr. with 3 numeric parameters 
@@ -1735,9 +1735,9 @@
 ** (0) AIT. UP. with 1 numeric parameters 
 ** (0) AIT. UP. with 4 numeric parameters 
 * 00147	ĀPAST.	ĀPASTAMBA.
-** !(101) ĀPAST. with 3 numeric parameters 
+** !(102) ĀPAST. with 3 numeric parameters 
 ** (30) ĀPAST. with 0 numeric parameters 
-** (15) ĀPAST. with OTHER parameters 
+** (14) ĀPAST. with OTHER parameters 
 ** (1) ĀPAST. with 2 numeric parameters 
 ** (0) ĀPAST. with 1 numeric parameters 
 ** (0) ĀPAST. with 4 numeric parameters 
@@ -1756,8 +1756,8 @@
 ** (1) AV. PARIŚ. with OTHER parameters 
 ** (0) AV. PARIŚ. with 4 numeric parameters 
 * 00145	VĀMANA	?  
-** !(136) VĀMANA with 3 numeric parameters 
-** (6) VĀMANA with OTHER parameters 
+** !(137) VĀMANA with 3 numeric parameters 
+** (5) VĀMANA with OTHER parameters 
 ** (3) VĀMANA with 0 numeric parameters 
 ** (0) VĀMANA with 1 numeric parameters 
 ** (0) VĀMANA with 2 numeric parameters 
@@ -1882,8 +1882,8 @@
 ** (0) TITHYĀDIT. with 4 numeric parameters 
 ** (0) TITHYĀDIT. with OTHER parameters 
 * 00120	RAGH. ed. Calc.	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
-** !(113) RAGH. ed. Calc. with 2 numeric parameters 
-** (6) RAGH. ed. Calc. with OTHER parameters 
+** !(115) RAGH. ed. Calc. with 2 numeric parameters 
+** (4) RAGH. ed. Calc. with OTHER parameters 
 ** (1) RAGH. ed. Calc. with 0 numeric parameters 
 ** (0) RAGH. ed. Calc. with 1 numeric parameters 
 ** (0) RAGH. ed. Calc. with 3 numeric parameters 
@@ -1973,8 +1973,8 @@
 ** (0) SKANDA-P. with 3 numeric parameters 
 ** (0) SKANDA-P. with 4 numeric parameters 
 * 00096	AṢṬĀV.	? 
-** !(80) AṢṬĀV. with 2 numeric parameters 
-** (16) AṢṬĀV. with OTHER parameters 
+** !(81) AṢṬĀV. with 2 numeric parameters 
+** (15) AṢṬĀV. with OTHER parameters 
 ** (0) AṢṬĀV. with 0 numeric parameters 
 ** (0) AṢṬĀV. with 1 numeric parameters 
 ** (0) AṢṬĀV. with 3 numeric parameters 
@@ -2057,8 +2057,8 @@
 ** (0) ROTH with 3 numeric parameters 
 ** (0) ROTH with 4 numeric parameters 
 * 00083	N. (BOPP)	? 
-** !(77) N. (BOPP) with 2 numeric parameters 
-** (6) N. (BOPP) with OTHER parameters 
+** !(79) N. (BOPP) with 2 numeric parameters 
+** (4) N. (BOPP) with OTHER parameters 
 ** (0) N. (BOPP) with 0 numeric parameters 
 ** (0) N. (BOPP) with 1 numeric parameters 
 ** (0) N. (BOPP) with 3 numeric parameters 
@@ -2408,8 +2408,8 @@
 ** (0) JYOT. with 4 numeric parameters 
 * 00050	VIKRAM.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl.
 ** !(24) VIKRAM. with 2 numeric parameters 
-** (20) VIKRAM. with 1 numeric parameters 
-** (6) VIKRAM. with OTHER parameters 
+** (21) VIKRAM. with 1 numeric parameters 
+** (5) VIKRAM. with OTHER parameters 
 ** (0) VIKRAM. with 0 numeric parameters 
 ** (0) VIKRAM. with 3 numeric parameters 
 ** (0) VIKRAM. with 4 numeric parameters 
@@ -3793,10 +3793,10 @@
 ** (0) SĀṂKHYAPR. with 3 numeric parameters 
 ** (0) SĀṂKHYAPR. with 4 numeric parameters 
 * 00014	VARARUCI	?  
-** !(7) VARARUCI with 2 numeric parameters 
+** !(8) VARARUCI with 2 numeric parameters 
 ** (4) VARARUCI with 0 numeric parameters 
-** (2) VARARUCI with OTHER parameters 
 ** (1) VARARUCI with 3 numeric parameters 
+** (1) VARARUCI with OTHER parameters 
 ** (0) VARARUCI with 1 numeric parameters 
 ** (0) VARARUCI with 4 numeric parameters 
 * 00014	MATHUREŚA	?  
@@ -4318,8 +4318,8 @@
 ** (0) Journ. asiat. with 3 numeric parameters 
 ** (0) Journ. asiat. with 4 numeric parameters 
 * 00010	MĀLAV. ed. Bomb.	 MĀLAVIKĀGNIMITRA, Bombay edition 
-** !(6) MĀLAV. ed. Bomb. with 2 numeric parameters 
-** (4) MĀLAV. ed. Bomb. with OTHER parameters 
+** !(8) MĀLAV. ed. Bomb. with 2 numeric parameters 
+** (2) MĀLAV. ed. Bomb. with OTHER parameters 
 ** (0) MĀLAV. ed. Bomb. with 0 numeric parameters 
 ** (0) MĀLAV. ed. Bomb. with 1 numeric parameters 
 ** (0) MĀLAV. ed. Bomb. with 3 numeric parameters 
@@ -4501,11 +4501,11 @@
 ** (0) TRIPR. with 4 numeric parameters 
 * 00010	PR.	?  
 ** !(6) PR. with 0 numeric parameters 
-** (3) PR. with 1 numeric parameters 
-** (1) PR. with OTHER parameters 
+** (4) PR. with 1 numeric parameters 
 ** (0) PR. with 2 numeric parameters 
 ** (0) PR. with 3 numeric parameters 
 ** (0) PR. with 4 numeric parameters 
+** (0) PR. with OTHER parameters 
 * 00010	YOGAY.	?  
 ** !(10) YOGAY. with 2 numeric parameters 
 ** (0) YOGAY. with 0 numeric parameters 
@@ -5410,12 +5410,12 @@
 ** (0) Notices with 3 numeric parameters 
 ** (0) Notices with 4 numeric parameters 
 * 00006	UTTARARĀMAC. ed. Cow.	? 
-** !(5) UTTARARĀMAC. ed. Cow. with 2 numeric parameters 
-** (1) UTTARARĀMAC. ed. Cow. with OTHER parameters 
+** !(6) UTTARARĀMAC. ed. Cow. with 2 numeric parameters 
 ** (0) UTTARARĀMAC. ed. Cow. with 0 numeric parameters 
 ** (0) UTTARARĀMAC. ed. Cow. with 1 numeric parameters 
 ** (0) UTTARARĀMAC. ed. Cow. with 3 numeric parameters 
 ** (0) UTTARARĀMAC. ed. Cow. with 4 numeric parameters 
+** (0) UTTARARĀMAC. ed. Cow. with OTHER parameters 
 * 00006	AŚOKĀV.	AŚOKĀVADĀNA?  
 ** !(5) AŚOKĀV. with 1 numeric parameters 
 ** (1) AŚOKĀV. with 0 numeric parameters 
@@ -11052,12 +11052,12 @@
 ** (0) RĀJA-TARAṄGIṆĪ with 4 numeric parameters 
 ** (0) RĀJA-TARAṄGIṆĪ with OTHER parameters 
 * 00001	RAGH. (Calc.)	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
-** !(1) RAGH. (Calc.) with OTHER parameters 
+** !(1) RAGH. (Calc.) with 2 numeric parameters 
 ** (0) RAGH. (Calc.) with 0 numeric parameters 
 ** (0) RAGH. (Calc.) with 1 numeric parameters 
-** (0) RAGH. (Calc.) with 2 numeric parameters 
 ** (0) RAGH. (Calc.) with 3 numeric parameters 
 ** (0) RAGH. (Calc.) with 4 numeric parameters 
+** (0) RAGH. (Calc.) with OTHER parameters 
 * 00001	RĀMATARKAV.	RĀMATARKAVĀGĪŚA.
 ** !(1) RĀMATARKAV. with 0 numeric parameters 
 ** (0) RĀMATARKAV. with 1 numeric parameters 
@@ -18759,12 +18759,12 @@
 ** (0) ŚĀK. (ed. WILL.) with 4 numeric parameters 
 ** (0) ŚĀK. (ed. WILL.) with OTHER parameters 
 * 00001	ŚĀK. (ed. MON. WILL.)	Śākuntala, translated by Monier-Williams
-** !(1) ŚĀK. (ed. MON. WILL.) with OTHER parameters 
+** !(1) ŚĀK. (ed. MON. WILL.) with 2 numeric parameters 
 ** (0) ŚĀK. (ed. MON. WILL.) with 0 numeric parameters 
 ** (0) ŚĀK. (ed. MON. WILL.) with 1 numeric parameters 
-** (0) ŚĀK. (ed. MON. WILL.) with 2 numeric parameters 
 ** (0) ŚĀK. (ed. MON. WILL.) with 3 numeric parameters 
 ** (0) ŚĀK. (ed. MON. WILL.) with 4 numeric parameters 
+** (0) ŚĀK. (ed. MON. WILL.) with OTHER parameters 
 * 00001	KĀŚĪN.	? 
 ** !(1) KĀŚĪN. with 0 numeric parameters 
 ** (0) KĀŚĪN. with 1 numeric parameters 
