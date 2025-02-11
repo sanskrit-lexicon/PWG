@@ -35,5 +35,6 @@ python lsexamine2.py lsexamine1.txt lsexamine2.txt
 
 grep -e '^\*' lsexamine2.txt > lsexamine2_summary.txt
 
+-------------
 -------------------------------------------------
 -------------------------------------------------

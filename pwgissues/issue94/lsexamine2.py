@@ -160,14 +160,14 @@ def write_tips2_helper(tip,nparm0,nparm_other):
  else:
   casetitle = ('** (%s) %s with OTHER parameters ' % (ncase,abbrev))
  outarr.append(casetitle)
- #if nparm0 == 0:
- # return outarr
  for i,eltparm in enumerate(eltparms1):
+  lstext1 = lstexts1[i]
   if nparm0 == nparm_other:
-   lstext = ' ' + lstexts1[i]
+   lstext = ' ' + lstext1
    nparmtext = '?'
   else:
-   lstext = ''
+   #lstext = ''
+   lstext = ' ' + lstext1
    nparmtext = str(nparm0)
 
   tipelt = '%s%s %s%s' %(abbrev,eltparm,nparmtext,lstext)
@@ -197,6 +197,9 @@ def write_tips2(fileout,tips0):
    for ix,x in enumerate(temparr):
     if (iarrval == 0) and (ix == 0):
      x = x.replace('** (', '** !(')
+    elif (iarrval == 0) and (nparm != nparm_other):
+     # don't show for the main group
+     x = re.sub(r' <ls.*?</ls>','',x)
     outarr.append(x)
     if nparm == 0:
      break;
