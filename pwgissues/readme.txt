@@ -12,3 +12,4 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue78 Transcoding vowel-marker characters
 * issue81 BHĀGAVATAPURĀṆA link target
 * issue87 Indische Sprüche 1st ed. link target
+* issue94  PWG link target admin
