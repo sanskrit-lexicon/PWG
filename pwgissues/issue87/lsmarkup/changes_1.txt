@@ -1,0 +1,485 @@
+; <L>6970<pc>1-0516<k1>aSman<k2>a/Sman<h>2
+58971 old <ls>ROTH</ls> in <ls>Z. f.</ls> vgl.
+;
+58971 new <ls>ROTH</ls> in <ls>Z. f. vgl. Spr. 2,44.</ls>
+;---------------------------------------------------
+; <L>6970<pc>1-0516<k1>aSman<k2>a/Sman<h>2
+58972 old <ls>Spr. 2,44.</ls> Ueber die verwandten Wörter s. u. {#aSan#} .
+;
+58972 new Ueber die verwandten Wörter s. u. {#aSan#} .
+;---------------------------------------------------
+; <L>7035<pc>1-0520<k1>aSva<k2>a/Sva
+59510 old <ls>BṚH. DEV.</ls> in <ls>Z. f.</ls> vgl.
+;
+59510 new <ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>7035<pc>1-0520<k1>aSva<k2>a/Sva
+59511 old <ls>Spr. 1,442.</ls> — Ueber die Etym. s. u. {#aSan#} und vgl.
+;
+59511 new  — Ueber die Etym. s. u. {#aSan#} und vgl.
+;---------------------------------------------------
+; <L>7058<pc>1-0522<k1>aSvatTa<k2>aSvatTa/
+59731 old Z. f. vgl. <ls>Spr. 1,467. 468.</ls> Denselben Uebergang von {#sa#} in {#ta#} vor {#Ta#} haben wir in {#aSvatTAman#} und {#avahitTA#} .
+;
+59731 new <ls>Z. f. vgl. Spr. 1,467. 468.</ls> Denselben Uebergang von {#sa#} in {#ta#} vor {#Ta#} haben wir in {#aSvatTAman#} und {#avahitTA#} .
+;---------------------------------------------------
+; <L>7180<pc>1-0528<k1>aSvin<k2>aSvi/n
+60504 old (<ls>BṚH. DEV.</ls> in <ls>Z. f.</ls> vgl.
+;
+60504 new (<ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 2,442.</ls>
+;---------------------------------------------------
+; <L>7180<pc>1-0528<k1>aSvin<k2>aSvi/n
+60505 old <ls>Spr. 2,442.</ls>
+;
+60505 new 
+;---------------------------------------------------
+; <L>12766<pc>1-1023<k1>UrRavABi<k2>UrRavA/Bi
+115121 old <ls>AUFRECHT</ls> (Z. f. vgl. <ls>Spr. 4,282</ls>) führt den letzten Bestandtheil auf eine Wurzel {#vaB#}, die mit
+;
+115121 new <ls>AUFRECHT</ls> (<ls>Z. f. vgl. Spr. 4,282</ls>) führt den letzten Bestandtheil auf eine Wurzel {#vaB#}, die mit
+;---------------------------------------------------
+; <L>12836<pc>1-1028<k1>UrDvasAna<k2>UrDvasAna/
+115729 old <ls>AUFRECHT</ls> in <ls>Z. f.</ls> vgl.
+;
+115729 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 2,150. fg.</ls>
+;---------------------------------------------------
+; <L>12836<pc>1-1028<k1>UrDvasAna<k2>UrDvasAna/
+115730 old <ls>Spr. 2,150. fg.</ls> bespricht, angenommen werden.
+;
+115730 new bespricht, angenommen werden.
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+183643 old <ls>BṚH. DEV.</ls> in <ls>Z. f.</ls> vgl.
+;
+183643 new <ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+183645 old <ls>Spr. 1,442.</ls>
+;
+183645 new 
+;---------------------------------------------------
+; <L>20315<pc>2-0549<k1>kzip<k2>kzip<h>1
+190834 old <ls>BṚH. DEV.</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> {#putrezu BAryAM nikzipya#}
+;
+190834 new <ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> {#putrezu BAryAM nikzipya#}
+;---------------------------------------------------
+; <L>21731<pc>2-0657<k1>ganDarva<k2>ganDarva/
+203645 old Vgl. <ls>KUHN</ls>, Gandharven und Kentauren in Z. <lex>f.</lex> vgl.
+;
+203645 new Vgl. <ls>KUHN</ls>, Gandharven und Kentauren in <ls>Z. f. vgl. Spr. 1,513. fgg.</ls>
+;---------------------------------------------------
+; <L>21731<pc>2-0657<k1>ganDarva<k2>ganDarva/
+203646 old <ls>Spr. I,513. fgg.</ls>
+;
+203646 new 
+;---------------------------------------------------
+; <L>21731<pc>2-0657<k1>ganDarva<k2>ganDarva/
+203665 old <ls>KUHN</ls> (<ls>Z.</ls> <lex>f.</lex> vgl.
+;
+203665 new <ls>KUHN</ls> (<ls>Z. f. vgl. Spr. 1,453</ls>)
+;---------------------------------------------------
+; <L>21731<pc>2-0657<k1>ganDarva<k2>ganDarva/
+203666 old <ls>Spr. I,453</ls>) es thut, zu übersetzen ist: {%sie bespannten den Wagen mit%} <is>Gandharva</is>, sondern auch bedeuten könnte: {%sie liessen den Wagen durch%} <is>Gandharva</is> {%bespannen.%} Zu dieser letzten Auffassung berechtigt uns viell.
+;
+203666 new es thut, zu übersetzen ist: {%sie bespannten den Wagen mit%} <is>Gandharva</is>, sondern auch bedeuten könnte: {%sie liessen den Wagen durch%} <is>Gandharva</is> {%bespannen.%} Zu dieser letzten Auffassung berechtigt uns viell.
+;---------------------------------------------------
+; <L>21794<pc>2-0663<k1>gaBa<k2>gaBa/
+204164 old <ls>Z. f.</ls> vgl.
+;
+204164 new <ls>Z. f. vgl. Spr. 1,123. fgg.</ls>
+;---------------------------------------------------
+; <L>21794<pc>2-0663<k1>gaBa<k2>gaBa/
+204165 old <ls>Spr. I,123. fgg.</ls>
+;
+204165 new 
+;---------------------------------------------------
+; <L>24247<pc>2-0900<k1>GrA<k2>GrA
+230978 old <ls>BṚH. DEV.</ls> in <ls>Z.</ls> <lex>f.</lex> vgl.
+;
+230978 new <ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> 
+;---------------------------------------------------
+; <L>24247<pc>2-0900<k1>GrA<k2>GrA
+230979 old <ls>Spr. 1,442.</ls> {#mUrDanyAGrAyate SvApadEH#}
+;
+230979 new {#mUrDanyAGrAyate SvApadEH#}
+;---------------------------------------------------
+; <L>24247<pc>2-0900<k1>GrA<k2>GrA
+231030 old <ls>BṚH. DEV.</ls> in <ls>Z.</ls> <lex>f.</lex> vgl.
+;
+231030 new <ls>BṚH. DEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>24247<pc>2-0900<k1>GrA<k2>GrA
+231031 old <ls>Spr. 1,442.</ls> {#gavA cAnnamupaGrAtam#}
+;
+231031 new {#gavA cAnnamupaGrAtam#}
+;---------------------------------------------------
+; <L>26652<pc>3-0037<k1>jaB<k2>jaB<h>1
+258226 old <ls>KUHN</ls> in <ls>Z. f.</ls> vgl.
+;
+258226 new <ls>KUHN</ls> in <ls>Z. f. vgl. Spr. 1,123. fgg.</ls>
+;---------------------------------------------------
+; <L>26652<pc>3-0037<k1>jaB<k2>jaB<h>1
+258227 old <ls>Spr. I,123. fgg.</ls>
+;
+258227 new 
+;---------------------------------------------------
+; <L>27932<pc>3-0156<k1>jyAyaMs<k2>jyA/yaMs
+271633 old <ls>BṚHADD.</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> <ls>M. 2,133.</ls> <ls n="M.">9,115.</ls> <ls n="M. 9,">156.</ls> {#tajjyAyAn#} {%dessen älterer Bruder%}
+;
+271633 new <ls>BṚHADD.</ls> <ls>in Z. f. vgl. Spr. 1,442.</ls> <ls>M. 2,133.</ls> <ls n="M.">9,115.</ls> <ls n="M. 9,">156.</ls> {#tajjyAyAn#} {%dessen älterer Bruder%}
+;---------------------------------------------------
+; <L>28049<pc>3-0167<k1>jrayasAna<k2>jrayasAna/
+272840 old <ls>AUFR.</ls> in Z. f. vgl. <ls>Spr. 2,150. fg.</ls>) <lex>adj.</lex> {%sich ausbreitend, Raum einnehmend%}: {#jra\ya\sA\nAvara^M pf\Tvati^ kzaranti\ yAma^BiH#} (<is>Mitra-Varuṇa</is>)
+;
+272840 new <ls>AUFR.</ls> in <ls>Z. f. vgl. Spr. 2,150. fg.</ls>) <lex>adj.</lex> {%sich ausbreitend, Raum einnehmend%}: {#jra\ya\sA\nAvara^M pf\Tvati^ kzaranti\ yAma^BiH#} (<is>Mitra-Varuṇa</is>)
+;---------------------------------------------------
+; <L>31182<pc>3-0447<k1>triSiras<k2>triSiras
+304323 old <ls>BṚHADDEV.</ls> in Z. <lex>f.</lex> vgl.
+;
+304323 new <ls>BṚHADDEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>31182<pc>3-0447<k1>triSiras<k2>triSiras
+304324 old <ls>Spr. 1,442.</ls>
+;
+304324 new 
+;---------------------------------------------------
+; <L>32041<pc>3-0517<k1>daMpati<k2>da/Mpati
+312094 old <ls>BENFEY</ls> erkannt hat; vgl. Z. <lex>f.</lex> vgl.
+;
+312094 new <ls>BENFEY</ls> erkannt hat; vgl. <ls>Z. f. vgl. Spr. 9,110.</ls>
+;---------------------------------------------------
+; <L>32041<pc>3-0517<k1>daMpati<k2>da/Mpati
+312095 old <ls>Spr. 9,110.</ls>
+;
+312095 new 
+;---------------------------------------------------
+; <L>32053<pc>3-0519<k1>day<k2>day
+312203 old <lang n="greek">δαίομαι</lang> Z. <lex>f.</lex> vgl.
+;
+312203 new <lang n="greek">δαίομαι</lang> <ls>Z. f. vgl. Spr. 7,313</ls>;
+;---------------------------------------------------
+; <L>32053<pc>3-0519<k1>day<k2>day
+312204 old <ls>Spr. 7,313</ls>; vgl. 3. {#dA#}.
+;
+312204 new vgl. 3. {#dA#}.
+;---------------------------------------------------
+; <L>32374<pc>3-0559<k1>dasra<k2>dasra/
+316273 old <ls>BṚHADD.</ls> in Z. <lex>f.</lex> vgl.
+;
+316273 new <ls>BṚHADD.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>32374<pc>3-0559<k1>dasra<k2>dasra/
+316274 old <ls>Spr. 1,442.</ls>
+;
+316274 new 
+;---------------------------------------------------
+; <L>33178<pc>3-0653<k1>dIrGa<k2>dIrGa/
+325905 old <ls>LEO MEYER</ls> hat in Z. <lex>f.</lex> vgl.
+;
+325905 new <ls>LEO MEYER</ls> hat in <ls>Z. f. vgl. Spr. 6,223</ls>
+;---------------------------------------------------
+; <L>33178<pc>3-0653<k1>dIrGa<k2>dIrGa/
+325906 old <ls>Spr. 6,223</ls> {%trahere%} und goth. {%dragan%} (vgl. schwed. {%draga%}) zur Vergleichung herbeigezogen. In der lateinischen Form würde alsdann eine unregelmässig eingetretene, in der goth. (und schwed.) eine unregelmässig ausgebliebene Lautverschiebung anzunehmen sein. Genauer entspricht russ. <lang n="russian">дергать</lang>, welches
+;
+325906 new {%trahere%} und goth. {%dragan%} (vgl. schwed. {%draga%}) zur Vergleichung herbeigezogen. In der lateinischen Form würde alsdann eine unregelmässig eingetretene, in der goth. (und schwed.) eine unregelmässig ausgebliebene Lautverschiebung anzunehmen sein. Genauer entspricht russ. <lang n="russian">дергать</lang>, welches
+;---------------------------------------------------
+; <L>36741<pc>3-0960<k1>DiyasAna<k2>DiyasAna/
+359393 old <ls>AUFRECHT</ls> in Z. <lex>f.</lex> vgl.
+;
+359393 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 2,150</ls>)
+;---------------------------------------------------
+; <L>36741<pc>3-0960<k1>DiyasAna<k2>DiyasAna/
+359394 old <ls>Spr. 2,150</ls>) <lex>adj.</lex> {%aufmerkend%}: {#sa tvaM na^ indra DiyasA\no a\rkErharI^RAM vfza\nyokta^maSreH#}
+;
+359394 new <lex>adj.</lex> {%aufmerkend%}: {#sa tvaM na^ indra DiyasA\no a\rkErharI^RAM vfza\nyokta^maSreH#}
+;---------------------------------------------------
+; <L>37308<pc>4-0008<k1>nakzatra<k2>na/kzatra
+366041 old <ls>AUFRECHT</ls> in Z. f. vgl. <ls>Spr. 8,71</ls> vorgebrachte ({#nakza + tra#}) einwenden, dass {%Wächter der Nacht%} nicht auf die Sonne passt, welche in den ältesten Texten vorzugsweise {#nakzatra#} genannt wird. Die Gleichsetzung von {#nakza#} mit {#nakta#} erregt gleichfalls Bedenken. Eher liesse sich noch an eine Zurückführung auf {#nakz#} (vgl.
+;
+366041 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 8,71</ls> vorgebrachte ({#nakza + tra#}) einwenden, dass {%Wächter der Nacht%} nicht auf die Sonne passt, welche in den ältesten Texten vorzugsweise {#nakzatra#} genannt wird. Die Gleichsetzung von {#nakza#} mit {#nakta#} erregt gleichfalls Bedenken. Eher liesse sich noch an eine Zurückführung auf {#nakz#} (vgl.
+;---------------------------------------------------
+; <L>37626<pc>4-0035<k1>napAt<k2>na/pAt
+369065 old <ls>WEBER</ls> in <ls>Ind. St. 1,326</ls> und <ls>BENFEY</ls> in Z. f. vergl. <ls>Spr. 9,111. fg.</ls> Vgl. {#tanUnapAt, praRapAt#} .
+;
+369065 new <ls>WEBER</ls> in <ls>Ind. St. 1,326</ls> und <ls>BENFEY</ls> <ls>in Z. f. vergl. Spr. 9,111. fg.</ls> Vgl. {#tanUnapAt, praRapAt#} .
+;---------------------------------------------------
+; <L>37703<pc>4-0049<k1>namasAna<k2>namasAna/
+370376 old <ls>AUFRECHT</ls> in <ls>Z. f.</ls> vgl.
+;
+370376 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 2,150. fg.</ls>
+;---------------------------------------------------
+; <L>37703<pc>4-0049<k1>namasAna<k2>namasAna/
+370377 old <ls>Spr. 2,150. fg.</ls>
+;
+370377 new 
+;---------------------------------------------------
+; <L>37720<pc>4-0051<k1>namuci<k2>na/muci
+370536 old <ls>KUHN</ls> in Z. f. vgl. <ls>Spr. 8,80.</ls>
+;
+370536 new <ls>KUHN</ls> in <ls>Z. f. vgl. Spr. 8,80.</ls>
+;---------------------------------------------------
+; <L>38407<pc>4-0107<k1>nApita<k2>nApita/
+376929 old <ls>WEBER</ls> eine Verstümmelung von {#snApitar#} {%Bader%}; s. Beitr. z. vgl.
+;
+376929 new <ls>WEBER</ls> eine Verstümmelung von {#snApitar#} {%Bader%}; s. <ls>Beitr. z. vgl. Spr. 1,505.</ls> 
+;---------------------------------------------------
+; <L>38407<pc>4-0107<k1>nApita<k2>nApita/
+376930 old <ls>Spr. I,505.</ls> Vgl. {#vaptar#} .
+;
+376930 new Vgl. {#vaptar#} .
+;---------------------------------------------------
+; <L>38612<pc>4-0126<k1>nAsatya<k2>nAsatya
+378977 old <ls>BṚHADDEV.</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> <ls>MBH. 12,7583.</ls> <ls>HARIV. 601.</ls> {#nAsatyadasrO#}
+;
+378977 new <ls>BṚHADDEV.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> <ls>MBH. 12,7583.</ls> <ls>HARIV. 601.</ls> {#nAsatyadasrO#}
+;---------------------------------------------------
+; <L>43390<pc>4-0567<k1>parokza<k2>paro/kza
+426381 old <ls>ŚAT. BR. 1,5,2,7. 2,1,2,11. 3,1,3,25. 6,1,1,11</ls> u.s.w. <ls>LĀTY. 8,9,1.</ls> <ls>BṚHADD.</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> {#nodAharedasya nAma parokzamapi kevalam#}
+;
+426381 new <ls>ŚAT. BR. 1,5,2,7. 2,1,2,11. 3,1,3,25. 6,1,1,11</ls> u.s.w. <ls>LĀTY. 8,9,1.</ls> <ls>BṚHADD.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> {#nodAharedasya nAma parokzamapi kevalam#}
+;---------------------------------------------------
+; <L>45453<pc>4-0735<k1>pI<k2>pI<h>2
+446186 old <ls>MĀRK. P. 17,12. 27,22</ls> (<ls>Spr. 2331). 116,21.</ls> <ls>MEGH. 45.</ls> <ls>RĀJA-TAR. 3,66</ls> (verbinde mit der Calc. Ausg. {#CAyayApyA°#}).
+;
+446186 new <ls>MĀRK. P. 17,12. 27,22</ls> (<ls>Spr. 2331</ls>). <ls n="MĀRK. P.">116,21.</ls>  <ls>MEGH. 45.</ls> <ls>RĀJA-TAR. 3,66</ls> (verbinde mit der Calc. Ausg. {#CAyayApyA°#}).
+;---------------------------------------------------
+; <L>45717<pc>4-0758<k1>puRya<k2>pu/Rya
+448900 old <ls>BENFEY</ls> in Zeitschr. <lex>f.</lex> vgl.
+;
+448900 new <ls>BENFEY</ls> in <ls>Zeitschr. f. vgl. Spr. VIII,10</ls>) 
+;---------------------------------------------------
+; <L>45717<pc>4-0758<k1>puRya<k2>pu/Rya
+448901 old <ls>Spr. VIII,10</ls>) zurückgeführt wird, so muss als Grundbedeutung {%gedeihlich, tüchtig%} angenommen werden.
+;
+448901 new zurückgeführt wird, so muss als Grundbedeutung {%gedeihlich, tüchtig%} angenommen werden.
+;---------------------------------------------------
+; <L>46573<pc>4-0828<k1>pUj<k2>pUj
+456964 old <ls>Spr. 7,2230, v. l.</ls> <ls>Verz. d. Oxf. H. 31,a,9. No. 150.</ls> {#tadasya samare — sarve yoDAH prapUjayan#}
+;
+456964 new <ls>Spr. 2230, v. l.</ls> <ls>Verz. d. Oxf. H. 31,a,9. No. 150.</ls> {#tadasya samare — sarve yoDAH prapUjayan#}
+;---------------------------------------------------
+; <L>51818<pc>5-0022<k1>baBru<k2>baBru/
+505075 old <ls>UṆĀDIS. 1,23.</ls> <ls>PAT.</ls> zu <ls>P. 6,1,12.</ls> Zeitschr. f. vgl. <ls>Spr. 1,200. 7,183.</ls>
+;
+505075 new <ls>UṆĀDIS. 1,23.</ls> <ls>PAT.</ls> zu <ls>P. 6,1,12.</ls> <ls>Zeitschr. f. vgl. Spr. 1,200. 7,183.</ls>
+;---------------------------------------------------
+; <L>54146<pc>5-0210<k1>Bara<k2>Bara
+526643 old <div n="2">— b) {%Bürde, Last%} (vgl. {#BAra)#}
+;
+526643 new <div n="2">— b) {%Bürde, Last%} (vgl. {#BAra#})
+;---------------------------------------------------
+; <L>54146<pc>5-0210<k1>Bara<k2>Bara
+526647 old <ls>Spr. 70,305. 672.</ls>
+;
+526647 new <ls>Spr. 70.</ls> <ls n="Spr.">305.</ls> <ls n="Spr.">672.</ls>
+;---------------------------------------------------
+; <L>54910<pc>5-0290<k1>BiyasAna<k2>Biya/sAna
+535302 old <ls>AUFRECHT</ls> in Z. f. vgl. <ls>Spr. 2,150.</ls>
+;
+535302 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 2,150.</ls>
+;---------------------------------------------------
+; <L>55701<pc>5-0371<k1>Bfzwi<k2>Bfzwi/<h>1
+544064 old <ls>KUHN</ls> in Z. f. Vgl. <ls>Spr. 11,372. fgg.</ls>)
+;
+544064 new <ls>KUHN</ls> in <ls>Z. f. vgl. Spr. 11,372. fgg.</ls>)
+;---------------------------------------------------
+; <L>55841<pc>5-0385<k1>Bogin<k2>Bogin<h>2
+545648 old <ls>Spr. 2053,2074. 4678.</ls>
+;
+545648 new <ls>Spr. 2053.</ls> <ls n="Spr.">2074.</ls> <ls n="Spr.">4678.</ls>
+;---------------------------------------------------
+; <L>59685<pc>5-0707<k1>mAtra<k2>mAtra
+582593 old <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> {#jyezWena jAtamAtreRa putrI Bavati mAnavaH#}
+;
+582593 new <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> {#jyezWena jAtamAtreRa putrI Bavati mAnavaH#}
+;---------------------------------------------------
+; <L>59811<pc>5-0719<k1>mAna<k2>mA/na<h>1
+583870 old <ls n="Spr.">98,396.</ls> {#mAnaH samADIyatAm#}
+;
+583870 new <ls n="Spr.">98.</ls> <ls n="Spr.">396.</ls> {#mAnaH samADIyatAm#}
+;---------------------------------------------------
+; <L>60808<pc>5-0806<k1>muKaratA<k2>muKaratA
+593632 old <ls>Spr. 954,</ls>
+;
+593632 new <ls>Spr. 954.</ls>
+;---------------------------------------------------
+; <L>62164<pc>5-0916<k1>mokzay<k2>mokzay
+606445 old <div n="p">— {#A#} s. {#AmokzaRa#} .
+;
+606445 new <div n="p">— {#A#} s. {#AmokzaRa#} <ls>Spr. 660. 1678, v. l.</ls> (Th. III, S. 372). <ls n="Spr.">2042, v. l.</ls> <ls n="Spr.">2935, v. l.</ls>.
+;---------------------------------------------------
+; <L>62164<pc>5-0916<k1>mokzay<k2>mokzay
+606448 old <ls>Spr. 608, v. l. (Th. I, S. 320).</ls>
+;
+606448 new <ls>Spr. 608, v. l.</ls> (Th. I, S. 320).
+;---------------------------------------------------
+; <L>62236<pc>5-0921<k1>mozaRa<k2>mozaRa
+607049 old <ls>Spr. 59, v. l. (Th. 2, S. 323).</ls> {%das Unterschlagen%}: {#Sulka°#}
+;
+607049 new <ls>Spr. 59, v. l.</ls> (Th. 2, S. 323). {%das Unterschlagen%}: {#Sulka°#}
+;---------------------------------------------------
+; <L>64107<pc>5-1006<k1>apamala<k2>apamala
+618836 old <ls>Spr. 1753, v. l. Th. II, S. 340</ls>).
+;
+618836 new <ls>Spr. 1753, v. l. (Th. II, S. 340</ls>)
+;---------------------------------------------------
+; <L>66328<pc>5-1098<k1>AtmaSaMsA<k2>AtmaSaMsA
+632677 old <ls>Spr. 2636, v. l. (Th. III, S. 378).</ls>
+;
+632677 new <ls>Spr. 2636, v. l.</ls> (Th. III, S. 378).
+;---------------------------------------------------
+; <L>66360<pc>5-1100<k1>AdAyin<k2>AdAyin
+632895 old <ls>RĀJA-TAR. 3,215</ls> (<ls>Spr. 5251) und 5,272.</ls>
+;
+632895 new <ls>RĀJA-TAR. 3,215</ls> (<ls>Spr. 5251</ls>) und <ls n="RĀJA-TAR.">5,272.</ls>
+;---------------------------------------------------
+; <L>66463<pc>5-1104<k1>Anantya<k2>Anantya
+633509 old <ls>MBH. 5,1503</ls> (<ls>Spr. 3474). 3,13983</ls> erklärt
+;
+633509 new <ls>MBH. 5,1503</ls> (<ls>Spr. 3474</ls>). <ls n="MBH.">3,13983</ls> erklärt
+;---------------------------------------------------
+; <L>66711<pc>5-1114<k1>AyAsaka<k2>AyAsaka
+635073 old <ls>Spr. 571. Th. 2, S. 327.</ls>
+;
+635073 new <ls>Spr. 571.</ls> Th. 2, S. 327.
+;---------------------------------------------------
+; <L>69661<pc>5-1248<k1>kapora<k2>kapora
+654649 old <ls>Spr. 3524,</ls>
+;
+654649 new <ls>Spr. 3524, N.</ls> 
+;---------------------------------------------------
+; <L>69661<pc>5-1248<k1>kapora<k2>kapora
+654650 old <ls>N.</ls> {#kapola(kavi)#} v.l.
+;
+654650 new {#kapola(kavi)#} v.l.
+;---------------------------------------------------
+; <L>73322<pc>5-1402<k1>Gfzwi<k2>Gfzwi
+679423 old <ls>KUHN</ls> in Z. f. vgl. <ls>Spr. 11,385.</ls>
+;
+679423 new <ls>KUHN</ls> in <ls>Z. f. vgl. Spr. 11,385.</ls>
+;---------------------------------------------------
+; <L>74125<pc>5-1435<k1>jaWara<k2>jaWara
+684874 old <ls>Spr. 814, v. ( Th. 2, S. 330).</ls>
+;
+684874 new <ls>Spr. 814, v. l.</ls> (Th. 2, S. 330).
+;---------------------------------------------------
+; <L>74294<pc>5-1440<k1>jasu<k2>jasu
+685918 old <ls>AUFRECHT</ls> in Z. f. vgl. <ls>Spr. 3,200.</ls>
+;
+685918 new <ls>AUFRECHT</ls> in <ls>Z. f. vgl. Spr. 3,200.</ls>
+;---------------------------------------------------
+; <L>75022<pc>5-1469<k1>titau<k2>titau
+690684 old <ls>Spr. 2876,</ls> v. l.; s. Th. 3, S. 380.
+;
+690684 new <ls>Spr. 2876, v. l.</ls>; s. Th. 3, S. 380.
+;---------------------------------------------------
+; <L>76989<pc>5-1541<k1>nABijAta<k2>nABijAta
+703035 old <ls>Spr. 2896,</ls>
+;
+703035 new <ls>Spr. 2896, N.</ls>
+;---------------------------------------------------
+; <L>76989<pc>5-1541<k1>nABijAta<k2>nABijAta
+703036 old <ls>N.</ls>
+;
+703036 new 
+;---------------------------------------------------
+; <L>78835<pc>5-1607<k1>pustaka<k2>pustaka
+714542 old <ls n="Spr.">217,a,10.</ls> {#pustikA#}
+;
+714542 new <ls n="Verz. d. Oxf. H.">217,a,10.</ls> {#pustikA#}
+;---------------------------------------------------
+; <L>81526<pc>6-0063<k1>yam<k2>yam
+734916 old <ls>ĀŚV. GṚHY. 1,5,2.</ls> <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> <ls>M. 8,224.</ls> <ls n="M.">9,74.</ls> <ls n="M. 9,">89.</ls> <ls>R. 1,8,16.</ls> <ls>KATHĀS. 45,196.</ls> <ls>BHĀG. P. 4,1,11.</ls> <ls>MĀRK. P. 14,68.</ls>
+;
+734916 new <ls>ĀŚV. GṚHY. 1,5,2.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> <ls>M. 8,224.</ls> <ls n="M.">9,74.</ls> <ls n="M. 9,">89.</ls> <ls>R. 1,8,16.</ls> <ls>KATHĀS. 45,196.</ls> <ls>BHĀG. P. 4,1,11.</ls> <ls>MĀRK. P. 14,68.</ls>
+;---------------------------------------------------
+; <L>81528<pc>6-0077<k1>yama<k2>yama/<h>2
+735159 old <ls>ĀŚV. ŚR. 11,5,4.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f.</ls> vgl.
+;
+735159 new <ls>ĀŚV. ŚR. 11,5,4.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>81528<pc>6-0077<k1>yama<k2>yama/<h>2
+735160 old <ls>Spr. 1,442.</ls> {#putrO prasuzuve yamO#}
+;
+735160 new {#putrO prasuzuve yamO#}
+;---------------------------------------------------
+; <L>81528<pc>6-0077<k1>yama<k2>yama/<h>2
+735263 old <ls>PAÑCAV. BR. 11,10,23.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f.</ls> vgl.
+;
+735263 new <ls>PAÑCAV. BR. 11,10,23.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>81528<pc>6-0077<k1>yama<k2>yama/<h>2
+735264 old <ls>Spr. 1,442.</ls> <ls>HARIV. 609. fg.</ls> <ls>VP. 266.</ls> <ls>BHĀG. P. 6,6,38.</ls> <ls n="BHĀG. P.">8,13,9.</ls> <ls>MĀRK. P. 106,4.</ls> <ls>Verz. d. Oxf. H. 82,b,41. fg.</ls>
+;
+735264 new <ls>HARIV. 609. fg.</ls> <ls>VP. 266.</ls> <ls>BHĀG. P. 6,6,38.</ls> <ls n="BHĀG. P.">8,13,9.</ls> <ls>MĀRK. P. 106,4.</ls> <ls>Verz. d. Oxf. H. 82,b,41. fg.</ls>
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+738765 old <ls>Spr. 1926,</ls> l. l.
+;
+738765 new <ls>Spr. 1926, v. l.</ls>
+;---------------------------------------------------
+; <L>88405<pc>6-0733<k1>varj<k2>varj
+810179 old <ls n="Spr.">6,76.</ls>
+;
+810179 new <ls n="RAGH.">6,76.</ls>
+;---------------------------------------------------
+; <L>89553<pc>6-0898<k1>vAjin<k2>vAji/n
+826812 old <ls>HALĀY. 2,281. 1,151.</ls> <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> <ls>M. 8,209.</ls> <ls>Spr. 2771. 3746.</ls> <ls>MBH. 3,1720.</ls> <ls n="MBH. 3,">2823.</ls> <ls n="MBH. 3,">15672.</ls> <ls>HARIV. 11253</ls> (wo mit der neueren Ausg. {#dfSya vAjinam#} zu lesen ist).
+;
+826812 new <ls>HALĀY. 2,281. 1,151.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> <ls>M. 8,209.</ls> <ls>Spr. 2771. 3746.</ls> <ls>MBH. 3,1720.</ls> <ls n="MBH. 3,">2823.</ls> <ls n="MBH. 3,">15672.</ls> <ls>HARIV. 11253</ls> (wo mit der neueren Ausg. {#dfSya vAjinam#} zu lesen ist).
+;---------------------------------------------------
+; <L>91363<pc>6-1027<k1>vijYAna<k2>vijYA/na
+843009 old <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. I,442.</ls> <ls>M. 2,220.</ls> <ls>MBH. 5,5443.</ls> <ls>HARIV. 3687.</ls> <ls>R. 4,57,21.</ls> {#a°#} {%keine Kenntniss von Etwas habend%}
+;
+843009 new <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> <ls>M. 2,220.</ls> <ls>MBH. 5,5443.</ls> <ls>HARIV. 3687.</ls> <ls>R. 4,57,21.</ls> {#a°#} {%keine Kenntniss von Etwas habend%}
+;---------------------------------------------------
+; <L>91863<pc>6-1071<k1>viDavA<k2>viDa/vA
+848027 old <ls>ROTH</ls> in Z. f. vgl. <ls>Spr. 19,223</ls>) <lex>f.</lex> {%Wittwe%} (häufig auch <lex>adj.</lex> in Verbindung mit {#strI, yozit, nArI#}
+;
+848027 new <ls>ROTH</ls> in <ls>Z. f. vgl. Spr. 19,223</ls>) <lex>f.</lex> {%Wittwe%} (häufig auch <lex>adj.</lex> in Verbindung mit {#strI, yozit, nArI#}
+;---------------------------------------------------
+; <L>92883<pc>6-1160<k1>virodDar<k2>virodDar
+858330 old <ls>Spr. 1270,</ls> v. l.; vgl. noch <ls>MBH. 2,1958.</ls>
+;
+858330 new <ls>Spr. 1270, v. l.</ls>; vgl. noch <ls>MBH. 2,1958.</ls>
+;---------------------------------------------------
+; <L>107225<pc>7-0838<k1>salakzaRa<k2>salakzaRa
+1000623 old <ls>BṚHADD.</ls> in <ls>Z. f.</ls> vgl.
+;
+1000623 new <ls>BṚHADD.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>107225<pc>7-0838<k1>salakzaRa<k2>salakzaRa
+1000624 old <ls>Spr. 1,442.</ls>
+;
+1000624 new 
+;---------------------------------------------------
+; <L>107465<pc>7-0857<k1>saha<k2>saha/<h>1
+1002965 old <ls>BṚHADD.</ls> in <ls>Z. f.</ls> vgl.
+;
+1002965 new <ls>BṚHADD.</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls>
+;---------------------------------------------------
+; <L>107465<pc>7-0857<k1>saha<k2>saha/<h>1
+1002966 old <ls>Spr. 1,442.</ls> — {#caratAM DarmaM saha#}
+;
+1002966 new — {#caratAM DarmaM saha#}
+;---------------------------------------------------
+; <L>115223<pc>7-1446<k1>svaru<k2>sva/ru
+1077089 old <ls>MED. r. 94.</ls> Z. f. vgl. <ls>Spr. 19,218. fg.</ls> <ls>ṚV. 1,92,5.</ls> {#yatsvarO\ svaDi^tO ri\ptamasti^#}
+;
+1077089 new <ls>MED. r. 94.</ls> <ls>Z. f. vgl. Spr. 19,218. fg.</ls> <ls>ṚV. 1,92,5.</ls> {#yatsvarO\ svaDi^tO ri\ptamasti^#}
+;---------------------------------------------------
+; <L>116088<pc>7-1541<k1>hara<k2>hara
+1087788 old <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. 1,442.</ls> {%Esel%}
+;
+1087788 new <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1,442.</ls> {%Esel%}
+;---------------------------------------------------
+; <L>119777<pc>7-1738<k1>gAvI<k2>gAvI
+1116010 old <ls>PAT. a. a. O. 1,10,b</ls>; vgl. Z. f. vgl. <ls>Spr. 21,238. fg.</ls>
+;
+1116010 new <ls>PAT. a. a. O. 1,10,b</ls>; vgl. <ls>Z. f. vgl. Spr. 21,238. fg.</ls>
+;---------------------------------------------------
+; <L>121754<pc>7-1795<k1>ran<k2>ran<h>1
+1127094 old <ls>ṚV. 1,61,11.</ls> <ls n="ṚV.">7,36,3.</ls> <ls n="ṚV. 7,">39,3.</ls> Vgl. Z. f. vgl. <ls>Spr. 20,69. fgg.</ls>
+;
+1127094 new <ls>ṚV. 1,61,11.</ls> <ls n="ṚV.">7,36,3.</ls> <ls n="ṚV. 7,">39,3.</ls> Vgl. <ls>Z. f. vgl. Spr. 20,69. fgg.</ls>
+;---------------------------------------------------

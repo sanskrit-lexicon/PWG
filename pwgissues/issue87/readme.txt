@@ -76,6 +76,7 @@ vol 3 has verses 3360 - 5419
 
 # get temporary local copy of pwg.txt
 cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg_0.txt
+ (commit 9dfc1998a78962ef82cec37184024e01353351b7 in csl-orig)
    
 # generate 10 examples for manual checking. write file temp.txt
 python generate_random.py 10 temp_pwg_0.txt III IndischeSprueche_Vol3_index.txt temp_check_3.txt
