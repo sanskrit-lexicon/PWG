@@ -1,7 +1,7 @@
-747853	ALL	As of 2025-02-10
+750302	ALL	As of 2025-02-15
 00062	NUMBER	ls starts with number
-00009	UNKNOWN	ls is unknown
-67170	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+00011	UNKNOWN	ls is unknown
+67171	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 56087	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
 37820	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
 30546	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
@@ -14,17 +14,17 @@
 16150	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 15436	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
-14741	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
+14742	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
 12993	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
+12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
-10509	Spr.	Indische Sprüche. Sanskrit und deutsch h
 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 09176	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-08752	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+08753	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
-08244	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
-07790	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
+07791	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
 07120	R. GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 
 06891	Sch.	Scholiast.
 06783	RĀJAN.	RĀJANIRGHAṆṬA, ein medicinisches Wörterb
@@ -32,7 +32,7 @@
 06348	Ind. St.	WEBER'S Indische Studien.
 06080	VS.	VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHI
 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
-05436	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
+05437	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
 05388	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
 05159	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
 05149	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
@@ -41,7 +41,7 @@
 03861	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
 03795	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
 03697	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
-03446	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
+03444	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
 03364	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
 03303	GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 [
 03166	NIR.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVA'S h
@@ -278,7 +278,7 @@
 00111	KṢITĪŚ.	?  
 00111	NYĀYAS.	?  
 00110	BĀLAB.	BĀLABODHANĪ in WINDISCHMANN'S Sancara (G
-00105	Z.	?  
+00102	Z.	?  
 00101	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER (GILD. B
 00101	DHANV.	?  
 00097	KĀLIKĀ-P.	KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
@@ -359,6 +359,7 @@
 00046	VĀRĀHA-P.	? 
 00046	UTPALA	 ? 
 00044	VAIDY.	VAIDYAKA.
+00044	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
 00044	AINSLIE	?  
 00043	TANTRAS.	TANTRASĀRA, nach Anführungen im ŚKDR.
 00043	VĀCASP.	VĀCASPATI.
@@ -563,7 +564,6 @@
 00013	COWELL	Edward Byles Cowell (1826-1903), first p
 00013	BHAṬṬOTPALA	?  
 00013	GAUḌA	?  
-00013	Z. f.	?  
 00012	KĀVYA-PR.	KĀVYAPRAKĀŚA, ed. Calc. (GILD. Bibl. 265
 00012	VARĀH. LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
 00012	MAITR. UP.	MAITRĀYAṆYUPANIṢAD.
@@ -1263,6 +1263,7 @@
 00002	VOPAD.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
 00002	Z. f. die K. d. M.	Zeitschrift für die Kunde des Morgenland
 00002	Z. f. d. W. d. Spr.	Zeitschrift für die Wissenschaft der Spr
+00002	Zeitschr. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
 00002	ROTH, Zur Lit. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
 00002	ROTH, Zur Lit.	Zur Literatur und Geschichte des Weda. D
 00002	Z. L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
@@ -1598,7 +1599,6 @@
 00001	Zeitschr. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
 00001	Zeitschr. f. d. W. d. Spr.	? [Cologne addition]
 00001	Z. f. d. W. d. S.	? Zeitschrift für die Wissenschaft der S
-00001	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
 00001	ROTH, Zur Lit. und G. d. W.	Zur Literatur und Geschichte des Weda. D
 00001	Zur Lit. u. G. des W.	Zur Literatur und Geschichte des Weda. D
 00001	ROTH, Zur L. u. G. des W.	Zur Literatur und Geschichte des Weda. D
@@ -2308,6 +2308,7 @@
 00001	BERGHAUS	?  
 00001	BÜLLER	?  
 00001	Beitr. z. Kenntn. d. russ. Reiches	?  
+00001	Beitr. z. vgl. Spr.	? 
 00001	BUCHANAN'S Handschrr.	?  
 00001	BUCHANAN'S Hdschrr.	?  
 00001	Berichte der phil.-hist. Cl. d. K. S. G. d. Ww	?  
@@ -2336,6 +2337,7 @@
 00001	KṚṢṆA	?  
 00001	GROHMANN	?  
 00001	MĀDHYAṂDINA-Rec.	?  
+00001	Z. f.	?  
 00001	FRITZE	?  
 00001	SIDDHĀNTALAKṢAṆA	?  
 00001	KĀYAKĀ-P.	?  

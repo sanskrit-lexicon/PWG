@@ -1,5 +1,5 @@
-* 67170	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-** !(66629) MBH. with 2 numeric parameters 
+* 67171	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+** !(66630) MBH. with 2 numeric parameters 
 ** (454) MBH. with 0 numeric parameters 
 ** (71) MBH. with OTHER parameters 
 ** (13) MBH. with 1 numeric parameters 
@@ -89,8 +89,8 @@
 ** (107) ŚAT. BR. with 0 numeric parameters 
 ** (37) ŚAT. BR. with 1 numeric parameters 
 ** (35) ŚAT. BR. with 2 numeric parameters 
-* 14741	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
-** !(14635) Verz. d. Oxf. H. with OTHER parameters 
+* 14742	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
+** !(14636) Verz. d. Oxf. H. with OTHER parameters 
 ** (82) Verz. d. Oxf. H. with 1 numeric parameters 
 ** (15) Verz. d. Oxf. H. with 2 numeric parameters 
 ** (8) Verz. d. Oxf. H. with 0 numeric parameters 
@@ -103,6 +103,13 @@
 ** (4) MED. with 1 numeric parameters 
 ** (1) MED. with 4 numeric parameters 
 ** (0) MED. with 3 numeric parameters 
+* 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
+** !(12662) Spr. with 1 numeric parameters 
+** (30) Spr. with 0 numeric parameters 
+** (6) Spr. with OTHER parameters 
+** (0) Spr. with 2 numeric parameters 
+** (0) Spr. with 3 numeric parameters 
+** (0) Spr. with 4 numeric parameters 
 * 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
 ** !(7940) SUŚR. with 3 numeric parameters 
 ** (3606) SUŚR. with OTHER parameters 
@@ -110,13 +117,6 @@
 ** (61) SUŚR. with 1 numeric parameters 
 ** (27) SUŚR. with 0 numeric parameters 
 ** (2) SUŚR. with 4 numeric parameters 
-* 10509	Spr.	Indische Sprüche. Sanskrit und deutsch h
-** !(8953) Spr. with 1 numeric parameters 
-** (1478) Spr. with OTHER parameters 
-** (48) Spr. with 2 numeric parameters 
-** (30) Spr. with 0 numeric parameters 
-** (0) Spr. with 3 numeric parameters 
-** (0) Spr. with 4 numeric parameters 
 * 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 ** !(6609) H. an. with 0 numeric parameters 
 ** (3113) H. an. with 2 numeric parameters 
@@ -131,13 +131,20 @@
 ** (57) VARĀH. BṚH. S. with 0 numeric parameters 
 ** (2) VARĀH. BṚH. S. with 3 numeric parameters 
 ** (0) VARĀH. BṚH. S. with 4 numeric parameters 
-* 08752	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
-** !(8105) RAGH. with 2 numeric parameters 
+* 08753	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+** !(8106) RAGH. with 2 numeric parameters 
 ** (577) RAGH. with OTHER parameters 
 ** (57) RAGH. with 1 numeric parameters 
 ** (10) RAGH. with 0 numeric parameters 
 ** (3) RAGH. with 3 numeric parameters 
 ** (0) RAGH. with 4 numeric parameters 
+* 08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
+** !(8304) Spr. (II) with 1 numeric parameters 
+** (160) Spr. (II) with OTHER parameters 
+** (3) Spr. (II) with 2 numeric parameters 
+** (1) Spr. (II) with 3 numeric parameters 
+** (0) Spr. (II) with 0 numeric parameters 
+** (0) Spr. (II) with 4 numeric parameters 
 * 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
 ** !(6874) TRIK. with 3 numeric parameters 
 ** (1102) TRIK. with 0 numeric parameters 
@@ -145,13 +152,6 @@
 ** (15) TRIK. with 1 numeric parameters 
 ** (7) TRIK. with 2 numeric parameters 
 ** (7) TRIK. with 4 numeric parameters 
-* 08244	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
-** !(8080) Spr. (II) with 1 numeric parameters 
-** (160) Spr. (II) with OTHER parameters 
-** (3) Spr. (II) with 2 numeric parameters 
-** (1) Spr. (II) with 3 numeric parameters 
-** (0) Spr. (II) with 0 numeric parameters 
-** (0) Spr. (II) with 4 numeric parameters 
 * 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
 ** !(5636) PAÑCAT. with 2 numeric parameters 
 ** (2474) PAÑCAT. with OTHER parameters 
@@ -159,8 +159,8 @@
 ** (24) PAÑCAT. with 1 numeric parameters 
 ** (5) PAÑCAT. with 3 numeric parameters 
 ** (0) PAÑCAT. with 4 numeric parameters 
-* 07790	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
-** !(6197) RĀJA-TAR. with 2 numeric parameters 
+* 07791	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
+** !(6198) RĀJA-TAR. with 2 numeric parameters 
 ** (1386) RĀJA-TAR. with OTHER parameters 
 ** (198) RĀJA-TAR. with 1 numeric parameters 
 ** (7) RĀJA-TAR. with 0 numeric parameters 
@@ -215,8 +215,8 @@
 ** (13) ŚĀK. with 0 numeric parameters 
 ** (1) ŚĀK. with 3 numeric parameters 
 ** (0) ŚĀK. with 4 numeric parameters 
-* 05436	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
-** !(4564) MĀRK. P. with 2 numeric parameters 
+* 05437	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
+** !(4565) MĀRK. P. with 2 numeric parameters 
 ** (816) MĀRK. P. with OTHER parameters 
 ** (39) MĀRK. P. with 1 numeric parameters 
 ** (15) MĀRK. P. with 0 numeric parameters 
@@ -278,11 +278,11 @@
 ** (220) VP. with 3 numeric parameters 
 ** (176) VP. with 0 numeric parameters 
 ** (0) VP. with 4 numeric parameters 
-* 03446	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
+* 03444	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
 ** !(2191) N. with 2 numeric parameters 
 ** (776) N. with 1 numeric parameters 
 ** (244) N. with OTHER parameters 
-** (233) N. with 0 numeric parameters 
+** (231) N. with 0 numeric parameters 
 ** (2) N. with 3 numeric parameters 
 ** (0) N. with 4 numeric parameters 
 * 03364	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
@@ -1937,9 +1937,9 @@
 ** (0) BĀLAB. with 2 numeric parameters 
 ** (0) BĀLAB. with 3 numeric parameters 
 ** (0) BĀLAB. with 4 numeric parameters 
-* 00105	Z.	?  
+* 00102	Z.	?  
 ** !(96) Z. with 1 numeric parameters 
-** (5) Z. with 0 numeric parameters 
+** (2) Z. with 0 numeric parameters 
 ** (2) Z. with 2 numeric parameters 
 ** (2) Z. with OTHER parameters 
 ** (0) Z. with 3 numeric parameters 
@@ -2504,6 +2504,13 @@
 ** (0) VAIDY. with 3 numeric parameters 
 ** (0) VAIDY. with 4 numeric parameters 
 ** (0) VAIDY. with OTHER parameters 
+* 00044	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
+** !(43) Z. f. vgl. Spr. with 2 numeric parameters 
+** (1) Z. f. vgl. Spr. with OTHER parameters 
+** (0) Z. f. vgl. Spr. with 0 numeric parameters 
+** (0) Z. f. vgl. Spr. with 1 numeric parameters 
+** (0) Z. f. vgl. Spr. with 3 numeric parameters 
+** (0) Z. f. vgl. Spr. with 4 numeric parameters 
 * 00044	AINSLIE	?  
 ** !(18) AINSLIE with 2 numeric parameters 
 ** (17) AINSLIE with 0 numeric parameters 
@@ -3932,13 +3939,6 @@
 ** (0) GAUḌA with 3 numeric parameters 
 ** (0) GAUḌA with 4 numeric parameters 
 ** (0) GAUḌA with OTHER parameters 
-* 00013	Z. f.	?  
-** !(12) Z. f. with 0 numeric parameters 
-** (1) Z. f. with OTHER parameters 
-** (0) Z. f. with 1 numeric parameters 
-** (0) Z. f. with 2 numeric parameters 
-** (0) Z. f. with 3 numeric parameters 
-** (0) Z. f. with 4 numeric parameters 
 * 00012	KĀVYA-PR.	KĀVYAPRAKĀŚA, ed. Calc. (GILD. Bibl. 265
 ** !(6) KĀVYA-PR. with 2 numeric parameters 
 ** (3) KĀVYA-PR. with 0 numeric parameters 
@@ -8832,6 +8832,13 @@
 ** (0) Z. f. d. W. d. Spr. with 2 numeric parameters 
 ** (0) Z. f. d. W. d. Spr. with 3 numeric parameters 
 ** (0) Z. f. d. W. d. Spr. with 4 numeric parameters 
+* 00002	Zeitschr. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
+** !(2) Zeitschr. f. vgl. Spr. with OTHER parameters 
+** (0) Zeitschr. f. vgl. Spr. with 0 numeric parameters 
+** (0) Zeitschr. f. vgl. Spr. with 1 numeric parameters 
+** (0) Zeitschr. f. vgl. Spr. with 2 numeric parameters 
+** (0) Zeitschr. f. vgl. Spr. with 3 numeric parameters 
+** (0) Zeitschr. f. vgl. Spr. with 4 numeric parameters 
 * 00002	ROTH, Zur Lit. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
 ** !(1) ROTH, Zur Lit. u. G. d. W. with 0 numeric parameters 
 ** (1) ROTH, Zur Lit. u. G. d. W. with OTHER parameters 
@@ -11177,13 +11184,6 @@
 ** (0) Z. f. d. W. d. S. with 3 numeric parameters 
 ** (0) Z. f. d. W. d. S. with 4 numeric parameters 
 ** (0) Z. f. d. W. d. S. with OTHER parameters 
-* 00001	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
-** !(1) Z. f. vgl. Spr. with 2 numeric parameters 
-** (0) Z. f. vgl. Spr. with 0 numeric parameters 
-** (0) Z. f. vgl. Spr. with 1 numeric parameters 
-** (0) Z. f. vgl. Spr. with 3 numeric parameters 
-** (0) Z. f. vgl. Spr. with 4 numeric parameters 
-** (0) Z. f. vgl. Spr. with OTHER parameters 
 * 00001	ROTH, Zur Lit. und G. d. W.	Zur Literatur und Geschichte des Weda. D
 ** !(1) ROTH, Zur Lit. und G. d. W. with 1 numeric parameters 
 ** (0) ROTH, Zur Lit. und G. d. W. with 0 numeric parameters 
@@ -16147,6 +16147,13 @@
 ** (0) Beitr. z. Kenntn. d. russ. Reiches with 2 numeric parameters 
 ** (0) Beitr. z. Kenntn. d. russ. Reiches with 3 numeric parameters 
 ** (0) Beitr. z. Kenntn. d. russ. Reiches with 4 numeric parameters 
+* 00001	Beitr. z. vgl. Spr.	? 
+** !(1) Beitr. z. vgl. Spr. with 2 numeric parameters 
+** (0) Beitr. z. vgl. Spr. with 0 numeric parameters 
+** (0) Beitr. z. vgl. Spr. with 1 numeric parameters 
+** (0) Beitr. z. vgl. Spr. with 3 numeric parameters 
+** (0) Beitr. z. vgl. Spr. with 4 numeric parameters 
+** (0) Beitr. z. vgl. Spr. with OTHER parameters 
 * 00001	BUCHANAN'S Handschrr.	?  
 ** !(1) BUCHANAN'S Handschrr. with 0 numeric parameters 
 ** (0) BUCHANAN'S Handschrr. with 1 numeric parameters 
@@ -16343,6 +16350,13 @@
 ** (0) MĀDHYAṂDINA-Rec. with 3 numeric parameters 
 ** (0) MĀDHYAṂDINA-Rec. with 4 numeric parameters 
 ** (0) MĀDHYAṂDINA-Rec. with OTHER parameters 
+* 00001	Z. f.	?  
+** !(1) Z. f. with OTHER parameters 
+** (0) Z. f. with 0 numeric parameters 
+** (0) Z. f. with 1 numeric parameters 
+** (0) Z. f. with 2 numeric parameters 
+** (0) Z. f. with 3 numeric parameters 
+** (0) Z. f. with 4 numeric parameters 
 * 00001	FRITZE	?  
 ** !(1) FRITZE with 0 numeric parameters 
 ** (0) FRITZE with 1 numeric parameters 

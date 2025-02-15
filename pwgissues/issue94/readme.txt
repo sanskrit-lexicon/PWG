@@ -35,6 +35,10 @@ python lsexamine2.py lsexamine1.txt lsexamine2.txt
 
 grep -e '^\*' lsexamine2.txt > lsexamine2_summary.txt
 
--------------
+
 -------------------------------------------------
+02-15-2025  redo_lsexamine.sh
+Regenerates various files based on latest versions of
+ pwg.txt and pwgbib_input.txt
+
 -------------------------------------------------
