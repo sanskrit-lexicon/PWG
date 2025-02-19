@@ -299,23 +299,4 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87/lsmarkup
 -----------------------------
 -----------------------------
 push this 'PWG' repository to github
-================================================================
-remains to do
-----------------------------
-check index for volume 2
-Indische_Spr_v2_Index.txt
 
-The format of lines is space-separated values
-Manually edit and change to tab-separated values
-global regex replacement lines: " +" -> \t
-
-
-# make index_2.js
-python make_js_index.py II Indische_Spr_v2_Index.txt  index_2.js
-
-Two errors found:
-check1 error A. line 171 =II    176     910     915     170
-check1 error A. line 260 =II    265     1357    1361    259
-
-verses disagree with pdf !
-----------------------------
