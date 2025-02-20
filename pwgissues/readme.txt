@@ -11,5 +11,20 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue77 Remove gratuitous spaces in ls
 * issue78 Transcoding vowel-marker characters
 * issue81 BHĀGAVATAPURĀṆA link target
+* issue82 Index for BHĀGAVATAPURĀṆA, Bombay edition
+* issue83 BHĀGAVATAPURĀṆA link target problems 
+* issue84 ŚATAPATHABRĀHMAṆA link target
+* issue85 Several Formatting Issues: <ls>MÜLLER</ls>?'
+* issue86 PAÑCAT.	PAÑCATANTRA.  link target
 * issue87 Indische Sprüche 1st ed. link target
-* issue94  PWG link target admin
+* issue88 List of 20 words from dem Text der ...
+* issue90 Ṛv. wrongly for Ṛv. PRĀTIŚ.
+* issue91 Lacks in Instr.Sg.m.n. and Gen. Du. 
+* issue92 VARĀH. BṚH. S. : VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
+* issue93 N.	  NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
+* issue94 PWG link target admin
+* issue95 00370	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
+* issue96 DAŚARATHA'S Tod target link
+* issue97 VID.	Geschichte des VIDŪṢAKA in BÖHTLINGK'S C
+* issue98 YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch link target
+
