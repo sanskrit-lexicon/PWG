@@ -27,4 +27,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue96 DAŚARATHA'S Tod target link
 * issue97 VID.	Geschichte des VIDŪṢAKA in BÖHTLINGK'S C
 * issue98 YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch link target
+* issue100 RAGH. RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13)
 
