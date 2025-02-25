@@ -36,7 +36,9 @@ SAT.index.tsv converted to tsv form using Google docs
 SAT.index.txt renamed
 
 
-index format:
+[NOTE Column names changed in SAT.index_edit.txt.
+ See comment at '02-24-2025' below]
+index format:  
 page	prap.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
 
 288	3	4	4	26b	27	267
@@ -45,7 +47,7 @@ page	prap.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
 7 tab-separated fields
 
 page 22 - 1130
-prap. 1 - 14  प्रपाठ prapAWaka
+prap. 1 - 14  प्रपाठ prapAWaka  [note changed to 
 adhy.  
 brāhm. ब्राह्मणम्
 from kaṇḍ.  कण्डिका A short section, shortest subdivision; (as in the śuklayajurveda).
@@ -150,3 +152,16 @@ cp temp_check_2.txt readme_checkindex_vol2.txt
 rm temp_pwg.txt
 
 ----------------------------
+02-24-2025
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/84#issuecomment-2676625083
+
+1. Change title-line of SAT.Index_edit.txt
+old: page	prap.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
+new: page	kāṇḍa	adhy.	brāhm.	from kaṇḍikā	to kaṇḍikā	ipage
+
+2. change parameter names in make_js_index.py
+prap -> kand
+Note retained v1 for 'from kaṇḍikā', and v2 for 'to kaṇḍikā'
+
+Remake index.js:
+python make_js_index.py SAT.index_edit.txt index.js

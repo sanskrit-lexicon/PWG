@@ -21,7 +21,7 @@ parm_numcols = 7
 parm_numparm = 4 
 #parm_vol = r'^(I|II|III)$'
 parm_page = r'^([0-9]+)$'
-parm_prap = r'^([0-9]+)$'
+parm_kand = r'^([0-9]+)$'
 parm_adhy = r'^([0-9]+)$'
 parm_brahm = r'^([0-9]+)$'
 parm_fromv = r'^([0-9]+)([b])?$'  # कण्डिका
@@ -32,7 +32,7 @@ parm_vpstr_format = '%04d'
 class Pagerec(object):
  """
 Format of SAT.index.txt
-page	prap.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
+page	kand.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
 288	3	4	4	26b	27	267
 288	3	5	1	1	10a	267
 
@@ -51,7 +51,7 @@ Note the first line (column names) is ignored
    return
   # give names to the column values
   raw_page = parts[0] # pdf external page number
-  raw_prap = parts[1]
+  raw_kand = parts[1]
   raw_adhy = parts[2]
   raw_brahm = parts[3]
   raw_fromv = parts[4]
@@ -63,11 +63,11 @@ Note the first line (column names) is ignored
    self.status = False
    self.status_message = 'Unexpected page: %s' % raw_page
    return
-  # check prap
-  m_prap = re.search(parm_prap,raw_prap)
-  if m_prap == None:
+  # check kand
+  m_kand = re.search(parm_kand,raw_kand)
+  if m_kand == None:
    self.status = False
-   self.status_message = 'Unexpected prap: %s' % raw_prap
+   self.status_message = 'Unexpected kand: %s' % raw_kand
    return
   # check adhy
   m_adhy = re.search(parm_adhy,raw_adhy)
@@ -96,8 +96,8 @@ Note the first line (column names) is ignored
  
   # set self.page as integer
   self.page = int(m_page.group(1))
-  # set self.prap as integer
-  self.prap = int(m_prap.group(1))
+  # set self.kand as integer
+  self.kand = int(m_kand.group(1))
   # set self.adhy as integer
   self.adhy = int(m_adhy.group(1))
   # set self.brahm as integer
@@ -122,14 +122,14 @@ Note the first line (column names) is ignored
   # vpstr  # format consistent with format of filename of scanned page
   self.vpstr = parm_vpstr_format % self.page
   # make keys for checking. tuple of ints
-  self.fromkey = (self.prap,self.adhy,self.brahm,self.fromv)
-  self.tokey   = (self.prap,self.adhy,self.brahm,self.tov)
+  self.fromkey = (self.kand,self.adhy,self.brahm,self.fromv)
+  self.tokey   = (self.kand,self.adhy,self.brahm,self.tov)
  def todict(self):
   if self.fromvx == None:
    self.fromx = ''
   e = {
    'page':int(self.page),
-   'prap':int(self.prap),
+   'kand':int(self.kand),
    'adhy':int(self.adhy),
    'brahm':int(self.brahm),
    'v1':int(self.fromv), 'v2':int(self.tov),
