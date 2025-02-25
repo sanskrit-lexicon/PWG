@@ -28,17 +28,26 @@ def one(number_string, ls_name):
 					shloka = x
 					ls = '<ls n="' + ls_name + '. ' + sarga + ',">' + shloka + '</ls>'
 				result.append(ls)
-			print(number_string + '\t' + ' '.join(result))
+			#print(number_string + '\t' + ' '.join(result))
+			return number_string + '\t' + ' '.join(result)
 		else:
-			print('ERROR', number_string)
+			#print('ERROR', number_string)
+			return 'ERROR\t' + number_string
 	else:
-		print('ERROR', number_string)
+		#print('ERROR', number_string)
+		return 'ERROR\t' + number_string
+
 
 if __name__ == "__main__":
 	filein = sys.argv[1]
 	fileout = sys.argv[2]
 	reject = sys.argv[3]
 	fin = open(filein, 'r')
+	fout = open(fileout, 'w')
+	rout = open(reject, 'w')
 	for lin in fin:
-		one(lin, 'RAGH')
-		
+		alt = one(lin, 'RAGH')
+		if alt.startswith('ERROR'):
+			rout.write(alt + '\n')
+		else:
+			fout.write(alt + '\n')
