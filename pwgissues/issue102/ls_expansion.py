@@ -53,11 +53,11 @@ def two_ref(previously_done_list, pending_list, ls_name):
 		# Expected string => <ls n="RAGH.">3,20.</ls> <ls n=RAGH.">12,23.</ls>
 		# If there is only reference to shloka, bring sarga from previous one and note it in 'n' tag.
 		number_string = number_string.rstrip()
+		#print(number_string)
 		if '<ls n="' + ls_name + '.">' in number_string:
 			ns_stripped = number_string.replace('<ls n="' + ls_name + '.">', '')
 			ns_stripped = ns_stripped.replace('</ls>', '')
-			#print(ns_stripped)
-			if re.search('^([0-9]+,[0-9]+[.])[0-9, .]+$', ns_stripped):
+			if re.search('^([0-9]+,[0-9]+[.])[0-9, .]*$', ns_stripped):
 				#print(ns_stripped)
 				result = []
 				splits = ns_stripped.split(' ')
@@ -76,7 +76,7 @@ def two_ref(previously_done_list, pending_list, ls_name):
 			else:
 				#print('ERROR', number_string)
 				#return 'ERROR\t' + number_string
-				pending.append(ls)
+				pending.append(number_string)
 		else:
 			#print('ERROR', number_string)
 			#return 'ERROR\t' + number_string
