@@ -2,7 +2,7 @@
 """lsparse2.py
 	Module to create automated suggestions for parsing lsexamine2_XXXX_other1.txt files.
 	
-	Usage - python lsparse2.py BOOKNAME lsexamine2_BOOKNAME_other1.txt auto.txt manual.txt
+	Usage - python lsparse2.py BOOKNAME lsexamine2_BOOKNAME_other1.txt BOOKNAME lsexamine2_BOOKNAME_other2.txt manual.txt
 	Author - Dr. Dhaval Patel
 	email - drdhaval2785@gmail.com
 	Date - 26 February 2025
