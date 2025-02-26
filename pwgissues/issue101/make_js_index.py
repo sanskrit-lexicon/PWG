@@ -175,6 +175,14 @@ def make_js(recs):
   arr.append(d)
  return arr
 
+def write_recs(fileout,data):
+ with codecs.open(fileout,"w","utf-8") as f:
+  f.write('indexdata = \n')
+  jsonstring = json.dumps(data,indent=1)
+  f.write( jsonstring +  '\n')
+  f.write('; // end of indexdata\n')
+  
+ print('json data written to',fileout)
 
 def check1_adhy(pagerecs):
  prev = None

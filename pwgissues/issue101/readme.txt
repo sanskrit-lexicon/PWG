@@ -69,32 +69,26 @@ python make_js_index.py sahd_index_v1.txt index_v1.js
 cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
 
 # Generate a few random instances from pwg for detail checking
-python generate_random.py 10 temp_pwg.txt I sahd_index_v1a.txt temp_check_1.txt
-cp temp_check_1.txt readme_checkindex_1.txt
-Checking this against Sahdavalkya_s_Gesetzbuch.pdf
-___ found problems ___
+# There are two modes of reference in pwg:
+#  verse
+#  linenum,ipage
+
+# nparm = 1
+python generate_random.py 10 1 temp_pwg.txt sahd_index_v1.txt temp_check_v1_1parm.txt
+cp temp_check_v1_1parm.txt readme_checkindex_v1_1parm.txt
+
+All checks succeed.
+
+# nparm = 2
+python generate_random.py 10 2 temp_pwg.txt sahd_index_v1.txt temp_check_v1_2parm.txt
+cp temp_check_v1_2parm.txt readme_checkindex_v1_2parm.txt
+
+All checks succeed.
+
+Ready for repo.
+
+Use repo name sahityadarpana
 
 
 
-
-----------------------------------------
-Checking sahd_index_v1_edit.txt against
-   yjnavalkyasgese00yjgoog.pdf
-
-python make_js_index.py I sahd_index_v1_edit.txt index_1.js
-115 Success: Page records read from sahd_index_v1_edit.txt
-json data written to index_1.js
-pagerecs passes check1_adhy
-check1 finds no problems
-
-python generate_random.py 10 temp_pwg.txt I sahd_index_v1_edit.txt temp_check_1.txt
-
-cp temp_check_1.txt readme_check_index_v1_edit.txt
-
-manually edit readme_check_index_v1_edit.txt
-for consistency of
-  sahd_index_v1_edit.txt
-  yjnavalkyasgese00yjgoog.pdf
-
-ALL IS WELL!
-
+================================================
