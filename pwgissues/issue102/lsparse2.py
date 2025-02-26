@@ -1,3 +1,13 @@
+#-*- coding:utf-8 -*-
+"""lsparse2.py
+	Module to create automated suggestions for parsing lsexamine2_XXXX_other1.txt files.
+	
+	Usage - python lsparse2.py BOOKNAME lsexamine2_BOOKNAME_other1.txt auto.txt manual.txt
+	Author - Dr. Dhaval Patel
+	email - drdhaval2785@gmail.com
+	Date - 26 February 2025
+"""
+from __future__ import print_function
 import re
 import sys
 
@@ -89,19 +99,20 @@ def print_status(done, pending):
 	print('PENDING:\t', len(pending))
 
 if __name__ == "__main__":
-	filein = sys.argv[1]
-	fileout = sys.argv[2]
-	reject = sys.argv[3]
+	ls_name = sys.argv[1]
+	filein = sys.argv[2]
+	fileout = sys.argv[3]
+	reject = sys.argv[4]
 	fin = open(filein, 'r')
 	fout = open(fileout, 'w')
 	rout = open(reject, 'w')
 	datain = fin.read().split('\n')
 	# Ignore the last blank entry while splitting on linebreak.
 	datain = datain[:-1]
-	(done, pending) = two(datain, 'RAGH')
+	(done, pending) = two(datain, ls_name)
 	print('FIRST ROUND DONE.')
 	print_status(done, pending)
-	(done, pending) = two_ref(done, pending, 'RAGH')
+	(done, pending) = two_ref(done, pending, ls_name)
 	print('SECOND ROUND DONE.')
 	print_status(done, pending)
 	fout.write('\n'.join(done))
