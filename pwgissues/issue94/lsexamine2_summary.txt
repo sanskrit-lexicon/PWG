@@ -1,5 +1,5 @@
-* 67171	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-** !(66630) MBH. with 2 numeric parameters 
+* 67173	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+** !(66632) MBH. with 2 numeric parameters 
 ** (454) MBH. with 0 numeric parameters 
 ** (71) MBH. with OTHER parameters 
 ** (13) MBH. with 1 numeric parameters 
@@ -33,11 +33,11 @@
 ** (0) P. with 1 numeric parameters 
 ** (0) P. with 2 numeric parameters 
 ** (0) P. with 4 numeric parameters 
-* 25007	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
+* 25008	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
 ** !(24992) KATHĀS. with 2 numeric parameters 
 ** (8) KATHĀS. with 0 numeric parameters 
 ** (4) KATHĀS. with 1 numeric parameters 
-** (3) KATHĀS. with OTHER parameters 
+** (4) KATHĀS. with OTHER parameters 
 ** (0) KATHĀS. with 3 numeric parameters 
 ** (0) KATHĀS. with 4 numeric parameters 
 * 22556	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
@@ -124,20 +124,20 @@
 ** (1) H. an. with 1 numeric parameters 
 ** (1) H. an. with 3 numeric parameters 
 ** (0) H. an. with 4 numeric parameters 
-* 09176	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
+* 09733	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+** !(9691) RAGH. with 2 numeric parameters 
+** (20) RAGH. with OTHER parameters 
+** (11) RAGH. with 1 numeric parameters 
+** (10) RAGH. with 0 numeric parameters 
+** (1) RAGH. with 3 numeric parameters 
+** (0) RAGH. with 4 numeric parameters 
+* 09177	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 ** !(6147) VARĀH. BṚH. S. with 2 numeric parameters 
-** (2796) VARĀH. BṚH. S. with OTHER parameters 
+** (2797) VARĀH. BṚH. S. with OTHER parameters 
 ** (174) VARĀH. BṚH. S. with 1 numeric parameters 
 ** (57) VARĀH. BṚH. S. with 0 numeric parameters 
 ** (2) VARĀH. BṚH. S. with 3 numeric parameters 
 ** (0) VARĀH. BṚH. S. with 4 numeric parameters 
-* 08753	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
-** !(8106) RAGH. with 2 numeric parameters 
-** (577) RAGH. with OTHER parameters 
-** (57) RAGH. with 1 numeric parameters 
-** (10) RAGH. with 0 numeric parameters 
-** (3) RAGH. with 3 numeric parameters 
-** (0) RAGH. with 4 numeric parameters 
 * 08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 ** !(8304) Spr. (II) with 1 numeric parameters 
 ** (160) Spr. (II) with OTHER parameters 
@@ -412,8 +412,8 @@
 ** (0) HALL with 3 numeric parameters 
 ** (0) HALL with 4 numeric parameters 
 * 02021	KĀM. NĪTIS.	? 
-** !(1743) KĀM. NĪTIS. with 2 numeric parameters 
-** (232) KĀM. NĪTIS. with OTHER parameters 
+** !(1744) KĀM. NĪTIS. with 2 numeric parameters 
+** (231) KĀM. NĪTIS. with OTHER parameters 
 ** (34) KĀM. NĪTIS. with 1 numeric parameters 
 ** (12) KĀM. NĪTIS. with 0 numeric parameters 
 ** (0) KĀM. NĪTIS. with 3 numeric parameters 
@@ -7880,13 +7880,6 @@
 ** (0) VEDĀNTAPARIBH. with 3 numeric parameters 
 ** (0) VEDĀNTAPARIBH. with 4 numeric parameters 
 ** (0) VEDĀNTAPARIBH. with OTHER parameters 
-* 00003	TAR.	?  
-** !(3) TAR. with 2 numeric parameters 
-** (0) TAR. with 0 numeric parameters 
-** (0) TAR. with 1 numeric parameters 
-** (0) TAR. with 3 numeric parameters 
-** (0) TAR. with 4 numeric parameters 
-** (0) TAR. with OTHER parameters 
 * 00003	GRAHACCH.	?  
 ** !(3) GRAHACCH. with 1 numeric parameters 
 ** (0) GRAHACCH. with 0 numeric parameters 
@@ -12388,6 +12381,13 @@
 ** (0) ARYABH. with 2 numeric parameters 
 ** (0) ARYABH. with 3 numeric parameters 
 ** (0) ARYABH. with 4 numeric parameters 
+* 00001	TAR.	?  
+** !(1) TAR. with 2 numeric parameters 
+** (0) TAR. with 0 numeric parameters 
+** (0) TAR. with 1 numeric parameters 
+** (0) TAR. with 3 numeric parameters 
+** (0) TAR. with 4 numeric parameters 
+** (0) TAR. with OTHER parameters 
 * 00001	CAṬHOP.	?  
 ** !(1) CAṬHOP. with 2 numeric parameters 
 ** (0) CAṬHOP. with 0 numeric parameters 

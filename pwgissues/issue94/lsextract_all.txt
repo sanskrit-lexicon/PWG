@@ -1,12 +1,12 @@
-750302	ALL	As of 2025-02-15
+751286	ALL	As of 2025-02-27
 00062	NUMBER	ls starts with number
-00011	UNKNOWN	ls is unknown
-67171	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+00013	UNKNOWN	ls is unknown
+67173	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 56087	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
 37820	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
 30546	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
 25302	P.	PĀṆINI'S acht Bücher grammatischer Regel
-25007	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
+25008	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
 22556	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
 20126	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
 16220	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
@@ -19,8 +19,8 @@
 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
-09176	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-08753	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+09733	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+09177	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
@@ -1127,7 +1127,6 @@
 00003	RĀGHAV.	?  
 00003	NĪTIS.	?  
 00003	VEDĀNTAPARIBH.	?  
-00003	TAR.	?  
 00003	GRAHACCH.	?  
 00003	KAUC.	?  
 00003	KHANDOM.	?  
@@ -1771,6 +1770,7 @@
 00001	CIŚ.	?  
 00001	ŚṚṄGABH.	?  
 00001	ARYABH.	?  
+00001	TAR.	?  
 00001	CAṬHOP.	?  
 00001	TARĀN.	?  
 00001	RĀJAṆ.	?  
