@@ -26,8 +26,8 @@
 ** (19) BHĀG. P. with 2 numeric parameters 
 ** (2) BHĀG. P. with 1 numeric parameters 
 ** (0) BHĀG. P. with 4 numeric parameters 
-* 25302	P.	PĀṆINI'S acht Bücher grammatischer Regel
-** !(25060) P. with 3 numeric parameters 
+* 25304	P.	PĀṆINI'S acht Bücher grammatischer Regel
+** !(25062) P. with 3 numeric parameters 
 ** (211) P. with 0 numeric parameters 
 ** (31) P. with OTHER parameters 
 ** (0) P. with 1 numeric parameters 
@@ -68,8 +68,8 @@
 ** (131) AK. with OTHER parameters 
 ** (20) AK. with 1 numeric parameters 
 ** (16) AK. with 2 numeric parameters 
-* 16150	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
-** !(15429) H. with 1 numeric parameters 
+* 16151	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+** !(15430) H. with 1 numeric parameters 
 ** (611) H. with OTHER parameters 
 ** (99) H. with 0 numeric parameters 
 ** (11) H. with 2 numeric parameters 
@@ -208,6 +208,13 @@
 ** (35) VS. with 3 numeric parameters 
 ** (19) VS. with 1 numeric parameters 
 ** (3) VS. with 4 numeric parameters 
+* 05887	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
+** !(5472) VOP. with 2 numeric parameters 
+** (290) VOP. with 0 numeric parameters 
+** (65) VOP. with OTHER parameters 
+** (42) VOP. with 1 numeric parameters 
+** (18) VOP. with 3 numeric parameters 
+** (0) VOP. with 4 numeric parameters 
 * 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
 ** !(2467) ŚĀK. with 1 numeric parameters 
 ** (2442) ŚĀK. with 2 numeric parameters 
@@ -236,13 +243,6 @@
 ** (28) HALĀY. with 1 numeric parameters 
 ** (3) HALĀY. with 3 numeric parameters 
 ** (1) HALĀY. with 4 numeric parameters 
-* 05149	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-** !(4074) VOP. with 2 numeric parameters 
-** (730) VOP. with OTHER parameters 
-** (288) VOP. with 0 numeric parameters 
-** (41) VOP. with 1 numeric parameters 
-** (16) VOP. with 3 numeric parameters 
-** (0) VOP. with 4 numeric parameters 
 * 04547	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
 ** !(4054) AIT. BR. with 2 numeric parameters 
 ** (414) AIT. BR. with OTHER parameters 
