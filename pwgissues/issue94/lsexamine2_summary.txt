@@ -5,11 +5,11 @@
 ** (13) MBH. with 1 numeric parameters 
 ** (3) MBH. with 3 numeric parameters 
 ** (0) MBH. with 4 numeric parameters 
-* 56087	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
-** !(55264) ṚV. with 3 numeric parameters 
+* 56091	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
+** !(55267) ṚV. with 3 numeric parameters 
 ** (511) ṚV. with 2 numeric parameters 
 ** (279) ṚV. with 0 numeric parameters 
-** (22) ṚV. with OTHER parameters 
+** (23) ṚV. with OTHER parameters 
 ** (9) ṚV. with 1 numeric parameters 
 ** (2) ṚV. with 4 numeric parameters 
 * 37820	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
@@ -26,8 +26,8 @@
 ** (19) BHĀG. P. with 2 numeric parameters 
 ** (2) BHĀG. P. with 1 numeric parameters 
 ** (0) BHĀG. P. with 4 numeric parameters 
-* 25304	P.	PĀṆINI'S acht Bücher grammatischer Regel
-** !(25062) P. with 3 numeric parameters 
+* 25305	P.	PĀṆINI'S acht Bücher grammatischer Regel
+** !(25063) P. with 3 numeric parameters 
 ** (211) P. with 0 numeric parameters 
 ** (31) P. with OTHER parameters 
 ** (0) P. with 1 numeric parameters 
@@ -208,12 +208,12 @@
 ** (35) VS. with 3 numeric parameters 
 ** (19) VS. with 1 numeric parameters 
 ** (3) VS. with 4 numeric parameters 
-* 05887	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-** !(5472) VOP. with 2 numeric parameters 
+* 05881	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
+** !(5514) VOP. with 2 numeric parameters 
 ** (290) VOP. with 0 numeric parameters 
-** (65) VOP. with OTHER parameters 
-** (42) VOP. with 1 numeric parameters 
-** (18) VOP. with 3 numeric parameters 
+** (64) VOP. with OTHER parameters 
+** (13) VOP. with 1 numeric parameters 
+** (0) VOP. with 3 numeric parameters 
 ** (0) VOP. with 4 numeric parameters 
 * 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
 ** !(2467) ŚĀK. with 1 numeric parameters 
@@ -271,8 +271,8 @@
 ** (9) YĀJÑ. with 0 numeric parameters 
 ** (0) YĀJÑ. with 3 numeric parameters 
 ** (0) YĀJÑ. with 4 numeric parameters 
-* 03697	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
-** !(2017) VP. with 1 numeric parameters 
+* 03698	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
+** !(2018) VP. with 1 numeric parameters 
 ** (783) VP. with OTHER parameters 
 ** (501) VP. with 2 numeric parameters 
 ** (220) VP. with 3 numeric parameters 
