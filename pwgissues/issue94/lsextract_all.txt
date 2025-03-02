@@ -1,17 +1,17 @@
-750302	ALL	As of 2025-02-15
+752027	ALL	As of 2025-03-02
 00062	NUMBER	ls starts with number
-00011	UNKNOWN	ls is unknown
-67171	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-56087	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
+00013	UNKNOWN	ls is unknown
+67173	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+56091	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
 37820	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
 30546	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
-25302	P.	PĀṆINI'S acht Bücher grammatischer Regel
-25007	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
+25305	P.	PĀṆINI'S acht Bücher grammatischer Regel
+25008	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
 22556	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
 20126	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
 16220	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
 16153	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
-16150	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+16151	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 15436	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
 14742	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
@@ -19,8 +19,8 @@
 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
-09176	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-08753	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+09733	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+09177	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
@@ -31,16 +31,16 @@
 06734	KĀTY. ŚR.	KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 Adhyāya. H
 06348	Ind. St.	WEBER'S Indische Studien.
 06080	VS.	VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHI
+05881	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
 05437	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
 05388	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
 05159	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
-05149	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
 04547	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
 03885	Verz. d. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
 03861	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
 03795	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
-03697	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
+03698	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
 03444	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
 03364	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
 03303	GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 [
@@ -1127,7 +1127,6 @@
 00003	RĀGHAV.	?  
 00003	NĪTIS.	?  
 00003	VEDĀNTAPARIBH.	?  
-00003	TAR.	?  
 00003	GRAHACCH.	?  
 00003	KAUC.	?  
 00003	KHANDOM.	?  
@@ -1771,6 +1770,7 @@
 00001	CIŚ.	?  
 00001	ŚṚṄGABH.	?  
 00001	ARYABH.	?  
+00001	TAR.	?  
 00001	CAṬHOP.	?  
 00001	TARĀN.	?  
 00001	RĀJAṆ.	?  
