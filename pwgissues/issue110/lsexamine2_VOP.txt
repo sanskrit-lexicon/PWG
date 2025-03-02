@@ -1,5 +1,5 @@
-* 05887	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-** !(5472) VOP. with 2 numeric parameters 
+* 05881	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
+** !(5514) VOP. with 2 numeric parameters 
 VOP. 2,19. 2
 VOP. 6,90. 2
 VOP. 6,9. 2
@@ -967,6 +967,7 @@ VOP. 7,60. 2
 VOP. 7,31. 2
 VOP. 7,31. 2
 VOP. 6,14. 2
+VOP. 8,114 2
 VOP. 24,6. 2
 VOP. 8,64. 2
 VOP. 8,110. 2
@@ -1058,6 +1059,7 @@ VOP. 7,63. 2
 VOP. 26,17. 2
 VOP. 26,18. 2
 VOP. 6,15. 2
+VOP. 6,16. 2
 VOP. 6,13. 2
 VOP. 6,96. 2
 VOP. 4,26. 2
@@ -1287,6 +1289,7 @@ VOP. 21,7. 2
 VOP. 26,30 2
 VOP. 4,7. 2
 VOP. 9,37. 2
+VOP. 9,38. 2
 VOP. 7,15. 2
 VOP. 4,24. 2
 VOP. 4,24. 2
@@ -1338,8 +1341,10 @@ VOP. 26,104. 2
 VOP. 3,134. 2
 VOP. 8,50 2
 VOP. 8,49. 2
+VOP. 8,49. 2
 VOP. 3,153. 2
 VOP. 8,127 2
+VOP. 8,128 2
 VOP. 20,17. 2
 VOP. 26,38. 2
 VOP. 2,47. 2
@@ -1418,6 +1423,7 @@ VOP. 9,29. 2
 VOP. 24,6. 2
 VOP. 18,22. 2
 VOP. 24,6. 2
+VOP. 24,13. 2
 VOP. 7,14. 2
 VOP. 23,52. 2
 VOP. 25,11 2
@@ -1513,6 +1519,7 @@ VOP. 4,22. 2
 VOP. 3,78. 2
 VOP. 3,42. 2
 VOP. 8,64. 2
+VOP. 8,65. 2
 VOP. 4,22. 2
 VOP. 5,7. 2
 VOP. 7,33. 2
@@ -1565,6 +1572,7 @@ VOP. 6,15. 2
 VOP. 8,38. 2
 VOP. 8,58. 2
 VOP. 8,82. 2
+VOP. 8,83. 2
 VOP. 8,84. 2
 VOP. 26,88. 2
 VOP. 26,89. 2
@@ -1627,6 +1635,7 @@ VOP. 7,71. 2
 VOP. 26,12. 2
 VOP. 6,13. 2
 VOP. 8,65 2
+VOP. 8,66 2
 VOP. 24,6. 2
 VOP. 18,22. 2
 VOP. 8,66 2
@@ -1638,6 +1647,7 @@ VOP. 20,2. 2
 VOP. 20,10. 2
 VOP. 20,17. 2
 VOP. 21,7. 2
+VOP. 21,6. 2
 VOP. 21,6. 2
 VOP. 23,45. 2
 VOP. 23,45. 2
@@ -1689,6 +1699,7 @@ VOP. 21,8 2
 VOP. 26,174. 2
 VOP. 26,11. 2
 VOP. 25,15 2
+VOP. 25,14 2
 VOP. 21,13. 2
 VOP. 2,37. 2
 VOP. 26,192. 2
@@ -1750,6 +1761,7 @@ VOP. 8,70. 2
 VOP. 8,128. 2
 VOP. 11,7. 2
 VOP. 20,8. 2
+VOP. 20,17. 2
 VOP. 23,55. 2
 VOP. 26,129. 2
 VOP. 26,192. 2
@@ -1767,6 +1779,7 @@ VOP. 26,12. 2
 VOP. 20,8. 2
 VOP. 20,2 2
 VOP. 8,107. 2
+VOP. 8,108. 2
 VOP. 108,7, v. l. 2
 VOP. 8,103. 2
 VOP. 26,165. 2
@@ -1854,6 +1867,8 @@ VOP. 7,30. 2
 VOP. 21,2. 2
 VOP. 4,7. 2
 VOP. 8,124. 2
+VOP. 16,5. 2
+VOP. 26,217. 2
 VOP. 26,88. 2
 VOP. 26,89 2
 VOP. 26,217. 2
@@ -2111,6 +2126,8 @@ VOP. 10,11 2
 VOP. 26,133 2
 VOP. 8,52. 2
 VOP. 8,106. 2
+VOP. 8,85. 2
+VOP. 8,87. 2
 VOP. 24,4. 2
 VOP. 24,5 2
 VOP. 19,9. 2
@@ -2402,6 +2419,8 @@ VOP. 26,63. 2
 VOP. 26,63. 2
 VOP. 6,9. 2
 VOP. 8,43 2
+VOP. 8,22. 2
+VOP. 8,52. 2
 VOP. 8,52. 2
 VOP. 6,85. 2
 VOP. 6,68. 2
@@ -2514,6 +2533,8 @@ VOP. 26,101. 2
 VOP. 26,101 2
 VOP. 26,171. 2
 VOP. 15,5. 2
+VOP. 3,39. 2
+VOP. 3,76. 2
 VOP. 8,103. 2
 VOP. 11,2. 2
 VOP. 8,128 2
@@ -2587,6 +2608,7 @@ VOP. 26,24. 2
 VOP. 5,12. 2
 VOP. 25,17. 2
 VOP. 6,54 2
+VOP. 6,53 2
 VOP. 6,85. 2
 VOP. 7,37. 2
 VOP. 6,22. 2
@@ -3079,6 +3101,8 @@ VOP. 7,56. 2
 VOP. 26,2. 2
 VOP. 26,2. 2
 VOP. 7,7. 2
+VOP. 7,1 2
+VOP. 7,9. 2
 VOP. 4,28. 2
 VOP. 6,13. 2
 VOP. 7,1. 2
@@ -3164,6 +3188,8 @@ VOP. 8,132. 2
 VOP. 26,12. 2
 VOP. 4,26. 2
 VOP. 7,11. 2
+VOP. 7,1 2
+VOP. 7,10. 2
 VOP. 4,12. 2
 VOP. 7,14. 2
 VOP. 26,20. 2
@@ -3286,6 +3312,8 @@ VOP. 4,15. 2
 VOP. 11,4. 2
 VOP. 13,4. 2
 VOP. 26,165. 2
+VOP. 6,45 2
+VOP. 6,51. 2
 VOP. 7,54. 2
 VOP. 4,12. 2
 VOP. 8,39. 2
@@ -3894,6 +3922,8 @@ VOP. 4,27. 2
 VOP. 21,9. 2
 VOP. 6,45. 2
 VOP. 21,9. 2
+VOP. 26,2 2
+VOP. 16,20. 2
 VOP. 20,4. 2
 VOP. 3,171. 2
 VOP. 26,8. 2
@@ -3920,6 +3950,7 @@ VOP. 7,14. 2
 VOP. 2,9. 2
 VOP. 2,9. 2
 VOP. 8,141. 2
+VOP. 8,52. 2
 VOP. 8,47. 2
 VOP. 8,141. 2
 VOP. 26,204. 2
@@ -3940,6 +3971,8 @@ VOP. 8,49. 2
 VOP. 9,9. 2
 VOP. 11,7. 2
 VOP. 24,6. 2
+VOP. 8,103 2
+VOP. 8,119 2
 VOP. 26,171. 2
 VOP. 26,7. 2
 VOP. 9,7. 2
@@ -4171,9 +4204,11 @@ VOP. 26,35. 2
 VOP. 26,160. 2
 VOP. 6,62. 2
 VOP. 26,20. 2
+VOP. 2,5 2
 VOP. 26,168 2
 VOP. 3,134. 2
 VOP. 23,41. 2
+VOP. 2,43 2
 VOP. 5,20. 2
 VOP. 18,15. 2
 VOP. 23,8. 2
@@ -4283,6 +4318,7 @@ VOP. 3,42. 2
 VOP. 8,138. 2
 VOP. 8,62. 2
 VOP. 8,139. 2
+VOP. 8,139. 2
 VOP. 18,6. 2
 VOP. 20,12. 2
 VOP. 6,31. 2
@@ -4294,6 +4330,7 @@ VOP. 26,37. 2
 VOP. 5,4. 2
 VOP. 5,21. 2
 VOP. 6,30. 2
+VOP. 7,3 2
 VOP. 7,3 2
 VOP. 26,177. 2
 VOP. 26,220. 2
@@ -4560,6 +4597,7 @@ VOP. 8,86. 2
 VOP. 8,125. 2
 VOP. 8,141. 2
 VOP. 8,142. 2
+VOP. 8,142. 2
 VOP. 18,1. 2
 VOP. 8,142. 2
 VOP. 19,1. 2
@@ -4655,6 +4693,7 @@ VOP. 26,193. 2
 VOP. 8,33. 2
 VOP. 6,72. 2
 VOP. 26,44. 2
+VOP. 7,49. 2
 VOP. 6,97. 2
 VOP. 6,61. 2
 VOP. 4,15. 2
@@ -5435,6 +5474,7 @@ VOP. 5,28. 2
 VOP. 3,39. 2
 VOP. 3,89. 2
 VOP. 5,2. 2
+VOP. 5,26. 2
 VOP. 26,166. 2
 VOP. 18,3. 2
 VOP. 26,185. 2
@@ -5458,6 +5498,8 @@ VOP. 18,8. 2
 VOP. 3,80. 2
 VOP. 26,118. 2
 VOP. 8,88. 2
+VOP. 8,89. 2
+VOP. 8,90. 2
 VOP. 18,23. 2
 VOP. 8,140. 2
 VOP. 8,91. 2
@@ -5473,7 +5515,7 @@ VOP. 23,33. 2
 VOP. 7,89. 2
 VOP. 8,126. 2
 ** (290) VOP. with 0 numeric parameters 
-** (65) VOP. with OTHER parameters 
+** (64) VOP. with OTHER parameters 
 VOP. 3,157—159. ? <ls n="VOP. 3,">157—159.</ls>
 VOP. 3,104-106. ? <ls>VOP. 3,104-106.</ls>
 VOP. 3,107-109. ? <ls>VOP. 3,107-109.</ls>
@@ -5533,72 +5575,24 @@ VOP. 3,37, Śl. 1. ? <ls>VOP. 3,37, Śl. 1.</ls>
 VOP. Einl. ? <ls>VOP. Einl.</ls>
 VOP. 3,37, Śl. 3. ? <ls>VOP. 3,37, Śl. 3.</ls>
 VOP. 11,1. partic. ? <ls n="VOP.">11,1. partic.</ls>
-VOP. 4,29,2. 10,148,1. ? <ls n="VOP.">4,29,2. 10,148,1.</ls>
 VOP. 8,46. 12, Anf. ? <ls n="VOP.">8,46. 12, Anf.</ls>
 VOP. S. 176. ? <ls>VOP. S. 176.</ls>
 VOP. ebend. 36. ? <ls>VOP. ebend. 36.</ls>
 VOP. vor 3,165. ? <ls>VOP. vor 3,165.</ls>
 VOP. 5,143, Śl. 1. ? <ls>VOP. 5,143, Śl. 1.</ls>
-** (42) VOP. with 1 numeric parameters 
+** (13) VOP. with 1 numeric parameters 
 VOP. 1. 1 <ls>VOP. 1.</ls>
-VOP. 120. 1 <ls>VOP. 120.</ls>
 VOP. 14. 1 <ls>VOP. 14.</ls>
 VOP. 176. 1 <ls>VOP. 176.</ls>
 VOP. 8 1 <ls>VOP. 8</ls>
 VOP. 5. 1 <ls n="VOP.">5.</ls>
-VOP. 16. 1 <ls n="VOP.">16.</ls>
 VOP. 4. 1 <ls n="VOP.">4.</ls>
-VOP. 38. 1 <ls n="VOP.">38.</ls>
-VOP. 49. 1 <ls n="VOP.">49.</ls>
-VOP. 128 1 <ls n="VOP.">128</ls>
-VOP. 13. 1 <ls n="VOP.">13.</ls>
-VOP. 65. 1 <ls n="VOP.">65.</ls>
-VOP. 83. 1 <ls n="VOP.">83.</ls>
-VOP. 66 1 <ls n="VOP.">66</ls>
-VOP. 6. 1 <ls n="VOP.">6.</ls>
 VOP. 176. 1 <ls>VOP. 176.</ls>
-VOP. 14 1 <ls n="VOP.">14</ls>
-VOP. 17. 1 <ls n="VOP.">17.</ls>
-VOP. 108. 1 <ls n="VOP.">108.</ls>
 VOP. 1. 1 <ls n="VOP.">1.</ls>
 VOP. 13 1 <ls n="VOP.">13</ls>
 VOP. 12 1 <ls>VOP. 12</ls>
-VOP. 5 1 <ls n="VOP.">5</ls>
-VOP. 6 1 <ls n="VOP.">6</ls>
-VOP. 5 1 <ls n="VOP.">5</ls>
-VOP. 52. 1 <ls n="VOP.">52.</ls>
-VOP. 3 1 <ls n="VOP.">3</ls>
 VOP. 16 1 <ls>VOP. 16</ls>
-VOP. 5 1 <ls n="VOP.">5</ls>
-VOP. 6 1 <ls n="VOP.">6</ls>
 VOP. 2 1 <ls>VOP. 2</ls>
-VOP. 4 1 <ls n="VOP.">4</ls>
-VOP. 139. 1 <ls n="VOP.">139.</ls>
-VOP. 7 1 <ls>VOP. 7</ls>
 VOP. 60. 1 <ls n="VOP.">60.</ls>
-VOP. 142. 1 <ls n="VOP.">142.</ls>
-VOP. 7 1 <ls>VOP. 7</ls>
-VOP. 49 1 <ls n="VOP.">49</ls>
-VOP. 26. 1 <ls n="VOP.">26.</ls>
-VOP. 89. 1 <ls n="VOP.">89.</ls>
-VOP. 90. 1 <ls n="VOP.">90.</ls>
-** (18) VOP. with 3 numeric parameters 
-VOP. 8,114, 3 <ls>VOP. 8,114,</ls>
-VOP. 16,16,5. 3 <ls n="VOP. 16,">16,5.</ls>
-VOP. 26,26,217. 3 <ls n="VOP. 26,">26,217.</ls>
-VOP. 8,85,87. 3 <ls>VOP. 8,85,87.</ls>
-VOP. 8,22,52 3 <ls>VOP. 8,22,52</ls>
-VOP. 3,39,76. 3 <ls>VOP. 3,39,76.</ls>
-VOP. 6,53, 3 <ls>VOP. 6,53,</ls>
-VOP. 7,1,9. 3 <ls>VOP. 7,1,9.</ls>
-VOP. 7,1,10. 3 <ls>VOP. 7,1,10.</ls>
-VOP. 6,45,51. 3 <ls>VOP. 6,45,51.</ls>
-VOP. 26,2,20. 3 <ls>VOP. 26,2,20.</ls>
-VOP. 8,103,119 3 <ls>VOP. 8,103,119</ls>
-VOP. 2,5, 3 <ls>VOP. 2,5,</ls>
-VOP. 2,43, 3 <ls>VOP. 2,43,</ls>
-VOP. 10,94,14. 3 <ls n="VOP.">10,94,14.</ls>
-VOP. 9,6,8. 3 <ls n="VOP.">9,6,8.</ls>
-VOP. 2,16,5. 3 <ls n="VOP.">2,16,5.</ls>
-VOP. 8,1,58. 3 <ls n="VOP.">8,1,58.</ls>
+** (0) VOP. with 3 numeric parameters 
 ** (0) VOP. with 4 numeric parameters 
