@@ -210,8 +210,8 @@ def main1():
  print('2nd check point')
 
 def init_verseentries(entries):
- # YĀJÑ. [1-3],[0-9]+
- regex_raw = r'<ls>YĀJÑ. ([1-3]),([0-9]+)'
+ # VOP. [1-3],[0-9]+
+ regex_raw = r'<ls>VOP. ([1-3]),([0-9]+)'
  print("regex_raw =",regex_raw)
 
  regex = re.compile(regex_raw)
