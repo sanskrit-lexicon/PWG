@@ -112,7 +112,6 @@ Note the first line (column names) is ignored
    # 'adhy':int(self.adhy),
    'v1':int(self.fromv), 'v2':int(self.tov),
    'x1':self.fromvx, 'x2':self.tovx,
-   'ipage':int(self.ipage),
    'vp':self.vpstr
   }
   return e
