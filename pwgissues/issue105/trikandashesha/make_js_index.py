@@ -1,5 +1,5 @@
 # coding=utf-8
-""" make_js_index.py for Raghuvamsa
+""" make_js_index.py for ŚAT. BR.	The ŚATAPATHABRĀHMAṆA
 """
 from __future__ import print_function
 import sys, re, codecs
@@ -14,39 +14,34 @@ def roman_to_int(roman):
  else:
   # error condition
   return None
- 
-# global parameters
+
+ # global parameters
 parm_regex_split = '\t' #    r'[ ]+'
 parm_numcols = 6
-parm_numparm = 1  
+parm_numparm = 4 
 parm_vol = r'^(I|II|III)$'
 parm_page = r'^([0-9]+)$'
-parm_kanda = r'^([123])$'
+parm_kand = r'^([0-9]+)$'
 parm_adhy = r'^([0-9]+)$'
-parm_fromv = r'^([0-9]+)([b])?$'
-parm_tov = r'^([0-9]+)([a])?$'
+parm_fromv = r'^([0-9]+)([b])?$'  # कण्डिका
+parm_tov = r'^([0-9]+)([ab])?$'   # line 42 from=20b, to=20b
 parm_ipage = r'^([0-9]+)$'   # not used
-parm_vpstr_format = '%d%03d'
+parm_vpstr_format = '%04d'
 
-# scanned image file name prefix 2 parameters
-# first parameter = volume (as int -- 1,2,3)
-# second parameter = page  (as 3-digit 0-filled integer 001, etc.
-# number of paramenters in a verse reference
 class Pagerec(object):
  """
-Format of YajnavalkyaDharmaSastra
-vol	page	adhy	fromv	tov
-I	29	1	1	5
+Format of SAT.index.txt
+page	kand.	adhy.	brāhm.	from kaṇḍ.	to kaṇḍ.	ipage
+288	3	4	4	26b	27	267
+288	3	5	1	1	10a	267
 
 Note the first line (column names) is ignored
 """ 
- def __init__(self,line,iline,filevol):
+ def __init__(self,line,iline):
   line = line.rstrip('\r\n')
   self.line = line
   self.iline = iline
   parts = re.split(parm_regex_split,line)
-  print(parts)
-  assert len(parts) == parm_numcols
   self.status = True  # assume all is well
   self.status_message = 'All is ok'
   if len(parts) != parm_numcols:
@@ -54,17 +49,18 @@ Note the first line (column names) is ignored
    self.message = 'Expected %s values. Found %s value' %(parm_numcols,len(parts))
    return
   # give names to the column values
-  raw_vol = parts[0]  
-  raw_page = parts[1] # internal to volume. digits
-  raw_kanda = parts[2]
+  raw_vol = parts[0]
+  raw_page = parts[1] # pdf external page number
+  raw_kand = parts[2]
   raw_adhy = parts[3]
   raw_fromv = parts[4]
   raw_tov = parts[5]
+  #raw_ipage = parts[6]
   # check vol
   m_vol = re.search(parm_vol,raw_vol)
   if m_vol == None:
    self.status = False
-   self.status_message = 'Unexpected vol: %s' % raw_vol
+   self.status_message = 'Unexpected Volume: %s' % raw_vol
    return
   # check page 
   m_page = re.search(parm_page,raw_page)
@@ -72,23 +68,11 @@ Note the first line (column names) is ignored
    self.status = False
    self.status_message = 'Unexpected page: %s' % raw_page
    return
-  # check kanda
-  m_kanda = re.search(parm_kanda,raw_kanda)
-  if m_kanda == None:
+  # check kand
+  m_kand = re.search(parm_kand,raw_kand)
+  if m_kand == None:
    self.status = False
-   self.status_message = 'Unexpected kanda: %s' % raw_page
-   return
-  # check fromv 
-  m_fromv = re.search(parm_fromv,raw_fromv)
-  if m_fromv == None:
-   self.status = False
-   self.status_message = 'Unexpected fromv: %s' % raw_fromv
-   return
-  # check tov 
-  m_tov = re.search(parm_tov,raw_tov)
-  if m_tov == None:
-   self.status = False
-   self.status_message = 'Unexpected tov: %s' % raw_tov
+   self.status_message = 'Unexpected kand: %s' % raw_kand
    return
   # check adhy
   m_adhy = re.search(parm_adhy,raw_adhy)
@@ -96,20 +80,37 @@ Note the first line (column names) is ignored
    self.status = False
    self.status_message = 'Unexpected adhy: %s' % raw_adhy
    return
-  
-  # set self.vol as integer
-  self.vol0 = m_vol.group(1)
-  self.vol = roman_to_int(m_vol.group(1))
-  if self.vol == None:
+  """
+  # check brahm
+  m_brahm = re.search(parm_brahm,raw_brahm)
+  if m_brahm == None:
    self.status = False
-   self.status_message = 'Unexpected vol: %s' % raw_vol
+   self.status_message = 'Unexpected brahm: %s' % raw_brahm
    return
+  """
+  # check fromv कण्डिका
+  m_fromv = re.search(parm_fromv,raw_fromv)
+  if m_fromv == None:
+   self.status = False
+   self.status_message = 'Unexpected fromv: %s' % raw_fromv
+   return
+  # check tov कण्डिका
+  m_tov = re.search(parm_tov,raw_tov)
+  if m_tov == None:
+   self.status = False
+   self.status_message = 'Unexpected tov: %s' % raw_tov
+   return
+ 
   # set self.page as integer
   self.page = int(m_page.group(1))
-  # set self.kanda as integer
-  self.kanda = int(m_kanda.group(1))
+  # set self.kand as integer
+  self.kand = int(m_kand.group(1))
   # set self.adhy as integer
   self.adhy = int(m_adhy.group(1))
+  """
+  # set self.brahm as integer
+  self.brahm = int(m_brahm.group(1))
+  """
   # set self.fromv as integer
   self.fromv = int(m_fromv.group(1))
   x1 =  m_fromv.group(2)
@@ -124,21 +125,29 @@ Note the first line (column names) is ignored
    self.tovx = ''
   else:
    self.tovx = x2;
+  """
+  # set self.ipage as integer
+  m_ipage = re.search(parm_ipage,raw_ipage)
+  self.ipage = int(m_ipage.group(1))
+  """
   # vpstr  # format consistent with format of filename of scanned page
-  self.vpstr = parm_vpstr_format % (self.vol,self.page)
-
+  self.vpstr = parm_vpstr_format % self.page
+  # make keys for checking. tuple of ints
+  self.fromkey = (self.kand,self.adhy,self.fromv)
+  self.tokey   = (self.kand,self.adhy,self.tov)
  def todict(self):
   if self.fromvx == None:
    self.fromx = ''
   e = {
-   'v':self.vol0, 'page':int(self.page),
+   'page':int(self.page),
+   'kand':int(self.kand),
    'adhy':int(self.adhy),
    'v1':int(self.fromv), 'v2':int(self.tov),
    'x1':self.fromvx, 'x2':self.tovx, 'vp':self.vpstr
   }
   return e
 
-def init_pagerecs(filein,filevol):
+def init_pagerecs(filein):
  """ filein is a csv file, with first line as fieldnames
  """
  recs = []
@@ -146,9 +155,9 @@ def init_pagerecs(filein,filevol):
   for iline,line in enumerate(f):
    if (iline == 0):
     # assert line.startswith('volume') # skip column-title line
-    print('Skipping column title line:',line)
+    # print('Skipping column title line:',line)
     continue
-   pagerec = Pagerec(line,iline,filevol)
+   pagerec = Pagerec(line,iline)
    if pagerec.status:
     # No problems noted
     recs.append(pagerec)
@@ -158,9 +167,8 @@ def init_pagerecs(filein,filevol):
     print('line=',line)
     print('message=',pagerec.status_message)
     exit(1)
- print(len(recs),'Success: Page records read from',filein)
+ print('%s Page records read from %s' % (len(recs),filein))
  return recs
-
 
 def make_js(recs):
  outarr = []
@@ -180,81 +188,70 @@ def write_recs(fileout,data):
   
  print('json data written to',fileout)
 
-def check1_adhy(pagerecs):
+def check1_hierarchy(pagerecs):
+ # records assumed lexicographically ordered
  prev = None
  for irec,rec in enumerate(pagerecs):
   lnum = rec.iline + 1
   line = rec.line
   if irec == 0:
-   # first record has adhy = 1
-   if rec.adhy != 1:
-    print('check1_adhy: first adhy not 1.')
+   # first record has all parameters = 1
+   if rec.fromkey != (1,1,1,1):
+    print('check1_hierarchy: first key not 1.')
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
    prev = rec
    continue
-  if prev.adhy == rec.adhy:
-   pass # no problem
-  elif (prev.adhy + 1) == rec.adhy:
-   pass
-  else:
-   # unexpected
-   print('check1_adhy. adhy=%s, expected %s' %(rec.adhy,prev.adhy + 1))
-   print('lnum=%s, line=%s' % (lnum,line))
-   exit(1)
-  # reset prev
+  if prev.fromkey[0:3] == rec.fromkey[0:3]:
+   # nothing to check
+   prev = rec
+   continue
+  if prev.fromkey[0:2] == rec.fromkey[0:2]:
+   if ( ((prev.fromkey[2] + 1) != rec.fromkey[2]) or
+        (rec.fromkey[3] != 1)):
+    print('check1_hierarchy: parm#3 error')
+    print('lnum=%s, line=%s' % (lnum,line))
+    exit(1)
+   prev = rec
+   continue
+  if prev.fromkey[0:1] == rec.fromkey[0:1]:
+   if ( ((prev.fromkey[1] + 1) != rec.fromkey[1]) or
+        (rec.fromkey[2:4] != (1,1)) ):
+    print('check1_hierarchy: parm#2 error')
+    print('lnum=%s, line=%s' % (lnum,line))
+    exit(1)
+   prev = rec
+   continue
+  if ( ((prev.fromkey[0] + 1) != rec.fromkey[0]) or
+        (rec.fromkey[1:4] != (1,1,1)) ):
+    print('check1_hierarchy: parm#1 error')
+    print('lnum=%s, line=%s' % (lnum,line))
+    exit(1)
   prev = rec
- print('pagerecs passes check1_adhy ')
+  continue
+  
+ print('pagerecs passes check1_hierarchy ')
  
-
-def check1(pagerecs):
- """ check that v1 = v2_prev + 1 when 
- """
- check1_adhy(pagerecs)
- 
- nerr = 0
+def check1_key(pagerecs):
  for irec,rec in enumerate(pagerecs):
   lnum = rec.iline + 1
   line = rec.line
-  if irec == 0:
-   # first verse should be 1
-   if rec.fromv != 1:
-    print('first verse not 1')
-    print('check1_adhy: first adhy not 1.')
-    print('lnum=%s, line=%s' % (lnum,line))
-    exit(1)    
-   prev = rec
-   continue
-  if (rec.adhy != prev.adhy):
-   if rec.fromv != 1:
-    print('first verse in adhyaya not 1')
+  if not (rec.fromkey <= rec.tokey):
+    print('ERROR fromkey %s > tokey %s.' % (rec.fromkey,rec.tokey))
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
-   prev = rec
-   continue
-  # rec.adhy = prev.adhy
-  if (rec.fromvx == '') and (prev.tovx == ''):
-   if rec.fromv != (prev.tov + 1):
-    print('fromv problem A')
-    print('lnum=%s, line=%s' % (lnum,line))
-    exit(1)
-  else:
-   if (prev.tovx == 'a') and (rec.fromvx == 'b') and (rec.fromv == prev.tov):
-    # no problem
-    pass
-   else:
-    print('fromv problem B')
-    print('lnum=%s, line=%s' % (lnum,line))
-    exit(1)
-  prev = rec
- print("check1 finds no problems")
-
+ print('pagerecs passes check1_key')
+ 
+def check1(pagerecs):
+ """ check that v1 = v2_prev + 1 when 
+ """
+ check1_key(pagerecs)
+ check1_hierarchy(pagerecs)
 
 if __name__ == "__main__":
- filevol = sys.argv[1] # I, II, or III
- filein=sys.argv[2]  # tab-delimited index file
- fileout = sys.argv[3]
- pagerecs = init_pagerecs(filein,filevol)
+ filein=sys.argv[1]  # tab-delimited index file
+ fileout = sys.argv[2]
+ pagerecs = init_pagerecs(filein)
  outrecs = make_js(pagerecs)
  write_recs(fileout,outrecs)
  check1(pagerecs)
