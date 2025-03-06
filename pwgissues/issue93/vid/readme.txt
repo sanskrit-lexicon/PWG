@@ -11,7 +11,7 @@ pdf: Chrestomathie 1st ed. 1845.pdf
 
 -----------------------------
 
-format 5 fields tab-separated values
+format 4 fields tab-separated values
 page	from v.	to v.	ipage
 232	1	9	214
 
@@ -25,7 +25,7 @@ Note: no 'a,b', etc.
 -----------------------------
 make_js_index.py makes index into a javascript module.
 It does several validity checks.
-This program will be part of the 'app1' in the sanskrit-lexicon-scans
+This program will be part of the 'app3' in the sanskrit-lexicon-scans
 repo for this link source.
 
 

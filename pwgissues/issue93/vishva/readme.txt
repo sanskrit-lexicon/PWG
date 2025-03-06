@@ -4,7 +4,7 @@ issue93/vishva/readme.txt
 
 VIŚV.	VIŚVĀMITRA'S Kampf   sarga,verse
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/93
-
+ Kampf = battle
 This issue93 directory in local file system:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue93
 
@@ -14,7 +14,7 @@ pdf: Chrestomathie 1st ed. 1845.pdf
 
 -----------------------------
 
-format 5 fields tab-separated values\
+format 5 fields tab-separated values
 page	sarga	from v.	to v.	ipage
 99	1	1	9	81
 
@@ -29,7 +29,7 @@ Note: no 'a,b', etc.
 -----------------------------
 make_js_index.py makes index into a javascript module.
 It does several validity checks.
-This program will be part of the 'app1' in the sanskrit-lexicon-scans
+This program will be part of the 'app4' in the sanskrit-lexicon-scans
 repo for this link source.
 
 

@@ -8,7 +8,7 @@ Ref: https://github.com/sanskrit-lexicon/PWG/issues/93
 This issue93 directory in local file system:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue93
 
-index.txt BÖHTLINGK'S Chrestomathi
+index.txt BÖHTLINGK'S Chrestomathie
 pdf: Chrestomathie 1st ed. 1845.pdf
 /e/pdfwork/chr1/Chrestomathie 1st ed. 1845.pdf
 
@@ -29,7 +29,7 @@ Note: no 'a,b', etc.
 -----------------------------
 make_js_index.py makes index into a javascript module.
 It does several validity checks.
-This program will be part of the 'app1' in the sanskrit-lexicon-scans
+This program will be part of the 'app2' in the sanskrit-lexicon-scans
 repo for this link source.
 
 
