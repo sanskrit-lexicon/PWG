@@ -196,7 +196,7 @@ def check1_hierarchy(pagerecs):
   line = rec.line
   if irec == 0:
    # first record has all parameters = 1
-   if rec.fromkey != (1,1,1,1):
+   if rec.fromkey != (1,1,1):
     print('check1_hierarchy: first key not 1.')
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
@@ -206,9 +206,10 @@ def check1_hierarchy(pagerecs):
    # nothing to check
    prev = rec
    continue
+  #print(prev.fromkey, prev.tokey, rec.fromkey, rec.tokey)
   if prev.fromkey[0:2] == rec.fromkey[0:2]:
-   if ( ((prev.fromkey[2] + 1) != rec.fromkey[2]) or
-        (rec.fromkey[3] != 1)):
+   if ( (prev.tokey[2] != rec.fromkey[2]) and
+       (rec.fromkey[1] != prev.tokey[1])):
     print('check1_hierarchy: parm#3 error')
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
@@ -216,14 +217,14 @@ def check1_hierarchy(pagerecs):
    continue
   if prev.fromkey[0:1] == rec.fromkey[0:1]:
    if ( ((prev.fromkey[1] + 1) != rec.fromkey[1]) or
-        (rec.fromkey[2:4] != (1,1)) ):
+        (rec.fromkey[2] != 1) ):
     print('check1_hierarchy: parm#2 error')
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
    prev = rec
    continue
   if ( ((prev.fromkey[0] + 1) != rec.fromkey[0]) or
-        (rec.fromkey[1:4] != (1,1,1)) ):
+        (rec.fromkey[1:3] != (1,1)) ):
     print('check1_hierarchy: parm#1 error')
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
