@@ -48,13 +48,9 @@ last lines of index
 583	107	13	13	508
 
 ----------------------------------------
-misc checks between pwg and Br.pdf
-first verse:
-+ <L>27412<pc>3-0095<k1>ji  <ls>VARĀH. BṚH. S. 1,1.</ls> (jayati — savitA) 
-+ <L>71841<pc>5-1337<k1>kram   <ls>VARĀH. BṚH. S. 107,13.</ls>  (anukrAntam)
+misc checks between pwg , Br.pdf and index
+see readme_brihat_problems.txt
 
-+ <L>41013<pc>4-0328<k1>nEzWika  <L>41013<pc>4-0328<k1>nEzWika
-    {#kftsnANgopANgakuSalaM horAgaRitanEzWikam#}
 ----------------------------------------
 page, ipage
 
@@ -66,8 +62,7 @@ page, ipage
 ...
 75 64 end of preface
 76 १  श्रीगणॅशाय नमः   <<< index starts here   upanayana (introduction)
---------------
-------
+
 
 # apply the program to the index
 python make_js_index.py index.txt index.js
