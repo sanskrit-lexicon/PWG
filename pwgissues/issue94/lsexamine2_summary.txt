@@ -54,6 +54,13 @@
 ** (0) ŚKDR. with 2 numeric parameters 
 ** (0) ŚKDR. with 3 numeric parameters 
 ** (0) ŚKDR. with 4 numeric parameters 
+* 16842	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+** !(16529) H. with 1 numeric parameters 
+** (203) H. with OTHER parameters 
+** (99) H. with 0 numeric parameters 
+** (11) H. with 2 numeric parameters 
+** (0) H. with 3 numeric parameters 
+** (0) H. with 4 numeric parameters 
 * 16220	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
 ** !(15977) AV. with 3 numeric parameters 
 ** (174) AV. with 0 numeric parameters 
@@ -68,13 +75,6 @@
 ** (131) AK. with OTHER parameters 
 ** (20) AK. with 1 numeric parameters 
 ** (16) AK. with 2 numeric parameters 
-* 16152	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
-** !(15430) H. with 1 numeric parameters 
-** (612) H. with OTHER parameters 
-** (99) H. with 0 numeric parameters 
-** (11) H. with 2 numeric parameters 
-** (0) H. with 3 numeric parameters 
-** (0) H. with 4 numeric parameters 
 * 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 ** !(15425) HARIV. with 1 numeric parameters 
 ** (253) HARIV. with 0 numeric parameters 
@@ -117,11 +117,11 @@
 ** (61) SUŚR. with 1 numeric parameters 
 ** (27) SUŚR. with 0 numeric parameters 
 ** (2) SUŚR. with 4 numeric parameters 
-* 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
-** !(6609) H. an. with 0 numeric parameters 
+* 09786	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
+** !(6610) H. an. with 0 numeric parameters 
 ** (3113) H. an. with 2 numeric parameters 
 ** (60) H. an. with OTHER parameters 
-** (1) H. an. with 1 numeric parameters 
+** (2) H. an. with 1 numeric parameters 
 ** (1) H. an. with 3 numeric parameters 
 ** (0) H. an. with 4 numeric parameters 
 * 09733	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
@@ -439,13 +439,13 @@
 ** (3) UṆĀDIS. with 1 numeric parameters 
 ** (0) UṆĀDIS. with 3 numeric parameters 
 ** (0) UṆĀDIS. with 4 numeric parameters 
-* 01866	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
-** !(1778) HĀR. with 1 numeric parameters 
+* 01873	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
+** !(1795) HĀR. with 1 numeric parameters 
 ** (77) HĀR. with 0 numeric parameters 
-** (9) HĀR. with OTHER parameters 
-** (2) HĀR. with 2 numeric parameters 
+** (1) HĀR. with 2 numeric parameters 
 ** (0) HĀR. with 3 numeric parameters 
 ** (0) HĀR. with 4 numeric parameters 
+** (0) HĀR. with OTHER parameters 
 * 01847	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
 ** !(1317) LĀṬY. with 3 numeric parameters 
 ** (472) LĀṬY. with OTHER parameters 
@@ -572,13 +572,13 @@
 ** (1) KĀṬH. with 3 numeric parameters 
 ** (0) KĀṬH. with 1 numeric parameters 
 ** (0) KĀṬH. with 4 numeric parameters 
-* 01303	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
-** !(1278) H. ś. with 1 numeric parameters 
-** (24) H. ś. with OTHER parameters 
-** (1) H. ś. with 2 numeric parameters 
+* 01307	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
+** !(1307) H. ś. with 1 numeric parameters 
 ** (0) H. ś. with 0 numeric parameters 
+** (0) H. ś. with 2 numeric parameters 
 ** (0) H. ś. with 3 numeric parameters 
 ** (0) H. ś. with 4 numeric parameters 
+** (0) H. ś. with OTHER parameters 
 * 01300	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 14
 ** !(1235) ŚIŚ. with 2 numeric parameters 
 ** (46) ŚIŚ. with OTHER parameters 
@@ -1937,8 +1937,8 @@
 ** (0) BĀLAB. with 2 numeric parameters 
 ** (0) BĀLAB. with 3 numeric parameters 
 ** (0) BĀLAB. with 4 numeric parameters 
-* 00102	Z.	?  
-** !(96) Z. with 1 numeric parameters 
+* 00103	Z.	?  
+** !(97) Z. with 1 numeric parameters 
 ** (2) Z. with 0 numeric parameters 
 ** (2) Z. with 2 numeric parameters 
 ** (2) Z. with OTHER parameters 

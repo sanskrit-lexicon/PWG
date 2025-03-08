@@ -1,4 +1,4 @@
-752429	ALL	As of 2025-03-08
+753133	ALL	As of 2025-03-08
 00062	NUMBER	ls starts with number
 00013	UNKNOWN	ls is unknown
 67178	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
@@ -9,16 +9,16 @@
 25008	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
 22556	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
 20126	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
+16842	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 16220	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
 16153	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
-16152	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 15436	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
 14742	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
 12986	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
-09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
+09786	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 09733	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
 09177	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 08821	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
@@ -64,7 +64,7 @@
 02020	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
 02020	WILS.	WILSON'S Wörterbuch (GILD. Bibl. 37).
 02018	UṆĀDIS.	?  
-01866	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
+01873	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
 01847	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
 01843	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
 01835	ĀŚV. ŚR.	ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya
@@ -83,7 +83,7 @@
 01417	KULL.	KULLŪKA, ein Scholiast des MANU, vollstä
 01388	SIDDH. K.	SIDDHĀNTAKAUMUDĪ, die Calc. Ausg. in 4º 
 01316	KĀṬH.	KĀṬHAKA-Recension des YĀJ. V.
-01303	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
+01307	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
 01300	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 14
 01291	BHARTṚ.	BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl
 01264	SĀY.	SĀYAṆA.
@@ -278,7 +278,7 @@
 00111	KṢITĪŚ.	?  
 00111	NYĀYAS.	?  
 00110	BĀLAB.	BĀLABODHANĪ in WINDISCHMANN'S Sancara (G
-00102	Z.	?  
+00103	Z.	?  
 00101	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER (GILD. B
 00101	DHANV.	?  
 00097	KĀLIKĀ-P.	KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
