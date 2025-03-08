@@ -26,8 +26,8 @@
 ** (19) BHĀG. P. with 2 numeric parameters 
 ** (2) BHĀG. P. with 1 numeric parameters 
 ** (0) BHĀG. P. with 4 numeric parameters 
-* 25305	P.	PĀṆINI'S acht Bücher grammatischer Regel
-** !(25063) P. with 3 numeric parameters 
+* 25306	P.	PĀṆINI'S acht Bücher grammatischer Regel
+** !(25064) P. with 3 numeric parameters 
 ** (211) P. with 0 numeric parameters 
 ** (31) P. with OTHER parameters 
 ** (0) P. with 1 numeric parameters 
@@ -68,9 +68,9 @@
 ** (131) AK. with OTHER parameters 
 ** (20) AK. with 1 numeric parameters 
 ** (16) AK. with 2 numeric parameters 
-* 16151	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+* 16152	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 ** !(15430) H. with 1 numeric parameters 
-** (611) H. with OTHER parameters 
+** (612) H. with OTHER parameters 
 ** (99) H. with 0 numeric parameters 
 ** (11) H. with 2 numeric parameters 
 ** (0) H. with 3 numeric parameters 
@@ -138,6 +138,13 @@
 ** (57) VARĀH. BṚH. S. with 0 numeric parameters 
 ** (2) VARĀH. BṚH. S. with 3 numeric parameters 
 ** (0) VARĀH. BṚH. S. with 4 numeric parameters 
+* 08821	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
+** !(7711) TRIK. with 3 numeric parameters 
+** (1105) TRIK. with 0 numeric parameters 
+** (3) TRIK. with 2 numeric parameters 
+** (2) TRIK. with 4 numeric parameters 
+** (0) TRIK. with 1 numeric parameters 
+** (0) TRIK. with OTHER parameters 
 * 08468	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
 ** !(8304) Spr. (II) with 1 numeric parameters 
 ** (160) Spr. (II) with OTHER parameters 
@@ -145,13 +152,6 @@
 ** (1) Spr. (II) with 3 numeric parameters 
 ** (0) Spr. (II) with 0 numeric parameters 
 ** (0) Spr. (II) with 4 numeric parameters 
-* 08429	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
-** !(6874) TRIK. with 3 numeric parameters 
-** (1102) TRIK. with 0 numeric parameters 
-** (424) TRIK. with OTHER parameters 
-** (15) TRIK. with 1 numeric parameters 
-** (7) TRIK. with 2 numeric parameters 
-** (7) TRIK. with 4 numeric parameters 
 * 08175	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
 ** !(5636) PAÑCAT. with 2 numeric parameters 
 ** (2474) PAÑCAT. with OTHER parameters 
