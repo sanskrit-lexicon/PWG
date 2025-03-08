@@ -1,7 +1,7 @@
-752034	ALL	As of 2025-03-08
+752035	ALL	As of 2025-03-08
 00062	NUMBER	ls starts with number
 00013	UNKNOWN	ls is unknown
-67173	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+67178	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 56091	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
 37820	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
 30546	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
@@ -15,7 +15,7 @@
 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 15436	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
 14742	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
-12993	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
+12986	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
 09784	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
@@ -376,6 +376,7 @@
 00040	UṆ.	?  
 00039	AŚOKĀVAD.	AŚOKĀVADĀNA?  
 00039	MAHĀVĪRAC.	?  
+00039	MAD.	?  
 00038	VEṆĪS.	VEṆĪSAM̃HĀRA; nach Anführungen im ŚKDR.
 00038	NĀGĀN.	?  
 00038	GOLD.	?  
@@ -389,7 +390,6 @@
 00037	KĀD.	?  
 00036	VIVĀDAC.	VIVĀDACINTĀMAṆI, ed. Calc. (GILD. Bibl. 
 00036	ŚĀṆḌ.	bhakti-sūtra, by śāṇḍilya  
-00036	MAD.	?  
 00036	AJAYA	?  
 00036	KUMĀRILA	?  
 00036	TS. Comm.	? 

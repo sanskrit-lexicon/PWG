@@ -1,7 +1,7 @@
-* 67173	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-** !(66632) MBH. with 2 numeric parameters 
+* 67178	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+** !(66636) MBH. with 2 numeric parameters 
 ** (454) MBH. with 0 numeric parameters 
-** (71) MBH. with OTHER parameters 
+** (72) MBH. with OTHER parameters 
 ** (13) MBH. with 1 numeric parameters 
 ** (3) MBH. with 3 numeric parameters 
 ** (0) MBH. with 4 numeric parameters 
@@ -96,13 +96,13 @@
 ** (8) Verz. d. Oxf. H. with 0 numeric parameters 
 ** (1) Verz. d. Oxf. H. with 3 numeric parameters 
 ** (0) Verz. d. Oxf. H. with 4 numeric parameters 
-* 12993	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
-** !(7168) MED. with 0 numeric parameters 
+* 12986	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
+** !(7170) MED. with 0 numeric parameters 
 ** (5810) MED. with OTHER parameters 
-** (10) MED. with 2 numeric parameters 
-** (4) MED. with 1 numeric parameters 
-** (1) MED. with 4 numeric parameters 
+** (3) MED. with 1 numeric parameters 
+** (3) MED. with 2 numeric parameters 
 ** (0) MED. with 3 numeric parameters 
+** (0) MED. with 4 numeric parameters 
 * 12698	Spr.	Indische Sprüche. Sanskrit und deutsch h
 ** !(12662) Spr. with 1 numeric parameters 
 ** (30) Spr. with 0 numeric parameters 
@@ -208,11 +208,11 @@
 ** (35) VS. with 3 numeric parameters 
 ** (19) VS. with 1 numeric parameters 
 ** (3) VS. with 4 numeric parameters 
-* 05881	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-** !(5514) VOP. with 2 numeric parameters 
-** (290) VOP. with 0 numeric parameters 
-** (64) VOP. with OTHER parameters 
-** (13) VOP. with 1 numeric parameters 
+* 05888	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
+** !(5532) VOP. with 2 numeric parameters 
+** (291) VOP. with 0 numeric parameters 
+** (51) VOP. with OTHER parameters 
+** (14) VOP. with 1 numeric parameters 
 ** (0) VOP. with 3 numeric parameters 
 ** (0) VOP. with 4 numeric parameters 
 * 05500	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
@@ -2623,6 +2623,13 @@
 ** (0) MAHĀVĪRAC. with 1 numeric parameters 
 ** (0) MAHĀVĪRAC. with 3 numeric parameters 
 ** (0) MAHĀVĪRAC. with 4 numeric parameters 
+* 00039	MAD.	?  
+** !(25) MAD. with 2 numeric parameters 
+** (14) MAD. with 0 numeric parameters 
+** (0) MAD. with 1 numeric parameters 
+** (0) MAD. with 3 numeric parameters 
+** (0) MAD. with 4 numeric parameters 
+** (0) MAD. with OTHER parameters 
 * 00038	VEṆĪS.	VEṆĪSAM̃HĀRA; nach Anführungen im ŚKDR.
 ** !(17) VEṆĪS. with 2 numeric parameters 
 ** (10) VEṆĪS. with 0 numeric parameters 
@@ -2714,13 +2721,6 @@
 ** (0) ŚĀṆḌ. with 2 numeric parameters 
 ** (0) ŚĀṆḌ. with 3 numeric parameters 
 ** (0) ŚĀṆḌ. with 4 numeric parameters 
-* 00036	MAD.	?  
-** !(22) MAD. with 2 numeric parameters 
-** (14) MAD. with 0 numeric parameters 
-** (0) MAD. with 1 numeric parameters 
-** (0) MAD. with 3 numeric parameters 
-** (0) MAD. with 4 numeric parameters 
-** (0) MAD. with OTHER parameters 
 * 00036	AJAYA	?  
 ** !(35) AJAYA with 0 numeric parameters 
 ** (1) AJAYA with OTHER parameters 
