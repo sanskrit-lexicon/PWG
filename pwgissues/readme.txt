@@ -30,4 +30,6 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue100 RAGH. RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13)
 * issue101 SĀH. D. SĀHITYADARPAṆA
 * issue102 RAGHUVAṂŚA trial to identify missing ls entries 
+* issue105 MEDINĪKOṢA
+* issue110 VOPADEVA'S Mughabodha
 
