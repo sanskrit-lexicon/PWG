@@ -90,5 +90,29 @@ Ready for repo.
 Use repo name sahityadarpana
 
 
+=================================================
+mw <ls>Sāh. [0-9]    Not sure how to interpret
+
+29 matches for "<ls>Sāh. [0-9]" in buffer: mw.txt
+ page?
+M
+? mw    <L>24354<pc>139,3<k1>Ananda      <ls>Sāh. 399</ls>
+? mw    <L>46857<pc>266,1<k1>kazwArTatva <ls>Sāh. 227, 18.</ls>
+   only one other like 46857
 
 ================================================
+03-07-2025  References by MW use a different pdf
+150 matches for "<ls>Sāh. [ivx]+, *[0-9]+" in buffer: mw.txt
+ (pariccheda, kārikā) mode of referencing, in MW
+ Sah_D_Index-v3_MW.txt  from Andhrabharati
+
+2015.495375.Sahithya-Darpana.pdf
+Ref: https://archive.org/details/in.ernet.dli.2015.495375/page/n7/mode/2up
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/101
+
+<ls>Sāh. 
+
+see readme_examples_v3_pk.txt
+With one exception, (guRIBAva vii,25)
+the MW headword IS FOUND 'near' the ls reference.
+
