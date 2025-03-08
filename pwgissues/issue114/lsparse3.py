@@ -53,6 +53,7 @@ def three(number_string_list, ls_name):
 	return(done, pending)
 
 
+"""
 def three_ref(previously_done_list, pending_list, ls_name):
 	done = previously_done_list
 	pending = []
@@ -61,12 +62,11 @@ def three_ref(previously_done_list, pending_list, ls_name):
 		# Expected string => <ls n="TRIK.">3,2,1.</ls> <ls n="TRIK. 3,2,">11.</ls>
 		# If there is only reference to shloka, bring sarga from previous one and note it in 'n' tag.
 		number_string = number_string.rstrip()
-		print(number_string)
-		if '<ls n="' + ls_name + '.">' in number_string:
+		#print(number_string)
+		if '<ls n="' + ls_name in number_string:
 			ns_stripped = number_string.replace('<ls n="' + ls_name + '.">', '')
 			ns_stripped = ns_stripped.replace('</ls>', '')
 			print(ns_stripped)
-			exit(1)
 			if re.search('^([0-9]+,[0-9]+[.])[0-9, .]*$', ns_stripped):
 				#print(ns_stripped)
 				result = []
@@ -92,6 +92,7 @@ def three_ref(previously_done_list, pending_list, ls_name):
 			#return 'ERROR\t' + number_string
 			pending.append(number_string)
 	return(done, pending)
+"""
 
 
 def print_status(done, pending):
@@ -112,9 +113,15 @@ if __name__ == "__main__":
 	(done, pending) = three(datain, ls_name)
 	print('FIRST ROUND DONE.')
 	print_status(done, pending)
+	
+	# As the references like <ls n="TRIK.">2,2. 3,293.</ls> are 
+	# quite rare in Trikandashesha, we have not ventured 
+	# to refactor three_ref.
+	"""
 	(done, pending) = three_ref(done, pending, ls_name)
 	print('SECOND ROUND DONE.')
 	print_status(done, pending)
+	"""
 	fout.write('\n'.join(done))
 	rout.write('\n'.join(pending))
 	fin.close()

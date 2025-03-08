@@ -3,7 +3,7 @@
 <ls>TRIK. (2,4,38)</ls>
 <ls>TRIK. 3,3. 204.</ls>
 <ls>TRIK. 3,3. 413.</ls>
-TRIK. II. 1062. an. 2,56. ? <ls n="TRIK.">II. 1062. an. 2,56.</ls>
+<ls n="TRIK.">II. 1062. an. 2,56.</ls>
 <ls>TRIK. 3,3. 180.</ls>
 <ls>TRIK. 1,2. 32. 3,3,387.</ls>
 <ls>TRIK. 2,7. 28</ls>
@@ -46,8 +46,8 @@ TRIK. II. 1062. an. 2,56. ? <ls n="TRIK.">II. 1062. an. 2,56.</ls>
 <ls>TRIK. 3. 1,18. 27. 3,250.</ls>
 <ls>TRIK. 1,1. 35.</ls>
 <ls>TRIK. 3,3. 205.</ls>
-TRIK. 120.P. 4,4,56. ? <ls n="TRIK.">120.P. 4,4,56.</ls>
-TRIK. 2,2. 3,293. ? <ls n="TRIK.">2,2. 3,293.</ls>
+<ls n="TRIK.">120.P. 4,4,56.</ls>
+<ls n="TRIK.">2,2. 3,293.</ls>
 <ls>TRIK. 2,8. 41.</ls>
 <ls>TRIK. a. a. O.</ls>
 <ls>TRIK. 3. 4,4.</ls>
@@ -55,7 +55,7 @@ TRIK. 2,2. 3,293. ? <ls n="TRIK.">2,2. 3,293.</ls>
 <ls>TRIK. 2,8,48. 3 3,254. fg.</ls>
 <ls>TRIK. 3,3. 319</ls>
 <ls>TRIK. 1,2. 37.</ls>
-TRIK. 3,2,1. 11. ? <ls n="TRIK.">3,2,1. 11.</ls>
+<ls n="TRIK.">3,2,1. 11.</ls>
 <ls>TRIK. 2. 8,17.</ls>
 <ls>TRIK. 2,6. 3.</ls>
 <ls>TRIK. 1,1. 59.</ls>
