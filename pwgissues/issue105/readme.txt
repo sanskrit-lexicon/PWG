@@ -67,6 +67,7 @@ pwg test: dfzwi
 pw  test: puwita
 pwkvn test: granTAvftti
 sch test : Fail
+  success (change schauth/tooltip.txt) Jim kulapAlaka <ls>Med. k. 109.</ls>
 mw test: No example
 -----
 trikandashesha app2
@@ -77,7 +78,8 @@ https://sanskrit-lexicon-scans.github.io/medini/app2?$k,$t,$s
 pwg test: pAdakawaka
 pw  test: kunABi
 pwkvn test: nApitaSAlikA
-sch test: Fail
+sch test: <L>1629<pc>022-3<k1>adva    <ls>Trik. 1,2,9.</ls>
+           granTAvftti   <ls>Trik. 3,3,278</ls> 
 mw test: No example
 -----
 haravali app3
@@ -88,7 +90,7 @@ https://sanskrit-lexicon-scans.github.io/bchrest1/app3?$t
 pwg test: jalakaraNka
 pw  test: SUkataru
 pwkvn test: atfptikft
-sch test: FAIL
+sch test: atfptikft  <ls>Hār. 220.</ls> 
 mw test: No example
 
 ------------------------
