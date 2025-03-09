@@ -67,37 +67,19 @@ def check_whether_before(test, base):
 	else:
 		return False
 
-index_data = [
- {
-  "page": 384,
-  "v1": 22,
-  "v2": 36,
-  "x1": "b",
-  "x2": "a",
-  "vp": "384",
-  "st": "ka"
- },
-  {
-  "page": 385,
-  "v1": 10,
-  "v2": 22,
-  "x1": "",
-  "x2": "a",
-  "vp": "383",
-  "st": "aNga"
- }
-]
+
 
 if __name__ == "__main__":
-	listOfWords = ['cayAna', 'cayana', 'caraRa', 'camaka', 'caRqa', 'kamala', 'kalmalA', 'fzi', 'fki', 'Saki']
-	result = sort_per_medini(listOfWords)
-	print(result)
-	#print(check_whether_before('kARqa', 'caRqa'))
 	input_word = sys.argv[1]
+	with open('index_v1.js') as jin:
+		index_data = json.loads(jin.read())
 	for ind in index_data:
-		base = ind['st']
+		base = ind['hw']
 		page = ind['page']
-		if check_whether_before(input_word, base):
+		adhy = ind['adhy']
+		if adhy in ['avy', 'coloph'] or base == '':
 			continue
 		else:
-			print(input_word + ' is on page ' + str(page))
+			if check_whether_before(input_word, base):
+				print(input_word + ' is before ' + base + ' on page ' + str(page-1))
+				break

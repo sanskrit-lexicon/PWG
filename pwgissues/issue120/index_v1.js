@@ -1,5 +1,4 @@
-indexdata = 
-[
+indexdata = [
  {
   "v": "I",
   "page": 382,
