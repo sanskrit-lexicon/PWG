@@ -25,8 +25,10 @@ cp ../issue105/medini/medini_index_v1_edit.txt medini_v1_orig.txt
 2. Create a copy to manually edit
 
 cp medini_v1_orig.txt medini_v2.txt
+This should not be rerun, otherwise data in medini_v2.txt may be overwritten.
 
 3. Manually fill details
 
+medini_v2.txt has been provided with starting word on each page by Dhaval on 09 March 2025.
 
 
