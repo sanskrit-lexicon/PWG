@@ -57,6 +57,7 @@ Note the first line (column names) is ignored
   raw_adhy = parts[2]
   raw_fromv = parts[3]
   raw_tov = parts[4]
+  raw_ipage = parts[5]
   # check vol
   m_vol = re.search(parm_vol,raw_vol)
   if m_vol == None:
@@ -87,6 +88,12 @@ Note the first line (column names) is ignored
    self.status = False
    self.status_message = 'Unexpected adhy: %s' % raw_adhy
    return
+  # check ipage 
+  m_ipage = re.search(parm_page,raw_ipage)
+  if m_ipage == None:
+   self.status = False
+   self.status_message = 'Unexpected ipage: %s' % raw_ipage
+   return
   
   # set self.vol as integer
   self.vol0 = m_vol.group(1)
@@ -97,6 +104,8 @@ Note the first line (column names) is ignored
    return
   # set self.page as integer
   self.page = int(m_page.group(1))
+  # set self.ipage as integer
+  self.ipage = int(m_ipage.group(1))
   # set self.adhy as integer
   self.adhy = int(m_adhy.group(1))
   # set self.fromv as integer
@@ -123,7 +132,7 @@ Note the first line (column names) is ignored
    'v':self.vol0, 'page':int(self.page),
    'adhy':int(self.adhy),
    'v1':int(self.fromv), 'v2':int(self.tov),
-   'x1':self.fromvx, 'x2':self.tovx, 'vp':self.vpstr
+   'x1':self.fromvx, 'x2':self.tovx, 'vp':self.vpstr, 'ipage':self.ipage
   }
   return e
 
