@@ -48,12 +48,19 @@ last lines of index
 583	107	13	13	508
 
 ----------------------------------------
-misc checks between pwg , Br.pdf and index
-see readme_brihat_problems.txt
+# Prepare index.js
+python make_js_index.py index.txt index.js
+587 Success: Page records read from index.txt
+json data written to index.js
+pagerecs passes check1_adhy
+check1 finds no problems
 
 ----------------------------------------
-page, ipage
+# get temporary local copy of pwg.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
 
+----------------------------------------
+Selected pages from Br.pdf.
 8 - Bṛhatsam̃hitā of Varāhamihira, KERN, 1865
 9 - blank
 10 - Devanagari title page
@@ -63,41 +70,33 @@ page, ipage
 75 64 end of preface
 76 १  श्रीगणॅशाय नमः   <<< index starts here   upanayana (introduction)
 
+----------------------------------------
+Make misc checks between pwg , Br.pdf and index
+Several anomalies noticed.
+see readme_brihat_problems.txt
 
-# apply the program to the index
-python make_js_index.py index.txt index.js
+We conclude that, at least in part, pwg references
+are from some other version of Brihat
+
+Andhrabharati provided an interesting theory:
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/92#issuecomment-2708358312
+
+Basic conclusions from AB's analysis related to PWG:
+  There is no available alternative to Br.pdf, 
+  Volumes 5-7 of PWG were published after Br.pdf, and
+  references in these volumes should be consistent with Br.pdf
 
 ----------------------------------------
-# get temporary local copy of pwg.txt
-cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
+see byvol/readme.txt for further analysis of AB's theory.
+Conclusion: Agree that it is 'safe' to generate links to Br.pdf
+from pwg for volumes 5-7 of pwg.
+Also, volume 1 should be safe.
+Volumes 2-4 references are NOT safe.
 
-# Generate a few random instances from pwg for detail checking
-python generate_random.py 10 temp_pwg.txt I yajn_index_v1a.txt temp_check_1.txt
-cp temp_check_1.txt readme_checkindex_1.txt
-Checking this against Yajnavalkya_s_Gesetzbuch.pdf
-___ found problems ___
+basicadjust.php can handle this 'volume' distinction for PWG.
+
+--------------------------------------------
+No study has been made yet related to PW (and PWKVN), sch and MW(99).
 
 
-
-
-----------------------------------------
-Checking yajn_index_v1_edit.txt against
-   yjnavalkyasgese00yjgoog.pdf
-
-python make_js_index.py I yajn_index_v1_edit.txt index_1.js
-115 Success: Page records read from yajn_index_v1_edit.txt
-json data written to index_1.js
-pagerecs passes check1_adhy
-check1 finds no problems
-
-python generate_random.py 10 temp_pwg.txt I yajn_index_v1_edit.txt temp_check_1.txt
-
-cp temp_check_1.txt readme_check_index_v1_edit.txt
-
-manually edit readme_check_index_v1_edit.txt
-for consistency of
-  yajn_index_v1_edit.txt
-  yjnavalkyasgese00yjgoog.pdf
-
-ALL IS WELL!
 

@@ -22,8 +22,15 @@ parm_numparm = 2
 #parm_vol = r'^(I|II|III)$'
 parm_page = r'^([0-9]+)$'
 parm_adhy = r'^([0-9]+)$'
-parm_fromv = r'^([0-9]+)([b])?$'
-parm_tov = r'^([0-9]+)([a])?$'
+#parm_fromv = r'^([0-9]+)([b])?$'
+# allow a or b in fromv
+# line 443: 461	77	1a	1a	386
+parm_fromv = r'^([0-9]+)([ab])?$'
+#parm_tov = r'^([0-9]+)([a])?$'
+# 03-09-2025 allow b in tov
+# line 214: 258	41	13b	13b	183
+parm_tov = r'^([0-9]+)([ab])?$'
+
 parm_ipage = r'^([0-9]+)$'
 parm_vpstr_format = '%03d'
 
@@ -226,7 +233,8 @@ def check1(pagerecs):
     print('lnum=%s, line=%s' % (lnum,line))
     exit(1)
   else:
-   if (prev.tovx == 'a') and (rec.fromvx == 'b') and (rec.fromv == prev.tov):
+   #if (prev.tovx == 'a') and (rec.fromvx == 'b') and (rec.fromv == prev.tov):
+   if (prev.tovx in ('a','b')) and (rec.fromvx == 'b') and (rec.fromv == prev.tov):
     # no problem
     pass
    else:
