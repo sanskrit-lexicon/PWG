@@ -1,0 +1,135 @@
+
+
+* 8 matches for "<ls>Sāh. i,"
+----
+<L>76873<pc>410,3<k1>janakatA
+<ls>Sāh. i, 2/3, 8</ls>
+113	3	1	2	2
+checked: janakataya p. 115, line 3
+* 8 matches for "<ls>Sāh. ii,"
+----
+<L>64469<pc>352,1<k1>gahanatva
+<ls>Sāh. ii, 6/7</ls>
+151	41	2	6	6
+ ok?: Did not find gahanatva in k. 6 == but check incomplete.
+ ok: p. 153, line 4 (k. 7)
+
+----
+<L>66372<pc>361,1<k1>gUQAgUQatA
+<ls>Sāh. ii, 10</ls>
+158	48	2	9b	10a
+  ok: गूढागूढतया  P. 162, line 5
+    This appears AFTER ॥ १० ॥  
+
+* 49 matches for "<ls>Sāh. iii,"
+---
+<L>89826<pc>467,3<k1>dattAkza  
+<ls>Sāh. iii, 114.</ls>
+249	139	3	111	118a
+ checked: ok दत्ताक्षी
+
+----
+<L>79670<pc>422,3<k1>jIvatyAga
+<ls>Sāh. iii, 156.</ls>
+264	154	3	156	157
+  checked: ? jIvatyAga found p. 263,line 2 (before ॥ १५५ ॥)
+
+* 8 matches for "<ls>Sāh. iv,"
+----
+<L>65814<pc>358,2<k1>guRIBUta
+<ls>Sāh. iv, 1</ls>
+316	206	4	1	1
+ ok
+
+----
+<L>69461<pc>376,1<k1>GanakAla
+<ls>Sāh. iv, 27/28.</ls>
+checked: NOT FOUND.  kArikA 1-14 acc. to index4
+
+----
+<L>69300<pc>375,2<k1>GawanA
+<ls>Sāh. iv, 14/v</ls>
+348	238	4	13	14
+ checked: NOT FOUND within k. 14 p. 348
+
+* 3 matches for "<ls>Sāh. v,"
+
+----
+<L>87261<pc>456,1<k1>tolana
+<ls>Sāh. v, 4/5</ls>
+372	262	5	4	4
+ checked: Found none in v. 4
+   Found तर्जनीतोलनेन p. 379, (part of multipage k.5 tex)
+
+----
+<L>83913<pc>442,3<k1>tApana
+<ls>Sāh. v, 91</ls>
+ checked: Not found! paricCeda 5 only has kArikA 1-4.
+* 47 matches for "<ls>Sāh. vi,   good
+----
+<L>67696<pc>367,2<k1>gozWI
+<ls>Sāh. vi, 274</ls>
+475	365	6	273	279
+  checked ok.
+
+-----
+<L>62136<pc>341,1<k1>KyApaka
+<ls>Sāh. vi, 60</ls>
+404	294	6	58b	60
+  checked: ok
+
+----
+<L>62520<pc>342,3<k1>gaqqAlikApravAheRa
+<ls>Sāh. vi, 212 a/b.</ls>
+461	351	6	212a	212a
+ checked: ok
+
+----
+<L>72164<pc>389,1<k1>campU
+<ls>Sāh. vi, 336</ls>
+487	377	6	335	337
+ checked: ok
+
+* 5 matches for "<ls>Sāh. vii," 
+---
+<L>62134<pc>341,1<k1>KyAtivirudDatA
+  <ls>Sāh. vii, 10</ls>
+522	412	7	9	12a
+ ok: KyativiDAvirudDate
+* 2 matches for "<ls>Sāh. viii,"
+----
+<L>73558<pc>395,3<k1>cittadravIBAvamaya
+<ls>Sāh. viii, 2</ls>
+560	450	8	1b	2a
+ checked: ok
+* 0 matches for "<ls>Sāh. ix,"
+* 21 matches for "<ls>Sāh. x,"
+----
+<L>76127<pc>407,2<k1>Ceka
+<ls>Sāh. x, 3.</ls>
+584	474	10	3a	3a
+checked: ok Ceko p. 585, line 1
+----
+<L>62498<pc>342,3<k1>gaqu
+<ls>Sāh. x, 13</ls>
+607	497	10	13a	13a
+ ok: gaqu at top of page 609 (end section 13)
+
+----
+<L>67420<pc>366,2<k1>gomUtrikA
+<ls>Sāh. x, 13 a/b</ls>
+607	497	10	13a	13a
+  ok: gomUtrikA at line 6 of e-page 607
+      ॥ १३ ॥ e-page 609
+
+----
+<L>63668<pc>348,1<k1>gamyatA
+<ls>Sāh. x, 25.</ls>
+627	517	10	24b	25
+ checked: ? found 'gamyam' BUT NOT FOUND gamyatA
+
+----
+<L>72888<pc>392,3<k1>cAturI
+<ls>Sāh. x, 84.</ls>
+717	607	10	84	85a
+ checked: ok cAturyA

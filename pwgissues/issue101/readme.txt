@@ -116,3 +116,21 @@ see readme_examples_v3_pk.txt
 With one exception, (guRIBAva vii,25)
 the MW headword IS FOUND 'near' the ls reference.
 
+================================================
+03-11-2025
+A new pdf for mw references:
+https://archive.org/details/PWtu_sahitya-darpan-by-vishvanath-kaviraj-with-commentary-of-ramchandra-tarkavagish-b/page/n3/mode/2up
+
+
+---------------
+temporary copy of mw.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw.txt
+
+---------------
+preliminary check of mw against this pdf
+
+
+regex: <ls>Sāh. [ixvclm]+, *[0-9]+\.?</ls>
+83 matches for "<ls>Sāh. [ixvclm]+, *[0-9]+\.?</ls>" in buffer: temp_mw.txt
+150 matches for "<ls>Sāh. [ixvclm]+, *[0-9]+" in buffer: temp_mw.txt
+
