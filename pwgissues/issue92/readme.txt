@@ -98,5 +98,50 @@ basicadjust.php can handle this 'volume' distinction for PWG.
 --------------------------------------------
 No study has been made yet related to PW (and PWKVN), sch and MW(99).
 
+--------------------------------------------
+03-12-2025
+----------------------------------------
+# get temporary local copy of pw.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temp_pw.txt
+Random check of links:  (~300 links)
++ pw <L>560<pc>1-007-b<k1>agnidevA  <ls>VARĀH. BṚH. S. 71,6</ls>
++ pw L>41788<pc>2-254-c<k1>jayada  <ls>VARĀH. BṚH. S. 17,7</ls>
++ pw <L>69566<pc>4-118-c<k1>pfTvIDara <ls>VARĀH. BṚH. S. 53,47</ls>
++ pw <L>4553<pc>1-053-c<k1>anuparipAwikrama <ls>VARĀH. BṚH. S. 107,13</ls>
++ pw <L>104532<pc>6-123-b<k1>viSalaBamarut  <ls>VARĀH. BṚH. S. 84,1</ls>
 
+Links check for pw
 
+----------------------------------------
+# get temporary local copy of pwkvn.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt temp_pwkvn.txt
+Random check of links: (37)
++ pwkvn <L>245<pc>1-284-b<k1>aRqa <ls>VARĀH. BṚH. S. 56,22</ls>
++ pwkvn <L>2157<pc>2-289-a<k1>anAditya  <ls>VARĀH. BṚH. S. 2,9</ls>
++ pwkvn <L>4524<pc>3-260-b<k1>kzatajapAta  <ls>VARĀH. BṚH. S. 95,48</ls>
+
+----------------------------------------
+# get temporary local copy of mw.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw.txt
+Random check of links: ()
+511 matches for "<ls>VarBṛS. " in buffer: temp_mw.txt
+435 matches for "<ls>VarBṛS. [ivxclm]+, [0-9]"
+7 matches for "<ls>VarBṛS. [0-9]+, [0-9]
+3 matches for "<ls>VarBṛS. [ivxclm]+, [0-9]+, [0-9]+"
+
++ mw <L>32621.1<pc>186,1<k1>udayarkza  <L>32621.1<pc>186,1<k1>udayarkza
++ mw <L>50523<pc>283,3<k1>kirAta   <ls>VarBṛS. xi, 60</ls>
++ mw <L>65178<pc>355,2<k1>girinagara   <ls>VarBṛS. xiv, 11.</ls>
+
+----------------------------------------
+# get temporary local copy of sch.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt temp_sch.txt
+Random check of links: (42)    Varāh. Bṛh. S.
++ sch sch <L>65<pc>002-1<k1>akaluza  <ls>Varāh. Bṛh. S. 8,53.</ls>
++ sch <L>12107<pc>166-2<k1>ganDamAMsi  <ls>Varāh. Bṛh. S. 51,15.</ls>
++ sch <L>17949<pc>248-1<k1>paripluta  <ls>Varāh. Bṛh. S. 68,115.</ls>
+
+---------------------------------
+index correction 2,9  starts on previous page
+---------------------------------
+THE END 03-12-2025.

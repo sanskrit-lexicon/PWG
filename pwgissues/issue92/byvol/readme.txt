@@ -68,7 +68,7 @@ ref_byvol  number of references by volume of pwg
 
 python ref_byvol.py ../temp_pwg.txt ref_byvol.txt
 
-Statistict derived from ref_byvol.txt  and ref_adhy.txt
+Statistics derived from ref_byvol.txt  and ref_adhy.txt
 TABLE 1: refs by volume
 refs: <ls>VARĀH. BṚH. S. a,v
 badav: For a, pwg-v > a-maxv (so can't find reference in Br.pdf)
