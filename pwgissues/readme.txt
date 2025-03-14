@@ -32,4 +32,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue102 RAGHUVAṂŚA trial to identify missing ls entries 
 * issue105 MEDINĪKOṢA
 * issue110 VOPADEVA'S Mughabodha
+* issue122 MarkandeyaPurana link target
 
