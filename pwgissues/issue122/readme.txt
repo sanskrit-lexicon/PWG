@@ -177,3 +177,98 @@ check for aDyAya 117 in koshas:
 ==========================================
 index checks complete.  All is GO!
 
+==========================================
+Beginning app1 in sanskrit-lexicon-scans
+
+local repo
+/c/xampp/htdocs/sanskrit-lexicon-scans/markandeyapurana
+local url:
+localhost/sanskrit-lexicon-scans/markandeyapurana/app1/N,N
+
+Github url:
+https://sanskrit-lexicon-scans.github.io/markandeyapurana/app1/N,N
+
+https://sanskrit-lexicon-scans.github.io/markandeyapurana/
+shows README.md  (with markdown converted to html)
+
+----------------
+# The app1 is similar to that of raghuvamsa/app1
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/markandeyapurana
+cp -r ../raghuvamsa/app1 .
+
+# get the index
+
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue122/index.txt app1/pywork/
+# get the program to convert index.txt to index.js
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue122/make_js_index.py app1/pywork/
+# revise make_js_index.py to include ipage
+# generate index.js
+cd app1/python
+python make_js_index.py index.txt index.js
+
+# copy index.js to app1 
+cp index.js ../
+
+-------------------------------------
+
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/markandeyapurana/app1
+
+# Edit index.html
+--- head/title: markandeyap
+--- body/title: Mārkāṇḍeya Purāṇa, K.M. Banerjea, 1862
+
+# Edit info.html
+--- head/title: markandeyap info
+--- body/title: Mārkāṇḍeya Purāṇa, K.M. Banerjea, 1862
+--- app1 ...
+
+# Edit main.js
+# pdfpages:  mar-001.pdf
+# vp is of form NNN
+--- get_pdfpage_from_index
+ let vp = indexobj['vp'];
+ let pdf = `mar-${vp}.pdf`;
+--- display_ipage_id
+ let ipage = indexcur['ipage']; // an int
+ 
+# --------------------
+When local debugging done, upload to github
+
+#  get temporary versions of repos for checking
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue122
+
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temp_pw.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt temp_pwkvn.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt temp_sch.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw.txt
+
+# -------------------
+# edit csl-websanlexicon
+ /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php
+--- links from pwg, pw, pwkvn
+# edit function ls_callback_pwg_href
+
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+sh generate_web.sh pwg  ../../pwg
+sh apidev_copy.sh  # simple search gets new basicadjust.php
+
+--- links from sch
+# edit function ls_callback_mw_href
+  'Mārk P.' => 'markandeyap', // sch
+# edit function ls_callback_sch_href
+  add section
+--- links from mw
+# edit function ls_callback_mw_href
+   'MārkP.' => 'markandeyap', // mw
+   add section 
+
+-------------------------------------
+# sync to github
+sync csl-websanlexicon
+sync csl-apidev
+# sync to cologne
+ # regenerate displays for pwg, pw, pwkvn, mw, sch
+-------------------------------------
+# sync this repo to github
+

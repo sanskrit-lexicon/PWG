@@ -33,4 +33,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue105 MEDINĪKOṢA
 * issue110 VOPADEVA'S Mughabodha
 * issue122 MarkandeyaPurana link target
+* issue123 ANEKĀRTHASAM̃GRAHA link target
 
