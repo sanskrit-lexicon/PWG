@@ -35,4 +35,6 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue122 MarkandeyaPurana link target
 * issue123 ANEKĀRTHASAM̃GRAHA link target
 * issue125 ŚĀKUNTALA link target
+* issue129 BHAGAVADGITA link target
+* issue130 ŚĀKUNTALA link target for MW
 

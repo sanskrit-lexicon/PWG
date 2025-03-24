@@ -121,35 +121,6 @@ Also update csl-orig and pwg displays at Cologne
 # return here
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue84
 
-----------------------------
-check index for volume 2
-Indische_Spr_v2_Index.txt
-  Ref: https://github.com/sanskrit-lexicon/PWG/issues/84#issuecomment-2659012762
-
-The format of lines is space-separated values
-Manually edit and change to tab-separated values
-global regex replacement lines: "  +" -> \t
-
-# make index_2.js
-python make_js_index.py II Indische_Spr_v2_Index.txt  index_2.js
-
-322 Success: Page records read from Indische_Spr_v2_Index.txt
-json data written to index_2.js
-
-# get temp copy of pwg.txt
-cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
-
-# generate 10 examples for manual checking of v2 index. write file temp.txt
-python generate_random.py 10 temp_pwg.txt II Indische_Spr_v2_Index.txt temp_check_2.txt
-
-# make readme file for the checks
-cp temp_check_2.txt readme_checkindex_vol2.txt
-# manually check the examples -  edit readme_checkindex_vol2.txt
-#  use the volume 2 pdf in checking
-# Results of check:
-  All ok with index.
-
-rm temp_pwg.txt
 
 ----------------------------
 02-24-2025
@@ -165,3 +136,16 @@ Note retained v1 for 'from kaṇḍikā', and v2 for 'to kaṇḍikā'
 
 Remake index.js:
 python make_js_index.py SAT.index_edit.txt index.js
+----------------------------
+03-23-2025
+Creation of app1, see readme_app1.txt
+dictionary links, see readme_websanlexicon.txt
+
+----------------------------
+03-24-2025
+csl-websanlexicon and csl-apidev synced to github.
+At cologne, csl-websanlexicon and csl-apidev pulled from github.
+displays regenerated for pwg, pw, pwkvn, sch, mw.
+-------
+THE END
+
