@@ -7,6 +7,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue71 standardization of pwg links for KATHĀS.
 * issue73 Manu-smfti link target
 * issue74 Standardization of pwg links for 'M.' (Manu)
+* issue75 Ramayana prakshipta link target
 * issue76 VN missing pages, continued
 * issue77 Remove gratuitous spaces in ls
 * issue78 Transcoding vowel-marker characters
