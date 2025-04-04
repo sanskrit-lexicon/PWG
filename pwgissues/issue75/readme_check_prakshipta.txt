@@ -13,13 +13,13 @@ There are prakshiptas for sargas 23, 37, and 59 in 7th kanda
 Note (+ 111 36 35) = 182  as expected
 
 --------
-check one prakshipta reference for each of sargas 23, 37, 59
+check one prakshipta reference for each of sargas 23, 37, 59 in kanda 7
 
 pwg check1
 <L>65503<pc>5-1062<k1>avalamba<k2>avalamba
 {#mAlayA — kaRWadeSe 'valambayA#}
 <ls>R. 7,23,5,12.</ls>
- Ramayana.Bomb.-Vol.III-Index.txt
+ Ramayana.Bomb.-Vol.III-Index.txt  (indexv3.txt)
 vol.	page	kāṇḍa  sarga	fromv	to v.	ipage	remark(s)
 III	589	7	23.5	5	24	43a
 to Find: avalamba on page 589 verse 12
@@ -32,7 +32,7 @@ pwg check2
 <L>65827<pc>5-1076<k1>as<k2>as<h>2
 {#yogamaByasatastasya#}
 <ls>R. 7,37,1,9.</ls> <ls>Z. 10</ls>
- Ramayana.Bomb.-Vol.III-Index.txt
+ Ramayana.Bomb.-Vol.III-Index.txt (indexv3.txt)
 III	643	7	37.1	8	27	70a	
 to find: yogamaByasatastasya on page 643 at verse 9
 FOUND
@@ -40,7 +40,7 @@ FOUND
 pwg check3
 <L>64549<pc>5-1024<k1>aBivikrama
 <ls>R. 7,59,3,21.</ls>
- Ramayana.Bomb.-Vol.III-Index.txt
+ Ramayana.Bomb.-Vol.III-Index.txt (indexv3.txt)
 III	702	7	59.3	20	38	99b	
 
 

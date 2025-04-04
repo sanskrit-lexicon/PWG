@@ -1,45 +1,63 @@
 issue75/readme.txt
 03-27-2025 begun ejf
 
-
-
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/75
 
 This issue75 directory in local file system:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue75
 
 -----------------
-pdf: 'BHAGAVADGĪTĀ (1823) SCHLEGEL.pdf'
+pdfs: There are pdfs for each of 3 volumes:
 
-/e/pdfwork/bhagavadgita_shlegel/'BHAGAVADGĪTĀ (1823) SCHLEGEL.pdf'
-
------------------
-Index file
+/e/pdfwork/
+  Ramayana [Bomb. ed.] (1859) Vol. I- Bala and Ayodhya.pdf
+  Ramayana_Bomb_ed_1859_Vol_II_Aranya,_Kishkandha_and_Sundara.pdf
+  Ramayana Vol. III [Bomb. ed.] (1859) Yuddha and Uttara.pdf
   
-  index śak..xlsx
-  Hemacandra.Anekarthasangraha.1807.xlsx
-  convert to tsv (Google) BHAGAVADGITA.1823.SCHLEGEL.txt
-  # 
-  cp BHAGAVADGITA.1823.SCHLEGEL.txt index.txt
+-----------------
+Index files
+--- volume 1
+  Ramayana.Bomb.-Vol.I-Index.1.1.xlsx
+    convert to tsv (Google)
+  Ramayana.Bomb.-Vol.I-Index.1.1.txt
+  rename indexv1.txt
+--- volume 2
+  Ramayana.Bomb.-Vol.II-Index.txt  (already converted to tsv
+  rename indexv2.txt
+--- volume 3
+  Ramayana.Bomb.-Vol.III-Index.xlsx
+    convert to tsv (Google)
+  Ramayana.Bomb.-Vol.III-Index.txt
+  rename indexv3.txt
+
+---------------------
+index format observations 
+ 
+format 7+ fields tab-separated values
+vol. I, II, III
+page int
+kāṇḍa int
+sarga int OR int.int  (pratikshipta)
+from v. int
+to v.   int  may be ---
+ipage  usu. ends in a or b. may be ---
+
+
+Further fields are remarks  (ignored in js)
+remark(s)
+Note 1: 
+ ipage typically has suffix of '[ab]'
+ 18 lines have a field whose value is '---'.
+ These appear to be between sections.
+Note 3:
+Sample line of indexv3.txt for prakshipta verses:
+III	578	7	23.1	1	15	37b	
+In 23.1, '23' is the sarga.
+'1' is the 'sub-sarga'
+
 
 ---------------------
 see readme_prakshipta.txt  "What is the prakshipta of the Ramayana?"
----------------------
-index_txt format observations for
- Ramayana.Bomb.-Vol.I-Index.1.1.txt and
- Ramayana.Bomb.-Vol.III-Index.txt
- 
-format 7+ fields tab-separated values
-vol.
-page
-kāṇḍa
-sarga
-from v.
-to v.
-ipage
-
-Further fields are remarks
-remark(s)
 
 ----------------------------------------
 # Begin checking consistency with dictionaries
@@ -48,14 +66,37 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
 
 see readme_check_prakshipta.txt
 
+The prakshiptas occur in sargas 23, 37, 59 of kanda y
 
 --------------------
---  NOT DONE
+corrections to indexes
+---
+indexv1.txt
+old:
+I	608	2	95,1	1	8	179a	prakshipta sarga			179a
+I	609	2	95,1	9	27	179b	prakshipta sarga	179	b	179b
+I	610	2	95,1	28	45	180a	prakshipta sarga	180	a	180a
+I	611	2	95,1	46	57	180b	prakshipta sarga	180	b	180b
+new:
+I	608	2	95.1	1	8	179a	prakshipta sarga			179a
+I	609	2	95.1	9	27	179b	prakshipta sarga	179	b	179b
+I	610	2	95.1	28	45	180a	prakshipta sarga	180	a	180a
+I	611	2	95.1	46	57	180b	prakshipta sarga	180	b	180b
+
+---
+indexv3.txt
+old:
+III	582	7	23.1	77	81	39b	
+new:
+III	582	7	23.1	77	89	39b	
+
+--------------------
+# merge indexv1, v2, v3
+
 # Prepare index.js
-python make_js_index.py index.txt index.js
+python make_js_index.py indexv1.txt indexv2.txt indexv3.txt index.js
 88 Success: Page records read from index.txt
 json data written to index.js
-
 
 ----------------------------------------
 Make misc checks between pwg , the pdf and index
