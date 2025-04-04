@@ -2,6 +2,7 @@ Issue titles
 
 Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 
+* issue62 Amarakosha link target
 * issue67 German word corrections
 * issue70 katha-sarit-sagara link target
 * issue71 standardization of pwg links for KATHĀS.
@@ -38,4 +39,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue125 ŚĀKUNTALA link target
 * issue129 BHAGAVADGITA link target
 * issue130 ŚĀKUNTALA link target for MW
-
+* issue134 TAITTIRĪYASAM̃HITĀ link target
+* issue135 RĀJATARAṄGIṆĪ link target
