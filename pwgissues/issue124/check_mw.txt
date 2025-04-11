@@ -1,0 +1,29 @@
+key (10, 3): 382	10	3	4a	280
+L= 16044, hw= arTet, pc=91,2
+check: ok
+----------------------------------------------
+
+key (16, 35): 605	16	34	35	503
+L= 28309, hw= Ahananya, pc=162,2
+check: ok
+----------------------------------------------
+
+key (19, 56): 722	19	54	56	620
+L= 103690, hw= napAt, pc=527,2
+check: ok
+----------------------------------------------
+
+key (21, 7): 772	21	7	9a	670
+L= 21552, hw= asravat, pc=123,3
+check: ok
+----------------------------------------------
+
+key (26, 13): 880	26	12	14	778
+L= 28899, hw= indumat, pc=166,1
+check: ok  found indu -- indumat not found.
+
+MW: indumat   (in liturgical language) N. of Agni
+    (because in the verses in which he is addressed
+    the word इन्दु occurs), VS. xxvi, 13; 
+----------------------------------------------
+
