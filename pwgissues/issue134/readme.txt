@@ -89,11 +89,5 @@ sync to Cologne, and redo the 5 dictionaries.
 
 -------------------------------------------------------------
 
-738 matches in 737 lines for "<ls>VS. PRĀT. [0-9]+,[0-9]+" in buffer: temp_pwg.txt
-
-from pwgbib-input.txt:
-PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citirt nach Adhyāya
-   und Sūtra. Hdschr. S. ROTH in der Einl. z. NIR. S. XLVI.
-------------------------------------------------------------
 THE END
 
