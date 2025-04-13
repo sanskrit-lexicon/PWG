@@ -33,11 +33,16 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue101 SĀH. D. SĀHITYADARPAṆA
 * issue102 RAGHUVAṂŚA trial to identify missing ls entries 
 * issue105 MEDINĪKOṢA
+* issue109 RAGHUVAṂŚA Calcutta edition
 * issue110 VOPADEVA'S Mughabodha
 * issue122 MarkandeyaPurana link target
 * issue123 ANEKĀRTHASAM̃GRAHA link target
+* issue124 VĀJASANEYISAM̃HITĀ link target
 * issue125 ŚĀKUNTALA link target
 * issue129 BHAGAVADGITA link target
 * issue130 ŚĀKUNTALA link target for MW
 * issue134 TAITTIRĪYASAM̃HITĀ link target
 * issue135 RĀJATARAṄGIṆĪ link target
+* issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
+* issue139 VS. PRĀT. link target
+
