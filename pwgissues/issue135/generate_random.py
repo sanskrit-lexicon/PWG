@@ -199,12 +199,12 @@ def get_dict_regex(dictcode):
  d = {
   'pwg':r'<ls>RĀJA-TAR. ([0-9]+),([0-9]+)',
 
-  'pw':r'<ls>RĀJA-TAR. ([0-9]+),([0-9]+)',
-  'pwkvn':r'<ls>RĀJA-TAR. ([0-9]+),([0-9]+)',
+  'pw':r'<ls>RĀJAT. ([0-9]+),([0-9]+)',
+  'pwkvn':r'<ls>RĀJAT. ([0-9]+),([0-9]+)',
 
-  'sch':r'<ls>Rājatar. ([0-9]+),([0-9]+)',
+  'sch':r'<ls>Rājat. ([0-9]+),([0-9]+)',
 
-  'mw':r'<ls>Rājatar. ([vix]+), *([0-9]+)',   # 
+  'mw':r'<ls>Rājat. ([vix]+), *([0-9]+)',   # 
 
    }
  if dictcode not in d:
