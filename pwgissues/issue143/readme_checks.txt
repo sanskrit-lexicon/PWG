@@ -39,33 +39,26 @@ End of preliminary manual check.
 =====================================================
 Checks for all dictionaries after basicadjust updated.
 
+edit generate_random.py
+  function get_dict_regex:
+      make consistent with basicadjust.php; see
+     readme_websanlexicon.txt
+  function get_dict_key
+  function set_pagerec_key
 ----------------------------------------------------
-First, pwg
+pwg
+python generate_random.py 5 pwg temp_pwg.txt index.txt check_pwg.txt
+regex_raw = <ls>BHAṬṬ. ([0-9]+),([0-9]+)
+found 2183 instances in kosha
 
-pwg1
-python generate_random.py 5 pwg1 temp_pwg.txt index.txt check_pwg1.txt
-regex_raw = <ls>RAGH. ed. Calc. ([0-9]+),([0-9]+)
-found 116 instances in kosha
-All in this random sample checked.
-
-pwg2
-python generate_random.py 5 pwg2 temp_pwg.txt index.txt check_pwg2.txt
-regex_raw = <ls>RAGH. (ed. Calc.) ([0-9]+),([0-9]+)
-found 15 instances in kosha
-All in this random sample checked.
-
-pwg3 
-python generate_random.py 5 pwg3 temp_pwg.txt index.txt check_pwg3.txt
-regex_raw = <ls>RAGH. (Calc.) ([0-9]+),([0-9]+)
-found 1 instance in kosha
 All in this random sample checked.
 
 -----------------------------------
 Random checks between pw , the pdf and index
 Just one form known
 python generate_random.py 5 pw temp_pw.txt index.txt check_pw.txt
-regex_raw = <ls>RAGH. ed. Calc. ([0-9]+),([0-9]+)
-found 9 instances in kosha
+regex_raw = <ls>BHAṬṬ. ([0-9]+),([0-9]+)
+found 125 instances in kosha
 
 All in this random sample checked.
 
@@ -74,35 +67,37 @@ Random checks between pwkvn , the pdf and index
 
 Just 1 form found
 python generate_random.py 5 pwkvn temp_pwkvn.txt index.txt check_pwkvn.txt
-regex_raw = <ls>RAGH. ed. Calc. ([0-9]+),([0-9]+)
-found 2 instances in kosha
-f
-All in this random sample checked.
+regex_raw = <ls>BHAṬṬ. ([0-9]+),([0-9]+)
+found 15 instances in kosha
+
+In this random sample checked, one not found:
+key (9, 64): I	673	9	64	64	665
+L= 9379, hw= vizkanttar, pc=6-306-b
 
 
 -----------------------------------
 Random checks between sch , the pdf and index
-xxxx
+
 # sch.txt markup change 
 python generate_random.py 5 sch temp_sch.txt index.txt check_sch.txt
-regex_raw = <ls>Ragh. ed. Calc. ([0-9]+),([0-9]+)
-found 2 instances in kosha
+regex_raw = <ls>Bhaṭṭ. ([0-9]+),([0-9]+)
+found 15 instances in kosha
 
-All in this random sample checked.
-
+One in this random sample NOT FOUND:
+key (9, 64): I	673	9	64	64	665
+L= 5688, hw= aviskanttar, pc=077-3
 
 -----------------------------------
 Random checks between mw , the pdf and index
 
-Only 1 form seen
 python generate_random.py 5 mw temp_mw.txt index.txt check_mw.txt
-regex_raw = <ls>Ragh. \(C\) ([vix]+), *([0-9]+)
-found 2 instances in kosha
+regex_raw = <ls>Bhaṭṭ. ([vix]+), *([0-9]+)
+found 140 instances in kosha
 
 All in this random sample checked.
+
 ---------------------------------
-All checks favorable.
+All (almost) checks favorable.
 Ready to install:
  csl-websanlexicon
  csl-apidev
- csl-orig

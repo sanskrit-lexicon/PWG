@@ -36,7 +36,7 @@ def write_lines(fileout,outarr):
     f.write(out+'\n')  
  print(len(outarr),"cases written to",fileout)
 
-def parse_sarga(x):
+def unused_parse_sarga(x):
  if re.search(r'^[0-9]+$',x):
   return int(x)
  if re.search(r'^[ivxclm]+$',x): # lower-case agrees with 'mw'

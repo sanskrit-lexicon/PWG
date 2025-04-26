@@ -1,39 +1,45 @@
 
 =================================================
-activating links to pantankose app1 and app2
+activating links to bhattikavya app0 and app1
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/pantankose
+/c/xampp/htdocs/sanskrit-lexicon-scans/bhattikavya
 local urls:
-localhost/sanskrit-lexicon-scans/pantankose/app1/N
-localhost/sanskrit-lexicon-scans/pantankose/app2/N
+localhost/sanskrit-lexicon-scans/bhattikavya/app1/?N,N
+localhost/sanskrit-lexicon-scans/bhattikavya/app0/?VNNN
 
 Github url:
-https://sanskrit-lexicon-scans.github.io/pantankose/app1/?N,N
-https://sanskrit-lexicon-scans.github.io/pantankose/app2/?N,N
+https://sanskrit-lexicon-scans.github.io/bhattikavya/app1/?N,N
+https://sanskrit-lexicon-scans.github.io/bhattikavya/app0/?VNNN
 
-https://sanskrit-lexicon-scans.github.io/pantankose/
+https://sanskrit-lexicon-scans.github.io/bhattikavya/
 shows README.md  (with markdown converted to html)
 
+# link abbreviations in xxxauth.txt
+pwg: "BHAṬṬI" in buffer: pwgbib_input.txt
+ BHAṬṬ. BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137).
+   2195 matches for "<ls>BHAṬṬ\. " in buffer: temp_pwg.txt
+ BHAṬṬI	Bhaṭṭi
+   no parms
+ BHAṬṬIK
+   no parms
 
+pw:
+126 matches in 125 lines for "<ls>BHAṬṬ\. " in buffer: temp_pw.txt
+pwkvn
+15 matches for "<ls>BHAṬṬ\. " in buffer: temp_pwkvn.txt
+
+sch:
+15 matches for "<ls>Bhaṭṭ\." in buffer: temp_sch.txt
+
+mw: first parameter roman
+150 matches for "<ls>Bhaṭṭ\. " in buffer: temp_mw.txt
 # -------------------
+
+
 # edit local csl-websanlexicon ... basicadjust.php
 
  /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php
-# edit function ls_callback_pwg_href
----- links from pwg, pw, pwkvn
-pantankose  app2  page,linenum
-<ls>PAÑCAT. ([0-9]+),([0-9]+) 
-pantankose  app1  tantra,verse
-<ls>PAÑCAT. ([0vi]+),([0-9]+)
-<ls>PAÑCAT. (Pr.),([0-9]+)
-
-Pañcat
----- links from sch
-pantankose  app2
-<ls>Śāk. ([0-9]+),([0-9]+)  
-pantankose  app1
-<ls>Śāk. ([vi]+),([0-9]+) 
-
+ 
 
 cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
 sh generate_web.sh pwg  ../../pwg
