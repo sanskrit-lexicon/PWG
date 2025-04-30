@@ -35,7 +35,9 @@ index.txt some edits of index_orig.txt
  # line 635: 1c -> 1b
  # line 342: prapath 3 -> 5 
  So now 8 parameters per line in index.txt
- 
+ # correct ipage for lines 263-479 of index_orig.txt
+   Add 40 to each ipage 
+
 python make_index.py index_orig.txt  index.txt
 9 lines dropped
 864 cases written to index.txt

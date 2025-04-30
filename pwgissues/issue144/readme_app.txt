@@ -1,36 +1,36 @@
-apps for taittiriyas repo
+apps for taittiriyabr repo
 
-https://sanskrit-lexicon-scans.github.io/taittiriyas/
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/
 shows README.md  (with markdown converted to html)
 ----------------
-edit taittiriyas/README.md
+edit taittiriyabr/README.md
 
 =================================================
-app0 for taittiriyas repo : internal page number
+app0 for taittiriyabr repo : internal page number
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas
+/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
 local url:
-localhost/sanskrit-lexicon-scans/taittiriyas/app0/N
+localhost/sanskrit-lexicon-scans/taittiriyabr/app0/N
  
 Github url:
-https://sanskrit-lexicon-scans.github.io/taittiriyas/app0/?N
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/app0/?N
 
 ----------------
-# app0 is similar to that of /vajasasa/app0
-cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas
-cp -r ../vajasasa/app0 .
+# app0 is similar to that of /taittiriyas/app0
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
+cp -r ../taittiriyas/app0 .
 
 cp app0/pywork/make_js_index.py app0/pywork/tempwork_make_js_index.py
 
 # get the index for app1 (we'll change this next)
 
-cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue134/index.txt app0/pywork/
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue144/index.txt app0/pywork/
 # get the program to convert index.txt to index.js
-cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue134/make_js_index.py app0/pywork/
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue144/make_js_index.py app0/pywork/
 
 # revise make_js_index.py so
-- only page, ipage and vp in each record of index.js
-- remove duplicate ipage records
+- only  vp, vip in each record of index.js
+- remove duplicate vp records
 
 # generate index.js
 cd app0/pywork
@@ -41,15 +41,15 @@ cp index.js ../
 
 -------------------------------------
 
-cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas/app0
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr/app0
 
 # Edit index.html
---- head/title: taittiriyas
---- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
+--- head/title: taittiriyabr
+--- body/title: Taittirīya-Brāhmaṇa, Rājendralāla Mitra, 1859-1872
 
 # Edit info.html
---- head/title: taittiriyas info
---- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
+--- head/title: taittiriyabr info
+--- body/title: Taittirīya-Brāhmaṇa, Rājendralāla Mitra, 1859-1872
 --- app0 
 
 # Edit main.js
@@ -64,28 +64,28 @@ cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas/app0
  
 
 =================================================
-app1 for taittiriyas repo  (4-parameters)
+app1 for taittiriyabr repo  (4-parameters)
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas
+/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
 local url:
-localhost/sanskrit-lexicon-scans/taittiriyas/app1/N,N,N,N
+localhost/sanskrit-lexicon-scans/taittiriyabr/app1/N,N,N,N
  
 Github url:
-https://sanskrit-lexicon-scans.github.io/taittiriyas/app1/?N,N,N,N
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/app1/?N,N,N,N
 
-https://sanskrit-lexicon-scans.github.io/taittiriyas/
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/
 shows README.md  (with markdown converted to html)
 ----------------
 
 # app1 is similar to that of /shatapathabr/app1
-cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
 cp -r ../shatapathabr/app1 .
 
 # get the index
 
-cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue134/index.txt app1/pywork/
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue144/index.txt app1/pywork/
 # get the program to convert index.txt to index.js
-cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue134/make_js_index.py app1/pywork/
+cp /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue144/make_js_index.py app1/pywork/
 # revise make_js_index.py to include ipage
 # generate index.js
 cd app1/pywork
@@ -96,14 +96,14 @@ cp index.js ../
 
 -------------------------------------
 
-cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas/app1
+cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr/app1
 
 # Edit index.html
---- head/title: taittiriyas
+--- head/title: taittiriyabr
 --- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
 
 # Edit info.html
---- head/title: taittiriyas info
+--- head/title: taittiriyabr info
 --- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
 --- app1 
 

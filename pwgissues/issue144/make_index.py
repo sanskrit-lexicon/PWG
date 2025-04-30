@@ -44,6 +44,13 @@ def make_outlines(lines):
   if lnum == 342:
    assert parts[3] == '3'
    parts[3] = '5'
+  # correct ipage (parts[7])
+  if lnum in range(263,480):
+   ipagestr = parts[7]
+   ipage = int(ipagestr)
+   ipagenew = ipage + 40
+   ipagestrnew = str(ipagenew)
+   parts[7] = ipagestrnew
   # remove remark
   newparts = parts[0:8]
   newline = '\t'.join(newparts)
