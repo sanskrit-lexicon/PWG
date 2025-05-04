@@ -47,4 +47,4 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue139 VS. PRĀT. link target
 * issue143 BHAṬṬIKĀVYA link target
 * issue144 TAITTIRĪYABRĀHMAṆA link target
-
+* issue145 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI, 2 parameter references 
