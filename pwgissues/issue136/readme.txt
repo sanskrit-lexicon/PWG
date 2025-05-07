@@ -48,7 +48,7 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/pw/pw.txt temp_pw.txt
 cp /c/xampp/htdocs/cologne/csl-orig/v02/pwkvn/pwkvn.txt temp_pwkvn.txt
 cp /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt temp_sch.txt
 cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw.txt
-
+c
 ----------------------------------------
 # preliminary check of temp_pwg.txt and index and pdf
 
@@ -56,10 +56,10 @@ These all passed.  See first part of readme_checks.txt
 
 -----------------------------------
 app construction. see readme_app.txt
-2 apps are needed: 
 
-app1 -- (adhyAya,shloka) 
+app1 -- (adhyAya,kanda,shloka) 
 app0 -- (ipage,) 
+app2 -- ipage,line See https://github.com/sanskrit-lexicon/PWG/issues/145
 
 ---------------------------------------
 Change to basicadjust to activate links.
@@ -70,18 +70,11 @@ Random checks between dictionary and the pdf and index
  for dictionaries pwg, pw, pkwvn, sch, mw.
  see readme_checks.txt
 
-check_pwg.txt has two cases where Jim classified as NOT FOUND.
-
+WAITING FOR CORRECTION TO PDF ....
 =============================================================
 sync to github:  csl-websanlexicon, csl-apidev
 sync to Cologne, and redo the 5 dictionaries.
 
 -------------------------------------------------------------
-
-738 matches in 737 lines for "<ls>VS. PRĀT. [0-9]+,[0-9]+" in buffer: temp_pwg.txt
-
-from pwgbib-input.txt:
-PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citirt nach Adhyāya
-   und Sūtra. Hdschr. S. ROTH in der Einl. z. NIR. S. XLVI.
 ------------------------------------------------------------
 THE END

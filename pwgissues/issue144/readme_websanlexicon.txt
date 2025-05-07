@@ -1,17 +1,21 @@
 
 =================================================
-activating links to taittiriyas app1
+activating links to taittiriyabr app1
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyas
+/c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
 local urls:
-localhost/sanskrit-lexicon-scans/taittiriyas/app1?N,N,N,N
+localhost/sanskrit-lexicon-scans/taittiriyabr/app1?N,N,N,N
 l
 
 Github url:
-https://sanskrit-lexicon-scans.github.io/taittiriyas/app1/?N,N,N,N
+https://sanskrit-lexicon-scans.github.io/taittiriyabr/app1/?N,N,N,N
 
-https://sanskrit-lexicon-scans.github.io/taittiriyas/
-shows README.md  (with markdown converted to html)
+pwg, pw, pwkvn
+<ls>TBR. ([0-9]+),([0-9]+),([0-9]+),([0-9]+)
+sch
+<ls>TBr. ([0-9]+),([0-9]+),([0-9]+),([0-9]+)
+mw
+<ls>TBr. ([i]+),([0-9]+),([0-9]+),([0-9]+)
 
 # -------------------
 # edit local csl-websanlexicon ... basicadjust.php
@@ -19,11 +23,11 @@ shows README.md  (with markdown converted to html)
  /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php
 # edit function ls_callback_pwg_href
 ---- links from pwg, pw, pwkvn, sch
-taittiriyas  app1  adhyaya,verse
+taittiriyabr  app1  adhyaya,verse
 <ls>VS. ([0-9]+),([0-9]+)
 
 ---- links from mw
-taittiriyas  app1
+taittiriyabr  app1
 <ls>VS. ([vix]+),([0-9]+) 
 
 

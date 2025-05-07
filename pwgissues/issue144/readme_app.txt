@@ -53,7 +53,11 @@ cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr/app0
 --- app0 
 
 # Edit main.js
-# pdfpages:  tai-1001.pdf
+# pdfpages:
+  volume1/tai1-NNN.pdf
+  volume2/tai2-NNN.pdf   None of these are in index
+  volume3/tai3-NNNN.pdf
+
 
 # vp is of form NNNN
 --- get_pdfpage_from_index
@@ -77,9 +81,9 @@ https://sanskrit-lexicon-scans.github.io/taittiriyabr/
 shows README.md  (with markdown converted to html)
 ----------------
 
-# app1 is similar to that of /shatapathabr/app1
+# app1 is similar to that of /taittiriyas/app1
 cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr
-cp -r ../shatapathabr/app1 .
+cp -r ../taittiriyas/app1 .
 
 # get the index
 
@@ -100,15 +104,15 @@ cd /c/xampp/htdocs/sanskrit-lexicon-scans/taittiriyabr/app1
 
 # Edit index.html
 --- head/title: taittiriyabr
---- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
+--- body/title: Taittirīya-Brāhmaṇa, Rājendralāla Mitra, 1859-1872
 
 # Edit info.html
 --- head/title: taittiriyabr info
---- body/title: Taittirīya-Sam̃hitā, A. Weber, 1871-2
+--- body/title: Taittirīya-Brāhmaṇa, Rājendralāla Mitra, 1859-1872
 --- app1 
 
 # Edit main.js
-# pdfpages:  tai1-001.pdf, tai2-001.pdf
+# pdfpages:  See discussion above under app0
 
 # --------------------
 When local debugging done, upload to github

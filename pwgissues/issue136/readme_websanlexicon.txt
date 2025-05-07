@@ -1,17 +1,15 @@
 
 =================================================
-activating links to vajasasa app1
+activating links to katysr app1
 =================================================
-/c/xampp/htdocs/sanskrit-lexicon-scans/vajasasa
+/c/xampp/htdocs/sanskrit-lexicon-scans/katysr
 local urls:
-localhost/sanskrit-lexicon-scans/vajasasa/app1?N,N
+localhost/sanskrit-lexicon-scans/katysr/app1?N,N,N
 l
 
 Github url:
-https://sanskrit-lexicon-scans.github.io/vajasasa/app1/?N,N
+https://sanskrit-lexicon-scans.github.io/katysr/app1/?N,N,N
 
-https://sanskrit-lexicon-scans.github.io/vajasasa/
-shows README.md  (with markdown converted to html)
 
 # -------------------
 # edit local csl-websanlexicon ... basicadjust.php
@@ -19,12 +17,16 @@ shows README.md  (with markdown converted to html)
  /c/xampp/htdocs/cologne/csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php
 # edit function ls_callback_pwg_href
 ---- links from pwg, pw, pwkvn, sch
-vajasasa  app1  adhyaya,verse
-<ls>VS. ([0-9]+),([0-9]+)
+katysr  app1  adhyaya,kanda,verse
+<ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)
+
+---- links from sch
+katysr app1
+<ls>Kāty. Śr. ([0-9]+),([0-9]+),([0-9]+)
 
 ---- links from mw
-vajasasa  app1
-<ls>VS. ([vix]+),([0-9]+) 
+katysr  app1
+<ls>KātyŚr. ([vix]+), *([0-9]+), *([0-9]+), *([0-9]+)
 
 
 cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02

@@ -36,54 +36,52 @@ found 75 instances in kosha
 Checks for all dictionaries after basicadjust updated.
 NOT YET DONE !
 
+These are checks for app1 (3 parameters)
 ----------------------------------------------------
 First, pwg
 
 python generate_random.py 5 pwg temp_pwg.txt index.txt check_pwg.txt
-regex_raw = <ls>VS. ([0-9]+),([0-9]+)
-found 4890 instances in kosha
+regex_raw = <ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)
+found 4629 instances in kosha
 
-3 found, 2 NOT FOUND.
-
-#  generate another batch
-python generate_random.py 5 pwg temp_pwg.txt index.txt check_pwg_a.txt
-
-All in this random sample checked.
-
+one NOT FOUND (schol. zu ...)
 
 -----------------------------------
 Random checks between pw , the pdf and index
 
 python generate_random.py 5 pw temp_pw.txt index.txt check_pw.txt
 
-regex_raw = <ls>VS. ([0-9]+),([0-9]+)
-found 155 instances in kosha
+regex_raw = <ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)
+found 511 instances in kosha
+
 All in this random sample checked.
 
 -----------------------------------
 Random checks between pwkvn , the pdf and index
 
 python generate_random.py 5 pwkvn temp_pwkvn.txt index.txt check_pwkvn.txt
-regex_raw = <ls>VS. ([0-9]+),([0-9]+)
-found 11 instances in kosha
-All in this random sample checked.
+regex_raw = <ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)
+found 58 instances in kosha
 
+All in this random sample checked.
 
 -----------------------------------
 Random checks between sch , the pdf and index
 
 python generate_random.py 5 sch temp_sch.txt index.txt check_sch.txt
-regex_raw = <ls>VS. ([0-9]+),([0-9]+)
-found 11 instances in kosha
-All in this random sample checked.
+regex_raw = <ls>Kāty. Śr. ([0-9]+),([0-9]+),([0-9]+)
+found 78 instances in kosha
 
+All in this random sample checked.
 
 -----------------------------------
 Random checks between mw , the pdf and index
 
 python generate_random.py 5 mw temp_mw.txt index.txt check_mw.txt
-regex_raw = <ls>VS. ([vix]+), *([0-9]+)
-found 643 instances in kosha
+regex_raw = <ls>KātyŚr. ([vix]+), *([0-9]+), *([0-9]+)
+found 141 instances in kosha
+
 
 All in this random sample checked.
-  Note: See indumat comment -- probably ok 
+  One not found, due to error in mw kosha  (different but similar err in pwg)
+  

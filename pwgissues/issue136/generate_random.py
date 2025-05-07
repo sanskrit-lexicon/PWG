@@ -210,15 +210,15 @@ def write_examples(fileout,examples):
 def get_dict_regex(dictcode):
  d = {
   'pwg':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)',   # adhy,kand,verse
+  'pw':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)',   # 
+  'pwkvn':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)',   # 
+  'sch':r'<ls>Kāty. Śr. ([0-9]+),([0-9]+),([0-9]+)',   # 
+  'mw':r'<ls>KātyŚr. ([vix]+), *([0-9]+), *([0-9]+)',   # 
+
+  
   'pwg3':r'Schol. zu <ls>KĀTY. ŚR. ([0-9]+),([0-9]+),([0-9]+)',   # adhy,kand,verse
   'pwg2':r'Schol. zu <ls>KĀTY. ŚR. ([0-9]+),([0-9]+)[^0-9,]',   # ipage,line
   
-  'pw':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+)',   # 
-  'pwkvn':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+)',   # 
-
-  'sch':r'<ls>KĀTY. ŚR. ([0-9]+),([0-9]+)',   # 
-
-  'mw':r'<ls>KĀTY. ŚR. ([vix]+), *([0-9]+)',   # 
 
    }
  if dictcode not in d:
