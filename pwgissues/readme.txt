@@ -32,6 +32,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue100 RAGH. RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13)
 * issue101 SĀH. D. SĀHITYADARPAṆA
 * issue102 RAGHUVAṂŚA trial to identify missing ls entries 
+* issue104 HEMACANDRA'S ABHIDHĀNACINTĀMAṆI
 * issue105 MEDINĪKOṢA
 * issue109 RAGHUVAṂŚA Calcutta edition
 * issue110 VOPADEVA'S Mughabodha
@@ -48,3 +49,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue143 BHAṬṬIKĀVYA link target
 * issue144 TAITTIRĪYABRĀHMAṆA link target
 * issue145 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI, 2 parameter references 
+* issue146 KUMĀRASAM̃BHAVA 
+* ussye147 MEGHADŪTA
+* issue148 BHARTṚHARI
+* issue149 MĀLAVIKĀGNIMITRA
