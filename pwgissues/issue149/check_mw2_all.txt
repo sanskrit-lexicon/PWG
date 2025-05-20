@@ -10,7 +10,8 @@ check: ok
 
 key (1, 2): 19	0	2	3	4 [2 - 3]
 L= 137945, hw= prasahya, pc=697,2
-check: ?
+check: ok 137945 : prasahya : Mālav. i, 2 : Mālav. v, 2  printchange
+
 ----------------------------------------------
 
 key (1, 3): 19	0	2	3	4 [2 - 3]
@@ -20,7 +21,8 @@ check: ok (prakrit)
 
 key (1, 3): 19	0	2	3	4 [2 - 3]
 L= 109723, hw= nirBal, pc=556,1
-check: ?
+check: ok from AB:  <ls>Mālav. i, 3/4</ls>
+   between 3 and 4.  ipage 5,line 9 nibBAlaantI
 ----------------------------------------------
 
 key (1, 4): 22	1	4	5	7 [4 - 5]
@@ -50,7 +52,8 @@ check: ok vAhataka
 
 key (1, 6): 23	1	6	6	8 [6 - 6]
 L= 189174, hw= vastuka, pc=933,1
-check: ?
+check: ok AB (ipage 7, line 22)
+   189174 : vastuka : Mālav. i, 6/7 : Mālav. i, 5/6  printchange
 ----------------------------------------------
 
 key (1, 7): 24	1	7	8	9 [7 - 8]
@@ -85,12 +88,15 @@ check: ok
 
 key (1, 12): 27	1	12	12	12 [12 - 12]
 L= 85567, hw= tIrTa, pc=449,1
-check: ?
+check: ok AB print change
+   Mālav. i, 12/13 -> Mālav. i, 11/12
 ----------------------------------------------
 
 key (1, 12): 27	1	12	12	12 [12 - 12]
 L= 91212, hw= dA, pc=473,2
-check: ?
+check: ok AB  ipage 11, line 17
+91212  : dA : Mālav. i, 12/13 : Mālav. i, 11/12 printchange
+  dattaprayoga
 ----------------------------------------------
 
 key (1, 13): 28	1	13	14	13 [13 - 14]
@@ -130,7 +136,14 @@ check: ok
 
 key (1, 21): 33	1	21	21	18 [21 - 21]
 L= 156550, hw= maDyamasvara, pc=782,3
-check: ?
+check: AB  only in Bollensen edition
+   Jim 1,21d has svamanoraTa
+   AB Bollinger maDyamasvara
+Jim
+156550 : maDyamasvara : Mālav. i, 21 : Mālav. (ed. Boll.) i, 21 print change
+
+Add to mwauth/tooltip.txt in csl-pywork05:06x	Mālav. (ed. Boll.)	Mālavikāgnimitra, Bollensen edition	Title
+
 ----------------------------------------------
 
 key (2, 1): 34	2	22	22	19 [1 - 1]
@@ -175,12 +188,15 @@ check: ok
 
 key (2, 24): pagerec not found   i.e. there is no verse 24 with anka=2
 L= 104299, hw= nartayitf, pc=529,3
-check: ?
+check: ok AB:
+  104299 : nartayitf : Mālav. ii, 24; 29/30  :  Mālav. ii, 3; 8/9 printchange
 ----------------------------------------------
 
 key (2, 26): pagerec not found
 L= 73168, hw= cArutA, pc=393,3
-check: ?
+check: ok AB
+73168  :  cArutA : Mālav. ii, 26/27 : Mālav. ii, 5/6 printchange
+
 ----------------------------------------------
 
 key (3, 2): 43	3	37	37	28 [2 - 2]
@@ -205,7 +221,8 @@ check: ok
 
 key (3, 16): 53	3	50	52	38 [15 - 17]
 L= 118697, hw= parivftti, pc=601,3
-check: ?
+check: ok AB  Jim makes no change.
+ This may be an example of a rhetorical 'figure'
 ----------------------------------------------
 
 key (3, 19): 55	3	54	54	40 [19 - 19]
@@ -215,7 +232,7 @@ check: ok
 
 key (3, 19): 55	3	54	54	40 [19 - 19]
 L= 76490, hw= jaNGAbala, pc=409,1
-check: ?
+check: ok AB  Mālav. iii, 19/20.  between ipage 40,13
 ----------------------------------------------
 
 key (3, 20): 56	3	55	55	41 [20 - 20]
@@ -260,7 +277,7 @@ check: ok ipage 56
 
 key (4, 4): 61	4	61	62	46 [3 - 4]
 L= 73474, hw= cit, pc=395,2
-check: ?
+check: ok AB  ipage 47, line 11  cikitsayizyati (between 4 and 5)
 ----------------------------------------------
 
 key (4, 4): 61	4	61	62	46 [3 - 4]
