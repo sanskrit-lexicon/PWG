@@ -1,0 +1,29 @@
+key (14,): 19	11	14	6
+L= 27112, hw= sTalavetasa, pc=371-3
+check: NOT FOUND a commentary ref
+ Mallin. zu Megh. 14 nach Aufrecht.
+----------------------------------------------
+
+key (18,): 20	15	18	7
+L= 26211, hw= sarpaveRI, pc=360-1
+check: NOT FOUND a different edition
+  Megh. 18 (ed. Krishnamachariar, Srirangam 1909)
+----------------------------------------------
+
+key (35,): 25	35	38	12
+L= 15732, hw= dESika, pc=217-1
+check: NOT FOUND. a commentary ref
+  Mallin. zu Megh. 35
+----------------------------------------------
+
+key (93,): 39	91	94	26
+L= 7869, hw= uc, pc=108-2
+check: OK.  The word samucita is found in verse 94
+
+----------------------------------------------
+
+key (105,): 42	103	106	29
+L= 5905, hw= aSruleSa, pc=081-1
+check: ok
+----------------------------------------------
+

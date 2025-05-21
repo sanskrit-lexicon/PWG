@@ -1,0 +1,30 @@
+key (7,): 18	7	10	5
+L= 74866, hw= prekzaRa, pc=4-194-b
+check: NOT FOUND
+ 1. pw typo.  The verse should be 79
+ 2. However,  prekzaRa not found in verse 79
+----------------------------------------------
+
+key (28,): 23	27	30	10
+L= 62448, hw= pat, pc=4-013-b
+check: ok.  Should be verse 29 (cf. pwg) saMni + pat
+ pwg pat has several.  
+----------------------------------------------
+
+key (42,): 26	39	42	13
+L= 60535, hw= nIcEs, pc=3-233-b
+check: ok. verse should be 43
+60535 : nIcEs : MEGH. 42 : MEGH. 43  : printchange, pw  (cf. pwg)
+ 
+----------------------------------------------
+
+key (88,): 38	87	90	25
+L= 13610, hw= AgaRqa, pc=1-161-a
+check: ok 
+----------------------------------------------
+
+key (89,): 38	87	90	25
+L= 19258, hw= udvezwanIya, pc=1-235-b
+check: ok
+----------------------------------------------
+

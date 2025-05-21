@@ -1,0 +1,22 @@
+key (14,): 19	11	14	6
+L= 21994, hw= sTalavetasa, pc=7-383-d
+check: NOT FOUND --
+  Mallin.  zu Megh. 14 nach Aufrecht .
+----------------------------------------------
+
+key (35,): 25	35	38	12
+L= 7463, hw= dESika, pc=5-256-c
+check: NOT FOUND --
+  eine Art Tanz, geschildert in Nṛtyasarvasva bei Mallin. zu Megh. 35 nach Aufrecht 
+----------------------------------------------
+
+key (93,): 39	91	94	26
+L= 8670, hw= uc, pc=6-298-c
+check: ok samucita  But the verse should be 94 !
+----------------------------------------------
+
+key (105,): 42	103	106	29
+L= 6657, hw= aSruleSa, pc=5-248-a
+check: ok
+----------------------------------------------
+
