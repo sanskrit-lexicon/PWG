@@ -121,7 +121,12 @@ check: ok
 
 key (1, 16): 30	1	16	16	15 [16 - 16]
 L= 123929, hw= piRqitArTa, pc=626,1
-check: ?
+check: ok. AB
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/149#issuecomment-2896895702
+mw print change
+123929 : piRqitArTa : Mālav. i, 16. : Mālav. i, 15/16.
+
+The word in pdf is prakrit:  piRqitatTo (piRqitatTa)
 ----------------------------------------------
 
 key (1, 17): 31	1	17	18	16 [17 - 18]
