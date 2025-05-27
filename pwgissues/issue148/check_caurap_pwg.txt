@@ -1,0 +1,28 @@
+key (17,): 45	17	18	8
+L= 11999, hw= upari, pc=1-0966
+check: ok
+----------------------------------------------
+
+key (19,): 46	19	21	9
+L= 96448, hw= vyasanitA, pc=6-1459
+check: not found
+ ṣaḍnāṣāsvapi dṛśyate vyasanitā Caurap. 19 in Journ. As. IV sér. t. XI,
+----------------------------------------------
+
+key (23,): 47	22	24	10
+L= 85715, hw= lag, pc=6-0475
+check: not found
+   tāṃ stimitavastramivāvalagnām Caurap. 23 in Haeb. Anth. S. 231.
+   
+----------------------------------------------
+
+key (46,): 55	45	47	18
+L= 110369, hw= suDA, pc=7-1065
+check: ok
+----------------------------------------------
+
+key (50,): 56	48	50	19
+L= 36188, hw= DaraRa, pc=3-0878
+check: ok
+----------------------------------------------
+

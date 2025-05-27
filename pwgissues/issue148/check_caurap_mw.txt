@@ -1,0 +1,10 @@
+key (18,): 45	17	18	8
+L= 92788, hw= dIpamAlA, pc=481,1
+check: ok  in bhartrhari edition, not in Ariel edition
+----------------------------------------------
+
+key (49,): 56	48	50	19
+L= 85085, hw= tiraspawa, pc=447,2
+check: ok in Ariel edition not in bhartrhari edition
+----------------------------------------------
+
