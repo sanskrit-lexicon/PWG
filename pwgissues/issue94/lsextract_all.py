@@ -50,6 +50,7 @@ def count_tips(lines,tipd,numbertip,unknowntip):
  imetaline1 = None
  page = None
  for iline,line in enumerate(lines):
+  entry = [] # 05-31-2025
   if iline == 0: # %***This File is E:\\APTE.ALL, Last update 11.09.06 
    continue  # 
   line = line.rstrip('\r\n')

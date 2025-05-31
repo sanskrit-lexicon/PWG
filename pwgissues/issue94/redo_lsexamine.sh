@@ -11,5 +11,10 @@ python lsexamine1.py temp_pwg_0.txt pwgbib_input.txt lsexamine1.txt
 echo "... lsexamine2.txt"
 python lsexamine2.py lsexamine1.txt lsexamine2.txt
 
-echo ... "lsexamine2_summary.txt"
-grep -e '^\*' lsexamine2.txt > lsexamine2_summary.txt
+echo "... lsexamine2_summary.txt"
+grep -... '^\*' lsexamine2.txt > lsexamine2_summary.txt
+
+
+echo "... lsexamine3.txt"
+python lsexamine3.py lsexamine1.txt lsexamine3.txt
+

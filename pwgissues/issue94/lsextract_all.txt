@@ -1,4 +1,4 @@
-753137	ALL	As of 2025-03-23
+753137	ALL	As of 2025-05-31
 00010	NUMBER	ls starts with number
 00014	UNKNOWN	ls is unknown
 67179	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
@@ -18,7 +18,7 @@
 12986	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
 12699	Spr.	Indische Sprüche. Sanskrit und deutsch h
 12446	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
-09971	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
+09790	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 09737	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
 09180	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
 08819	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
@@ -35,7 +35,7 @@
 05501	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
 05437	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
 05388	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
-05159	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
+05160	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
 04547	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
 03885	Verz. d. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
 03861	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
@@ -64,11 +64,11 @@
 02020	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
 02020	WILS.	WILSON'S Wörterbuch (GILD. Bibl. 37).
 02020	UṆĀDIS.	?  
-01874	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
+01978	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
+01873	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
 01847	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
 01843	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
 01835	ĀŚV. ŚR.	ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya
-01797	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
 01788	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
 01755	ṚV. PRĀT.	PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach Paṭa
 01729	PAÑCAV. BR.	PAÑCAVIṂŚABRĀHMAṆA.

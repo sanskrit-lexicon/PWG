@@ -117,11 +117,11 @@
 ** (61) SUŚR. with 1 numeric parameters 
 ** (27) SUŚR. with 0 numeric parameters 
 ** (2) SUŚR. with 4 numeric parameters 
-* 09971	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
+* 09790	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
 ** !(6613) H. an. with 0 numeric parameters 
-** (3111) H. an. with 2 numeric parameters 
-** (245) H. an. with OTHER parameters 
-** (2) H. an. with 1 numeric parameters 
+** (3117) H. an. with 2 numeric parameters 
+** (59) H. an. with OTHER parameters 
+** (1) H. an. with 1 numeric parameters 
 ** (0) H. an. with 3 numeric parameters 
 ** (0) H. an. with 4 numeric parameters 
 * 09737	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
@@ -236,8 +236,8 @@
 ** (79) TS. with 3 numeric parameters 
 ** (42) TS. with 2 numeric parameters 
 ** (11) TS. with 1 numeric parameters 
-* 05159	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
-** !(4494) HALĀY. with 2 numeric parameters 
+* 05160	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
+** !(4495) HALĀY. with 2 numeric parameters 
 ** (346) HALĀY. with 0 numeric parameters 
 ** (289) HALĀY. with OTHER parameters 
 ** (28) HALĀY. with 1 numeric parameters 
@@ -420,9 +420,9 @@
 ** (0) KĀM. NĪTIS. with 4 numeric parameters 
 * 02020	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
 ** !(1792) MEGH. with 1 numeric parameters 
-** (225) MEGH. with OTHER parameters 
-** (2) MEGH. with 2 numeric parameters 
+** (227) MEGH. with OTHER parameters 
 ** (1) MEGH. with 0 numeric parameters 
+** (0) MEGH. with 2 numeric parameters 
 ** (0) MEGH. with 3 numeric parameters 
 ** (0) MEGH. with 4 numeric parameters 
 * 02020	WILS.	WILSON'S Wörterbuch (GILD. Bibl. 37).
@@ -439,10 +439,17 @@
 ** (3) UṆĀDIS. with 1 numeric parameters 
 ** (0) UṆĀDIS. with 3 numeric parameters 
 ** (0) UṆĀDIS. with 4 numeric parameters 
-* 01874	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
+* 01978	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
+** !(1911) an. with 2 numeric parameters 
+** (37) an. with 0 numeric parameters 
+** (29) an. with OTHER parameters 
+** (1) an. with 1 numeric parameters 
+** (0) an. with 3 numeric parameters 
+** (0) an. with 4 numeric parameters 
+* 01873	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
 ** !(1796) HĀR. with 1 numeric parameters 
 ** (77) HĀR. with 0 numeric parameters 
-** (1) HĀR. with 2 numeric parameters 
+** (0) HĀR. with 2 numeric parameters 
 ** (0) HĀR. with 3 numeric parameters 
 ** (0) HĀR. with 4 numeric parameters 
 ** (0) HĀR. with OTHER parameters 
@@ -467,13 +474,6 @@
 ** (13) ĀŚV. ŚR. with 1 numeric parameters 
 ** (6) ĀŚV. ŚR. with 0 numeric parameters 
 ** (0) ĀŚV. ŚR. with 4 numeric parameters 
-* 01797	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
-** !(1731) an. with 2 numeric parameters 
-** (37) an. with 0 numeric parameters 
-** (28) an. with OTHER parameters 
-** (1) an. with 1 numeric parameters 
-** (0) an. with 3 numeric parameters 
-** (0) an. with 4 numeric parameters 
 * 01788	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
 ** !(1610) MṚCCH. with 2 numeric parameters 
 ** (166) MṚCCH. with OTHER parameters 

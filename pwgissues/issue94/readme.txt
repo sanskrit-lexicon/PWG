@@ -42,3 +42,12 @@ Regenerates various files based on latest versions of
  pwg.txt and pwgbib_input.txt
 
 -------------------------------------------------
+05-31-2025 lsexamine3.py
+
+Sort the instances of a given number of parameters.
+python lsexamine3.py lsexamine1.txt lsexamine3.txt
+
+
+## pw dictionary.
+cd pw
+sh redo_lsexamine.sh
