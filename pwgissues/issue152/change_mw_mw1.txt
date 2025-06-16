@@ -1,0 +1,30 @@
+; <L>18726<pc>108,1<k1>avicArita<k2>a-vicArita<e>2
+67018 old <s>a-vicArita</s> ¦ <lex>mfn.</lex> unconsidered, not deliberated, <ls>Hit. xii, 16</ls><info lex="m:f:n"/>
+;
+67018 new <s>a-vicArita</s> ¦ <lex>mfn.</lex> unconsidered, not deliberated, <ls>Hit. 12, 16</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>48891<pc>276,2<k1>kAryaparicCeda<k2>kArya—paricCeda<e>3
+169288 old <s>kArya—paricCeda</s> ¦ <lex>m.</lex> right estimate of a case, discrimination, <ls>Hit. xxxii, 22.</ls><info lex="m"/>
+;
+169288 new <s>kArya—paricCeda</s> ¦ <lex>m.</lex> right estimate of a case, discrimination, <ls>Hit. 32, 22.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>76735<pc>410,1<k1>jan<k2>jan<e>1
+258953 old <div n="to"/>to be born again, <ls>Mn. iv</ls>, <ls n="Mn.">ix</ls>, <ls n="Mn.">xi f.</ls>; <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>, <ls n="MBh.">xiii</ls>; <ls>Hit. <ab>Introd.</ab> 14</ls>;
+;
+258953 new <div n="to"/>to be born again, <ls>Mn. iv</ls>, <ls n="Mn.">ix</ls>, <ls n="Mn.">xi f.</ls>; <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>, <ls n="MBh.">xiii</ls>; <ls>Hit. Introd. 14</ls>;
+;---------------------------------------------------
+; <L>90608<pc>470,3<k1>darSaka<k2>darSaka<e>2A
+304363 old ¦ showing, pointing out (with <ab>gen.</ab> <ls>Kum. vi, 52</ls>; <ls>Hit. <ab>Introd.</ab> 10</ls>; <ab>ifc.</ab> <ls>Mṛcch. iv, 20</ls>; <ls>BhP. i, 13, 38</ls>; <ls>Rājat. i</ls>; with <s>lohitasya</s>, making blood appear by striking any one), <ls>Mn. viii, 284</ls><info lex="inh"/>
+;
+304363 new ¦ showing, pointing out (with <ab>gen.</ab> <ls>Kum. vi, 52</ls>; <ls>Hit. Introd. 10</ls>; <ab>ifc.</ab> <ls>Mṛcch. iv, 20</ls>; <ls>BhP. i, 13, 38</ls>; <ls>Rājat. i</ls>; with <s>lohitasya</s>, making blood appear by striking any one), <ls>Mn. viii, 284</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>90640<pc>471,1<k1>darSana<k2>da/rSana<e>2B
+304456 old ¦ a vision, dream, <ls>Hariv. 1285</ls>; <ls>Hit. iii, 0/1</ls><info lex="inh"/>
+;
+304456 new ¦ a vision, dream, <ls>Hariv. 1285</ls>; <ls>Hit. Introd. 9, 0/1</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>117806<pc>596,2<k1>pariDvaMsin<k2>pari-DvaMsin<e>3A
+396182 old ¦ destroying, ruining, <ls>Kām.</ls>; <ls>Hit. v, 118</ls> (<ab>v.l.</ab>)<info lex="inh"/>
+;
+396182 new ¦ destroying, ruining, <ls>Kām.</ls>; <ls>Hit. ii, 118</ls> (<ab>v.l.</ab>)<info lex="inh"/>
+;---------------------------------------------------

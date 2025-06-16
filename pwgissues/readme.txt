@@ -53,3 +53,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * ussye147 MEGHADŪTA
 * issue148 BHARTṚHARI
 * issue149 MĀLAVIKĀGNIMITRA
+* issue152 HITOPADEŚA
+

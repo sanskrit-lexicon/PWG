@@ -1,0 +1,50 @@
+; <L>8733<pc>1-0658<k1>Apad<k2>Apad
+74807 old <ls>HIT. I,227.</ls> {#ApadDarma#} {%die im Falle der Noth, bei widerwärtigen Verhältnissen geltenden Vorschriften%}
+;
+74807 new <ls>HIT. I,181.</ls> {#ApadDarma#} {%die im Falle der Noth, bei widerwärtigen Verhältnissen geltenden Vorschriften%}
+;---------------------------------------------------
+; <L>9860<pc>1-0745<k1>AsvAdya<k2>AsvAdya
+85012 old <ls>HIT. Pr. 49.</ls>
+;
+85012 new <ls>HIT. Pr. 47.</ls>
+;---------------------------------------------------
+; <L>36123<pc>3-0860<k1>Danus<k2>Da/nus<h>1
+348592 old <ls>HIT. 1,155.</ls> {#surapati°#} <is>Indra's</is> {%Bogen, der Regenbogen%}
+;
+348592 new <ls>HIT. I,155.</ls> {#surapati°#} <is>Indra's</is> {%Bogen, der Regenbogen%}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+353570 old <ls>MBH. 15,194</ls> (= <ls>HIT. III,38).</ls> {#utpannamApadaM yastu samADatte sa budDimAn#}
+;
+353570 new <ls>MBH. 15,194</ls> (= <ls>HIT. III,38.</ls>) {#utpannamApadaM yastu samADatte sa budDimAn#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354244 old <ls>HIT. 1,171.</ls> {#tayA vihitavfttiH#}
+;
+354244 new <ls>HIT. I,171.</ls> {#tayA vihitavfttiH#}
+;---------------------------------------------------
+; <L>41027<pc>4-0329<k1>no<k2>no/
+399810 old <ls>PAÑCAT. I,97. II,147.</ls> <ls>HIT. I. 88</ls> (nach der richtigen Lesart).
+;
+399810 new <ls>PAÑCAT. I,97. II,147.</ls> <ls>HIT. I, 88</ls> (nach der richtigen Lesart).
+;---------------------------------------------------
+; <L>41027<pc>4-0329<k1>no<k2>no/
+399814 old <ls>ŚUK. in LA. 41,15.</ls> <ls>HIT. 1,82. v. l.</ls> <ls>PAÑCAT. II,150. 164,2.</ls> <ls>H. 1539</ls>, <ls>Sch.</ls> Die Lexicographen (
+;
+399814 new <ls>ŚUK. in LA. 41,15.</ls> <ls>HIT. I,82. v. l.</ls> <ls>PAÑCAT. II,150. 164,2.</ls> <ls>H. 1539</ls>, <ls>Sch.</ls> Die Lexicographen (
+;---------------------------------------------------
+; <L>53759<pc>5-0168<k1>Bakzya<k2>Bakzya
+519837 old <ls>HIT. 1,158.</ls>
+;
+519837 new <ls>HIT. I,158.</ls>
+;---------------------------------------------------
+; <L>61162<pc>5-0841<k1>muh<k2>muh<h>1
+594871 old <ls>HIT. 136,10.</ls> Vgl. {#agni°, diNmUQa#} .
+;
+594871 new <ls>HIT. 116,10.</ls> Vgl. {#agni°, diNmUQa#} .
+;---------------------------------------------------
+; <L>61203<pc>5-0848<k1>mUQatA<k2>mUQatA
+595456 old <ls>HIT. 136,10, v. l.</ls>
+;
+595456 new <ls>HIT. 116,10, v. l.</ls>
+;---------------------------------------------------

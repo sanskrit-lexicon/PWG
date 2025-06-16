@@ -1,0 +1,10 @@
+; <L>37314<pc>2-189-a<k1>graB<k2>graB
+150192 old <div n="1">— 10〉 {#upagfhItum#} <ls>HIT. II,2</ls> fehlerhaft für {#°gUhitum#}.
+;
+150192 new <div n="1">— 10〉 {#upagfhItum#} <ls>HIT. II,3</ls> fehlerhaft für {#°gUhitum#}.
+;---------------------------------------------------
+; <L>208637<pc>6-298-b<k1>Avartin<k2>Avartin<h>2
+595337 old <hom>2.</hom> {#Avartin#}¦ auch <lex>Adj.</lex> {%wiederkehrend%} <ls>CHĀND. UP. 5,10,8</ls>. <ls>HIT. 1,201</ls>. <ab>Vgl.</ab> {#punarAvartin#}.<info n="sup_6"/>
+;
+595337 new <hom>2.</hom> {#Avartin#}¦ auch <lex>Adj.</lex> {%wiederkehrend%} <ls>CHĀND. UP. 5,10,8</ls>. <ls>HIT. I,201</ls>. <ab>Vgl.</ab> {#punarAvartin#}.<info n="sup_6"/>
+;---------------------------------------------------

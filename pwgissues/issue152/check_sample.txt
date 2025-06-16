@@ -1,0 +1,117 @@
+NN = ipage,linenum
+RN = Roman 1-4, verse
+PN = PR verse   (prastAva)
+
+Sample of first 2 instances of each type for each kosha.
+So 15 examples.
+Note 2 are not found below.
+
+Also, atipriya is not found at page 60, line 5
+  for koshas sch, pwkvn, pw.
+
+
+==> check_mwNN_ALL_2.txt <== 
+key (12, 16): 33	I	15	20	12
+L= 18726, hw= avicArita, pc=108,1
+check: ok
+----------------------------------------------
+
+key (32, 22): 53	I	131	139	32
+L= 48891, hw= kAryaparicCeda, pc=276,2
+check: ok
+----------------------------------------------
+
+
+==> check_mwPN_ALL_2.txt <==
+key (0, 9): 25	prooemium	7	14	4
+L= 90640, hw= darSana, pc=471,1
+check: ok sudarSana
+----------------------------------------------
+
+key (0, 10): 25	prooemium	7	14	4
+L= 90608, hw= darSaka, pc=470,3
+check: not found
+----------------------------------------------
+
+
+==> check_mwRN_ALL_2.txt <==
+key (1, 1): 30	I	1	3	9
+L= 74734, hw= cUqA, pc=401,1
+check: ok
+----------------------------------------------
+
+key (1, 1): 30	I	1	3	9
+L= 92540, hw= digdeSa, pc=480,1
+check: ok
+----------------------------------------------
+
+
+==> check_pwgPN_ALL_2.txt <==
+key (0, 1): 24	prooemium	1	6	3
+L= 15678, hw= kalA, pc=2-0157
+check: ok
+----------------------------------------------
+
+key (0, 1): 24	prooemium	1	6	3
+L= 27410, hw= jAhnava, pc=3-0094
+check: ok
+----------------------------------------------
+
+
+==> check_pwgRN_ALL_2.txt <==
+key (1, 1): 30	I	1	3	9
+L= 7368, hw= asADana, pc=1-0550
+check: ok
+----------------------------------------------
+
+key (1, 1): 30	I	1	3	9
+L= 9595, hw= ASu, pc=1-0719
+check: ok
+----------------------------------------------
+
+
+==> check_pwkvnNN_ALL_2.txt <==
+key (46, 8): 67	II	6	13	46
+L= 5084, hw= anupaBujyamAna, pc=4-292-b
+check: not found
+----------------------------------------------
+
+key (46, 8): 67	II	6	13	46
+L= 5335, hw= avarDamAna, pc=4-295-b
+check: ok
+----------------------------------------------
+
+
+==> check_pwkvnPN_ALL_2.txt <==
+  NO INSTANCES of HIT. Pr. N
+----------------------------------------------
+
+==> check_pwkvnRN_ALL_2.txt <==
+key (1, 201): 64	I	201	204	43
+L= 8637, hw= Avartin, pc=6-298-b
+check: ok
+----------------------------------------------
+
+
+==> check_schNN_ALL_2.txt <==
+key (46, 8): 67	II	6	13	46
+L= 2724, hw= anupaBujyamAna, pc=037-2
+check: not found
+----------------------------------------------
+
+key (46, 8): 67	II	6	13	46
+L= 5368, hw= avarDamAna, pc=073-2
+check: ok
+----------------------------------------------
+
+
+==> check_schPN_ALL_2.txt <==
+ NO INSTANCES of 'Hit. Pr. N'
+
+----------------------------------------------
+==> check_schRN_ALL_2.txt <==
+key (1, 201): 64	I	201	204	43
+L= 7375, hw= Avartam, pc=101-1
+check: ok Avarti  
+----------------------------------------------
+
