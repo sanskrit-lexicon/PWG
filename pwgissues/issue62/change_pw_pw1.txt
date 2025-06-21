@@ -1,0 +1,10 @@
+; <L>129163<pc>7-183-a<k1>sfzwi<k2>sf/zwi
+538167 old <div n="1">— 3〉 <ls>AK. 3,4,9,4</ls> fehlerhaft für {#sfzwa#}.
+;
+538167 new <div n="1">— 3〉 <ls>AK. 3,4,9,41</ls> fehlerhaft für {#sfzwa#}.
+;---------------------------------------------------
+; <L>206242<pc>5-243-b<k1>anUQa<k2>anUQa
+587934 old {#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>AK. 2,7,35</ls>. <ls>H. 526</ls>.<info n="sup_5"/>
+;
+587934 new {#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>AK. 2,7,55</ls>. <ls>H. 526</ls>.<info n="sup_5"/>
+;---------------------------------------------------

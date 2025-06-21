@@ -1,0 +1,24 @@
+* DONE key (2, 8, 275): pagerec not found
+20742 : kzveqa : AK. 2,8,275 :  AK. 2,8,2,75 : pwg printchange
+check: ok
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PWG&page=2-0584
+----------------------------------------------
+
+* DONE key (2, 24, 8): pagerec not found
+54198 : BarUjA : AK. 2,24,8 :  AV. 2,24,8 : pwg typo
+check: ok == not an AK reference
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PWG&page=5-0215
+----------------------------------------------
+
+* DONE key (4, 4, 32): pagerec not found
+116720 : hA : AK. 4,4,32 (28),18. : AK. 3,4,32,18 (28). : pwg printchange
+check: ok
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PWG&page=7-1594
+----------------------------------------------
+
+* DONE key (11, 8, 14): pagerec not found
+51847 : barjahya : AK. 11,8,14 :  AV. 11,8,14 : pwg printchange (cf. PW)
+check: irrelevant not AK
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=PWG&page=5-0024
+----------------------------------------------
+

@@ -1,0 +1,385 @@
+; <L>4482<pc>1-0330<k1>aBikrama<k2>aBikrama
+36899 old <ls>H. 791.</ls> Erkl. zu <ls>AK. 2,8,3,64.</ls> Vgl. {#atikrama#} .
+;
+36899 new <ls>H. 791.</ls> Erkl. zu <ls>AK. 2,8,2,64.</ls> Vgl. {#atikrama#} .
+;---------------------------------------------------
+; <L>5780<pc>1-0421<k1>arkaparRa<k2>arkaparRa
+47751 old <ls>AK. 2,4,2,68.</ls>
+;
+47751 new <ls>AK. 2,4,2,61.</ls>
+;---------------------------------------------------
+; <L>12196<pc>1-0980<k1>upasTa<k2>upa/sTa
+109569 old <ls>AK. 6,2,2,26.</ls> <ls n="AK.">3,4,24,156.</ls>
+;
+109569 new <ls>AK. 2,6,2,26.</ls> <ls n="AK.">3,4,24,156.</ls>
+;---------------------------------------------------
+; <L>13545<pc>1-1099<k1>elA<k2>elA
+122291 old <ls>AK. 2,2,4,13.</ls>
+;
+122291 new <ls>AK. 2,4,4,13.</ls>
+;---------------------------------------------------
+; <L>14988<pc>2-0071<k1>kam<k2>ka/m<h>1
+135945 old <ls>AK. 2,4,32,11.</ls>
+;
+135945 new <ls>AK. 3,4,32,11.</ls>
+;---------------------------------------------------
+; <L>15427<pc>2-0131<k1>kartar<k2>karta/r<h>1
+142020 old <ls>P. 1,4,54.</ls> <ls n="P.">2,3,18.</ls> u.s.w. <ls>VOP. 5,9.</ls> <ls>AK. 3,6,1,15</ls> <ls n="AK. 3,6,">8,45</ls> — <lex>f.</lex> {#kartrI = kArikA#}
+;
+142020 new <ls>P. 1,4,54.</ls> <ls n="P.">2,3,18.</ls> u.s.w. <ls>VOP. 5,9.</ls> <ls>AK. 3,6,2,15</ls> <ls n="AK. 3,6,">8,45</ls> — <lex>f.</lex> {#kartrI = kArikA#}
+;---------------------------------------------------
+; <L>15523<pc>2-0137<k1>karman<k2>ka/rman
+142867 old <ls>AK. 3,4,21,157</ls> : {#BAgyaM karma SuBASuBam#} {%Schicksal ist das gute und böse Werk%} (einer früheren Geburt).
+;
+142867 new <ls>AK. 3,4,24,157</ls> : {#BAgyaM karma SuBASuBam#} {%Schicksal ist das gute und böse Werk%} (einer früheren Geburt).
+;---------------------------------------------------
+; <L>15590<pc>2-0142<k1>karz<k2>karz<h>1
+143596 old <ls>AK. 3,2,3.</ls> <ls n="AK.">3,4,29,227.</ls>
+;
+143596 new <ls>AK. 3,2,3.</ls> <ls n="AK.">3,4,30,227.</ls>
+;---------------------------------------------------
+; <L>20033<pc>2-0518<k1>klIba<k2>klIba/
+186299 old <ls>AK. 3,4,22,215.</ls>
+;
+186299 new <ls>AK. 3,4,27,215.</ls>
+;---------------------------------------------------
+; <L>20107<pc>2-0525<k1>kzattar<k2>kzatta/r
+187201 old <ls>AK. 3,4,11,65.</ls>
+;
+187201 new <ls>AK. 3,4,14,65.</ls>
+;---------------------------------------------------
+; <L>20742<pc>2-0584<k1>kzveqa<k2>kzveqa
+193675 old <ls>AK. 2,8,275.</ls>
+;
+193675 new <ls>AK. 2,8,2,75.</ls>
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+203728 old <ls>AK. 3,4,18,131.</ls>
+;
+203728 new <ls>AK. 3,4,19,131.</ls>
+;---------------------------------------------------
+; <L>22040<pc>2-0707<k1>garvita<k2>garvita/
+207443 old <ls>AK. 3,4,17,106.</ls> {#guRAQyA na ca garvitAH#}
+;
+207443 new <ls>AK. 3,4,18,106.</ls> {#guRAQyA na ca garvitAH#}
+;---------------------------------------------------
+; <L>26424<pc>3-0011<k1>jawAmAMsI<k2>jawAmAMsI
+254045 old <ls>AK. 2,4,4,32.</ls>
+;
+254045 new <ls>AK. 2,4,4,22.</ls>
+;---------------------------------------------------
+; <L>30476<pc>3-0391<k1>tejas<k2>te/jas
+296471 old <ls>AK. 3,4,31,236.</ls>
+;
+296471 new <ls>AK. 3,4,30,236.</ls>
+;---------------------------------------------------
+; <L>34348<pc>3-0733<k1>dfzwAnta<k2>dfzwAnta
+333698 old <ls>AK. 3,4,19,65.</ls>
+;
+333698 new <ls>AK. 3,4,14,65.</ls>
+;---------------------------------------------------
+; <L>38095<pc>4-0083<k1>nah<k2>nah<h>1
+372466 old <ls>AK. 3,4,17,106.</ls>
+;
+372466 new <ls>AK. 3,4,18,106.</ls>
+;---------------------------------------------------
+; <L>38752<pc>4-0137<k1>nigama<k2>nigama/
+378447 old <ls>AK. 3,4,22,142.</ls>
+;
+378447 new <ls>AK. 3,4,23,142.</ls>
+;---------------------------------------------------
+; <L>39476<pc>4-0195<k1>nirdeSa<k2>nirdeSa
+385106 old <ls>KĀŚ.</ls> zu <ls>P. 1,1,57.</ls> <is>Kār.</is> 8 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 51.</ls> Schol. zu <ls>KAP. 1,129.</ls> <ls>AK. 3,4,17,106.</ls> Häufig in comp. mit dem im instr. gedachten Begriffe: {#vacanamaBinayantyA svANganirdeSapUrvam#}
+;
+385106 new <ls>KĀŚ.</ls> zu <ls>P. 1,1,57.</ls> <is>Kār.</is> 8 aus <ls>SIDDH. K.</ls> zu <ls>P. 7,2,10.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 51.</ls> Schol. zu <ls>KAP. 1,129.</ls> <ls>AK. 3,4,18,106.</ls> Häufig in comp. mit dem im instr. gedachten Begriffe: {#vacanamaBinayantyA svANganirdeSapUrvam#}
+;---------------------------------------------------
+; <L>39609<pc>4-0204<k1>niryAsa<k2>niryAsa/
+386207 old <ls>AK. 3,4,34,155.</ls>
+;
+386207 new <ls>AK. 3,4,24,155.</ls>
+;---------------------------------------------------
+; <L>39754<pc>4-0216<k1>nirvyApAra<k2>nirvyApAra
+387445 old <ls>AK. 3,4,12,50.</ls> {#mETilIkaRWanirvyApAreRa bAhunA#}
+;
+387445 new <ls>AK. 3,4,13,50.</ls> {#mETilIkaRWanirvyApAreRa bAhunA#}
+;---------------------------------------------------
+; <L>40656<pc>4-0306<k1>nftya<k2>nftya
+397010 old <ls>AK. 3,4,29,226.</ls> {#nftyaM mayUrAH (vijahuH)#}
+;
+397010 new <ls>AK. 3,4,30,226.</ls> {#nftyaM mayUrAH (vijahuH)#}
+;---------------------------------------------------
+; <L>41066<pc>4-0331<k1>nyakza<k2>nyakza/
+400079 old <ls>AK. 3,4,29,227.</ls>
+;
+400079 new <ls>AK. 3,4,30,227.</ls>
+;---------------------------------------------------
+; <L>41760<pc>4-0391<k1>paRqitaMmanya<k2>paRqitaMmanya
+406459 old <ls>AK. 3,4,17,106.</ls>
+;
+406459 new <ls>AK. 3,4,18,106.</ls>
+;---------------------------------------------------
+; <L>42310<pc>4-0479<k1>para<k2>pa/ra
+414750 old <ls>AK. 2,6,2,30.</ls> <ls n="AK.">3,4,29,227.</ls>
+;
+414750 new <ls>AK. 2,6,2,30.</ls> <ls n="AK.">3,4,30,227.</ls>
+;---------------------------------------------------
+; <L>42709<pc>4-0515<k1>parigraha<k2>parigraha/
+418749 old <ls>AK. 3,4,21,239.</ls>
+;
+418749 new <ls>AK. 3,4,31,239.</ls>
+;---------------------------------------------------
+; <L>43758<pc>4-0596<k1>pavanASana<k2>pavanASana
+427878 old <ls>AK. 1,2,1,19.</ls>
+;
+427878 new <ls>AK. 1,2,1,9.</ls>
+;---------------------------------------------------
+; <L>47639<pc>4-0899<k1>prakarza<k2>prakarza
+463790 old <ls>AK. 3,2,2,61.</ls> {#AhAraH PalaprakarzaH#} {%vorwiegend aus Früchten bestehend%}
+;
+463790 new <ls>AK. 3,2,61.</ls> {#AhAraH PalaprakarzaH#} {%vorwiegend aus Früchten bestehend%}
+;---------------------------------------------------
+; <L>47791<pc>4-0914<k1>pragalBa<k2>pragalBa/
+465356 old <ls>AK. 3,4,16,98.</ls> {#sapragalBam#} (viell. {#supragalBam#} zu lesen) adv. {%muthig, entschlossen%}
+;
+465356 new <ls>AK. 3,4,17,98.</ls> {#sapragalBam#} (viell. {#supragalBam#} zu lesen) adv. {%muthig, entschlossen%}
+;---------------------------------------------------
+; <L>48865<pc>4-0997<k1>pratyagra<k2>pratyagra
+474862 old <ls>AK. 3,2,27.</ls> <ls n="AK.">3,4,16,98.</ls>
+;
+474862 new <ls>AK. 3,2,27.</ls> <ls n="AK.">3,4,17,98.</ls>
+;---------------------------------------------------
+; <L>50870<pc>4-1152<k1>prArTana<k2>prArTana
+493014 old <ls>AK. 3,4,17,102</ls> <ls n="AK. 3,4,">30,231</ls>
+;
+493014 new <ls>AK. 3,4,18,102</ls> <ls n="AK. 3,4,">30,231</ls>
+;---------------------------------------------------
+; <L>51117<pc>4-1172<k1>prekzA<k2>prekzA
+495374 old <ls>AK. 3,4,29,226.</ls>
+;
+495374 new <ls>AK. 3,4,30,226.</ls>
+;---------------------------------------------------
+; <L>51117<pc>4-1172<k1>prekzA<k2>prekzA
+495386 old <ls>AK. 1,1,4,10.</ls> <ls n="AK.">3,4,29,226.</ls>
+;
+495386 new <ls>AK. 1,1,4,10.</ls> <ls n="AK.">3,4,30,226.</ls>
+;---------------------------------------------------
+; <L>51847<pc>5-0024<k1>barjahya<k2>barjahya^
+503046 old <ls>AK. 11,8,14.</ls>
+;
+503046 new <ls>AV. 11,8,14.</ls>
+;---------------------------------------------------
+; <L>52834<pc>5-0096<k1>bIBatsa<k2>bIBatsa
+511751 old <ls>AK. 3,4,31,236.</ls> = {#krUra#} und {#GfRAtman#}
+;
+511751 new <ls>AK. 3,4,30,236.</ls> = {#krUra#} und {#GfRAtman#}
+;---------------------------------------------------
+; <L>53377<pc>5-0135<k1>brahman<k2>bra/hman<h>1
+516316 old <ls>AK. 3,4,18,147.</ls>
+;
+516316 new <ls>AK. 3,4,18,117.</ls>
+;---------------------------------------------------
+; <L>53415<pc>5-0140<k1>brahmabanDu<k2>brahmabanDu
+516756 old <ls>AK. 3,4,17,106.</ls>
+;
+516756 new <ls>AK. 3,4,18,106.</ls>
+;---------------------------------------------------
+; <L>54198<pc>5-0215<k1>BarUjA<k2>BarUjA
+524770 old <ls>AK. 2,24,8</ls> kann Bez. {%eines schädlichen Thieres%} sein; vgl. {#Baruja#}.{# BarUjA#} v.l. für {#Baruja#} im <is>gaṇa</is> {#aNgulyAdi#} zu <ls>P. 5,3,108.</ls>
+;
+524770 new <ls>AV. 2,24,8</ls> kann Bez. {%eines schädlichen Thieres%} sein; vgl. {#Baruja#}.{# BarUjA#} v.l. für {#Baruja#} im <is>gaṇa</is> {#aNgulyAdi#} zu <ls>P. 5,3,108.</ls>
+;---------------------------------------------------
+; <L>54454<pc>5-0239<k1>BAgya<k2>BAgya<h>2
+527453 old <ls>AK. 3,1,24,157.</ls>
+;
+527453 new <ls>AK. 3,4,24,157.</ls>
+;---------------------------------------------------
+; <L>54690<pc>5-0257<k1>BAva<k2>BAva/
+529698 old <ls>MEGH. 92.</ls> <ls>SĀṂKHYAK. 17,19.</ls> <ls>RAGH. 2,11.</ls> <ls n="RAGH.">3,32.</ls> <ls n="RAGH. 3,">62.</ls> <ls>AK. 3,4,29,225.</ls> <ls>KATHĀS. 13,94.</ls> <ls>PAÑCAT. 33,16.</ls> <ls>PRAB. 105,15.</ls> <ls>LA. (II) 22,19.</ls> nach Adverbien: {#treDA°#}
+;
+529698 new <ls>MEGH. 92.</ls> <ls>SĀṂKHYAK. 17,19.</ls> <ls>RAGH. 2,11.</ls> <ls n="RAGH.">3,32.</ls> <ls n="RAGH. 3,">62.</ls> <ls>AK. 3,4,30,225.</ls> <ls>KATHĀS. 13,94.</ls> <ls>PAÑCAT. 33,16.</ls> <ls>PRAB. 105,15.</ls> <ls>LA. (II) 22,19.</ls> nach Adverbien: {#treDA°#}
+;---------------------------------------------------
+; <L>54824<pc>5-0278<k1>BikzA<k2>BikzA/
+531625 old <ls>AK. 3,3,6.</ls> <ls n="AK.">3,4,29,226.</ls>
+;
+531625 new <ls>AK. 3,3,6.</ls> <ls n="AK.">3,4,30,226.</ls>
+;---------------------------------------------------
+; <L>54824<pc>5-0278<k1>BikzA<k2>BikzA/
+531654 old <ls>R. GORR. 2,66,38.</ls> — Nach <ls>AK. 3,4,29,226.</ls> <ls>H. an.</ls> und <ls>MED.</ls> ausserdem {%Dienst%} ({#sevA#}) und {%Lohn%} ({#Bfti#}) .
+;
+531654 new <ls>R. GORR. 2,66,38.</ls> — Nach <ls>AK. 3,4,30,226.</ls> <ls>H. an.</ls> und <ls>MED.</ls> ausserdem {%Dienst%} ({#sevA#}) und {%Lohn%} ({#Bfti#}) .
+;---------------------------------------------------
+; <L>56888<pc>5-0483<k1>maDu<k2>ma/Du
+553922 old <ls>AK. 2,9,108.</ls> <ls n="AK.">3,4,17,105.</ls> <ls>H. 1214.</ls> <ls>H. an.</ls> <ls>MED. dh. 11.</ls> <ls>HALĀY. 2,466.</ls> <ls>Verz. d. Oxf. H. 182,a,30. fg.</ls> In der alten Sprache selten sicher nachzuweisen, da Erwähnungen wie
+;
+553922 new <ls>AK. 2,9,108.</ls> <ls n="AK.">3,4,18,105.</ls> <ls>H. 1214.</ls> <ls>H. an.</ls> <ls>MED. dh. 11.</ls> <ls>HALĀY. 2,466.</ls> <ls>Verz. d. Oxf. H. 182,a,30. fg.</ls> In der alten Sprache selten sicher nachzuweisen, da Erwähnungen wie
+;---------------------------------------------------
+; <L>56888<pc>5-0483<k1>maDu<k2>ma/Du
+553961 old <ls>AK. 3,4,17,105.</ls>
+;
+553961 new <ls>AK. 3,4,18,105.</ls>
+;---------------------------------------------------
+; <L>68443<pc>5-1197<k1>upAdAna<k2>upAdAna
+644151 old <ls>AK. 3,4,29,225.</ls>
+;
+644151 new <ls>AK. 3,4,30,225.</ls>
+;---------------------------------------------------
+; <L>83607<pc>6-0282<k1>raya<k2>raya
+755380 old <ls>AK. 3,4,24,28.</ls> {#nimnagA°#}
+;
+755380 new <ls>AK. 3,4,4,28.</ls> {#nimnagA°#}
+;---------------------------------------------------
+; <L>85099<pc>6-0419<k1>rUkza<k2>rUkza/<h>1
+770710 old <ls>AK. 3,4,29,227.</ls>
+;
+770710 new <ls>AK. 3,4,30,227.</ls>
+;---------------------------------------------------
+; <L>85738<pc>6-0479<k1>laGu<k2>laGu/
+777837 old <ls>AK. 3,4,4,29.</ls>
+;
+777837 new <ls>AK. 3,4,4,28.</ls>
+;---------------------------------------------------
+; <L>86010<pc>6-0505<k1>lamb<k2>lamb<h>1
+780835 old <ls>AK. 3,4,17,106.</ls> {#citraleKAhastAvalambitA#}
+;
+780835 new <ls>AK. 3,4,18,106.</ls> {#citraleKAhastAvalambitA#}
+;---------------------------------------------------
+; <L>86101<pc>6-0519<k1>lavaRa<k2>lavaRa/
+782200 old <ls>AK. 1,1,14,18.</ls> <ls>H. 1388.</ls> <ls>MED.</ls> <ls>HĀR. 181</ls> (wo {#lAvaRaM#} st. {#lyAvaRaM#} zu lesen ist).
+;
+782200 new <ls>AK. 1,1,4,18.</ls> <ls>H. 1388.</ls> <ls>MED.</ls> <ls>HĀR. 181</ls> (wo {#lAvaRaM#} st. {#lyAvaRaM#} zu lesen ist).
+;---------------------------------------------------
+; <L>86636<pc>6-0578<k1>loka<k2>loka/
+788505 old <ls>AK. 3,4,4,2.</ls>
+;
+788505 new <ls>AK. 3,4,1,2.</ls>
+;---------------------------------------------------
+; <L>86663<pc>6-0581<k1>lokaDAtu<k2>lokaDAtu
+788850 old <ls>AK. 3,4,29,226.</ls>
+;
+788850 new <ls>AK. 3,4,30,226.</ls>
+;---------------------------------------------------
+; <L>88102<pc>6-0706<k1>var<k2>var<h>2
+803875 old <ls>AK. 3,4,24,175.</ls> {#tadvfRuzva mAm#} {%das erbitte dir von mir%}
+;
+803875 new <ls>AK. 3,4,25,175.</ls> {#tadvfRuzva mAm#} {%das erbitte dir von mir%}
+;---------------------------------------------------
+; <L>91581<pc>6-1041<k1>vid<k2>vid<h>1
+841700 old <ls>AK. 3,4,31,236.</ls> {#aves#} und {#avet#}
+;
+841700 new <ls>AK. 3,4,30,236.</ls> {#aves#} und {#avet#}
+;---------------------------------------------------
+; <L>91865<pc>6-1072<k1>viDA<k2>viDA/
+844956 old <ls>AK. 3,3,18,104.</ls>
+;
+844956 new <ls>AK. 3,4,18,104.</ls>
+;---------------------------------------------------
+; <L>93252<pc>6-1210<k1>viSArada<k2>viSArada
+860393 old <ls>AK. 3,4,16,98.</ls>
+;
+860393 new <ls>AK. 3,4,17,98.</ls>
+;---------------------------------------------------
+; <L>93719<pc>6-1242<k1>viza<k2>viza/<h>2
+864523 old <ls>AK. 3,4,29,225.</ls>
+;
+864523 new <ls>AK. 3,4,30,225.</ls>
+;---------------------------------------------------
+; <L>94954<pc>6-1333<k1>vfndAraka<k2>vf/ndAraka
+875576 old <ls>VOP. 4,7.</ls>) <ls>P. 6,4,157.</ls> <ls>AK. 3,2,2,62.</ls> {%an der Spitze einer Schaar stehend, der beste —, der schönste in seiner Art%}; = {#yUTapAtar#}
+;
+875576 new <ls>VOP. 4,7.</ls>) <ls>P. 6,4,157.</ls> <ls>AK. 3,2,62.</ls> {%an der Spitze einer Schaar stehend, der beste —, der schönste in seiner Art%}; = {#yUTapAtar#}
+;---------------------------------------------------
+; <L>94959<pc>6-1334<k1>vfndizWa<k2>vfndizWa
+875646 old <ls>AK. 3,2,2,62.</ls>
+;
+875646 new <ls>AK. 3,2,62.</ls>
+;---------------------------------------------------
+; <L>94971<pc>6-1335<k1>vfza<k2>vf/za<h>1
+875781 old <ls>AK. 3,4,22,229.</ls>
+;
+875781 new <ls>AK. 3,4,29,222.</ls>
+;---------------------------------------------------
+; <L>95073<pc>6-1344<k1>vfzAkapi<k2>vfzA/kapi
+876809 old <ls>AK. 3,4,29,132.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 191,a,5.</ls> <ls>MBH. 7,9627.</ls> <ls>KATHĀS. 50,92.</ls> eines der 11 <is>Rudra</is>
+;
+876809 new <ls>AK. 3,4,19,132.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 191,a,5.</ls> <ls>MBH. 7,9627.</ls> <ls>KATHĀS. 50,92.</ls> eines der 11 <is>Rudra</is>
+;---------------------------------------------------
+; <L>96240<pc>6-1433<k1>vyaqambaka<k2>vyaqambaka
+887512 old <ls>AK. 2,4,3,32.</ls> nach <ls>COLEBR.</ls> und <ls>Lois.</ls> auch {#vyaqambana#} <lex>m.</lex>
+;
+887512 new <ls>AK. 2,4,2,32.</ls> nach <ls>COLEBR.</ls> und <ls>Lois.</ls> auch {#vyaqambana#} <lex>m.</lex>
+;---------------------------------------------------
+; <L>96445<pc>6-1457<k1>vyasana<k2>vyasana<h>1
+890231 old <ls>AK. 3,4,14,28.</ls> {#anaya#}
+;
+890231 new <ls>AK. 3,4,4,28.</ls> {#anaya#}
+;---------------------------------------------------
+; <L>100146<pc>7-0240<k1>Sukrala<k2>Sukrala
+925839 old <ls>AK. 3,4,5,222.</ls>
+;
+925839 new <ls>AK. 3,4,29,222.</ls>
+;---------------------------------------------------
+; <L>101422<pc>7-0334<k1>SradDA<k2>SradDA/
+938098 old <ls>AK. 3,4,17,105.</ls>
+;
+938098 new <ls>AK. 3,4,18,105.</ls>
+;---------------------------------------------------
+; <L>102132<pc>7-0411<k1>SvaBra<k2>Sva/Bra
+946762 old <ls>AK. 3,6,1,22.</ls>
+;
+946762 new <ls>AK. 3,6,3,22.</ls>
+;---------------------------------------------------
+; <L>104058<pc>7-0578<k1>satya<k2>satya/
+966073 old <ls>AK. 3,4,25,156.</ls>
+;
+966073 new <ls>AK. 3,4,24,156.</ls>
+;---------------------------------------------------
+; <L>104717<pc>7-0640<k1>saMDA<k2>saMDA/
+973059 old <ls>AK. 3,4,17,105.</ls>
+;
+973059 new <ls>AK. 3,4,18,105.</ls>
+;---------------------------------------------------
+; <L>106122<pc>7-0743<k1>saMpratyaya<k2>saMpratyaya
+985876 old <ls>AK. 3,4,17,105.</ls>
+;
+985876 new <ls>AK. 3,4,18,105.</ls>
+;---------------------------------------------------
+; <L>109441<pc>7-1001<k1>siD<k2>siD<h>2
+1017716 old <ls>AK. 3,4,17,107.</ls>
+;
+1017716 new <ls>AK. 3,4,18,107.</ls>
+;---------------------------------------------------
+; <L>113579<pc>7-1249<k1>staB<k2>staB
+1052123 old <ls>AK. 3,4,17,106. fg.</ls>
+;
+1052123 new <ls>AK. 3,4,18,107. fg.</ls>
+;---------------------------------------------------
+; <L>113947<pc>7-1320<k1>sTAna<k2>sTA/na
+1059311 old <ls>AK. 3,4,22,212.</ls> am Ende eines comp.; Accent
+;
+1059311 new <ls>AK. 3,4,27,212.</ls> am Ende eines comp.; Accent
+;---------------------------------------------------
+; <L>114795<pc>7-1410<k1>srotas<k2>sro/tas
+1069414 old <ls>AK. 1,2,3,11.</ls> <ls n="AK.">3,4,31,235.</ls>
+;
+1069414 new <ls>AK. 1,2,3,11.</ls> <ls n="AK.">3,4,30,235.</ls>
+;---------------------------------------------------
+; <L>114795<pc>7-1410<k1>srotas<k2>sro/tas
+1069464 old <ls>AK. 3,4,31,235.</ls>
+;
+1069464 new <ls>AK. 3,4,30,235.</ls>
+;---------------------------------------------------
+; <L>116463<pc>7-1569<k1>hava<k2>hava<h>1
+1087925 old <ls>AK. 3,4,17,209.</ls>
+;
+1087925 new <ls>AK. 3,4,27,209.</ls>
+;---------------------------------------------------
+; <L>116464<pc>7-1569<k1>hava<k2>ha/va<h>2
+1087937 old <ls>AK. 3,3,8.</ls> <ls n="AK.">3,4,17,209.</ls>
+;
+1087937 new <ls>AK. 3,3,8.</ls> <ls n="AK.">3,4,27,209.</ls>
+;---------------------------------------------------
+; <L>116720<pc>7-1594<k1>hA<k2>hA<h>3
+1090876 old <ls>AK. 4,4,32 (28),18.</ls> {#vismaye pramode ca#}
+;
+1090876 new <ls>AK. 3,4,32,18 (28).</ls> {#vismaye pramode ca#}
+;---------------------------------------------------
