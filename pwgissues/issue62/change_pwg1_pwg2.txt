@@ -1,0 +1,30 @@
+; <L>15038<pc>2-0078<k1>kambala<k2>kambala/
+136670 old <ls n="AK.">8,2,22. 3,4,26,196</ls> (= {#prAvAra#}).
+;
+136670 new <ls n="AK. 2,">8,2,22.</ls> <ls n="AK.">3,4,26,196</ls> (= {#prAvAra#}).
+;---------------------------------------------------
+; <L>15207<pc>2-0114<k1>karin<k2>karin
+140002 old <ls n="AK.">4. 3,4,14,78. 28,219. 1,1,2,6.</ls> <ls>TRIK. 2,8,35.</ls> <ls>HĀR. 52.</ls> <ls>BHARTṚ. 3,82.</ls> <ls>VIKR. 64,12.</ls> <ls>KATHĀS. 13,17.</ls> <ls>BHĀG. P. 4,9,53.</ls> <ls n="BHĀG. P.">8,2,31.</ls>
+;
+140002 new <ls n="AK. 2,8,2,">4.</ls> <ls n="AK.">3,4,14,78.</ls> <ls n="AK. 3,4,">28,219.</ls> <ls n="AK.">1,1,2,6.</ls> <ls>TRIK. 2,8,35.</ls> <ls>HĀR. 52.</ls> <ls>BHARTṚ. 3,82.</ls> <ls>VIKR. 64,12.</ls> <ls>KATHĀS. 13,17.</ls> <ls>BHĀG. P. 4,9,53.</ls> <ls n="BHĀG. P.">8,2,31.</ls>
+;---------------------------------------------------
+; <L>15758<pc>2-0175<k1>kalpana<k2>kalpana
+146419 old <ls n="AK.">2. 7,52.</ls>
+;
+146419 new <ls n="AK.">2,7,52.</ls>
+;---------------------------------------------------
+; <L>35888<pc>3-0843<k1>dvihIna<k2>dvihIna
+346719 old <ls n="AK.">2,5,37. 3,6,3,22.</ls>
+;
+346719 new <ls n="AK.">2,5,37.</ls> <ls n="AK.">3,6,3,22.</ls>
+;---------------------------------------------------
+; <L>55731<pc>5-0375<k1>Bedya<k2>Bedya
+542106 old <ls n="AK.">3,4,19,134. 25,190.</ls> {#BedakaM Bedena saha#} {%das Adjectiv mit seinem Substantiv%}
+;
+542106 new <ls n="AK.">3,4,19,134.</ls> <ls n="AK. 3,4,">25,190.</ls> {#BedakaM Bedena saha#} {%das Adjectiv mit seinem Substantiv%}
+;---------------------------------------------------
+; <L>108106<pc>7-0901<k1>sAti<k2>sAti<h>2
+1005030 old <ls n="AK.">3,3,39. 3,4,14,70.</ls> <ls>H. an. 2,205.</ls> <ls>MED. t. 69.</ls> {%heftiger Schmerz%}
+;
+1005030 new <ls n="AK.">3,3,39.</ls> <ls n="AK.">3,4,14,70.</ls> <ls>H. an. 2,205.</ls> <ls>MED. t. 69.</ls> {%heftiger Schmerz%}
+;---------------------------------------------------

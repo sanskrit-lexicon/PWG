@@ -444,4 +444,6 @@ regenerate displays at cologne
 ----------------------------------
 sync csl-corrections
 
+=================================
+See readme1.txt for further changes
 
