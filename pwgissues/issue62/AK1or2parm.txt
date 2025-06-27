@@ -1,0 +1,38 @@
+** (20) AK. with 1 numeric parameters 
+AK. 24 1 <ls n="AK.">24</ls>
+AK. 1 1 <ls n="AK.">1</ls>
+AK. 12. 1 <ls n="AK.">12.</ls>
+AK. 15. 1 <ls n="AK.">15.</ls>
+AK. 16. 1 <ls n="AK.">16.</ls>
+AK. 23. 1 <ls n="AK.">23.</ls>
+AK. 19. 1 <ls n="AK.">19.</ls>
+AK. 36. 1 <ls n="AK.">36.</ls>
+AK. 56. 1 <ls n="AK.">56.</ls>
+AK. 34. 1 <ls n="AK.">34.</ls>
+AK. 32 1 <ls>AK. 32</ls>
+AK. 189. 1 <ls n="AK.">189.</ls>
+AK. 5. 1 <ls n="AK.">5.</ls>
+AK. 99. 1 <ls n="AK.">99.</ls>
+AK. 18. 1 <ls n="AK.">18.</ls>
+AK. 18. 1 <ls n="AK.">18.</ls>
+AK. 14.MED. 1 <ls n="AK.">14.MED.</ls>
+AK. 10. 1 <ls n="AK.">10.</ls>
+AK. 122. 1 <ls n="AK.">122.</ls>
+AK. 34. 1 <ls n="AK.">34.</ls>
+** (16) AK. with 2 numeric parameters 
+AK. 6,7. 2 <ls n="AK.">6,7.</ls>
+AK. 25,180. 2 <ls n="AK.">25,180.</ls>
+AK. 4,164. 2 <ls n="AK.">4,164.</ls>
+AK. 24,152. 2 <ls n="AK.">24,152.</ls>
+AK. 28,217. 2 <ls n="AK.">28,217.</ls>
+AK. 5,34. 2 <ls n="AK.">5,34.</ls>
+AK. 24,150. 2 <ls n="AK.">24,150.</ls>
+AK. 3,20. 2 <ls n="AK.">3,20.</ls>
+AK. 18,104. 2 <ls n="AK.">18,104.</ls>
+AK. 3,30. 2 <ls n="AK.">3,30.</ls>
+AK. 3,13. 2 <ls n="AK.">3,13.</ls>
+AK. 31,235. 2 <ls n="AK.">31,235.</ls>     <<< 3,4,30,235
+AK. 2,13. 2 <ls n="AK.">2,13.</ls>
+AK. 7,18. 2 <ls n="AK.">7,18.</ls>
+AK. 24,151. 2 <ls n="AK.">24,151.</ls>
+AK. 18,124. 2 <ls n="AK.">18,124.</ls>

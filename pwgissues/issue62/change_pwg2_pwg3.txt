@@ -1,0 +1,185 @@
+; <L>756<pc>1-0057<k1>aNgula<k2>aNgula
+6344 old <ls>VĀCASP.</ls> zu <ls>AK.</ls> im <ls>ŚKDR. 12</ls> <is>Angula</is> = 1 <is>Vitasti</is> ({%Spanne%})
+;
+6344 new <ls>VĀCASP.</ls> zu <ls>AK.</ls> im <ls>ŚKDR.</ls> 12 <is>Angula</is> = 1 <is>Vitasti</is> ({%Spanne%})
+;---------------------------------------------------
+; <L>756<pc>1-0057<k1>aNgula<k2>aNgula
+6346 old <ls n="AK.">24</ls> <is>Angula</is> =
+;
+6346 new 24 <is>Angula</is> = 1 <is>Hasta</is>
+;---------------------------------------------------
+; <L>756<pc>1-0057<k1>aNgula<k2>aNgula
+6347 old <ls n="AK.">1</ls> <is>Hasta</is> ({%die Entfernung vom Ellbogen bis zur Spitze des Mittelfingers%})
+;
+6347 new ({%die Entfernung vom Ellbogen bis zur Spitze des Mittelfingers%})
+;---------------------------------------------------
+; <L>3710<pc>1-0278<k1>apacaya<k2>apacaya
+31004 old <ls>AK. 3,3,16.</ls> <ls n="AK. 3,">4,147.</ls> <ls n="AK.">6,7.</ls>
+;
+31004 new <ls>AK. 3,3,16.</ls> <ls n="AK. 3,">4,147.</ls> <ls n="AK. 3,">6,7.</ls>
+;---------------------------------------------------
+; <L>6391<pc>1-0477<k1>avaDAraRa<k2>avaDAraRa
+54155 old <ls n="AK.">25,180.</ls> {#izwato 'vaDAraRArTa evakAraH#}
+;
+54155 new <ls n="AK. 3,4,">25,180.</ls> {#izwato 'vaDAraRArTa evakAraH#}
+;---------------------------------------------------
+; <L>9984<pc>1-0779<k1>iNgita<k2>iNgita
+87964 old <ls n="AK.">4,164.</ls> <ls>H. 1513.</ls> {#sa vidyAdasya kftyezu nigUQeNgitacezwitEH . AkAramiNgitaM cezwAM Bftyezu ca cikIrzitam ..#}
+;
+87964 new <ls n="AK. 3,">4,164.</ls> <ls>H. 1513.</ls> {#sa vidyAdasya kftyezu nigUQeNgitacezwitEH . AkAramiNgitaM cezwAM Bftyezu ca cikIrzitam ..#}
+;---------------------------------------------------
+; <L>13571<pc>1-1102<k1>evam<k2>eva/m
+122631 old <ls n="AK.">12.</ls> {#avaDAraRe#}
+;
+122631 new <ls n="AK. 3,5,">12.</ls> {#avaDAraRe#}
+;---------------------------------------------------
+; <L>13571<pc>1-1102<k1>evam<k2>eva/m
+122632 old <ls n="AK.">15.</ls> = {#Am#}
+;
+122632 new <ls n="AK. 3,5,">15.</ls> = {#Am#}
+;---------------------------------------------------
+; <L>13571<pc>1-1102<k1>evam<k2>eva/m
+122633 old <ls n="AK.">16.</ls> {#evaM prakAre 'NgIkfte 'vaDAraRe samanvaye#}
+;
+122633 new <ls n="AK. 3,5,">16.</ls> {#evaM prakAre 'NgIkfte 'vaDAraRe samanvaye#}
+;---------------------------------------------------
+; <L>14760<pc>2-0056<k1>kandarAla<k2>kandarAla
+134029 old <ls n="AK.">23.</ls> <ls>H. an. 4,287.</ls> <ls>MED. l. 150.</ls> {%Ficus infectoria Willd.%} ({#plakza, jawidruma#})
+;
+134029 new <ls n="AK. 2,4,2,">23.</ls> <ls>H. an. 4,287.</ls> <ls>MED. l. 150.</ls> {%Ficus infectoria Willd.%} ({#plakza, jawidruma#})
+;---------------------------------------------------
+; <L>18567<pc>2-0388<k1>kfcCra<k2>kfcCra/
+171980 old <ls n="AK.">24,152.</ls> {#aMhas#} oder {#pApa#}
+;
+171980 new <ls n="AK. 3,4,">24,152.</ls> {#aMhas#} oder {#pApa#}
+;---------------------------------------------------
+; <L>20449<pc>2-0562<k1>kzudra<k2>kzudra/
+191100 old <ls n="AK.">19.</ls> {#kzudraSatru#}
+;
+191100 new <ls n="AK. 1,2,3,">19.</ls> {#kzudraSatru#}
+;---------------------------------------------------
+; <L>20449<pc>2-0562<k1>kzudra<k2>kzudra/
+191127 old <ls n="AK.">28,217.</ls> = {#kiMpacAna#} {%geizig%}
+;
+191127 new <ls n="AK. 3,4,">28,217.</ls> = {#kiMpacAna#} {%geizig%}
+;---------------------------------------------------
+; <L>22047<pc>2-0709<k1>garhya<k2>garhya
+207589 old <ls n="AK.">36.</ls>
+;
+207589 new <ls n="AK. 3,1,">36.</ls>
+;---------------------------------------------------
+; <L>24207<pc>2-0896<k1>GoRwA<k2>GoRwA
+229247 old <ls n="AK.">5,34.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#°Pala#}
+;
+229247 new <ls n="AK. 2,4,">5,34.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#°Pala#}
+;---------------------------------------------------
+; <L>28147<pc>3-0176<k1>JiRwI<k2>JiRwI
+272452 old <ls n="AK.">56.</ls>
+;
+272452 new <ls n="AK. 2,4,2,">56.</ls>
+;---------------------------------------------------
+; <L>28552<pc>3-0214<k1>tan<k2>tan<h>1
+276534 old <ls n="AK.">34.</ls> {#tatAyuDa#} {%ein angezogener%} <ab>d. i.</ab> {%mit der Sehne bezogener Bogen%}
+;
+276534 new <ls n="AK. 2,6,2,">34.</ls> {#tatAyuDa#} {%ein angezogener%} <ab>d. i.</ab> {%mit der Sehne bezogener Bogen%}
+;---------------------------------------------------
+; <L>33119<pc>3-0645<k1>dInAra<k2>dI/nAra
+323464 old <ls>BHAR.</ls> zu <ls>AK. 32</ls> <is>Raktikā</is> {%Gold%}; nach
+;
+323464 new <ls>BHAR.</ls> zu <ls>AK.</ls> 32 <is>Raktikā</is> {%Gold%}; nach
+;---------------------------------------------------
+; <L>35910<pc>3-0845<k1>dveza<k2>dve/za
+346930 old <ls n="AK.">24,150.</ls> {#akanyeti tu yaH kanyAM brUyAddvezeRa mAnavaH#}
+;
+346930 new <ls n="AK. 3,4,">24,150.</ls> {#akanyeti tu yaH kanyAM brUyAddvezeRa mAnavaH#}
+;---------------------------------------------------
+; <L>45498<pc>4-0744<k1>pItadru<k2>pI/tadru
+444849 old <ls n="AK.">3,20.</ls>
+;
+444849 new <ls n="AK. 2,4,">3,20.</ls>
+;---------------------------------------------------
+; <L>47658<pc>4-0901<k1>prakAra<k2>prakAra
+463970 old <ls n="AK.">18,104.</ls> {#prakArErbahuBiH#}
+;
+463970 new <ls n="AK. 3,4,">18,104.</ls> {#prakArErbahuBiH#}
+;---------------------------------------------------
+; <L>55716<pc>5-0372<k1>Beda<k2>Beda/
+541868 old <ls n="AK.">189.</ls> = {#viSeza#}
+;
+541868 new <ls n="AK. 3,4,25,">189.</ls> = {#viSeza#}
+;---------------------------------------------------
+; <L>55717<pc>5-0374<k1>Bedaka<k2>Bedaka
+541924 old <ls n="AK.">3,30.</ls>
+;
+541924 new <ls n="AK. 3,6,">3,30.</ls>
+;---------------------------------------------------
+; <L>56960<pc>5-0488<k1>maDuparRikA<k2>maDuparRikA
+554581 old <ls n="AK.">3,13.</ls> {%Lycopodium imbricatum Roxb.%}
+;
+554581 new <ls n="AK. 2,4,">3,13.</ls> {%Lycopodium imbricatum Roxb.%}
+;---------------------------------------------------
+; <L>83607<pc>6-0282<k1>raya<k2>raya
+755381 old <ls n="AK.">31,235.</ls> {#jambUzaRqapratihatarayaM toyam#}
+;
+755381 new <ls n="AK. 3,4,">30,235.</ls> {#jambUzaRqapratihatarayaM toyam#}
+;---------------------------------------------------
+; <L>89155<pc>6-0856<k1>vastya<k2>vastya
+819239 old <ls n="AK.">5.</ls> {#vas#} zurück; vgl. {#pastya#} .
+;
+819239 new 5. {#vas#} zurück; vgl. {#pastya#} .
+;---------------------------------------------------
+; <L>90853<pc>6-0987<k1>vikAra<k2>vikAra<h>1
+835186 old <ls n="AK.">99.</ls> <ls>H. 1039.</ls> <ls>P. 4,1,42</ls>, Schol. <ls>MĀRK. P. 34,58.</ls> {#°BUta#}
+;
+835186 new <ls n="AK. 2,9,">99.</ls> <ls>H. 1039.</ls> <ls>P. 4,1,42</ls>, Schol. <ls>MĀRK. P. 34,58.</ls> {#°BUta#}
+;---------------------------------------------------
+; <L>92826<pc>6-1155<k1>virAma<k2>virAma
+854673 old <ls n="AK.">2,13.</ls> {#trivirAmaM (?) daSavarRaM zaRmAtramuvAca piNgalaH sUtram#}
+;
+854673 new <ls n="AK. 3,6,">2,13.</ls> {#trivirAmaM (?) daSavarRaM zaRmAtramuvAca piNgalaH sUtram#}
+;---------------------------------------------------
+; <L>93891<pc>6-1254<k1>vizAda<k2>vizAda
+865983 old <ls n="AK.">18.</ls> {#vizAde dvistriruktaM vA na duzyati#} Cit. beim Schol. zu <ls>ŚĀK. 5,5.</ls>
+;
+865983 new <ls n="AK. 3,4,32,">18.</ls> {#vizAde dvistriruktaM vA na duzyati#} Cit. beim Schol. zu <ls>ŚĀK. 5,5.</ls>
+;---------------------------------------------------
+; <L>94753<pc>6-1314<k1>vfti<k2>vfti<h>1
+873400 old <ls n="AK.">7,18.</ls> <ls>H. 824.</ls> {#upavana°#}
+;
+873400 new <ls n="AK. 2,">7,18.</ls> <ls>H. 824.</ls> {#upavana°#}
+;---------------------------------------------------
+; <L>94840<pc>6-1326<k1>vfdDa<k2>vfdDa/<h>1
+874629 old <ls n="AK.">18.</ls> {#vfdDatama#}
+;
+874629 new <ls n="AK. 2,6,1,">18.</ls> {#vfdDatama#}
+;---------------------------------------------------
+; <L>96445<pc>6-1457<k1>vyasana<k2>vyasana<h>1
+890232 old <ls n="AK.">24,151.</ls> {#saktiH strIpAnamfgayAdizu#}
+;
+890232 new <ls n="AK. 3,4,">24,151.</ls> {#saktiH strIpAnamfgayAdizu#}
+;---------------------------------------------------
+; <L>97380<pc>7-0036<k1>SaNKin<k2>SaNKin
+899942 old <ls>AK. 2,4,4</ls>, <ls n="AK.">14.MED.</ls>
+;
+899942 new <ls>AK. 2,4,4,14</ls> <ls>MED.</ls>
+;---------------------------------------------------
+; <L>103566<pc>7-0532<k1>saMgati<k2>sa/Mgati
+960634 old <ls n="AK.">18,124.</ls> = {#saNga#}
+;
+960634 new <ls n="AK. 3,4,">18,124.</ls> = {#saNga#}
+;---------------------------------------------------
+; <L>105816<pc>7-0720<k1>samuccaya<k2>samuccaya
+983102 old <ls n="AK.">10.</ls> <ls>P. 1,4,96.</ls> {#idaM cedaM ceti samuccayaH#}
+;
+983102 new <ls n="AK. 3,4,32,">10.</ls> <ls>P. 1,4,96.</ls> {#idaM cedaM ceti samuccayaH#}
+;---------------------------------------------------
+; <L>108184<pc>7-0909<k1>sADana<k2>sA/Dana
+1006025 old <ls n="AK.">122.</ls> {#SePa#}
+;
+1006025 new <ls n="AK. 3,4,18,">122.</ls> {#SePa#}
+;---------------------------------------------------
+; <L>116853<pc>7-1604<k1>hAsa<k2>hA/sa
+1092118 old <ls n="AK.">34.</ls> <ls>H. 72.</ls> <ls n="H.">296.</ls> <ls>HALĀY. 1,91.</ls> <ls>MBH. 7,1557.</ls> {#prajahAsa mahAhAsam#}
+;
+1092118 new <ls n="AK. 1,1,7,">34.</ls> <ls>H. 72.</ls> <ls n="H.">296.</ls> <ls>HALĀY. 1,91.</ls> <ls>MBH. 7,1557.</ls> {#prajahAsa mahAhAsam#}
+;---------------------------------------------------
