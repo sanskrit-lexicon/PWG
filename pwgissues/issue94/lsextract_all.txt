@@ -1,4 +1,4 @@
-753141	ALL	As of 2025-06-27
+753264	ALL	As of 2025-06-28
 00010	NUMBER	ls starts with number
 00014	UNKNOWN	ls is unknown
 67179	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
@@ -9,9 +9,9 @@
 25011	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
 22559	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
 20126	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
-16652	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+16654	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
 16223	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
-16156	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
+16155	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
 15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
 15439	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
 14744	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
@@ -223,6 +223,7 @@
 00209	VYĀḌI	?  
 00203	TARKAS.	?  
 00200	BENFEY	? 
+00200	COLEBR.	AMARAKOṢA nach der Ausgabe von COLEBROOK
 00188	UṆĀDIVṚ.	?  
 00186	ŚUK. in LA.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
 00186	GṚHY.	?  
@@ -230,7 +231,6 @@
 00184	WISE	Commentary on the Hindu System of Medici
 00179	LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
 00178	Notices of Skt. Mss.	Notices of Skt. Mss. 
-00176	COLEBR.	?  
 00175	GILD. Bibl.	Bibliothecae sanskritae sive recensus li
 00174	SADDH. P.	? 
 00172	LOIS.	LOISELEUR DESLONGCHAMPS.
@@ -281,6 +281,7 @@
 00102	Z.	?  
 00101	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER (GILD. B
 00101	DHANV.	?  
+00100	COL.	AMARAKOṢA nach der Ausgabe von COLEBROOK
 00097	KĀLIKĀ-P.	KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
 00097	AṢṬĀV.	? 
 00096	SKANDA-P.	SKANDAPURĀṆA.
@@ -1220,7 +1221,6 @@
 00003	ŚUK. (Pet. Hdschr.)	? 
 00003	WEBER, Ind. Streifen	? 
 00002	HAUGHTON, A Dict. BENG. and S.	HAUGHTON, A Dict. BENG. and S. 
-00002	COL.	AMARAKOṢA nach der Ausgabe von COLEBROOK
 00002	AMṚTAV. UP.	AMṚTAVINDŪPANIṢAD.
 00002	ĀNANDAV.	ĀNANDAVALLĪ.
 00002	ANNAṂBH.	ANNAM̃BHAṬṬA.
