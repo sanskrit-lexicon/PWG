@@ -1,0 +1,20 @@
+; <L>4661<pc>1-0343<k1>aBimuKa<k2>aBimuKa/
+38430 old <ls>AK. 2,4,32,17.</ls> (<ls>COL. 2,4,28,17.</ls>) <ls>H. 1437.</ls> {#sa hato 'BimuKo rAjA — tu mayA raRe#}
+;
+38430 new <ls>AK. 3,4,32,17.</ls> (<ls>COL. 3,4,28,17.</ls>) <ls>H. 1437.</ls> {#sa hato 'BimuKo rAjA — tu mayA raRe#}
+;---------------------------------------------------
+; <L>7666<pc>1-0573<k1>ahaha<k2>ahaha
+65207 old <ls>AK. 2,4,32,18.</ls> (<ls>COL. 2,4,28,18.</ls>) <ls>H. an. 7,60.</ls> auch {#parikleSaprakarzayoH#}
+;
+65207 new <ls>AK. 3,4,32,18.</ls> (<ls>COL. 3,4,28,18.</ls>) <ls>H. an. 7,60.</ls> auch {#parikleSaprakarzayoH#}
+;---------------------------------------------------
+; <L>42942<pc>4-0535<k1>paripraSna<k2>paripraSna
+420767 old <ls>AK. 3,1,32,14.</ls> (<ls>COL. 3,1,28,14.</ls>) {#tadvidDi praRipAtena paripraSnena sevayA#}
+;
+420767 new <ls>AK. 3,4,32,14.</ls> (<ls>COL. 3,4,28,14.</ls>) {#tadvidDi praRipAtena paripraSnena sevayA#}
+;---------------------------------------------------
+; <L>106241<pc>7-0756<k1>saMBAvana<k2>saMBAvana
+987275 old <ls>P. 1,4,96.</ls> <ls>AK. 2,4,32,10.</ls> (<ls>COL. 2,4,28,10.</ls>) <ls>P. 6,2,21.</ls> <ls>VOP. 25,17.</ls> <ls>KUVALAY. 128,a (153,a).</ls> <ls>Spr. (II) 7050.</ls> <ls>Z. d. d. m. G. 7,299, N. 4.</ls> <ls>KUSUM. 27,18. 21.</ls> {#saMBAvanAM Bajate#} so v. a. {%wird vorausgesetzt%}
+;
+987275 new <ls>P. 1,4,96.</ls> <ls>AK. 3,4,32,10.</ls> (<ls>COL. 3,4,28,10.</ls>) <ls>P. 6,2,21.</ls> <ls>VOP. 25,17.</ls> <ls>KUVALAY. 128,a (153,a).</ls> <ls>Spr. (II) 7050.</ls> <ls>Z. d. d. m. G. 7,299, N. 4.</ls> <ls>KUSUM. 27,18. 21.</ls> {#saMBAvanAM Bajate#} so v. a. {%wird vorausgesetzt%}
+;---------------------------------------------------

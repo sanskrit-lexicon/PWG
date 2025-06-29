@@ -1,0 +1,85 @@
+<ls>AK. 2,4,32 (COL. 28),17.</ls>	<ls>AK. 2,4,32,17.</ls> (<ls>COL. 2,4,28,17.</ls>)	method=1
+<ls>AK. 2,4,32 (COL. 28),18.</ls>	<ls>AK. 2,4,32,18.</ls> (<ls>COL. 2,4,28,18.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),1.</ls>	<ls>AK. 3,4,32,1.</ls> (<ls>COL. 3,4,28,1.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),10.</ls>	<ls>AK. 3,4,32,10.</ls> (<ls>COL. 3,4,28,10.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),11.</ls>	<ls>AK. 3,4,32,11.</ls> (<ls>COL. 3,4,28,11.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),15.</ls>	<ls>AK. 3,4,32,15.</ls> (<ls>COL. 3,4,28,15.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),17.</ls>	<ls>AK. 3,4,32,17.</ls> (<ls>COL. 3,4,28,17.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),2.</ls>	<ls>AK. 3,4,32,2.</ls> (<ls>COL. 3,4,28,2.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),3.</ls>	<ls>AK. 3,4,32,3.</ls> (<ls>COL. 3,4,28,3.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),5.</ls>	<ls>AK. 3,4,32,5.</ls> (<ls>COL. 3,4,28,5.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),8.</ls>	<ls>AK. 3,4,32,8.</ls> (<ls>COL. 3,4,28,8.</ls>)	method=1
+<ls>AK. 3,4,32 (COL. 28),9.</ls>	<ls>AK. 3,4,32,9.</ls> (<ls>COL. 3,4,28,9.</ls>)	method=1
+<ls n="AK.">3,4,32 (COL. 28),18.</ls>	<ls n="AK.">3,4,32,18.</ls> (<ls>COL. 3,4,28,18.</ls>)	method=1a
+<ls n="AK.">3,4,32 (COL. 28),5.</ls>	<ls n="AK.">3,4,32,5.</ls> (<ls>COL. 3,4,28,5.</ls>)	method=1a
+<ls n="AK.">3,4,32 (COL. 28),7.</ls>	<ls n="AK.">3,4,32,7.</ls> (<ls>COL. 3,4,28,7.</ls>)	method=1a
+<ls n="AK. 3,">4,32 (COL. 28),14.</ls>	<ls n="AK. 3,">4,32,14.</ls> (<ls>COL. 3,4,28,14.</ls>)	method=1b
+<ls n="AK. 3,4,32 (COL. 28),">16.</ls>	<ls n="AK. 3,4,32,">16.</ls> (<ls>COL. 3,4,28,16.</ls>)	method=1d
+<ls n="AK. 3,4,32 (COL. 28),">6.</ls>	<ls n="AK. 3,4,32,">6.</ls> (<ls>COL. 3,4,28,6.</ls>)	method=1d
+<ls>AK. 3,4,32 (COLEBR. 28),12.</ls>	<ls>AK. 3,4,32,12.</ls> (<ls>COLEBR. 3,4,28,12.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),13.</ls>	<ls>AK. 3,4,32,13.</ls> (<ls>COLEBR. 3,4,28,13.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),14.</ls>	<ls>AK. 3,4,32,14.</ls> (<ls>COLEBR. 3,4,28,14.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),15.</ls>	<ls>AK. 3,4,32,15.</ls> (<ls>COLEBR. 3,4,28,15.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),16.</ls>	<ls>AK. 3,4,32,16.</ls> (<ls>COLEBR. 3,4,28,16.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),2.</ls>	<ls>AK. 3,4,32,2.</ls> (<ls>COLEBR. 3,4,28,2.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),5.</ls>	<ls>AK. 3,4,32,5.</ls> (<ls>COLEBR. 3,4,28,5.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),7.</ls>	<ls>AK. 3,4,32,7.</ls> (<ls>COLEBR. 3,4,28,7.</ls>)	method=2
+<ls>AK. 3,4,32 (COLEBR. 28),9.</ls>	<ls>AK. 3,4,32,9.</ls> (<ls>COLEBR. 3,4,28,9.</ls>)	method=2
+<ls n="AK.">3,4,32 (COLEBR. 28),12.</ls>	<ls n="AK.">3,4,32,12.</ls> (<ls>COLEBR. 3,4,28,12.</ls>)	method=2a
+<ls n="AK.">3,4,32 (COLEBR. 28),15.</ls>	<ls n="AK.">3,4,32,15.</ls> (<ls>COLEBR. 3,4,28,15.</ls>)	method=2a
+<ls n="AK.">3,4,32 (COLEBR. 28),2.</ls>	<ls n="AK.">3,4,32,2.</ls> (<ls>COLEBR. 3,4,28,2.</ls>)	method=2a
+<ls n="AK.">3,4,32 (COLEBR. 28),4.</ls>	<ls n="AK.">3,4,32,4.</ls> (<ls>COLEBR. 3,4,28,4.</ls>)	method=2a
+<ls n="AK. 3,4,">32 (COLEBR. 28),13.</ls>	<ls n="AK. 3,4,">32,13.</ls> (<ls>COLEBR. 3,4,28,13.</ls>)	method=2c
+<ls n="AK. 3,4,">32 (COLEBR. 28),14.</ls>	<ls n="AK. 3,4,">32,14.</ls> (<ls>COLEBR. 3,4,28,14.</ls>)	method=2c
+<ls n="AK. 3,4,">32 (COLEBR. 28),7.</ls>	<ls n="AK. 3,4,">32,7.</ls> (<ls>COLEBR. 3,4,28,7.</ls>)	method=2c
+<ls n="AK. 3,4,32 (COLEBR. 28),">16.</ls>	<ls n="AK. 3,4,32,">16.</ls> (<ls>COLEBR. 3,4,28,16.</ls>)	method=2d
+<ls>AK. 2,4,32 (28),10.</ls>	<ls>AK. 2,4,32,10.</ls> (<ls>COL. 2,4,28,10.</ls>)	method=3
+<ls>AK. 3,1,32 (28),14.</ls>	<ls>AK. 3,1,32,14.</ls> (<ls>COL. 3,1,28,14.</ls>)	method=3
+<ls>AK. 3,4,32 (28),1.</ls>	<ls>AK. 3,4,32,1.</ls> (<ls>COL. 3,4,28,1.</ls>)	method=3
+<ls>AK. 3,4,32 (28),10.</ls>	<ls>AK. 3,4,32,10.</ls> (<ls>COL. 3,4,28,10.</ls>)	method=3
+<ls>AK. 3,4,32 (28),11.</ls>	<ls>AK. 3,4,32,11.</ls> (<ls>COL. 3,4,28,11.</ls>)	method=3
+<ls>AK. 3,4,32 (28),12.</ls>	<ls>AK. 3,4,32,12.</ls> (<ls>COL. 3,4,28,12.</ls>)	method=3
+<ls>AK. 3,4,32 (28),13.</ls>	<ls>AK. 3,4,32,13.</ls> (<ls>COL. 3,4,28,13.</ls>)	method=3
+<ls>AK. 3,4,32 (28),14.</ls>	<ls>AK. 3,4,32,14.</ls> (<ls>COL. 3,4,28,14.</ls>)	method=3
+<ls>AK. 3,4,32 (28),16.</ls>	<ls>AK. 3,4,32,16.</ls> (<ls>COL. 3,4,28,16.</ls>)	method=3
+<ls>AK. 3,4,32 (28),17.</ls>	<ls>AK. 3,4,32,17.</ls> (<ls>COL. 3,4,28,17.</ls>)	method=3
+<ls>AK. 3,4,32 (28),18.</ls>	<ls>AK. 3,4,32,18.</ls> (<ls>COL. 3,4,28,18.</ls>)	method=3
+<ls>AK. 3,4,32 (28),2.</ls>	<ls>AK. 3,4,32,2.</ls> (<ls>COL. 3,4,28,2.</ls>)	method=3
+<ls>AK. 3,4,32 (28),3.</ls>	<ls>AK. 3,4,32,3.</ls> (<ls>COL. 3,4,28,3.</ls>)	method=3
+<ls>AK. 3,4,32 (28),4.</ls>	<ls>AK. 3,4,32,4.</ls> (<ls>COL. 3,4,28,4.</ls>)	method=3
+<ls>AK. 3,4,32 (28),5.</ls>	<ls>AK. 3,4,32,5.</ls> (<ls>COL. 3,4,28,5.</ls>)	method=3
+<ls>AK. 3,4,32 (28),6.</ls>	<ls>AK. 3,4,32,6.</ls> (<ls>COL. 3,4,28,6.</ls>)	method=3
+<ls>AK. 3,4,32 (28),7.</ls>	<ls>AK. 3,4,32,7.</ls> (<ls>COL. 3,4,28,7.</ls>)	method=3
+<ls>AK. 3,4,32 (28),8.</ls>	<ls>AK. 3,4,32,8.</ls> (<ls>COL. 3,4,28,8.</ls>)	method=3
+<ls>AK. 3,4,32 (28),9.</ls>	<ls>AK. 3,4,32,9.</ls> (<ls>COL. 3,4,28,9.</ls>)	method=3
+<ls n="AK.">3,4,32 (28),13.</ls>	<ls n="AK.">3,4,32,13.</ls> (<ls>COL. 3,4,28,13.</ls>)	method=3a
+<ls n="AK.">3,4,32 (28),14.</ls>	<ls n="AK.">3,4,32,14.</ls> (<ls>COL. 3,4,28,14.</ls>)	method=3a
+<ls n="AK.">3,4,32 (28),15.</ls>	<ls n="AK.">3,4,32,15.</ls> (<ls>COL. 3,4,28,15.</ls>)	method=3a
+<ls n="AK.">3,4,32 (28),16.</ls>	<ls n="AK.">3,4,32,16.</ls> (<ls>COL. 3,4,28,16.</ls>)	method=3a
+<ls n="AK.">3,4,32 (28),3.</ls>	<ls n="AK.">3,4,32,3.</ls> (<ls>COL. 3,4,28,3.</ls>)	method=3a
+<ls n="AK.">3,4,32 (28),9.</ls>	<ls n="AK.">3,4,32,9.</ls> (<ls>COL. 3,4,28,9.</ls>)	method=3a
+<ls n="AK. 3,4,">32 (28),15.</ls>	<ls n="AK. 3,4,">32,15.</ls> (<ls>COL. 3,4,28,15.</ls>)	method=3c
+<ls n="AK. 3,4,">32 (28),16.</ls>	<ls n="AK. 3,4,">32,16.</ls> (<ls>COL. 3,4,28,16.</ls>)	method=3c
+<ls n="AK. 3,4,">32 (28),8.</ls>	<ls n="AK. 3,4,">32,8.</ls> (<ls>COL. 3,4,28,8.</ls>)	method=3c
+<ls n="AK. 3,4,32 (28),">14.</ls>	<ls n="AK. 3,4,32,">14.</ls> (<ls>COL. 3,4,28,14.</ls>)	method=3d
+<ls n="AK. 3,4,32 (28),">16.</ls>	<ls n="AK. 3,4,32,">16.</ls> (<ls>COL. 3,4,28,16.</ls>)	method=3d
+<ls n="AK. 3,4,32 (28),">9.</ls>	<ls n="AK. 3,4,32,">9.</ls> (<ls>COL. 3,4,28,9.</ls>)	method=3d
+<ls>AK. 3,3,38 (37).</ls>	<ls>AK. 3,3,38.</ls> (<ls>COL. 3,3,37.</ls>)	method=4
+<ls>AK. 3,3,39 (38).</ls>	<ls>AK. 3,3,39.</ls> (<ls>COL. 3,3,38.</ls>)	method=4
+<ls>AK. 3,3,43 (42).</ls>	<ls>AK. 3,3,43.</ls> (<ls>COL. 3,3,42.</ls>)	method=4
+<ls n="AK. 3,">4,32 (28 COLEBR.),9.</ls>	<ls n="AK. 3,">4,32,9.</ls> (<ls>COLEBR. 3,4,28,9.</ls>)	method=man
+<ls n="AK.">3,4,32 (28 COLEBR.),18.</ls>	<ls n="AK.">3,4,32,18.</ls> (<ls>COLEBR. 3,4,28,18.</ls>)	method=man
+<ls n="AK.">3,5,2 5.</ls>	<ls n="AK.">3,5,2</ls> <ls n="AK. 3,5,">5.</ls>	method=man
+<ls n="AK.">II. 167.</ls>	<ls>H. 167.</ls>	method=man
+<ls>AK. 2,8,2</ls>, <ls n="AK.">67.H. 366.</ls>	       <ls>AK. 2,8,2,67.</ls> <ls>H. 366.</ls>	method=man
+<ls>AK. 3,3,39.</ls>, (<ls>COL. 38</ls>,) <ls>Sch.</ls>	<ls>AK. 3,3,39</ls>, (<ls>COL. 3,3,38</ls>,) <ls>Sch.</ls>	method=man
+<ls>AK. 3,3,39</ls> (<ls>COLEBR. 38).</ls>	<ls>AK. 3,3,39.</ls> (<ls>COLEBR. 3,3,38.</ls>)	method=man
+<ls>AK. 3,3,40.</ls> (<ls>COLEBR. 39.</ls>)	<ls>AK. 3,3,40.</ls> (<ls>COLEBR. 3,3,39.</ls>)	method=man
+<ls>AK. 3,3,42.</ls> [<ls>COL. 41.</ls>])	<ls>AK. 3,3,42.</ls> [<ls>COL. 3,3,41.</ls>])	method=man
+<ls>AK. 3,3,43 (COLEBR. 42).</ls>	<ls>AK. 3,3,43.</ls> (<ls>COLEBR. 3,3,42.</ls>)	method=man
+<ls>AK. 3,4,32 (28 COLEBR.),5.</ls>	<ls>AK. 3,4,32,5.</ls> (<ls>COLEBR. 3,4,28,5.</ls>)	method=man
+<ls>AK. 3,4,32, [COL. 28,] 10.</ls>	<ls>AK. 3,4,32,10.</ls> [<ls>COL. 3,4,28,10.</ls>]	method=man
+<ls>AK. 3,4,32,18 (28).</ls>	<ls>AK. 3,4,32,18.</ls> (<ls>COL. 3,4,28,18.</ls>)	method=man
+<ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),12.</ls>	<ls>AK. 3,4,32,12.</ls> (<ls>COLEBR. 3,4,28,12.</ls>)	method=man
+<ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),2.</ls>	<ls>AK. 3,4,32,2.</ls> (<ls>COLEBR. 3,4,28,2.</ls>)	method=man
+<ls>AK. 3,4,32</ls> (<ls>COLEBR. 28),9.</ls>	<ls>AK. 3,4,32,9.</ls> (<ls>COLEBR. 3,4,28,9.</ls>)	method=man

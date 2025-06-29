@@ -55,3 +55,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue149 MĀLAVIKĀGNIMITRA
 * issue152 HITOPADEŚA
 * issue153 GITAGOVINDA
+* issue154 AMARAKOSHA COLEBROOKE
+
