@@ -22,5 +22,7 @@ key (20, 6, 26): pagerec not found
 L= 39587, hw= ekaviMSa, pc=229,2
 check: error in mw ALSO error in pwg!
    Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2738
+
+Corrected to (22,6,26)
 ----------------------------------------------
 
