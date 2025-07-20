@@ -77,4 +77,36 @@ No lines in temp_pwg2.txt start or end with a space characters ' '.
 cp temp_pwg2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
 sync csl-orig to github
 sync cologne to github.
+---------------------------------------
+
+Using temp_pwg2.txt
+Two parameters,  preceded by 'Schol. zu' or '<ls>Schol.</ls> zu '
+
+253 matches for "<ls>Schol\.</ls> zu <ls>KĀTY. ŚR. [0-9]+,[0-9]+[^0-9,]"
+68  matches for "Schol\. zu <ls>KĀTY. ŚR. [0-9]+,[0-9]+[^0-9,]" 
+
+
+Three parameters,  preceded by 'Schol. zu' or '<ls>Schol.</ls> zu '
+
+310 matches for "<ls>Schol\.</ls> zu <ls>KĀTY. ŚR. [0-9]+,[0-9]+,[0-9]+"
+74  matches for "Schol\. zu <ls>KĀTY. ŚR. [0-9]+,[0-9]+,[0-9]+"
+
+-----
+new 'ls' source:
+ Schol. zu KĀTY. ŚR.
+tooltup "Scholiast on Kātyāyana's Śrautasūtrāṇi, Weber"
+
+markup change:
+old: <ls>Schol.</ls> zu <ls>KĀTY. ŚR.
+new: <ls>Schol. zu KĀTY. ŚR.
+
+old: Schol. zu <ls>KĀTY. ŚR.
+new: <ls>Schol. zu KĀTY. ŚR.
+
+old: <ls>Schol.</ls> zu <ls n="KĀTY. ŚR.
+new: <ls n="Schol. zu KĀTY. ŚR.
+
+old: Schol. zu <ls n="KĀTY. ŚR."
+new: <ls n="Schol. zu KĀTY. ŚR.
+
 
