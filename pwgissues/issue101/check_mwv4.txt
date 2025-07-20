@@ -10,7 +10,8 @@ check: ok, but in verse 112
 
 key (3, 156): 264	3	156	157	154
 L= 79670, hw= jIvatyAga, pc=422,3
-check: NOT FOUND
+check: NOT FOUND  -- Note Andhrabharati found
+  this as error in MW: should be 3,155
 ----------------------------------------------
 
 key (6, 273): 475	6	273	279	365
