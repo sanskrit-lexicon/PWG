@@ -56,7 +56,7 @@ see readme_websanlexicon.txt
 
 ----------------------------------------
 checks of links from dictionaries
-see readme_checks.txt
+see readme_checks.txt  (one NOT FOUND).
 
 sync to github:  csl-websanlexicon, csl-apidev
 pull github to cologne server
