@@ -45,6 +45,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue134 TAITTIRĪYASAM̃HITĀ link target
 * issue135 RĀJATARAṄGIṆĪ link target
 * issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
+* issue137 NĀRADA PAÑCARĀTRA 
 * issue139 VS. PRĀT. link target
 * issue143 BHAṬṬIKĀVYA link target
 * issue144 TAITTIRĪYABRĀHMAṆA link target

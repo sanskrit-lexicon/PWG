@@ -1,5 +1,5 @@
-753264	ALL	As of 2025-06-28
-00010	NUMBER	ls starts with number
+753321	ALL	As of 2025-07-19
+00012	NUMBER	ls starts with number
 00014	UNKNOWN	ls is unknown
 67179	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
 56094	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
@@ -57,7 +57,7 @@
 02337	KAUŚ.	KAUŚIKA'S SŪTRA zum ATHARVAVEDA. 14 Adhy
 02334	COLEBR. Misc. Ess.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
 02278	BHAG.	BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. 
-02221	PAÑCAR.	PAÑCARATNA ? 
+02276	PAÑCAR.	NĀRADA PAÑCARĀTRA 
 02116	ŚĀṄKH. ŚR.	ŚĀṄKHĀYANA'S ŚRAUTASŪTRĀṆI.
 02078	HALL	A contribution towards an index to the B
 02021	KĀM. NĪTIS.	? 
