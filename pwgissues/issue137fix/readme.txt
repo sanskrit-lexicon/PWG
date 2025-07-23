@@ -85,7 +85,7 @@ csl-orig
 csl-corrections
  107197 : sarveSa : PAÑCAR. 1,1,1,5. : PAÑCAR. 1,1,5.  : print chg pwg
 # this issue
-sync to Cologne, and redo the 5 dictionaries.
+sync to Cologne, and redo the pwg displays
 
 -------------------------------------------------------------
 ------------------------------------------------------------
