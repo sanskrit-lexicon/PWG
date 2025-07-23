@@ -59,3 +59,4 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue154 AMARAKOSHA COLEBROOKE
 * issue155 AMARAKOSHA concordance COLEBROOKE-DESLONGCHAMP
 * issue156 link target README.md improvement
+* issue160 split combined multiple links to separate links
