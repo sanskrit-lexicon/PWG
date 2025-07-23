@@ -110,7 +110,7 @@ Resolve the 4 nopagerec cases:
 82375 : yoga : PAÑCAR. 3,20,30 : PAÑCAR. 3,2,30 : print change
 
 Two cases with 2 parms (from issue94/lsexamine2)
-54266 : Bava : PAÑCAR. 12,45 : PAÑCAR. 1,2,45 : print change jim
+54266 : Bava : PAÑCAR. 12,45 : PAÑCAR. 1,12,45 : print change jim/ab
 55050 : Buj  : PAÑCAR. 36,22. : PAÑCAR. 3,4,24. : typo
 
 Also, changed 120+ 'incomplete' references.

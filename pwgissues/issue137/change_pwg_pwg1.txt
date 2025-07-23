@@ -16,7 +16,7 @@
 ; <L>54266<pc>5-0220<k1>Bava<k2>Bava/
 525421 old <ls>KĀŚ.</ls> zu <ls>P. 3,1,143.</ls> <ls>TRIK. 1,1,133.</ls> <ls n="TRIK.">3,3,419.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5,20.</ls> <ls>YOGAS. 1,19.</ls> <ls>KUMĀRAS. 2,51.</ls> <ls>Spr. 664.</ls> <ls n="Spr.">937.</ls> <ls n="Spr.">993.</ls> <ls n="Spr.">1412.</ls> <ls n="Spr.">2036.</ls> <ls n="Spr.">2071.</ls> <ls n="Spr.">2156.</ls> <ls n="Spr.">2894.</ls> <ls n="Spr.">3317.</ls> <ls n="Spr.">5229.</ls> <ls>PAÑCAR. 12,45</ls> (pl.). <ls>MĀRK. P. 23,43.</ls> <ls>PRAB. 59,6.</ls> {#°kAntAra#}
 ;
-525421 new <ls>KĀŚ.</ls> zu <ls>P. 3,1,143.</ls> <ls>TRIK. 1,1,133.</ls> <ls n="TRIK.">3,3,419.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5,20.</ls> <ls>YOGAS. 1,19.</ls> <ls>KUMĀRAS. 2,51.</ls> <ls>Spr. 664.</ls> <ls n="Spr.">937.</ls> <ls n="Spr.">993.</ls> <ls n="Spr.">1412.</ls> <ls n="Spr.">2036.</ls> <ls n="Spr.">2071.</ls> <ls n="Spr.">2156.</ls> <ls n="Spr.">2894.</ls> <ls n="Spr.">3317.</ls> <ls n="Spr.">5229.</ls> <ls>PAÑCAR. 1,2,45</ls> (pl.). <ls>MĀRK. P. 23,43.</ls> <ls>PRAB. 59,6.</ls> {#°kAntAra#}
+525421 new <ls>KĀŚ.</ls> zu <ls>P. 3,1,143.</ls> <ls>TRIK. 1,1,133.</ls> <ls n="TRIK.">3,3,419.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5,20.</ls> <ls>YOGAS. 1,19.</ls> <ls>KUMĀRAS. 2,51.</ls> <ls>Spr. 664.</ls> <ls n="Spr.">937.</ls> <ls n="Spr.">993.</ls> <ls n="Spr.">1412.</ls> <ls n="Spr.">2036.</ls> <ls n="Spr.">2071.</ls> <ls n="Spr.">2156.</ls> <ls n="Spr.">2894.</ls> <ls n="Spr.">3317.</ls> <ls n="Spr.">5229.</ls> <ls>PAÑCAR. 1,12,45</ls> (pl.). <ls>MĀRK. P. 23,43.</ls> <ls>PRAB. 59,6.</ls> {#°kAntAra#}
 ;---------------------------------------------------
 ; <L>54524<pc>5-0245<k1>BARqIra<k2>BARqIra
 528147 old <ls n="PAÑCAR.">103.</ls> Vgl. {#BaRqIra#} .
@@ -176,7 +176,7 @@
 ; <L>85623<pc>6-0462<k1>lakza<k2>lakza/
 776037 old <ls n="PAÑCAR.">2,2. 29.</ls> {#°pUjanodyApanaviDi#}
 ;
-776037 new <ls>2,2.</ls> <ls>29.</ls> {#°pUjanodyApanaviDi#}
+776037 new <ls n="PAÑCAR.">2,2,29.</ls> {#°pUjanodyApanaviDi#}
 ;---------------------------------------------------
 ; <L>86405<pc>6-0545<k1>lipi<k2>li/pi
 785266 old <ls>SĀH. D. 268,14.</ls> <ls>Verz. d. Oxf. H. 105,a,4. 339,a,2</ls> v. u. <ls>PAÑCAR. 3,4,13. 6,21</ls> ({#azwAdaSalipinA#}).
