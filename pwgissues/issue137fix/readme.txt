@@ -7,7 +7,6 @@ This issue137 directory in local file system:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issuexxx
 
 -----------------
-mkdir pancar  
 # get temporary local copy of pwg
 cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg.txt
 
