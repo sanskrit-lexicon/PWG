@@ -1,0 +1,115 @@
+; <L>3717<pc>1-0279<k1>apaciti<k2>a/paciti
+31067 old <ls>AK.</ls> <ls>H. an. ś. 103.</ls> <ls>MED.</ls> {#daDa^dindri\yamUrja\mapa^citiM sva\DAm#}
+;
+31067 new <ls>AK.</ls> <ls>H. an.</ls> <ls n="H. ś.">103.</ls> <ls>MED.</ls> {#daDa^dindri\yamUrja\mapa^citiM sva\DAm#}
+;---------------------------------------------------
+; <L>7900<pc>1-0593<k1>AKanika<k2>AKanika
+67340 old <ls>Uṇ.</ls> <ls>TRIK. 2,5,5.</ls> <ls>H. 1288.</ls> <ls n="H. an.">an.</ls> <ls>MED.</ls>
+;
+67340 new <ls>Uṇ.</ls> <ls>TRIK. 2,5,5.</ls> <ls>H. 1288.</ls> <ls>an.</ls> <ls>MED.</ls>
+;---------------------------------------------------
+; <L>10321<pc>1-0815<k1>irA<k2>i/rA
+91339 old <ls>H. an. 2,395. ś. 163.</ls> <ls>MED. r. 9.</ls>
+;
+91339 new <ls>H. an. 2,395.</ls> <ls n="H.">ś. 163.</ls> <ls>MED. r. 9.</ls>
+;---------------------------------------------------
+; <L>11132<pc>1-0906<k1>utseDa<k2>utseDa/
+100661 old <ls>H. an. 3,343. n.</ls> <ls>MED.</ls>
+;
+100661 new <ls>H. an. 3,343.</ls> n. <ls>MED.</ls>
+;---------------------------------------------------
+; <L>11993<pc>1-0966<k1>uparAga<k2>uparAga
+107935 old <ls>H. ś. 15.</ls> <ls n="H. an.">an.</ls> <ls>MED.</ls>
+;
+107935 new <ls>H. ś. 15.</ls> <ls>an.</ls> <ls>MED.</ls>
+;---------------------------------------------------
+; <L>12245<pc>1-0984<k1>upahvara<k2>upahvara/
+109958 old <ls>AK.</ls> <ls>H. 741.</ls> <ls n="H. an.">an.</ls> <ls>MED.</ls>
+;
+109958 new <ls>AK.</ls> <ls>H. 741.</ls> <ls>an.</ls> <ls>MED.</ls>
+;---------------------------------------------------
+; <L>12320<pc>1-0990<k1>upAsana<k2>upAsana
+110717 old <ls>H. ś. 151.</ls> <ls n="H. an.">an.</ls> <ls>MED.</ls> <ls>MBH. 3,14702.</ls>
+;
+110717 new <ls>H. ś. 151.</ls> <ls>an.</ls> <ls>MED.</ls> <ls>MBH. 3,14702.</ls>
+;---------------------------------------------------
+; <L>15080<pc>2-0105<k1>karaka<k2>ka/raka
+138830 old <ls>H. an. m. f.</ls> <ls>MED.</ls> {#karakA#}
+;
+138830 new <ls>H. an.</ls> m. f. <ls>MED.</ls> {#karakA#}
+;---------------------------------------------------
+; <L>26156<pc>2-1084<k1>CallI<k2>CallI
+250549 old <ls>H. an. <is>MED</is>.</ls>
+;
+250549 new <ls>H. an.</ls> <ls>MED.</ls>
+;---------------------------------------------------
+; <L>49673<pc>4-1062<k1>prarUQa<k2>prarUQa
+482461 old <ls>MED. ḍh. 8</ls> (= <ls>H. an. 3,189).</ls>
+;
+482461 new <ls>MED. ḍh. 8</ls> (= <ls>H. an. 3,189.</ls>)
+;---------------------------------------------------
+; <L>50270<pc>4-1111<k1>prahasana<k2>prahasana
+488156 old <ls>H. an. 4,181 (189</ls> ist {#prahasana#} ein Fehler).
+;
+488156 new <ls>H. an. 4,181</ls> (<ls n="H. an. 4,">189</ls> ist {#prahasana#} ein Fehler).
+;---------------------------------------------------
+; <L>87025<pc>6-0601<k1>lohitya<k2>lohitya
+791757 old <ls>H. an. v. l.</ls> für {#lOhitya#}
+;
+791757 new <ls>H. an., v. l.</ls> für {#lOhitya#}
+;---------------------------------------------------
+; <L>90204<pc>6-0939<k1>vArAha<k2>vA/rAha
+829201 old <ls>H. an. 3,768.fg.</ls> kommen {#varAha#} zu, wie ohne Zweifel auch zu lesen ist.
+;
+829201 new <ls>H. an. 3,768. fg.</ls> kommen {#varAha#} zu, wie ohne Zweifel auch zu lesen ist.
+;---------------------------------------------------
+; <L>90346<pc>6-0947<k1>vArtta<k2>vArtta/
+830230 old <ls>H. an. 2,193.fg.</ls>
+;
+830230 new <ls>H. an. 2,193. fg.</ls>
+;---------------------------------------------------
+; <L>91564<pc>6-1040<k1>vitti<k2>vitti<h>2
+841551 old <ls>H. an. 2,195.fg.</ls>
+;
+841551 new <ls>H. an. 2,195. fg.</ls>
+;---------------------------------------------------
+; <L>91871<pc>6-1073<k1>viDAna<k2>viDA/na
+845205 old <ls>H. an. 3,417.fg.</ls> {#preraRa, aByarcana, Dana, cetana, upAya, prakAra#}
+;
+845205 new <ls>H. an. 3,417. fg.</ls> {#preraRa, aByarcana, Dana, cetana, upAya, prakAra#}
+;---------------------------------------------------
+; <L>91887<pc>6-1076<k1>viDi<k2>viDi<h>1
+845359 old <ls>H. an. 2,249.fg.</ls> = {#viDAna#}
+;
+845359 new <ls>H. an. 2,249. fg.</ls> = {#viDAna#}
+;---------------------------------------------------
+; <L>93384<pc>6-1222<k1>viSleza<k2>viSleza
+861776 old <ls>H. an. 3,742.fg.</ls> = {#ayoga#}
+;
+861776 new <ls>H. an. 3,742. fg.</ls> = {#ayoga#}
+;---------------------------------------------------
+; <L>93531<pc>6-1231<k1>viSvapsan<k2>viSvapsa/n
+862950 old <ls>H. an. 3,418.fg.</ls> = {#sUrya#}
+;
+862950 new <ls>H. an. 3,418. fg.</ls> = {#sUrya#}
+;---------------------------------------------------
+; <L>94338<pc>6-1287<k1>viheWana<k2>viheWana
+869825 old <ls n="TRIK.">3,3,265. fg.</ls> <ls>H. an. 4,189.fg.</ls> ({#viheqana#}) und
+;
+869825 new <ls n="TRIK.">3,3,265. fg.</ls> <ls>H. an. 4,189. fg.</ls> ({#viheqana#}) und
+;---------------------------------------------------
+; <L>95009<pc>6-1338<k1>vfzan<k2>vf/zan
+876203 old <ls>H. an. 2,286.fg.</ls> {#aSva#}
+;
+876203 new <ls>H. an. 2,286. fg.</ls> {#aSva#}
+;---------------------------------------------------
+; <L>96501<pc>6-1465<k1>vyAGAta<k2>vyAGAta
+890873 old <ls>H. an. 3,294.fg.</ls> = {#prahAra#}
+;
+890873 new <ls>H. an. 3,294. fg.</ls> = {#prahAra#}
+;---------------------------------------------------
+; <L>117659<pc>7-1660<k1>hE<k2>hE/
+1099467 old zu <ls n="P. 1,">4,57.</ls> <ls>AK. 3,5,7.</ls> <ls>H. 1537.</ls> <ls>an. 7,5.</ls> <ls n="H. an.">6.</ls> <ls>MED. <is>avy</is>. 88.</ls> <ls>AV. 6,50,2.</ls> {#a\sO hA i\ha te\ mana^H#}
+;
+1099467 new zu <ls n="P. 1,">4,57.</ls> <ls>AK. 3,5,7.</ls> <ls>H. 1537.</ls> <ls>an. 7,5.</ls> <ls n="H. an. 7,">6.</ls> <ls>MED. <is>avy</is>. 88.</ls> <ls>AV. 6,50,2.</ls> {#a\sO hA i\ha te\ mana^H#}
+;---------------------------------------------------

@@ -1,0 +1,235 @@
+; <L>1595<pc>1-0111<k1>atyAhita<k2>atyAhita
+13119 old <ls>H. an. 4,93. 94.</ls>
+;
+13119 new <ls>H. an. 4,93.</ls> <ls n="H. an. 4,">94.</ls>
+;---------------------------------------------------
+; <L>1632<pc>1-0115<k1>aTa<k2>a/Ta
+13531 old <ls>AK. 3,4,32,8.</ls> (<ls>COL. 3,4,28,8.</ls>) <ls>H. an. 7,27. 28.</ls> <ls>MED. <is>avy</is>. 35.</ls>
+;
+13531 new <ls>AK. 3,4,32,8.</ls> (<ls>COL. 3,4,28,8.</ls>) <ls>H. an. 7,27.</ls> <ls n="H. an. 7,">28.</ls> <ls>MED. <is>avy</is>. 35.</ls>
+;---------------------------------------------------
+; <L>4979<pc>1-0363<k1>aByupagama<k2>aByupagama
+40907 old <ls>H. an. 5,36. 4,214.</ls>
+;
+40907 new <ls>H. an. 5,36.</ls> <ls n="H. an.">4,214.</ls>
+;---------------------------------------------------
+; <L>5509<pc>1-0398<k1>aye<k2>aye
+45158 old <ls>H. an. 7,41. 42.</ls>
+;
+45158 new <ls>H. an. 7,41.</ls> <ls n="H. an. 7,">42.</ls>
+;---------------------------------------------------
+; <L>7256<pc>1-0535<k1>as<k2>as<h>1
+61372 old <ls>H. an. 7,20. 21.</ls> {#aByanujYAne, asUyApIqayoH#}
+;
+61372 new <ls>H. an. 7,20.</ls> <ls n="H. an. 7,">21.</ls> {#aByanujYAne, asUyApIqayoH#}
+;---------------------------------------------------
+; <L>10008<pc>1-0782<k1>iqA<k2>i/qA
+88250 old <ls>H. an. 2,110. 476.</ls>
+;
+88250 new <ls>H. an. 2,110.</ls> <ls n="H. an. 2,">476.</ls>
+;---------------------------------------------------
+; <L>10008<pc>1-0782<k1>iqA<k2>i/qA
+88275 old <ls>H. an. 2,110. 476.</ls>
+;
+88275 new <ls>H. an. 2,110.</ls> <ls n="H. an. 2,">476.</ls>
+;---------------------------------------------------
+; <L>10008<pc>1-0782<k1>iqA<k2>i/qA
+88290 old <ls>H. an. 2,110. 476.</ls>
+;
+88290 new <ls>H. an. 2,110.</ls> <ls n="H. an. 2,">476.</ls>
+;---------------------------------------------------
+; <L>10029<pc>1-0787<k1>iti<k2>i/ti<h>1
+88754 old <ls>H. an. 7,21. 22.</ls> {#iti hetO prakASane . nidarSane prakAre syAtparakftyanukarzayoH . samAptO ca prakaraRe 'pi#}
+;
+88754 new <ls>H. an. 7,21.</ls> <ls n="H. an. 7,">22.</ls> {#iti hetO prakASane . nidarSane prakAre syAtparakftyanukarzayoH . samAptO ca prakaraRe 'pi#}
+;---------------------------------------------------
+; <L>11694<pc>1-0945<k1>upagama<k2>upagama
+105468 old <ls>H. an. 4,214. 215.</ls>
+;
+105468 new <ls>H. an. 4,214.</ls> <ls n="H. an. 4,">215.</ls>
+;---------------------------------------------------
+; <L>12846<pc>1-1029<k1>UrmikA<k2>UrmikA
+115428 old <ls>H. an. 3,12. 13.</ls>
+;
+115428 new <ls>H. an. 3,12.</ls> <ls n="H. an. 3,">13.</ls>
+;---------------------------------------------------
+; <L>13193<pc>1-1069<k1>e<k2>e<h>1
+119102 old <ls>H. an. 7,5. 6.</ls>
+;
+119102 new <ls>H. an. 7,5.</ls> <ls n="H. an. 7,">6.</ls>
+;---------------------------------------------------
+; <L>13604<pc>1-1107<k1>E<k2>E<h>1
+122901 old <ls>H. an. 7,5. 6.</ls>
+;
+122901 new <ls>H. an. 7,5.</ls> <ls n="H. an. 7,">6.</ls>
+;---------------------------------------------------
+; <L>14212<pc>2-0012<k1>kakzAvekzaka<k2>kakzAvekzaka
+128726 old <ls>H. an. 5,1. 2.</ls>
+;
+128726 new <ls>H. an. 5,1.</ls> <ls n="H. an. 5,">2.</ls>
+;---------------------------------------------------
+; <L>14232<pc>2-0014<k1>kaNkaRa<k2>kaNkaRa
+128958 old <ls>H. an. 3,196. 197.</ls> = {#karaBUzA, sUtra, maRqana#}
+;
+128958 new <ls>H. an. 3,196.</ls> <ls n="H. an. 3,">197.</ls> = {#karaBUzA, sUtra, maRqana#}
+;---------------------------------------------------
+; <L>15111<pc>2-0107<k1>karaRa<k2>ka/raRa<h>2
+139188 old <ls>H. an. 3,54. 156. 167. 193. 282. 627. 4,140.</ls>
+;
+139188 new <ls>H. an. 3,54.</ls> <ls n="H. an. 3,">156.</ls> <ls n="H. an. 3,">167.</ls> <ls n="H. an. 3,">193.</ls> <ls n="H. an. 3,">282.</ls> <ls n="H. an. 3,">627.</ls> <ls n="H. an.">4,140.</ls>
+;---------------------------------------------------
+; <L>15500<pc>2-0135<k1>karmakAra<k2>karmakAra
+142629 old <ls>H. an. 4,243. 244.</ls>
+;
+142629 new <ls>H. an. 4,243.</ls> <ls n="H. an. 4,">244.</ls>
+;---------------------------------------------------
+; <L>15743<pc>2-0165<k1>kalka<k2>kalka/
+145665 old <ls>H. an. 2,2. 3.</ls>
+;
+145665 new <ls>H. an. 2,2.</ls> <ls n="H. an. 2,">3.</ls>
+;---------------------------------------------------
+; <L>16042<pc>2-0197<k1>kAkarUka<k2>kAkarUka
+149044 old <ls>H. an. 4,6. 7.</ls>
+;
+149044 new <ls>H. an. 4,6.</ls> <ls n="H. an. 4,">7.</ls>
+;---------------------------------------------------
+; <L>16074<pc>2-0198<k1>kAkiRI<k2>kAkiRI
+149253 old <ls>H. an. 3,199. 200.</ls>
+;
+149253 new <ls>H. an. 3,199.</ls> <ls n="H. an. 3,">200.</ls>
+;---------------------------------------------------
+; <L>20620<pc>2-0574<k1>kzetriya<k2>kzetriya/
+192548 old <ls>KĀŚ.</ls> zu d. St. — Nach <ls>H. an. 3,485. 486</ls> bed. das Wort:
+;
+192548 new <ls>KĀŚ.</ls> zu d. St. — Nach <ls>H. an. 3,485.</ls> <ls n="H. an. 3,">486</ls> bed. das Wort:
+;---------------------------------------------------
+; <L>20742<pc>2-0584<k1>kzveqa<k2>kzveqa
+193657 old <ls>H. an. 2,112. 113.</ls>
+;
+193657 new <ls>H. an. 2,112.</ls> <ls n="H. an. 2,">113.</ls>
+;---------------------------------------------------
+; <L>22632<pc>2-0761<k1>guRqaka<k2>guRqaka
+213527 old <ls>H. an. 3,36. 37.</ls>
+;
+213527 new <ls>H. an. 3,36.</ls> <ls n="H. an. 3,">37.</ls>
+;---------------------------------------------------
+; <L>27574<pc>3-0115<k1>jIvaka<k2>jIvaka
+266142 old <ls>H. an. 3,43. 44.</ls>
+;
+266142 new <ls>H. an. 3,43.</ls> <ls n="H. an. 3,">44.</ls>
+;---------------------------------------------------
+; <L>29621<pc>3-0327<k1>tintiqa<k2>tintiqa
+288904 old <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> — <ls>H. an. 3,180. 181</ls> heisst es: {#tittiqaH#} (sic) {#. dEtyaBede#} (N. pr. eines <is>Daitya</is>) {#tintiqIke#} (welches
+;
+288904 new <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> — <ls>H. an. 3,180.</ls> <ls n="H. an. 3,">181</ls> heisst es: {#tittiqaH#} (sic) {#. dEtyaBede#} (N. pr. eines <is>Daitya</is>) {#tintiqIke#} (welches
+;---------------------------------------------------
+; <L>31356<pc>3-0457<k1>trowi<k2>trowi
+304118 old <ls>H. an. 2,92. 4,51.</ls>
+;
+304118 new <ls>H. an. 2,92.</ls> <ls n="H. an.">4,51.</ls>
+;---------------------------------------------------
+; <L>31971<pc>3-0511<k1>dantaSaWa<k2>dantaSaWa
+309838 old <ls>H. an. 4,68. 69.</ls>
+;
+309838 new <ls>H. an. 4,68.</ls> <ls n="H. an. 4,">69.</ls>
+;---------------------------------------------------
+; <L>32187<pc>3-0545<k1>dalAQaka<k2>dalAQaka
+313185 old <ls>H. an. 4,16. 17.</ls>
+;
+313185 new <ls>H. an. 4,16.</ls> <ls n="H. an. 4,">17.</ls>
+;---------------------------------------------------
+; <L>37517<pc>4-0023<k1>nadIkAnta<k2>nadIkAnta
+366057 old <ls>H. an. 4,110. 111.</ls>
+;
+366057 new <ls>H. an. 4,110.</ls> <ls n="H. an. 4,">111.</ls>
+;---------------------------------------------------
+; <L>38235<pc>4-0095<k1>nAgavArika<k2>nAgavArika
+373751 old <ls>H. an. 5,5. 6.</ls>
+;
+373751 new <ls>H. an. 5,5.</ls> <ls n="H. an. 5,">6.</ls>
+;---------------------------------------------------
+; <L>38658<pc>4-0129<k1>ni<k2>ni<h>1
+377557 old <ls>H. an. 7,10. 11</ls> und <ls>MED. avy. 40. 41</ls> kennen eine Unzahl von Bedeutungen: {#kzepa, BfSArTa, nityArTa, dAnakarman (dAna#}
+;
+377557 new <ls>H. an. 7,10.</ls> <ls n="H. an. 7,">11</ls> und <ls>MED. avy. 40. 41</ls> kennen eine Unzahl von Bedeutungen: {#kzepa, BfSArTa, nityArTa, dAnakarman (dAna#}
+;---------------------------------------------------
+; <L>40338<pc>4-0262<k1>niHsaraRa<k2>niHsaraRa
+392571 old <ls>H. an. 4,79. 80.</ls>
+;
+392571 new <ls>H. an. 4,79.</ls> <ls n="H. an. 4,">80.</ls>
+;---------------------------------------------------
+; <L>43940<pc>4-0620<k1>pAMsucAmara<k2>pAMsucAmara
+430170 old <ls>H. an. 5,41. 42.</ls>
+;
+430170 new <ls>H. an. 5,41.</ls> <ls n="H. an. 5,">42.</ls>
+;---------------------------------------------------
+; <L>45198<pc>4-0714<k1>piRqItaka<k2>piRqItaka
+441556 old <ls>H. an. 4,19. 20.</ls>
+;
+441556 new <ls>H. an. 4,19.</ls> <ls n="H. an. 4,">20.</ls>
+;---------------------------------------------------
+; <L>45585<pc>4-0748<k1>pIluparRI<k2>pIluparRI
+445525 old <ls>H. an. 4,84. 85.</ls>
+;
+445525 new <ls>H. an. 4,84.</ls> <ls n="H. an. 4,">85.</ls>
+;---------------------------------------------------
+; <L>51420<pc>4-1197<k1>PaRijJaka<k2>PaRijJaka
+498313 old <ls>H. an. 4,19. 26.</ls>
+;
+498313 new <ls>H. an. 4,19.</ls> <ls n="H. an. 4,">26.</ls>
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+502040 old <ls>H. an. 2,5. 355. 3,484.</ls>
+;
+502040 new <ls>H. an. 2,5.</ls> <ls n="H. an. 2,">355.</ls> <ls n="H. an.">3,484.</ls>
+;---------------------------------------------------
+; <L>53714<pc>5-0163<k1>Bakti<k2>Bakti/
+519393 old <ls>H. an. 2,39. 182</ls> beruht vielleicht auf einer Verwechselung von {#Bakti#} mit {#BaMkti#} ({#BaNkti#}).
+;
+519393 new <ls>H. an. 2,39.</ls> <ls n="H. an. 2,">182</ls> beruht vielleicht auf einer Verwechselung von {#Bakti#} mit {#BaMkti#} ({#BaNkti#}).
+;---------------------------------------------------
+; <L>53848<pc>5-0177<k1>BaNgi<k2>BaNgi
+520727 old <ls>H. an. 2,39. 182.</ls> = {#vicCeda#}
+;
+520727 new <ls>H. an. 2,39.</ls> <ls n="H. an. 2,">182.</ls> = {#vicCeda#}
+;---------------------------------------------------
+; <L>58812<pc>5-0646<k1>mahAmUlya<k2>mahAmUlya
+572576 old <ls>H. an. 3,137. 4,185. 228.</ls>
+;
+572576 new <ls>H. an. 3,137.</ls> <ls n="H. an.">4,185.</ls> <ls n="H. an. 4,">228.</ls>
+;---------------------------------------------------
+; <L>65412<pc>5-1059<k1>avaDfti<k2>avaDfti
+624275 old <ls>H. an. 7,2. 9</ls> (wo {#°DUti#} gedr. ist). {%genaue Bestimmung%}
+;
+624275 new <ls>H. an. 7,2.</ls> <ls n="H. an. 7,">9</ls> (wo {#°DUti#} gedr. ist). {%genaue Bestimmung%}
+;---------------------------------------------------
+; <L>88574<pc>6-0793<k1>varDApaka<k2>varDApaka
+812367 old <ls>H. an. 3,15. 5,41.</ls>
+;
+812367 new <ls>H. an. 3,15.</ls> <ls n="H. an.">5,41.</ls>
+;---------------------------------------------------
+; <L>94200<pc>6-1277<k1>vistfti<k2>vistfti
+868607 old <ls>H. an. 3,458. 602.</ls>
+;
+868607 new <ls>H. an. 3,458.</ls> <ls n="H. an. 3,">602.</ls>
+;---------------------------------------------------
+; <L>96971<pc>6-1504<k1>vrIhirAjaka<k2>vrIhirAjaka
+895463 old <ls>H. an. 5,6. 7.</ls> {#°rAjika#} (wohl richtiger) <lex>m.</lex> = {#kaNguDAnya#} und {#cInakaDAnya#}
+;
+895463 new <ls>H. an. 5,6.</ls> <ls n="H. an. 5,">7.</ls> {#°rAjika#} (wohl richtiger) <lex>m.</lex> = {#kaNguDAnya#} und {#cInakaDAnya#}
+;---------------------------------------------------
+; <L>98433<pc>7-0117<k1>SaSiSeKara<k2>SaSiSeKara
+909992 old <ls>H. an. 3,720. 5,11.</ls> <ls>HALĀY. 1,11.</ls> <ls>KATHĀS. 1,22.</ls> <ls n="KATHĀS.">22,117.</ls> <ls n="KATHĀS.">44,9.</ls> <ls n="KATHĀS.">50,175.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6,502, <is>Śl.</is> 1.</ls> <ls>Verz. d. Oxf. H. 99,b,17.</ls>
+;
+909992 new <ls>H. an. 3,720.</ls> <ls n="H. an.">5,11.</ls> <ls>HALĀY. 1,11.</ls> <ls>KATHĀS. 1,22.</ls> <ls n="KATHĀS.">22,117.</ls> <ls n="KATHĀS.">44,9.</ls> <ls n="KATHĀS.">50,175.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6,502, <is>Śl.</is> 1.</ls> <ls>Verz. d. Oxf. H. 99,b,17.</ls>
+;---------------------------------------------------
+; <L>108100<pc>7-0900<k1>sAtalA<k2>sAtalA
+1004971 old <ls>H. an. 3,4. 691.</ls>
+;
+1004971 new <ls>H. an. 3,4.</ls> <ls n="H. an. 3,">691.</ls>
+;---------------------------------------------------
+; <L>115947<pc>7-1491<k1>haWa<k2>haWa
+1079492 old <ls>TRIK.</ls> <ls>H. an. 2,110. 3,228.</ls> <ls>MED.</ls> <ls>SUŚR. 1,170,19</ls> ({#hawa#}).
+;
+1079492 new <ls>TRIK.</ls> <ls>H. an. 2,110.</ls> <ls n="H. an.">3,228.</ls> <ls>MED.</ls> <ls>SUŚR. 1,170,19</ls> ({#hawa#}).
+;---------------------------------------------------
