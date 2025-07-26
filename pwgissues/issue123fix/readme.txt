@@ -3,8 +3,8 @@ issue123fix/readme.txt
 fix references to 'H. an.'
 sanskrit-lexicon-scans/anekārthasaṃgraha
 
-Ref: https://github.com/sanskrit-lexicon/PWG/issues123fix
 
+Ref: https://github.com/sanskrit-lexicon/PWG/tree/master/pwgissues/issue123fix
 this directory in local file system:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue123fix
 

@@ -24,6 +24,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue91 Lacks in Instr.Sg.m.n. and Gen. Du. 
 * issue92 VARĀH. BṚH. S. : VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
 * issue93 N.	  NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
+* issue93fix ls split for references from bchrest1
 * issue94 PWG link target admin
 * issue95 00370	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
 * issue96 DAŚARATHA'S Tod target link
@@ -38,6 +39,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue110 VOPADEVA'S Mughabodha
 * issue122 MarkandeyaPurana link target
 * issue123 ANEKĀRTHASAM̃GRAHA link target
+* issue123fix  ANEKĀRTHASAM̃GRAHA split ls
 * issue124 VĀJASANEYISAM̃HITĀ link target
 * issue125 ŚĀKUNTALA link target
 * issue129 BHAGAVADGITA link target
@@ -46,6 +48,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue135 RĀJATARAṄGIṆĪ link target
 * issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
 * issue137 NĀRADA PAÑCARĀTRA 
+* issue137fix NĀRADA PAÑCARĀTRA  split ls
 * issue139 VS. PRĀT. link target
 * issue143 BHAṬṬIKĀVYA link target
 * issue144 TAITTIRĪYABRĀHMAṆA link target
