@@ -84,6 +84,18 @@ python dict_replace.py temp_pwg_1a.txt lsfix_1a.txt temp_pwg_2.txt
 apply_repls: 47 lines changed
 1129105 lines written to temp_pwg_2.txt
 
+# apply lsfix.py to temp_pwg_2.txt
+python lsfix.py dummy temp_pwg_2.txt lsfix_2.txt
+2817 lines written to lsfix_2.txt
+True 2725
+None 92
+
+88 of the None lines are 'BOPP'
+4 of the None lnes are 'BRUCE'
+
+82 matches for "<span>" in buffer: temp_pwg_2.txt
+ These to be changed sometime in future.
+ 
 -------------------------------------------------------------
 # remake xml from temp_pwg_2.txt and check
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue93fix/nala
@@ -144,16 +156,6 @@ git push
 ---------------------------------------------------
 sync to Cologne, pull changed repos, redo the pwg displays
 
--------------------------------------------------------------
--- remake xml from temp_pwg_1a.txt and check
-cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue93fix/nala
-cp temp_pwg_1a.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh pwg  ../../pwg
-sh xmlchk_xampp.sh pwg
-# return here
-cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue93fix/nala
--- end of 'remake xml ...'
 
 ------------------------------------------------------------
 THE END
