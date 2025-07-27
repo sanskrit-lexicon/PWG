@@ -39,7 +39,8 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue110 VOPADEVA'S Mughabodha
 * issue122 MarkandeyaPurana link target
 * issue123 ANEKĀRTHASAM̃GRAHA link target
-* issue123fix  ANEKĀRTHASAM̃GRAHA split ls
+* issue123fix  ANEKĀRTHASAM̃GRAHA split ls 'H. an.'
+* issue123fixa ANEKĀRTHASAM̃GRAHA split ls 'an.' 
 * issue124 VĀJASANEYISAM̃HITĀ link target
 * issue125 ŚĀKUNTALA link target
 * issue129 BHAGAVADGITA link target
