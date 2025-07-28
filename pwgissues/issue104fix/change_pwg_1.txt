@@ -1,0 +1,50 @@
+; <L>10551<pc>1-0854<k1>ISvara<k2>ISvara/
+94918 old <ls>H. 204.</ls> <ls n="H. ś.">ś. 55.</ls> <ls>an. 3,523.</ls> <ls>MED. r. 117.</ls>
+;
+94918 new <ls>H. 204.</ls> <ls>ś. 55.</ls> <ls>an. 3,523.</ls> <ls>MED. r. 117.</ls>
+;---------------------------------------------------
+; <L>11640<pc>1-0941<k1>upakaraRa<k2>upakaraRa
+105052 old <ls>H. 931.</ls> <ls n="H. ś.">ś. 140.</ls> <ls>P. 4,4,18</ls>, <ls>Sch.</ls> {#sajjayantropakaraRA (laNkA)#}
+;
+105052 new <ls>H. 931.</ls> <ls>ś. 140.</ls> <ls>P. 4,4,18</ls>, <ls>Sch.</ls> {#sajjayantropakaraRA (laNkA)#}
+;---------------------------------------------------
+; <L>13250<pc>1-1074<k1>ekadfS<k2>ekadfS
+119693 old <ls>H. 196.</ls> <ls n="H. ś.">ś. 65.</ls>
+;
+119693 new <ls>H. 196.</ls> <ls>ś. 65.</ls>
+;---------------------------------------------------
+; <L>15462<pc>2-0133<k1>karpawa<k2>karpawa
+142297 old <ls>H. 676.</ls> <ls n="H. ś.">ś. 135.</ls> {#pustakacCAdanayogyAni pawikarpawAdIni#}
+;
+142297 new <ls>H. 676.</ls> <ls>ś. 135.</ls> {#pustakacCAdanayogyAni pawikarpawAdIni#}
+;---------------------------------------------------
+; <L>28737<pc>3-0245<k1>tapas<k2>ta/pas
+279450 old <ls>H. 82.</ls> <ls n="H. ś.">ś. 152.</ls> = {#Darma#}
+;
+279450 new <ls>H. 82.</ls> <ls>ś. 152.</ls> = {#Darma#}
+;---------------------------------------------------
+; <L>38006<pc>4-0074<k1>navaSakti<k2>navaSakti
+371379 old <ls>H. ś. 42. <is>Viṣṇu's</is> 64.</ls>
+;
+371379 new <ls>H. ś. 42.</ls> <is>Viṣṇu's</is> <ls n="H. ś.">64.</ls>
+;---------------------------------------------------
+; <L>42607<pc>4-0507<k1>parAvidDa<k2>parAvidDa
+417752 old <ls>H. ś. 66. <is>Kuvera's</is></ls> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> Wird von
+;
+417752 new <ls>H. ś. 66.</ls> <is>Kuvera's</is> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> Wird von
+;---------------------------------------------------
+; <L>86687<pc>6-0582<k1>lokabanDu<k2>lokabanDu
+789019 old <ls>H. ś. 6. <is>Śiva's</is></ls> <ls>ŚIV.</ls>
+;
+789019 new <ls>H. ś. 6.</ls> <is>Śiva's</is> <ls>ŚIV.</ls>
+;---------------------------------------------------
+; <L>88795<pc>6-0814<k1>vallakI<k2>vallakI/
+814791 old <ls>H. 288.</ls> <ls n="H. ś.">ś. 81.</ls> <ls>HALĀY. 1,96.</ls> <ls>MBH. 7,6665.</ls> <ls n="MBH.">13,3782.</ls> <ls n="MBH. 13,">5180.</ls> <ls>HARIV. 4635.</ls> <ls>ṚT. 1,8.</ls> <ls>RAGH. 8,41.</ls> <ls n="RAGH.">19,13.</ls> <ls>ŚIŚ. 4,57.</ls> <ls>VARĀH. BṚH. S. 76,2.</ls> <ls>KATHĀS. 49,18.</ls> <ls n="KATHĀS. 49,">34.</ls> <ls n="KATHĀS.">86,78.</ls> <ls>RĀJA-TAR. 2,126.</ls> {#vallaki#} aus metrischen Rücksichten
+;
+814791 new <ls>H. 288.</ls> <ls>ś. 81.</ls> <ls>HALĀY. 1,96.</ls> <ls>MBH. 7,6665.</ls> <ls n="MBH.">13,3782.</ls> <ls n="MBH. 13,">5180.</ls> <ls>HARIV. 4635.</ls> <ls>ṚT. 1,8.</ls> <ls>RAGH. 8,41.</ls> <ls n="RAGH.">19,13.</ls> <ls>ŚIŚ. 4,57.</ls> <ls>VARĀH. BṚH. S. 76,2.</ls> <ls>KATHĀS. 49,18.</ls> <ls n="KATHĀS. 49,">34.</ls> <ls n="KATHĀS.">86,78.</ls> <ls>RĀJA-TAR. 2,126.</ls> {#vallaki#} aus metrischen Rücksichten
+;---------------------------------------------------
+; <L>90116<pc>6-0934<k1>vAyuvAhana<k2>vAyuvAhana
+828403 old <ls>H. ś. 68. <is>Śiva's</is></ls> <ls>ŚIV.</ls>
+;
+828403 new <ls>H. ś. 68.</ls> <is>Śiva's</is> <ls>ŚIV.</ls>
+;---------------------------------------------------
