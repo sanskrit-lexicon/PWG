@@ -33,7 +33,9 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue100 RAGH. RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13)
 * issue101 SĀH. D. SĀHITYADARPAṆA
 * issue102 RAGHUVAṂŚA trial to identify missing ls entries 
-* issue104 HEMACANDRA'S ABHIDHĀNACINTĀMAṆI
+* issue104 HEMACANDRA'S ABHIDHĀNACINTĀMAṆI & SeSa
+* issue104fix Abhidhānacintāmaṇipariśiṣṭa
+* issue104fixa Abhidhānacintāmaṇi
 * issue105 MEDINĪKOṢA
 * issue109 RAGHUVAṂŚA Calcutta edition
 * issue110 VOPADEVA'S Mughabodha

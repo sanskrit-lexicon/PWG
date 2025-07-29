@@ -1,6 +1,7 @@
 # coding=utf-8
 """ lsfix.py
-    Revision: escape periods in regex
+    Revision 1: escape periods in regex
+
 """
 from __future__ import print_function
 import sys, re,codecs
