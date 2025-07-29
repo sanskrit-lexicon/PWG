@@ -1,0 +1,45 @@
+; <L>10027<pc>1-0786<k1>itas<k2>ita/s
+88583 old <ls>R. 5,81,45.</ls> — <ls>H. 7,149. 150</ls> : {#ito yataSca viBAgavat .. paYcamyarTe niyame ca#}; eben so
+;
+88583 new <ls>R. 5,81,45.</ls> — <ls>H. an. 7,49.</ls> <ls n="H. an. 7,">50</ls> : {#ito yataSca viBAgavat .. paYcamyarTe niyame ca#}; eben so
+;---------------------------------------------------
+; <L>15237<pc>2-0116<k1>karuRa<k2>karuRa
+140241 old <ls>Uṇ.</ls> <ls>AK. 1,1,7,18.</ls> <ls n="AK.">3,4,13,54.</ls> <ls>H. 369</ls>,2. <ls>H. an.</ls> <ls>MED.</ls> {#karuRAnvita#}
+;
+140241 new <ls>Uṇ.</ls> <ls>AK. 1,1,7,18.</ls> <ls n="AK.">3,4,13,54.</ls> <ls>H. 369,b.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#karuRAnvita#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354509 old <ls>DAŚ. 1. 28.</ls>
+;
+354509 new <ls>DAŚ. 1,28.</ls>
+;---------------------------------------------------
+; <L>37042<pc>3-0994<k1>DErya<k2>DErya<h>1
+361198 old <ls>DAŚ. 1. 47.</ls>
+;
+361198 new <ls>DAŚ. 1,47.</ls>
+;---------------------------------------------------
+; <L>43693<pc>4-0591<k1>palASa<k2>palASa/
+427244 old <ls>R. GORR. 2,65,7</ls> (<ls>DAŚ. 1,7. 9).</ls> <ls>SUŚR. 1,6,17. 32,15. 138,8. 21,141,10. 15. 333,14. 2,511,9.</ls> <ls>PAÑCAT. 91,7.</ls> <ls>VARĀH. BṚH. S. 28,6. 43,12. 53,59. 96.</ls> <ls>BṚH. 26 (25),11.</ls> {#sapalASA vadarI#}
+;
+427244 new <ls>R. GORR. 2,65,7</ls> (<ls>DAŚ. 1,7. 9.</ls>) <ls>SUŚR. 1,6,17. 32,15. 138,8. 21,141,10. 15. 333,14. 2,511,9.</ls> <ls>PAÑCAT. 91,7.</ls> <ls>VARĀH. BṚH. S. 28,6. 43,12. 53,59. 96.</ls> <ls>BṚH. 26 (25),11.</ls> {#sapalASA vadarI#}
+;---------------------------------------------------
+; <L>52042<pc>5-0042<k1>ballAlasena<k2>ballAlasena
+505116 old <ls>Verz. d. Oxf. H.</ls> <ls>H. 124.</ls>,a eines Fürsten von Bengalen, der im 11ten Jahrh. <lex>n.</lex> <ls>Chr.</ls> regierte,
+;
+505116 new <ls>Verz. d. Oxf. H.</ls> <ls>H. 124,a.</ls> eines Fürsten von Bengalen, der im 11ten Jahrh. <lex>n.</lex> <ls>Chr.</ls> regierte,
+;---------------------------------------------------
+; <L>55065<pc>5-0307<k1>BujaMga<k2>BujaMga
+534729 old <ls>MED. g. 45.</ls> <ls>HALĀY. 3,18. 22.</ls> <ls>DAŚ. 1. 18.</ls> <ls>SUŚR. 1,333,18.</ls> <ls n="SUŚR.">2,532,1.</ls> <ls>RAGH. 1,80.</ls> <ls>LA. (II) 89,22.</ls> <ls>DHŪRTAS. 92,11.</ls> <ls>KĀVYĀD. 2,188. 346.</ls> {#aBujaMgavant#}
+;
+534729 new <ls>MED. g. 45.</ls> <ls>HALĀY. 3,18. 22.</ls> <ls>DAŚ. 1,18.</ls> <ls>SUŚR. 1,333,18.</ls> <ls n="SUŚR.">2,532,1.</ls> <ls>RAGH. 1,80.</ls> <ls>LA. (II) 89,22.</ls> <ls>DHŪRTAS. 92,11.</ls> <ls>KĀVYĀD. 2,188. 346.</ls> {#aBujaMgavant#}
+;---------------------------------------------------
+; <L>55166<pc>5-0314<k1>BU<k2>BU<h>1
+535612 old <ls>DAŚ. 1. 24.</ls> {#kroDAdBavati maMmohaH#}
+;
+535612 new <ls>DAŚ. 1,24.</ls> {#kroDAdBavati maMmohaH#}
+;---------------------------------------------------
+; <L>62471<pc>5-0944<k1>akuSala<k2>akuSala
+606392 old <ls>R. 2,64,44</ls> (= <ls>DAŚ. 2,44).</ls> {%unglücklich%}
+;
+606392 new <ls>R. 2,64,44</ls> (= <ls>DAŚ. 2,44.</ls>) {%unglücklich%}
+;---------------------------------------------------
