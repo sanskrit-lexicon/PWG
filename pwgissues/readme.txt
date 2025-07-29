@@ -24,7 +24,10 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue91 Lacks in Instr.Sg.m.n. and Gen. Du. 
 * issue92 VARĀH. BṚH. S. : VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
 * issue93 N.	  NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
-* issue93fix ls split for references from bchrest1
+* issue93fix/nala  ls split N. n,n
+* issue93fix/vid   ls split VID. N
+* issue93fix/dash  ls split DAŚ. N,N
+* issue93fix/fushv ls split VIŚV. N,N
 * issue94 PWG link target admin
 * issue95 00370	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
 * issue96 DAŚARATHA'S Tod target link

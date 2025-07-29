@@ -1,0 +1,15 @@
+; <L>670<pc>1-0050<k1>aNga<k2>a/Nga<h>3
+5583 old <ls>VID. 180,b.</ls> <ls>VET. 30,17.</ls> <ls>BRAHMA-P. in LA. 59,13.</ls>
+;
+5583 new <ls>VID. 180</ls>,{%b%}. <ls>VET. 30,17.</ls> <ls>BRAHMA-P. in LA. 59,13.</ls>
+;---------------------------------------------------
+; <L>52640<pc>5-0082<k1>bAhuSAlin<k2>bAhuSAlin
+510111 old <ls>VID. 42. <is>Śiva</is></ls>
+;
+510111 new <ls>VID. 42.</ls> <is>Śiva</is>
+;---------------------------------------------------
+; <L>53714<pc>5-0163<k1>Bakti<k2>Bakti/
+519374 old <ls>RAGH. 2,40</ls> (<ls>ed. Calc.</ls> loc.). <ls>VID. 122. im comp.</ls> vorangehend: {#mAtf°, pitf°#}
+;
+519374 new <ls>RAGH. 2,40</ls> (<ls>ed. Calc.</ls> loc.). <ls>VID. 122.</ls> im comp. vorangehend: {#mAtf°, pitf°#}
+;---------------------------------------------------
