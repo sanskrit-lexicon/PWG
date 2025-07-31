@@ -1,0 +1,15 @@
+; <L>38532<pc>4-0120<k1>nArAyaRopanizad<k2>nArAyaRopanizad
+376514 old <ls>COLEBR. a. a. O.</ls>
+;
+376514 new <ls>COLEBR.</ls> a. a. O.
+;---------------------------------------------------
+; <L>39521<pc>4-0199<k1>nirBartsana<k2>nirBartsana
+385482 old <ls>AK. 3,4,32</ls>
+;
+385482 new <ls>AK. 3,4,32,2</ls> (<ls>COLEBR. 3,4,28,2.</ls>) 
+;---------------------------------------------------
+; <L>39521<pc>4-0199<k1>nirBartsana<k2>nirBartsana
+385483 old <ls>COLEBR. (28),2.</ls> <ls>TRIK. 3,3,244.</ls> <ls>H. an. 4,178.</ls> <ls>MED. n. 187.</ls> {#nirBartsanApavAdEH#}
+;
+385483 new <ls>TRIK. 3,3,244.</ls> <ls>H. an. 4,178.</ls> <ls>MED. n. 187.</ls> {#nirBartsanApavAdEH#}
+;---------------------------------------------------

@@ -3,6 +3,7 @@ Issue titles
 Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 
 * issue62 Amarakosha link target
+* issue62fix ls splitting check
 * issue67 German word corrections
 * issue70 katha-sarit-sagara link target
 * issue71 standardization of pwg links for KATHĀS.
