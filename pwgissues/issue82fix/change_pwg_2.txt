@@ -1,0 +1,20 @@
+; <L>92757<pc>6-1149<k1>viraYca<k2>viraYca
+853990 old <ls>H. 211</ls>, <ls>Schol.</ls> <ls>BHĀG. P. ed. Bomb. 8,5,39. 6,3.</ls>
+;
+853990 new <ls>H. 211</ls>, <ls>Schol.</ls> <ls>BHĀG. P. ed. Bomb. 8,5,39.</ls> <ls n="BHĀG. P. ed. Bomb. 8,">6,3.</ls>
+;---------------------------------------------------
+; <L>92760<pc>6-1149<k1>viraYcya<k2>viraYcya
+854006 old <ls>BHĀG. P. ed. Bomb. 7,9,18. 24</ls> (= {#brahmaRo BogaH#}).
+;
+854006 new <ls>BHĀG. P. ed. Bomb. 7,9,18.</ls> <ls n="BHĀG. P. ed. Bomb. 7,9,">24</ls> (= {#brahmaRo BogaH#}).
+;---------------------------------------------------
+; <L>117243<pc>7-1636<k1>hu<k2>hu<h>2
+1096183 old <ls>BHĀG. P. ed. Bomb. 3,3,3. 10,42,38.</ls>
+;
+1096183 new <ls>BHĀG. P. ed. Bomb. 3,3,3.</ls> <ls n="BHĀG. P. ed. Bomb.">10,42,38.</ls>
+;---------------------------------------------------
+; <L>121239<pc>7-1780<k1>balvala<k2>balvala
+1120690 old <ls>BHĀG. P. ed. Bomb. 2,7,34. 3,3,11.</ls>
+;
+1120690 new <ls>BHĀG. P. ed. Bomb. 2,7,34.</ls> <ls n="BHĀG. P. ed. Bomb.">3,3,11.</ls>
+;---------------------------------------------------

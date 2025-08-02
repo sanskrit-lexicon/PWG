@@ -1,0 +1,75 @@
+; <L>18385<pc>2-0375<k1>kuhaka<k2>ku/haka
+170277 old <ls n="BHĀG. P.">1,1.</ls> {#kuhakajIvin#} {%von Gaukeleien, Taschenspielerkünsten lebend%}
+;
+170277 new <ls n="BHĀG. P. 1,">1,1.</ls> {#kuhakajIvin#} {%von Gaukeleien, Taschenspielerkünsten lebend%}
+;---------------------------------------------------
+; <L>18648<pc>2-0396<k1>kftavrata<k2>kftavrata
+172711 old <ls>BHĀG. P. t. 1, p. XXXIX.</ls>
+;
+172711 new <ls>BHĀG. P. t. I, p. XXXIX.</ls>
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+183045 old <ls>SĀY.</ls> bei <ls>BURN.</ls> <ls>BHĀG. P. t. I, p. x.</ls> mit dem dat.: {#BrAtuH — vivAhAyopacakrame#}
+;
+183045 new <ls>SĀY.</ls> bei <ls>BURN.</ls> <ls>BHĀG. P. t. I, p. X.</ls> mit dem dat.: {#BrAtuH — vivAhAyopacakrame#}
+;---------------------------------------------------
+; <L>27203<pc>3-0074<k1>jAta<k2>jAta/
+261836 old <ls>SĀY.</ls> bei <ls>BURN.</ls> in der Einl. zu <ls>BHĀG. P. I, x.</ls>
+;
+261836 new <ls>SĀY.</ls> bei <ls>BURN.</ls> in der Einl. zu <ls>BHĀG. P. I, X.</ls>
+;---------------------------------------------------
+; <L>30810<pc>3-0417<k1>trayyAruRa<k2>trayyAruRa
+299525 old <ls>BURN.</ls> in der Einl. zu <ls>BHĀG. P. I, S. XXXVII.</ls>
+;
+299525 new <ls>BURN.</ls> in der Einl. zu <ls>BHĀG. P. I, p. XXXVII.</ls>
+;---------------------------------------------------
+; <L>31643<pc>3-0487<k1>dakziRAcAra<k2>dakziRAcAra
+307136 old <ls>BHĀG. P. I</ls>, Einl. p. XCVI. {#°tantra#}
+;
+307136 new <ls>BHĀG. P. I, Einl. p. XCVI.</ls> {#°tantra#}
+;---------------------------------------------------
+; <L>31658<pc>3-0488<k1>dakziRAmUrti<k2>dakziRAmUrti
+307251 old <ls>BHĀG. P. I</ls>, Einl. p. LXXXV. XCVI. <ls>Verz. d. B. H. No. 807.</ls> {#°stava, °stotra#}
+;
+307251 new <ls>BHĀG. P. I, Einl. p. LXXXV. XCVI.</ls> <ls>Verz. d. B. H. No. 807.</ls> {#°stava, °stotra#}
+;---------------------------------------------------
+; <L>40888<pc>4-0321<k1>nEja<k2>nEja
+398816 old <ls>BHĀG. P. 10</ls>, <ls>VĀṆAYUDDHA</ls> nach <ls>ŚKDR.</ls>
+;
+398816 new <ls>BHĀG. P.</ls> 10, VĀṆAYUDDHA nach <ls>ŚKDR.</ls>
+;---------------------------------------------------
+; <L>42308<pc>4-0476<k1>par<k2>par<h>2
+414584 old <ls>RĀJA-TAR. 3,309. 5,316</ls>; vgl. {#Sak#} . Statt des inf. der loc. des nom. act.: {#apArayannAtmavimokzaRe#}
+;
+414584 new <ls>RĀJA-TAR. 3,309.</ls> <ls n="RĀJA-TAR.">5,316</ls>; vgl. {#Sak#} . Statt des inf. der loc. des nom. act.: {#apArayannAtmavimokzaRe#}
+;---------------------------------------------------
+; <L>47118<pc>4-0866<k1>pfSni<k2>pf/Sni
+459504 old <ls>BHĀG. P. 10</ls> nach <ls>ŚKDR.</ls>
+;
+459504 new <ls>BHĀG. P.</ls> 10 nach <ls>ŚKDR.</ls>
+;---------------------------------------------------
+; <L>48346<pc>4-0961<k1>pratipAdaka<k2>pratipAdaka
+470685 old <ls>KULL.</ls> zu <ls>M. 1,58.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4,2,60.</ls> Schol. zu <ls>P. 8,2,97.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 74.</ls> <ls>Z. d. d. m. G. 7,307, N. 1.</ls> <ls>VEDĀNTAS. (Allah.) No. 16.</ls> <ls>Verz. d. Oxf. H. 109,a,19. 20. 23.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,14,5.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,95. 96.</ls> <ls>SĀY.</ls> bei <ls>BURN.</ls> <ls>BHĀG. P. I, x.</ls> Davon nom. abstr. {#°tva#} <lex>n.</lex>
+;
+470685 new <ls>KULL.</ls> zu <ls>M. 1,58.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4,2,60.</ls> Schol. zu <ls>P. 8,2,97.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 74.</ls> <ls>Z. d. d. m. G. 7,307, N. 1.</ls> <ls>VEDĀNTAS. (Allah.) No. 16.</ls> <ls>Verz. d. Oxf. H. 109,a,19. 20. 23.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,14,5.</ls> <ls>Schol.</ls> zu <ls>KAP. 1,95. 96.</ls> <ls>SĀY.</ls> bei <ls>BURN.</ls> <ls>BHĀG. P. I, X.</ls> Davon nom. abstr. {#°tva#} <lex>n.</lex>
+;---------------------------------------------------
+; <L>67345<pc>5-1146<k1>izwa<k2>izwa<h>1
+636838 old <ls n="BHĀG. P. 7,15,">48 fg.</ls> also {%Opfer aller Art%} (vgl. 2. {#izwa#}) . Vgl. noch {#tasmAdizwaSca pUrtaSca DarmO dvAvapi naSyataH#}
+;
+636838 new <ls n="BHĀG. P. 7,15,">48. fg.</ls> also {%Opfer aller Art%} (vgl. 2. {#izwa#}) . Vgl. noch {#tasmAdizwaSca pUrtaSca DarmO dvAvapi naSyataH#}
+;---------------------------------------------------
+; <L>78025<pc>5-1580<k1>par<k2>par<h>2
+706899 old <ls n="BHĀG. P.">5,316</ls> hinzuzufügen
+;
+706899 new <ls n="RĀJA-TAR.">5,316</ls> hinzuzufügen
+;---------------------------------------------------
+; <L>103843<pc>7-0556<k1>saYj<k2>saYj
+964010 old <ls>BHĀG. P. 4,25,56.</ls> <ls n="BHĀG. P. 4,">56,b,18</ls> (wohl {#SaktyAM#} zu lesen). {#brahma°#}
+;
+964010 new <ls>BHĀG. P. 4,25,56.</ls> <ls n="Verz. d. Oxf. H.">56,b,18</ls> (wohl {#SaktyAM#} zu lesen). {#brahma°#}
+;---------------------------------------------------
+; <L>105646<pc>7-0708<k1>samAmnAya<k2>samAmnAya
+981553 old <ls n="BHĀG. P.">87,43.</ls>
+;
+981553 new <ls n="BHĀG. P. 10,">87,43.</ls>
+;---------------------------------------------------

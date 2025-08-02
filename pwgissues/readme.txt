@@ -15,6 +15,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue78 Transcoding vowel-marker characters
 * issue81 BHĀGAVATAPURĀṆA link target
 * issue82 Index for BHĀGAVATAPURĀṆA, Bombay edition
+* issue82fix split ls for BHĀG. P.  (both bombay and bur editions)
 * issue83 BHĀGAVATAPURĀṆA link target problems 
 * issue84 ŚATAPATHABRĀHMAṆA link target
 * issue85 Several Formatting Issues: <ls>MÜLLER</ls>?'
