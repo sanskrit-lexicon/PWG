@@ -1,0 +1,375 @@
+; <L>5332<pc>1-0387<k1>amburASi<k2>amburASi
+43853 old v. l. ad <ls>ŚĀK. 32,5.</ls> <ls>KUMĀRAS. 3,67.</ls> <ls>RAGH. 6,57.</ls> <ls n="RAGH.">9,82.</ls> <ls>VIKR. 18.</ls> <ls>BHARTṚ. 1,69. 84.</ls> <ls>KATHĀS. 26,137.</ls> <ls>VID. 4.</ls>
+;
+43853 new v. l. ad <ls>ŚĀK. 32,5.</ls> <ls>KUMĀRAS. 3,67.</ls> <ls>RAGH. 6,57.</ls> <ls n="RAGH.">9,82.</ls> <ls>VIKR. 18.</ls> <ls>BHARTṚ. 1,69.</ls> <ls n="BHARTṚ. 1,">84.</ls> <ls>KATHĀS. 26,137.</ls> <ls>VID. 4.</ls>
+;---------------------------------------------------
+; <L>6884<pc>1-0510<k1>aSana<k2>a/Sana<h>2
+58216 old <ls>ŚAT. BR. 1,3,1,10. 11. 6,3,2,5. 12. 7,2,5.</ls> u.s.w. <ls>BṚH. ĀR. UP. 1,4,16.</ls> <ls>NIR. 6,9.</ls> <ls>M. 2,54.</ls> <ls n="M. 2,">55.</ls> <ls n="M.">3,59.</ls> <ls n="M.">4,29.</ls> <ls>YĀJÑ. 1,82.</ls> <ls n="YĀJÑ.">3,16.</ls> <ls>R. 2,61,5.</ls> <ls>SUŚR. 1,241,10. 246,2. 3. 2,79,7.</ls> <ls>BHARTṚ. 3,55. 92.</ls> <ls>ŚĀNTIŚ. 2,20.</ls> <ls>PAÑCAT. 192,12.</ls> <ls>KATHĀS. 14,39.</ls> {#PalamUlEH kftASanAH#}
+;
+58216 new <ls>ŚAT. BR. 1,3,1,10. 11. 6,3,2,5. 12. 7,2,5.</ls> u.s.w. <ls>BṚH. ĀR. UP. 1,4,16.</ls> <ls>NIR. 6,9.</ls> <ls>M. 2,54.</ls> <ls n="M. 2,">55.</ls> <ls n="M.">3,59.</ls> <ls n="M.">4,29.</ls> <ls>YĀJÑ. 1,82.</ls> <ls n="YĀJÑ.">3,16.</ls> <ls>R. 2,61,5.</ls> <ls>SUŚR. 1,241,10. 246,2. 3. 2,79,7.</ls> <ls>BHARTṚ. 3,55.</ls> <ls n="BHARTṚ. 3,">92.</ls> <ls>ŚĀNTIŚ. 2,20.</ls> <ls>PAÑCAT. 192,12.</ls> <ls>KATHĀS. 14,39.</ls> {#PalamUlEH kftASanAH#}
+;---------------------------------------------------
+; <L>7836<pc>1-0588<k1>Akula<k2>Akula
+66769 old <ls>BHARTṚ. 2,4. 3,11.</ls> {#vAzpAkulAM vAcam#}
+;
+66769 new <ls>BHARTṚ. 2,4.</ls> <ls n="BHARTṚ.">3,11.</ls> {#vAzpAkulAM vAcam#}
+;---------------------------------------------------
+; <L>8970<pc>1-0672<k1>Amoda<k2>Amo/da
+76623 old <ls>BHARTṚ. 1,37. 96.</ls>
+;
+76623 new <ls>BHARTṚ. 1,37.</ls> <ls n="BHARTṚ. 1,">96.</ls>
+;---------------------------------------------------
+; <L>8970<pc>1-0672<k1>Amoda<k2>Amo/da
+76632 old <ls>BHARTṚ. 1,39. 40.</ls>
+;
+76632 new <ls>BHARTṚ. 1,39.</ls> <ls n="BHARTṚ. 1,">40.</ls>
+;---------------------------------------------------
+; <L>9476<pc>1-0710<k1>AvAsa<k2>AvAsa
+81157 old <ls>BHARTṚ. 1,31. 35.</ls>
+;
+81157 new <ls>BHARTṚ. 1,31.</ls> <ls n="BHARTṚ. 1,">35.</ls>
+;---------------------------------------------------
+; <L>10279<pc>1-0812<k1>inDana<k2>inDana
+91010 old <ls n="SUŚR.">2,75,13.</ls> <ls n="SUŚR. 2,">405,3.</ls> <ls>BHARTṚ. 1,90. 2,98.</ls> <ls>PAÑCAT. I,369.</ls> <ls>ŚĀK. 158.</ls> <ls>RAGH. 11,21.</ls> <ls>AMAR. 98.</ls>
+;
+91010 new <ls n="SUŚR.">2,75,13.</ls> <ls n="SUŚR. 2,">405,3.</ls> <ls>BHARTṚ. 1,90.</ls> <ls n="BHARTṚ.">2,98.</ls> <ls>PAÑCAT. I,369.</ls> <ls>ŚĀK. 158.</ls> <ls>RAGH. 11,21.</ls> <ls>AMAR. 98.</ls>
+;---------------------------------------------------
+; <L>10286<pc>1-0813<k1>iBa<k2>iBa<h>2
+91055 old <ls>BHARTṚ. 1,5. 58.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+;
+91055 new <ls>BHARTṚ. 1,5.</ls> <ls n="BHARTṚ. 1,">58.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+;---------------------------------------------------
+; <L>11218<pc>1-0912<k1>udanvant<k2>udanva/nt
+101362 old <ls>BHARTṚ. 1,71. 3,20.</ls>
+;
+101362 new <ls>BHARTṚ. 1,71.</ls> <ls n="BHARTṚ.">3,20.</ls>
+;---------------------------------------------------
+; <L>11927<pc>1-0961<k1>upaBoga<k2>upaBoga
+107361 old <ls>BHARTṚ. 3,14. 38.</ls>
+;
+107361 new <ls>BHARTṚ. 3,14.</ls> <ls n="BHARTṚ. 3,">38.</ls>
+;---------------------------------------------------
+; <L>13428<pc>1-1085<k1>ekAnta<k2>ekAnta<h>1
+121036 old <ls>BHARTṚ. 3,14. 52.</ls>
+;
+121036 new <ls>BHARTṚ. 3,14.</ls> <ls n="BHARTṚ. 3,">52.</ls>
+;---------------------------------------------------
+; <L>14621<pc>2-0041<k1>kaTana<k2>kaTana
+132442 old <ls>BHARTṚ. 2,54. 59.</ls>
+;
+132442 new <ls>BHARTṚ. 2,54.</ls> <ls n="BHARTṚ. 2,">59.</ls>
+;---------------------------------------------------
+; <L>14747<pc>2-0055<k1>kanTA<k2>kanTA
+133880 old <ls>BHARTṚ. 3,16. 92. 95.</ls> {#kanTAkaYcukita#}
+;
+133880 new <ls>BHARTṚ. 3,16.</ls> <ls n="BHARTṚ. 3,">92.</ls> <ls n="BHARTṚ. 3,">95.</ls> {#kanTAkaYcukita#}
+;---------------------------------------------------
+; <L>15603<pc>2-0150<k1>kal<k2>kal<h>2
+144042 old <ls>BHARTṚ. 3,36. 81.</ls>
+;
+144042 new <ls>BHARTṚ. 3,36.</ls> <ls n="BHARTṚ. 3,">81.</ls>
+;---------------------------------------------------
+; <L>15616<pc>2-0153<k1>kalaNka<k2>kalaNka
+144257 old <ls>BHARTṚ. 3,48. 1,66, v. l.</ls> {#dUzitasyApi me 'dya praKalapuruzavAkyEH — vyapanayatu kalaNkaM svasvaBAvena sEva#}
+;
+144257 new <ls>BHARTṚ. 3,48.</ls> <ls n="BHARTṚ.">1,66, v. l.</ls> {#dUzitasyApi me 'dya praKalapuruzavAkyEH — vyapanayatu kalaNkaM svasvaBAvena sEva#}
+;---------------------------------------------------
+; <L>15678<pc>2-0157<k1>kalA<k2>ka/lA
+144874 old <ls>BHARTṚ. 2,19. 91.</ls> {#sakalakalApAraM gato 'maraSaktirnAma rAjA#}
+;
+144874 new <ls>BHARTṚ. 2,19.</ls> <ls n="BHARTṚ. 2,">91.</ls> {#sakalakalApAraM gato 'maraSaktirnAma rAjA#}
+;---------------------------------------------------
+; <L>15693<pc>2-0159<k1>kalApa<k2>kalApa
+145003 old <ls>BHARTṚ. 1,56. 66</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}).
+;
+145003 new <ls>BHARTṚ. 1,56.</ls> <ls n="BHARTṚ. 1,">66</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}).
+;---------------------------------------------------
+; <L>16169<pc>2-0205<k1>kAYcI<k2>kAYcI
+150043 old <ls n="BHĀG. P.">4,8,49.</ls> <ls>BHARTṚ. 1,56. 66.</ls> Am Ende eines adv. comp. {#kAYci#}
+;
+150043 new <ls n="BHĀG. P.">4,8,49.</ls> <ls>BHARTṚ. 1,56.</ls> <ls n="BHARTṚ. 1,">66.</ls> Am Ende eines adv. comp. {#kAYci#}
+;---------------------------------------------------
+; <L>17290<pc>2-0292<k1>kila<k2>ki/la<h>1
+160233 old <ls>MBH.</ls> in <ls>BENF. Chr. 14,18. 48,12. 52,14. 54,15. 16. 59,22.</ls> <ls>INDR. 5,28.</ls> <ls>BRĀHMAṆ. 3,11.</ls> <ls>N. 22,21.</ls> <ls n="N.">24,19.</ls> <ls>R. 1,4,31.</ls> <ls n="R. 1,">5,1.</ls> <ls n="R. 1,">20,3.</ls> <ls n="R. 1,">34,18.</ls> <ls n="R. 1,">45,17.</ls> <ls n="R.">2,61,12.</ls> <ls n="R.">3,4,3.</ls> <ls n="R. 3,4,">11.</ls> <ls n="R. 3,4,">12.</ls> <ls n="R. 3,4,">14.</ls> <ls n="R. 3,4,">42</ls> u.s.w. <ls>SUŚR. 1,136,9.</ls> <ls>BHARTṚ. 1,35. 79.</ls> <ls>MṚCCH. 1,11. 102,13. 142,1. 154,5. 172,23.</ls> <ls>ŚĀK. 17. 35. 41. 121. 157. 17,21. 78,18. 83,7. 90,19.</ls> <ls>PAÑCAT. Pr. 10. I,88. 348. 416. II,70. III,171. V,18. 167,1.</ls> <ls>MEGH. 101. 106.</ls> <ls>RAGH. 1,27.</ls> <ls n="RAGH.">2,27.</ls> <ls n="RAGH. 2,">53.</ls> <ls n="RAGH.">4,5.</ls> <ls n="RAGH.">12,5.</ls> <ls n="RAGH. 12,">22.</ls> <ls>KUMĀRAS. 1,51.</ls> <ls>VID. 2.</ls> <ls n="VID.">14.</ls> <ls>ŚRUT. (BR.) 5. 37.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 179,17. 182,2. 186,23. 201,4.</ls> Als v.l. für {#Kalu#}
+;
+160233 new <ls>MBH.</ls> in <ls>BENF. Chr. 14,18. 48,12. 52,14. 54,15. 16. 59,22.</ls> <ls>INDR. 5,28.</ls> <ls>BRĀHMAṆ. 3,11.</ls> <ls>N. 22,21.</ls> <ls n="N.">24,19.</ls> <ls>R. 1,4,31.</ls> <ls n="R. 1,">5,1.</ls> <ls n="R. 1,">20,3.</ls> <ls n="R. 1,">34,18.</ls> <ls n="R. 1,">45,17.</ls> <ls n="R.">2,61,12.</ls> <ls n="R.">3,4,3.</ls> <ls n="R. 3,4,">11.</ls> <ls n="R. 3,4,">12.</ls> <ls n="R. 3,4,">14.</ls> <ls n="R. 3,4,">42</ls> u.s.w. <ls>SUŚR. 1,136,9.</ls> <ls>BHARTṚ. 1,35.</ls> <ls n="BHARTṚ. 1,">79.</ls> <ls>MṚCCH. 1,11. 102,13. 142,1. 154,5. 172,23.</ls> <ls>ŚĀK. 17. 35. 41. 121. 157. 17,21. 78,18. 83,7. 90,19.</ls> <ls>PAÑCAT. Pr. 10. I,88. 348. 416. II,70. III,171. V,18. 167,1.</ls> <ls>MEGH. 101. 106.</ls> <ls>RAGH. 1,27.</ls> <ls n="RAGH.">2,27.</ls> <ls n="RAGH. 2,">53.</ls> <ls n="RAGH.">4,5.</ls> <ls n="RAGH.">12,5.</ls> <ls n="RAGH. 12,">22.</ls> <ls>KUMĀRAS. 1,51.</ls> <ls>VID. 2.</ls> <ls n="VID.">14.</ls> <ls>ŚRUT. (BR.) 5. 37.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 179,17. 182,2. 186,23. 201,4.</ls> Als v.l. für {#Kalu#}
+;---------------------------------------------------
+; <L>17465<pc>2-0307<k1>kuNkuma<k2>kuNkuma
+161918 old <ls>BHARTṚ. 1,9. 24.</ls> {#kuNkumArdre tasyAH payoDarayuge#}
+;
+161918 new <ls>BHARTṚ. 1,9.</ls> <ls n="BHARTṚ. 1,">24.</ls> {#kuNkumArdre tasyAH payoDarayuge#}
+;---------------------------------------------------
+; <L>18393<pc>2-0376<k1>kuhara<k2>kuhara
+170348 old <ls>BHARTṚ. 3,29. 88.</ls>
+;
+170348 new <ls>BHARTṚ. 3,29.</ls> <ls n="BHARTṚ. 3,">88.</ls>
+;---------------------------------------------------
+; <L>18681<pc>2-0399<k1>kftin<k2>kftin
+173046 old <ls>BHARTṚ. 1,55. 2,16.</ls>
+;
+173046 new <ls>BHARTṚ. 1,55.</ls> <ls n="BHARTṚ.">2,16.</ls>
+;---------------------------------------------------
+; <L>20228<pc>2-0540<k1>kzAma<k2>kzAma
+188705 old <ls>PAÑCAT. II,200. 131,2.</ls> <ls>BHARTṚ. 1,63. 2,22.</ls> <ls>RĀJA-TAR. 5,433.</ls> {#udara#}
+;
+188705 new <ls>PAÑCAT. II,200. 131,2.</ls> <ls>BHARTṚ. 1,63.</ls> <ls n="BHARTṚ.">2,22.</ls> <ls>RĀJA-TAR. 5,433.</ls> {#udara#}
+;---------------------------------------------------
+; <L>20293<pc>2-0548<k1>kzitiDara<k2>kzitiDara
+189464 old <ls>HALĀY.</ls> im <ls>ŚKDR.</ls> <ls>BHARTṚ. 2,10. 3,88.</ls> <ls>KUMĀRAS. 7,94.</ls> ad <ls>ŚĀK. 78.</ls>
+;
+189464 new <ls>HALĀY.</ls> im <ls>ŚKDR.</ls> <ls>BHARTṚ. 2,10.</ls> <ls n="BHARTṚ.">3,88.</ls> <ls>KUMĀRAS. 7,94.</ls> ad <ls>ŚĀK. 78.</ls>
+;---------------------------------------------------
+; <L>21498<pc>2-0638<k1>gaRay<k2>gaRay
+200302 old <ls n="R.">6,105,6.</ls> <ls>SUŚR. 1,109,1.</ls> <ls>MṚCCH. 75,7.</ls> <ls>BHARTṚ. 2,9. 79.</ls> <ls>ŚĀK. 94. 160.</ls> <ls>PAÑCAT. I,443.</ls> <ls>HIT. II,135.</ls> <ls>SĀH. D. 18,13.</ls> <ls n="SĀH. D.">34,22.</ls> <ls>BHAṬṬ. 2,53. 15,5. 45.</ls> {#praRayamagaRayitvA mama#}
+;
+200302 new <ls n="R.">6,105,6.</ls> <ls>SUŚR. 1,109,1.</ls> <ls>MṚCCH. 75,7.</ls> <ls>BHARTṚ. 2,9.</ls> <ls n="BHARTṚ. 2,">79.</ls> <ls>ŚĀK. 94. 160.</ls> <ls>PAÑCAT. I,443.</ls> <ls>HIT. II,135.</ls> <ls>SĀH. D. 18,13.</ls> <ls n="SĀH. D.">34,22.</ls> <ls>BHAṬṬ. 2,53. 15,5. 45.</ls> {#praRayamagaRayitvA mama#}
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+203948 old <ls>BHARTṚ. 2,14. 55.</ls>
+;
+203948 new <ls>BHARTṚ. 2,14.</ls> <ls n="BHARTṚ. 2,">55.</ls>
+;---------------------------------------------------
+; <L>22048<pc>2-0709<k1>gal<k2>gal<h>1
+207627 old <ls>BHARTṚ. 1,69. 2,46.</ls> {#°viBava#}
+;
+207627 new <ls>BHARTṚ. 1,69.</ls> <ls n="BHARTṚ.">2,46.</ls> {#°viBava#}
+;---------------------------------------------------
+; <L>23813<pc>2-0861<k1>grAvan<k2>grA/van
+225191 old <ls>MED. n. 58.</ls> <ls>MBH. 3,16435.</ls> <ls>BHARTṚ. 3,29. 79.</ls> <ls>ŚĀNTIŚ. 4,3.</ls> <ls>PRAB. 76,14.</ls> <ls>BHĀG. P. 4,5,18.</ls> <ls>ŚIŚ. 4,23.</ls>
+;
+225191 new <ls>MED. n. 58.</ls> <ls>MBH. 3,16435.</ls> <ls>BHARTṚ. 3,29.</ls> <ls n="BHARTṚ. 3,">79.</ls> <ls>ŚĀNTIŚ. 4,3.</ls> <ls>PRAB. 76,14.</ls> <ls>BHĀG. P. 4,5,18.</ls> <ls>ŚIŚ. 4,23.</ls>
+;---------------------------------------------------
+; <L>24433<pc>2-0920<k1>caYcala<k2>caYcala
+231948 old <ls>BHARTṚ. 3,36. 81.</ls> {#SrIH#}
+;
+231948 new <ls>BHARTṚ. 3,36.</ls> <ls n="BHARTṚ. 3,">81.</ls> {#SrIH#}
+;---------------------------------------------------
+; <L>28090<pc>3-0173<k1>Jawiti<k2>Jawiti
+272032 old <ls>BHARTṚ. 1,69. 95.</ls>
+;
+272032 new <ls>BHARTṚ. 1,69.</ls> <ls n="BHARTṚ. 1,">95.</ls>
+;---------------------------------------------------
+; <L>28513<pc>3-0210<k1>tad<k2>tad
+276133 old <ls>BHARTṚ. 1,28. 94. 2,77. 3,10. 17. 28.</ls>
+;
+276133 new <ls>BHARTṚ. 1,28.</ls> <ls n="BHARTṚ. 1,">94.</ls> <ls n="BHARTṚ.">2,77.</ls> <ls n="BHARTṚ.">3,10.</ls> <ls n="BHARTṚ. 3,">17.</ls> <ls n="BHARTṚ. 3,">28.</ls>
+;---------------------------------------------------
+; <L>28529<pc>3-0212<k1>tadIya<k2>tadI/ya
+276289 old <ls>BHARTṚ. 1,51. 2,68.</ls> <ls>RAGH. 1,81.</ls> <ls n="RAGH.">2,28.</ls> <ls n="RAGH.">3,8.</ls> <ls n="RAGH. 3,">25.</ls> <ls n="RAGH. 3,">68.</ls> <ls>PAÑCAT. 182,2.</ls> <ls>KATHĀS. 10,136.</ls> <ls n="KATHĀS.">18,114.</ls> <ls n="KATHĀS. 18,">293.</ls> <ls n="KATHĀS.">20,10.</ls> <ls n="KATHĀS.">22,128.</ls> <ls>RĀJA-TAR. 4,330.</ls> <ls>CAURAP. 43.</ls> <ls>DHŪRTAS. 92,5.</ls> <ls>BHĀG. P. 2,7,35.</ls> <ls n="BHĀG. P.">3,1,31.</ls> <ls n="BHĀG. P. 3,">15,44.</ls> <ls n="BHĀG. P.">4,22,48.</ls> <ls n="BHĀG. P.">6,15,28.</ls> <ls n="BHĀG. P.">9,11,14.</ls> <ls n="BHĀG. P. 9,">19,21.</ls> <ls>VEDĀNTAS. (Allah.) No. 4.</ls> Sch. zu <ls>JAIM. 1,1,21.</ls>
+;
+276289 new <ls>BHARTṚ. 1,51.</ls> <ls n="BHARTṚ.">2,68.</ls> <ls>RAGH. 1,81.</ls> <ls n="RAGH.">2,28.</ls> <ls n="RAGH.">3,8.</ls> <ls n="RAGH. 3,">25.</ls> <ls n="RAGH. 3,">68.</ls> <ls>PAÑCAT. 182,2.</ls> <ls>KATHĀS. 10,136.</ls> <ls n="KATHĀS.">18,114.</ls> <ls n="KATHĀS. 18,">293.</ls> <ls n="KATHĀS.">20,10.</ls> <ls n="KATHĀS.">22,128.</ls> <ls>RĀJA-TAR. 4,330.</ls> <ls>CAURAP. 43.</ls> <ls>DHŪRTAS. 92,5.</ls> <ls>BHĀG. P. 2,7,35.</ls> <ls n="BHĀG. P.">3,1,31.</ls> <ls n="BHĀG. P. 3,">15,44.</ls> <ls n="BHĀG. P.">4,22,48.</ls> <ls n="BHĀG. P.">6,15,28.</ls> <ls n="BHĀG. P.">9,11,14.</ls> <ls n="BHĀG. P. 9,">19,21.</ls> <ls>VEDĀNTAS. (Allah.) No. 4.</ls> Sch. zu <ls>JAIM. 1,1,21.</ls>
+;---------------------------------------------------
+; <L>28590<pc>3-0225<k1>tanuBft<k2>tanuBft
+277439 old <ls>BHARTṚ. 3,36. 68.</ls>
+;
+277439 new <ls>BHARTṚ. 3,36.</ls> <ls n="BHARTṚ. 3,">68.</ls>
+;---------------------------------------------------
+; <L>28907<pc>3-0267<k1>tarala<k2>tarala/
+281744 old <ls>BHARTṚ. 1,15. 92.</ls>
+;
+281744 new <ls>BHARTṚ. 1,15.</ls> <ls n="BHARTṚ. 1,">92.</ls>
+;---------------------------------------------------
+; <L>28949<pc>3-0270<k1>taruRa<k2>ta/ruRa
+282187 old <ls>BHARTṚ. 1,41. 3,32.</ls>
+;
+282187 new <ls>BHARTṚ. 1,41.</ls> <ls n="BHARTṚ.">3,32.</ls>
+;---------------------------------------------------
+; <L>29417<pc>3-0310<k1>tAruRya<k2>tAruRya
+286890 old <ls>BHARTṚ. 1,6. 92. 3,47.</ls>
+;
+286890 new <ls>BHARTṚ. 1,6.</ls> <ls n="BHARTṚ. 1,">92.</ls> <ls n="BHARTṚ.">3,47.</ls>
+;---------------------------------------------------
+; <L>29523<pc>3-0318<k1>tAvant<k2>tA/vant
+287964 old <ls>BHARTṚ. 1,55. 59.</ls>
+;
+287964 new <ls>BHARTṚ. 1,55.</ls> <ls n="BHARTṚ. 1,">59.</ls>
+;---------------------------------------------------
+; <L>29925<pc>3-0352<k1>tuNga<k2>tuNga
+291739 old <ls>BHARTṚ. 3,21. 2,77.</ls>
+;
+291739 new <ls>BHARTṚ. 3,21.</ls> <ls n="BHARTṚ.">2,77.</ls>
+;---------------------------------------------------
+; <L>30736<pc>3-0408<k1>tyaj<k2>tyaj<h>1
+298709 old <ls>BHARTṚ. 3,16. 14.</ls> {#sarvAnparityajedarTAnsvADyAyasya viroDinaH#}
+;
+298709 new <ls>BHARTṚ. 3,16.</ls> <ls n="BHARTṚ. 3,">14.</ls> {#sarvAnparityajedarTAnsvADyAyasya viroDinaH#}
+;---------------------------------------------------
+; <L>30744<pc>3-0412<k1>tyAga<k2>tyA/ga
+298899 old <ls>BHARTṚ. 2,34. 55.</ls>
+;
+298899 new <ls>BHARTṚ. 2,34.</ls> <ls n="BHARTṚ. 2,">55.</ls>
+;---------------------------------------------------
+; <L>32065<pc>3-0524<k1>dara<k2>dara
+311127 old <ls>BHARTṚ. 3,30. 79.</ls>
+;
+311127 new <ls>BHARTṚ. 3,30.</ls> <ls n="BHARTṚ. 3,">79.</ls>
+;---------------------------------------------------
+; <L>32382<pc>3-0564<k1>dahana<k2>dahana
+315118 old <ls>BHARTṚ. 2,29. 3,19.</ls>
+;
+315118 new <ls>BHARTṚ. 2,29.</ls> <ls n="BHARTṚ.">3,19.</ls>
+;---------------------------------------------------
+; <L>33063<pc>3-0627<k1>diS<k2>diS<h>1
+322325 old <ls>BHARTṚ. 2,54. 61.</ls>
+;
+322325 new <ls>BHARTṚ. 2,54.</ls> <ls n="BHARTṚ. 2,">61.</ls>
+;---------------------------------------------------
+; <L>33121<pc>3-0649<k1>dIpa<k2>dIpa
+323722 old <ls>BHARTṚ. 3,81. 89.</ls> {#niSITa°#}
+;
+323722 new <ls>BHARTṚ. 3,81.</ls> <ls n="BHARTṚ. 3,">89.</ls> {#niSITa°#}
+;---------------------------------------------------
+; <L>33606<pc>3-0681<k1>durjana<k2>durjana
+327641 old <ls>BHARTṚ. 2,18. 19.</ls>
+;
+327641 new <ls>BHARTṚ. 2,18.</ls> <ls n="BHARTṚ. 2,">19.</ls>
+;---------------------------------------------------
+; <L>34104<pc>3-0717<k1>dUra<k2>dUra/
+331884 old <ls n="ṚV.">3,33,9.</ls> <ls n="ṚV.">5,83,3.</ls> <ls n="ṚV.">6,38,2.</ls> <ls n="ṚV.">7,33,1.</ls> <ls n="ṚV. 7,33,">2.</ls> <ls>AV. 5,18,9.</ls> <ls n="AV.">7,45,1.</ls> <ls>KĀTY. ŚR. 1,8,19.</ls> <ls>P. 1,2,33.</ls> <ls>M. 2,186.</ls> <ls>R. 1,9,53.</ls> <ls n="R.">2,23,26.</ls> <ls n="R.">3,22,19.</ls> <ls n="R. 3,">37,5.</ls> <ls n="R. 3,">48,10.</ls> <ls>BHARTṚ. 1,83. 3,18.</ls> <ls>RAGH. 1,61.</ls> <ls>MEGH. 73.</ls> <ls>VID. 50.</ls> <ls>HIT. I,46. 173. 14,9. 27. 1.</ls> <ls>BHĀG. P. 3,1,29.</ls> {#dUrAdAvasaTAt#} {%fern von%}
+;
+331884 new <ls n="ṚV.">3,33,9.</ls> <ls n="ṚV.">5,83,3.</ls> <ls n="ṚV.">6,38,2.</ls> <ls n="ṚV.">7,33,1.</ls> <ls n="ṚV. 7,33,">2.</ls> <ls>AV. 5,18,9.</ls> <ls n="AV.">7,45,1.</ls> <ls>KĀTY. ŚR. 1,8,19.</ls> <ls>P. 1,2,33.</ls> <ls>M. 2,186.</ls> <ls>R. 1,9,53.</ls> <ls n="R.">2,23,26.</ls> <ls n="R.">3,22,19.</ls> <ls n="R. 3,">37,5.</ls> <ls n="R. 3,">48,10.</ls> <ls>BHARTṚ. 1,83.</ls> <ls n="BHARTṚ.">3,18.</ls> <ls>RAGH. 1,61.</ls> <ls>MEGH. 73.</ls> <ls>VID. 50.</ls> <ls>HIT. I,46. 173. 14,9. 27. 1.</ls> <ls>BHĀG. P. 3,1,29.</ls> {#dUrAdAvasaTAt#} {%fern von%}
+;---------------------------------------------------
+; <L>34334<pc>3-0732<k1>dfzad<k2>dfza/d
+333600 old <ls>BHARTṚ. 2,77. 1,45.</ls>
+;
+333600 new <ls>BHARTṚ. 2,77.</ls> <ls n="BHARTṚ.">1,45.</ls>
+;---------------------------------------------------
+; <L>34362<pc>3-0735<k1>dfzwipAta<k2>dfzwipAta
+333865 old <ls>BHARTṚ. 1,10. 93.</ls>
+;
+333865 new <ls>BHARTṚ. 1,10.</ls> <ls n="BHARTṚ. 1,">93.</ls>
+;---------------------------------------------------
+; <L>34914<pc>3-0771<k1>dEnya<k2>dEnya
+338267 old <ls>BHARTṚ. 2,44.</ls> — <ls>P. 6,4,61.</ls> <ls>ARJ. 4,48.</ls> <ls>R. 2,60,8.</ls> <ls>SUŚR. 1,4,10. 245,9. 374,3.</ls> <ls>BHARTṚ. 3,31. 32.</ls> <ls>VARĀH. BṚH. S. 104,6. fgg.</ls> <ls>PAÑCAT. II,105.</ls> Cit. beim Schol. zu <ls>ŚĀK. 5,5.</ls>
+;
+338267 new <ls>BHARTṚ. 2,44.</ls> — <ls>P. 6,4,61.</ls> <ls>ARJ. 4,48.</ls> <ls>R. 2,60,8.</ls> <ls>SUŚR. 1,4,10. 245,9. 374,3.</ls> <ls>BHARTṚ. 3,31.</ls> <ls n="BHARTṚ. 3,">32.</ls> <ls>VARĀH. BṚH. S. 104,6. fgg.</ls> <ls>PAÑCAT. II,105.</ls> Cit. beim Schol. zu <ls>ŚĀK. 5,5.</ls>
+;---------------------------------------------------
+; <L>35170<pc>3-0790<k1>dyuti<k2>dyuti
+340431 old <ls>BHARTṚ. 1,66. 79.</ls> {#tuzArakaluzadyutI raviSaSANkO#}
+;
+340431 new <ls>BHARTṚ. 1,66.</ls> <ls n="BHARTṚ. 1,">79.</ls> {#tuzArakaluzadyutI raviSaSANkO#}
+;---------------------------------------------------
+; <L>35576<pc>3-0824<k1>dvAra<k2>dvA/ra
+344313 old <ls n="MBH.">14,147.</ls> <ls>M. 5,92.</ls> <ls>BHARTṚ. 1,62. 66. 3,66.</ls> <ls>KATHĀS. 18,104.</ls> {#snOGna#} {%das nach%} <is>Srughna</is> {%hinausführende Thor%}
+;
+344313 new <ls n="MBH.">14,147.</ls> <ls>M. 5,92.</ls> <ls>BHARTṚ. 1,62.</ls> <ls n="BHARTṚ. 1,">66.</ls> <ls n="BHARTṚ.">3,66.</ls> <ls>KATHĀS. 18,104.</ls> {#snOGna#} {%das nach%} <is>Srughna</is> {%hinausführende Thor%}
+;---------------------------------------------------
+; <L>36135<pc>3-0861<k1>Danya<k2>Da/nya
+348721 old <ls>BHARTṚ. 1,46. 71.</ls>
+;
+348721 new <ls>BHARTṚ. 1,46.</ls> <ls n="BHARTṚ. 1,">71.</ls>
+;---------------------------------------------------
+; <L>36187<pc>3-0877<k1>Dara<k2>Dara
+349999 old <ls>BHARTṚ. 2,79. 3,95.</ls>
+;
+349999 new <ls>BHARTṚ. 2,79.</ls> <ls n="BHARTṚ.">3,95.</ls>
+;---------------------------------------------------
+; <L>36774<pc>3-0966<k1>DIra<k2>DI/ra<h>1
+358211 old <ls>BHARTṚ. 2,72. 41. 81.</ls> {#alpasattvezu DIrARAmavajYEva hi SoBate#}
+;
+358211 new <ls>BHARTṚ. 2,72.</ls> <ls n="BHARTṚ. 2,">41.</ls> <ls n="BHARTṚ. 2,">81.</ls> {#alpasattvezu DIrARAmavajYEva hi SoBate#}
+;---------------------------------------------------
+; <L>36793<pc>3-0968<k1>DIvara<k2>DIvara/
+358408 old <ls>BHARTṚ. 1,84. 2,51.</ls>
+;
+358408 new <ls>BHARTṚ. 1,84.</ls> <ls n="BHARTṚ.">2,51.</ls>
+;---------------------------------------------------
+; <L>37042<pc>3-0994<k1>DErya<k2>DErya<h>1
+361201 old <ls>BHARTṚ. 2,53. 75. 3,36.</ls>
+;
+361201 new <ls>BHARTṚ. 2,53.</ls> <ls n="BHARTṚ. 2,">75.</ls> <ls n="BHARTṚ.">3,36.</ls>
+;---------------------------------------------------
+; <L>37120<pc>3-1000<k1>Dyeya<k2>Dyeya
+361862 old <ls>BHARTṚ. 1,7. 3,88</ls> (nach der richtigen Lesart).
+;
+361862 new <ls>BHARTṚ. 1,7.</ls> <ls n="BHARTṚ.">3,88</ls> (nach der richtigen Lesart).
+;---------------------------------------------------
+; <L>37457<pc>4-0017<k1>nawa<k2>na/wa
+365383 old <ls>BHARTṚ. 3,51. 57.</ls>
+;
+365383 new <ls>BHARTṚ. 3,51.</ls> <ls n="BHARTṚ. 3,">57.</ls>
+;---------------------------------------------------
+; <L>37552<pc>4-0025<k1>nanu<k2>nanu/
+366302 old <ls>BHARTṚ. 1,51. 2,85. 92.</ls>
+;
+366302 new <ls>BHARTṚ. 1,51.</ls> <ls n="BHARTṚ.">2,85.</ls> <ls n="BHARTṚ. 2,">92.</ls>
+;---------------------------------------------------
+; <L>38462<pc>4-0112<k1>nAman<k2>nA/man
+375815 old <ls>BHARTṚ. 1,73. 2,17. 47.</ls>
+;
+375815 new <ls>BHARTṚ. 1,73.</ls> <ls n="BHARTṚ.">2,17.</ls> <ls n="BHARTṚ. 2,">47.</ls>
+;---------------------------------------------------
+; <L>38462<pc>4-0112<k1>nAman<k2>nA/man
+375840 old <ls>BHARTṚ. 1,21. 81. 2,44.</ls> ad <ls>ŚĀK. 94.</ls> <ls>KATHĀS. 4,133.</ls> <ls n="KATHĀS.">16,9.</ls> <ls>PAÑCAT. I,351. 165,6.</ls> <ls>HIT. I,104. II,144. 154.</ls> <ls>RĀJA-TAR. 3,257.</ls> <ls>BRAHMA-P. in LA. 49,12.</ls> <ls>BHĀG. P. 1,18,14.</ls> <ls n="BHĀG. P.">4,26,15.</ls> <ls>PRAB. 29,13.</ls> <ls n="PRAB.">33,17.</ls> <ls>P. 3,3,143</ls>, <ls>Sch.</ls> {#kimiva nAma#}
+;
+375840 new <ls>BHARTṚ. 1,21.</ls> <ls n="BHARTṚ. 1,">81.</ls> <ls n="BHARTṚ.">2,44.</ls> ad <ls>ŚĀK. 94.</ls> <ls>KATHĀS. 4,133.</ls> <ls n="KATHĀS.">16,9.</ls> <ls>PAÑCAT. I,351. 165,6.</ls> <ls>HIT. I,104. II,144. 154.</ls> <ls>RĀJA-TAR. 3,257.</ls> <ls>BRAHMA-P. in LA. 49,12.</ls> <ls>BHĀG. P. 1,18,14.</ls> <ls n="BHĀG. P.">4,26,15.</ls> <ls>PRAB. 29,13.</ls> <ls n="PRAB.">33,17.</ls> <ls>P. 3,3,143</ls>, <ls>Sch.</ls> {#kimiva nAma#}
+;---------------------------------------------------
+; <L>38824<pc>4-0143<k1>nija<k2>nija/
+379176 old <ls n="MBH.">15,355.</ls> <ls>RAGH. 3,15.</ls> <ls n="RAGH.">18,27.</ls> ad <ls>ŚĀK. 19.</ls> <ls>BHARTṚ. 2,41. 49.</ls> <ls>KATHĀS. 2,75.</ls> <ls n="KATHĀS.">4,5.</ls> <ls n="KATHĀS. 4,">28.</ls> <ls n="KATHĀS. 4,">69.</ls> <ls n="KATHĀS.">8,34.</ls> <ls n="KATHĀS. 8,">35.</ls> <ls>VID. 8.</ls> <ls n="VID.">35.</ls> <ls n="VID.">78.</ls> <ls n="VID.">135.</ls> <ls n="VID.">182.</ls> <ls n="VID.">196.</ls> <ls n="VID.">228.</ls> <ls n="VID.">338.</ls> <ls>PAÑCAT. I,368. 128,1.</ls> <ls>HIT. 30,2.</ls> <ls n="HIT.">I,107.</ls> <ls n="HIT. I,">148.</ls> {#ayaM nijaH paro vA#}
+;
+379176 new <ls n="MBH.">15,355.</ls> <ls>RAGH. 3,15.</ls> <ls n="RAGH.">18,27.</ls> ad <ls>ŚĀK. 19.</ls> <ls>BHARTṚ. 2,41.</ls> <ls n="BHARTṚ. 2,">49.</ls> <ls>KATHĀS. 2,75.</ls> <ls n="KATHĀS.">4,5.</ls> <ls n="KATHĀS. 4,">28.</ls> <ls n="KATHĀS. 4,">69.</ls> <ls n="KATHĀS.">8,34.</ls> <ls n="KATHĀS. 8,">35.</ls> <ls>VID. 8.</ls> <ls n="VID.">35.</ls> <ls n="VID.">78.</ls> <ls n="VID.">135.</ls> <ls n="VID.">182.</ls> <ls n="VID.">196.</ls> <ls n="VID.">228.</ls> <ls n="VID.">338.</ls> <ls>PAÑCAT. I,368. 128,1.</ls> <ls>HIT. 30,2.</ls> <ls n="HIT.">I,107.</ls> <ls n="HIT. I,">148.</ls> {#ayaM nijaH paro vA#}
+;---------------------------------------------------
+; <L>38840<pc>4-0144<k1>nitamba<k2>nitamba
+379291 old <ls>BHARTṚ. 1,5. 18</ls> (zugleich in Bed. {%b%}).
+;
+379291 new <ls>BHARTṚ. 1,5.</ls> <ls n="BHARTṚ. 1,">18</ls> (zugleich in Bed. {%b%}).
+;---------------------------------------------------
+; <L>38842<pc>4-0144<k1>nitambin<k2>nitambin
+379348 old <ls>BHARTṚ. 1,28. 54. 75.</ls>
+;
+379348 new <ls>BHARTṚ. 1,28.</ls> <ls n="BHARTṚ. 1,">54.</ls> <ls n="BHARTṚ. 1,">75.</ls>
+;---------------------------------------------------
+; <L>38844<pc>4-0144<k1>nitarAm<k2>nitarA/m
+379370 old <ls>BHARTṚ. 1,95. 2,15. 41. 3,53.</ls> {#(vaktram) prApnomyahaM yadi punaH suratEkatIrTaM #}
+;
+379370 new <ls>BHARTṚ. 1,95.</ls> <ls n="BHARTṚ.">2,15.</ls> <ls n="BHARTṚ. 2,">41.</ls> <ls n="BHARTṚ.">3,53.</ls> {#(vaktram) prApnomyahaM yadi punaH suratEkatIrTaM #}
+;---------------------------------------------------
+; <L>38876<pc>4-0147<k1>nid<k2>nid<h>1
+379696 old <ls>R. 5,11,15.</ls> — <ls>BHARTṚ. 1,57. 2,81.</ls> <ls>RĀJA-TAR. 3,211.</ls> <ls>BHĀG. P. 7,10,14.</ls> {#sa nininda kilAtmAnaM na tu taM lubDakaM punaH#}
+;
+379696 new <ls>R. 5,11,15.</ls> — <ls>BHARTṚ. 1,57.</ls> <ls n="BHARTṚ.">2,81.</ls> <ls>RĀJA-TAR. 3,211.</ls> <ls>BHĀG. P. 7,10,14.</ls> {#sa nininda kilAtmAnaM na tu taM lubDakaM punaH#}
+;---------------------------------------------------
+; <L>38925<pc>4-0154<k1>niDi<k2>niDi/
+380375 old <ls>BHARTṚ. 3,5. 31.</ls>
+;
+380375 new <ls>BHARTṚ. 3,5.</ls> <ls n="BHARTṚ. 3,">31.</ls>
+;---------------------------------------------------
+; <L>40240<pc>4-0254<k1>nizPala<k2>nizPala
+391809 old <ls n="R. 6,91,">26.</ls> <ls>BHARTṚ. 3,4. 47.</ls> <ls>KUMĀRAS. 4,13.</ls> <ls>MEGH. 55.</ls> <ls>PAÑCAT. 53,21.</ls> <ls n="PAÑCAT.">174,9.</ls> <ls>BHĀG. P. 4,8,32.</ls> <ls>KULL.</ls> zu <ls>M. 2,158.</ls> <ls n="M.">3,241.</ls> {%für das Augurium nutzlos, — bedeutungslos%}
+;
+391809 new <ls n="R. 6,91,">26.</ls> <ls>BHARTṚ. 3,4.</ls> <ls n="BHARTṚ. 3,">47.</ls> <ls>KUMĀRAS. 4,13.</ls> <ls>MEGH. 55.</ls> <ls>PAÑCAT. 53,21.</ls> <ls n="PAÑCAT.">174,9.</ls> <ls>BHĀG. P. 4,8,32.</ls> <ls>KULL.</ls> zu <ls>M. 2,158.</ls> <ls n="M.">3,241.</ls> {%für das Augurium nutzlos, — bedeutungslos%}
+;---------------------------------------------------
+; <L>40260<pc>4-0256<k1>nisarga<k2>nisarga
+391968 old <ls>BHARTṚ. 1,78. 3,91.</ls>
+;
+391968 new <ls>BHARTṚ. 1,78.</ls> <ls n="BHARTṚ.">3,91.</ls>
+;---------------------------------------------------
+; <L>40356<pc>4-0263<k1>niHspfha<k2>niHspfha
+392733 old <ls>BHARTṚ. 3,14. 52.</ls>
+;
+392733 new <ls>BHARTṚ. 3,14.</ls> <ls n="BHARTṚ. 3,">52.</ls>
+;---------------------------------------------------
+; <L>42817<pc>4-0527<k1>paritoza<k2>paritoza
+419812 old <ls>BHARTṚ. 2,23. 3,54. 41, v. l.</ls>
+;
+419812 new <ls>BHARTṚ. 2,23.</ls> <ls n="BHARTṚ.">3,54.</ls> <ls n="BHARTṚ. 3,">41, v. l.</ls>
+;---------------------------------------------------
+; <L>42996<pc>4-0539<k1>parimala<k2>parimala
+421213 old <ls>BHARTṚ. 1,33. 36.</ls>
+;
+421213 new <ls>BHARTṚ. 1,33.</ls> <ls n="BHARTṚ. 1,">36.</ls>
+;---------------------------------------------------
+; <L>43501<pc>4-0576<k1>paryaNka<k2>paryaNka
+425438 old <ls>BHARTṚ. 3,88, v. l. 93.</ls>
+;
+425438 new <ls>BHARTṚ. 3,88, v. l.</ls> <ls n="BHARTṚ. 3,">93.</ls>
+;---------------------------------------------------
+; <L>43750<pc>4-0596<k1>pavana<k2>pa/vana
+427795 old <ls>BHARTṚ. 1,39. 3,93.</ls>
+;
+427795 new <ls>BHARTṚ. 1,39.</ls> <ls n="BHARTṚ.">3,93.</ls>
+;---------------------------------------------------
+; <L>46324<pc>4-0806<k1>pulina<k2>pu/lina
+452271 old <ls>BHARTṚ. 2,77. 3,85.</ls>
+;
+452271 new <ls>BHARTṚ. 2,77.</ls> <ls n="BHARTṚ.">3,85.</ls>
+;---------------------------------------------------
