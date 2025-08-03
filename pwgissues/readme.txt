@@ -65,6 +65,8 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue146 KUMĀRASAM̃BHAVA 
 * ussye147 MEGHADŪTA
 * issue148 BHARTṚHARI
+* issue148fix/chaura 'CAURAP. N'
+* issue148fix/bhartr 'BHARTṚ.  N,N'
 * issue149 MĀLAVIKĀGNIMITRA
 * issue152 HITOPADEŚA
 * issue153 GITAGOVINDA

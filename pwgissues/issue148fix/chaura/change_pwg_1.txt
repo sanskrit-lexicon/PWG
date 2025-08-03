@@ -1,0 +1,20 @@
+; <L>4120<pc>1-0303<k1>api<k2>a/pi
+34108 old <ls>CAURAP. 1-50.</ls> <ls>ŚĀK. 29. v. l.</ls> zu <ls n="ŚĀK.">32,5.</ls> <ls n="ŚĀK.">23,11, v. l.</ls> = {#apyadya#}
+;
+34108 new <ls>CAURAP. 1</ls> — <ls n="CAURAP.">50.</ls> <ls>ŚĀK. 29. v. l.</ls> zu <ls n="ŚĀK.">32,5.</ls> <ls n="ŚĀK.">23,11, v. l.</ls> = {#apyadya#}
+;---------------------------------------------------
+; <L>21538<pc>2-0642<k1>gaRqa<k2>gaRqa/
+200652 old <ls>CAURAP. 4,12.</ls>
+;
+200652 new <ls>CAURAP. 4. 12.</ls>
+;---------------------------------------------------
+; <L>27153<pc>3-0071<k1>jAgara<k2>jAgara<h>1
+261278 old <ls>CAURAP. 5,25.</ls>
+;
+261278 new <ls>CAURAP. 5. 25.</ls>
+;---------------------------------------------------
+; <L>42383<pc>4-0486<k1>param<k2>param
+415496 old <ls n="KATHĀS.">40,8.</ls> <ls n="KATHĀS.">42,28.</ls> <ls n="KATHĀS.">43,11.</ls> <ls>PAÑCAT. II,103.</ls> <ls>RĀJA-TAR. 1,39. 4,162. 5,394. 462.</ls> <ls>PRAB. 61,17.</ls> <ls n="PRAB.">74,12.</ls> <ls>BHĀG. P. 4,20,4.</ls> <ls n="BHĀG. P.">7,13,2.</ls> <ls>CAURAP. 39. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 7,27,13.</ls> {#na paraM hfdi saMkrAntA citraM dikzvapi SUnyatA#}
+;
+415496 new <ls n="KATHĀS.">40,8.</ls> <ls n="KATHĀS.">42,28.</ls> <ls n="KATHĀS.">43,11.</ls> <ls>PAÑCAT. II,103.</ls> <ls>RĀJA-TAR. 1,39. 4,162. 5,394. 462.</ls> <ls>PRAB. 61,17.</ls> <ls n="PRAB.">74,12.</ls> <ls>BHĀG. P. 4,20,4.</ls> <ls n="BHĀG. P.">7,13,2.</ls> <ls>CAURAP. 39.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7,27,13.</ls> {#na paraM hfdi saMkrAntA citraM dikzvapi SUnyatA#}
+;---------------------------------------------------

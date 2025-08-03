@@ -1,0 +1,70 @@
+; <L>14307<pc>2-0018<k1>kajjala<k2>kajjala
+129557 old <ls>CAURAP. 40. 16.</ls>
+;
+129557 new <ls>CAURAP. 40.</ls> <ls n="CAURAP.">16.</ls>
+;---------------------------------------------------
+; <L>18360<pc>2-0374<k1>kusumAyuDa<k2>kusumAyuDa
+170072 old <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BHARTṚ. 1,1.</ls> <ls>ŚĀK. 32,5.</ls> <ls>CAURAP. 20. 23.</ls> <ls>ṚT. 6,33.</ls>
+;
+170072 new <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BHARTṚ. 1,1.</ls> <ls>ŚĀK. 32,5.</ls> <ls>CAURAP. 20.</ls> <ls n="CAURAP.">23.</ls> <ls>ṚT. 6,33.</ls>
+;---------------------------------------------------
+; <L>21215<pc>2-0614<k1>Kid<k2>Kid
+197660 old <ls>BHARTṚ. 1,47.</ls> — <ls>MṚCCH. 52,5.</ls> <ls>PAÑCAT. I,224.</ls> <ls>HIT. III,72.</ls> <ls>MEGH. 13. 33. 39.</ls> <ls>ŚṚṄGĀRAT. 10.</ls> <ls>RAGH. 3,11.</ls> <ls>KATHĀS. 2,2.</ls> <ls n="KATHĀS.">4,21.</ls> <ls n="KATHĀS.">5,28.</ls> <ls>CAURAP. 3. 20.</ls> <ls>GĪT. 3,2. 7.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 199,16.</ls> <ls>ŚIŚ. 9,11.</ls> — caus. {%niederdrücken, belästigen, beunruhigen; ermüden, abspannen%}: {#mamAnimittAni hi Kedayanti#}
+;
+197660 new <ls>BHARTṚ. 1,47.</ls> — <ls>MṚCCH. 52,5.</ls> <ls>PAÑCAT. I,224.</ls> <ls>HIT. III,72.</ls> <ls>MEGH. 13. 33. 39.</ls> <ls>ŚṚṄGĀRAT. 10.</ls> <ls>RAGH. 3,11.</ls> <ls>KATHĀS. 2,2.</ls> <ls n="KATHĀS.">4,21.</ls> <ls n="KATHĀS.">5,28.</ls> <ls>CAURAP. 3.</ls> <ls n="CAURAP.">20.</ls> <ls>GĪT. 3,2. 7.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 199,16.</ls> <ls>ŚIŚ. 9,11.</ls> — caus. {%niederdrücken, belästigen, beunruhigen; ermüden, abspannen%}: {#mamAnimittAni hi Kedayanti#}
+;---------------------------------------------------
+; <L>21538<pc>2-0642<k1>gaRqa<k2>gaRqa/
+200652 old <ls>CAURAP. 4. 12.</ls>
+;
+200652 new <ls>CAURAP. 4.</ls> <ls n="CAURAP.">12.</ls>
+;---------------------------------------------------
+; <L>25554<pc>2-1026<k1>cint<k2>cint
+244201 old <ls>CAURAP. 18. 25.</ls>
+;
+244201 new <ls>CAURAP. 18.</ls> <ls n="CAURAP.">25.</ls>
+;---------------------------------------------------
+; <L>27153<pc>3-0071<k1>jAgara<k2>jAgara<h>1
+261278 old <ls>CAURAP. 5. 25.</ls>
+;
+261278 new <ls>CAURAP. 5.</ls> <ls n="CAURAP.">25.</ls>
+;---------------------------------------------------
+; <L>27412<pc>3-0095<k1>ji<k2>ji<h>1
+264197 old <ls>CAURAP. 30. 32.</ls>
+;
+264197 new <ls>CAURAP. 30.</ls> <ls n="CAURAP.">32.</ls>
+;---------------------------------------------------
+; <L>37741<pc>4-0053<k1>nayana<k2>nayana
+369007 old <ls>ŚĀK. 45, v. l.</ls> ad. <ls>ŚĀK. 54.</ls> <ls>BHARTṚ. 1,21.</ls> <ls>MEGH. 96. 111.</ls> <ls>ŚRUT. 26.</ls> <ls>CAURAP. 8. 18.</ls> <ls>MĀRK. P. 18,40.</ls> <ls>PRAB. 7,5.</ls> Vgl. dagegen {#taralanayanI#} .
+;
+369007 new <ls>ŚĀK. 45, v. l.</ls> ad. <ls>ŚĀK. 54.</ls> <ls>BHARTṚ. 1,21.</ls> <ls>MEGH. 96. 111.</ls> <ls>ŚRUT. 26.</ls> <ls>CAURAP. 8.</ls> <ls n="CAURAP.">18.</ls> <ls>MĀRK. P. 18,40.</ls> <ls>PRAB. 7,5.</ls> Vgl. dagegen {#taralanayanI#} .
+;---------------------------------------------------
+; <L>38936<pc>4-0155<k1>niDuvana<k2>niDu/vana
+380459 old <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2,81.</ls> <ls>AK. 2,7,56.</ls> <ls>H. 537.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 50.</ls> <ls>HALĀY. 2,414.</ls> <ls>GĪT. 2,18.</ls> <ls>HIT. 50,1, v. l.</ls> <ls>ŚṚṄGĀRARAS. 8</ls> in <ls>HAEB. Anth. 511.</ls> <ls>CAURAP. 4. 9. 25.</ls> {%Spiel, Scherz%}; = {#keli, narman#}
+;
+380459 new <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2,81.</ls> <ls>AK. 2,7,56.</ls> <ls>H. 537.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 50.</ls> <ls>HALĀY. 2,414.</ls> <ls>GĪT. 2,18.</ls> <ls>HIT. 50,1, v. l.</ls> <ls>ŚṚṄGĀRARAS. 8</ls> in <ls>HAEB. Anth. 511.</ls> <ls>CAURAP. 4.</ls> <ls n="CAURAP.">9.</ls> <ls n="CAURAP.">25.</ls> {%Spiel, Scherz%}; = {#keli, narman#}
+;---------------------------------------------------
+; <L>44975<pc>4-0696<k1>pASa<k2>pA/Sa
+439408 old <ls>CAURAP. 16. 17</ls>).
+;
+439408 new <ls>CAURAP. 16.</ls> <ls n="CAURAP.">17</ls>).
+;---------------------------------------------------
+; <L>48033<pc>4-0936<k1>praRayin<k2>praRayi/n
+467832 old <ls>CAURAP. 26. 46.</ls>
+;
+467832 new <ls>CAURAP. 26.</ls> <ls n="CAURAP.">46.</ls>
+;---------------------------------------------------
+; <L>84252<pc>6-0327<k1>rAjahaMsa<k2>rAjahaMsa
+760925 old <ls>CAURAP. 5. 25.</ls>
+;
+760925 new <ls>CAURAP. 5.</ls> <ls n="CAURAP.">25.</ls>
+;---------------------------------------------------
+; <L>91960<pc>6-1084<k1>vinamra<k2>vinamra
+846269 old <ls>CAURAP. 5. 28.</ls>
+;
+846269 new <ls>CAURAP. 5.</ls> <ls n="CAURAP.">28.</ls>
+;---------------------------------------------------
+; <L>108632<pc>7-0945<k1>sAra<k2>sA/ra<h>2
+1010412 old <ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789.</ls> <ls n="Spr. (II)">3738.</ls> <ls n="Spr. (II)">4253.</ls> <ls n="Spr. (II)">6233.</ls> <ls n="Spr. (II)">6985.</ls> <ls>GĪT. 5,8.</ls> <ls>KATHĀS. 40,48.</ls> <ls>VP. 1,9,22.</ls> <ls>BHĀG. P. 1,19,19.</ls> <ls n="BHĀG. P.">3,5,45.</ls> <ls n="BHĀG. P.">6,9,50.</ls> <ls n="BHĀG. P.">8,16,60.</ls> <ls>CAURAP. 5. 33.</ls>
+;
+1010412 new <ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789.</ls> <ls n="Spr. (II)">3738.</ls> <ls n="Spr. (II)">4253.</ls> <ls n="Spr. (II)">6233.</ls> <ls n="Spr. (II)">6985.</ls> <ls>GĪT. 5,8.</ls> <ls>KATHĀS. 40,48.</ls> <ls>VP. 1,9,22.</ls> <ls>BHĀG. P. 1,19,19.</ls> <ls n="BHĀG. P.">3,5,45.</ls> <ls n="BHĀG. P.">6,9,50.</ls> <ls n="BHĀG. P.">8,16,60.</ls> <ls>CAURAP. 5.</ls> <ls n="CAURAP.">33.</ls>
+;---------------------------------------------------
