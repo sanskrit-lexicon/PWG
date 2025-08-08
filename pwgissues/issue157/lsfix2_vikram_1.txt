@@ -1,0 +1,50 @@
+fixed	2	13115	<ls>VIKRAM. 52,2. 75,13.</ls>	<ls>VIKRAM. 52,2.</ls> <ls n="VIKRAM.">75,13.</ls>
+True	2	415429	<ls>VIKRAM. 59,2.</ls>	
+True	2	415450	<ls>VIKRAM. 40,4.</ls>	
+True	2	415880	<ls>VIKRAM. 38,15.</ls>	
+True	1	426050	<ls>VIKRAM. 34.</ls>	
+True	2	451579	<ls>VIKRAM. 5,5</ls>	
+True	2	468088	<ls>VIKRAM. 34,4.</ls>	
+True	1	468090	<ls>VIKRAM. 46.</ls>	
+True	1	486085	<ls>VIKRAM. 150, v. l.</ls>	
+True	2	501568	<ls>VIKRAM. 54,4.</ls>	
+True	1	501573	<ls>VIKRAM. 26.</ls>	
+True	1	501597	<ls>VIKRAM. 27.</ls>	
+True	2	512265	<ls>VIKRAM. 86,19.</ls>	
+True	2	827282	<ls>VIKRAM. 59,20.</ls>	
+True	1	870717	<ls>VIKRAM. 157.</ls>	
+True	1	927597	<ls>VIKRAM. 43.</ls>	
+True	2	945611	<ls>VIKRAM. 52,7.</ls>	
+True	2	945846	<ls>VIKRAM. 78,11.</ls>	
+fixed	2	945847	<ls n="VIKRAM.">10,16. 13,16.</ls>	<ls n="VIKRAM.">10,16.</ls> <ls n="VIKRAM.">13,16.</ls>
+True	1	957018	<ls>VIKRAM. 145.</ls>	
+True	1	958301	<ls>VIKRAM. 3.</ls>	
+True	2	958313	<ls>VIKRAM. 31,18</ls>	
+True	2	958349	<ls>VIKRAM. 12,1.</ls>	
+fixed	2	958449	<ls>VIKRAM. 8,2. 3.</ls>	<ls>VIKRAM. 8,2.</ls> <ls n="VIKRAM. 8,">3.</ls>
+True	1	960719	<ls>VIKRAM. 128.</ls>	
+True	1	960732	<ls>VIKRAM. 61.</ls>	
+True	1	960746	<ls>VIKRAM. 33.</ls>	
+fixed	1	960806	<ls>VIKRAM. 128. 143.</ls>	<ls>VIKRAM. 128.</ls> <ls n="VIKRAM.">143.</ls>
+True	2	973704	<ls>VIKRAM. 37,9.</ls>	
+True	1	980844	<ls>VIKRAM. 110.</ls>	
+True	2	985253	<ls>VIKRAM. 85,20.</ls>	
+True	2	985421	<ls>VIKRAM. 37,7.</ls>	
+fixed	2	987022	<ls>VIKRAM. 8,17. 152.</ls>	<ls>VIKRAM. 8,17.</ls> <ls n="VIKRAM. 8,">152.</ls>
+True	2	987791	<ls>VIKRAM. 25,18.</ls>	
+True	1	996540	<ls>VIKRAM. 51.</ls>	
+True	1	996542	<ls>VIKRAM. 149.</ls>	
+True	1	998215	<ls>VIKRAM. 20.</ls>	
+True	2	998335	<ls>VIKRAM. 86,16.</ls>	
+True	1	999327	<ls>VIKRAM. 135.</ls>	
+True	2	999745	<ls>VIKRAM. 78,10.</ls>	
+True	1	999831	<ls>VIKRAM. 25.</ls>	
+True	1	999925	<ls>VIKRAM. 102.</ls>	
+True	2	1000081	<ls>VIKRAM. 51,4. fgg.</ls>	
+True	2	1000583	<ls>VIKRAM. 6,1.</ls>	
+True	1	1001870	<ls>VIKRAM. 35.</ls>	
+True	2	1002201	<ls>VIKRAM. 64,12.</ls>	
+True	2	1002557	<ls>VIKRAM. 71,13.</ls>	
+True	2	1003105	<ls>VIKRAM. 57,2.</ls>	
+True	1	1003114	<ls>VIKRAM. 125.</ls>	
+True	2	1003237	<ls>VIKRAM. 87,2.</ls>	

@@ -60,6 +60,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue137fix NĀRADA PAÑCARĀTRA  split ls
 * issue139 VS. PRĀT. link target
 * issue143 BHAṬṬIKĀVYA link target
+* issue143fix BHAṬṬIKĀVYA split ls
 * issue144 TAITTIRĪYABRĀHMAṆA link target
 * issue145 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI, 2 parameter references 
 * issue146 KUMĀRASAM̃BHAVA 
@@ -73,4 +74,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue154 AMARAKOSHA COLEBROOKE
 * issue155 AMARAKOSHA concordance COLEBROOKE-DESLONGCHAMP
 * issue156 link target README.md improvement
+* issue157 VIKRAMORVAŚĪ link target
 * issue160 split combined multiple links to separate links
