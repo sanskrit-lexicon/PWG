@@ -1,0 +1,370 @@
+; <L>12775<pc>1-1024<k1>UrRu<k2>UrRu
+114848 old <ls n="BHAṬṬ.">29.</ls> {#prOrRuvIttejasArAtim#}
+;
+114848 new <ls n="BHAṬṬ. 18,">29.</ls> {#prOrRuvIttejasArAtim#}
+;---------------------------------------------------
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+137799 old <ls n="BHAṬṬ.">119.</ls>
+;
+137799 new <ls n="BHAṬṬ. 8,">119.</ls>
+;---------------------------------------------------
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+138152 old <ls n="BHAṬṬ.">21.</ls> {#vikfto#} (Gegens. {#SudDa) vaDaH#} {%eine durch mannigfache Verstümmelungen geschärfte Todesstrafe%}
+;
+138152 new <ls n="BHAṬṬ. 8,">21.</ls> {#vikfto#} (Gegens. {#SudDa) vaDaH#} {%eine durch mannigfache Verstümmelungen geschärfte Todesstrafe%}
+;---------------------------------------------------
+; <L>15073<pc>2-0099<k1>kar<k2>kar<h>3
+138605 old <ls n="BHAṬṬ.">39. 15,42. 45. 92.</ls> {#dvitIyapuzpaprakaro vyakIryata#}
+;
+138605 new <ls n="BHAṬṬ. 14,">39. 15,42. 45. 92.</ls> {#dvitIyapuzpaprakaro vyakIryata#}
+;---------------------------------------------------
+; <L>15749<pc>2-0166<k1>kalp<k2>kalp
+145803 old <ls n="BHAṬṬ.">44.</ls>
+;
+145803 new <ls n="BHAṬṬ. 9,">44.</ls>
+;---------------------------------------------------
+; <L>18409<pc>2-0377<k1>kU<k2>kU<h>1
+170472 old <ls n="BHAṬṬ.">20.</ls> {#saMnatsyAmyaTa vA yodDuM na kopye hInasattvavat#}
+;
+170472 new <ls n="BHAṬṬ. 14,">20.</ls> {#saMnatsyAmyaTa vA yodDuM na kopye hInasattvavat#}
+;---------------------------------------------------
+; <L>18510<pc>2-0385<k1>kUrd<k2>kUrd
+171407 old <ls n="BHAṬṬ.">77.</ls> {#akUrdizwa#}
+;
+171407 new <ls n="BHAṬṬ. 14,">77.</ls> {#akUrdizwa#}
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+182484 old <ls n="BHAṬṬ.">25.</ls> {#suKaM yojanapaYcASatkrameyam#}
+;
+182484 new <ls n="BHAṬṬ. 8,">25.</ls> {#suKaM yojanapaYcASatkrameyam#}
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+183157 old <ls n="BHAṬṬ.">22; Sch.</ls> : {#parAkraMsta = utsehe, utsAhaM cakAra#}, mit Verweisung auf
+;
+183157 new <ls n="BHAṬṬ. 8,">22</ls>; Sch. : {#parAkraMsta = utsehe, utsAhaM cakAra#}, mit Verweisung auf
+;---------------------------------------------------
+; <L>20447<pc>2-0562<k1>kzud<k2>kzud
+191053 old <ls>BHAṬṬ. 18. 26.</ls>
+;
+191053 new <ls>BHAṬṬ. 18,26.</ls>
+;---------------------------------------------------
+; <L>21115<pc>2-0609<k1>KA<k2>KA<h>1
+196941 old <ls>BHAṬṬ. 17. 58.</ls>
+;
+196941 new <ls>BHAṬṬ. 17,58.</ls>
+;---------------------------------------------------
+; <L>21155<pc>2-0611<k1>KAd<k2>KAd
+197219 old <ls n="BHAṬṬ.">87.</ls> {#KAdizyAmaH#}
+;
+197219 new <ls n="BHAṬṬ. 14,">87.</ls> {#KAdizyAmaH#}
+;---------------------------------------------------
+; <L>21607<pc>2-0648<k1>gad<k2>gad<h>1
+201420 old <ls n="BHAṬṬ.">56.</ls> {%zu Jmd%} (acc.) {%sagen, Etwas%} (acc.) {%zu Jmd%} (acc.) {%sagen%}: {#BUpAlasiMhaM nijagAda siMhaH#}
+;
+201420 new <ls n="BHAṬṬ. 3,">56.</ls> {%zu Jmd%} (acc.) {%sagen, Etwas%} (acc.) {%zu Jmd%} (acc.) {%sagen%}: {#BUpAlasiMhaM nijagAda siMhaH#}
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204641 old <ls>BHAṬṬ. 1,1*.</ls>
+;
+204641 new <ls>BHAṬṬ. 1,1</ls>*.
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204656 old <ls>BHAṬṬ. 15,92*.</ls> {#parAM vrIqAm#}
+;
+204656 new <ls>BHAṬṬ. 15,92</ls>*. {#parAM vrIqAm#}
+;---------------------------------------------------
+; <L>24093<pc>2-0888<k1>Gur<k2>Gur
+228204 old <ls n="BHAṬṬ.">40. 15,62.</ls> — Wegen {#Gora#} aufgestellt.
+;
+228204 new <ls n="BHAṬṬ. 14,">40. 15,62.</ls> — Wegen {#Gora#} aufgestellt.
+;---------------------------------------------------
+; <L>24110<pc>2-0890<k1>GUrR<k2>GUrR
+228423 old <ls n="BHAṬṬ.">118.</ls> {#GUrRita#} {%sich hinundherbewegend%}
+;
+228423 new <ls n="BHAṬṬ. 15,">118.</ls> {#GUrRita#} {%sich hinundherbewegend%}
+;---------------------------------------------------
+; <L>25297<pc>2-0997<k1>ci<k2>ci<h>1
+241119 old <ls n="BHAṬṬ.">47.</ls> {#Acita#} {%bedeckt, beladen%}: {#yavAcita#} {%mit Gerste beladen%}
+;
+241119 new <ls n="BHAṬṬ. 14,">47.</ls> {#Acita#} {%bedeckt, beladen%}: {#yavAcita#} {%mit Gerste beladen%}
+;---------------------------------------------------
+; <L>26032<pc>2-1065<k1>cyu<k2>cyu<h>1
+248835 old <ls n="BHAṬṬ.">11.</ls> {#cyutaniKilaviSaNka#}
+;
+248835 new <ls n="BHAṬṬ. 3,">11.</ls> {#cyutaniKilaviSaNka#}
+;---------------------------------------------------
+; <L>26032<pc>2-1065<k1>cyu<k2>cyu<h>1
+248836 old <ls n="BHAṬṬ.">56.</ls> {#cyute Darme#}
+;
+248836 new <ls n="BHAṬṬ. 3,">56.</ls> {#cyute Darme#}
+;---------------------------------------------------
+; <L>26313<pc>3-0002<k1>jakz<k2>jakz<h>1
+252988 old <ls>BHAṬṬ. 5,38</ls>; vgl. {#sAraMgajagDa/#} <is>K.</is>
+;
+252988 new <ls>BHAṬṬ. 5,38</ls>; vgl. {#sAraMgajagDa/#}
+;---------------------------------------------------
+; <L>26313<pc>3-0002<k1>jakz<k2>jakz<h>1
+252989 old <ls n="BHAṬṬ.">6,2,170</ls>, <ls>Sch.</ls> {#idamezAM jagDam#} {%dies ist der Ort wo sie gegessen haben%}
+;
+252989 new <ls>P. 6,2,170</ls>, <ls>Sch.</ls> {#idamezAM jagDam#} {%dies ist der Ort wo sie gegessen haben%}
+;---------------------------------------------------
+; <L>27733<pc>3-0129<k1>jUr<k2>jUr<h>2
+267685 old <ls n="BHAṬṬ.">1.</ls> {#jUrRi#}, welches nach
+;
+267685 new <ls n="BHAṬṬ. 11,">1.</ls> {#jUrRi#}, welches nach
+;---------------------------------------------------
+; <L>27838<pc>3-0135<k1>jYA<k2>jYA<h>1
+268926 old <ls n="BHAṬṬ.">139.</ls>
+;
+268926 new <ls n="BHAṬṬ. 6,">139.</ls>
+;---------------------------------------------------
+; <L>28869<pc>3-0256<k1>tay<k2>tay
+280760 old <ls n="BHAṬṬ.">108.</ls>
+;
+280760 new <ls n="BHAṬṬ. 14,">108.</ls>
+;---------------------------------------------------
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+280825 old <ls>VARĀH. BṚH. S. 81 (80,a</ls>),
+;
+280825 new <ls>VARĀH. BṚH. S. 81 (80,a),14,</ls>
+;---------------------------------------------------
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+280826 old <ls n="BHAṬṬ.">14.</ls> {%hinfliegen, hinschiessen%}: {#DAvanti vartmani taranti nu vAjinaste#}
+;
+280826 new {%hinfliegen, hinschiessen%}: {#DAvanti vartmani taranti nu vAjinaste#}
+;---------------------------------------------------
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+281131 old <ls n="BHAṬṬ.">33.</ls> {#uttIrRajalaDi#}
+;
+281131 new <ls n="BHAṬṬ. 15,">33.</ls> {#uttIrRajalaDi#}
+;---------------------------------------------------
+; <L>30736<pc>3-0408<k1>tyaj<k2>tyaj<h>1
+298617 old <ls n="BHAṬṬ.">23.</ls> {#Kedam#}
+;
+298617 new <ls n="BHAṬṬ. 5,">23.</ls> {#Kedam#}
+;---------------------------------------------------
+; <L>30811<pc>3-0418<k1>tras<k2>tras<h>1
+299637 old <ls n="BHAṬṬ.">37.</ls> {#saMtrasta#} {%erschrocken%}
+;
+299637 new <ls n="BHAṬṬ. 14,">37.</ls> {#saMtrasta#} {%erschrocken%}
+;---------------------------------------------------
+; <L>30821<pc>3-0420<k1>trA<k2>trA<h>1
+299767 old <ls n="BHAṬṬ.">12.</ls> {#trAsyate#}
+;
+299767 new <ls n="BHAṬṬ. 15,">12.</ls> {#trAsyate#}
+;---------------------------------------------------
+; <L>33063<pc>3-0627<k1>diS<k2>diS<h>1
+322137 old <ls>BHAṬṬ. 3. 9. 7,28.</ls> {#yadAdiSati BagavatI#}
+;
+322137 new <ls>BHAṬṬ. 3,9. 7,28.</ls> {#yadAdiSati BagavatI#}
+;---------------------------------------------------
+; <L>34073<pc>3-0712<k1>duh<k2>duh<h>1
+331433 old <ls>BHAṬṬ. 6. 9.</ls>
+;
+331433 new <ls>BHAṬṬ. 6,9.</ls>
+;---------------------------------------------------
+; <L>35162<pc>3-0788<k1>dyut<k2>dyut<h>1
+340261 old <ls n="BHAṬṬ.">104.</ls>
+;
+340261 new <ls n="BHAṬṬ. 7,">104.</ls>
+;---------------------------------------------------
+; <L>35320<pc>3-0801<k1>drA<k2>drA<h>1
+341790 old <ls>BHAṬṬ. 5. 86.</ls> {#daridritaH#} 3. du. praes.
+;
+341790 new <ls>BHAṬṬ. 5,86.</ls> {#daridritaH#} 3. du. praes.
+;---------------------------------------------------
+; <L>35361<pc>3-0809<k1>dru<k2>dru<h>3
+342478 old <ls n="BHAṬṬ.">85.</ls> v.l. {%Reue empfinden%} ({#anutApa#})
+;
+342478 new <ls n="BHAṬṬ. 14,">85, v. l.</ls> {%Reue empfinden%} ({#anutApa#})
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354331 old <ls>BHAṬṬ. 12. 33.</ls> {#saMgrAmam#}
+;
+354331 new <ls>BHAṬṬ. 12,33.</ls> {#saMgrAmam#}
+;---------------------------------------------------
+; <L>36561<pc>3-0938<k1>DAnuzka<k2>DAnuzka
+355492 old <ls>Schol.</ls> zu <ls>P. 4,4,12.</ls> <ls n="P.">7,3,51.</ls> <ls n="P.">8,1,8.</ls> <ls>AK. 2,8,2,37.</ls> <ls>H. 771.</ls> <ls>MBH. 6,756.</ls> <ls n="MBH. 6,">3545.</ls> <ls>KULL.</ls> zu <ls>M. 7,74.</ls> <ls>BHAṬṬ. 4. 50.</ls> Davon nom. abstr. {#°tA#}
+;
+355492 new <ls>Schol.</ls> zu <ls>P. 4,4,12.</ls> <ls n="P.">7,3,51.</ls> <ls n="P.">8,1,8.</ls> <ls>AK. 2,8,2,37.</ls> <ls>H. 771.</ls> <ls>MBH. 6,756.</ls> <ls n="MBH. 6,">3545.</ls> <ls>KULL.</ls> zu <ls>M. 7,74.</ls> <ls>BHAṬṬ. 4,50.</ls> Davon nom. abstr. {#°tA#}
+;---------------------------------------------------
+; <L>38095<pc>4-0083<k1>nah<k2>nah<h>1
+372525 old <ls n="BHAṬṬ.">112.</ls> {#saMnehuH#}
+;
+372525 new <ls n="BHAṬṬ. 15,">112.</ls> {#saMnehuH#}
+;---------------------------------------------------
+; <L>40379<pc>4-0265<k1>nI<k2>nI<h>1
+393056 old <ls n="M.">8,178.</ls> <ls n="M.">9,218.</ls> <ls>R. 2,33,9.</ls> <ls>MEGH. 62. 66.</ls> <ls>MĀLAV. 73.</ls> <ls>RĀJA-TAR. 5,16. 144. 354.</ls> <ls>PAÑCAT. 34,11.</ls> <ls n="PAÑCAT.">78,15.</ls> <ls n="PAÑCAT.">97,14.</ls> <ls>PRAB. 13,7.</ls> <ls>KIR. 5,19.</ls> <ls>BHAṬṬ. 5,15. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 7,26, Śl. 10.</ls> mit dem loc. eines nom. abstr.: {#duhitftve#} {%zur Tochter machen%}
+;
+393056 new <ls n="M.">8,178.</ls> <ls n="M.">9,218.</ls> <ls>R. 2,33,9.</ls> <ls>MEGH. 62. 66.</ls> <ls>MĀLAV. 73.</ls> <ls>RĀJA-TAR. 5,16. 144. 354.</ls> <ls>PAÑCAT. 34,11.</ls> <ls n="PAÑCAT.">78,15.</ls> <ls n="PAÑCAT.">97,14.</ls> <ls>PRAB. 13,7.</ls> <ls>KIR. 5,19.</ls> <ls>BHAṬṬ. 5,15.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7,26, Śl. 10.</ls> mit dem loc. eines nom. abstr.: {#duhitftve#} {%zur Tochter machen%}
+;---------------------------------------------------
+; <L>51370<pc>4-1193<k1>pluz<k2>pluz
+497903 old <ls n="BHAṬṬ.">37.</ls> {#pluzyate#} pass.
+;
+497903 new <ls n="BHAṬṬ. 20,">37.</ls> {#pluzyate#} pass.
+;---------------------------------------------------
+; <L>52927<pc>5-0102<k1>buD<k2>buD<h>1
+512496 old <ls n="BHAṬṬ.">5.</ls> {#budDvA#}
+;
+512496 new <ls n="BHAṬṬ. 15,">5.</ls> {#budDvA#}
+;---------------------------------------------------
+; <L>54387<pc>5-0230<k1>BA<k2>BA<h>1
+526612 old <ls>BHAṬṬ. 15,111. v. l.</ls>
+;
+526612 new <ls>BHAṬṬ. 15,111, v. l.</ls>
+;---------------------------------------------------
+; <L>61109<pc>5-0838<k1>muz<k2>muz<h>4
+594297 old <ls>BHAṬṬ. 15. 15.</ls> Der eine Schol. erklärt die Form durch {#KaRqitavAnasi#}, der andere durch {#apahftavAn#} {%geraubt%} (s. 1. {#muz)#} .
+;
+594297 new <ls>BHAṬṬ. 15,15.</ls> Der eine Schol. erklärt die Form durch {#KaRqitavAnasi#}, der andere durch {#apahftavAn#} {%geraubt%} (s. 1. {#muz)#} .
+;---------------------------------------------------
+; <L>81526<pc>6-0063<k1>yam<k2>yam
+731541 old <ls n="MBH.">6,2773.</ls> <ls n="MBH.">16,90.</ls> <ls>R. 6,91,23.</ls> <ls>Spr. 3058.</ls> <ls>BHAṬṬ. 6. 119.</ls> <ls>SADDH. P. 4,27</ls>, {%a. b%} ({#°yamitvA#}). auch act.
+;
+731541 new <ls n="MBH.">6,2773.</ls> <ls n="MBH.">16,90.</ls> <ls>R. 6,91,23.</ls> <ls>Spr. 3058.</ls> <ls>BHAṬṬ. 6,119.</ls> <ls>SADDH. P. 4,27</ls>, {%a. b%} ({#°yamitvA#}). auch act.
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732533 old <ls n="BHAṬṬ.">10.</ls> {#Adyanta°#}
+;
+732533 new <ls n="BHAṬṬ. 10,">10.</ls> {#Adyanta°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732534 old <ls n="BHAṬṬ.">21.</ls> {#pAdAdi°#}
+;
+732534 new <ls n="BHAṬṬ. 10,">21.</ls> {#pAdAdi°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732535 old <ls n="BHAṬṬ.">4.</ls> {#pAdamaDya°#}
+;
+732535 new <ls n="BHAṬṬ. 10,">4.</ls> {#pAdamaDya°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732536 old <ls n="BHAṬṬ.">5.</ls> {#pAdAnta°#}
+;
+732536 new <ls n="BHAṬṬ. 10,">5.</ls> {#pAdAnta°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732537 old <ls n="BHAṬṬ.">3.</ls> {#pAdAdimaDya°#}
+;
+732537 new <ls n="BHAṬṬ. 10,">3.</ls> {#pAdAdimaDya°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732538 old <ls n="BHAṬṬ.">15.</ls> {#pAdAdyanta°#}
+;
+732538 new <ls n="BHAṬṬ. 10,">15.</ls> {#pAdAdyanta°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732539 old <ls n="BHAṬṬ.">11.</ls> {#maDyAnta°#}
+;
+732539 new <ls n="BHAṬṬ. 10,">11.</ls> {#maDyAnta°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732540 old <ls n="BHAṬṬ.">17.</ls> {#kAYcI°#}
+;
+732540 new <ls n="BHAṬṬ. 10,">17.</ls> {#kAYcI°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732541 old <ls n="BHAṬṬ.">8.</ls> {#garBa°#}
+;
+732541 new <ls n="BHAṬṬ. 10,">8.</ls> {#garBa°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732542 old <ls n="BHAṬṬ.">18.</ls> {#cakravAla°#}
+;
+732542 new <ls n="BHAṬṬ. 10,">18.</ls> {#cakravAla°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732543 old <ls n="BHAṬṬ.">6.</ls> {#puzpa°#}
+;
+732543 new <ls n="BHAṬṬ. 10,">6.</ls> {#puzpa°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732544 old <ls n="BHAṬṬ.">14.</ls> {#mahA°#}
+;
+732544 new <ls n="BHAṬṬ. 10,">14.</ls> {#mahA°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732545 old <ls n="BHAṬṬ.">20.</ls> {#miTuna°#}
+;
+732545 new <ls n="BHAṬṬ. 10,">20.</ls> {#miTuna°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732546 old <ls n="BHAṬṬ.">12.</ls> {#vfnta°#}
+;
+732546 new <ls n="BHAṬṬ. 10,">12.</ls> {#vfnta°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732547 old <ls n="BHAṬṬ.">13.</ls> {#vipaTa°#}
+;
+732547 new <ls n="BHAṬṬ. 10,">13.</ls> {#vipaTa°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732548 old <ls n="BHAṬṬ.">16.</ls> {#samudga°#}
+;
+732548 new <ls n="BHAṬṬ. 10,">16.</ls> {#samudga°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732549 old <ls n="BHAṬṬ.">7.</ls> {#sarva°#}
+;
+732549 new <ls n="BHAṬṬ. 10,">7.</ls> {#sarva°#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732550 old <ls n="BHAṬṬ.">19.</ls> {#yamakAvalI#}
+;
+732550 new <ls n="BHAṬṬ. 10,">19.</ls> {#yamakAvalI#}
+;---------------------------------------------------
+; <L>81530<pc>6-0078<k1>yamaka<k2>yamaka<h>2
+732551 old <ls n="BHAṬṬ.">9.</ls> {#°kAvya#} heisst das dem <is>Ghaṭakarpara</is> zugeschriebene künstliche Gedicht
+;
+732551 new <ls n="BHAṬṬ. 10,">9.</ls> {#°kAvya#} heisst das dem <is>Ghaṭakarpara</is> zugeschriebene künstliche Gedicht
+;---------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+741300 old <ls n="BHAṬṬ.">51.</ls> {#prayujyamAna#} als Erkl. von {#prayojya#} ({%der angewiesen wird%} neben {#prayojaka#} {%der da anweist%}; unter d. Ww. unrichtig erklärt)
+;
+741300 new <ls n="BHAṬṬ. 3,">51.</ls> {#prayujyamAna#} als Erkl. von {#prayojya#} ({%der angewiesen wird%} neben {#prayojaka#} {%der da anweist%}; unter d. Ww. unrichtig erklärt)
+;---------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+741308 old <ls n="BHAṬṬ.">88.</ls> <ls>KUMĀRAS. 3,6.</ls>
+;
+741308 new <ls n="BHAṬṬ. 6,">88.</ls> <ls>KUMĀRAS. 3,6.</ls>
+;---------------------------------------------------
+; <L>83704<pc>6-0289<k1>ras<k2>ras<h>1
+756242 old <ls n="BHAṬṬ.">55.</ls> {#hanUmAnarAsIcca BayaMkaram#}
+;
+756242 new <ls n="BHAṬṬ. 14,">55.</ls> {#hanUmAnarAsIcca BayaMkaram#}
+;---------------------------------------------------
+; <L>85042<pc>6-0392<k1>ruD<k2>ruD<h>2
+768543 old <ls>BHAṬṬ. 6. 35.</ls> einen Feind, einen Ort {%einschliessen, belagern, besetzen%}: {#ekaM rudDvA sTitAH santo rudDAH smo 'nyena SatruRA#}
+;
+768543 new <ls>BHAṬṬ. 6,35.</ls> einen Feind, einen Ort {%einschliessen, belagern, besetzen%}: {#ekaM rudDvA sTitAH santo rudDAH smo 'nyena SatruRA#}
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+808411 old <ls>BHAṬṬ. 15. 37.</ls> {#pUrvavadvartatAM raviH#}
+;
+808411 new <ls>BHAṬṬ. 15,37.</ls> {#pUrvavadvartatAM raviH#}
+;---------------------------------------------------
+; <L>91581<pc>6-1041<k1>vid<k2>vid<h>1
+841770 old <ls n="BHAṬṬ.">50.</ls> {#nAvedizurdiSaH#}
+;
+841770 new <ls n="BHAṬṬ. 14,">50.</ls> {#nAvedizurdiSaH#}
+;---------------------------------------------------
+; <L>99828<pc>7-0217<k1>SI<k2>SI<h>2
+922944 old <ls>BHAṬṬ. 10. 35.</ls> {#siMhasya parvatakuharamaDiSayAnasya#}
+;
+922944 new <ls>BHAṬṬ. 10,35.</ls> {#siMhasya parvatakuharamaDiSayAnasya#}
+;---------------------------------------------------
+; <L>109679<pc>7-1019<k1>su<k2>su<h>1
+1019805 old (<ls>BHAṬṬ. 6,64). 2.</ls> {#Asuti#} .
+;
+1019805 new (<ls>BHAṬṬ. 6,64</ls>). 2. {#Asuti#}.
+;---------------------------------------------------
+; <L>117919<pc>7-1679<k1>hvA<k2>hvA<h>1
+1102091 old <ls n="BHAṬṬ.">28.</ls> {#Ahvanta#}
+;
+1102091 new <ls n="BHAṬṬ. 15,">28.</ls> {#Ahvanta#}
+;---------------------------------------------------
+; <L>117919<pc>7-1679<k1>hvA<k2>hvA<h>1
+1102092 old <ls n="BHAṬṬ.">42. act.</ls> : {#sarvamallAnaTAhvayat#}
+;
+1102092 new <ls n="BHAṬṬ. 15,">42.</ls> act. : {#sarvamallAnaTAhvayat#}
+;---------------------------------------------------
