@@ -308,8 +308,7 @@ diff temp_pwg_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt | wc -l
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .
-git commit -m "issue157 VIKRAMORVAŚĪ link target. 
-Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
+git commit -m "issue157 VIKRAMORVAŚĪ link target correction #157"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue157
 
@@ -372,8 +371,7 @@ sh generate_dict.sh sch  ../../SCHScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue157
 git pull
 git add .
-git commit -m "issue157 
-Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
+git commit -m "issue157 #157 #160"
 git push
 
 -------------------------------------
