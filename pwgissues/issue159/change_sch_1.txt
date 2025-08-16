@@ -1,0 +1,15 @@
+; <L>2148<pc>029-3<k1>anaBiprIta<k2>anaBiprIta
+6636 old {%anabhiprīta%}¦ Adj. nicht befriedigt, <ls>Ait. Br. 2,12,2; 8,24,5.</ls> {part=,seq=2180,type=,n=2}
+;
+6636 new {%anabhiprīta%}¦ Adj. nicht befriedigt, <ls>Ait. Br. 2,12,2</ls>; <ls n="Ait. Br.">8,24,5.</ls> {part=,seq=2180,type=,n=2}
+;---------------------------------------------------
+; <L>4185<pc>057-3<k1>aBivyAhftya<k2>aBivyAhftya
+12908 old {%abhivyāhṛtya%}¦ Adj. = {%°haraṇīya%}, <ls>Ait. Br. 5,2,15; 15,6.</ls> {part=,seq=4241,type=,n=2}
+;
+12908 new {%abhivyāhṛtya%}¦ Adj. = {%°haraṇīya%}, <ls>Ait. Br. 5,2,15</ls>; <ls n="Ait. Br. 5,">15,6.</ls> {part=,seq=4241,type=,n=2}
+;---------------------------------------------------
+; <L>22675.1<pc>313-1<k1>riB<k2>riB
+70028 old {%ribh%}¦ bedeutet <ls>TS. 7,1,1,3</ls> (vgl. <ls>Maitr. S. 1,8,2</ls> [117,8. 9] und <ls>Ait. Br. 1,25,15; 6,32,8</ls>) glänzen; vgl. <ls>Ind. St. 16,32.</ls> {part=,seq=22992,type=,n=4}
+;
+70028 new {%ribh%}¦ bedeutet <ls>TS. 7,1,1,3</ls> (vgl. <ls>Maitr. S. 1,8,2</ls> [117,8. 9] und <ls>Ait. Br. 1,25,15</ls>; <ls n="Ait. Br.">6,32,8</ls>) glänzen; vgl. <ls>Ind. St. 16,32.</ls> {part=,seq=22992,type=,n=4}
+;---------------------------------------------------
