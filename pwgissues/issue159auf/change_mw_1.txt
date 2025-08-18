@@ -1,0 +1,40 @@
+; <L>22727<pc>130,2<k1>AgranTam<k2>A-granTam<e>2
+80993 old <s>A-granTam</s> ¦ <ab>ind.p.</ab> twining round, <ls>AitBr. v, 15, 10.</ls>
+;
+80993 new <s>A-granTam</s> ¦ <ab>ind.p.</ab> twining round, <ls>AitBr. v, 15, 9.</ls>
+;---------------------------------------------------
+; <L>29398<pc>168,2<k1>ilava<k2>ilava<e>1
+103975 old <s>ilava</s> ¦ (<s>iLava</s>, <ls>Sāy.</ls>) <lex>m.</lex> a ploughman, boor, <ls>AitBr. v, 25, 5.</ls><info lex="m"/>
+;
+103975 new <s>ilava</s> ¦ (<s>iLava</s>, <ls>Sāy.</ls>) <lex>m.</lex> a ploughman, boor, <ls>AitBr. v, 3, 5.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>34967<pc>201,1<k1>upanivft<k2>upa-ni-vft<e>1
+123136 old <div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>-vartayati</s>, to bring or fetch again, <ls>AitBr. vii, 5, 5.</ls><info verb="pre" cp="PĀ" parse="upa+ni+vft"/>
+;
+123136 new <div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>-vartayati</s>, to bring or fetch again, <ls>AitBr. vii, 5, 6.</ls><info verb="pre" cp="PĀ" parse="upa+ni+vft"/>
+;---------------------------------------------------
+; <L>36346<pc>211,1<k1>upasTapadA<k2>upa-sTa—padA<e>3
+127788 old <s>upa-sTa—padA</s> ¦ <lex>f.</lex> a particular artery leading to the generative organs (of a male), <ls>Sāy.</ls> on <ls>AitBr. iii, 37, 6.</ls><info lex="f"/>
+;
+127788 new <s>upa-sTa—padA</s> ¦ <lex>f.</lex> a particular artery leading to the generative organs (of a male), <ls>Sāy. on AitBr. iii, 37, 6.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>37011<pc>216,1<k1>upodAsfp<k2>upod-A-sfp<e>1
+130083 old <s>upo<srs/>d-A-√ sfp</s> ¦ <ab>P.</ab> (<ab>impf.</ab> <s>-A<srs/>sarpat</s>) to creep out towards, <ls>AitBr. i, 6, 1</ls>; <ls n="AitBr. i, 6,">3.</ls><info verb="pre" cp="P" parse="upa+ud+A+sfp"/>
+;
+130083 new <s>upo<srs/>d-A-√ sfp</s> ¦ <ab>P.</ab> (<ab>impf.</ab> <s>-A<srs/>sarpat</s>) to creep out towards, <ls>AitBr. vi, 1, 1</ls>; <ls n="AitBr. vi, 1,">3.</ls><info verb="pre" cp="P" parse="upa+ud+A+sfp"/>
+;---------------------------------------------------
+; <L>39426<pc>228,3<k1>ekapAta<k2>eka—pAta<e>3B
+138166 old <s>eka—pAta</s> ¦ <lex>m.</lex> the <s1>Pratīka</s1> or first word of a <s1>Mantra</s1>, <ls>Sāy.</ls> on <ls>AitBr. ii, 19, 9.</ls><info lex="m"/>
+;
+138166 new <s>eka—pAta</s> ¦ <lex>m.</lex> the <s1>Pratīka</s1> or first word of a <s1>Mantra</s1>, <ls>Sāy. on AitBr. i, 19, 9.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>68918<pc>373,2<k1>grAmayAjin<k2>grAma—yAjin<e>3
+233651 old <s>grAma—yAjin</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>Mn. iv, 205</ls>; <ls>Sāy.</ls> on <ls>AitBr. i, 16, 40.</ls><info lex="m:f:n"/>
+;
+233651 new <s>grAma—yAjin</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls>Mn. iv, 205</ls>; <ls>Sāy. on AitBr. i, 16, 40.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>71518<pc>386,2<k1>canasita<k2>canasita<e>2
+242231 old <s>canasita</s> ¦ <lex>mfn.</lex> (<ab>Pass.</ab> <ab>p.</ab> <ab>fr.</ab> <s>°sya</s>) ‘satisfied, gracious’ (only the <ab>voc.</ab> is used in the address to a <ns>Brāhman</ns>, added after his <ab>N.</ab>), <ls>AitBr. i, 6, 8</ls>; <ls>Sāy.</ls> (<ls>Āp.</ls>)<info lex="m:f:n"/>
+;
+242231 new <s>canasita</s> ¦ <lex>mfn.</lex> (<ab>Pass.</ab> <ab>p.</ab> <ab>fr.</ab> <s>°sya</s>) ‘satisfied, gracious’ (only the <ab>voc.</ab> is used in the address to a <ns>Brāhman</ns>, added after his <ab>N.</ab>), <ls>Sāy. on AitBr. i, 6, 8.</ls> (<ls>Āp.</ls>)<info lex="m:f:n"/>
+;---------------------------------------------------
