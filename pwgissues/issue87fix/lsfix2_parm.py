@@ -27,5 +27,11 @@ targetobj2 = {
     # 'skip': [],
     'skip1': []
    },
+ 'sprd': {'dictcode': 'pwg',
+    'lscode': 'Spr. \(II\)', 'nparms': [1],
+    # 'skip': [],
+    'skip1': []
+   },
+
 }
 

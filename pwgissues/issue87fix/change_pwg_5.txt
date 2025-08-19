@@ -1,0 +1,90 @@
+; <L>92725<pc>6-1146<k1>viyoga<k2>viyoga
+853675 old <ls n="Spr. (II)">1289 (I).</ls> {#vizayARAm#}
+;
+853675 new <ls n="Spr.">(I) 1289.</ls> {#vizayARAm#}
+;---------------------------------------------------
+; <L>92725<pc>6-1146<k1>viyoga<k2>viyoga
+853676 old <ls n="Spr. (II)">668 (II).</ls> {#tava viyogena#} {%weil du fehlst%}
+;
+853676 new <ls>Spr. (II) 668.</ls> {#tava viyogena#} {%weil du fehlst%}
+;---------------------------------------------------
+; <L>95253<pc>6-1357<k1>veda<k2>ve/da<h>1
+878521 old <ls n="Spr. (II)">3,2.</ls> {#ekavedasyAjYAnAdvedAste bahavaH kftAH#} (im <is>Dvāpara</is>)
+;
+878521 new <ls n="M.">3,2.</ls> {#ekavedasyAjYAnAdvedAste bahavaH kftAH#} (im <is>Dvāpara</is>)
+;---------------------------------------------------
+; <L>95906<pc>6-1408<k1>vEra<k2>vE/ra
+884543 old <ls n="Spr. (II)">384.fg.</ls> {#yasya vE lokavIreRa badDaM vEraM mahAtmanA#}
+;
+884543 new <ls n="Spr. (II)">384. fg.</ls> {#yasya vE lokavIreRa badDaM vEraM mahAtmanA#}
+;---------------------------------------------------
+; <L>101574<pc>7-0349<k1>Sri<k2>Sri<h>1
+940052 old <ls>Spr. (II) 5356. v. l.</ls> {#anyo'nyamASritya#}
+;
+940052 new <ls>Spr. (II) 5356, v. l.</ls> {#anyo'nyamASritya#}
+;---------------------------------------------------
+; <L>101574<pc>7-0349<k1>Sri<k2>Sri<h>1
+940067 old <ls n="Spr. (II)">5085. act.</ls> : {#yaTA parvatamAdIptaM nASrayanti mfgadvijAH#}
+;
+940067 new <ls n="Spr. (II)">5085.</ls> act. : {#yaTA parvatamAdIptaM nASrayanti mfgadvijAH#}
+;---------------------------------------------------
+; <L>104019<pc>7-0575<k1>sattva<k2>sattva/
+965514 old <ls n="Spr. (II)">5712 = 6145.</ls> {#sarvaH kfcCragato 'pi vAYCati janaH sattvAnurUpaM Palam#}
+;
+965514 new <ls n="Spr. (II)">5712</ls> = <ls n="Spr. (II)">6145.</ls> {#sarvaH kfcCragato 'pi vAYCati janaH sattvAnurUpaM Palam#}
+;---------------------------------------------------
+; <L>106276<pc>7-0759<k1>saMBoga<k2>saMBoga/
+987635 old <ls>Spr. (II) 6200.</ls> {#priya°#} {%der Genuss an einem Freunde%} (oder zu <ls n="Spr. (II)">2) 1015.</ls>
+;
+987635 new <ls>Spr. (II) 6200.</ls> {#priya°#} {%der Genuss an einem Freunde%} (oder zu 2) <ls n="Spr. (II)">1015.</ls>
+;---------------------------------------------------
+; <L>106469<pc>7-0783<k1>sarasa<k2>sa/rasa<h>2
+990278 old <ls n="Spr. (II)">6095 (5716</ls> ist wohl {#sarasA#} st. {#saralA#} zu lesen). {#parisyando vAcAmaBinavavilAsoktisarasaH#}
+;
+990278 new <ls n="Spr. (II)">6095</ls> (<ls n="Spr. (II)">5716</ls> ist wohl {#sarasA#} st. {#saralA#} zu lesen). {#parisyando vAcAmaBinavavilAsoktisarasaH#}
+;---------------------------------------------------
+; <L>109403<pc>7-0995<k1>sidDi<k2>sidDi
+1016979 old <ls n="Spr. (II)">3754) 2167. 2119.</ls> {#sAmasidDiM na vetsi#}
+;
+1016979 new <ls n="Spr. (II)">3754</ls>) <ls n="Spr. (II)">2167.</ls> <ls n="Spr. (II)">2119.</ls> {#sAmasidDiM na vetsi#}
+;---------------------------------------------------
+; <L>109818<pc>7-1035<k1>suKacCedya<k2>suKacCedya
+1021557 old <ls>Spr. (II) 5859.</ls> <ls n="Spr. (II)">7092. v. l.</ls>
+;
+1021557 new <ls>Spr. (II) 5859.</ls> <ls n="Spr. (II)">7092, v. l.</ls>
+;---------------------------------------------------
+; <L>112655<pc>7-1189<k1>sev<k2>sev
+1044098 old <ls n="Spr. (II)">1190. 1246. 2527 (act.). 3131. 3744. 3779.</ls> {#tvaNmAMsAsTimayaM vapurmfgadfSAm#}
+;
+1044098 new <ls n="Spr. (II)">1190. 1246. 2527</ls> (act.). <ls n="Spr. (II)">3131. 3744. 3779.</ls> {#tvaNmAMsAsTimayaM vapurmfgadfSAm#}
+;---------------------------------------------------
+; <L>112655<pc>7-1189<k1>sev<k2>sev
+1044099 old <ls n="Spr. (II)">3838. 4045. 5088. 5271. 7080 (act.). 7172.</ls> <ls>KATHĀS. 11,3.</ls> <ls n="KATHĀS.">17,91.</ls> <ls n="KATHĀS. 17,">101.</ls> {#suratakrIqAm#}
+;
+1044099 new <ls n="Spr. (II)">3838. 4045. 5088. 5271. 7080</ls> (act.). <ls n="Spr. (II)">7172.</ls> <ls>KATHĀS. 11,3.</ls> <ls n="KATHĀS.">17,91.</ls> <ls n="KATHĀS. 17,">101.</ls> {#suratakrIqAm#}
+;---------------------------------------------------
+; <L>114616<pc>7-1391<k1>smfti<k2>smfti
+1067321 old <ls>Spr. (II) 4282. v. l.</ls> für {#spfhA#}.
+;
+1067321 new <ls>Spr. (II) 4282, v. l.</ls> für {#spfhA#}.
+;---------------------------------------------------
+; <L>116375<pc>7-1560<k1>hartavya<k2>hartavya
+1086787 old <ls n="Spr. (II)">3,56,27</ls>).
+;
+1086787 new <ls n="R.">3,56,27</ls>).
+;---------------------------------------------------
+; <L>116549<pc>7-1575<k1>has<k2>has<h>2
+1088703 old <ls n="Spr. (II)">13,2238</ls> zu lesen).
+;
+1088703 new <ls n="MBH.">13,2238</ls> zu lesen).
+;---------------------------------------------------
+; <L>116890<pc>7-1611<k1>hiMsa<k2>hi/Msa
+1092926 old <ls>Spr. (II) 225.</ls> <ls n="Spr. (II)">5437. v. l.</ls> <ls n="Spr. (II)">6943</ls> (= <ls>MBH. 13,1664</ls>). <ls n="Spr. (II)">7391.</ls> <ls>RĀJA-TAR. 2,53. 3,27.</ls> <ls>Verz. d. Oxf. H. 80,b,6. fgg. 103,b,16.</ls> <ls>BHĀG. P. 2,6,8.</ls> <ls n="BHĀG. P.">3,29,8.</ls> <ls n="BHĀG. P.">5,9,18.</ls> <ls>PAÑCAT. 60,6.</ls> <ls>SARVADARŚANAS. 43,10. 115,14.</ls> {#hiMsopakArin#}
+;
+1092926 new <ls>Spr. (II) 225.</ls> <ls n="Spr. (II)">5437, v. l.</ls> <ls n="Spr. (II)">6943</ls> (= <ls>MBH. 13,1664</ls>). <ls n="Spr. (II)">7391.</ls> <ls>RĀJA-TAR. 2,53. 3,27.</ls> <ls>Verz. d. Oxf. H. 80,b,6. fgg. 103,b,16.</ls> <ls>BHĀG. P. 2,6,8.</ls> <ls n="BHĀG. P.">3,29,8.</ls> <ls n="BHĀG. P.">5,9,18.</ls> <ls>PAÑCAT. 60,6.</ls> <ls>SARVADARŚANAS. 43,10. 115,14.</ls> {#hiMsopakArin#}
+;---------------------------------------------------
+; <L>117897<pc>7-1677<k1>hlAd<k2>hlAd<h>1
+1101621 old <ls n="Spr. (II)">4574. partic.</ls> {#hlanna#}
+;
+1101621 new <ls n="Spr. (II)">4574.</ls> partic. {#hlanna#}
+;---------------------------------------------------

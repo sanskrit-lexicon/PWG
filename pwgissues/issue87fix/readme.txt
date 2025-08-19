@@ -228,7 +228,7 @@ csl-websanlexicon # pull
 csl-apidev # pull
 
 ---------------
-# update pwg display and pw display and pwkvn display
+# update pwg display
 cd csl-pywork/v02
 sh generate_dict.sh pwg  ../../PWGScan/2020/
 
@@ -241,5 +241,110 @@ git commit -m "issue87fix 'Spr. (I)' link splitting (pwg)
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 
-------------------------------------------------------------
-THE END
+============================================================
+More focusing on Spr. (II) in pwg
+
+python lsfix2.py sprd temp_pwg_4.txt lsfix2_sprd_4.txt
+1129105 lines read from temp_pwg_4.txt
+123366 entries found
+8433 lines written to lsfix2_sprd_4.txt
+(True, 1) 8279
+('fixed', 1) 128
+(False, 1) 12
+(None, 1) 14
+
+cp temp_pwg_4.txt temp_pwg_5.txt
+
+Manual change to temp_pwg_5.txt for the None and False cases above.
+
+# remake xml from temp_pwg_5.txt and check
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+cp temp_pwg_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok, as expected
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+-- end of 'remake xml ...'
+
+# regen fix file
+python lsfix2.py sprd temp_pwg_5.txt lsfix2_sprd_5.txt
+8435 lines written to lsfix2_sprd_5.txt
+(True, 1) 8296
+('fixed', 1) 131
+(None, 1) 8
+
+The 'None' cases are acceptable.
+
+# Apply the fixes
+python dict_replace2.py temp_pwg_5.txt lsfix2_sprd_5.txt temp_pwg_6.txt
+8435 lines read from lsfix2_sprd_5.txt
+130 lines to change
+apply_repls: 130 lines changed
+
+
+Documentation
+python diff_to_changes_dict.py temp_pwg_4.txt temp_pwg_5.txt change_pwg_5.txt
+18 changes written to change_pwg_5.txt
+
+python diff_to_changes_dict.py temp_pwg_5.txt temp_pwg_6.txt change_pwg_6.txt
+130 changes written to change_pwg_6.txt
+
+python lsfix2.py sprd temp_pwg_6.txt lsfix2_sprd_6.txt
+8730 lines written to lsfix2_sprd_6.txt
+(True, 1) 8722
+(None, 1) 8
+
+python lsfix2.py sprc temp_pwg_6.txt lsfix2_sprc_6.txt
+171 lines written to lsfix2_sprc_6.txt
+(True, 1) 171
+
+
+--------------------------------------------
+# check xml, regen pwg displays using temp_pwg_6.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+cp temp_pwg_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+# ok, as expected
+# return here
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+
+============================================================
+sync to github:
+------------------
+# csl-orig 
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+diff temp_pwg_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt | wc -l
+#0  as expected
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .
+git commit -m "issue87fix  splitting 'Spr. (II) N' refs
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+
+============================================================
+sync to Cologne, pull changed repos, redo the pwg displays
+
+---------------
+csl-orig #pull
+
+---------------
+# update pwg display
+cd csl-pywork/v02
+sh generate_dict.sh pwg  ../../PWGScan/2020/
+
+=======================================================
+# sync issue87fix to github.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
+git pull
+git add .
+git commit -m "issue87fix 'Spr. (I)' link splitting (pwg)
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
+git push
+==========================================
+IS THIS THE END?
