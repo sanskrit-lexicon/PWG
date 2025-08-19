@@ -343,7 +343,7 @@ sh generate_dict.sh pwg  ../../PWGScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue87fix
 git pull
 git add .
-git commit -m "issue87fix 'Spr. (I)' link splitting (pwg)
+git commit -m "issue87fix 'Spr. (II) N' link splitting (pwg)
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 ==========================================
