@@ -1,0 +1,55 @@
+; <L>59350<pc>5-0676<k1>mahotsAha<k2>mahotsAha
+576603 old <ls>KĀM. NĪTIS. 16,30.</ls> <ls>Spr. 2882. <is>Śiva</is></ls> <ls>ŚIV.</ls> Bei der Uebersetzung von
+;
+576603 new <ls>KĀM. NĪTIS. 16,30.</ls> <ls>Spr. 2882.</ls> <is>Śiva</is> <ls>ŚIV.</ls> Bei der Uebersetzung von
+;---------------------------------------------------
+; <L>60207<pc>5-0753<k1>mAlin<k2>mAli/n
+585211 old <ls>Spr. 1445, v. l. (Th. III, S. 371).</ls>
+;
+585211 new <ls>Spr. 1445, v. l.</ls> (<span>Th. III, S. 371</span>).
+;---------------------------------------------------
+; <L>63402<pc>5-0979<k1>anarTa<k2>anarTa<h>1
+611938 old <ls>Spr. 1446</ls> (Conj.). {#°paRqita#} {%sich auf Unheil verstehend%} <ab>d. i.</ab> {%Unheil zu stiften verstehend%} (oder zu 2. {#anarTa#}
+;
+611938 new <ls>Spr. 1446</ls> (Conj.). {#°paRqita#} {%sich auf Unheil verstehend%} <ab>d. i.</ab> {%Unheil zu stiften verstehend%} (oder zu 2. {#anarTa#} 3.) <ls n="Spr.">2352.</ls>
+;---------------------------------------------------
+; <L>63402<pc>5-0979<k1>anarTa<k2>anarTa<h>1
+611939 old <ls n="Spr.">3.) 2352.</ls>
+;
+611939 new 
+;---------------------------------------------------
+; <L>64107<pc>5-1006<k1>apamala<k2>apamala
+616136 old <ls>Spr. 1753, v. l. (Th. II, S. 340</ls>)
+;
+616136 new <ls>Spr. 1753, v. l.</ls> (<span>Th. II, S. 340</span>)
+;---------------------------------------------------
+; <L>66546<pc>5-1107<k1>Ap<k2>Ap
+631346 old <ls n="Spr.">523. v. l.</ls> {#asamApta#} {%um Etwas%} (instr.) {%nicht voll, woran Etwas fehlt%}
+;
+631346 new <ls n="Spr.">523, v. l.</ls> {#asamApta#} {%um Etwas%} (instr.) {%nicht voll, woran Etwas fehlt%}
+;---------------------------------------------------
+; <L>76989<pc>5-1541<k1>nABijAta<k2>nABijAta
+700299 old {#nABijAta#}¦ <lex>adj.</lex> {%nicht von edler Geburt%} (1. {#na + a°)#} und zugleich {%aus einem Nabel%} ({#nABi + jAta#}) {%hervorgegangen%}
+;
+700299 new {#nABijAta#}¦ <lex>adj.</lex> {%nicht von edler Geburt%} (1. {#na + a°#}) und zugleich {%aus einem Nabel%} ({#nABi + jAta#}) {%hervorgegangen%}
+;---------------------------------------------------
+; <L>86010<pc>6-0505<k1>lamb<k2>lamb<h>1
+780987 old <ls>Spr. 4721. v. l.</ls> {#janapade lakzmIH samAlambatAm#} {%sich niederlassen auf.%} — caus. {%hängen%} (trans.) {%an%}: {#taM Danuzi samAlambya#}
+;
+780987 new <ls>Spr. 4721, v. l.</ls> {#janapade lakzmIH samAlambatAm#} {%sich niederlassen auf.%} — caus. {%hängen%} (trans.) {%an%}: {#taM Danuzi samAlambya#}
+;---------------------------------------------------
+; <L>90297<pc>6-0944<k1>vAruRa<k2>vAruRa/
+829845 old <ls>Spr. 2751.fg.</ls> {#loka#}
+;
+829845 new <ls>Spr. 2751. fg.</ls> {#loka#}
+;---------------------------------------------------
+; <L>91355<pc>6-1026<k1>vijYa<k2>vijYa
+839798 old <ls>AK. 3,1,4.</ls> <ls>H. 341.</ls> <ls>MBH. 2,2353.</ls> <ls n="MBH. 2,">14885</ls> (<is>Śiva</is>). <ls>Spr. 660. 1678, v. l. (Th. III, S. 372). 2042, v. l. 2935, v. l.</ls> <ls>Verz. d. Oxf. H. 257,a, N. 3.</ls> <ls>LA. (III) 90,9.</ls> <ls>PAÑCAR. 1,1,81.</ls> {#ati°#}
+;
+839798 new <ls>AK. 3,1,4.</ls> <ls>H. 341.</ls> <ls>MBH. 2,2353.</ls> <ls n="MBH. 2,">14885</ls> (<is>Śiva</is>). <ls>Spr. 660. 1678, v. l.</ls> (<span>Th. III, S. 372</span>). <ls n="Spr.">2042, v. l. 2935, v. l.</ls> <ls>Verz. d. Oxf. H. 257,a, N. 3.</ls> <ls>LA. (III) 90,9.</ls> <ls>PAÑCAR. 1,1,81.</ls> {#ati°#}
+;---------------------------------------------------
+; <L>96236<pc>6-1431<k1>vyaYjana<k2>vya/Yjana
+887467 old <ls>Spr. 2906.fg.</ls> {#vivAhitAyAH kanyAyA harati vyaYjanam#}
+;
+887467 new <ls>Spr. 2906. fg.</ls> {#vivAhitAyAH kanyAyA harati vyaYjanam#}
+;---------------------------------------------------
