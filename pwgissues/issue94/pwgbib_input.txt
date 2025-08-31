@@ -49,12 +49,12 @@ R1.001	ĀŚV. ŚR.	Āśv. Śr.	ĀŚV. ŚR. = ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI 
 1.034a	BENF. Vollst. Gr.	Benf. Vollst. Gr.	BENFEY, Vollständige Grammatik der Sanskritsprache. Leipzig 1852. [Cologne addition]
 1.035	BHAG.	Bhag.	BHAG. = BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. Bibl. 116).
 1.036	BHĀG. P.	Bhāg. P.	BHĀG. P. = BHĀGAVATAPURĀṆA, nach Anführungen im VP. und ŚKDR.&#13;&#10;Von ऊ an sind die 9 von BURNOUF edirten Skandha (Gild. Bibl. 125)&#13;&#10;ausgebeutet worden.
-1.036a	BHĀG. P. ed. Bomb.	Bhāg. P. ed. Bomb.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Bombay edition ? [Cologne Addition]
+1.036a	BHĀG. P. ed. Bomb.	Bhāg. P. ed. Bomb.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Bombay edition [Cologne Addition]
 1.036b	BHĀG. P. ed. BURN.	Bhāg. P. ed. Burn.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Burnouf edition ? [Cologne Addition]
 1.037	BHĀNUD.	Bhānud.	BHĀNUD. = BHĀNUDĪKṢITA, ein Commentator des AMARAKOṢA; nach&#13;&#10;Anführungen im ŚKDR.
 1.038	BHAR.	Bhar.	BHAR. = BHARATA, ein Autor über Schauspielkunst, verschieden vom&#13;&#10;Scholiasten zum AK. (dieser nach Anführungen im ŚKDR.).
 1.039	BHARTṚ.	Bhartṛ.	BHARTṚ. = BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl. 156), mit Berück-&#13;&#10;sichtigung des Werkchens; Variae lectiones ad Bohlenii editionem&#13;&#10;Bhartriharis sententiarum pertinentes, e codicibus extractae per&#13;&#10;A. SCHIEFNER et A. WEBER. Berolini 1850.
-1.039a	BHARTṚ Suppl..	Bhartṛ Suppl..	BHARTṚ Suppl.. = ? [Cologne Addition]
+1.039a	BHARTṚ. Suppl.	Bhartṛ Suppl.	BHARTṚHARI, Ausg. von BOHLEN, Supplementum..  [Cologne Addition]
 1.040	BHĀṢĀP.	Bhāṣāp.	*BHĀṢĀP. = BHĀṢĀPARICCHEDA nach der Ausgabe von RÖER in der&#13;&#10;Bibliotheca indica.
 1.041	BHAṬṬ.	Bhaṭṭ.	*BHAṬṬ. = BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137).
 1.042	BHĀVAPR.	Bhāvapr.	BHĀVAPR. = BHĀVAPRAKĀŚA, ein medic. Wörterbuch; nach Anführungen&#13;&#10;im ŚKDR.
@@ -160,6 +160,7 @@ R1.001	ĀŚV. ŚR.	Āśv. Śr.	ĀŚV. ŚR. = ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI 
 1.121	HARISV.	Harisv.	HARISV. = HARISVĀMIN, ein Scholiast des ŚAT. BR.
 1.122	HARIV.	Hariv.	*HARIV. = HARIVAṂŚA im 4ten Bande des MBH.&#13;&#10; Aus diesem Werke habenwir die Nomina propria &#13;&#10;mit Benutzung des Index in der LANGLOIS'-&#13;&#10;schen Uebersetzung (GILD. Bibl. 122) aufgenommen.
 1.123	H. ś.	H. ś.	H. ś. = die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINTĀMAṆI (s. unter H.),&#13;&#10;S. 421--443.
+1.123a	ś.	ś.	ś. = die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINTĀMAṆI (s. unter H.),&#13;&#10;S. 421--443.
 1.124	HIḌ.	Hiḍ.	HIḌ. = HIḌIMBAVADHA in BOPP'S Ardschuna's Reise zu Indra's Himmel,&#13;&#10;nebst anderen Episoden des Maha-Bharata. Berlin 1824.
 1.125	Hindu Th. (WILSON)	Hindu Th. (Wilson)	Hindu Th. (WILSON) = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by HORACE HAYMAN WILSON. Second edition. London 1835.
 1.125a	WILSON, Hindu Th.	Wilson, Hindu Th.	WILSON, Hindu Th. = Select specimens of the Theatre of the Hindus,&#13;&#10;translated from the original Sanscrit, by HORACE HAYMAN WILSON.&#13;&#10;Second edition. London 1835. [Cologne Addition]
@@ -2831,6 +2832,7 @@ c.2173	HOEFER, Sanskrit-Lesebuch	Hoefer, Sanskrit-Lesebuch	? [Cologne Addition]
 c.2174	GOLĀDHY. SPHUṬAGATIV.	Golādhy. Sphuṭagativ.	? [Cologne Addition]
 c.2175	GOLĀDHY. GRAHMAṆAV.	Golādhy. Grahmaṇav.	? [Cologne Addition]
 c.2176	WEBER, Indische Streifen	Weber, Indische Streifen	Indische streifen. Eine sammlung von bisher in zeitschriften zerstreuten kleineren abhandlungen, 1868 by Albrecht Weber  [Cologne Addition]
+c.2176a	WEBER, BHAG.	Weber, Bhag.	Über ein Fragment der Bhagavatî, A. Weber, 1865  [Cologne Addition]
 c.2177	A Catal. of Skt Mss. in priv. libr. of the north-west prov.	A Catal. of Skt Mss. in priv. libr. of the north-west prov.	? [Cologne Addition]
 c.2177a	A Catal. of Skt Mss. in priv. libr. of the north-west provinces	A Catal. of Skt Mss. in priv. libr. of the north-west provinces	? [Cologne Addition]
 c.2178	KĀṬAV.	Kāṭav.	? [Cologne Addition]
