@@ -1,0 +1,90 @@
+; <L>4104<pc>1-048-a<k1>aniyata<k2>aniyata
+15201 old <div n="1">— 1〉 {%ungebunden, unbeschränkt, nicht fest bestimmt%} <ls>VARĀH. BṚH. S. 5,5. 11,15</ls>.
+;
+15201 new <div n="1">— 1〉 {%ungebunden, unbeschränkt, nicht fest bestimmt%} <ls>VARĀH. BṚH. S. 5,5.</ls> <ls n="VARĀH. BṚH. S.">11,15</ls>.
+;---------------------------------------------------
+; <L>12816<pc>1-152-a<k1>astamita<k2>a/stamita
+48355 old <div n="1">— 1〉 {%untergegangen, heliakisch%} — <ls>VARĀH. BṚH. S. 6,6. 7,19</ls>. {#°te#} (<ab>sc.</ab> {#sUrye#}) {%nach Sonnenuntergang%} <ls>Chr. 38,7</ls>.
+;
+48355 new <div n="1">— 1〉 {%untergegangen, heliakisch%} — <ls>VARĀH. BṚH. S. 6,6.</ls> <ls n="VARĀH. BṚH. S.">7,19</ls>. {#°te#} (<ab>sc.</ab> {#sUrye#}) {%nach Sonnenuntergang%} <ls>Chr. 38,7</ls>.
+;---------------------------------------------------
+; <L>14845<pc>1-176-a<k1>Apa<k2>Apa<h>2
+56159 old <div n="2">— a〉 <ab>N. pr.</ab> eines der 8 <is>Vasu</is> <ls>VARĀH. BṚH. S. 53,48. 49. 51</ls>. <ls>VP. 1,15,111. fg.</ls>
+;
+56159 new <div n="2">— a〉 <ab>N. pr.</ab> eines der 8 <is>Vasu</is> <ls>VARĀH. BṚH. S. 53,48.</ls> <ls n="VARĀH. BṚH. S. 53,">49.</ls> <ls n="VARĀH. BṚH. S. 53,">51</ls>. <ls>VP. 1,15,111. fg.</ls>
+;---------------------------------------------------
+; <L>27959<pc>2-066-c<k1>kila<k2>ki/la<h>1
+110510 old <hom>1.</hom> {#ki/la#} ({#kilA#})¦ <lex>Adv.</lex> {%quidem, fürwahr, gewiss, ja, nämlich; wie man sagt, angeblich%} <ls>VARĀH. BṚH. S. 5,2. 12,21. 81,24</ls>. <ls>KĀD. 158,17. 219,12</ls>. Ausnahmsweise am Anfange eines Halbverses oder Satzes. Nach den Lexicographen {#vArttAyAm, saMBAvye#}, [Page2-067-a] {#niScaye#}, {#anumatO, arucO, aMlIke#} und {#hetO#}.
+;
+110510 new <hom>1.</hom> {#ki/la#} ({#kilA#})¦ <lex>Adv.</lex> {%quidem, fürwahr, gewiss, ja, nämlich; wie man sagt, angeblich%} <ls>VARĀH. BṚH. S. 5,2.</ls> <ls n="VARĀH. BṚH. S.">12,21.</ls> <ls n="VARĀH. BṚH. S.">81,24</ls>. <ls>KĀD. 158,17. 219,12</ls>. Ausnahmsweise am Anfange eines Halbverses oder Satzes. Nach den Lexicographen {#vArttAyAm, saMBAvye#}, [Page2-067-a] {#niScaye#}, {#anumatO, arucO, aMlIke#} und {#hetO#}.
+;---------------------------------------------------
+; <L>35618<pc>2-168-b<k1>guYja<k2>guYja
+143263 old <div n="2">— a〉 {%<bot>Abrus precatorius</bot>%} (die Pflanze und der Same). Das {%Samenkorn%} auch als {%<ab>best.</ab> Gewicht%} <ls>VARĀH. BṚH. S. 81,11. 12</ls>.
+;
+143263 new <div n="2">— a〉 {%<bot>Abrus precatorius</bot>%} (die Pflanze und der Same). Das {%Samenkorn%} auch als {%<ab>best.</ab> Gewicht%} <ls>VARĀH. BṚH. S. 81,11.</ls> <ls n="VARĀH. BṚH. S. 81,">12</ls>.
+;---------------------------------------------------
+; <L>46383<pc>3-036-b<k1>turuzka<k2>turuzka
+190387 old <div n="1">— 2〉 (*<lex>m.</lex> <lex>n.</lex>). {%Olibanum%} <ls>VARĀH. BṚH. S. 77,9. 23. 26. 30</ls>.
+;
+190387 new <div n="1">— 2〉 (*<lex>m.</lex> <lex>n.</lex>). {%Olibanum%} <ls>VARĀH. BṚH. S. 77,9.</ls> <ls n="VARĀH. BṚH. S. 77,">23.</ls> <ls n="VARĀH. BṚH. S. 77,">26.</ls> <ls n="VARĀH. BṚH. S. 77,">30</ls>.
+;---------------------------------------------------
+; <L>51259<pc>3-102-c<k1>durbali<k2>durbali
+210681 old {#durbali#} und {#°ka#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Vogel%} <ls>VARĀH. BṚH. S. 88,28. 7</ls>.
+;
+210681 new {#durbali#} und {#°ka#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Vogel%} <ls>VARĀH. BṚH. S. 88,28.</ls> <ls n="VARĀH. BṚH. S. 88,">7</ls>.
+;---------------------------------------------------
+; <L>53205<pc>3-126-b<k1>dyuniSa<k2>dyuniSa
+218147 old {#dyuniSa#}¦ <lex>n.</lex> <ab>Sg.</ab> (nur {#°niSam#} <ab>Nom.</ab> und <ab>Acc.</ab> {%einen Tag und eine Nacht hindurch, bei Tage und bei Nacht%} <ls>VARĀH. BṚH. S. 21,3. 25,3. 88,3</ls>) und <ab>Du.</ab> (nur {#°niSe#}) <ab>dass.</ab>
+;
+218147 new {#dyuniSa#}¦ <lex>n.</lex> <ab>Sg.</ab> (nur {#°niSam#} <ab>Nom.</ab> und <ab>Acc.</ab> {%einen Tag und eine Nacht hindurch, bei Tage und bei Nacht%} <ls>VARĀH. BṚH. S. 21,3.</ls> <ls n="VARĀH. BṚH. S.">25,3.</ls> <ls n="VARĀH. BṚH. S.">88,3</ls>) und <ab>Du.</ab> (nur {#°niSe#}) <ab>dass.</ab>
+;---------------------------------------------------
+; <L>55551<pc>3-163-c<k1>DUpya<k2>DUpya
+228422 old <div n="1">— 1〉 <lex>Adj.</lex> {%zu beräuchern mit%} (im <ab>Comp.</ab> vorangehend) [Page3-164-a] <ls>VARĀH. BṚH. S. 77,26. 30</ls>.
+;
+228422 new <div n="1">— 1〉 <lex>Adj.</lex> {%zu beräuchern mit%} (im <ab>Comp.</ab> vorangehend) [Page3-164-a] <ls>VARĀH. BṚH. S. 77,26.</ls> <ls n="VARĀH. BṚH. S. 77,">30</ls>.
+;---------------------------------------------------
+; <L>56242<pc>3-173-b<k1>naKa<k2>naKa/
+231320 old <div n="1">— 2〉 (*<lex>n.</lex> und <lex>f.</lex> {#I#}) {%<zoo>Unguis odoratus</zoo>%} <ls>VARĀH. BṚH. S. 77,8. fgg. 104,61</ls>. <ls>HEMĀDRI 1,435,12</ls>.
+;
+231320 new <div n="1">— 2〉 (*<lex>n.</lex> und <lex>f.</lex> {#I#}) {%<zoo>Unguis odoratus</zoo>%} <ls>VARĀH. BṚH. S. 77,8. fgg.</ls> <ls n="VARĀH. BṚH. S.">104,61</ls>. <ls>HEMĀDRI 1,435,12</ls>.
+;---------------------------------------------------
+; <L>66241<pc>4-072-b<k1>pAralOkika<k2>pAralOkika
+273226 old <div n="2">— b〉 <ab>Bez.</ab> einer <ab>best.</ab> Perlengrube und der darin gefundenen Perlen <ls>VARĀH. BṚH. S. 81,2. 4</ls>.
+;
+273226 new <div n="2">— b〉 <ab>Bez.</ab> einer <ab>best.</ab> Perlengrube und der darin gefundenen Perlen <ls>VARĀH. BṚH. S. 81,2.</ls> <ls n="VARĀH. BṚH. S. 81,">4</ls>.
+;---------------------------------------------------
+; <L>68740<pc>4-107-c<k1>puzyasnAna<k2>puzyasnAna
+283656 old {#puzyasnAna#}¦ <lex>n.</lex> {%eine <ab>best.</ab> zur Zeit, da der Mond im Sternbilde%} <is>Puṣya</is> {%steht, stattfindende Reinigungsceremonie%} <ls>VARĀH. BṚH. S. 48,3. 54,84. 78,22</ls>.
+;
+283656 new {#puzyasnAna#}¦ <lex>n.</lex> {%eine <ab>best.</ab> zur Zeit, da der Mond im Sternbilde%} <is>Puṣya</is> {%steht, stattfindende Reinigungsceremonie%} <ls>VARĀH. BṚH. S. 48,3.</ls> <ls n="VARĀH. BṚH. S.">54,84.</ls> <ls n="VARĀH. BṚH. S.">78,22</ls>.
+;---------------------------------------------------
+; <L>71651<pc>4-148-a<k1>pratisara<k2>pratisara/
+295132 old <div n="1">— 1〉 <lex>m.</lex> <lex>f.</lex> ({#A#}) und (*<lex>n.</lex>) {%ein als Amulet dienendes Band%} (<ab>insbes.</ab> bei der Hochzeitsceremonie) <ls>MBH. 3,309,4</ls>. <ls>VARĀH. BṚH. S. 44,5. 48,33</ls>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}.
+;
+295132 new <div n="1">— 1〉 <lex>m.</lex> <lex>f.</lex> ({#A#}) und (*<lex>n.</lex>) {%ein als Amulet dienendes Band%} (<ab>insbes.</ab> bei der Hochzeitsceremonie) <ls>MBH. 3,309,4</ls>. <ls>VARĀH. BṚH. S. 44,5.</ls> <ls n="VARĀH. BṚH. S.">48,33</ls>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}.
+;---------------------------------------------------
+; <L>73810<pc>4-179-c<k1>prAkfta<k2>prA/kfta
+304192 old <div n="2">— d〉 {#gati#} in der <ab>Astr.</ab> {%eine der 7 Strecken der Planetenbahn%} (die Mondhäuser <is>Svāti</is>, <is>Bharaṇī</is>, <is>Rohiṇī</is> und <is>Kṛttikā</is> umfassend) <ls>VARĀH. BṚH. S. 7,8. 9. 13. 14</ls>.
+;
+304192 new <div n="2">— d〉 {#gati#} in der <ab>Astr.</ab> {%eine der 7 Strecken der Planetenbahn%} (die Mondhäuser <is>Svāti</is>, <is>Bharaṇī</is>, <is>Rohiṇī</is> und <is>Kṛttikā</is> umfassend) <ls>VARĀH. BṚH. S. 7,8.</ls> <ls n="VARĀH. BṚH. S. 7,">9.</ls> <ls n="VARĀH. BṚH. S. 7,">13.</ls> <ls n="VARĀH. BṚH. S. 7,">14</ls>.
+;---------------------------------------------------
+; <L>76824<pc>4-222-c<k1>bAleya<k2>bAleya
+316468 old <div n="2">— a〉 {%Esel%} <ls>VARĀH. BṚH. S. 86,26. 88,5</ls>. {#bAleya#} <ab>geschr.</ab>
+;
+316468 new <div n="2">— a〉 {%Esel%} <ls>VARĀH. BṚH. S. 86,26.</ls> <ls n="VARĀH. BṚH. S.">88,5</ls>. {#bAleya#} <ab>geschr.</ab>
+;---------------------------------------------------
+; <L>99033<pc>6-038-b<k1>varzArDa<k2>varzArDa
+413451 old {#varzArDa#}¦ {%Halbjahr%}. <ab>Abl.</ab> {%nach einem halben Jahre%} <ls>VARĀH. BṚH. S. 42,10. 97,5</ls>.
+;
+413451 new {#varzArDa#}¦ {%Halbjahr%}. <ab>Abl.</ab> {%nach einem halben Jahre%} <ls>VARĀH. BṚH. S. 42,10.</ls> <ls n="VARĀH. BṚH. S.">97,5</ls>.
+;---------------------------------------------------
+; <L>111110<pc>6-217-a<k1>SastranipAta<k2>SastranipAta
+464370 old <div n="1">— 1〉 {%das Fallen des Schwertes, Tödtung durch Waffen, Kampf, Schlacht%} <ls>VARĀH. BṚH. S. 3,22. 7,3. 11,52. 58,51</ls>.
+;
+464370 new <div n="1">— 1〉 {%das Fallen des Schwertes, Tödtung durch Waffen, Kampf, Schlacht%} <ls>VARĀH. BṚH. S. 3,22.</ls> <ls n="VARĀH. BṚH. S.">7,3.</ls> <ls n="VARĀH. BṚH. S.">11,52.</ls> <ls n="VARĀH. BṚH. S.">58,51</ls>.
+;---------------------------------------------------
+; <L>112358<pc>6-234-b<k1>SiraHsnAna<k2>SiraHsnAna
+469566 old {#SiraHsnAna#}¦ <lex>n.</lex> {%das Reinigen —, Parfümiren des Kopfes%} <ls>VARĀH. BṚH. S. 77,4. 5</ls>. <ls>MĀRK. P. 34,35</ls>. <ls>BHĀG. P. 3,23,31</ls>.
+;
+469566 new {#SiraHsnAna#}¦ <lex>n.</lex> {%das Reinigen —, Parfümiren des Kopfes%} <ls>VARĀH. BṚH. S. 77,4.</ls> <ls n="VARĀH. BṚH. S. 77,">5</ls>. <ls>MĀRK. P. 34,35</ls>. <ls>BHĀG. P. 3,23,31</ls>.
+;---------------------------------------------------

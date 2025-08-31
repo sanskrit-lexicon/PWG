@@ -25,6 +25,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue90 Ṛv. wrongly for Ṛv. PRĀTIŚ.
 * issue91 Lacks in Instr.Sg.m.n. and Gen. Du. 
 * issue92 VARĀH. BṚH. S. : VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
+* issue92fix  ls split for VARĀHAMIHIRA'S BṚHATSAM̃HITĀ
 * issue93 N.	  NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
 * issue93fix/nala  ls split N. n,n
 * issue93fix/vid   ls split VID. N

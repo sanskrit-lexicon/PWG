@@ -1,0 +1,2000 @@
+; <L>19494<pc>2-0458<k1>kORinda<k2>kORinda
+180153 old <ls n="VARĀH. BṚH. S.">33.</ls> <ls>Var. l.</ls> : {#kOlinda#} .
+;
+180153 new <ls n="VARĀH. BṚH. S. 14,">33.</ls> <ls>Var. l.</ls> : {#kOlinda#} .
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204449 old <ls>VARĀH. BṚH. S. 54. 27.</ls> {#cintAM samupAgatA#}
+;
+204449 new <ls>VARĀH. BṚH. S. 54,27.</ls> {#cintAM samupAgatA#}
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204628 old <ls n="VARĀH. BṚH. S.">32,15. 41 (40),3.</ls> {#tanayaBavanamupagataH#}
+;
+204628 new <ls n="VARĀH. BṚH. S.">32,15.</ls> <ls n="VARĀH. BṚH. S.">41 (40),3.</ls> {#tanayaBavanamupagataH#}
+;---------------------------------------------------
+; <L>22267<pc>2-0733<k1>gAnDarva<k2>gAnDarva/
+210271 old <ls>VARĀH. BṚH. S. 15,3. 31 (30),11.</ls>
+;
+210271 new <ls>VARĀH. BṚH. S. 15,3.</ls> <ls n="VARĀH. BṚH. S.">31 (30),11.</ls>
+;---------------------------------------------------
+; <L>22887<pc>2-0782<k1>gfhaja<k2>gfhaja
+216047 old <ls>VARĀH. BṚH. S. 60. 7.</ls>
+;
+216047 new <ls>VARĀH. BṚH. S. 60,7.</ls>
+;---------------------------------------------------
+; <L>23011<pc>2-0789<k1>go<k2>go
+217005 old <ls>VARĀH. BṚH. S. 39 (38),7. 40 (39),3.</ls>
+;
+217005 new <ls>VARĀH. BṚH. S. 39 (38),7.</ls> <ls n="VARĀH. BṚH. S.">40 (39),3.</ls>
+;---------------------------------------------------
+; <L>23147<pc>2-0800<k1>goDUma<k2>goDU/ma
+218307 old <ls>VARĀH. BṚH. S. 15,6. 16,7. 19,6. 28,4. 40(39),2. fgg.</ls>
+;
+218307 new <ls>VARĀH. BṚH. S. 15,6. 16,7. 19,6. 28,4.</ls> <ls n="VARĀH. BṚH. S.">40 (39),2. fgg.</ls>
+;---------------------------------------------------
+; <L>23270<pc>2-0809<k1>gomaya<k2>goma/ya
+219477 old <ls>VARĀH. BṚH. S. 44 (43),7. 54,5. fgg.</ls>
+;
+219477 new <ls>VARĀH. BṚH. S. 44 (43),7.</ls> <ls n="VARĀH. BṚH. S.">54,5. fgg.</ls>
+;---------------------------------------------------
+; <L>23317<pc>2-0813<k1>gorasa<k2>gorasa
+219888 old <ls>VARĀH. BṚH. S. 44 (43),7. 53,20.</ls>
+;
+219888 new <ls>VARĀH. BṚH. S. 44 (43),7.</ls> <ls n="VARĀH. BṚH. S.">53,20.</ls>
+;---------------------------------------------------
+; <L>23429<pc>2-0819<k1>gozWa<k2>gozWa/
+220731 old <ls>VARĀH. BṚH. S. 32,22. 44 (43),5. 47,11. 88,12.</ls>
+;
+220731 new <ls>VARĀH. BṚH. S. 32,22.</ls> <ls n="VARĀH. BṚH. S.">44 (43),5.</ls> <ls n="VARĀH. BṚH. S.">47,11. 88,12.</ls>
+;---------------------------------------------------
+; <L>23656<pc>2-0834<k1>graB<k2>graB
+222914 old <ls>VARĀH. BṚH. S. 42 (43),30. 85,6. 24. fgg.</ls>
+;
+222914 new <ls>VARĀH. BṚH. S. 42 (43),30.</ls> <ls n="VARĀH. BṚH. S.">85,6. 24. fgg.</ls>
+;---------------------------------------------------
+; <L>23656<pc>2-0834<k1>graB<k2>graB
+223431 old <ls>VARĀH. BṚH. S. 42 (43),18. 53.</ls>
+;
+223431 new <ls>VARĀH. BṚH. S. 42 (43),18.</ls> <ls n="VARĀH. BṚH. S. 42,">53.</ls>
+;---------------------------------------------------
+; <L>23670<pc>2-0850<k1>graha<k2>gra/ha
+223909 old <ls>VARĀH. BṚH. S. 24,6. 46</ls>, <ls n="VARĀH. BṚH. S.">6(7). 47,6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht
+;
+223909 new <ls>VARĀH. BṚH. S. 24,6.</ls> <ls n="VARĀH. BṚH. S.">46, 6 (7).</ls> <ls n="VARĀH. BṚH. S.">47,6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht
+;---------------------------------------------------
+; <L>23670<pc>2-0850<k1>graha<k2>gra/ha
+223915 old <ls>VARĀH. BṚH. S. 16,40.</ls> <ls n="VARĀH. BṚH. S.">39(38),2. 27,c,21. 21,31. 27,a,11. 39(38),8.</ls> Im System der <is>Jaina</is> bilden die {%Planeten%} eine der 5 Arten der <is>Jyotiṣka</is>
+;
+223915 new <ls>VARĀH. BṚH. S. 16,40.</ls> <ls n="VARĀH. BṚH. S.">39 (38),2.</ls> <ls n="VARĀH. BṚH. S.">27,c,21.</ls> <ls n="VARĀH. BṚH. S.">21,31.</ls> <ls n="VARĀH. BṚH. S.">27,a,11.</ls> <ls n="VARĀH. BṚH. S.">39 (38),8.</ls> Im System der <is>Jaina</is> bilden die {%Planeten%} eine der 5 Arten der <is>Jyotiṣka</is>
+;---------------------------------------------------
+; <L>23670<pc>2-0850<k1>graha<k2>gra/ha
+223993 old <ls>VARĀH. BṚH. S. 5,8. 49. 63. 97. 45,84 (82).</ls> {#rAhu°#}
+;
+223993 new <ls>VARĀH. BṚH. S. 5,8. 49. 63. 97.</ls> <ls n="VARĀH. BṚH. S.">45,84 (82).</ls> {#rAhu°#}
+;---------------------------------------------------
+; <L>23675<pc>2-0852<k1>grahaRa<k2>gra/haRa
+224097 old <ls>H. an.</ls> <ls>MED.</ls> <ls>YĀJÑ. 1,218.</ls> <ls>ŚṚNGĀRAT. 6.</ls> <ls>VARĀH. BṚH. S. 2,c</ls> (<ls n="VARĀH. BṚH. S.">Bl. 1,b</ls>). <ls n="VARĀH. BṚH. S.">5,8.</ls> <ls n="VARĀH. BṚH. S. 5,">11.</ls> <ls n="VARĀH. BṚH. S. 5,">41 (40),1. 82 (80,b),20.</ls> {#grahaRaja#}
+;
+224097 new <ls>H. an.</ls> <ls>MED.</ls> <ls>YĀJÑ. 1,218.</ls> <ls>ŚṚNGĀRAT. 6.</ls> <ls>VARĀH. BṚH. S. 2,c (Bl. 1,b).</ls> <ls n="VARĀH. BṚH. S.">5,8.</ls> <ls n="VARĀH. BṚH. S. 5,">11.</ls> <ls n="VARĀH. BṚH. S.">41 (40),1.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),20.</ls> {#grahaRaja#}
+;---------------------------------------------------
+; <L>23706<pc>2-0855<k1>grahayudDa<k2>grahayudDa
+224335 old <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92. 93 (51. 52).</ls> <ls>VARĀH. BṚH. S. 2,c (Bl. 1,b). 5,95. 21,26</ls>; vgl.
+;
+224335 new <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92. 93 (51. 52).</ls> <ls>VARĀH. BṚH. S. 2,c (Bl. 1,b).</ls> <ls n="VARĀH. BṚH. S.">5,95. 21,26</ls>; vgl.
+;---------------------------------------------------
+; <L>23709<pc>2-0855<k1>grahavarza<k2>grahavarza
+224354 old <ls>VARĀH. BṚH. S. 2, e (Bl. 2,a). 107,3.</ls> Titel des 19ten <is>Adhyāyā</is> dess. Werkes, welcher lehrt, welches Heil oder Unheil die unter der Regentschaft der respectiven Planeten stehenden Jahre, Monate und Tage bringen.
+;
+224354 new <ls>VARĀH. BṚH. S. 2, e (Bl. 2,a).</ls> <ls n="VARĀH. BṚH. S.">107,3.</ls> Titel des 19ten <is>Adhyāyā</is> dess. Werkes, welcher lehrt, welches Heil oder Unheil die unter der Regentschaft der respectiven Planeten stehenden Jahre, Monate und Tage bringen.
+;---------------------------------------------------
+; <L>23853<pc>2-0866<k1>grEzmika<k2>grEzmika/
+225697 old <ls n="VARĀH. BṚH. S.">9,43. 39 (38),2.</ls> = {#grIzmamaDIte veda vA#} <is>gaṇa</is> {#vasantAdi#} zu <ls>P. 4,2,63.</ls>
+;
+225697 new <ls n="VARĀH. BṚH. S.">9,43.</ls> <ls n="VARĀH. BṚH. S.">39 (38),2.</ls> = {#grIzmamaDIte veda vA#} <is>gaṇa</is> {#vasantAdi#} zu <ls>P. 4,2,63.</ls>
+;---------------------------------------------------
+; <L>23884<pc>2-0871<k1>Gawa<k2>Gawa
+226238 old <ls>VARĀH. BṚH. S. 55(54),19. 26.</ls>
+;
+226238 new <ls>VARĀH. BṚH. S. 55 (54),19. 26.</ls>
+;---------------------------------------------------
+; <L>23887<pc>2-0873<k1>GawakAra<k2>GawakAra
+226314 old <ls>VARĀH. BṚH. S. 15,1. L.</ls> <ls>JĀT. 9,7.</ls>
+;
+226314 new <ls>VARĀH. BṚH. S. 15,1.</ls> <ls>VARĀH. L. JĀT. 9,7.</ls>
+;---------------------------------------------------
+; <L>23927<pc>2-0876<k1>GaRwa<k2>GaRwa
+226675 old <ls n="MBH.">13,871.</ls> <ls>ARJ. 2,3.</ls> <ls>R. 2,67,17.</ls> <ls n="R. 2,">89,12.</ls> <ls n="R.">5,9,21.</ls> <ls n="R.">6,35,11.</ls> <ls n="R. 6,">106,24.</ls> <ls>SUŚR. 2,385,18.</ls> <ls>PAÑCAT. 89,10. 228,22. 229,13. 15.</ls> <ls>VARĀH. BṚH. S. 42(43),7. 85,23. 86,107.</ls> <ls>HIOUEN-THSANG I,52. 431.</ls> <ls>WASSILYEW 211.</ls> {#GaRwAtAqa#} {%die Glocke schlagend%}
+;
+226675 new <ls n="MBH.">13,871.</ls> <ls>ARJ. 2,3.</ls> <ls>R. 2,67,17.</ls> <ls n="R. 2,">89,12.</ls> <ls n="R.">5,9,21.</ls> <ls n="R.">6,35,11.</ls> <ls n="R. 6,">106,24.</ls> <ls>SUŚR. 2,385,18.</ls> <ls>PAÑCAT. 89,10. 228,22. 229,13. 15.</ls> <ls>VARĀH. BṚH. S. 42 (43),7.</ls> <ls n="VARĀH. BṚH. S.">85,23. 86,107.</ls> <ls>HIOUEN-THSANG I,52. 431.</ls> <ls>WASSILYEW 211.</ls> {#GaRwAtAqa#} {%die Glocke schlagend%}
+;---------------------------------------------------
+; <L>24271<pc>2-0906<k1>cakra<k2>cakra/
+230321 old <ls>VARĀH. BṚH. S. 20,2. L.</ls> <ls>JĀT. 10,9.</ls> <ls>BṚH. 12,9.</ls>
+;
+230321 new <ls>VARĀH. BṚH. S. 20,2.</ls> <ls>VARĀH. L. JĀT. 10,9.</ls> <ls>BṚH. 12,9.</ls>
+;---------------------------------------------------
+; <L>24471<pc>2-0923<k1>caRqa<k2>caRqa/
+232327 old <ls>VARĀH. BṚH. S. 67</ls>, <ls n="VARĀH. BṚH. S.">110(111).</ls> {#aparADacaRqAdguroH#}
+;
+232327 new <ls>VARĀH. BṚH. S. 67,110 (111).</ls> {#aparADacaRqAdguroH#}
+;---------------------------------------------------
+; <L>24759<pc>2-0943<k1>candramaRqala<k2>candramaRqala
+234905 old <ls>VARĀH. BṚH. S. 3. 8.</ls>
+;
+234905 new <ls>VARĀH. BṚH. S. 3,8.</ls>
+;---------------------------------------------------
+; <L>24802<pc>2-0945<k1>candrasuta<k2>candrasuta
+235214 old <ls>VARĀH. BṚH. S. 7,6. 104,55. L.</ls> <ls>JĀT. 2,16.</ls>
+;
+235214 new <ls>VARĀH. BṚH. S. 7,6. 104,55.</ls> <ls>VARĀH. L. JĀT. 2,16.</ls>
+;---------------------------------------------------
+; <L>24902<pc>2-0952<k1>car<k2>car
+236937 old <ls>VARĀH. BṚH. S. 6,11. 9,14. 39 (38),14.</ls>
+;
+236937 new <ls>VARĀH. BṚH. S. 6,11. 9,14.</ls> <ls n="VARĀH. BṚH. S.">39 (38),14.</ls>
+;---------------------------------------------------
+; <L>25295<pc>2-0997<k1>cAza<k2>cAza
+240981 old <ls>VARĀH. BṚH. S. 27,14. 33,4. 42 (43),62. 47,6. 85,23. 41. 43. 49.</ls> {#cAzastu vadate mAtrAm#}
+;
+240981 new <ls>VARĀH. BṚH. S. 27,14. 33,4.</ls> <ls n="VARĀH. BṚH. S.">42 (43),62.</ls> <ls n="VARĀH. BṚH. S.">47,6. 85,23. 41. 43. 49.</ls> {#cAzastu vadate mAtrAm#}
+;---------------------------------------------------
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+244557 old <ls n="VARĀH. BṚH. S.">36.</ls> {#naKEH#}
+;
+244557 new <ls n="VARĀH. BṚH. S. 67,">36.</ls> {#naKEH#}
+;---------------------------------------------------
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+244558 old <ls n="VARĀH. BṚH. S.">41.</ls> von schlechten Diamanten und Perlen
+;
+244558 new <ls n="VARĀH. BṚH. S. 67,">41.</ls> von schlechten Diamanten und Perlen
+;---------------------------------------------------
+; <L>25579<pc>2-1031<k1>cipiwa<k2>cipiwa/
+244561 old <ls n="VARĀH. BṚH. S.">58.</ls> Nach <ls>P. 5,2,33</ls> {%stumpfnasig%}; nach
+;
+244561 new <ls n="VARĀH. BṚH. S. 67,">58.</ls> Nach <ls>P. 5,2,33</ls> {%stumpfnasig%}; nach
+;---------------------------------------------------
+; <L>25813<pc>2-1047<k1>cUrRa<k2>cUrRa
+246728 old <ls n="VARĀH. BṚH. S.">82(80,b),6.</ls>
+;
+246728 new <ls n="VARĀH. BṚH. S.">82 (80,b),6.</ls>
+;---------------------------------------------------
+; <L>25876<pc>2-1054<k1>cedi<k2>cedi/
+247418 old <ls n="MBH.">14,2467.</ls> <ls>R. 4,41,14.</ls> <ls>VARĀH. BṚH. S. 16,3. 31 (30),22.</ls> <ls>VP. 186.</ls> {#cedihUREH#}
+;
+247418 new <ls n="MBH.">14,2467.</ls> <ls>R. 4,41,14.</ls> <ls>VARĀH. BṚH. S. 16,3.</ls> <ls n="VARĀH. BṚH. S.">31 (30),22.</ls> <ls>VP. 186.</ls> {#cedihUREH#}
+;---------------------------------------------------
+; <L>26207<pc>2-1087<k1>CAya<k2>CAya
+251004 old <ls n="VARĀH. BṚH. S.">90.</ls> {#BAsvatkaracCAyABiH#}
+;
+251004 new <ls n="VARĀH. BṚH. S. 67,">90.</ls> {#BAsvatkaracCAyABiH#}
+;---------------------------------------------------
+; <L>26508<pc>3-0026<k1>janana<k2>ja/nana
+255517 old <ls n="MBH.">3,1446.</ls> — <ls n="MBH.">12,2638.</ls> <ls n="MBH.">13,5109.</ls> <ls>HARIV. 4582.</ls> <ls n="HARIV.">10795.</ls> <ls>R. 5,1,90.</ls> <ls>VIKR. 50.</ls> <ls>VARĀH. BṚH. S. 9,10. 14. 32,12. 47,8. 67,91 (92). 70,5. 73,4.</ls>
+;
+255517 new <ls n="MBH.">3,1446.</ls> — <ls n="MBH.">12,2638.</ls> <ls n="MBH.">13,5109.</ls> <ls>HARIV. 4582.</ls> <ls n="HARIV.">10795.</ls> <ls>R. 5,1,90.</ls> <ls>VIKR. 50.</ls> <ls>VARĀH. BṚH. S. 9,10. 14. 32,12. 47,8.</ls> <ls n="VARĀH. BṚH. S.">67,91 (92).</ls> <ls n="VARĀH. BṚH. S.">70,5. 73,4.</ls>
+;---------------------------------------------------
+; <L>26706<pc>3-0042<k1>jaya<k2>jaya
+257445 old <ls>VARĀH. BṚH. S. 43 (34),20. 62,2. 87,25. 93,13.</ls> {#jayagata#} {%siegend, siegreich%}
+;
+257445 new <ls>VARĀH. BṚH. S. 43 (34),20.</ls> <ls n="VARĀH. BṚH. S.">62,2. 87,25. 93,13.</ls> {#jayagata#} {%siegend, siegreich%}
+;---------------------------------------------------
+; <L>26706<pc>3-0042<k1>jaya<k2>jaya
+257447 old <ls n="VARĀH. BṚH. S.">17,18. 42 (43),27.</ls> {#pratyarTino dattajayEH#}
+;
+257447 new <ls n="VARĀH. BṚH. S.">17,18.</ls> <ls n="VARĀH. BṚH. S.">42 (43),27.</ls> {#pratyarTino dattajayEH#}
+;---------------------------------------------------
+; <L>26717<pc>3-0044<k1>jayada<k2>jayada
+257615 old <ls>VARĀH. BṚH. S. 17,18. 42 (43),27.</ls>
+;
+257615 new <ls>VARĀH. BṚH. S. 17,18.</ls> <ls n="VARĀH. BṚH. S.">42 (43),27.</ls>
+;---------------------------------------------------
+; <L>26778<pc>3-0047<k1>jar<k2>jar<h>1
+258216 old <ls n="VARĀH. BṚH. S.">13.</ls> <ls>SUŚR. 1,136,18. 165,8. 2,178,20. 195,6.</ls> <ls>CĀṆ. 79.</ls> <ls>HIT. I,19.</ls> {#tasmAjjIrRo Baveha me#}
+;
+258216 new <ls>13.</ls> <ls>SUŚR. 1,136,18. 165,8. 2,178,20. 195,6.</ls> <ls>CĀṆ. 79.</ls> <ls>HIT. I,19.</ls> {#tasmAjjIrRo Baveha me#}
+;---------------------------------------------------
+; <L>26827<pc>3-0054<k1>jarjara<k2>jarja/ra
+258779 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),5.</ls> {#drumAH — jarjarapattrAH#}
+;
+258779 new <ls>VARĀH. BṚH. S. 82 (80,b),5.</ls> {#drumAH — jarjarapattrAH#}
+;---------------------------------------------------
+; <L>27573<pc>3-0114<k1>jIva<k2>jIva/
+266093 old <ls n="VARĀH. BṚH. S.">23.</ls>
+;
+266093 new <ls n="VARĀH. BṚH. S. 8,">23.</ls>
+;---------------------------------------------------
+; <L>27945<pc>3-0157<k1>jyezWa<k2>jyezWa
+270420 old <ls>TRIK.</ls> <ls>H. 154.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VARĀH. BṚH. S. 75. 22,1.</ls> <ls>RĀJA-TAR. 1,220.</ls> {#°mAsa#}
+;
+270420 new <ls>TRIK.</ls> <ls>H. 154.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VARĀH. BṚH. S. 75.</ls> <ls n="VARĀH. BṚH. S.">22,1.</ls> <ls>RĀJA-TAR. 1,220.</ls> {#°mAsa#}
+;---------------------------------------------------
+; <L>28007<pc>3-0161<k1>jyotiHSAstra<k2>jyotiHSAstra
+270846 old <ls n="VARĀH. BṚH. S.">9.</ls> {#jyotiHSAstrasamudraM pramaTya#}
+;
+270846 new <ls n="VARĀH. BṚH. S. 1,">9.</ls> {#jyotiHSAstrasamudraM pramaTya#}
+;---------------------------------------------------
+; <L>28022<pc>3-0162<k1>jyotizmant<k2>jyo/tizmant
+271000 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),5.</ls> von <is>Śiva</is>
+;
+271000 new <ls>VARĀH. BṚH. S. 82 (80,b),5.</ls> von <is>Śiva</is>
+;---------------------------------------------------
+; <L>28023<pc>3-0163<k1>jyotis<k2>jyo/tis
+271085 old <ls>VARĀH. BṚH. S. 2. 8.</ls> ad <ls>HIT. I,17.</ls> {#jyotizAM copasarjane#}
+;
+271085 new <ls>VARĀH. BṚH. S. 2,8.</ls> ad <ls>HIT. I,17.</ls> {#jyotizAM copasarjane#}
+;---------------------------------------------------
+; <L>28030<pc>3-0165<k1>jyotIrasa<k2>jyotIrasa
+271207 old <ls>VARĀH. BṚH. S. 81 (80,a</ls>);
+;
+271207 new <ls>VARĀH. BṚH. S. 81 (80,a),5</ls>;
+;---------------------------------------------------
+; <L>28030<pc>3-0165<k1>jyotIrasa<k2>jyotIrasa
+271208 old <ls n="R.">5.</ls> {#(akzAn) vEdUryAnkAYcanAndAntAnPalErjyotIrasEH (jyO°?#} adj.) {#saha#}
+;
+271208 new {#(akzAn) vEdUryAnkAYcanAndAntAnPalErjyotIrasEH (jyO°?#} adj.) {#saha#}
+;---------------------------------------------------
+; <L>28063<pc>3-0169<k1>jval<k2>jval
+271633 old <ls>VARĀH. BṚH. S. 43 (34),24. 46,16 (17).</ls> {#dIpavartiraByaDikaM jvalati#}
+;
+271633 new <ls>VARĀH. BṚH. S. 43 (34),24.</ls> <ls n="VARĀH. BṚH. S.">46,16 (17).</ls> {#dIpavartiraByaDikaM jvalati#}
+;---------------------------------------------------
+; <L>28063<pc>3-0169<k1>jval<k2>jval
+271656 old <ls n="VARĀH. BṚH. S.">5.</ls> {#KaNga#}
+;
+271656 new <ls n="VARĀH. BṚH. S. 32,">5.</ls> {#KaNga#}
+;---------------------------------------------------
+; <L>28072<pc>3-0172<k1>jvAla<k2>jvAla/
+271883 old <ls>VARĀH. BṚH. S. 11,23. 42 (43),45. 45,49. 46,10 (11).</ls>
+;
+271883 new <ls>VARĀH. BṚH. S. 11,23.</ls> <ls n="VARĀH. BṚH. S.">42 (43),45.</ls> <ls n="VARĀH. BṚH. S.">45,49.</ls> <ls n="VARĀH. BṚH. S.">46,10 (11).</ls>
+;---------------------------------------------------
+; <L>28360<pc>3-0194<k1>takzan<k2>ta/kzan
+274404 old <ls n="M.">10,107.</ls> <ls>MBH. 2,1774.</ls> <ls n="MBH.">5,256. fgg.</ls> <ls n="MBH.">13,2575.</ls> <ls>R. GORR. 2,90,19.</ls> <ls>VARĀH. BṚH. S. 42(43),29.</ls> {#takzAyaskAram#} {%ein Zimmermann und ein Schmied%}
+;
+274404 new <ls n="M.">10,107.</ls> <ls>MBH. 2,1774.</ls> <ls n="MBH.">5,256. fgg.</ls> <ls n="MBH.">13,2575.</ls> <ls>R. GORR. 2,90,19.</ls> <ls>VARĀH. BṚH. S. 42 (43),29.</ls> {#takzAyaskAram#} {%ein Zimmermann und ein Schmied%}
+;---------------------------------------------------
+; <L>28413<pc>3-0199<k1>taRqula<k2>taRqula/
+274970 old <ls>VARĀH. BṚH. S. 81, (80,a),12.</ls>
+;
+274970 new <ls>VARĀH. BṚH. S. 81 (80,a),12.</ls>
+;---------------------------------------------------
+; <L>28559<pc>3-0221<k1>tanaya<k2>ta/naya
+277064 old <ls n="VARĀH. BṚH. S.">2</ls> {%Söhne%} und nicht {%Töchter%} gemeint sein; aber viell. geht man am sichersten, wenn man das Wort hier in der beides umfassenden Bed. {%Kind%} auffasst; vgl.
+;
+277064 new <ls n="VARĀH. BṚH. S. 103,">2</ls> {%Söhne%} und nicht {%Töchter%} gemeint sein; aber viell. geht man am sichersten, wenn man das Wort hier in der beides umfassenden Bed. {%Kind%} auffasst; vgl.
+;---------------------------------------------------
+; <L>28559<pc>3-0221<k1>tanaya<k2>ta/naya
+277065 old <ls n="VARĀH. BṚH. S.">4.</ls>
+;
+277065 new <ls n="VARĀH. BṚH. S. 103,">4.</ls>
+;---------------------------------------------------
+; <L>28566<pc>3-0222<k1>tanu<k2>tanu/
+277146 old <ls>VARĀH. BṚH. S. 68. 14.</ls> {%fein%} von Geweben: {#aMSuka#}
+;
+277146 new <ls>VARĀH. BṚH. S. 68,14.</ls> {%fein%} von Geweben: {#aMSuka#}
+;---------------------------------------------------
+; <L>28566<pc>3-0222<k1>tanu<k2>tanu/
+277214 old <ls>VARĀH. BṚH. S. 3,27. 28. 40. 4,24. 29. 9,45. 11,8. 23. 20,8. 46,8 (9).</ls> <ls>SŪRYAS. 2,52.</ls> {#tanumiva kalAmAtraSezAM himAMSoH#}
+;
+277214 new <ls>VARĀH. BṚH. S. 3,27. 28. 40. 4,24. 29. 9,45. 11,8. 23. 20,8.</ls> <ls n="VARĀH. BṚH. S.">46,8 (9).</ls> <ls>SŪRYAS. 2,52.</ls> {#tanumiva kalAmAtraSezAM himAMSoH#}
+;---------------------------------------------------
+; <L>28717<pc>3-0236<k1>tap<k2>tap<h>1
+279036 old <ls>VARĀH. BṚH. S. 27</ls>, {%c%},
+;
+279036 new <ls>VARĀH. BṚH. S. 27,c,3.</ls>
+;---------------------------------------------------
+; <L>28717<pc>3-0236<k1>tap<k2>tap<h>1
+279037 old <ls n="VARĀH. BṚH. S.">3.</ls> {#sUryaH pratapatAM SrezWaH#}
+;
+279037 new {#sUryaH pratapatAM SrezWaH#}
+;---------------------------------------------------
+; <L>29046<pc>3-0282<k1>tala<k2>tala
+283564 old <ls>VARĀH. BṚH. S. 4,3. 43 (34),28.</ls> {#yasmiMstu cCardayati (KaYjanaH) tatra tale 'sti kAcam#}
+;
+283564 new <ls>VARĀH. BṚH. S. 4,3.</ls> <ls n="VARĀH. BṚH. S.">43 (34),28.</ls> {#yasmiMstu cCardayati (KaYjanaH) tatra tale 'sti kAcam#}
+;---------------------------------------------------
+; <L>29308<pc>3-0302<k1>tAmraparRa<k2>tAmraparRa
+285906 old <ls>VARĀH. BṚH. S. 82 (80,b,2.)</ls>
+;
+285906 new <ls>VARĀH. BṚH. S. 82 (80,b),2.</ls>
+;---------------------------------------------------
+; <L>29322<pc>3-0303<k1>tAmraliptaka<k2>tAmraliptaka
+286028 old 1. <ls>MBH. 6,364.</ls> <ls n="MBH.">7,2436.</ls> <ls n="MBH. 7,">4716.</ls> <ls>HARIV. 12838.</ls> <ls>VARĀH. BṚH. S. 14,7 (8</ls>).
+;
+286028 new 1. <ls>MBH. 6,364.</ls> <ls n="MBH.">7,2436.</ls> <ls n="MBH. 7,">4716.</ls> <ls>HARIV. 12838.</ls> <ls>VARĀH. BṚH. S. 14,7 (8)</ls>.
+;---------------------------------------------------
+; <L>29356<pc>3-0306<k1>tAraka<k2>tAraka
+286439 old <ls n="YĀJÑ.">24.</ls> <ls>MBH. 5,1710.</ls> <ls>PAÑCAT. II,62.</ls> <ls>MĀRK. P. 15,71.</ls> <ls>VARĀH. BṚH. S. 46,10 (11). 21 (22). 97,3.</ls> <ls>SŪRYAS. 7,18. 8,19.</ls>
+;
+286439 new <ls n="YĀJÑ.">24.</ls> <ls>MBH. 5,1710.</ls> <ls>PAÑCAT. II,62.</ls> <ls>MĀRK. P. 15,71.</ls> <ls>VARĀH. BṚH. S. 46,10 (11). 21 (22).</ls> <ls n="VARĀH. BṚH. S.">97,3.</ls> <ls>SŪRYAS. 7,18. 8,19.</ls>
+;---------------------------------------------------
+; <L>29605<pc>3-0326<k1>tittiri<k2>titti/ri
+288768 old <ls>BHĀG. P. 6,9,5</ls>). <ls>ŚAT. BR. 1,6,3,5.</ls> <ls n="ŚAT. BR.">5,5,4,6.</ls> <ls>M. 11,134.</ls> <ls n="M.">12,64.</ls> <ls>YĀJÑ. 3,274.</ls> <ls>SUŚR. 1,73,7. 74,18. 201,7. 228,12.</ls> <ls>VARĀH. BṚH. S. 27</ls>, {%c%},
+;
+288768 new <ls>BHĀG. P. 6,9,5</ls>). <ls>ŚAT. BR. 1,6,3,5.</ls> <ls n="ŚAT. BR.">5,5,4,6.</ls> <ls>M. 11,134.</ls> <ls n="M.">12,64.</ls> <ls>YĀJÑ. 3,274.</ls> <ls>SUŚR. 1,73,7. 74,18. 201,7. 228,12.</ls> <ls>VARĀH. BṚH. S. 27,c,17.</ls>
+;---------------------------------------------------
+; <L>29605<pc>3-0326<k1>tittiri<k2>titti/ri
+288769 old <ls n="VARĀH. BṚH. S.">17. 86,88. 87,21.</ls> <ls>BHĀG. P. 3,15,18.</ls> <ls n="BHĀG. P.">5,2,10.</ls> {#tittirikalmAzAn (hayAn)#}
+;
+288769 new <ls n="VARĀH. BṚH. S.">86,88. 87,21.</ls> <ls>BHĀG. P. 3,15,18.</ls> <ls n="BHĀG. P.">5,2,10.</ls> {#tittirikalmAzAn (hayAn)#}
+;---------------------------------------------------
+; <L>29637<pc>3-0328<k1>timi<k2>ti/mi
+289042 old <ls>RAGH. 13,10.</ls> — <ls>VARĀH. BṚH. S. 12,4. 5. 6. 82 (80, {%b%})</ls>,
+;
+289042 new <ls>RAGH. 13,10.</ls> — <ls>VARĀH. BṚH. S. 12,4. 5. 6.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),1.</ls> <ls n="VARĀH. BṚH. S. 82,">29.</ls>
+;---------------------------------------------------
+; <L>29637<pc>3-0328<k1>timi<k2>ti/mi
+289043 old <ls n="VARĀH. BṚH. S.">1. 29.</ls> <ls>BHĀG. P. 8,7,18.</ls> <ls>RĀJA-TAR. 4,503. 6,309.</ls> {%Fisch%} überh.
+;
+289043 new <ls>BHĀG. P. 8,7,18.</ls> <ls>RĀJA-TAR. 4,503. 6,309.</ls> {%Fisch%} überh.
+;---------------------------------------------------
+; <L>29736<pc>3-0335<k1>tiryaYc<k2>tirya/Yc
+289828 old <ls>VARĀH. BṚH. S. 32,7. 46,19 (20). 52,55. 58,42.</ls>
+;
+289828 new <ls>VARĀH. BṚH. S. 32,7.</ls> <ls n="VARĀH. BṚH. S.">46,19 (20).</ls> <ls n="VARĀH. BṚH. S.">52,55. 58,42.</ls>
+;---------------------------------------------------
+; <L>29820<pc>3-0341<k1>tIkzRa<k2>tIkzRa/
+290531 old <ls>VARĀH. BṚH. S. 19,2. 27</ls>, {%c%},
+;
+290531 new <ls>VARĀH. BṚH. S. 19,2.</ls> <ls n="VARĀH. BṚH. S.">27,c,3.</ls>
+;---------------------------------------------------
+; <L>29820<pc>3-0341<k1>tIkzRa<k2>tIkzRa/
+290532 old <ls n="VARĀH. BṚH. S.">3.</ls> {#nirdahedapi kAkutsTaH krudDastIkzRena cakzuzA#}
+;
+290532 new {#nirdahedapi kAkutsTaH krudDastIkzRena cakzuzA#}
+;---------------------------------------------------
+; <L>30067<pc>3-0363<k1>turaMgama<k2>turaMgama
+293055 old <ls>VARĀH. BṚH. S. 43 (34),1. 27. 92,6. 9.</ls>
+;
+293055 new <ls>VARĀH. BṚH. S. 43 (34),1. 27.</ls> <ls n="VARĀH. BṚH. S.">92,6. 9.</ls>
+;---------------------------------------------------
+; <L>30106<pc>3-0366<k1>tul<k2>tul
+293427 old <ls n="VARĀH. BṚH. S.">10.</ls> {#tulito 'taH — UnaH#}
+;
+293427 new <ls n="VARĀH. BṚH. S. 27,">10.</ls> {#tulito 'taH — UnaH#}
+;---------------------------------------------------
+; <L>30106<pc>3-0366<k1>tul<k2>tul
+293436 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),12.</ls> {#tulayAma lavenApi na svargaM nApunarBavam . BagavatsaNgisaNgasya#}
+;
+293436 new <ls>VARĀH. BṚH. S. 81 (80,a),12.</ls> {#tulayAma lavenApi na svargaM nApunarBavam . BagavatsaNgisaNgasya#}
+;---------------------------------------------------
+; <L>30192<pc>3-0375<k1>tuzaDAnya<k2>tuzaDAnya
+294305 old <ls>VARĀH. BṚH. S. 15,4. 7. 11. 16,4. 40 (39),4.</ls>
+;
+294305 new <ls>VARĀH. BṚH. S. 15,4. 7. 11. 16,4.</ls> <ls n="VARĀH. BṚH. S.">40 (39),4.</ls>
+;---------------------------------------------------
+; <L>30476<pc>3-0391<k1>tejas<k2>te/jas
+296557 old <ls>VARĀH. BṚH. S. 74,8. 80 (79),3.</ls> {#tejoyuta#} {%Achtung gebietend, würdevoll%}
+;
+296557 new <ls>VARĀH. BṚH. S. 74,8.</ls> <ls n="VARĀH. BṚH. S.">80 (79),3.</ls> {#tejoyuta#} {%Achtung gebietend, würdevoll%}
+;---------------------------------------------------
+; <L>30500<pc>3-0394<k1>tejovant<k2>tejovant
+296764 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b) 6.</ls>
+;
+296764 new <ls>VARĀH. BṚH. S. 82 (80,b),6.</ls>
+;---------------------------------------------------
+; <L>30675<pc>3-0403<k1>toraRa<k2>toraRa
+298062 old <ls>VARĀH. BṚH. S. 35,5. 42 (43),25. 43 (34),4. 8. 17. 52,125.</ls> <ls>PRAB. 26,7.</ls> <ls>BHĀG. P. 4,9,54.</ls> <ls n="BHĀG. P. 4,">21,1.</ls> <ls n="BHĀG. P. 4,">25,14.</ls> <ls>GĪT. 7,26.</ls>
+;
+298062 new <ls>VARĀH. BṚH. S. 35,5.</ls> <ls n="VARĀH. BṚH. S.">42 (43),25.</ls> <ls n="VARĀH. BṚH. S.">43 (34),4. 8. 17.</ls> <ls n="VARĀH. BṚH. S.">52,125.</ls> <ls>PRAB. 26,7.</ls> <ls>BHĀG. P. 4,9,54.</ls> <ls n="BHĀG. P. 4,">21,1.</ls> <ls n="BHĀG. P. 4,">25,14.</ls> <ls>GĪT. 7,26.</ls>
+;---------------------------------------------------
+; <L>30718<pc>3-0406<k1>tOlin<k2>tOlin
+298347 old <ls>VARĀH. BṚH. S. 41 (40),5. 100,1. 102,4.</ls>
+;
+298347 new <ls>VARĀH. BṚH. S. 41 (40),5.</ls> <ls n="VARĀH. BṚH. S.">100,1. 102,4.</ls>
+;---------------------------------------------------
+; <L>30796<pc>3-0417<k1>trayodaSa<k2>trayodaSa/
+299416 old <ls n="ŚAT. BR.">9,1,1,43. 3,3,18.</ls> <ls>R. 2,77,22.</ls> <ls>VARĀH. BṚH. S. 6,3. 42 (43),48.</ls>
+;
+299416 new <ls n="ŚAT. BR.">9,1,1,43. 3,3,18.</ls> <ls>R. 2,77,22.</ls> <ls>VARĀH. BṚH. S. 6,3.</ls> <ls n="VARĀH. BṚH. S.">42 (43),48.</ls>
+;---------------------------------------------------
+; <L>31027<pc>3-0436<k1>tripuwa<k2>tripuwa
+301571 old <ls>MED. ṭ. 44.</ls> <ls>VARĀH. BṚH. S. 81 (80,a),17. 82 (80,b),6.</ls>
+;
+301571 new <ls>MED. ṭ. 44.</ls> <ls>VARĀH. BṚH. S. 81 (80,a),17.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),6.</ls>
+;---------------------------------------------------
+; <L>31058<pc>3-0439<k1>triBAga<k2>triBAga
+301894 old <ls>RĀJA-TAR. 5,170.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 445,1</ls> v. u. <ls n="KĀTY. ŚR.">915,4.</ls> <ls>VARĀH. BṚH. S. 11,32. 39. 52,20. 53,53. 81 (80,a),13. 85,29.</ls> {%ein Drittel eines Zodiakalbildes%}
+;
+301894 new <ls>RĀJA-TAR. 5,170.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 445,1</ls> v. u. <ls n="KĀTY. ŚR.">915,4.</ls> <ls>VARĀH. BṚH. S. 11,32. 39. 52,20. 53,53.</ls> <ls n="VARĀH. BṚH. S.">81 (80,a),13.</ls> <ls n="VARĀH. BṚH. S.">85,29.</ls> {%ein Drittel eines Zodiakalbildes%}
+;---------------------------------------------------
+; <L>31264<pc>3-0451<k1>truwi<k2>truwi
+303432 old <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1,1292.</ls> <ls>HARIV. 9529.</ls> <ls>VARĀH. BṚH. S. 2</ls>, {%c%} (A 1, {%b).%}
+;
+303432 new <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1,1292.</ls> <ls>HARIV. 9529.</ls> <ls>VARĀH. BṚH. S. 2,c (A 1,b).</ls>
+;---------------------------------------------------
+; <L>31361<pc>3-0457<k1>tryaMSa<k2>tryaMSa
+304156 old <ls>VARĀH. BṚH. S. 11,51. 42 (43),50. 53,45. 81 (80,a),13.</ls> <ls>LAGHUJ. 6,4.</ls> {%ein Drittel eines Zodiakalbildes%}, = {#dfkkARa#}; statt dessen fehlerhaft {#triMSa#}
+;
+304156 new <ls>VARĀH. BṚH. S. 11,51.</ls> <ls n="VARĀH. BṚH. S.">42 (43),50.</ls> <ls n="VARĀH. BṚH. S.">53,45.</ls> <ls n="VARĀH. BṚH. S.">81 (80,a),13.</ls> <ls>LAGHUJ. 6,4.</ls> {%ein Drittel eines Zodiakalbildes%}, = {#dfkkARa#}; statt dessen fehlerhaft {#triMSa#}
+;---------------------------------------------------
+; <L>31455<pc>3-0463<k1>tvac<k2>tvac<h>1
+304880 old <ls>VARĀH. BṚH. S. 45,41. 80 (79),2.</ls>
+;
+304880 new <ls>VARĀH. BṚH. S. 45,41.</ls> <ls n="VARĀH. BṚH. S.">80 (79),2.</ls>
+;---------------------------------------------------
+; <L>31515<pc>3-0469<k1>tvAzwra<k2>tvAzwra/
+305530 old <ls>VARĀH. BṚH. S. 7,11. 15,12. 46,17 (18). 98,13.</ls>
+;
+305530 new <ls>VARĀH. BṚH. S. 7,11. 15,12.</ls> <ls n="VARĀH. BṚH. S.">46,17 (18).</ls> <ls n="VARĀH. BṚH. S.">98,13.</ls>
+;---------------------------------------------------
+; <L>31678<pc>3-0489<k1>dakziRena<k2>da/kziRena
+307416 old <ls>VARĀH. BṚH. S. 46,18 (19). 52,117.</ls>
+;
+307416 new <ls>VARĀH. BṚH. S. 46,18 (19).</ls> <ls n="VARĀH. BṚH. S.">52,117.</ls>
+;---------------------------------------------------
+; <L>31685<pc>3-0490<k1>dagArgala<k2>dagArgala
+307473 old <ls n="VARĀH. BṚH. S.">101. 107,7</ls> (wo die v.l. {#uda°#} bietet, welches allein dem Metrum entspricht). Der 53ste <is>Adhyāya</is> führt geradezu den Titel {#uda°#} und der Schol. hat bald {#dagArgala#}, bald {#uda°#} . Das Wort enthält wohl {#da#} (= {#uda#} wie {#daka = udaka#}),1. {#ga#} und {#argala#} .
+;
+307473 new <ls n="VARĀH. BṚH. S. 53,">101.</ls> <ls n="VARĀH. BṚH. S.">107,7</ls> (wo die v.l. {#uda°#} bietet, welches allein dem Metrum entspricht). Der 53ste <is>Adhyāya</is> führt geradezu den Titel {#uda°#} und der Schol. hat bald {#dagArgala#}, bald {#uda°#} . Das Wort enthält wohl {#da#} (= {#uda#} wie {#daka = udaka#}),1. {#ga#} und {#argala#} .
+;---------------------------------------------------
+; <L>31704<pc>3-0491<k1>daRqa<k2>daRqa/
+307721 old <ls n="VARĀH. BṚH. S.">16. 30. 41 (40),1.</ls> {#daRqastu fjurindracApaniBaH#}
+;
+307721 new <ls n="VARĀH. BṚH. S.">16. 30.</ls> <ls n="VARĀH. BṚH. S.">41 (40),1.</ls> {#daRqastu fjurindracApaniBaH#}
+;---------------------------------------------------
+; <L>31887<pc>3-0505<k1>daDIci<k2>daDIci
+309211 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),2.</ls> {#daDIcirdAnavAro 'BUt#}
+;
+309211 new <ls>VARĀH. BṚH. S. 81 (80,a),2.</ls> {#daDIcirdAnavAro 'BUt#}
+;---------------------------------------------------
+; <L>31916<pc>3-0508<k1>danta<k2>da/nta
+309478 old <ls>VARĀH. BṚH. S. 43 (34),9. 53,48.</ls> {#°vIja#}
+;
+309478 new <ls>VARĀH. BṚH. S. 43 (34),9.</ls> <ls n="VARĀH. BṚH. S.">53,48.</ls> {#°vIja#}
+;---------------------------------------------------
+; <L>31939<pc>3-0510<k1>dantapAta<k2>dantapAta
+309635 old <ls>VARĀH. BṚH. S. 65. 5.</ls>
+;
+309635 new <ls>VARĀH. BṚH. S. 65,5.</ls>
+;---------------------------------------------------
+; <L>32072<pc>3-0525<k1>darada<k2>darada
+311217 old <ls>MBH. 2,1031.</ls> <ls n="MBH. 2,">1869.</ls> <ls n="MBH.">3,1990.</ls> <ls n="MBH. 3,">12350.</ls> <ls n="MBH.">6,375</ls> (<ls>VP. 195</ls>). <ls n="MBH.">7,4847.</ls> <ls n="MBH.">8,3652.</ls> <ls n="MBH.">13,2158.</ls> <ls>HARIV. 6441.</ls> <ls>R. 4,44,15.</ls> <ls>VARĀH. BṚH. S. 5,42. 79. 13,9. 14,29. v. l.</ls> für {#darad#} im <is>gaṇa</is> {#sinDvAdi#} zu <ls>P. 4,3,93.</ls>
+;
+311217 new <ls>MBH. 2,1031.</ls> <ls n="MBH. 2,">1869.</ls> <ls n="MBH.">3,1990.</ls> <ls n="MBH. 3,">12350.</ls> <ls n="MBH.">6,375</ls> (<ls>VP. 195</ls>). <ls n="MBH.">7,4847.</ls> <ls n="MBH.">8,3652.</ls> <ls n="MBH.">13,2158.</ls> <ls>HARIV. 6441.</ls> <ls>R. 4,44,15.</ls> <ls>VARĀH. BṚH. S. 5,42. 79. 13,9. 14,29, v. l.</ls> für {#darad#} im <is>gaṇa</is> {#sinDvAdi#} zu <ls>P. 4,3,93.</ls>
+;---------------------------------------------------
+; <L>32167<pc>3-0543<k1>dal<k2>dal
+312982 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),16.</ls> {#dalitAYjanameGapuYja#}
+;
+312982 new <ls>VARĀH. BṚH. S. 81 (80,a),16.</ls> {#dalitAYjanameGapuYja#}
+;---------------------------------------------------
+; <L>32168<pc>3-0544<k1>dala<k2>dala
+313039 old <ls n="SUŚR.">6.</ls> <ls>VARĀH. BṚH. S. 52,15. 58,27. 82 (80,b),10.</ls> <ls>SŪRYAS. 2,60. 62. 3,10. 4,15. 5,16. 17.</ls> {#ahardala, dyudala#} {%Mittag%}
+;
+313039 new <ls n="SUŚR.">6.</ls> <ls>VARĀH. BṚH. S. 52,15. 58,27.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),10.</ls> <ls>SŪRYAS. 2,60. 62. 3,10. 4,15. 5,16. 17.</ls> {#ahardala, dyudala#} {%Mittag%}
+;---------------------------------------------------
+; <L>32439<pc>3-0582<k1>dAqima<k2>dAqima
+316691 old <ls n="MBH.">8,350.</ls> <ls>HARIV. 8439.</ls> <ls n="HARIV.">8443.</ls> <ls n="HARIV.">12680.</ls> <ls>R. 3,17,10.</ls> <ls>SUŚR. 1,73,10. 141,3. 157,4. 162,10. 209,9. 2,43,20. 284,21. 410,21. 419,13.</ls> <ls>VARĀH. BṚH. S. 54,4. 10. 80 (79),7. 82 (80,b),8.</ls>
+;
+316691 new <ls n="MBH.">8,350.</ls> <ls>HARIV. 8439.</ls> <ls n="HARIV.">8443.</ls> <ls n="HARIV.">12680.</ls> <ls>R. 3,17,10.</ls> <ls>SUŚR. 1,73,10. 141,3. 157,4. 162,10. 209,9. 2,43,20. 284,21. 410,21. 419,13.</ls> <ls>VARĀH. BṚH. S. 54,4. 10.</ls> <ls n="VARĀH. BṚH. S.">80 (79),7.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),8.</ls>
+;---------------------------------------------------
+; <L>32637<pc>3-0597<k1>dArumaya<k2>dArumaya
+318444 old <ls>VARĀH. BṚH. S. 43 (34),3. 52,60. 59,4.</ls> {#garuqa#}
+;
+318444 new <ls>VARĀH. BṚH. S. 43 (34),3.</ls> <ls n="VARĀH. BṚH. S.">52,60. 59,4.</ls> {#garuqa#}
+;---------------------------------------------------
+; <L>32949<pc>3-0620<k1>divasakft<k2>divasakft
+321075 old <ls>MBH. 7,2985.</ls> <ls>VARĀH. BṚH. S. 3,3 7. 27,c,23. 36,3.</ls>
+;
+321075 new <ls>MBH. 7,2985.</ls> <ls>VARĀH. BṚH. S. 3,3 7.</ls> <ls n="VARĀH. BṚH. S.">27,c,23.</ls> <ls n="VARĀH. BṚH. S.">36,3.</ls>
+;---------------------------------------------------
+; <L>32963<pc>3-0621<k1>divAkarasuta<k2>divAkarasuta
+321188 old <ls>VARĀH. BṚH. S. 42, (43),32.</ls>
+;
+321188 new <ls>VARĀH. BṚH. S. 42 (43),32.</ls>
+;---------------------------------------------------
+; <L>33063<pc>3-0627<k1>diS<k2>diS<h>1
+322372 old <ls n="M.">12,82.</ls> <ls n="M. 12,">51.</ls> <ls>VARĀH. BṚH. S. 40 (39),1. 47,19. 83 (80,c),11. 94,19.</ls> {%bezeichnen als, nennen%}: {#vAyavyaM (vajraM) yavopamaM samuddizwam#}
+;
+322372 new <ls n="M.">12,82.</ls> <ls n="M. 12,">51.</ls> <ls>VARĀH. BṚH. S. 40 (39),1.</ls> <ls n="VARĀH. BṚH. S.">47,19.</ls> <ls n="VARĀH. BṚH. S.">83 (80,c),11.</ls> <ls n="VARĀH. BṚH. S.">94,19.</ls> {%bezeichnen als, nennen%}: {#vAyavyaM (vajraM) yavopamaM samuddizwam#}
+;---------------------------------------------------
+; <L>33109<pc>3-0645<k1>dIDiti<k2>dI/Diti<h>2
+323347 old <ls>VARĀH. BṚH. S. 3,40. 4,2. 11,24. 46,23 (24).</ls>
+;
+323347 new <ls>VARĀH. BṚH. S. 3,40. 4,2. 11,24.</ls> <ls n="VARĀH. BṚH. S.">46,23 (24).</ls>
+;---------------------------------------------------
+; <L>33120<pc>3-0646<k1>dIp<k2>dIp
+323520 old <ls>VARĀH. BṚH. S. 3,10. 29,5. 30. 33,8. 38 (37),1. 45,69.</ls> {#AdityadIptAM diSamaByupetya mfgA dvijAH krUramime vadanti#}
+;
+323520 new <ls>VARĀH. BṚH. S. 3,10. 29,5. 30. 33,8.</ls> <ls n="VARĀH. BṚH. S.">38 (37),1.</ls> <ls n="VARĀH. BṚH. S.">45,69.</ls> {#AdityadIptAM diSamaByupetya mfgA dvijAH krUramime vadanti#}
+;---------------------------------------------------
+; <L>33120<pc>3-0646<k1>dIp<k2>dIp
+323651 old <ls n="VARĀH. BṚH. S.">33. 95,5.</ls> {#grAmyaH (SakunaH) pradIptaH svaracezwitAByAm#}
+;
+323651 new <ls n="VARĀH. BṚH. S. 87,">33. 95,5.</ls> {#grAmyaH (SakunaH) pradIptaH svaracezwitAByAm#}
+;---------------------------------------------------
+; <L>33120<pc>3-0646<k1>dIp<k2>dIp
+323652 old <ls n="VARĀH. BṚH. S.">7.</ls> — caus. {%anzünden, in Flammen —, in Gluth versetzen, anfachen%}: {#SAlAkAnpradIpya#}
+;
+323652 new <ls n="VARĀH. BṚH. S. 95,">7.</ls> — caus. {%anzünden, in Flammen —, in Gluth versetzen, anfachen%}: {#SAlAkAnpradIpya#}
+;---------------------------------------------------
+; <L>34166<pc>3-0722<k1>dUrvA<k2>dU/rvA
+332331 old <ls>VARĀH. BṚH. S. 5,58. 28,13. 40 (39),4.</ls>
+;
+332331 new <ls>VARĀH. BṚH. S. 5,58. 28,13.</ls> <ls n="VARĀH. BṚH. S.">40 (39),4.</ls>
+;---------------------------------------------------
+; <L>34434<pc>3-0742<k1>devacCanda<k2>devacCanda
+334668 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),32.</ls> nach Andern {%aus 103%} (
+;
+334668 new <ls>VARĀH. BṚH. S. 82 (80,b),32.</ls> nach Andern {%aus 103%} (
+;---------------------------------------------------
+; <L>34928<pc>3-0773<k1>dEvacintaka<k2>dEvacintaka
+338442 old <ls>KĀM. NĪTIS. 9,25.</ls> <ls>VARĀH. BṚH. S. 2,e</ls> (<ls n="VARĀH. BṚH. S.">2,a</ls>). <ls n="VARĀH. BṚH. S.">2,13.</ls> {%Fatalist%}
+;
+338442 new <ls>KĀM. NĪTIS. 9,25.</ls> <ls>VARĀH. BṚH. S. 2,e (2,a) 2,13.</ls> {%Fatalist%}
+;---------------------------------------------------
+; <L>34931<pc>3-0773<k1>dEvajYa<k2>dEvajYa
+338458 old <ls>AK. 2,8,1,14.</ls> <ls>H. 482.</ls> <ls>MED. ñ. 4.</ls> <ls>YĀJÑ. 1,312.</ls> <ls>HARIV. 4265.</ls> <ls>R. GORR. 2,3,18.</ls> <ls>VARĀH. BṚH. S. 2,c (2,b). 42 (43),12. 23. 47,18</ls> u.s.w.
+;
+338458 new <ls>AK. 2,8,1,14.</ls> <ls>H. 482.</ls> <ls>MED. ñ. 4.</ls> <ls>YĀJÑ. 1,312.</ls> <ls>HARIV. 4265.</ls> <ls>R. GORR. 2,3,18.</ls> <ls>VARĀH. BṚH. S. 2,c (2,b). 42 (43),12. 23.</ls> <ls n="VARĀH. BṚH. S.">47,18</ls> u.s.w.
+;---------------------------------------------------
+; <L>34940<pc>3-0774<k1>dEvatya<k2>dEvatya
+338548 old <ls>VARĀH. BṚH. S. 99,3. 42 (43),49.</ls> {#AraRyAnsarvadEvatyAnmfgAnprokzya mahAvane#}
+;
+338548 new <ls>VARĀH. BṚH. S. 99,3.</ls> <ls n="VARĀH. BṚH. S.">42 (43),49.</ls> {#AraRyAnsarvadEvatyAnmfgAnprokzya mahAvane#}
+;---------------------------------------------------
+; <L>34968<pc>3-0775<k1>dEvavid<k2>dEvavid
+338708 old <ls>VARĀH. BṚH. S. 2,15. 23. 21,3. 43 (34),13. 47,3. 78.</ls>
+;
+338708 new <ls>VARĀH. BṚH. S. 2,15. 23. 21,3.</ls> <ls n="VARĀH. BṚH. S.">43 (34),13.</ls> <ls n="VARĀH. BṚH. S.">47,3. 78.</ls>
+;---------------------------------------------------
+; <L>35015<pc>3-0778<k1>doza<k2>doza<h>1
+339161 old <ls n="VARĀH. BṚH. S.">83.</ls> {#dozA vizarogakftAH#}
+;
+339161 new <ls n="VARĀH. BṚH. S. 45,">83.</ls> {#dozA vizarogakftAH#}
+;---------------------------------------------------
+; <L>35015<pc>3-0778<k1>doza<k2>doza<h>1
+339164 old <ls>VARĀH. BṚH. S. 33. 20. 45,21. 46. 9 (10).</ls> {#dozakArin#} dass.
+;
+339164 new <ls>VARĀH. BṚH. S. 33. 20. 45,21.</ls> <ls n="VARĀH. BṚH. S.">46,9 (10).</ls> {#dozakArin#} dass.
+;---------------------------------------------------
+; <L>35173<pc>3-0791<k1>dyutimant<k2>dyutimant
+340466 old <ls>VARĀH. BṚH. S. 17,2. 33,23. 34,3. 46,4 (5). 67,103. 83 (80,c),3.</ls> <ls>RĀJA-TAR. 4,41.</ls> <ls>KIRĀT. 5,8.</ls> {#itihAsa#} {%herrlich%}
+;
+340466 new <ls>VARĀH. BṚH. S. 17,2. 33,23. 34,3.</ls> <ls n="VARĀH. BṚH. S.">46,4 (5).</ls> <ls n="VARĀH. BṚH. S.">67,103.</ls> <ls n="VARĀH. BṚH. S.">83 (80,c),3.</ls> <ls>RĀJA-TAR. 4,41.</ls> <ls>KIRĀT. 5,8.</ls> {#itihAsa#} {%herrlich%}
+;---------------------------------------------------
+; <L>35530<pc>3-0821<k1>dvAdaSa<k2>dvAdaSa/
+343958 old <ls>VARĀH. BṚH. S. 33,20. 42 (43),38. 43 (34),2.</ls>
+;
+343958 new <ls>VARĀH. BṚH. S. 33,20.</ls> <ls n="VARĀH. BṚH. S.">42 (43),38.</ls> <ls n="VARĀH. BṚH. S.">43 (34),2.</ls>
+;---------------------------------------------------
+; <L>35646<pc>3-0828<k1>dvija<k2>dvija/
+344893 old <ls>VARĀH. BṚH. S. 46,27 (28). 47,20.</ls>
+;
+344893 new <ls>VARĀH. BṚH. S. 46,27 (28).</ls> <ls n="VARĀH. BṚH. S.">47,20.</ls>
+;---------------------------------------------------
+; <L>35847<pc>3-0841<k1>dviz<k2>dvi/z<h>2
+346464 old <ls>VARĀH. BṚH. S. 42 (43),60. 69,28.</ls>
+;
+346464 new <ls>VARĀH. BṚH. S. 42 (43),60.</ls> <ls n="VARĀH. BṚH. S.">69,28.</ls>
+;---------------------------------------------------
+; <L>35946<pc>3-0847<k1>dvEpAyana<k2>dvEpAyana/<h>1
+347244 old <ls>VARĀH. BṚH. S. 47. 65.</ls>
+;
+347244 new <ls>VARĀH. BṚH. S. 47,65.</ls>
+;---------------------------------------------------
+; <L>36186<pc>3-0868<k1>Dar<k2>Dar
+349542 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),9. 11. 14. 18. 83 (80,c),8.</ls> {#samaDfta#} {%gleiches Gewicht habend%}
+;
+349542 new <ls>VARĀH. BṚH. S. 82 (80,b),9.</ls> <ls n="VARĀH. BṚH. S. 82,">11.</ls> <ls n="VARĀH. BṚH. S. 82,">14.</ls> <ls n="VARĀH. BṚH. S. 82,">18.</ls> <ls n="VARĀH. BṚH. S.">83 (80,c),8.</ls> {#samaDfta#} {%gleiches Gewicht habend%}
+;---------------------------------------------------
+; <L>36188<pc>3-0878<k1>DaraRa<k2>DaraRa
+350127 old <ls>SUŚR. 2,175,14.</ls> <ls n="SUŚR. 2,">33,4.</ls> <ls n="SUŚR. 2,">132,4.</ls> <ls>VARĀH. BṚH. S. 82 (80,b),13. 18.</ls> = 24 <is>Raktikā</is>
+;
+350127 new <ls>SUŚR. 2,175,14.</ls> <ls n="SUŚR. 2,">33,4.</ls> <ls n="SUŚR. 2,">132,4.</ls> <ls>VARĀH. BṚH. S. 82 (80,b),13.</ls> <ls n="VARĀH. BṚH. S. 82,">18.</ls> = 24 <is>Raktikā</is>
+;---------------------------------------------------
+; <L>36213<pc>3-0879<k1>DarADara<k2>DarADara
+350302 old <ls>VARĀH. BṚH. S. 42</ls> (<ls n="VARĀH. BṚH. S.">43),25.</ls>
+;
+350302 new <ls>VARĀH. BṚH. S. 42 (43),25.</ls>
+;---------------------------------------------------
+; <L>36223<pc>3-0880<k1>DaritrI<k2>DaritrI
+350363 old <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4,172.</ls> <ls>AK. 2,1,2.</ls> <ls>H. 935.</ls> <ls>BHARTṚ. 2,37.</ls> <ls>RAGH. 14,54.</ls> <ls>KUMĀRAS. 1,2.</ls> <ls>ŚĀK. 48.</ls> <ls>VARĀH. BṚH. S. 5. 61. 53,90. 106.</ls> <ls>AMAR. 50.</ls> <ls>BHĀG. P. 1,16,24.</ls> <ls n="BHĀG. P.">4,17,3.</ls> pl.: {#parjanyAya DaritrIRAM dadyAcca mARake (?) trayam#}
+;
+350363 new <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4,172.</ls> <ls>AK. 2,1,2.</ls> <ls>H. 935.</ls> <ls>BHARTṚ. 2,37.</ls> <ls>RAGH. 14,54.</ls> <ls>KUMĀRAS. 1,2.</ls> <ls>ŚĀK. 48.</ls> <ls>VARĀH. BṚH. S. 5,61. 53,90. 106.</ls> <ls>AMAR. 50.</ls> <ls>BHĀG. P. 1,16,24.</ls> <ls n="BHĀG. P.">4,17,3.</ls> pl.: {#parjanyAya DaritrIRAM dadyAcca mARake (?) trayam#}
+;---------------------------------------------------
+; <L>36465<pc>3-0899<k1>Dava<k2>Dava/<h>1
+352450 old <ls>MED. v. 13.</ls> <ls>AV. 5,5,5.</ls> <ls n="AV.">20,131,17.</ls> <ls>MBH. 1,2830.</ls> <ls n="MBH.">3,3403.</ls> <ls n="MBH. 3,">2440.</ls> <ls n="MBH.">13,635.</ls> <ls n="MBH. 13,">2829.</ls> <ls>R. 1,26,15.</ls> <ls n="R.">3,21,15.</ls> <ls n="R. 3,">76,3.</ls> <ls n="R. 3,">79,36.</ls> <ls>SUŚR. 1,46,15. 59,19. 134,3. 138,4. 21. 2,23,5. 347,4.</ls> <ls>VARĀH. BṚH. S. 42 (43),15. 52,120. 53,107. 54,24.</ls>
+;
+352450 new <ls>MED. v. 13.</ls> <ls>AV. 5,5,5.</ls> <ls n="AV.">20,131,17.</ls> <ls>MBH. 1,2830.</ls> <ls n="MBH.">3,3403.</ls> <ls n="MBH. 3,">2440.</ls> <ls n="MBH.">13,635.</ls> <ls n="MBH. 13,">2829.</ls> <ls>R. 1,26,15.</ls> <ls n="R.">3,21,15.</ls> <ls n="R. 3,">76,3.</ls> <ls n="R. 3,">79,36.</ls> <ls>SUŚR. 1,46,15. 59,19. 134,3. 138,4. 21. 2,23,5. 347,4.</ls> <ls>VARĀH. BṚH. S. 42 (43),15.</ls> <ls n="VARĀH. BṚH. S.">52,120. 53,107. 54,24.</ls>
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+352812 old <ls n="VARĀH. BṚH. S.">46,27 (28). 52,88.</ls> {#vAYCitArTaM Datte#} ({#AgneyI CAyA#})
+;
+352812 new <ls n="VARĀH. BṚH. S.">46,27 (28).</ls> <ls n="VARĀH. BṚH. S.">52,88.</ls> {#vAYCitArTaM Datte#} ({#AgneyI CAyA#})
+;---------------------------------------------------
+; <L>36493<pc>3-0933<k1>DAtu<k2>DA/tu<h>1
+355029 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),15.</ls> {#(padmarAgAH) mandadyutayaSca DAtuBirvidDAH#}
+;
+355029 new <ls>VARĀH. BṚH. S. 81 (80,a),15.</ls> {#(padmarAgAH) mandadyutayaSca DAtuBirvidDAH#}
+;---------------------------------------------------
+; <L>36493<pc>3-0933<k1>DAtu<k2>DA/tu<h>1
+355030 old <ls n="VARĀH. BṚH. S.">83 (80,c),2. 4. 7,5.</ls> <ls>RAGH. 4,71.</ls> {#mahAmeroryaTA rUpaM paYcaBirDAtuBirvftam#}
+;
+355030 new <ls n="VARĀH. BṚH. S.">83 (80,c),2.</ls> <ls n="VARĀH. BṚH. S. 83,">4.</ls> <ls n="VARĀH. BṚH. S.">7,5.</ls> <ls>RAGH. 4,71.</ls> {#mahAmeroryaTA rUpaM paYcaBirDAtuBirvftam#}
+;---------------------------------------------------
+; <L>36569<pc>3-0939<k1>DAnyaka<k2>DAnyaka
+355590 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),17. 82 (80,b),6.</ls>
+;
+355590 new <ls>VARĀH. BṚH. S. 81 (80,a),17.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),6.</ls>
+;---------------------------------------------------
+; <L>36644<pc>3-0947<k1>DArayitavya<k2>DArayitavya
+356370 old <ls>VARĀH. BṚH. S. 81</ls> (<ls n="VARĀH. BṚH. S.">80,a),17.</ls>
+;
+356370 new <ls>VARĀH. BṚH. S. 81 (80,a),17.</ls>
+;---------------------------------------------------
+; <L>36756<pc>3-0962<k1>DizRya<k2>Di/zRya
+357905 old <ls n="VARĀH. BṚH. S.">3.</ls> {#DizRyA kfSAlpapucCA DanUMzi daSa dfSyate 'ntarAByaDikam . jvalitANgAranikASA dvO hastO sA pramARena ..#}
+;
+357905 new <ls n="VARĀH. BṚH. S. 32,">3.</ls> {#DizRyA kfSAlpapucCA DanUMzi daSa dfSyate 'ntarAByaDikam . jvalitANgAranikASA dvO hastO sA pramARena ..#}
+;---------------------------------------------------
+; <L>36756<pc>3-0962<k1>DizRya<k2>Di/zRya
+357906 old <ls n="VARĀH. BṚH. S.">6.</ls>
+;
+357906 new <ls n="VARĀH. BṚH. S. 32,">6.</ls>
+;---------------------------------------------------
+; <L>36831<pc>3-0972<k1>DU<k2>DU<h>1
+358872 old <ls>MBH. 1,5932.</ls> <ls n="MBH.">13,1973.</ls> <ls>KUMĀRAS. 7,49.</ls> <ls>MEGH. 63.</ls> <ls>ṚT. 3,12.</ls> <ls>VARĀH. BṚH. S. 27,c,9. 44 (43),10. 77,8. 94,41.</ls> <ls>AMAR. 58.</ls> <ls>VET. 30,17.</ls> <ls>BHAṬṬ. 5,101.</ls> <ls n="BHAṬṬ.">9,7.</ls> <ls n="BHAṬṬ.">10,22.</ls> {#DunvAno gadAM daRqamivAntakaH#}
+;
+358872 new <ls>MBH. 1,5932.</ls> <ls n="MBH.">13,1973.</ls> <ls>KUMĀRAS. 7,49.</ls> <ls>MEGH. 63.</ls> <ls>ṚT. 3,12.</ls> <ls>VARĀH. BṚH. S. 27,c,9.</ls> <ls n="VARĀH. BṚH. S.">44 (43),10.</ls> <ls n="VARĀH. BṚH. S.">77,8. 94,41.</ls> <ls>AMAR. 58.</ls> <ls>VET. 30,17.</ls> <ls>BHAṬṬ. 5,101.</ls> <ls n="BHAṬṬ.">9,7.</ls> <ls n="BHAṬṬ.">10,22.</ls> {#DunvAno gadAM daRqamivAntakaH#}
+;---------------------------------------------------
+; <L>36849<pc>3-0979<k1>DUpay<k2>DUpay
+359386 old <ls n="VARĀH. BṚH. S.">23.</ls> {#SrIsarjaguqanaKEste DUpayitavyAH kramAnna piRqasTEH#}
+;
+359386 new <ls n="VARĀH. BṚH. S. 54,">23.</ls> {#SrIsarjaguqanaKEste DUpayitavyAH kramAnna piRqasTEH#}
+;---------------------------------------------------
+; <L>37147<pc>3-1001<k1>Druva<k2>Druva/
+362101 old <ls>VARĀH. BṚH. S. 8,19. 46,12 (13).</ls>
+;
+362101 new <ls>VARĀH. BṚH. S. 8,19.</ls> <ls n="VARĀH. BṚH. S.">46,12 (13).</ls>
+;---------------------------------------------------
+; <L>37147<pc>3-1001<k1>Druva<k2>Druva/
+362119 old <ls>VARĀH. BṚH. S. 11,34. 46,12 (13).</ls>
+;
+362119 new <ls>VARĀH. BṚH. S. 11,34.</ls> <ls n="VARĀH. BṚH. S.">46,12 (13).</ls>
+;---------------------------------------------------
+; <L>37213<pc>3-1010<k1>Dvani<k2>Dvani/
+362951 old <ls>VARĀH. BṚH. S. 43 (34),7. 24.</ls> {#SAntaDvanizu rajanIzu#}
+;
+362951 new <ls>VARĀH. BṚH. S. 43 (34),7.</ls> <ls n="VARĀH. BṚH. S. 43,">24.</ls> {#SAntaDvanizu rajanIzu#}
+;---------------------------------------------------
+; <L>37304<pc>4-0007<k1>nakra<k2>nakra
+364196 old <ls>AK. 1,2,3,21.</ls> <ls>TRIK. 1,2,23.</ls> <ls>H. 1349.</ls> <ls>an. 2,434.</ls> <ls>MED. r. 53. 54.</ls> <ls>HĀR. 76.</ls> <ls>M. 1,44.</ls> <ls>MBH. 3,16241.</ls> <ls>R. 2,113,22.</ls> <ls n="R.">3,17,24.</ls> <ls>SUŚR. 2,155,17.</ls> <ls>VARĀH. BṚH. S. 27,c,14. 32,9.</ls> <ls>RAGH. 7,27.</ls> {#mAtaNga°#}
+;
+364196 new <ls>AK. 1,2,3,21.</ls> <ls>TRIK. 1,2,23.</ls> <ls>H. 1349.</ls> <ls>an. 2,434.</ls> <ls>MED. r. 53. 54.</ls> <ls>HĀR. 76.</ls> <ls>M. 1,44.</ls> <ls>MBH. 3,16241.</ls> <ls>R. 2,113,22.</ls> <ls n="R.">3,17,24.</ls> <ls>SUŚR. 2,155,17.</ls> <ls>VARĀH. BṚH. S. 27,c,14.</ls> <ls n="VARĀH. BṚH. S.">32,9.</ls> <ls>RAGH. 7,27.</ls> {#mAtaNga°#}
+;---------------------------------------------------
+; <L>37326<pc>4-0009<k1>nakzatramAlA<k2>nakzatramAlA
+364418 old <ls>VARĀH. BṚH. S. 82 (80</ls>, {%b%}),34.
+;
+364418 new <ls>VARĀH. BṚH. S. 82 (80b),34.</ls>
+;---------------------------------------------------
+; <L>37393<pc>4-0013<k1>nagara<k2>nagara/
+364920 old <ls n="R.">4,16,19.</ls> <ls>ŚĀK. 18,22.</ls> <ls>VARĀH. BṚH. S. 42 (43),26. 45,41.</ls> <ls>VID. 54.</ls> <ls>HIT. 4,5.</ls> {#°dEvata#}
+;
+364920 new <ls n="R.">4,16,19.</ls> <ls>ŚĀK. 18,22.</ls> <ls>VARĀH. BṚH. S. 42 (43),26.</ls> <ls n="VARĀH. BṚH. S.">45,41.</ls> <ls>VID. 54.</ls> <ls>HIT. 4,5.</ls> {#°dEvata#}
+;---------------------------------------------------
+; <L>37453<pc>4-0016<k1>nacira<k2>nacira
+365329 old <ls>MBH. 1,833.</ls> <ls n="MBH.">5,7483.</ls> <ls>BHAG. 12,7.</ls> <ls>N. 2,21.</ls> <ls n="N.">17,23.</ls> <ls>R. 3,35,6.</ls> <ls n="R. 3,35,">10.</ls> <ls n="R. 3,">46,6.</ls> <ls n="R. 3,">52,3.</ls> <ls n="R.">6,81,10.</ls> <ls>VARĀH. BṚH. S. 3,38. 27,c,11.</ls> <ls>KATHĀS. 14,6.</ls> <ls>BHĀG. P. 6,1,55.</ls> <ls n="BHĀG. P. 6,">15,28.</ls> {#nacirAya#} dass.
+;
+365329 new <ls>MBH. 1,833.</ls> <ls n="MBH.">5,7483.</ls> <ls>BHAG. 12,7.</ls> <ls>N. 2,21.</ls> <ls n="N.">17,23.</ls> <ls>R. 3,35,6.</ls> <ls n="R. 3,35,">10.</ls> <ls n="R. 3,">46,6.</ls> <ls n="R. 3,">52,3.</ls> <ls n="R.">6,81,10.</ls> <ls>VARĀH. BṚH. S. 3,38.</ls> <ls n="VARĀH. BṚH. S.">27,c,11.</ls> <ls>KATHĀS. 14,6.</ls> <ls>BHĀG. P. 6,1,55.</ls> <ls n="BHĀG. P. 6,">15,28.</ls> {#nacirAya#} dass.
+;---------------------------------------------------
+; <L>37457<pc>4-0017<k1>nawa<k2>na/wa
+365388 old <ls n="MBH.">13,2094.</ls> <ls>R. 1,12,7.</ls> <ls n="R.">2,67,12.</ls> <ls>SĀṂKHYAK. 42.</ls> <ls>VARĀH. BṚH. S. 16,20. 42 (43),26.</ls> <ls>PAÑCAT. 43,3.</ls> {#nawanartanaganDarvEH#}
+;
+365388 new <ls n="MBH.">13,2094.</ls> <ls>R. 1,12,7.</ls> <ls n="R.">2,67,12.</ls> <ls>SĀṂKHYAK. 42.</ls> <ls>VARĀH. BṚH. S. 16,20.</ls> <ls n="VARĀH. BṚH. S.">42 (43),26.</ls> <ls>PAÑCAT. 43,3.</ls> {#nawanartanaganDarvEH#}
+;---------------------------------------------------
+; <L>37630<pc>4-0036<k1>napuMsaka<k2>napuMsaka
+367336 old <ls>PAÑCAT. I,364.</ls> n. <ls>MBH. 5,5634.</ls> <ls n="MBH.">12,3181.</ls> <ls n="MBH. 12,">5451.</ls> <ls>SUŚR. 1,321,1. 322,8. 325,11.</ls> <ls>VARĀH. BṚH. S. 75,1. 77,28. 85,9. — 16,19. 19,12.</ls> <ls>SUŚR. 1,109,4.</ls>
+;
+367336 new <ls>PAÑCAT. I,364.</ls> n. <ls>MBH. 5,5634.</ls> <ls n="MBH.">12,3181.</ls> <ls n="MBH. 12,">5451.</ls> <ls>SUŚR. 1,321,1. 322,8. 325,11.</ls> <ls>VARĀH. BṚH. S. 75,1. 77,28. 85,9.</ls> — <ls n="VARĀH. BṚH. S.">16,19. 19,12.</ls> <ls>SUŚR. 1,109,4.</ls>
+;---------------------------------------------------
+; <L>37694<pc>4-0040<k1>nam<k2>nam
+368314 old <ls>VARĀH. BṚH. S. 82 (80</ls>, {%b%}),8. {%verdaut werden%}: {#grastaM pariRamecca yat#}
+;
+368314 new <ls>VARĀH. BṚH. S. 82 (80,b),8.</ls> {%verdaut werden%}: {#grastaM pariRamecca yat#}
+;---------------------------------------------------
+; <L>37842<pc>4-0059<k1>narAyaRa<k2>narAyaRa
+369755 old <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>VARĀH. BṚH. S. 42 (43),5. 47,79.</ls>
+;
+369755 new <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>VARĀH. BṚH. S. 42 (43),5.</ls> <ls n="VARĀH. BṚH. S.">47,79.</ls>
+;---------------------------------------------------
+; <L>37851<pc>4-0060<k1>narendra<k2>narendra
+369829 old <ls>MED. r. 172.</ls> <ls>M. 9,253.</ls> <ls>YĀJÑ. 1,307.</ls> <ls>N. 18,6.</ls> <ls>R. 1,7,9.</ls> <ls n="R. 1,7,">11.</ls> <ls n="R. 1,">8,5.</ls> <ls n="R. 1,">12,25.</ls> <ls n="R.">2,67,29.</ls> <ls>RAGH. 2,18.</ls> <ls n="RAGH.">3,33.</ls> <ls n="RAGH.">6,80.</ls> <ls>VARĀH. BṚH. S. 2,21 (20). 15,16.</ls> {#°putra#} {%Königssohn, Prinz%}
+;
+369829 new <ls>MED. r. 172.</ls> <ls>M. 9,253.</ls> <ls>YĀJÑ. 1,307.</ls> <ls>N. 18,6.</ls> <ls>R. 1,7,9.</ls> <ls n="R. 1,7,">11.</ls> <ls n="R. 1,">8,5.</ls> <ls n="R. 1,">12,25.</ls> <ls n="R.">2,67,29.</ls> <ls>RAGH. 2,18.</ls> <ls n="RAGH.">3,33.</ls> <ls n="RAGH.">6,80.</ls> <ls>VARĀH. BṚH. S. 2,21 (20).</ls> <ls n="VARĀH. BṚH. S.">15,16.</ls> {#°putra#} {%Königssohn, Prinz%}
+;---------------------------------------------------
+; <L>37864<pc>4-0062<k1>nartaka<k2>na/rtaka
+370065 old <ls>VARĀH. BṚH. S. 16,20. 42 (43),26.</ls>
+;
+370065 new <ls>VARĀH. BṚH. S. 16,20.</ls> <ls n="VARĀH. BṚH. S.">42 (43),26.</ls>
+;---------------------------------------------------
+; <L>37964<pc>4-0071<k1>navaDA<k2>navaDA/
+371089 old <ls>VARĀH. BṚH. S. 14,1. 52,29. 86,18 (99).</ls>
+;
+371089 new <ls>VARĀH. BṚH. S. 14,1. 52,29.</ls> <ls n="VARĀH. BṚH. S.">86,18 (99).</ls>
+;---------------------------------------------------
+; <L>38011<pc>4-0074<k1>navazawka<k2>navazawka
+371405 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),32.</ls>
+;
+371405 new <ls>VARĀH. BṚH. S. 82 (80,b),32.</ls>
+;---------------------------------------------------
+; <L>38048<pc>4-0076<k1>naS<k2>naS<h>1
+371922 old <ls>VARĀH. BṚH. S. 3,21. 25. 11,54. 83</ls> (<ls n="VARĀH. BṚH. S.">80,c),6.</ls> {#abarhAnmAMsaBUtAnnaH kravyAdAKurvinASayet#} {%umbringen%}
+;
+371922 new <ls>VARĀH. BṚH. S. 3,21. 25. 11,54.</ls> <ls n="VARĀH. BṚH. S.">83 (80,c),6.</ls> {#abarhAnmAMsaBUtAnnaH kravyAdAKurvinASayet#} {%umbringen%}
+;---------------------------------------------------
+; <L>38129<pc>4-0089<k1>nAga<k2>nA/ga<h>1
+372952 old <ls>H. an.</ls> <ls>MED.</ls> <ls>SUŚR. 1,171,7. 223,20.</ls> <ls>VARĀH. BṚH. S. 28,12. 43 (34),10. 53,103. 76,19. 86,24 (105).</ls> neben {#puMnAga#}
+;
+372952 new <ls>H. an.</ls> <ls>MED.</ls> <ls>SUŚR. 1,171,7. 223,20.</ls> <ls>VARĀH. BṚH. S. 28,12.</ls> <ls n="VARĀH. BṚH. S.">43 (34),10.</ls> <ls n="VARĀH. BṚH. S.">53,103. 76,19.</ls> <ls n="VARĀH. BṚH. S.">86,24 (105).</ls> neben {#puMnAga#}
+;---------------------------------------------------
+; <L>38204<pc>4-0094<k1>nAgara<k2>nAgara
+373495 old <ls>VARĀH. BṚH. S. 16,13. 42 (43),23.</ls>
+;
+373495 new <ls>VARĀH. BṚH. S. 16,13.</ls> <ls n="VARĀH. BṚH. S.">42 (43),23.</ls>
+;---------------------------------------------------
+; <L>38244<pc>4-0096<k1>nAgasaMBUta<k2>nAgasaMBUta
+373806 old <ls>VARĀH. BṚH. S. 82</ls> (<ls n="VARĀH. BṚH. S.">80,b),26.</ls>
+;
+373806 new <ls>VARĀH. BṚH. S. 82 (80,b),26.</ls>
+;---------------------------------------------------
+; <L>38371<pc>4-0105<k1>nAnAkAra<k2>nAnAkAra
+374867 old <ls>VARĀH. BṚH. S. 43 (34),11. 52,99.</ls>
+;
+374867 new <ls>VARĀH. BṚH. S. 43 (34),11.</ls> <ls n="VARĀH. BṚH. S.">52,99.</ls>
+;---------------------------------------------------
+; <L>38598<pc>4-0124<k1>nASa<k2>nASa<h>1
+377046 old <ls>VARĀH. BṚH. S. 30,1. 42 (43),22. 3,31.</ls> {#pUrvanASe#} {%beim Tode des Früheren%}
+;
+377046 new <ls>VARĀH. BṚH. S. 30,1.</ls> <ls n="VARĀH. BṚH. S.">42 (43),22.</ls> <ls n="VARĀH. BṚH. S.">3,31.</ls> {#pUrvanASe#} {%beim Tode des Früheren%}
+;---------------------------------------------------
+; <L>38694<pc>4-0132<k1>nikASa<k2>nikASa
+377927 old <ls>MBH. 1,8013.</ls> <ls n="MBH.">4,1049.</ls> <ls n="MBH.">6,4424.</ls> <ls n="MBH.">13,6327.</ls> <ls>HARIV. 8781.</ls> <ls>R. 2,95,9.</ls> <ls n="R. 2,">100,19.</ls> <ls n="R.">3,30,18.</ls> <ls n="R. 3,">57,34.</ls> <ls n="R.">6,31,33.</ls> <ls>SUŚR. 2,166,12.</ls> <ls>VARĀH. BṚH. S. 11,25. 21,23. 32,6. 42 (43),42. 53,30. 81 (80,a),8.</ls> {#kASanikASatvAt#}
+;
+377927 new <ls>MBH. 1,8013.</ls> <ls n="MBH.">4,1049.</ls> <ls n="MBH.">6,4424.</ls> <ls n="MBH.">13,6327.</ls> <ls>HARIV. 8781.</ls> <ls>R. 2,95,9.</ls> <ls n="R. 2,">100,19.</ls> <ls n="R.">3,30,18.</ls> <ls n="R. 3,">57,34.</ls> <ls n="R.">6,31,33.</ls> <ls>SUŚR. 2,166,12.</ls> <ls>VARĀH. BṚH. S. 11,25. 21,23. 32,6.</ls> <ls n="VARĀH. BṚH. S.">42 (43),42.</ls> <ls n="VARĀH. BṚH. S.">53,30.</ls> <ls n="VARĀH. BṚH. S.">81 (80,a),8.</ls> {#kASanikASatvAt#}
+;---------------------------------------------------
+; <L>38801<pc>4-0141<k1>nicaya<k2>nicaya<h>1
+378922 old <ls n="HARIV.">12044.</ls> <ls n="HARIV.">3927.</ls> <ls>MBH. 3,3048.</ls> <ls>R. 1,52,24.</ls> <ls>VARĀH. BṚH. S. 24,16. 27,c,5. 104,37.</ls> <ls>SŪRYAS. 12,34.</ls> <ls>ŚĀNTIŚ. 2,6.</ls> <ls>ŚṚṄGĀRAT. 9.</ls> {#ambu°#}
+;
+378922 new <ls n="HARIV.">12044.</ls> <ls n="HARIV.">3927.</ls> <ls>MBH. 3,3048.</ls> <ls>R. 1,52,24.</ls> <ls>VARĀH. BṚH. S. 24,16.</ls> <ls n="VARĀH. BṚH. S.">27,c,5.</ls> <ls n="VARĀH. BṚH. S.">104,37.</ls> <ls>SŪRYAS. 12,34.</ls> <ls>ŚĀNTIŚ. 2,6.</ls> <ls>ŚṚṄGĀRAT. 9.</ls> {#ambu°#}
+;---------------------------------------------------
+; <L>38899<pc>4-0151<k1>nidrA<k2>nidrA/
+380070 old <ls n="VARĀH. BṚH. S.">5.</ls> <ls>BHARTṚ. 3,73.</ls> {#aNgAni nidrAlasavihvalAni#}
+;
+380070 new <ls n="VARĀH. BṚH. S. 92,">5.</ls> <ls>BHARTṚ. 3,73.</ls> {#aNgAni nidrAlasavihvalAni#}
+;---------------------------------------------------
+; <L>39012<pc>4-0161<k1>niBa<k2>niBa
+381169 old <ls>AK. 2,10,38.</ls> <ls>TRIK. 3,3,287.</ls> <ls>H. 1462.</ls> <ls>MED. bh. 6.</ls> <ls>ṚV. PRĀT. 2,44.</ls> <ls n="ṚV. PRĀT.">14,12.</ls> <ls>N. 11,30.</ls> <ls n="N.">12,21.</ls> <ls n="N.">16,10.</ls> <ls n="N. 16,">22.</ls> <ls>HIḌ. 3,9. 4,29.</ls> <ls>R. 2,26,10.</ls> <ls n="R. 2,">93,3.</ls> <ls n="R.">5,18,26.</ls> <ls>SUŚR. 1,313,20. 258,13. 14.</ls> <ls>MEGH. 79.</ls> <ls>VARĀH. BṚH. S. 3,24. 29. 10,20. 33,6. 82 (80,b),4.</ls> <ls>KATHĀS. 26,144.</ls> <ls>VID. 20.</ls> <ls>BHĀG. P. 3,33,16.</ls> <ls>H. 6.</ls> <ls n="H.">8.</ls> <ls n="H.">1421.</ls> {#aGozaniBatA#}
+;
+381169 new <ls>AK. 2,10,38.</ls> <ls>TRIK. 3,3,287.</ls> <ls>H. 1462.</ls> <ls>MED. bh. 6.</ls> <ls>ṚV. PRĀT. 2,44.</ls> <ls n="ṚV. PRĀT.">14,12.</ls> <ls>N. 11,30.</ls> <ls n="N.">12,21.</ls> <ls n="N.">16,10.</ls> <ls n="N. 16,">22.</ls> <ls>HIḌ. 3,9. 4,29.</ls> <ls>R. 2,26,10.</ls> <ls n="R. 2,">93,3.</ls> <ls n="R.">5,18,26.</ls> <ls>SUŚR. 1,313,20. 258,13. 14.</ls> <ls>MEGH. 79.</ls> <ls>VARĀH. BṚH. S. 3,24. 29. 10,20. 33,6.</ls> <ls n="VARĀH. BṚH. S.">82 (80,b),4.</ls> <ls>KATHĀS. 26,144.</ls> <ls>VID. 20.</ls> <ls>BHĀG. P. 3,33,16.</ls> <ls>H. 6.</ls> <ls n="H.">8.</ls> <ls n="H.">1421.</ls> {#aGozaniBatA#}
+;---------------------------------------------------
+; <L>39012<pc>4-0161<k1>niBa<k2>niBa
+381172 old <ls>VARĀH. BṚH. S. 29,22. 46,27 (28).</ls> {#asita°#}
+;
+381172 new <ls>VARĀH. BṚH. S. 29,22.</ls> <ls n="VARĀH. BṚH. S.">46,27 (28).</ls> {#asita°#}
+;---------------------------------------------------
+; <L>39012<pc>4-0161<k1>niBa<k2>niBa
+381173 old <ls n="VARĀH. BṚH. S.">81 80,a,11.</ls> Bedeutsam dagegen in {#eka°#} {%einförmig%}
+;
+381173 new <ls n="VARĀH. BṚH. S.">81 (80,a),11.</ls> Bedeutsam dagegen in {#eka°#} {%einförmig%}
+;---------------------------------------------------
+; <L>39033<pc>4-0162<k1>nimitta<k2>nimitta
+381331 old <ls>ŚĀK. 8,17. 63,11. 101,14.</ls> <ls>VIKR. 7,4.</ls> <ls>VARĀH. BṚH. S. 5,16. 21,35. 36. 27,c,7. 42 (43),10. 30. 47,78. 48,8. 50,7. 52,108. 53,6. 57,1.</ls> <ls>Z. d. d. m. G. 14,569,12.</ls> <ls>BHĀG. P. 1,14,2.</ls> <ls n="BHĀG. P. 1,14,">5.</ls> Vgl. {#durnimitta#} .
+;
+381331 new <ls>ŚĀK. 8,17. 63,11. 101,14.</ls> <ls>VIKR. 7,4.</ls> <ls>VARĀH. BṚH. S. 5,16. 21,35. 36.</ls> <ls n="VARĀH. BṚH. S.">27,c,7.</ls> <ls n="VARĀH. BṚH. S.">42 (43),10.</ls> <ls n="VARĀH. BṚH. S. 42,">30.</ls> <ls n="VARĀH. BṚH. S.">47,78. 48,8. 50,7. 52,108. 53,6. 57,1.</ls> <ls>Z. d. d. m. G. 14,569,12.</ls> <ls>BHĀG. P. 1,14,2.</ls> <ls n="BHĀG. P. 1,14,">5.</ls> Vgl. {#durnimitta#} .
+;---------------------------------------------------
+; <L>39067<pc>4-0165<k1>nimna<k2>nimna/
+381654 old <ls n="VARĀH. BṚH. S.">67,13. 30.</ls> {#vaktra#} 56. {#°lalAwa#} 72. {#Siras#}
+;
+381654 new <ls n="VARĀH. BṚH. S.">67,13. 30.</ls> {#vaktra#} <ls n="VARĀH. BṚH. S. 67,">56.</ls> {#°lalAwa#} <ls n="VARĀH. BṚH. S. 67,">72.</ls> {#Siras#}
+;---------------------------------------------------
+; <L>39067<pc>4-0165<k1>nimna<k2>nimna/
+381655 old <ls n="VARĀH. BṚH. S.">80 (81).</ls> {#nABi#}
+;
+381655 new <ls n="VARĀH. BṚH. S. 67,">80 (81).</ls> {#nABi#}
+;---------------------------------------------------
+; <L>39067<pc>4-0165<k1>nimna<k2>nimna/
+381656 old <ls n="VARĀH. BṚH. S.">21.</ls> <ls>ṚT. 5,12.</ls> <ls>MEGH. 80.</ls> {#nAsAgra#}
+;
+381656 new <ls n="VARĀH. BṚH. S. 67,">21.</ls> <ls>ṚT. 5,12.</ls> <ls>MEGH. 80.</ls> {#nAsAgra#}
+;---------------------------------------------------
+; <L>39069<pc>4-0166<k1>nimnagA<k2>nimnagA
+381682 old <ls>KĀM. NĪTIS. 9,50.</ls> <ls>VARĀH. BṚH. S. 16,42. 44(43),10. 55,7.</ls> <ls>RĀJA-TAR. 1,40.</ls> <ls>KATHĀS. 19,64.</ls> <ls>MĀRK. P. 25,4.</ls> <ls>GĪT. 6,10.</ls>
+;
+381682 new <ls>KĀM. NĪTIS. 9,50.</ls> <ls>VARĀH. BṚH. S. 16,42.</ls> <ls n="VARĀH. BṚH. S.">44 (43),10.</ls> <ls n="VARĀH. BṚH. S.">55,7.</ls> <ls>RĀJA-TAR. 1,40.</ls> <ls>KATHĀS. 19,64.</ls> <ls>MĀRK. P. 25,4.</ls> <ls>GĪT. 6,10.</ls>
+;---------------------------------------------------
+; <L>39074<pc>4-0166<k1>nimba<k2>ni/mba
+381712 old <ls>BHARTṚ. Suppl. 8.</ls> <ls>VARĀH. BṚH. S. 52,120. 56,7. 80 (79),6.</ls> Bei einer Todtencerimonie werden Blätter von diesem Baume gekaut
+;
+381712 new <ls>BHARTṚ. Suppl. 8.</ls> <ls>VARĀH. BṚH. S. 52,120. 56,7.</ls> <ls n="VARĀH. BṚH. S.">80 (79),6.</ls> Bei einer Todtencerimonie werden Blätter von diesem Baume gekaut
+;---------------------------------------------------
+; <L>39397<pc>4-0190<k1>nirgranTa<k2>nirgranTa
+384438 old <ls>VARĀH. BṚH. S. 50,21. 80,34 (115).</ls>
+;
+384438 new <ls>VARĀH. BṚH. S. 50,21.</ls> <ls n="VARĀH. BṚH. S.">80,34 (115).</ls>
+;---------------------------------------------------
+; <L>39414<pc>4-0191<k1>nirGoza<k2>nirGoza<h>1
+384581 old <ls n="RAGH.">9,64.</ls> <ls>VARĀH. BṚH. S. 42(43),26. 45,91.</ls> {#pOraviprapraGuzwapuRyAhanirGozEH#}
+;
+384581 new <ls n="RAGH.">9,64.</ls> <ls>VARĀH. BṚH. S. 42 (43),26.</ls> <ls n="VARĀH. BṚH. S.">45,91.</ls> {#pOraviprapraGuzwapuRyAhanirGozEH#}
+;---------------------------------------------------
+; <L>39503<pc>4-0197<k1>nirnimitta<k2>nirnimitta
+385316 old <ls>VARĀH. BṚH. S. 4,9. 46,10 (11).</ls> {#nirnimittakfta#} {%ohne Veranlassung entstanden, wobei die Ursache nicht wahrzunehmen ist%}: {#ativfzwi#}
+;
+385316 new <ls>VARĀH. BṚH. S. 4,9.</ls> <ls n="VARĀH. BṚH. S.">46,10 (11).</ls> {#nirnimittakfta#} {%ohne Veranlassung entstanden, wobei die Ursache nicht wahrzunehmen ist%}: {#ativfzwi#}
+;---------------------------------------------------
+; <L>39557<pc>4-0201<k1>nirmala<k2>nirmala
+385748 old <ls>VARĀH. BṚH. S. 12,9. 43 (34),29.</ls>
+;
+385748 new <ls>VARĀH. BṚH. S. 12,9.</ls> <ls n="VARĀH. BṚH. S.">43 (34),29.</ls>
+;---------------------------------------------------
+; <L>39600<pc>4-0204<k1>niryARa<k2>niryARa
+386105 old <ls>VARĀH. BṚH. S. 2</ls>, {%d%} (A. Bl. 2, {%a%}).
+;
+386105 new <ls>VARĀH. BṚH. S. 2, d (A. Bl. 2, a).</ls>
+;---------------------------------------------------
+; <L>40172<pc>4-0251<k1>nizpatti<k2>nizpatti
+391338 old <ls>VARĀH. BṚH. S. 8,9. 13. 28,1. fgg. 39 (38),3. fgg. 94,4.</ls> {#OzaDakarma°#}
+;
+391338 new <ls>VARĀH. BṚH. S. 8,9. 13. 28,1. fgg.</ls> <ls n="VARĀH. BṚH. S.">39 (38),3. fgg.</ls> <ls n="VARĀH. BṚH. S.">94,4.</ls> {#OzaDakarma°#}
+;---------------------------------------------------
+; <L>40200<pc>4-0252<k1>nizpAva<k2>nizpAva/
+391524 old <ls>H. an.</ls> — <ls>MBH. 13,5498.</ls> <ls>SUŚR. 1,70,5. 79,21. 2,63,18. 109,3. 175,14.</ls> <ls>VARĀH. BṚH. S. 16. 34. 37. 40 (39),5.</ls> <ls>BHĀG. P. 5,21,2.</ls> <ls>MĀRK. P. 15,24. 32,10.</ls> Vgl. {#naKa°, nadI°, kawunizplAva#}, wofür doch {#°nizpAva#} (= {#nadInizpAva)#} zu lesen ist.
+;
+391524 new <ls>H. an.</ls> — <ls>MBH. 13,5498.</ls> <ls>SUŚR. 1,70,5. 79,21. 2,63,18. 109,3. 175,14.</ls> <ls>VARĀH. BṚH. S. 16,34. 37.</ls> <ls n="VARĀH. BṚH. S.">40 (39),5.</ls> <ls>BHĀG. P. 5,21,2.</ls> <ls>MĀRK. P. 15,24. 32,10.</ls> Vgl. {#naKa°, nadI°, kawunizplAva#}, wofür doch {#°nizpAva#} (= {#nadInizpAva)#} zu lesen ist.
+;---------------------------------------------------
+; <L>40318<pc>4-0260<k1>nisvana<k2>nisvana/<h>2
+392395 old <ls>VARĀH. BṚH. S. 24,19. 43 (34),17.</ls>
+;
+392395 new <ls>VARĀH. BṚH. S. 24,19.</ls> <ls n="VARĀH. BṚH. S.">43 (34),17.</ls>
+;---------------------------------------------------
+; <L>40388<pc>4-0281<k1>nIca<k2>nIca
+394208 old <ls n="VARĀH. BṚH. S.">9,13. 38 (37),4.</ls> {#nIcakulodBava#}
+;
+394208 new <ls n="VARĀH. BṚH. S.">9,13.</ls> <ls n="VARĀH. BṚH. S.">38 (37),4.</ls> {#nIcakulodBava#}
+;---------------------------------------------------
+; <L>40438<pc>4-0285<k1>nIpa<k2>nIpa/
+394686 old <ls>VARĀH. BṚH. S. 53,103. 121. 80 (79),6.</ls> neben {#kadamba#}
+;
+394686 new <ls>VARĀH. BṚH. S. 53,103. 121.</ls> <ls n="VARĀH. BṚH. S.">80 (79),6.</ls> neben {#kadamba#}
+;---------------------------------------------------
+; <L>40602<pc>4-0295<k1>nIlotpala<k2>nIlotpala
+396000 old <ls>HALĀY. 3,59.</ls> <ls>MBH. 3,12879.</ls> <ls>R. 4,44,91.</ls> <ls>SUŚR. 1,140,20. 22,21. 2,120,2.</ls> <ls>ŚĀK. 17.</ls> <ls>VARĀH. BṚH. S. 28,9. 31,21. 42 (43),33. 49,7. 53,22. 67,66.</ls> <ls>H. 48.</ls> <ls>PRAB. 78,15.</ls> <ls>BHĀG. P. 5,24,10.</ls> <ls>Verz. d. Oxf. H. 183,b,6</ls> v. u.
+;
+396000 new <ls>HALĀY. 3,59.</ls> <ls>MBH. 3,12879.</ls> <ls>R. 4,44,91.</ls> <ls>SUŚR. 1,140,20. 22,21. 2,120,2.</ls> <ls>ŚĀK. 17.</ls> <ls>VARĀH. BṚH. S. 28,9. 31,21.</ls> <ls n="VARĀH. BṚH. S.">42 (43),33.</ls> <ls n="VARĀH. BṚH. S.">49,7. 53,22. 67,66.</ls> <ls>H. 48.</ls> <ls>PRAB. 78,15.</ls> <ls>BHĀG. P. 5,24,10.</ls> <ls>Verz. d. Oxf. H. 183,b,6</ls> v. u.
+;---------------------------------------------------
+; <L>40842<pc>4-0317<k1>nemi<k2>nemi/
+398423 old <ls>VARĀH. BṚH. S. 42 (43),22. 86,22 (103).</ls> {#raTanemisvana#}
+;
+398423 new <ls>VARĀH. BṚH. S. 42 (43),22.</ls> <ls n="VARĀH. BṚH. S.">86,22 (103).</ls> {#raTanemisvana#}
+;---------------------------------------------------
+; <L>41140<pc>4-0338<k1>nyUna<k2>nyU^na
+400821 old <ls>VARĀH. BṚH. S. 83</ls> (<ls n="VARĀH. BṚH. S.">80,c),10. 78,20.</ls> {#maDya°#} {%geringer als mittelmässig%}
+;
+400821 new <ls>VARĀH. BṚH. S. 83 (80,c),10.</ls> <ls n="VARĀH. BṚH. S.">78,20.</ls> {#maDya°#} {%geringer als mittelmässig%}
+;---------------------------------------------------
+; <L>41185<pc>4-0344<k1>pakza<k2>pakza/
+401219 old <ls n="ṚV. 8,">47,2.</ls> <ls n="ṚV. 8,47,">3.</ls> <ls n="ṚV.">1,166,10.</ls> <ls>AV. 6,8,2.</ls> <ls n="AV.">10,8,18.</ls> <ls>ŚAT. BR. 4,1,2,26. 10,2,1,1. 5.</ls> <ls>M. 3,241.</ls> <ls>R. 1,55,10.</ls> <ls>DAŚ. 1,16.</ls> <ls>MṚCCH. 146,21.</ls> <ls>VARĀH. BṚH. S. 44 (43),10. 94,9. 11. 45.</ls> <ls>RĀJA-TAR. 4,52</ls> (zugleich {%Partei%}). einer Biene
+;
+401219 new <ls n="ṚV. 8,">47,2.</ls> <ls n="ṚV. 8,47,">3.</ls> <ls n="ṚV.">1,166,10.</ls> <ls>AV. 6,8,2.</ls> <ls n="AV.">10,8,18.</ls> <ls>ŚAT. BR. 4,1,2,26. 10,2,1,1. 5.</ls> <ls>M. 3,241.</ls> <ls>R. 1,55,10.</ls> <ls>DAŚ. 1,16.</ls> <ls>MṚCCH. 146,21.</ls> <ls>VARĀH. BṚH. S. 44 (43),10.</ls> <ls n="VARĀH. BṚH. S.">94,9. 11. 45.</ls> <ls>RĀJA-TAR. 4,52</ls> (zugleich {%Partei%}). einer Biene
+;---------------------------------------------------
+; <L>41185<pc>4-0344<k1>pakza<k2>pakza/
+401275 old <ls>VARĀH. BṚH. S. 4,32 (31). 11,7. 96,1.</ls>
+;
+401275 new <ls>VARĀH. BṚH. S. 4,32 (31).</ls> <ls n="VARĀH. BṚH. S.">11,7. 96,1.</ls>
+;---------------------------------------------------
+; <L>41503<pc>4-0369<k1>paYcaviMSa<k2>paYcaviMSa/
+404065 old <ls>ŚAT. BR. 4,6,1,13. 8,4,3,15.</ls> <ls>TBR. 1,2,6,2.</ls> <ls>VARĀH. BṚH. S. 49,14. 81 (80,a),13. 97,5.</ls> von <is>Viṣṇu</is> als {%dem 25sten%} <is>Tattva</is>
+;
+404065 new <ls>ŚAT. BR. 4,6,1,13. 8,4,3,15.</ls> <ls>TBR. 1,2,6,2.</ls> <ls>VARĀH. BṚH. S. 49,14.</ls> <ls n="VARĀH. BṚH. S.">81 (80,a),13.</ls> <ls n="VARĀH. BṚH. S.">97,5.</ls> von <is>Viṣṇu</is> als {%dem 25sten%} <is>Tattva</is>
+;---------------------------------------------------
+; <L>41539<pc>4-0372<k1>paYcasidDAntikA<k2>paYcasidDAntikA
+404332 old <ls>BHAṬṬOTPALA</ls> zu <ls>VARĀH. BṚH. S. 1,10. 2, Anf. 12,23. 24,5.</ls> Vgl. <ls>Journ. of the Am. Or. S. 6,146. 421.</ls> {#°sidDAnta#}
+;
+404332 new <ls>BHAṬṬOTPALA</ls> zu <ls>VARĀH. BṚH. S. 1,10. 2</ls>, Anf. <ls n="VARĀH. BṚH. S.">12,23. 24,5.</ls> Vgl. <ls>Journ. of the Am. Or. S. 6,146. 421.</ls> {#°sidDAnta#}
+;---------------------------------------------------
+; <L>41679<pc>4-0383<k1>pawwa<k2>pawwa
+405712 old <ls n="VARĀH. BṚH. S.">107</ls> (<ls>ANUKRAM.</ls>), <ls n="VARĀH. BṚH. S.">6.</ls> {#pawwabanDa#} <lex>m.</lex> {%das Umbinden der Stirnbinden%}: {#aTa saMmAnayAmAsa pawwabanDAdinA svayam . nijotsave vatsarAjo gopAlakapulindakO ..#}
+;
+405712 new <ls n="VARĀH. BṚH. S.">107 (ANUKRAM.),6.</ls> {#pawwabanDa#} <lex>m.</lex> {%das Umbinden der Stirnbinden%}: {#aTa saMmAnayAmAsa pawwabanDAdinA svayam . nijotsave vatsarAjo gopAlakapulindakO ..#}
+;---------------------------------------------------
+; <L>41710<pc>4-0386<k1>paW<k2>paW
+405940 old <ls>VARĀH. BṚH. S. 42 (43),52. 56.</ls>
+;
+405940 new <ls>VARĀH. BṚH. S. 42 (43),52.</ls> <ls n="VARĀH. BṚH. S. 42,">56.</ls>
+;---------------------------------------------------
+; <L>41812<pc>4-0408<k1>patana<k2>patana
+407882 old <ls>VARĀH. BṚH. S. 42 (43),20. 52,121.</ls>
+;
+407882 new <ls>VARĀH. BṚH. S. 42 (43),20.</ls> <ls n="VARĀH. BṚH. S.">52,121.</ls>
+;---------------------------------------------------
+; <L>41823<pc>4-0409<k1>patAka<k2>patAka
+408001 old <ls>VARĀH. BṚH. S. 24,9. 35,5. 42 (43),25. 47,33. 59,2.</ls> {#patAkAMSukapaNktiBiH#}
+;
+408001 new <ls>VARĀH. BṚH. S. 24,9. 35,5.</ls> <ls n="VARĀH. BṚH. S.">42 (43),25.</ls> <ls n="VARĀH. BṚH. S.">47,33. 59,2.</ls> {#patAkAMSukapaNktiBiH#}
+;---------------------------------------------------
+; <L>41828<pc>4-0410<k1>pati<k2>pa/ti
+408114 old <ls n="VARĀH. BṚH. S.">11. 60. 55.</ls> {#vidarBapataye#}
+;
+408114 new <ls n="VARĀH. BṚH. S. 92,">11. 60. 55.</ls> {#vidarBapataye#}
+;---------------------------------------------------
+; <L>42159<pc>4-0460<k1>padmarAga<k2>padmarAga
+412776 old <ls>AK. 2,9,93.</ls> <ls>TRIK. 2,9,31.</ls> <ls>H. 1064.</ls> <ls>HALĀY. 2,20.</ls> <ls>RAGH. 13,53.</ls> <ls n="RAGH.">17,23.</ls> <ls>KUMĀRAS. 3,53.</ls> <ls>BHARTṚ. 1,20.</ls> <ls>VARĀH. BṚH. S. 81 (80,a),4. 83,1. 7.</ls> <ls>KATHĀS. 37,87.</ls> <ls n="KATHĀS. 37,">88.</ls> <ls>PAÑCAT. I,89.</ls> <ls>Spr. 297.</ls> <ls n="Spr.">1109.</ls> <ls>RĀJA-TAR. 1,208.</ls> <ls>BHĀG. P. 3,23,19.</ls> <ls n="BHĀG. P.">8,8,5.</ls> <ls>MĀRK. P. 68,13.</ls>
+;
+412776 new <ls>AK. 2,9,93.</ls> <ls>TRIK. 2,9,31.</ls> <ls>H. 1064.</ls> <ls>HALĀY. 2,20.</ls> <ls>RAGH. 13,53.</ls> <ls n="RAGH.">17,23.</ls> <ls>KUMĀRAS. 3,53.</ls> <ls>BHARTṚ. 1,20.</ls> <ls>VARĀH. BṚH. S. 81 (80,a),4.</ls> <ls n="VARĀH. BṚH. S.">83,1. 7.</ls> <ls>KATHĀS. 37,87.</ls> <ls n="KATHĀS. 37,">88.</ls> <ls>PAÑCAT. I,89.</ls> <ls>Spr. 297.</ls> <ls n="Spr.">1109.</ls> <ls>RĀJA-TAR. 1,208.</ls> <ls>BHĀG. P. 3,23,19.</ls> <ls n="BHĀG. P.">8,8,5.</ls> <ls>MĀRK. P. 68,13.</ls>
+;---------------------------------------------------
+; <L>42410<pc>4-0489<k1>paramAtman<k2>paramAtman
+415811 old <ls>AIT. UP.</ls> <ls>Ind. St. 1,278. 301. 451. fg. 455. 2,56. fg.</ls> <ls>M. 6,65.</ls> <ls>BHAG. 13,31.</ls> <ls>MBH. 6,4462.</ls> <ls n="MBH.">12,6921.</ls> <ls>R. 6,102,28.</ls> <ls>RAGH. 16,22.</ls> <ls>VARĀH. BṚH. S. 42 (43). 4.</ls> <ls>VP. 2, N. 2.</ls> <ls>BHĀG. P. 1,2,11.</ls> <ls n="BHĀG. P.">2,10,7.</ls> <ls>MĀRK. P. 78,4.</ls> {#paramAtmavidyA#}
+;
+415811 new <ls>AIT. UP.</ls> <ls>Ind. St. 1,278. 301. 451. fg. 455. 2,56. fg.</ls> <ls>M. 6,65.</ls> <ls>BHAG. 13,31.</ls> <ls>MBH. 6,4462.</ls> <ls n="MBH.">12,6921.</ls> <ls>R. 6,102,28.</ls> <ls>RAGH. 16,22.</ls> <ls>VARĀH. BṚH. S. 42 (43),4.</ls> <ls>VP. 2, N. 2.</ls> <ls>BHĀG. P. 1,2,11.</ls> <ls n="BHĀG. P.">2,10,7.</ls> <ls>MĀRK. P. 78,4.</ls> {#paramAtmavidyA#}
+;---------------------------------------------------
+; <L>42462<pc>4-0493<k1>paraSu<k2>paraSu/<h>1
+416278 old <ls n="ṚV. 10,">53,9.</ls> <ls>AV. 3,19,4.</ls> <ls n="AV.">7,28,1.</ls> <ls n="AV.">11,9,1.</ls> <ls>KĀṬH. 12,10.</ls> <ls>ŚAT. BR. 3,6,4,10.</ls> <ls>ŚĀṄKH. BR. 10,1.</ls> <ls>AIT. BR. 2,35.</ls> <ls>KAUŚ. 26.</ls> <ls>CHĀND. UP. 6,16,1.</ls> <ls>SĀV. 4,18.</ls> <ls>MBH. 1,4172.</ls> <ls n="MBH.">5,4161.</ls> <ls>R. 1,74,18.</ls> <ls n="R.">2,21,33</ls> <ls n="R. 2,">103,3.</ls> <ls>RAGH. 11,78.</ls> <ls>VARĀH. BṚH. S. 42 (43),19. 67,46.</ls> <ls>BṚH. 26 (25),1.</ls> {#°vakRa#}
+;
+416278 new <ls n="ṚV. 10,">53,9.</ls> <ls>AV. 3,19,4.</ls> <ls n="AV.">7,28,1.</ls> <ls n="AV.">11,9,1.</ls> <ls>KĀṬH. 12,10.</ls> <ls>ŚAT. BR. 3,6,4,10.</ls> <ls>ŚĀṄKH. BR. 10,1.</ls> <ls>AIT. BR. 2,35.</ls> <ls>KAUŚ. 26.</ls> <ls>CHĀND. UP. 6,16,1.</ls> <ls>SĀV. 4,18.</ls> <ls>MBH. 1,4172.</ls> <ls n="MBH.">5,4161.</ls> <ls>R. 1,74,18.</ls> <ls n="R.">2,21,33</ls> <ls n="R. 2,">103,3.</ls> <ls>RAGH. 11,78.</ls> <ls>VARĀH. BṚH. S. 42 (43),19.</ls> <ls n="VARĀH. BṚH. S.">67,46.</ls> <ls>BṚH. 26 (25),1.</ls> {#°vakRa#}
+;---------------------------------------------------
+; <L>42861<pc>4-0530<k1>pariDi<k2>pariDi/
+420198 old <ls>VARĀH. BṚH. S. 42 (43),50. 58,22. 53. 78,20.</ls>
+;
+420198 new <ls>VARĀH. BṚH. S. 42 (43),50.</ls> <ls n="VARĀH. BṚH. S.">58,22. 53. 78,20.</ls>
+;---------------------------------------------------
+; <L>43149<pc>4-0549<k1>pariveza<k2>pariveza/
+422438 old <ls>VARĀH. BṚH. S. 5,93. 21,14. 21. 22,7. 27,c,16. 29,2. 8. 31.</ls> {#saMmUrCitA ravIndvoH kiraRAH pavanena maRqalIBUtAH . nAnAvarRAkftayastanvaBre vyomni parivezAH ..#}
+;
+422438 new <ls>VARĀH. BṚH. S. 5,93. 21,14. 21. 22,7.</ls> <ls n="VARĀH. BṚH. S.">27,c,16.</ls> <ls n="VARĀH. BṚH. S.">29,2. 8. 31.</ls> {#saMmUrCitA ravIndvoH kiraRAH pavanena maRqalIBUtAH . nAnAvarRAkftayastanvaBre vyomni parivezAH ..#}
+;---------------------------------------------------
+; <L>43149<pc>4-0549<k1>pariveza<k2>pariveza/
+422439 old <ls n="VARĀH. BṚH. S.">33,1.</ls> {#°maRqalagata#} 12. {#jIve °gate#}
+;
+422439 new <ls n="VARĀH. BṚH. S.">33,1.</ls> {#°maRqalagata#} <ls n="VARĀH. BṚH. S. 33,">12.</ls> {#jIve °gate#}
+;---------------------------------------------------
+; <L>43149<pc>4-0549<k1>pariveza<k2>pariveza/
+422440 old <ls n="VARĀH. BṚH. S.">13. 45,4. 96,3.</ls> <ls>Verz. d. B. B. H. No. 840.</ls> {#saparIveSamudyantaM saviturmaRqalaM yaTA#}
+;
+422440 new <ls n="VARĀH. BṚH. S. 33,">13. 45,4. 96,3.</ls> <ls>Verz. d. B. B. H. No. 840.</ls> {#saparIveSamudyantaM saviturmaRqalaM yaTA#}
+;---------------------------------------------------
+; <L>43507<pc>4-0576<k1>paryanta<k2>paryanta/<h>1
+425508 old <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,17.</ls> <ls>VARĀH. BṚH. S. 5,47. 52. 27,c,15.</ls> <ls>PRAB. 79,17.</ls> <ls>PAÑCAT. 10,8.</ls> {#°saMsTitasitARqajapaNktihArAH (nadyaH)#}
+;
+425508 new <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198,17.</ls> <ls>VARĀH. BṚH. S. 5,47. 52.</ls> <ls n="VARĀH. BṚH. S.">27,c,15.</ls> <ls>PRAB. 79,17.</ls> <ls>PAÑCAT. 10,8.</ls> {#°saMsTitasitARqajapaNktihArAH (nadyaH)#}
+;---------------------------------------------------
+; <L>43507<pc>4-0576<k1>paryanta<k2>paryanta/<h>1
+425535 old <ls>VARĀH. BṚH. S. 42, (43),4.</ls> {#anAdimaDyaparyanta#} <lex>adj.</lex>
+;
+425535 new <ls>VARĀH. BṚH. S. 42 (43),4.</ls> {#anAdimaDyaparyanta#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>43650<pc>4-0588<k1>parzad<k2>parzad
+426834 old <ls>VARĀH. BṚH. S. 2</ls>, Anf.
+;
+426834 new <ls>VARĀH. BṚH. S. 2, Anf.</ls>
+;---------------------------------------------------
+; <L>43890<pc>4-0613<k1>paScima<k2>paScima/
+429457 old <ls n="VARĀH. BṚH. S.">68.</ls> <ls>MĀRK. P. 55,11.</ls>
+;
+429457 new <ls n="VARĀH. BṚH. S. 53,">68.</ls> <ls>MĀRK. P. 55,11.</ls>
+;---------------------------------------------------
+; <L>44180<pc>4-0637<k1>pARqu<k2>pARqu/
+432274 old <ls n="VARĀH. BṚH. S.">111.</ls> <ls>LAGHUJ. 1,6.</ls> Vgl. {#pARqara, pARqura#} .
+;
+432274 new <ls n="VARĀH. BṚH. S. 53,">111.</ls> <ls>LAGHUJ. 1,6.</ls> Vgl. {#pARqara, pARqura#} .
+;---------------------------------------------------
+; <L>44492<pc>4-0658<k1>pApa<k2>pApa/
+434954 old <ls>VARĀH. BṚH. S. 27,c,1. 77,29.</ls> <ls>LAGHUJ. 4,4. 5,1. fgg. 11,4</ls> u.s.w. Gegens. {#SuBa, praSasta#}
+;
+434954 new <ls>VARĀH. BṚH. S. 27,c,1.</ls> <ls n="VARĀH. BṚH. S.">77,29.</ls> <ls>LAGHUJ. 4,4. 5,1. fgg. 11,4</ls> u.s.w. Gegens. {#SuBa, praSasta#}
+;---------------------------------------------------
+; <L>44501<pc>4-0661<k1>pApagraha<k2>pApagraha
+435159 old <ls>VARĀH. BṚH. S. 27,a,12. 39 (38),8.</ls> <ls>BṚH. 22 (21),4. 24 (23),3.</ls>
+;
+435159 new <ls>VARĀH. BṚH. S. 27,a,12.</ls> <ls n="VARĀH. BṚH. S.">39 (38),8.</ls> <ls>BṚH. 22 (21),4. 24 (23),3.</ls>
+;---------------------------------------------------
+; <L>45408<pc>4-0729<k1>piSAca<k2>piSAca/
+443447 old <ls n="MBH.">8,2104.</ls> <ls>HARIV. 11794.</ls> <ls n="HARIV.">14698.</ls> <ls>R. 1,42,7.</ls> <ls>KAP. 4,2.</ls> <ls>SUŚR. 1,16,16. 21,14. 89,20. 114,9. 117,9. 2,532,2. 533,13.</ls> <ls>VARĀH. BṚH. S. 13,11. 38 (37),5. 45,13.</ls> <ls>KATHĀS. 28,162. fgg.</ls> <ls>RĀJA-TAR. 6,155.</ls> <ls>VP. 42.</ls> {#jaqonmattapiSAcavat#}
+;
+443447 new <ls n="MBH.">8,2104.</ls> <ls>HARIV. 11794.</ls> <ls n="HARIV.">14698.</ls> <ls>R. 1,42,7.</ls> <ls>KAP. 4,2.</ls> <ls>SUŚR. 1,16,16. 21,14. 89,20. 114,9. 117,9. 2,532,2. 533,13.</ls> <ls>VARĀH. BṚH. S. 13,11.</ls> <ls n="VARĀH. BṚH. S.">38 (37),5.</ls> <ls n="VARĀH. BṚH. S.">45,13.</ls> <ls>KATHĀS. 28,162. fgg.</ls> <ls>RĀJA-TAR. 6,155.</ls> <ls>VP. 42.</ls> {#jaqonmattapiSAcavat#}
+;---------------------------------------------------
+; <L>45466<pc>4-0738<k1>pIq<k2>pIq
+444335 old <ls>VARĀH. BṚH. S. 3,15. 4,26. 5,38. 38 (37),3.</ls>
+;
+444335 new <ls>VARĀH. BṚH. S. 3,15. 4,26. 5,38.</ls> <ls n="VARĀH. BṚH. S.">38 (37),3.</ls>
+;---------------------------------------------------
+; <L>45772<pc>4-0761<k1>puRyAha<k2>puRyAha/
+447243 old <ls>VARĀH. BṚH. S. 42 (43),26. 43,7. 47,49.</ls> {#nAnAtUryaninAdEH puRyAhErvedanirGozEH#}
+;
+447243 new <ls>VARĀH. BṚH. S. 42 (43),26.</ls> <ls n="VARĀH. BṚH. S.">43,7. 47,49.</ls> {#nAnAtUryaninAdEH puRyAhErvedanirGozEH#}
+;---------------------------------------------------
+; <L>46273<pc>4-0802<k1>puroDas<k2>puro/Das
+451835 old <ls>VARĀH. BṚH. S. 42 (43),61. 45,11. 47,3.</ls>
+;
+451835 new <ls>VARĀH. BṚH. S. 42 (43),61.</ls> <ls n="VARĀH. BṚH. S.">45,11. 47,3.</ls>
+;---------------------------------------------------
+; <L>46513<pc>4-0821<k1>puzpasnAna<k2>puzpasnAna
+454091 old <ls n="VARĀH. BṚH. S.">54. 83. 77,23. Der Schol.</ls> hat {#puzyasnAna#} vor sich gehabt, da er das Wort durch {#puzyanakzatreRa snapanam#} erklärt; {#puzyasnAna#} hat auch
+;
+454091 new <ls n="VARĀH. BṚH. S. 47,">54. 83. 77,23</ls>. Der Schol. hat {#puzyasnAna#} vor sich gehabt, da er das Wort durch {#puzyanakzatreRa snapanam#} erklärt; {#puzyasnAna#} hat auch
+;---------------------------------------------------
+; <L>46527<pc>4-0822<k1>puzpABizeka<k2>puzpABizeka
+454181 old <ls>VARĀH. BṚH. S. 107</ls> (<is>Anukramaṇī</is>),6.
+;
+454181 new <ls>VARĀH. BṚH. S. 107 (Anukramaṇī),6.</ls>
+;---------------------------------------------------
+; <L>46573<pc>4-0828<k1>pUj<k2>pUj
+454909 old <ls n="MBH. 3,">1765.</ls> <ls n="MBH. 3,">1790.</ls> <ls n="MBH. 3,">2717.</ls> <ls n="MBH.">13,2015.</ls> <ls>R. 2,25,18.</ls> <ls>R. GORR. 1,18,11.</ls> <ls n="R. GORR.">2,73,27.</ls> <ls n="R. GORR.">4,51,22.</ls> <ls>VARĀH. BṚH. S. 42 (43),8. 47,27.</ls> <ls>VID. 92.</ls> <ls>KATHĀS. 35,160.</ls> <ls>MĀRK. P. 77,22.</ls> <ls>BHĀG. P. 4,17,2.</ls> <ls>HIT. 16,13.</ls> <ls n="HIT.">27,9.</ls> {#(tAm) vastrAlaMkArEH saMpUjya#} so v. a. {%beschenken%}
+;
+454909 new <ls n="MBH. 3,">1765.</ls> <ls n="MBH. 3,">1790.</ls> <ls n="MBH. 3,">2717.</ls> <ls n="MBH.">13,2015.</ls> <ls>R. 2,25,18.</ls> <ls>R. GORR. 1,18,11.</ls> <ls n="R. GORR.">2,73,27.</ls> <ls n="R. GORR.">4,51,22.</ls> <ls>VARĀH. BṚH. S. 42 (43),8.</ls> <ls n="VARĀH. BṚH. S.">47,27.</ls> <ls>VID. 92.</ls> <ls>KATHĀS. 35,160.</ls> <ls>MĀRK. P. 77,22.</ls> <ls>BHĀG. P. 4,17,2.</ls> <ls>HIT. 16,13.</ls> <ls n="HIT.">27,9.</ls> {#(tAm) vastrAlaMkArEH saMpUjya#} so v. a. {%beschenken%}
+;---------------------------------------------------
+; <L>46654<pc>4-0834<k1>pUpa<k2>pUpa
+455557 old <ls>R. GORR. 1,54,3.</ls> <ls>SUŚR. 1,234,12.</ls> <ls>VARĀH. BṚH. S. 42 (43),38. 96,11.</ls> <ls>RĀJA-TAR. 4,231.</ls> <ls>MĀRK. P. 15,24.</ls>
+;
+455557 new <ls>R. GORR. 1,54,3.</ls> <ls>SUŚR. 1,234,12.</ls> <ls>VARĀH. BṚH. S. 42 (43),38.</ls> <ls n="VARĀH. BṚH. S.">96,11.</ls> <ls>RĀJA-TAR. 4,231.</ls> <ls>MĀRK. P. 15,24.</ls>
+;---------------------------------------------------
+; <L>47493<pc>4-0889<k1>pOrava<k2>pOrava/
+462524 old <ls n="VARĀH. BṚH. S.">31. 16,22. 31,19.</ls>
+;
+462524 new <ls n="VARĀH. BṚH. S. 14,">31. 16,22. 31,19.</ls>
+;---------------------------------------------------
+; <L>48703<pc>4-0985<k1>pratisUrya<k2>pratisUrya<h>1
+473497 old <ls>VARĀH. BṚH. S. 3,37. 36,2. 46,19 (20).</ls>
+;
+473497 new <ls>VARĀH. BṚH. S. 3,37. 36,2.</ls> <ls n="VARĀH. BṚH. S.">46,19 (20).</ls>
+;---------------------------------------------------
+; <L>49121<pc>4-1016<k1>prada<k2>prada
+477099 old <ls>VARĀH. BṚH. S. 3. 27. 8,34. 45,96. 59,22. 67,3. 85,61.</ls> {#SApa°#} {%einen Fluch ausstossend%}
+;
+477099 new <ls>VARĀH. BṚH. S. 3,27. 8,34. 45,96. 59,22. 67,3. 85,61.</ls> {#SApa°#} {%einen Fluch ausstossend%}
+;---------------------------------------------------
+; <L>49122<pc>4-1016<k1>pradakziRa<k2>pradakziRa
+477156 old <ls>VARĀH. BṚH. S. 11,47. 42 (43),32. 47,15.</ls> {#apradikzaRam#} {%nach links%}
+;
+477156 new <ls>VARĀH. BṚH. S. 11,47.</ls> <ls n="VARĀH. BṚH. S.">42 (43),32.</ls> <ls n="VARĀH. BṚH. S.">47,15.</ls> {#apradikzaRam#} {%nach links%}
+;---------------------------------------------------
+; <L>49347<pc>4-1035<k1>prabAla<k2>prabAla
+479270 old <ls>VARĀH. BṚH. S. 41 (40),10. 50,37.</ls>
+;
+479270 new <ls>VARĀH. BṚH. S. 41 (40),10.</ls> <ls n="VARĀH. BṚH. S.">50,37.</ls>
+;---------------------------------------------------
+; <L>49363<pc>4-1036<k1>praboDa<k2>praboDa
+479405 old <ls>VARĀH. BṚH. S. 76</ls>, <ls n="VARĀH. BṚH. S.">18; s. u. 3.</ls> {#pawavAsa#} .
+;
+479405 new <ls>VARĀH. BṚH. S. 76,18</ls>; s. u. 3. {#pawavAsa#} .
+;---------------------------------------------------
+; <L>49915<pc>4-1082<k1>praveSa<k2>praveSa
+484725 old <ls>KĀM. NĪTIS. 7. 39.</ls> <ls>ŚĀK. 82,4.</ls> <ls>RAGH. 14,55.</ls> <ls>MEGH. 41.</ls> <ls>VARĀH. BṚH. S. 3,3. 42 (43),56. 94,60. 98,15.</ls> <ls>KATHĀS. 5,62.</ls> <ls n="KATHĀS.">50,175.</ls> <ls>RĀJA-TAR. 2,68.</ls> <ls>PRAB. 21,15.</ls> {#avyAhata°#}
+;
+484725 new <ls>KĀM. NĪTIS. 7. 39.</ls> <ls>ŚĀK. 82,4.</ls> <ls>RAGH. 14,55.</ls> <ls>MEGH. 41.</ls> <ls>VARĀH. BṚH. S. 3,3.</ls> <ls n="VARĀH. BṚH. S.">42 (43),56.</ls> <ls n="VARĀH. BṚH. S.">94,60. 98,15.</ls> <ls>KATHĀS. 5,62.</ls> <ls n="KATHĀS.">50,175.</ls> <ls>RĀJA-TAR. 2,68.</ls> <ls>PRAB. 21,15.</ls> {#avyAhata°#}
+;---------------------------------------------------
+; <L>49915<pc>4-1082<k1>praveSa<k2>praveSa
+484740 old <ls>VARĀH. BṚH. S. 39 (38). 1.</ls> vom {%Auftreten auf der Bühne%}
+;
+484740 new <ls>VARĀH. BṚH. S. 39 (38),1.</ls> vom {%Auftreten auf der Bühne%}
+;---------------------------------------------------
+; <L>50105<pc>4-1098<k1>prasAdapawwa<k2>prasAdapawwa
+486569 old <ls n="VARĀH. BṚH. S.">5. 71,5 (6).</ls>
+;
+486569 new <ls n="VARĀH. BṚH. S. 48,">5.</ls> <ls n="VARĀH. BṚH. S.">71,5 (6).</ls>
+;---------------------------------------------------
+; <L>50736<pc>4-1141<k1>prAtyantika<k2>prAtyantika
+491795 old <ls>VARĀH. BṚH. S. 69. 23.</ls>
+;
+491795 new <ls>VARĀH. BṚH. S. 69,23.</ls>
+;---------------------------------------------------
+; <L>51015<pc>4-1163<k1>priyaNgu<k2>priya/Ngu
+494356 old <ls>R. 3,17,11</ls> (m). <ls>Spr. 1928.</ls> <ls>VARĀH. BṚH. S. 43 (34),9. 54,3. 76,14. 97,16.</ls> {#(saMskfto rAjamArgaH) nAnApuzpapriyaNguBiH#}
+;
+494356 new <ls>R. 3,17,11</ls> (m). <ls>Spr. 1928.</ls> <ls>VARĀH. BṚH. S. 43 (34),9.</ls> <ls n="VARĀH. BṚH. S.">54,3. 76,14. 97,16.</ls> {#(saMskfto rAjamArgaH) nAnApuzpapriyaNguBiH#}
+;---------------------------------------------------
+; <L>51312<pc>4-1183<k1>plakza<k2>plakza/
+496849 old <ls n="RAGH.">13,71.</ls> <ls n="RAGH.">17,12.</ls> <ls>VARĀH. BṚH. S. 50,17. 52,85. 53,121. 59,8. 80 (79),4.</ls> <ls>MĀRK. P. 60,2.</ls> <ls>LALIT. ed. Calc. 94,17. 19.</ls> {#plakzavaRa (plakza + vana)#}
+;
+496849 new <ls n="RAGH.">13,71.</ls> <ls n="RAGH.">17,12.</ls> <ls>VARĀH. BṚH. S. 50,17. 52,85. 53,121. 59,8.</ls> <ls n="VARĀH. BṚH. S.">80 (79),4.</ls> <ls>MĀRK. P. 60,2.</ls> <ls>LALIT. ed. Calc. 94,17. 19.</ls> {#plakzavaRa (plakza + vana)#}
+;---------------------------------------------------
+; <L>53686<pc>5-0156<k1>brU<k2>brU
+518851 old <ls>VARĀH. BṚH. S. 22. 5.</ls>
+;
+518851 new <ls>VARĀH. BṚH. S. 22,5.</ls>
+;---------------------------------------------------
+; <L>54387<pc>5-0230<k1>BA<k2>BA<h>1
+526592 old <ls>VARĀH. BṚH. S. 16. 16.</ls>
+;
+526592 new <ls>VARĀH. BṚH. S. 16,16.</ls>
+;---------------------------------------------------
+; <L>55200<pc>5-0334<k1>BUta<k2>BUta/
+537341 old <ls n="M. 3,">90.</ls> <ls>VARĀH. BṚH. S. 46. 90.</ls> <ls>KATHĀS. 5,25.</ls> <ls n="KATHĀS.">47,46.</ls> <ls>VP. 41. 150, N. 18.</ls><ls>BHĀG. P. 3,14,22.</ls> <ls>MĀRK. P. 51,53.</ls> {#pretAnBUtagaRAMSca#}
+;
+537341 new <ls n="M. 3,">90.</ls> <ls>VARĀH. BṚH. S. 46,90.</ls> <ls>KATHĀS. 5,25.</ls> <ls n="KATHĀS.">47,46.</ls> <ls>VP. 41. 150, N. 18.</ls><ls>BHĀG. P. 3,14,22.</ls> <ls>MĀRK. P. 51,53.</ls> {#pretAnBUtagaRAMSca#}
+;---------------------------------------------------
+; <L>56235<pc>5-0425<k1>maNgala<k2>maNgala/
+547464 old <ls>R. GORR. 2,12,8.</ls> <ls n="R. GORR.">6,97,20.</ls> <ls>VARĀH. BṚH. S. 43. 12. 48. 42.</ls> <ls>SUŚR. 1,21,19. 30,5. 70,21.</ls> {#udakapUrRaGawAdimaNgalopetaH#}
+;
+547464 new <ls>R. GORR. 2,12,8.</ls> <ls n="R. GORR.">6,97,20.</ls> <ls>VARĀH. BṚH. S. 43,12. 48,42.</ls> <ls>SUŚR. 1,21,19. 30,5. 70,21.</ls> {#udakapUrRaGawAdimaNgalopetaH#}
+;---------------------------------------------------
+; <L>56518<pc>5-0448<k1>maRqala<k2>ma/Rqala
+550127 old <ls n="VARĀH. BṚH. S.">69.</ls> {#caturmaRqalAvasTAnaM siMhasya#}
+;
+550127 new <ls n="VARĀH. BṚH. S. 46,">69.</ls> {#caturmaRqalAvasTAnaM siMhasya#}
+;---------------------------------------------------
+; <L>56518<pc>5-0448<k1>maRqala<k2>ma/Rqala
+550145 old <ls n="VARĀH. BṚH. S.">17.</ls> {#parivezo dvimaRqalaH#}
+;
+550145 new <ls n="VARĀH. BṚH. S. 34,">17.</ls> {#parivezo dvimaRqalaH#}
+;---------------------------------------------------
+; <L>56518<pc>5-0448<k1>maRqala<k2>ma/Rqala
+550146 old <ls n="VARĀH. BṚH. S.">10.</ls>
+;
+550146 new <ls n="VARĀH. BṚH. S. 34,">10.</ls>
+;---------------------------------------------------
+; <L>57131<pc>5-0501<k1>maDyatamas<k2>maDyatamas
+556105 old <ls>VARĀH. BṚH. S. 5,43</ls>; vgl. <ls n="VARĀH. BṚH. S.">51. fg.</ls>
+;
+556105 new <ls>VARĀH. BṚH. S. 5,43</ls>; vgl. <ls n="VARĀH. BṚH. S. 5,">51. fg.</ls>
+;---------------------------------------------------
+; <L>57191<pc>5-0505<k1>maDyavidaraRa<k2>maDyavidaraRa
+556656 old <ls n="VARĀH. BṚH. S.">81.</ls>
+;
+556656 new <ls n="VARĀH. BṚH. S. 5,">81.</ls>
+;---------------------------------------------------
+; <L>57787<pc>5-0565<k1>maraka<k2>maraka
+563151 old <ls n="VARĀH. BṚH. S.">78,24 = 93,5.</ls> Vgl. {#mAraka, mAri#} .
+;
+563151 new <ls n="VARĀH. BṚH. S.">78,24</ls> = <ls n="VARĀH. BṚH. S.">93,5.</ls> Vgl. {#mAraka, mAri#} .
+;---------------------------------------------------
+; <L>58529<pc>5-0629<k1>mahADana<k2>mahADana/<h>1
+570473 old <ls>VARĀH. BṚH. S. 68. 48.</ls>
+;
+570473 new <ls>VARĀH. BṚH. S. 68,48.</ls>
+;---------------------------------------------------
+; <L>58906<pc>5-0652<k1>mahArGatA<k2>mahArGatA
+573294 old <ls>VARĀH. BṚH. S. 41. 11.</ls> {#karoti nirmalADArastucCasyApi °tAm#}
+;
+573294 new <ls>VARĀH. BṚH. S. 41,11.</ls> {#karoti nirmalADArastucCasyApi °tAm#}
+;---------------------------------------------------
+; <L>59685<pc>5-0707<k1>mAtra<k2>mAtra
+579940 old <ls n="VARĀH. BṚH. S.">84.</ls> {#nABi°#}
+;
+579940 new <ls n="VARĀH. BṚH. S. 54,">84.</ls> {#nABi°#}
+;---------------------------------------------------
+; <L>59685<pc>5-0707<k1>mAtra<k2>mAtra
+580152 old <ls>VARĀH. BṚH. S. 76. 4.</ls> {#prARaDAraRamAtrAmaSanakriyAM kurmaH#}
+;
+580152 new <ls>VARĀH. BṚH. S. 76,4.</ls> {#prARaDAraRamAtrAmaSanakriyAM kurmaH#}
+;---------------------------------------------------
+; <L>59812<pc>5-0720<k1>mAna<k2>mA/na<h>2
+581346 old <ls n="VARĀH. BṚH. S.">79.</ls> {#dvAra°#}
+;
+581346 new <ls n="VARĀH. BṚH. S. 53,">79.</ls> {#dvAra°#}
+;---------------------------------------------------
+; <L>60059<pc>5-0741<k1>mArga<k2>mArga<h>2
+583838 old <ls n="VARĀH. BṚH. S.">30.</ls> {%Bahn der Gestirne, des Windes%}
+;
+583838 new <ls n="VARĀH. BṚH. S. 104,">30.</ls> {%Bahn der Gestirne, des Windes%}
+;---------------------------------------------------
+; <L>60366<pc>5-0767<k1>mita<k2>mita<h>1
+586749 old <ls n="VARĀH. BṚH. S.">92.</ls> {#dvyaNgulamito 'kzikoSaH#}
+;
+586749 new <ls n="VARĀH. BṚH. S. 53,">92.</ls> {#dvyaNgulamito 'kzikoSaH#}
+;---------------------------------------------------
+; <L>60636<pc>5-0791<k1>mIna<k2>mIna/
+589253 old <ls n="VARĀH. BṚH. S.">44.</ls> {#°dvaya#}
+;
+589253 new <ls n="VARĀH. BṚH. S. 68,">44.</ls> {#°dvaya#}
+;---------------------------------------------------
+; <L>60771<pc>5-0802<k1>muKa<k2>mu/Ka
+590558 old <ls n="VARĀH. BṚH. S.">48. 104,39. 105,10.</ls>
+;
+590558 new <ls n="VARĀH. BṚH. S. 58,">48. 104,39. 105,10.</ls>
+;---------------------------------------------------
+; <L>61005<pc>5-0830<k1>muni<k2>mu/ni
+593486 old <ls n="VARĀH. BṚH. S.">3</ls> (= <ls>RĀJA-TAR. 1,56). 47,12.</ls> <ls>BHĀG. P. 4,12,34.</ls> Daher Bez. {%der Zahl sieben%}
+;
+593486 new <ls n="VARĀH. BṚH. S. 13,">3</ls> (= <ls>RĀJA-TAR. 1,56). 47,12.</ls> <ls>BHĀG. P. 4,12,34.</ls> Daher Bez. {%der Zahl sieben%}
+;---------------------------------------------------
+; <L>61217<pc>5-0849<k1>mUtra<k2>mU/tra
+595583 old <ls n="VARĀH. BṚH. S.">11.</ls> <ls>MĀRK. P. 29,8.</ls> {#saruDiramUtratA#}
+;
+595583 new <ls n="VARĀH. BṚH. S. 68,">11.</ls> <ls>MĀRK. P. 29,8.</ls> {#saruDiramUtratA#}
+;---------------------------------------------------
+; <L>61405<pc>5-0866<k1>mUzaka<k2>mUzaka
+597449 old <ls>KĀM. NĪTIS. 13,63.</ls> <ls>Spr. 89.</ls> <ls n="Spr.">1042.</ls> <ls>VARĀH. BṚH. S. 48. 16. 53,123. 54,20. 71,7. 86,65. 95,4. 97,12.</ls> <ls>KATHĀS. 33,107.</ls> <ls n="KATHĀS.">61,66. fgg.</ls> <ls n="KATHĀS. 61,">62.</ls> <ls n="KATHĀS. 61,">132. fg.</ls> <ls n="KATHĀS.">65,159. fg.</ls> <ls>Verz. d. B. H. 278,8</ls> v. u. <ls>PAÑCAT. 211,13.</ls> {#°nayana#} <lex>adj.</lex>
+;
+597449 new <ls>KĀM. NĪTIS. 13,63.</ls> <ls>Spr. 89.</ls> <ls n="Spr.">1042.</ls> <ls>VARĀH. BṚH. S. 48,16. 53,123. 54,20. 71,7. 86,65. 95,4. 97,12.</ls> <ls>KATHĀS. 33,107.</ls> <ls n="KATHĀS.">61,66. fgg.</ls> <ls n="KATHĀS. 61,">62.</ls> <ls n="KATHĀS. 61,">132. fg.</ls> <ls n="KATHĀS.">65,159. fg.</ls> <ls>Verz. d. B. H. 278,8</ls> v. u. <ls>PAÑCAT. 211,13.</ls> {#°nayana#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>61589<pc>5-0877<k1>mfjA<k2>mfjA/
+598910 old <ls n="VARĀH. BṚH. S.">94.</ls>
+;
+598910 new <ls n="VARĀH. BṚH. S. 68,">94.</ls>
+;---------------------------------------------------
+; <L>62012<pc>5-0904<k1>meru<k2>meru/
+602433 old <ls n="VARĀH. BṚH. S.">20.</ls>
+;
+602433 new <ls n="VARĀH. BṚH. S. 56,">20.</ls>
+;---------------------------------------------------
+; <L>62152<pc>5-0914<k1>mokza<k2>mokza
+603624 old <ls>SŪRYAS. 4,14. 16. 5,14. 16. 6,4. 7. 18. 22.</ls> <ls>VARĀH. BṚH. S. 2,c. 5,81. fgg.</ls>
+;
+603624 new <ls>SŪRYAS. 4,14. 16. 5,14. 16. 6,4. 7. 18. 22.</ls> <ls>VARĀH. BṚH. S. 2,c.</ls> <ls n="VARĀH. BṚH. S.">5,81. fgg.</ls>
+;---------------------------------------------------
+; <L>62234<pc>5-0921<k1>moza<k2>moza
+604348 old <ls n="VARĀH. BṚH. S.">63. 96,6.</ls> {#(tAm) mozAya qimbaH ko 'pyanvagAddrutam#}
+;
+604348 new <ls n="VARĀH. BṚH. S. 86,">63. 96,6.</ls> {#(tAm) mozAya qimbaH ko 'pyanvagAddrutam#}
+;---------------------------------------------------
+; <L>64444<pc>5-1019<k1>aBiDAyin<k2>aBiDAyin
+618187 old <ls>VARĀH. BṚH. S. 2, Abs. 3 ( S. 3, Z. 2</ls> v. u.).
+;
+618187 new <ls>VARĀH. BṚH. S. 2, Abs. 3 ( S. 3, Z. 2 v. u.).</ls>
+;---------------------------------------------------
+; <L>65329<pc>5-1056<k1>avakaSa<k2>avakaSa
+623783 old <ls n="VARĀH. BṚH. S.">2879.</ls>
+;
+623783 new <ls n="Spr.">2879.</ls>
+;---------------------------------------------------
+; <L>65681<pc>5-1070<k1>aSani<k2>aSani
+625909 old <ls>VARĀH. BṚH. S. 36. 4.</ls> {#aSani#} als Naturerscheinung eine Species der {#ulkAH#} wird beschrieben
+;
+625909 new <ls>VARĀH. BṚH. S. 36,4.</ls> {#aSani#} als Naturerscheinung eine Species der {#ulkAH#} wird beschrieben
+;---------------------------------------------------
+; <L>65681<pc>5-1070<k1>aSani<k2>aSani
+625910 old <ls>VARĀH. BṚH. S. 33,4. — 21,25. 24,25. 46,84.</ls>
+;
+625910 new <ls>VARĀH. BṚH. S. 33,4.</ls> — <ls n="VARĀH. BṚH. S.">21,25. 24,25. 46,84.</ls>
+;---------------------------------------------------
+; <L>67038<pc>5-1128<k1>AzAQa<k2>AzAQa
+634470 old <ls n="VARĀH. BṚH. S.">26.</ls>
+;
+634470 new <ls n="VARĀH. BṚH. S. 27,">26.</ls>
+;---------------------------------------------------
+; <L>67140<pc>5-1134<k1>i<k2>i<h>3
+635303 old <ls>VARĀH. BṚH. S. 68,117. — II.</ls> <ls>Ind. St. 8,93.</ls> <ls>ŚĀṄKH. GṚHY. 4,6.</ls> pass.: {#vedo nityamaDIyatAm#}
+;
+635303 new <ls>VARĀH. BṚH. S. 68,117.</ls> — II. <ls>Ind. St. 8,93.</ls> <ls>ŚĀṄKH. GṚHY. 4,6.</ls> pass.: {#vedo nityamaDIyatAm#}
+;---------------------------------------------------
+; <L>67140<pc>5-1134<k1>i<k2>i<h>3
+635434 old <ls n="VARĀH. BṚH. S.">21,38.</ls> Das letzte Beispiel gehört zu <ls n="VARĀH. BṚH. S.">3</ls>
+;
+635434 new <ls n="VARĀH. BṚH. S.">21,38.</ls> Das letzte Beispiel gehört zu <ls n="VARĀH. BṚH. S. 21,">3</ls>
+;---------------------------------------------------
+; <L>67271<pc>5-1143<k1>indravajra<k2>indravajra
+636367 old <ls n="VARĀH. BṚH. S.">2.</ls>).
+;
+636367 new <ls n="VARĀH. BṚH. S. 104,">2.</ls>).
+;---------------------------------------------------
+; <L>67810<pc>5-1169<k1>udagArgala<k2>udagArgala
+640019 old <ls>VARĀH. BṚH. S. 2</ls> (S. 7, Z. 3).
+;
+640019 new <ls>VARĀH. BṚH. S. 2 (S. 7, Z. 3).</ls>
+;---------------------------------------------------
+; <L>68005<pc>5-1178<k1>udyoga<k2>udyoga
+641343 old <ls n="VARĀH. BṚH. S.">6. 8. 46. 40.</ls> {#raRodyoga#}
+;
+641343 new <ls n="VARĀH. BṚH. S. 4,">6.</ls> <ls n="VARĀH. BṚH. S. 4,">8.</ls> <ls n="VARĀH. BṚH. S.">46,40.</ls> {#raRodyoga#}
+;---------------------------------------------------
+; <L>68005<pc>5-1178<k1>udyoga<k2>udyoga
+641344 old <ls n="VARĀH. BṚH. S.">25.</ls> {#balodyoga#}
+;
+641344 new <ls n="VARĀH. BṚH. S. 46,">25.</ls> {#balodyoga#}
+;---------------------------------------------------
+; <L>68684<pc>5-1207<k1>Urj<k2>Urj
+645677 old <ls>M. 2,55</ls> (auch <ls>VARĀH. BṚH. S. 77,35)</ls> könnte auch acc. von {#Urja#} sein. {#Urj#}
+;
+645677 new <ls>M. 2,55</ls> (auch <ls>VARĀH. BṚH. S. 77,35</ls>) könnte auch acc. von {#Urja#} sein. {#Urj#}
+;---------------------------------------------------
+; <L>69780<pc>5-1255<k1>karavIra<k2>karavIra
+652951 old <ls n="VARĀH. BṚH. S.">7.</ls> <ls>Verz. d. Oxf. H. 195,a,30. 324,a,2. 26.</ls> {#°vrata#} <lex>n.</lex> Bez. {%einer best. Begehung%}
+;
+652951 new <ls n="VARĀH. BṚH. S. 50,">7.</ls> <ls>Verz. d. Oxf. H. 195,a,30. 324,a,2. 26.</ls> {#°vrata#} <lex>n.</lex> Bez. {%einer best. Begehung%}
+;---------------------------------------------------
+; <L>69958<pc>5-1263<k1>karzaka<k2>karzaka
+654160 old <ls n="VARĀH. BṚH. S.">72.</ls>
+;
+654160 new <ls n="VARĀH. BṚH. S. 5,">72.</ls>
+;---------------------------------------------------
+; <L>70053<pc>5-1268<k1>kalp<k2>kalp
+654908 old <ls n="VARĀH. BṚH. S.">11.</ls>
+;
+654908 new <ls n="VARĀH. BṚH. S. 59,">11.</ls>
+;---------------------------------------------------
+; <L>70804<pc>5-1299<k1>kIlaka<k2>kIlaka
+659697 old <ls>VARĀH. BṚH. S. 3,11,17. 21,25.</ls> — <lex>f.</lex> {#kIlikA#} {%Pflock, Bolzen%}
+;
+659697 new <ls>VARĀH. BṚH. S. 3,11. 17. 21,25.</ls> — <lex>f.</lex> {#kIlikA#} {%Pflock, Bolzen%}
+;---------------------------------------------------
+; <L>70826<pc>5-1300<k1>kukziBeda<k2>kukziBeda
+659849 old <ls>VARĀH. BṚH. S. 5,85</ls>; vgl. <ls n="VARĀH. BṚH. S.">81.</ls>
+;
+659849 new <ls>VARĀH. BṚH. S. 5,85</ls>; vgl. <ls n="VARĀH. BṚH. S. 5,">81.</ls>
+;---------------------------------------------------
+; <L>70867<pc>5-1301<k1>kuwila<k2>kuwila
+660117 old <ls>VARĀH. BṚH. S. 65,9</ls>; vgl. <ls n="VARĀH. BṚH. S.">6.</ls>
+;
+660117 new <ls>VARĀH. BṚH. S. 65,9</ls>; vgl. <ls n="VARĀH. BṚH. S. 65,">6.</ls>
+;---------------------------------------------------
+; <L>70886<pc>5-1302<k1>kuwwaka<k2>kuwwaka
+660235 old <ls>VARĀH. BṚH. S. 65,9</ls>; vgl. <ls n="VARĀH. BṚH. S.">5.</ls>
+;
+660235 new <ls>VARĀH. BṚH. S. 65,9</ls>; vgl. <ls n="VARĀH. BṚH. S. 65,">5.</ls>
+;---------------------------------------------------
+; <L>71029<pc>5-1307<k1>kumAra<k2>kumAra
+661111 old <ls n="VARĀH. BṚH. S.">39.</ls>
+;
+661111 new <ls n="VARĀH. BṚH. S. 43,">39.</ls>
+;---------------------------------------------------
+; <L>72193<pc>5-1354<k1>kzOra<k2>kzOra
+668894 old <ls n="VARĀH. BṚH. S.">12.</ls> {#°karman#}
+;
+668894 new <ls n="VARĀH. BṚH. S. 98,">12.</ls> {#°karman#}
+;---------------------------------------------------
+; <L>72647<pc>5-1374<k1>garBavAyuDAraRA<k2>garBavAyuDAraRA
+672132 old <ls>VARĀH. BṚH. S. v. l.</ls> für {#DAraRA#} .
+;
+672132 new <ls>VARĀH. BṚH. S.</ls> v. l. für {#DAraRA#} .
+;---------------------------------------------------
+; <L>73648<pc>5-1414<k1>carpawa<k2>carpawa
+678869 old <ls>VARĀH. BṚH. S. 68. 58</ls>; vgl. u. {#cipiwa#}
+;
+678869 new <ls>VARĀH. BṚH. S. 68,58</ls>;
+;---------------------------------------------------
+; <L>73648<pc>5-1414<k1>carpawa<k2>carpawa
+678870 old <ls n="VARĀH. BṚH. S.">1</ls>).
+;
+678870 new vgl. u. {#cipiwa#} 1).
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+735518 old <ls n="VARĀH. BṚH. S.">76.</ls> {#vinASam#}
+;
+735518 new <ls n="VARĀH. BṚH. S. 5,">76.</ls> {#vinASam#}
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+735521 old <ls n="VARĀH. BṚH. S.">10.</ls> {#viSudDim#}
+;
+735521 new <ls n="VARĀH. BṚH. S. 21,">10.</ls> {#viSudDim#}
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+735531 old <ls n="VARĀH. BṚH. S.">4.</ls> {#ekatvam#}
+;
+735531 new <ls n="VARĀH. BṚH. S. 85,">4.</ls> {#ekatvam#}
+;---------------------------------------------------
+; <L>81975<pc>6-0126<k1>yAma<k2>yA/ma<h>3
+737886 old <ls n="MBH.">12,1896.</ls> <ls>R. GORR. 2,5,5.</ls> <ls>SUŚR. 1,111,12. 242,6. 2,264,21.</ls> <ls>MEGH. 95.</ls> <ls>RAGH. 17,1.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 3. 11,44. 39,4.</ls> <ls>KATHĀS. 4,46.</ls> <ls n="KATHĀS.">13,149.</ls> <ls n="KATHĀS.">17,101.</ls> <ls n="KATHĀS.">24,112.</ls> <ls>RĀJA-TAR. 3,178.</ls> <ls>BHĀG. P. 3,11,8.</ls> <ls n="BHĀG. P. 3,11,">10.</ls> <ls n="BHĀG. P. 3,">22,35.</ls> <ls n="BHĀG. P.">5,8,28.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A): triyAmA rajanI#}
+;
+737886 new <ls n="MBH.">12,1896.</ls> <ls>R. GORR. 2,5,5.</ls> <ls>SUŚR. 1,111,12. 242,6. 2,264,21.</ls> <ls>MEGH. 95.</ls> <ls>RAGH. 17,1.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 3.</ls> <ls n="VARĀH. BṚH. S.">11,44. 39,4.</ls> <ls>KATHĀS. 4,46.</ls> <ls n="KATHĀS.">13,149.</ls> <ls n="KATHĀS.">17,101.</ls> <ls n="KATHĀS.">24,112.</ls> <ls>RĀJA-TAR. 3,178.</ls> <ls>BHĀG. P. 3,11,8.</ls> <ls n="BHĀG. P. 3,11,">10.</ls> <ls n="BHĀG. P. 3,">22,35.</ls> <ls n="BHĀG. P.">5,8,28.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A): triyAmA rajanI#}
+;---------------------------------------------------
+; <L>82020<pc>6-0129<k1>yAmya<k2>yA/mya
+738271 old <ls>H. an.</ls> <ls>MED.</ls>). <ls>TS. 4,4,12,4.</ls> <ls>HARIV. 4857.</ls> <ls>R. 2,103,26</ls> (<ls n="GORR. 2,">111,32</ls> <ls>GORR.</ls>). <ls n="R.">3,29,6.</ls> <ls n="R. 3,">54,10.</ls> <ls n="R.">4,60,16.</ls> <ls n="R.">5,27,17.</ls> <ls>WEBER, JYOT. 35.</ls> <ls>MĀRK. P. 29,18.</ls> <ls>SŪRYAS. 2,7.</ls> <ls>Verz. d. Oxf. H. 51,b,24.</ls> <ls>VARĀH. BṚH. S. 2, S. 7, Z. 13. 3,4. 11,12. 19. 33. 35. 37. 53,38. 54,65.</ls> {#udaNmaDyayAmyamArgasTAH#}
+;
+738271 new <ls>H. an.</ls> <ls>MED.</ls>). <ls>TS. 4,4,12,4.</ls> <ls>HARIV. 4857.</ls> <ls>R. 2,103,26</ls> (<ls n="GORR. 2,">111,32</ls> <ls>GORR.</ls>). <ls n="R.">3,29,6.</ls> <ls n="R. 3,">54,10.</ls> <ls n="R.">4,60,16.</ls> <ls n="R.">5,27,17.</ls> <ls>WEBER, JYOT. 35.</ls> <ls>MĀRK. P. 29,18.</ls> <ls>SŪRYAS. 2,7.</ls> <ls>Verz. d. Oxf. H. 51,b,24.</ls> <ls>VARĀH. BṚH. S. 2, S. 7, Z. 13.</ls> <ls n="VARĀH. BṚH. S.">3,4. 11,12. 19. 33. 35. 37. 53,38. 54,65.</ls> {#udaNmaDyayAmyamArgasTAH#}
+;---------------------------------------------------
+; <L>82108<pc>6-0138<k1>yu<k2>yu<h>2
+739216 old <ls n="VARĀH. BṚH. S.">111.</ls> {#bala° = balin#}
+;
+739216 new <ls n="VARĀH. BṚH. S. 68,">111.</ls> {#bala° = balin#}
+;---------------------------------------------------
+; <L>82136<pc>6-0144<k1>yuga<k2>yuga/
+739805 old <ls>VARĀH. BṚH. S. 2, S. 4. 8,21. 26,31. 33. 35. 37. fgg.</ls>
+;
+739805 new <ls>VARĀH. BṚH. S. 2, S. 4.</ls> <ls n="VARĀH. BṚH. S.">8,21. 26,31. 33. 35. 37. fgg.</ls>
+;---------------------------------------------------
+; <L>82203<pc>6-0169<k1>yuti<k2>yuti
+741886 old <ls n="VARĀH. BṚH. S.">12.</ls>
+;
+741886 new <ls n="VARĀH. BṚH. S. 71,">12.</ls>
+;---------------------------------------------------
+; <L>82485<pc>6-0191<k1>yogAnta<k2>yogAnta
+744410 old <ls n="VARĀH. BṚH. S.">11.</ls>
+;
+744410 new <ls n="VARĀH. BṚH. S. 7,">11.</ls>
+;---------------------------------------------------
+; <L>82657<pc>6-0206<k1>rakta<k2>rakta
+746133 old <ls n="VARĀH. BṚH. S.">87.</ls> {%roth%} und zugleich {%zugethan, liebend, verliebt%}
+;
+746133 new <ls n="VARĀH. BṚH. S. 68,">87.</ls> {%roth%} und zugleich {%zugethan, liebend, verliebt%}
+;---------------------------------------------------
+; <L>83099<pc>6-0242<k1>raRa<k2>ra/Ra
+750463 old <ls>VARĀH. BṚH. S. 47. 11.</ls> {#rati°#}
+;
+750463 new <ls>VARĀH. BṚH. S. 47,11.</ls> {#rati°#}
+;---------------------------------------------------
+; <L>83464<pc>6-0260<k1>raTAhvA<k2>raTAhvA
+753040 old <ls>VARĀH. BṚH. S. 16,16. v. l.</ls> {#raTANkA#} und {#raTANgA#} .
+;
+753040 new <ls>VARĀH. BṚH. S. 16,16, v. l.</ls> {#raTANkA#} und {#raTANgA#} .
+;---------------------------------------------------
+; <L>84657<pc>6-0353<k1>rAzwra<k2>rAzwra/
+764282 old <ls n="VARĀH. BṚH. S.">39. 60.</ls> {#tasya prakzuByate rAzwram#}
+;
+764282 new <ls n="VARĀH. BṚH. S. 46,">39. 60.</ls> {#tasya prakzuByate rAzwram#}
+;---------------------------------------------------
+; <L>85099<pc>6-0419<k1>rUkza<k2>rUkza/<h>1
+770718 old <ls>VARĀH. BṚH. S. 68,40.</ls> Lippen <ls n="VARĀH. BṚH. S.">52.</ls> Bäume <ls n="VARĀH. BṚH. S.">29,14. 51,3. 54,49. 105.</ls> {#araRI, BUmi#}
+;
+770718 new <ls>VARĀH. BṚH. S. 68,40.</ls> Lippen <ls n="VARĀH. BṚH. S. 68,">52.</ls> Bäume <ls n="VARĀH. BṚH. S.">29,14. 51,3. 54,49. 105.</ls> {#araRI, BUmi#}
+;---------------------------------------------------
+; <L>85099<pc>6-0419<k1>rUkza<k2>rUkza/<h>1
+770750 old <ls n="VARĀH. BṚH. S.">73.</ls> {#°vASin#} (so ist zu lesen)
+;
+770750 new <ls n="VARĀH. BṚH. S. 68,">73.</ls> {#°vASin#} (so ist zu lesen)
+;---------------------------------------------------
+; <L>85404<pc>6-0446<k1>roma<k2>roma<h>1
+774004 old <ls n="VARĀH. BṚH. S.">21.</ls>
+;
+774004 new <ls n="VARĀH. BṚH. S. 70,">21.</ls>
+;---------------------------------------------------
+; <L>85627<pc>6-0464<k1>lakzaRajYa<k2>lakzaRajYa
+776213 old <ls n="VARĀH. BṚH. S.">116.</ls> {#tallakzaRajYa#} {%seine guten Merkmale erkennend%}
+;
+776213 new <ls n="VARĀH. BṚH. S. 68,">116.</ls> {#tallakzaRajYa#} {%seine guten Merkmale erkennend%}
+;---------------------------------------------------
+; <L>86053<pc>6-0514<k1>lalAwa<k2>lalA/wa
+781654 old <ls n="VARĀH. BṚH. S.">72.</ls> {#ucca°#}
+;
+781654 new <ls n="VARĀH. BṚH. S. 68,">72.</ls> {#ucca°#}
+;---------------------------------------------------
+; <L>86174<pc>6-0524<k1>lahaqa<k2>lahaqa
+782871 old <ls>VARĀH. BṚH. S. 14,22. v. l.</ls> {#laqaha#} und {#lahara#} .
+;
+782871 new <ls>VARĀH. BṚH. S. 14,22, v. l.</ls> {#laqaha#} und {#lahara#} .
+;---------------------------------------------------
+; <L>86670<pc>6-0582<k1>lokapati<k2>lokapati
+788910 old <ls>VARĀH. BṚH. S. 74,4. <is>Viṣṇu</is></ls>
+;
+788910 new <ls>VARĀH. BṚH. S. 74,4.</ls> <is>Viṣṇu</is>
+;---------------------------------------------------
+; <L>87192<pc>6-0612<k1>vakra<k2>vakra/
+793233 old <ls>VARĀH. BṚH. S. 1,10. 2, S. 6, Z. 17. 6,1. 4. 7. 15,31. 47,13. 97,1.</ls> <ls>BṚH. 7,11.</ls> <ls>GOLĀDHY. 5,40.</ls> <ls>GAṆITĀDHY.</ls> <ls>SPAṢṬĀDHY. 44.</ls> <ls>Ind. St. 2,284.</ls> <ls>BHĀG. P. 5,22,14.</ls>
+;
+793233 new <ls>VARĀH. BṚH. S. 1,10.</ls> <ls n="VARĀH. BṚH. S.">2, S. 6, Z. 17.</ls> <ls n="VARĀH. BṚH. S.">6,1. 4. 7. 15,31. 47,13. 97,1.</ls> <ls>BṚH. 7,11.</ls> <ls>GOLĀDHY. 5,40.</ls> <ls>GAṆITĀDHY.</ls> <ls>SPAṢṬĀDHY. 44.</ls> <ls>Ind. St. 2,284.</ls> <ls>BHĀG. P. 5,22,14.</ls>
+;---------------------------------------------------
+; <L>88022<pc>6-0687<k1>vapuzmant<k2>vapuzmant
+801936 old <ls>VARĀH. BṚH. S. 2, S. 3,69,15.</ls> <ls>MĀRK. P. 60,1. 98,5. 132,47.</ls> von Leblosem: {#maYcavAwa#}
+;
+801936 new <ls>VARĀH. BṚH. S. 2, S. 3.</ls> <ls n="VARĀH. BṚH. S.">69,15.</ls> <ls>MĀRK. P. 60,1. 98,5. 132,47.</ls> von Leblosem: {#maYcavAwa#}
+;---------------------------------------------------
+; <L>88025<pc>6-0687<k1>vapus<k2>va/pus
+802028 old <ls n="VARĀH. BṚH. S.">26.</ls>
+;
+802028 new <ls n="VARĀH. BṚH. S. 30,">26.</ls>
+;---------------------------------------------------
+; <L>88308<pc>6-0726<k1>varuRadeva<k2>varuRadeva
+806133 old <ls>VARĀH. BṚH. S. 32,20. v. l.</ls> {#°dEva#} .
+;
+806133 new <ls>VARĀH. BṚH. S. 32,20, v. l.</ls> {#°dEva#} .
+;---------------------------------------------------
+; <L>88396<pc>6-0732<k1>varcasya<k2>varcasya^
+806965 old <ls>VS. 34,50</ls> (vgl.
+;
+806965 new <ls>VS. 34,50</ls>
+;---------------------------------------------------
+; <L>88396<pc>6-0732<k1>varcasya<k2>varcasya^
+806966 old <ls>VARĀH. BṚH. S. 48,74).</ls> <ls>AV. 19,26,4.</ls> <ls>ŚĀṄKH. GṚHY. 3,1.</ls>
+;
+806966 new (vgl. <ls>VARĀH. BṚH. S. 48,74</ls>). <ls>AV. 19,26,4.</ls> <ls>ŚĀṄKH. GṚHY. 3,1.</ls>
+;---------------------------------------------------
+; <L>88405<pc>6-0733<k1>varj<k2>varj
+807128 old <ls n="VARĀH. BṚH. S.">82. 71,14. 78,20.</ls> <ls>BṚH. 20,2.</ls> <ls>Spr. 3339.</ls> <ls n="Spr.">3431.</ls> <ls n="Spr.">4823.</ls> <ls>KIR. 5,47.</ls> <ls>KATHĀS. 52,113.</ls> <ls n="KATHĀS.">65,141.</ls> <ls>RĀJA-TAR. 3,29. 6,279.</ls> <ls>BHĀG. P. 1,5,12.</ls> <ls n="BHĀG. P.">4,6,32.</ls> <ls n="BHĀG. P.">5,14,38.</ls> <ls>MĀRK. P. 50,73.</ls> <ls>H. 409.</ls> <ls n="H.">854.</ls> Schol. zu <ls>KĀTY. ŚR. 529,11.</ls> <ls>SARVADARŚANAS. 69,20.</ls> {#Bukti°#} so v. a. {%ungeniessbar%}
+;
+807128 new <ls n="VARĀH. BṚH. S. 54,">82. 71,14. 78,20.</ls> <ls>BṚH. 20,2.</ls> <ls>Spr. 3339.</ls> <ls n="Spr.">3431.</ls> <ls n="Spr.">4823.</ls> <ls>KIR. 5,47.</ls> <ls>KATHĀS. 52,113.</ls> <ls n="KATHĀS.">65,141.</ls> <ls>RĀJA-TAR. 3,29. 6,279.</ls> <ls>BHĀG. P. 1,5,12.</ls> <ls n="BHĀG. P.">4,6,32.</ls> <ls n="BHĀG. P.">5,14,38.</ls> <ls>MĀRK. P. 50,73.</ls> <ls>H. 409.</ls> <ls n="H.">854.</ls> Schol. zu <ls>KĀTY. ŚR. 529,11.</ls> <ls>SARVADARŚANAS. 69,20.</ls> {#Bukti°#} so v. a. {%ungeniessbar%}
+;---------------------------------------------------
+; <L>89222<pc>6-0871<k1>vahni<k2>va/hni
+820683 old <ls n="VARĀH. BṚH. S.">18.</ls> <ls>WEBER, RĀMAT. UP. 293. 302.</ls> <ls>BHĀG. P. 3,1,21.</ls> {#vEdyutA iva vahnayaH#}
+;
+820683 new <ls n="VARĀH. BṚH. S. 95,">18.</ls> <ls>WEBER, RĀMAT. UP. 293. 302.</ls> <ls>BHĀG. P. 3,1,21.</ls> {#vEdyutA iva vahnayaH#}
+;---------------------------------------------------
+; <L>89439<pc>6-0886<k1>vAc<k2>vAc
+822671 old <ls n="VARĀH. BṚH. S.">98.</ls> {#sArasAH — vadanti maDurA vAcaH#} {%Laute, Töne%}
+;
+822671 new <ls n="VARĀH. BṚH. S. 46,">98.</ls> {#sArasAH — vadanti maDurA vAcaH#} {%Laute, Töne%}
+;---------------------------------------------------
+; <L>90049<pc>6-0930<k1>vAyavya<k2>vAyavya^
+827885 old <ls n="VARĀH. BṚH. S.">10. 27. 80,10. 46,64</ls> ({%in der Luft seiend).%} {#astra#}
+;
+827885 new <ls n="VARĀH. BṚH. S. 32,">10. 27. 80,10. 46,64</ls> ({%in der Luft seiend).%} {#astra#}
+;---------------------------------------------------
+; <L>90049<pc>6-0930<k1>vAyavya<k2>vAyavya^
+827893 old <ls n="VARĀH. BṚH. S.">2, S. 7, Z. 14. 60,3.</ls> <ls>Verz. d. Oxf. H. 103,b,14.</ls> {%Nordwest%}: {#vAyavyapaScimAntare#}
+;
+827893 new <ls n="VARĀH. BṚH. S.">2, S. 7, Z. 14.</ls> <ls n="VARĀH. BṚH. S.">60,3.</ls> <ls>Verz. d. Oxf. H. 103,b,14.</ls> {%Nordwest%}: {#vAyavyapaScimAntare#}
+;---------------------------------------------------
+; <L>90049<pc>6-0930<k1>vAyavya<k2>vAyavya^
+827899 old <ls n="VARĀH. BṚH. S.">28.</ls> <ls>MĀRK. P. 34,101.</ls> <ls>H. 169</ls>, Schol.
+;
+827899 new <ls n="VARĀH. BṚH. S. 24,">28.</ls> <ls>MĀRK. P. 34,101.</ls> <ls>H. 169</ls>, Schol.
+;---------------------------------------------------
+; <L>90054<pc>6-0931<k1>vAyasavidyA<k2>vAyasavidyA
+827978 old <ls>VARĀH. BṚH. S. 2</ls> (S. 7, Z. 2). 107,11. <ls>Verz. d. Cambr. H. 36.</ls> Davon <lex>adj.</lex> {#vAyasavidyika/#} {%sich damit beschäftigend, damit vertraut%}
+;
+827978 new <ls>VARĀH. BṚH. S. 2 (S. 7, Z. 2).</ls> <ls n="VARĀH. BṚH. S.">107,11.</ls> <ls>Verz. d. Cambr. H. 36.</ls> Davon <lex>adj.</lex> {#vAyasavidyika/#} {%sich damit beschäftigend, damit vertraut%}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828054 old <ls n="VARĀH. BṚH. S.">2.</ls> {#dakziRa#}
+;
+828054 new <ls n="VARĀH. BṚH. S. 27,">2.</ls> {#dakziRa#}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828055 old <ls n="VARĀH. BṚH. S.">3.</ls> {#nErfta#}
+;
+828055 new <ls n="VARĀH. BṚH. S. 27,">3.</ls> {#nErfta#}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828056 old <ls n="VARĀH. BṚH. S.">4.</ls> {#vAyavya#}
+;
+828056 new <ls n="VARĀH. BṚH. S. 27,">4.</ls> {#vAyavya#}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828057 old <ls n="VARĀH. BṚH. S.">6.</ls> {#uttara#}
+;
+828057 new <ls n="VARĀH. BṚH. S. 27,">6.</ls> {#uttara#}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828058 old <ls n="VARĀH. BṚH. S.">7.</ls> {#ESAna#}
+;
+828058 new <ls n="VARĀH. BṚH. S. 27,">7.</ls> {#ESAna#}
+;---------------------------------------------------
+; <L>90065<pc>6-0931<k1>vAyu<k2>vAyu/<h>1
+828059 old <ls n="VARĀH. BṚH. S.">8.</ls> {#Siva#}
+;
+828059 new <ls n="VARĀH. BṚH. S. 27,">8.</ls> {#Siva#}
+;---------------------------------------------------
+; <L>90297<pc>6-0944<k1>vAruRa<k2>vAruRa/
+829841 old <ls n="VARĀH. BṚH. S.">27. 80,9. 81,7.</ls> {#SaNKa#}
+;
+829841 new <ls n="VARĀH. BṚH. S. 32,">27. 80,9. 81,7.</ls> {#SaNKa#}
+;---------------------------------------------------
+; <L>90523<pc>6-0958<k1>vAS<k2>vAS
+831804 old <ls>VARĀH. BṚH. S. 95,29.fg.</ls>
+;
+831804 new <ls>VARĀH. BṚH. S. 95,29. fg.</ls>
+;---------------------------------------------------
+; <L>90583<pc>6-0965<k1>vAsara<k2>vAsara/
+832507 old <ls n="RĀJA-TAR.">6,122.</ls> <ls>VARĀH. BṚH. S. 96,1. 104,61,a.</ls> <ls>BṚH. 2,14.</ls> masc. <ls>Spr. 3979.</ls> <ls>KATHĀS. 4,23.</ls> <ls n="KATHĀS.">5,80.</ls> <ls n="KATHĀS.">22,259.</ls> <ls n="KATHĀS.">28,188.</ls> <ls n="KATHĀS.">34,130.</ls> <ls n="KATHĀS. 34,">173.</ls> <ls n="KATHĀS.">51,53</ls> ({#vivAha°#}) .
+;
+832507 new <ls n="RĀJA-TAR.">6,122.</ls> <ls>VARĀH. BṚH. S. 96,1.</ls> <ls n="VARĀH. BṚH. S.">104,61,a.</ls> <ls>BṚH. 2,14.</ls> masc. <ls>Spr. 3979.</ls> <ls>KATHĀS. 4,23.</ls> <ls n="KATHĀS.">5,80.</ls> <ls n="KATHĀS.">22,259.</ls> <ls n="KATHĀS.">28,188.</ls> <ls n="KATHĀS.">34,130.</ls> <ls n="KATHĀS. 34,">173.</ls> <ls n="KATHĀS.">51,53</ls> ({#vivAha°#}) .
+;---------------------------------------------------
+; <L>90819<pc>6-0984<k1>vikala<k2>vikala
+834814 old <ls>VARĀH. BṚH. S. 2, Anf. 53,68.</ls> {#°pArSva#}
+;
+834814 new <ls>VARĀH. BṚH. S. 2, Anf.</ls> <ls n="VARĀH. BṚH. S.">53,68.</ls> {#°pArSva#}
+;---------------------------------------------------
+; <L>90853<pc>6-0987<k1>vikAra<k2>vikAra<h>1
+835159 old <ls n="VARĀH. BṚH. S.">46. 51. 72. 54,56.</ls> {#candramAH sarvavikArakoSaH#}
+;
+835159 new <ls n="VARĀH. BṚH. S. 46,">46. 51. 72. 54,56.</ls> {#candramAH sarvavikArakoSaH#}
+;---------------------------------------------------
+; <L>90853<pc>6-0987<k1>vikAra<k2>vikAra<h>1
+835171 old <ls n="VARĀH. BṚH. S.">56.</ls> {#BrUnetrAdi°#}
+;
+835171 new <ls n="VARĀH. BṚH. S. 104,">56.</ls> {#BrUnetrAdi°#}
+;---------------------------------------------------
+; <L>90905<pc>6-0991<k1>vikfti<k2>vikfti
+835669 old <ls n="VARĀH. BṚH. S.">50.</ls> {#agneH#}
+;
+835669 new <ls n="VARĀH. BṚH. S. 46,">50.</ls> {#agneH#}
+;---------------------------------------------------
+; <L>91069<pc>6-1004<k1>viGAta<k2>viGAta
+837241 old <ls n="R. GORR.">6,89,20.</ls> <ls n="R. GORR.">7,63,21.</ls> <ls>NYĀYAS. 1,1,51.</ls> <ls>SĀṂKHYAK. 51.</ls> <ls>SUŚR. 1,51,21. 80,1. 156,9. 2,63,16. 201,14. 304,18. 474,16. 513,21. 514,3.</ls> <ls>KĀM. NĪTIS. 10,4. 7. 8. 19,3.</ls> <ls>RAGH. 3,44.</ls> <ls n="RAGH.">11,1.</ls> <ls n="RAGH.">16,82.</ls> <ls>KUMĀRAS. 3,32.</ls> <ls>AK. 1,1,2,12.</ls> <ls>VIKR. 85,19.</ls> <ls>VARĀH. BṚH. S. 12, Anf. 87,34. 104,26.</ls> <ls>BHĀG. P. 4,29,71.</ls> <ls n="BHĀG. P.">5,12,13.</ls> <ls n="BHĀG. P.">6,5,37.</ls> <ls n="BHĀG. P. 6,">11,23.</ls> {#yadi prAptiM viGAtaM ca jAnanti suKaduHKayoH#}
+;
+837241 new <ls n="R. GORR.">6,89,20.</ls> <ls n="R. GORR.">7,63,21.</ls> <ls>NYĀYAS. 1,1,51.</ls> <ls>SĀṂKHYAK. 51.</ls> <ls>SUŚR. 1,51,21. 80,1. 156,9. 2,63,16. 201,14. 304,18. 474,16. 513,21. 514,3.</ls> <ls>KĀM. NĪTIS. 10,4. 7. 8. 19,3.</ls> <ls>RAGH. 3,44.</ls> <ls n="RAGH.">11,1.</ls> <ls n="RAGH.">16,82.</ls> <ls>KUMĀRAS. 3,32.</ls> <ls>AK. 1,1,2,12.</ls> <ls>VIKR. 85,19.</ls> <ls>VARĀH. BṚH. S. 12, Anf.</ls> <ls n="VARĀH. BṚH. S.">87,34. 104,26.</ls> <ls>BHĀG. P. 4,29,71.</ls> <ls n="BHĀG. P.">5,12,13.</ls> <ls n="BHĀG. P.">6,5,37.</ls> <ls n="BHĀG. P. 6,">11,23.</ls> {#yadi prAptiM viGAtaM ca jAnanti suKaduHKayoH#}
+;---------------------------------------------------
+; <L>91074<pc>6-1005<k1>viGna<k2>viGna
+837304 old <ls n="Spr.">4718.</ls> <ls>UTTARAR. 27,9 (35,19).</ls> <ls>VARĀH. BṚH. S. 79,23 = 94,4 (n.). 104,5. 9.</ls> <ls>KATHĀS. 45,89.</ls> {#°kula#}
+;
+837304 new <ls n="Spr.">4718.</ls> <ls>UTTARAR. 27,9 (35,19).</ls> <ls>VARĀH. BṚH. S. 79,23</ls> = <ls n="VARĀH. BṚH. S.">94,4</ls> (n.).<ls n="VARĀH. BṚH. S.">104,5. 9.</ls> <ls>KATHĀS. 45,89.</ls> {#°kula#}
+;---------------------------------------------------
+; <L>91361<pc>6-1027<k1>vijYAtavya<k2>vijYAtavya
+839856 old <ls n="VARĀH. BṚH. S.">55. 68,14. 33.</ls>
+;
+839856 new <ls n="VARĀH. BṚH. S. 54,">55. 68,14. 33.</ls>
+;---------------------------------------------------
+; <L>91815<pc>6-1068<k1>vidvaMs<k2>vidva/Ms
+844514 old <ls>M. 1,97.</ls> <ls n="M. 1,">103.</ls> <ls n="M.">2,1.</ls> <ls n="M.">3,51</ls> u.s.w. <ls>MBH. 3,2477.</ls> <ls n="MBH. 3,">2988.</ls> <ls>R. 1,1,3.</ls> <ls n="R. 1,">7,18.</ls> <ls n="R. 1,">8,6.</ls> <ls>ŚĀK. 2.</ls> <ls>Spr. (II) 686. fg.</ls> <ls n="Spr. (II)">1940.</ls> <ls n="Spr.">(I) 2793.</ls> <ls n="Spr. (I)">2805. fgg.</ls> <ls n="Spr. (I)">3351.</ls> <ls n="Spr. (I)">3353.</ls> <ls n="Spr. (I)">4988.</ls> <ls n="Spr. (I)">5003. fgg.</ls> <ls>VARĀH. BṚH. S. 5,65. 68,66. <is>Śiva</is></ls> <ls>ŚIV.</ls> mit acc.: {#janmamftI#} {%kennend%}
+;
+844514 new <ls>M. 1,97.</ls> <ls n="M. 1,">103.</ls> <ls n="M.">2,1.</ls> <ls n="M.">3,51</ls> u.s.w. <ls>MBH. 3,2477.</ls> <ls n="MBH. 3,">2988.</ls> <ls>R. 1,1,3.</ls> <ls n="R. 1,">7,18.</ls> <ls n="R. 1,">8,6.</ls> <ls>ŚĀK. 2.</ls> <ls>Spr. (II) 686. fg.</ls> <ls n="Spr. (II)">1940.</ls> <ls n="Spr.">(I) 2793.</ls> <ls n="Spr. (I)">2805. fgg.</ls> <ls n="Spr. (I)">3351.</ls> <ls n="Spr. (I)">3353.</ls> <ls n="Spr. (I)">4988.</ls> <ls n="Spr. (I)">5003. fgg.</ls> <ls>VARĀH. BṚH. S. 5,65. 68,66.</ls> <is>Śiva</is> <ls>ŚIV.</ls> mit acc.: {#janmamftI#} {%kennend%}
+;---------------------------------------------------
+; <L>92010<pc>6-1088<k1>vinASa<k2>vinASa
+846772 old <ls n="VARĀH. BṚH. S.">23.</ls> {#Gana°#}
+;
+846772 new <ls n="VARĀH. BṚH. S. 17,">23.</ls> {#Gana°#}
+;---------------------------------------------------
+; <L>92261<pc>6-1109<k1>vipula<k2>vipula
+849185 old <ls n="VARĀH. BṚH. S.">58,22.fg.</ls> {#Sirasi tanurvipulaSca maDyadeSe#} ({#saMDiH#})
+;
+849185 new <ls n="VARĀH. BṚH. S.">58,22. fg.</ls> {#Sirasi tanurvipulaSca maDyadeSe#} ({#saMDiH#})
+;---------------------------------------------------
+; <L>92261<pc>6-1109<k1>vipula<k2>vipula
+849202 old <ls n="VARĀH. BṚH. S.">59.</ls> {#netra#}.{# IkzaRa, dfzwi#}
+;
+849202 new <ls n="VARĀH. BṚH. S. 68,">59.</ls> {#netra#}.{# IkzaRa, dfzwi#}
+;---------------------------------------------------
+; <L>92405<pc>6-1120<k1>vibuDa<k2>vibuDa
+850476 old <ls>VARĀH. BṚH. S. 2, Anf. 43,41. 46,17. 48,32.</ls> <ls>GĪT. 10,15.</ls> <ls>BHĀG. P. 4,24,12.</ls> {#vibuDarzaBa#}
+;
+850476 new <ls>VARĀH. BṚH. S. 2, Anf.</ls> <ls n="VARĀH. BṚH. S.">43,41. 46,17. 48,32.</ls> <ls>GĪT. 10,15.</ls> <ls>BHĀG. P. 4,24,12.</ls> {#vibuDarzaBa#}
+;---------------------------------------------------
+; <L>92564<pc>6-1135<k1>vimarda<k2>vimarda
+852250 old <ls n="VARĀH. BṚH. S.">60.</ls>
+;
+852250 new <ls n="VARĀH. BṚH. S. 5,">60.</ls>
+;---------------------------------------------------
+; <L>92627<pc>6-1139<k1>vimAna<k2>vimA/na<h>1
+852817 old <ls n="VARĀH. BṚH. S.">22.</ls> — {#vAtAyana°#}
+;
+852817 new <ls n="VARĀH. BṚH. S. 56,">22.</ls> — {#vAtAyana°#}
+;---------------------------------------------------
+; <L>92830<pc>6-1155<k1>virAvin<k2>virAvin
+854721 old <ls n="VARĀH. BṚH. S.">72.</ls> {#gamBIravirAviRaH payovAhAH#}
+;
+854721 new <ls n="VARĀH. BṚH. S. 86,">72.</ls> {#gamBIravirAviRaH payovAhAH#}
+;---------------------------------------------------
+; <L>93119<pc>6-1181<k1>vivAha<k2>vivAha/
+857578 old <ls>PAÑCAV. BR. 11,9,5.</ls> — <ls>M. 1,112.</ls> <ls n="M.">5,152.</ls> <ls n="M.">8,112.</ls> <ls>MBH. 3,13844.</ls> <ls>R. 1,3,10.</ls> <ls n="R.">2,57,13.</ls> <ls>RAGH. 7,17.</ls> <ls>VARĀH. BṚH. S. 1,10. 2, S. 6, Z. 3.</ls> <ls>BHĀG. P. 8,19,43.</ls>
+;
+857578 new <ls>PAÑCAV. BR. 11,9,5.</ls> — <ls>M. 1,112.</ls> <ls n="M.">5,152.</ls> <ls n="M.">8,112.</ls> <ls>MBH. 3,13844.</ls> <ls>R. 1,3,10.</ls> <ls n="R.">2,57,13.</ls> <ls>RAGH. 7,17.</ls> <ls>VARĀH. BṚH. S. 1,10.</ls> <ls n="VARĀH. BṚH. S.">2, S. 6, Z. 3.</ls> <ls>BHĀG. P. 8,19,43.</ls>
+;---------------------------------------------------
+; <L>93775<pc>6-1245<k1>vizama<k2>vi/zama
+864903 old <ls n="VARĀH. BṚH. S.">25. 27.</ls> {#dantAH#}
+;
+864903 new <ls n="VARĀH. BṚH. S. 68,">25. 27.</ls> {#dantAH#}
+;---------------------------------------------------
+; <L>94757<pc>6-1314<k1>vftta<k2>vftta/
+873612 old <ls n="VARĀH. BṚH. S.">60.</ls> <ls>BṚH. 1,2.</ls>
+;
+873612 new <ls n="VARĀH. BṚH. S. 104,">60.</ls> <ls>BṚH. 1,2.</ls>
+;---------------------------------------------------
+; <L>94857<pc>6-1327<k1>vfdDagArgIya<k2>vfdDagArgIya
+874779 old <ls>KERN</ls> in der Vorrede zu <ls>VARĀH. BṚH. S. S. 33.fg.</ls>
+;
+874779 new <ls>KERN</ls> in der Vorrede zu <ls>VARĀH. BṚH. S. S. 33. fg.</ls>
+;---------------------------------------------------
+; <L>95108<pc>6-1346<k1>vfzwi<k2>vfzwi
+877067 old <ls n="VARĀH. BṚH. S.">29.</ls> {#SoBanA#}
+;
+877067 new <ls n="VARĀH. BṚH. S. 9,">29.</ls> {#SoBanA#}
+;---------------------------------------------------
+; <L>95477<pc>6-1374<k1>velA<k2>ve/lA
+880535 old <ls n="VARĀH. BṚH. S.">24. 32,27.</ls> <ls>BṚH. 26 (24),4. 11. 14.</ls> <ls>KATHĀS. 30,98.</ls> {#velA vyatikrAntA mamAhAre kaTaM tvayA#}
+;
+880535 new <ls n="VARĀH. BṚH. S. 5,">24.</ls> <ls n="VARĀH. BṚH. S.">32,27.</ls> <ls>BṚH. 26 (24),4. 11. 14.</ls> <ls>KATHĀS. 30,98.</ls> {#velA vyatikrAntA mamAhAre kaTaM tvayA#}
+;---------------------------------------------------
+; <L>95612<pc>6-1388<k1>vEkfta<k2>vEkfta/
+882121 old <ls>VARĀH. BṚH. S. 21,26. 32,24.fg.</ls> {#divyaM graharkzavEkftam#}
+;
+882121 new <ls>VARĀH. BṚH. S. 21,26. 32,24. fg.</ls> {#divyaM graharkzavEkftam#}
+;---------------------------------------------------
+; <L>95906<pc>6-1408<k1>vEra<k2>vE/ra
+884537 old <ls n="VARĀH. BṚH. S.">29.</ls> {#na vEraM kurvIta kenacit#}
+;
+884537 new <ls n="VARĀH. BṚH. S. 32,">29.</ls> {#na vEraM kurvIta kenacit#}
+;---------------------------------------------------
+; <L>96042<pc>6-1417<k1>vESya<k2>vESya/
+885713 old <ls n="VARĀH. BṚH. S.">57.</ls> <ls>VP. 44. 292.</ls> {#°jAtIya#}
+;
+885713 new <ls n="VARĀH. BṚH. S. 5,">57.</ls> <ls>VP. 44. 292.</ls> {#°jAtIya#}
+;---------------------------------------------------
+; <L>96281<pc>6-1438<k1>vyaD<k2>vyaD
+888182 old <ls n="VARĀH. BṚH. S.">77.</ls> {#devatA°#} ({#dvAra#})
+;
+888182 new <ls n="VARĀH. BṚH. S. 53,">77.</ls> {#devatA°#} ({#dvAra#})
+;---------------------------------------------------
+; <L>96281<pc>6-1438<k1>vyaD<k2>vyaD
+888183 old <ls n="VARĀH. BṚH. S.">78.</ls> <ls>MĀRK. P. 50,70.</ls> {#vidDa = bADvita#}
+;
+888183 new <ls n="VARĀH. BṚH. S. 53,">78.</ls> <ls>MĀRK. P. 50,70.</ls> {#vidDa = bADvita#}
+;---------------------------------------------------
+; <L>97060<pc>7-0013<k1>Sakuna<k2>Sakuna/
+896958 old <ls>VARĀH. BṚH. S. 2, S. 6, Z. 8. 30,2. 53,107. 109. 59,1.</ls> {#anyajanmAntarakftaM karma puMsAM SuBASuBam . yattasya SakunaH (SuBASuPalasUcako yaH kaScitprARirUpaH#} Comm.). {#pAkaM nivedayati gacCatAm ..#}
+;
+896958 new <ls>VARĀH. BṚH. S. 2, S. 6, Z. 8.</ls> <ls n="VARĀH. BṚH. S.">30,2. 53,107. 109. 59,1.</ls> {#anyajanmAntarakftaM karma puMsAM SuBASuBam . yattasya SakunaH (SuBASuPalasUcako yaH kaScitprARirUpaH#} Comm.). {#pAkaM nivedayati gacCatAm ..#}
+;---------------------------------------------------
+; <L>97903<pc>7-0076<k1>Sama<k2>Sa/ma
+904920 old <ls n="VARĀH. BṚH. S.">5. 6.</ls> {#gatvA rozasya vE Samam#}
+;
+904920 new <ls n="VARĀH. BṚH. S. 46,">5. 6.</ls> {#gatvA rozasya vE Samam#}
+;---------------------------------------------------
+; <L>98303<pc>7-0109<k1>Salya<k2>Salya/
+908981 old <ls n="VARĀH. BṚH. S.">100,3.</ls> {#SalyodDfti#}
+;
+908981 new <ls n="SUŚR.">100,3.</ls> {#SalyodDfti#}
+;---------------------------------------------------
+; <L>98303<pc>7-0109<k1>Salya<k2>Salya/
+908982 old <ls n="VARĀH. BṚH. S.">8,15.</ls> {%der Blasenstein%}
+;
+908982 new <ls n="SUŚR.">8,15.</ls> {%der Blasenstein%}
+;---------------------------------------------------
+; <L>98303<pc>7-0109<k1>Salya<k2>Salya/
+908983 old <ls n="VARĀH. BṚH. S.">2,55,17. fgg.</ls> {#mUQagarBaSalyodDaraRa#}
+;
+908983 new <ls n="SUŚR.">2,55,17. fgg.</ls> {#mUQagarBaSalyodDaraRa#}
+;---------------------------------------------------
+; <L>98303<pc>7-0109<k1>Salya<k2>Salya/
+908984 old <ls n="VARĀH. BṚH. S.">91,12.</ls> {#na SalyaM vA Gawayati na vAcA kurute vraRam#}
+;
+908984 new <ls n="SUŚR.">91,12.</ls> {#na SalyaM vA Gawayati na vAcA kurute vraRam#}
+;---------------------------------------------------
+; <L>98303<pc>7-0109<k1>Salya<k2>Salya/
+908987 old <ls n="VARĀH. BṚH. S.">59.</ls> {#aDarma#} {%eine Ungerechtigkeit%} verwundet als {#Salya#} den {#Darma#} {%die Gerechtigkeit%}
+;
+908987 new <ls n="VARĀH. BṚH. S. 53,">59.</ls> {#aDarma#} {%eine Ungerechtigkeit%} verwundet als {#Salya#} den {#Darma#} {%die Gerechtigkeit%}
+;---------------------------------------------------
+; <L>98355<pc>7-0113<k1>SaSa<k2>SaSa/
+909429 old <ls>VARĀH. BṚH. S. 3,30. 78,19. — 51,34. 86,22.</ls> {#(candramaRqalasya) dviraMSe pippalastatra dviraMSe ca SaSo mahAn#}
+;
+909429 new <ls>VARĀH. BṚH. S. 3,30. 78,19.</ls> — <ls n="VARĀH. BṚH. S.">51,34. 86,22.</ls> {#(candramaRqalasya) dviraMSe pippalastatra dviraMSe ca SaSo mahAn#}
+;---------------------------------------------------
+; <L>98471<pc>7-0120<k1>Sastra<k2>Sastra/<h>2
+910396 old <ls>VARĀH. BṚH. S. 78,1. 55,15. — 42,6. 46,71. 50,25. 53,102. 69,30. 95,23.</ls> <ls>RĀJA-TAR. 3,406.</ls> <ls>PAÑCAR. 1,1,80.</ls> <ls>PAÑCAT. 34,15.</ls> <ls n="PAÑCAT.">263,6.</ls> {#tErmuktAni ca SastrARi mahAstrARi mahAstrARi taTAsurEH#}
+;
+910396 new <ls>VARĀH. BṚH. S. 78,1. 55,15.</ls> — <ls n="VARĀH. BṚH. S.">42,6. 46,71. 50,25. 53,102. 69,30. 95,23.</ls> <ls>RĀJA-TAR. 3,406.</ls> <ls>PAÑCAR. 1,1,80.</ls> <ls>PAÑCAT. 34,15.</ls> <ls n="PAÑCAT.">263,6.</ls> {#tErmuktAni ca SastrARi mahAstrARi mahAstrARi taTAsurEH#}
+;---------------------------------------------------
+; <L>98471<pc>7-0120<k1>Sastra<k2>Sastra/<h>2
+910409 old <ls n="VARĀH. BṚH. S.">68,29.</ls> {#°niryARa#} <lex>adj.</lex> dass. 37. {#SastrAnta#} <lex>adj.</lex> dass.
+;
+910409 new <ls n="VARĀH. BṚH. S.">68,29.</ls> {#°niryARa#} <lex>adj.</lex> dass. <ls n="VARĀH. BṚH. S. 68,">37.</ls> {#SastrAnta#} <lex>adj.</lex> dass.
+;---------------------------------------------------
+; <L>98471<pc>7-0120<k1>Sastra<k2>Sastra/<h>2
+910410 old <ls n="VARĀH. BṚH. S.">24. 31.</ls> {#yadasyAmAkftO SastraM vyApArayitumicCasi#}
+;
+910410 new <ls n="VARĀH. BṚH. S. 68,">24. 31.</ls> {#yadasyAmAkftO SastraM vyApArayitumicCasi#}
+;---------------------------------------------------
+; <L>98476<pc>7-0121<k1>Sastrakopa<k2>Sastrakopa
+910471 old <ls n="VARĀH. BṚH. S.">59. 8,3. 9,44. 30,21</ls> ({#°karin#}).
+;
+910471 new <ls n="VARĀH. BṚH. S. 5,">59. 8,3. 9,44. 30,21</ls> ({#°karin#}).
+;---------------------------------------------------
+; <L>98810<pc>7-0142<k1>SAnti<k2>SA/nti
+913206 old <ls n="VARĀH. BṚH. S.">6. 21.</ls> {#nfpaH SAntiM prayuYjIta#}
+;
+913206 new <ls n="VARĀH. BṚH. S. 44,">6. 21.</ls> {#nfpaH SAntiM prayuYjIta#}
+;---------------------------------------------------
+; <L>98810<pc>7-0142<k1>SAnti<k2>SA/nti
+913208 old <ls n="VARĀH. BṚH. S.">82. 97,17. 98,6. 104,8.</ls>
+;
+913208 new <ls n="VARĀH. BṚH. S. 48,">82. 97,17. 98,6. 104,8.</ls>
+;---------------------------------------------------
+; <L>99213<pc>7-0173<k1>Sikya<k2>Sikya^
+917026 old <ls n="VARĀH. BṚH. S.">7.</ls> <ls>MIT. 145,20. fgg.</ls> (<ls>Z. d. d. m. G. 9,666</ls>). zur Aufbewahrung von Wasser
+;
+917026 new <ls n="VARĀH. BṚH. S. 26,">7.</ls> <ls>MIT. 145,20. fgg.</ls> (<ls>Z. d. d. m. G. 9,666</ls>). zur Aufbewahrung von Wasser
+;---------------------------------------------------
+; <L>101248<pc>7-0321<k1>SOlika<k2>SOlika
+936402 old <ls>VARĀH. BṚH. S. 14,8. v. l.</ls> {#SUlika, sUlika, mOlika#} .
+;
+936402 new <ls>VARĀH. BṚH. S. 14,8, v. l.</ls> {#SUlika, sUlika, mOlika#} .
+;---------------------------------------------------
+; <L>101477<pc>7-0342<k1>SravaRa<k2>SravaRa<h>4
+938928 old <ls n="VARĀH. BṚH. S.">36.</ls> <ls>Verz. d. Oxf. H. 51,b,11.</ls>
+;
+938928 new <ls n="VARĀH. BṚH. S. 87,">36.</ls> <ls>Verz. d. Oxf. H. 51,b,11.</ls>
+;---------------------------------------------------
+; <L>102009<pc>7-0399<k1>SlakzRa<k2>SlakzRa/
+945381 old <ls n="VARĀH. BṚH. S.">54.</ls> {#°snigDApANgena cakzuzA#}
+;
+945381 new <ls n="VARĀH. BṚH. S. 68,">54.</ls> {#°snigDApANgena cakzuzA#}
+;---------------------------------------------------
+; <L>102040<pc>7-0402<k1>Sliz<k2>Sliz<h>2
+945737 old <ls n="VARĀH. BṚH. S.">38.</ls> {#saMGAta iti suSlizwasaMDitA#}
+;
+945737 new <ls n="VARĀH. BṚH. S. 68,">38.</ls> {#saMGAta iti suSlizwasaMDitA#}
+;---------------------------------------------------
+; <L>102040<pc>7-0402<k1>Sliz<k2>Sliz<h>2
+945738 old <ls n="VARĀH. BṚH. S.">100.</ls> {#SlizwasaMDika#}
+;
+945738 new <ls n="VARĀH. BṚH. S. 68,">100.</ls> {#SlizwasaMDika#}
+;---------------------------------------------------
+; <L>102060<pc>7-0407<k1>Slezman<k2>Slezma/n
+946120 old <ls n="VARĀH. BṚH. S.">33.</ls> <ls>MĀRK. P. 14,79.</ls> <ls>BHĀG. P. 5,26,23.</ls> {#SlezmApihitalocana#}
+;
+946120 new <ls n="VARĀH. BṚH. S. 51,">33.</ls> <ls>MĀRK. P. 14,79.</ls> <ls>BHĀG. P. 5,26,23.</ls> {#SlezmApihitalocana#}
+;---------------------------------------------------
+; <L>102630<pc>7-0444<k1>zazwyabda<k2>zazwyabda
+950857 old <ls n="VARĀH. BṚH. S.">52.</ls>
+;
+950857 new <ls n="VARĀH. BṚH. S. 8,">52.</ls>
+;---------------------------------------------------
+; <L>102856<pc>7-0466<k1>saMvarta<k2>saMvarta/
+953228 old <ls n="VARĀH. BṚH. S.">6. 9.</ls>
+;
+953228 new <ls n="VARĀH. BṚH. S. 20,">6. 9.</ls>
+;---------------------------------------------------
+; <L>103164<pc>7-0495<k1>saMsTAna<k2>saMsTAna
+956432 old <ls n="R. 1,">31,29.</ls> <ls n="R. 1,">32,3.</ls> <ls n="R. 1,32,">5.</ls> <ls>Spr. (II) 1834.</ls> <ls>CARAKA 2,1. 3,7. 8,5.</ls> <ls>SUŚR. 1,259,7. 299,4.</ls> <ls>ŚĀK. 126.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 16. S. 6, Z. 16. 3,17. 4,8. 18. 11,26. fg. 26,2. 33,4. 35,1. 50,7. 66,1. 82,3</ls> ({#su°#} adj.).
+;
+956432 new <ls n="R. 1,">31,29.</ls> <ls n="R. 1,">32,3.</ls> <ls n="R. 1,32,">5.</ls> <ls>Spr. (II) 1834.</ls> <ls>CARAKA 2,1. 3,7. 8,5.</ls> <ls>SUŚR. 1,259,7. 299,4.</ls> <ls>ŚĀK. 126.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 16. S. 6, Z. 16.</ls> <ls n="VARĀH. BṚH. S.">3,17. 4,8. 18. 11,26. fg. 26,2. 33,4. 35,1. 50,7. 66,1. 82,3</ls> ({#su°#} adj.).
+;---------------------------------------------------
+; <L>103522<pc>7-0526<k1>saMkzaya<k2>saMkzaya
+960059 old <ls n="VARĀH. BṚH. S.">52.</ls> <ls>R. GORR. 2,68,55.</ls> <ls n="R. GORR.">6,33,51.</ls> <ls>KATHĀS. 22,42.</ls> <ls>HARIV. 5600.</ls> {#dAnava°#}
+;
+960059 new <ls n="VARĀH. BṚH. S. 46,">52.</ls> <ls>R. GORR. 2,68,55.</ls> <ls n="R. GORR.">6,33,51.</ls> <ls>KATHĀS. 22,42.</ls> <ls>HARIV. 5600.</ls> {#dAnava°#}
+;---------------------------------------------------
+; <L>103525<pc>7-0527<k1>saMkzipta<k2>saMkzipta
+960122 old <ls n="VARĀH. BṚH. S.">10. 14.</ls>
+;
+960122 new <ls n="VARĀH. BṚH. S. 7,">10. 14.</ls>
+;---------------------------------------------------
+; <L>103843<pc>7-0556<k1>saYj<k2>saYj
+963728 old <ls>VARĀH. BṚH. S. 46,76. KATHAS. 16,105.</ls> <ls>BHĀG. P. 4,27,12.</ls> <ls>MĀRK. P. 50,74.</ls> <ls>BHAG. 7,1.</ls> <ls>KATHĀS. 45,276.</ls> <ls>BHĀG. P. 3,32,16.</ls> <ls>ŚUK. in LA. (III) 32,11.</ls> <ls>R. 2,21,19.</ls> <ls>KATHĀS. 15,3.</ls> <ls>BRAHMA-P. in LA. (III) 54,12. 19.</ls> <ls>BHĀG. P. 3,30,6.</ls> <ls n="BHĀG. P.">4,25,3.</ls> <ls n="BHĀG. P.">9,22,23.</ls> von Personen {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, obliegend, sich beschäftigend mit%}; = {#tatpara#}
+;
+963728 new <ls>VARĀH. BṚH. S. 46,76.</ls> <ls>KATHĀS. 16,105.</ls> <ls>BHĀG. P. 4,27,12.</ls> <ls>MĀRK. P. 50,74.</ls> <ls>BHAG. 7,1.</ls> <ls>KATHĀS. 45,276.</ls> <ls>BHĀG. P. 3,32,16.</ls> <ls>ŚUK. in LA. (III) 32,11.</ls> <ls>R. 2,21,19.</ls> <ls>KATHĀS. 15,3.</ls> <ls>BRAHMA-P. in LA. (III) 54,12. 19.</ls> <ls>BHĀG. P. 3,30,6.</ls> <ls n="BHĀG. P.">4,25,3.</ls> <ls n="BHĀG. P.">9,22,23.</ls> von Personen {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, obliegend, sich beschäftigend mit%}; = {#tatpara#}
+;---------------------------------------------------
+; <L>104019<pc>7-0575<k1>sattva<k2>sattva/
+965516 old <ls n="VARĀH. BṚH. S.">85.</ls> <ls>SUŚR. 1,124,12.</ls> {#adIna°#} <lex>adj.</lex>
+;
+965516 new <ls n="VARĀH. BṚH. S. 68,">85.</ls> <ls>SUŚR. 1,124,12.</ls> {#adIna°#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>104428<pc>7-0615<k1>sadyovarza<k2>sadyovarza
+970097 old <ls>VARĀH. BṚH. S. 2, S. 6, Z. 21. 34,7. 47,22.</ls>
+;
+970097 new <ls>VARĀH. BṚH. S. 2, S. 6, Z. 21.</ls> <ls n="VARĀH. BṚH. S.">34,7. 47,22.</ls>
+;---------------------------------------------------
+; <L>104825<pc>7-0651<k1>saMnipAta<k2>saMnipAta
+974374 old <ls n="VARĀH. BṚH. S.">8. 9.</ls>
+;
+974374 new <ls n="VARĀH. BṚH. S. 20,">8. 9.</ls>
+;---------------------------------------------------
+; <L>105208<pc>7-0674<k1>sama<k2>sama/<h>2
+977540 old <ls n="VARĀH. BṚH. S.">38. 42. 20,9. 53,92.</ls> {#pravarasamanyUnaparimARa#}
+;
+977540 new <ls n="VARĀH. BṚH. S. 8,">38. 42. 20,9. 53,92.</ls> {#pravarasamanyUnaparimARa#}
+;---------------------------------------------------
+; <L>105517<pc>7-0699<k1>samAgama<k2>samAgama
+980432 old <ls>VARĀH. BṚH. S. 2, S. 6, Z. 17. 20. 17,11. fg. 20,4. 5. 8. 9. 28,20. 47,1.</ls> <ls>BṚH. 2,20. 14,5.</ls> {#pracuravitta°#} <lex>adj.</lex> (f. {#A#}) {%das Zusammenkommen —, Zufliessen von Reichthümern%}
+;
+980432 new <ls>VARĀH. BṚH. S. 2, S. 6, Z. 17. 20.</ls> <ls n="VARĀH. BṚH. S.">17,11. fg. 20,4. 5. 8. 9. 28,20. 47,1.</ls> <ls>BṚH. 2,20. 14,5.</ls> {#pracuravitta°#} <lex>adj.</lex> (f. {#A#}) {%das Zusammenkommen —, Zufliessen von Reichthümern%}
+;---------------------------------------------------
+; <L>105708<pc>7-0712<k1>samAsa<k2>samAsa
+982047 old <ls>VARĀH. BṚH. S. 12, Anf. 56,31.</ls> {#samAsatas#} dass.
+;
+982047 new <ls>VARĀH. BṚH. S. 12, Anf.</ls> <ls n="VARĀH. BṚH. S.">56,31.</ls> {#samAsatas#} dass.
+;---------------------------------------------------
+; <L>106797<pc>7-0819<k1>sarvatoBadra<k2>sarvatoBadra
+994373 old <ls>VARĀH. BṚH. S. 56,27</ls>; vgl. {#°ka#} und
+;
+994373 new <ls>VARĀH. BṚH. S. 56,27</ls>;
+;---------------------------------------------------
+; <L>106797<pc>7-0819<k1>sarvatoBadra<k2>sarvatoBadra
+994374 old <ls n="VARĀH. BṚH. S.">4</ls>) {%a%}).
+;
+994374 new vgl. {#°ka#} und 4) a).
+;---------------------------------------------------
+; <L>107025<pc>7-0829<k1>sarvaSAkuna<k2>sarvaSAkuna
+995968 old <ls>VARĀH. BṚH. S. 86,4</ls> und in den Unterschrr. der <is>Adhyāya</is>
+;
+995968 new <ls>VARĀH. BṚH. S. 86,4</ls> und 
+;---------------------------------------------------
+; <L>107025<pc>7-0829<k1>sarvaSAkuna<k2>sarvaSAkuna
+995969 old <ls n="VARĀH. BṚH. S.">86. fgg.</ls>
+;
+995969 new in den Unterschrr. der <is>Adhyāya</is> 86. fgg.
+;---------------------------------------------------
+; <L>107462<pc>7-0852<k1>sah<k2>sah<h>1
+999302 old <ls n="Spr. (II)">4710.</ls> <ls>VARĀH. BṚH. S. 104,24 (act.).</ls> <ls>WILSON, SĀṂKHYAK. S. 10</ls> ({#upAyasta°#} zu lesen). mit dem loc. eines nom. act.: {#taM garBamasahantI viDAraRe . utsasarja girO#}
+;
+999302 new <ls n="Spr. (II)">4710.</ls> <ls>VARĀH. BṚH. S. 104,24</ls> (act.). <ls>WILSON, SĀṂKHYAK. S. 10</ls> ({#upAyasta°#} zu lesen). mit dem loc. eines nom. act.: {#taM garBamasahantI viDAraRe . utsasarja girO#}
+;---------------------------------------------------
+; <L>107869<pc>7-0887<k1>sAMvatsara<k2>sAMvatsara/
+1003273 old <ls n="MBH. 12,">3243.</ls> <ls n="MBH.">13,6209.</ls> <ls>KĀM. NĪTIS. 4,33.</ls> <ls>Spr. (II) 6285.</ls> <ls>P. 1,3,50</ls>, Schol. <ls>VARĀH. BṚH. S. 2, Anf. 10. fgg. 12,15. 43,30. 53,1. 98.</ls> {#°pAWin#}
+;
+1003273 new <ls n="MBH. 12,">3243.</ls> <ls n="MBH.">13,6209.</ls> <ls>KĀM. NĪTIS. 4,33.</ls> <ls>Spr. (II) 6285.</ls> <ls>P. 1,3,50</ls>, Schol. <ls>VARĀH. BṚH. S. 2, Anf. 10. fgg.</ls> <ls n="VARĀH. BṚH. S.">12,15. 43,30. 53,1. 98.</ls> {#°pAWin#}
+;---------------------------------------------------
+; <L>107869<pc>7-0887<k1>sAMvatsara<k2>sAMvatsara/
+1003274 old <ls n="VARĀH. BṚH. S.">2,13</ls> (aus <is>Garga</is>). {#°sUtra#} 2, Anf.
+;
+1003274 new <ls n="VARĀH. BṚH. S.">2,13</ls> (aus <is>Garga</is>). {#°sUtra#} <ls n="VARĀH. BṚH. S.">2, Anf.</ls>
+;---------------------------------------------------
+; <L>108516<pc>7-0937<k1>sAmin<k2>sAmin
+1009265 old <ls>VARĀH. BṚH. S. 69,31. 39. v. l.</ls> {#sAvin#} .
+;
+1009265 new <ls>VARĀH. BṚH. S. 69,31. 39, v. l.</ls> {#sAvin#} .
+;---------------------------------------------------
+; <L>108578<pc>7-0941<k1>sAmya<k2>sAmya
+1009803 old <ls>VARĀH. BṚH. S. 2, S. 4, Z. 10. 76,1.</ls> <ls>MĀRK. P. 113,7.</ls> <ls>NAIṢ. 22,46.</ls> <ls>RĀJA-TAR. 3,494.</ls> <ls>SĀH. D. 6,13.</ls> <ls n="SĀH. D.">55,19.</ls> <ls>BHĀG. P. 2,4,14.</ls> <ls n="BHĀG. P.">9,11,20.</ls> Comm. zu <ls>TS. PRĀT. 2,20.</ls> <ls n="TS. PRĀT. 2,">39.</ls> <ls n="TS. PRĀT. 2,">45.</ls> <ls n="TS. PRĀT.">8,16.</ls> <ls>SARVADARŚANAS. 61,11. 118,19.</ls> {#cetasAm#}
+;
+1009803 new <ls>VARĀH. BṚH. S. 2, S. 4, Z. 10.</ls> <ls n="VARĀH. BṚH. S.">76,1.</ls> <ls>MĀRK. P. 113,7.</ls> <ls>NAIṢ. 22,46.</ls> <ls>RĀJA-TAR. 3,494.</ls> <ls>SĀH. D. 6,13.</ls> <ls n="SĀH. D.">55,19.</ls> <ls>BHĀG. P. 2,4,14.</ls> <ls n="BHĀG. P.">9,11,20.</ls> Comm. zu <ls>TS. PRĀT. 2,20.</ls> <ls n="TS. PRĀT. 2,">39.</ls> <ls n="TS. PRĀT. 2,">45.</ls> <ls n="TS. PRĀT.">8,16.</ls> <ls>SARVADARŚANAS. 61,11. 118,19.</ls> {#cetasAm#}
+;---------------------------------------------------
+; <L>108632<pc>7-0945<k1>sAra<k2>sA/ra<h>2
+1010419 old <ls n="VARĀH. BṚH. S.">100.</ls> <ls>LAGHUJ. 2,13. fgg.</ls>
+;
+1010419 new <ls n="VARĀH. BṚH. S. 68,">100.</ls> <ls>LAGHUJ. 2,13. fgg.</ls>
+;---------------------------------------------------
+; <L>109006<pc>7-0971<k1>siMha<k2>siMha/
+1013635 old <ls n="Spr. (II)">7042.</ls> — <ls>VARĀH. BṚH. S. 43. 57. 48,13.</ls> <ls>KATHĀS. 70,101.</ls> <ls>RĀJA-TAR. 4,450.</ls> {#°daMpatI#}
+;
+1013635 new <ls n="Spr. (II)">7042.</ls> — <ls>VARĀH. BṚH. S. 43,57. 48,13.</ls> <ls>KATHĀS. 70,101.</ls> <ls>RĀJA-TAR. 4,450.</ls> {#°daMpatI#}
+;---------------------------------------------------
+; <L>109093<pc>7-0976<k1>siMhAcArya<k2>siMhAcArya
+1014300 old <ls>VARĀH. BṚH. S. 53</ls>; vgl.
+;
+1014300 new <ls>VARĀH. BṚH. S. 53</ls>;
+;---------------------------------------------------
+; <L>109093<pc>7-0976<k1>siMhAcArya<k2>siMhAcArya
+1014301 old <ls>WEBER, JYOT. 10.</ls>
+;
+1014301 new vgl. <ls>WEBER, JYOT. 10.</ls>
+;---------------------------------------------------
+; <L>109403<pc>7-0995<k1>sidDi<k2>sidDi
+1016941 old <ls n="VARĀH. BṚH. S.">87.</ls> <ls>R. 1,62,20.</ls> <ls>BRAHMA-P. in LA. (III) 48,17.</ls> {#pra-Ap#}
+;
+1016941 new <ls n="VARĀH. BṚH. S. 48,">87.</ls> <ls>R. 1,62,20.</ls> <ls>BRAHMA-P. in LA. (III) 48,17.</ls> {#pra-Ap#}
+;---------------------------------------------------
+; <L>109956<pc>7-1041<k1>suKin<k2>suKi/n
+1022405 old <ls n="VARĀH. BṚH. S.">21. 59.</ls> <ls>BṚH. 4,10</ls> ({#garBa#}).
+;
+1022405 new <ls n="VARĀH. BṚH. S. 68,">21. 59.</ls> <ls>BṚH. 4,10</ls> ({#garBa#}).
+;---------------------------------------------------
+; <L>111359<pc>7-1119<k1>surejya<k2>surejya
+1033732 old <ls n="VARĀH. BṚH. S.">27. 69,5.</ls> <ls>BṚH. 2,11.</ls> <ls>LAGHUJ. 2,6.</ls>
+;
+1033732 new <ls n="VARĀH. BṚH. S. 8,">27. 69,5.</ls> <ls>BṚH. 2,11.</ls> <ls>LAGHUJ. 2,6.</ls>
+;---------------------------------------------------
+; <L>112180<pc>7-1162<k1>sUtra<k2>sU/tra
+1040186 old <ls n="VARĀH. BṚH. S.">110.</ls> <ls>RĀJA-TAR. 4,65.</ls> {#taTEva karmasUtreRa PalaM DAtA dadAti ca#}
+;
+1040186 new <ls n="VARĀH. BṚH. S. 53,">110.</ls> <ls>RĀJA-TAR. 4,65.</ls> {#taTEva karmasUtreRa PalaM DAtA dadAti ca#}
+;---------------------------------------------------
+; <L>112728<pc>7-1198<k1>sEnya<k2>sE/nya
+1045113 old <ls n="VARĀH. BṚH. S.">11. 95,46.</ls>
+;
+1045113 new <ls n="VARĀH. BṚH. S. 90,">11. 95,46.</ls>
+;---------------------------------------------------
+; <L>113514<pc>7-1243<k1>sKal<k2>sKal
+1051363 old <ls>VARĀH. BṚH. S. 16. 33.</ls> {#priyaSravasyasKalitA matirmama#}
+;
+1051363 new <ls>VARĀH. BṚH. S. 16,33.</ls> {#priyaSravasyasKalitA matirmama#}
+;---------------------------------------------------
+; <L>113603<pc>7-1255<k1>stamBa<k2>stamBa
+1052547 old <ls n="VARĀH. BṚH. S.">76. 112. 97,6.</ls> <ls>KATHĀS. 26,44.</ls> <ls n="KATHĀS.">29,59.</ls> <ls n="KATHĀS.">34,145.</ls> <ls n="KATHĀS.">37,8.</ls> <ls n="KATHĀS.">45,136.</ls> <ls>RĀJA-TAR. 5,107. 6,96.</ls> <ls>BHĀG. P. 3,23,13.</ls> <ls n="BHĀG. P.">7,8,13.</ls> <ls n="BHĀG. P. 7,8,">15.</ls> <ls n="BHĀG. P. 7,8,">18.</ls> <ls>PAÑCAR. 1,7,56.</ls> <ls>HIT. 64,7.</ls> {#devatApratimA°#}
+;
+1052547 new <ls n="VARĀH. BṚH. S. 53,">76. 112. 97,6.</ls> <ls>KATHĀS. 26,44.</ls> <ls n="KATHĀS.">29,59.</ls> <ls n="KATHĀS.">34,145.</ls> <ls n="KATHĀS.">37,8.</ls> <ls n="KATHĀS.">45,136.</ls> <ls>RĀJA-TAR. 5,107. 6,96.</ls> <ls>BHĀG. P. 3,23,13.</ls> <ls n="BHĀG. P.">7,8,13.</ls> <ls n="BHĀG. P. 7,8,">15.</ls> <ls n="BHĀG. P. 7,8,">18.</ls> <ls>PAÑCAR. 1,7,56.</ls> <ls>HIT. 64,7.</ls> {#devatApratimA°#}
+;---------------------------------------------------
+; <L>113833<pc>7-1278<k1>strIlakzaRa<k2>strIlakzaRa
+1055202 old <ls>MBH. 5,7533.</ls> <ls>Verz. d. Oxf. H. 30,b,22. 31,a,29. fg. 85,a,23.b,45. fg.</ls> <ls>VARĀH. BṚH. S. 2, S. 7, Z. 5. 78,18.</ls> Titel des 70ten <is>Adhyāya</is>.
+;
+1055202 new <ls>MBH. 5,7533.</ls> <ls>Verz. d. Oxf. H. 30,b,22. 31,a,29. fg. 85,a,23.b,45. fg.</ls> <ls>VARĀH. BṚH. S. 2, S. 7, Z. 5.</ls> <ls n="VARĀH. BṚH. S.">78,18.</ls> Titel des 70ten <is>Adhyāya</is>.
+;---------------------------------------------------
+; <L>113947<pc>7-1320<k1>sTAna<k2>sTA/na
+1059276 old <ls n="VARĀH. BṚH. S.">7.</ls> <ls>KATHĀS. 24,25</ls> (zugleich Bed. {%u.%})
+;
+1059276 new <ls n="VARĀH. BṚH. S. 104,">7.</ls> <ls>KATHĀS. 24,25</ls> (zugleich Bed. {%u.%})
+;---------------------------------------------------
+; <L>114114<pc>7-1339<k1>sTUla<k2>sTUla/
+1061439 old <ls n="VARĀH. BṚH. S.">67. 99. 69,33. 70,21.</ls> <ls>PAÑCAR. 1,14,57.</ls> <ls>Z. d. d. m. G. 27,30</ls> ({#sTUlasTUla#}).{# tvac#} (die sonst {#mAMsaDarA#} heisst)
+;
+1061439 new <ls n="VARĀH. BṚH. S. 68,">67. 99. 69,33. 70,21.</ls> <ls>PAÑCAR. 1,14,57.</ls> <ls>Z. d. d. m. G. 27,30</ls> ({#sTUlasTUla#}).{# tvac#} (die sonst {#mAMsaDarA#} heisst)
+;---------------------------------------------------
+; <L>114231<pc>7-1344<k1>snA<k2>snA<h>1
+1062292 old <ls>VARĀH. BṚH. S. 78. 21.</ls> {#vedamaDItya snAyAditi smftiH#}
+;
+1062292 new <ls>VARĀH. BṚH. S. 78,21.</ls> {#vedamaDItya snAyAditi smftiH#}
+;---------------------------------------------------
+; <L>114309<pc>7-1352<k1>sneha<k2>sneha
+1063134 old <ls n="VARĀH. BṚH. S.">101. 69,5.</ls> {#paYca°#} <lex>adj.</lex>
+;
+1063134 new <ls n="VARĀH. BṚH. S. 68,">101. 69,5.</ls> {#paYca°#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>114485<pc>7-1373<k1>sPuw<k2>sPuw
+1065380 old <ls n="VARĀH. BṚH. S.">52.</ls> {#sPuwitAgrAH#} Haare 82.
+;
+1065380 new <ls n="VARĀH. BṚH. S. 68,">52.</ls> {#sPuwitAgrAH#} Haare 82.
+;---------------------------------------------------
+; <L>114485<pc>7-1373<k1>sPuw<k2>sPuw
+1065381 old <ls n="VARĀH. BṚH. S.">57. 61,14.</ls>
+;
+1065381 new <ls n="VARĀH. BṚH. S. 68,">57. 61,14.</ls>
+;---------------------------------------------------
+; <L>115162<pc>7-1442<k1>svara<k2>svara/
+1073193 old <ls n="VARĀH. BṚH. S.">95. 69,5.</ls> {#maDurasvaravihaMgamfga°#}
+;
+1073193 new <ls n="VARĀH. BṚH. S. 68,">95. 69,5.</ls> {#maDurasvaravihaMgamfga°#}
+;---------------------------------------------------
+; <L>117651<pc>7-1660<k1>hez<k2>hez
+1099404 old <ls n="VARĀH. BṚH. S.">11.</ls> med. {#he/zate#}
+;
+1099404 new <ls n="VARĀH. BṚH. S. 93,">11.</ls> med. {#he/zate#}
+;---------------------------------------------------
+; <L>117762<pc>7-1668<k1>horA<k2>horA
+1100464 old <ls>H. an.</ls> <ls>MED.</ls> <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. 1,3.</ls> <ls>KĀM. NĪTIS. 4,33.</ls> <ls>VARĀH. BṚH. S. 1,9. 10. 2,3. 7</ls> (aus <ls>GARGA</ls>). <ls n="VARĀH. BṚH. S.">21</ls> (gleichfalls).
+;
+1100464 new <ls>H. an.</ls> <ls>MED.</ls> <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. 1,3.</ls> <ls>KĀM. NĪTIS. 4,33.</ls> <ls>VARĀH. BṚH. S. 1,9. 10. 2,3. 7</ls> (aus <ls>GARGA</ls>). <ls n="VARĀH. BṚH. S. 2,">21</ls> (gleichfalls).
+;---------------------------------------------------
+; <L>117817<pc>7-1672<k1>hrasva<k2>hrasva/
+1100967 old <ls n="VARĀH. BṚH. S.">84.</ls> —
+;
+1100967 new <ls n="VARĀH. BṚH. S. 68,">84.</ls> —
+;---------------------------------------------------

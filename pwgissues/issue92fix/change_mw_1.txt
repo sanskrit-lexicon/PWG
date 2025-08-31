@@ -1,0 +1,105 @@
+; <L>19980<pc>115,2<k1>aSvayuj<k2>aSva—yu/j<e>3B
+71454 old <s>aSva—yu/j</s> ¦ (<s>k</s>), <lex>f.</lex> <ab>sg.</ab> <ab>N.</ab> of a constellation (the head of Aries), <ls>Pāṇ. iv, 3, 36</ls>; <ls>VarBṛS. iv, 3, 36</ls>; <ls>VarBṛS.</ls> &c.<info lex="f"/>
+;
+71454 new <s>aSva—yu/j</s> ¦ (<s>k</s>), <lex>f.</lex> <ab>sg.</ab> <ab>N.</ab> of a constellation (the head of Aries), <ls>Pāṇ. iv, 3, 36</ls>; <ls>VarBṛS.</ls> &c.<info lex="f"/>
+;---------------------------------------------------
+; <L>31351<pc>179,1<k1>uttarozWa<k2>uttarozWa<e>3
+110734 old <div n="P"/> the upper part of a pillar, <ls>VarBṛS. 53, 29.</ls><info lex="m"/>
+;
+110734 new <div n="P"/> the upper part of a pillar, <ls>VarBṛS. liii, 29.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>32439.3<pc>185,1<k1>udAsa<k2>ud-Asa<e>2A
+114507 old ¦ (with <s>garBasya</s>) abortion, <ls>VarBṛS. 51, 38.</ls><info lex="inh"/>
+;
+114507 new ¦ (with <s>garBasya</s>) abortion, <ls>VarBṛS. li, 38.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>33053<pc>188,3<k1>uddyotin<k2>uddyotin<e>2
+116602 old <s>uddyotin</s> ¦ <lex>mfn.</lex> shining upwards, <ls>VarBṛS. 30, 10.</ls><info lex="m:f:n"/>
+;
+116602 new <s>uddyotin</s> ¦ <lex>mfn.</lex> shining upwards, <ls>VarBṛS. xxx, 10.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>33126<pc>189,1<k1>ujjihAna<k2>uj-ji/hAna<e>2B
+116843 old <s>uj-ji/hAna</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people, <ls>VarBṛS. 14, 2</ls><info lex="m"/>
+;
+116843 new <s>uj-ji/hAna</s> ¦ (<s>As</s>), <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people, <ls>VarBṛS. xiv, 2</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>34730<pc>199,2<k1>upadigDa<k2>upa-digDa<e>2A
+122305 old ¦ fat, <ls>VarBṛS. 67, 1.</ls><info lex="inh"/>
+;
+122305 new ¦ fat, <ls>VarBṛS. lxvii, 1.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>41535<pc>241,3<k1>kakzA<k2>ka/kzA<e>1B
+145399 old ¦ balance, equality, similarity, resemblance, <ls>MBh. xii, 7269</ls>; <ls>VarBṛS. 26, 6</ls><info lex="inh"/>
+;
+145399 new ¦ balance, equality, similarity, resemblance, <ls>MBh. xii, 7269</ls>; <ls>VarBṛS. xxvi, 6</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>44424<pc>255,1<k1>karawa<k2>karawa<e>1B
+154916 old <s>karawa</s> ¦ <lex>mfn.</lex> dark-red, <ls>VarBṛS. 61, 2</ls>; <ls n="VarBṛS. 61,">6.</ls><info lex="m:f:n"/>
+;
+154916 new <s>karawa</s> ¦ <lex>mfn.</lex> dark-red, <ls>VarBṛS. lxi, 2</ls>; <ls n="VarBṛS. lxi,">6.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>67288<pc>365,3<k1>gopIta<k2>go—pIta<e>3
+228302 old <s>go—pIta</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the 4 water-wagtails (regarded as birds of augury), <ls>VarBṛS. vl, 3, 1.</ls><info lex="m"/>
+;
+228302 new <s>go—pIta</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the 4 water-wagtails (regarded as birds of augury), <ls>VarBṛS. vl, 3.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>67289<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+228307 old <L>67289<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+;
+228307 new <L>67289<pc>365,3<k1>gopITa<k2>go—pITa/<h>1<e>3
+;---------------------------------------------------
+; <L>67289<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+228308 old <s>go—pITa/</s> ¦ <lex>m.</lex> (√ <hom>1.</hom> <s>pA</s>) a draught of milk, <ls>RV. i, 19, 1</ls>; <ls>ŚBr. iii, 2.</ls><info lex="m"/><info hui="a"/>
+;
+228308 new <hom>1.</hom> <s>go—pITa/</s> ¦ <lex>m.</lex> (√ <hom>1.</hom> <s>pA</s>) a draught of milk, <ls>RV. i, 19, 1</ls>; <ls>ŚBr. iii.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>67290<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+228310 old <L>67290<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+;
+228310 new <L>67290<pc>365,3<k1>gopITa<k2>go—pITa/<h>2<e>3
+;---------------------------------------------------
+; <L>67290<pc>365,3<k1>gopITa<k2>go—pITa/<e>3
+228311 old <s>go—pITa/</s> ¦ <lex>m.</lex> (√ <hom>3.</hom> <s>pA</s>) protection, <ls>RV. v, 65, 6</ls>; <ls n="RV.">x, 35, 14</ls> and <ls n="RV. x,">77, 7</ls>; <ls>AV.</ls>; <ls>TS. ii</ls>; <ls>TBr. i</ls>; <ls>BhP. i</ls>, <ls n="BhP.">iv</ls>, <ls n="BhP.">v</ls><info lex="m"/><info hui="b"/>
+;
+228311 new <hom>2.</hom> <s>go—pITa/</s> ¦ <lex>m.</lex> (√ <hom>3.</hom> <s>pA</s>) protection, <ls>RV. v, 65, 6</ls>; <ls n="RV.">x, 35, 14</ls> and <ls n="RV. x,">77, 7</ls>; <ls>AV.</ls>; <ls>TS. ii</ls>; <ls>TBr. i</ls>; <ls>BhP. i</ls>, <ls n="BhP.">iv</ls>, <ls n="BhP.">v</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>69941<pc>378,2<k1>Gftakambala<k2>Gfta—kambala<e>3
+236842 old <s>Gfta—kambala</s> ¦ <lex>n.</lex> ‘ghee and a mantle’, consecration of a king, <ls>VarBṛS. ii, 5/6.</ls><info lex="n"/>
+;
+236842 new <s>Gfta—kambala</s> ¦ <lex>n.</lex> ‘ghee and a mantle’, consecration of a king, <ls>VarBṛS. ii, 5</ls>/<ls n="VarBṛS. ii,">6.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>72197<pc>389,2<k1>caradala<k2>cara—dala<e>3
+244396 old <s>cara—dala</s> ¦ <lex>n.</lex> = <s>-KaRqa</s>, <ls>VarBṛS. ii, 0/1</ls>; <ls>Sūryas. iii, 10</ls><info lex="n"/>
+;
+244396 new <s>cara—dala</s> ¦ <lex>n.</lex> = <s>-KaRqa</s>, <ls>VarBṛS. ii, 0</ls>/<ls n="VarBṛS. ii,">1</ls>; <ls>Sūryas. iii, 10</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>73993<pc>397,3<k1>citrin<k2>citrin<e>2
+250192 old <s>citrin</s> ¦ <lex>mfn.</lex> having variegated (black and grey) hair, <ls>VarBṛS. lxxvii, 4/5, 6</ls><info lex="m:f:n"/>
+;
+250192 new <s>citrin</s> ¦ <lex>mfn.</lex> having variegated (black and grey) hair, <ls>VarBṛS. lxxvii, 4</ls>/<ls n="VarBṛS. lxxvii,">5</ls>, <ls n="VarBṛS. lxxvii,">6</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>83422<pc>440,1<k1>tarkArI<k2>tarkArI<e>2A
+280778 old ¦ <bot>Premna spinosa</bot>, <ls>VarBṛS. xliv, 9/10</ls>;<info lex="inh"/>
+;
+280778 new ¦ <bot>Premna spinosa</bot>, <ls>VarBṛS. xliv, 9</ls>/<ls n="VarBṛS. xliv,">10</ls>;<info lex="inh"/>
+;---------------------------------------------------
+; <L>88610<pc>462,1<k1>truwi<k2>truwi<e>2A
+297637 old ¦ a very minute space of time, <ls>MBh. i, 1292</ls>; <ls>Hariv. 9529</ls>; <ls>VarBṛS. ii, 0/1</ls>; <ls>Sūryas.</ls>; <ls>BhP. iii, 11, 6</ls><info lex="inh"/>
+;
+297637 new ¦ a very minute space of time, <ls>MBh. i, 1292</ls>; <ls>Hariv. 9529</ls>; <ls>VarBṛS. ii, 0</ls>/<ls n="VarBṛS. ii,">1</ls>; <ls>Sūryas.</ls>; <ls>BhP. iii, 11, 6</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>88622<pc>462,1<k1>truwyavayava<k2>truwy-avayava<e>3
+297673 old <s>truwy-avayava</s> ¦ <lex>m.</lex> half a <s1 n="Truṭi">T°</s1>, <ls>VarBṛS. ii, 0/1.</ls><info lex="m"/>
+;
+297673 new <s>truwy-avayava</s> ¦ <lex>m.</lex> half a <s1 n="Truṭi">T°</s1>, <ls>VarBṛS. ii, 0</ls>/<ls n="VarBṛS. ii,">1.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>89061<pc>463,3<k1>tvac<k2>tva/c<e>2A
+299058 old ¦ <bot>Cassia</bot> bark, <ls>VarBṛS. lxxvii, 6</ls>; <ls n="VarBṛS. lxxvii,">12</ls>; <ls n="VarBṛS. lxxvii,">24</ls>; <ls n="VarBṛS.">32</ls><info lex="inh"/>
+;
+299058 new ¦ <bot>Cassia</bot> bark, <ls>VarBṛS. lxxvii, 6</ls>; <ls n="VarBṛS. lxxvii,">12</ls>; <ls n="VarBṛS. lxxvii,">24</ls>; <ls n="VarBṛS. lxxvii,">32</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>94105<pc>486,1<k1>durbali<k2>dur—bali<e>3
+315851 old <s>dur—bali</s>, <lex>m.</lex> (<ls>VarBṛS. lxxxviii, 88, 28</ls> <ab>v.l.</ab> <s>°la</s>) & <s>dur—ba°lika</s>, <lex>m.</lex> (<ls>ib.</ls>, <ls n="VarBṛS. lxxxviii, 88,">7</ls>) ¦ a kind of bird (= <s>BARqIka</s>). <info lex="m"/>
+;
+315851 new <s>dur—bali</s>, <lex>m.</lex> (<ls>VarBṛS. lxxxviii, 28</ls> <ab>v.l.</ab> <s>°la</s>) & <s>dur—ba°lika</s>, <lex>m.</lex> (<ls>ib.</ls>, <ls n="VarBṛS. lxxxviii,">7</ls>) ¦ a kind of bird (= <s>BARqIka</s>). <info lex="m"/>
+;---------------------------------------------------
