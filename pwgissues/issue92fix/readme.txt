@@ -1,4 +1,4 @@
-issue93fix/readme.txt
+issue92fix/readme.txt
 08-28-2025 begun ejf
 fix references to Bṛhatsam̃hitā of Varāhamihira, KERN, 1865
 

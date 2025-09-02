@@ -72,6 +72,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue149 MĀLAVIKĀGNIMITRA
 * issue152 HITOPADEŚA
 * issue153 GITAGOVINDA
+* issue153fix GITAGOVINDA
 * issue154 AMARAKOSHA COLEBROOKE
 * issue155 AMARAKOSHA concordance COLEBROOKE-DESLONGCHAMP
 * issue156 link target README.md improvement

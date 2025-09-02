@@ -1,0 +1,100 @@
+; <L>15590<pc>2-0142<k1>karz<k2>karz<h>1
+143512 old <ls n="HIT.">63,15.</ls> <ls>ŚĀK. 68,13.</ls> <ls>VID. 14.</ls> <ls n="VID.">149.</ls> <ls>GIT. 7,30.</ls> {#anAkfzwasya vizayEH#}
+;
+143512 new <ls n="HIT.">63,15.</ls> <ls>ŚĀK. 68,13.</ls> <ls>VID. 14.</ls> <ls n="VID.">149.</ls> <ls>GĪT. 7,30.</ls> {#anAkfzwasya vizayEH#}
+;---------------------------------------------------
+; <L>15603<pc>2-0150<k1>kal<k2>kal<h>2
+143972 old <ls n="GĪT.">16.</ls> {#kalitalalitavanamAla#}
+;
+143972 new <ls n="GĪT. 1,">16.</ls> {#kalitalalitavanamAla#}
+;---------------------------------------------------
+; <L>15603<pc>2-0150<k1>kal<k2>kal<h>2
+143973 old <ls n="GĪT.">17.</ls> {#kalitakamalA#}
+;
+143973 new <ls n="GĪT. 1,">17.</ls> {#kalitakamalA#}
+;---------------------------------------------------
+; <L>19764<pc>2-0477<k1>kram<k2>kram
+183338 old <ls>GĪT. 12. 27.</ls> {%zusammengerathen%}: {#samiva vA eza kramate#}
+;
+183338 new <ls>GĪT. 12,27.</ls> {%zusammengerathen%}: {#samiva vA eza kramate#}
+;---------------------------------------------------
+; <L>23082<pc>2-0796<k1>goRqakirI<k2>goRqakirI
+217729 old <ls>GIT. p. VIII.</ls> {#goRqakirIrAgeRa rUpakatAlena gIyate#}
+;
+217729 new <ls>GĪT. p. VIII.</ls> {#goRqakirIrAgeRa rUpakatAlena gIyate#}
+;---------------------------------------------------
+; <L>23082<pc>2-0796<k1>goRqakirI<k2>goRqakirI
+217730 old <ls n="GIT.">26.</ls> {#goRqAkrI#}
+;
+217730 new <ls n="GĪT.">26.</ls> {#goRqAkrI#}
+;---------------------------------------------------
+; <L>25762<pc>2-1044<k1>cumbana<k2>cumbana
+246268 old <ls n="GĪT.">13.</ls>
+;
+246268 new <ls n="GĪT. 2,">13.</ls>
+;---------------------------------------------------
+; <L>27203<pc>3-0074<k1>jAta<k2>jAta/
+261855 old <ls n="GĪT.">3.</ls> {#jAte#} {%im Allgemeinen%}
+;
+261855 new <ls n="GĪT. 10,">3.</ls> {#jAte#} {%im Allgemeinen%}
+;---------------------------------------------------
+; <L>28910<pc>3-0267<k1>taralay<k2>taralay
+281824 old <ls n="GĪT.">23.</ls>
+;
+281824 new <ls n="GĪT. 7,">23.</ls>
+;---------------------------------------------------
+; <L>31704<pc>3-0491<k1>daRqa<k2>daRqa/
+307669 old <ls>GIT. 11,34.</ls> {#BagnorudaRqe#} (nach
+;
+307669 new <ls>GĪT. 11,34.</ls> {#BagnorudaRqe#} (nach
+;---------------------------------------------------
+; <L>33178<pc>3-0653<k1>dIrGa<k2>dIrGa/
+324259 old <ls>CAURAP. 6.</ls> — <ls>RAGH. 2,28.</ls> <ls>ŚĀK. 180.</ls> <ls>GIT. 5,17.</ls> <ls>BHĀG. P. 1,6,24.</ls> <ls n="BHĀG. P.">4,20,4.</ls> <ls>RĀJA-TAR. 2,113.</ls> {#SvAsa#}
+;
+324259 new <ls>CAURAP. 6.</ls> — <ls>RAGH. 2,28.</ls> <ls>ŚĀK. 180.</ls> <ls>GĪT. 5,17.</ls> <ls>BHĀG. P. 1,6,24.</ls> <ls n="BHĀG. P.">4,20,4.</ls> <ls>RĀJA-TAR. 2,113.</ls> {#SvAsa#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+353985 old <ls n="GĪT.">6.</ls> {%aufspeichern%}: {#maDuganDatElaGftaPARitAni viniDAya dviguRA dvitIyamAse labDiH#}
+;
+353985 new <ls n="GĪT. 4,">6.</ls> {%aufspeichern%}: {#maDuganDatElaGftaPARitAni viniDAya dviguRA dvitIyamAse labDiH#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+353989 old <ls n="GĪT.">31.</ls> {%einsetzen in%}: {#yatrAhaM#} (<is>Indra</is> spricht) {#devAnAmEndre vinihitaH pade#}
+;
+353989 new <ls n="GĪT. 11,">31.</ls> {%einsetzen in%}: {#yatrAhaM#} (<is>Indra</is> spricht) {#devAnAmEndre vinihitaH pade#}
+;---------------------------------------------------
+; <L>38888<pc>4-0149<k1>nidAna<k2>nidA/na
+379894 old <ls n="SUŚR.">443,4. 457,18.</ls> <ls>RAGH. 3,1.</ls> <ls>KATHĀS. 15,141.</ls> <ls>GĪT. 1,20. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6,605, Śl. 15. 7,11, Śl. 43.</ls> <ls>KULL.</ls> zu <ls>M. 9,27.</ls>
+;
+379894 new <ls n="SUŚR.">443,4. 457,18.</ls> <ls>RAGH. 3,1.</ls> <ls>KATHĀS. 15,141.</ls> <ls>GĪT. 1,20.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6,605, Śl. 15. 7,11, Śl. 43.</ls> <ls>KULL.</ls> zu <ls>M. 9,27.</ls>
+;---------------------------------------------------
+; <L>54577<pc>5-0249<k1>BAra<k2>BAra/
+528647 old <ls>GĪT. 1. 39.</ls> {#SroRI°#}
+;
+528647 new <ls>GĪT. 1,39.</ls> {#SroRI°#}
+;---------------------------------------------------
+; <L>55166<pc>5-0314<k1>BU<k2>BU<h>1
+535900 old <ls>GĪT. 2. 11.</ls> {#SAstrajanitajYAnakarmaBAvitAH (devAH)#}
+;
+535900 new <ls>GĪT. 2,11.</ls> {#SAstrajanitajYAnakarmaBAvitAH (devAH)#}
+;---------------------------------------------------
+; <L>58209<pc>5-0607<k1>masfRa<k2>masfRa
+567734 old <ls n="GĪT.">1.</ls> <ls>UTTARARĀMAK. 83,5.</ls> = {#karkaSa#} (!) {%hart%}
+;
+567734 new <ls n="GĪT. 10,">1.</ls> <ls>UTTARARĀMAK. 83,5.</ls> = {#karkaSa#} (!) {%hart%}
+;---------------------------------------------------
+; <L>90853<pc>6-0987<k1>vikAra<k2>vikAra<h>1
+835231 old <ls>GĪT. 2,11.fg.</ls>
+;
+835231 new <ls>GĪT. 2,11. fg.</ls>
+;---------------------------------------------------
+; <L>90871<pc>6-0989<k1>vikAsa<k2>vikAsa
+835381 old <ls>HALĀY. 2,32.</ls> <ls>Spr. (II) 337.</ls> <ls>Spr. 2334.</ls> <ls>ŚIŚ. 9,41.</ls> <ls>GĪT. 1,30. 2,20. ad.</ls> <ls>KUMĀRAS. 3,26.</ls>
+;
+835381 new <ls>HALĀY. 2,32.</ls> <ls>Spr. (II) 337.</ls> <ls>Spr. 2334.</ls> <ls>ŚIŚ. 9,41.</ls> <ls>GĪT. 1,30. 2,20.</ls> ad. <ls>KUMĀRAS. 3,26.</ls>
+;---------------------------------------------------
+; <L>92920<pc>6-1164<k1>vilambana<k2>vilambana
+855679 old <ls n="GĪT.">8.</ls> {#kaliNgasenAvivAha°#}
+;
+855679 new <ls n="GĪT. 5,">8.</ls> {#kaliNgasenAvivAha°#}
+;---------------------------------------------------
