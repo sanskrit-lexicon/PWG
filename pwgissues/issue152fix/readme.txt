@@ -302,6 +302,16 @@ Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue152fix
 
+------------------
+# csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork
+git pull
+git add .
+git commit -m "issue152fix  'HIT. '
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue152fix
+
 ---------------------------------------------------
 sync to Cologne
 # connect to cologne server via ssh
@@ -310,6 +320,7 @@ sync to Cologne
 csl-orig # pull
 csl-websanlexicon # pull
 csl-apidev # pull
+csl-pywork # pull
 ---------------
 # redo the displays for pwg, pw, sch
 cd csl-pywork/v02
