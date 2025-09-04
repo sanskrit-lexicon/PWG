@@ -71,6 +71,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue148fix/bhartr 'BHARTṚ.  N,N'
 * issue149 MĀLAVIKĀGNIMITRA
 * issue152 HITOPADEŚA
+* issue152fix HITOPADEŚA split ls
 * issue153 GITAGOVINDA
 * issue153fix GITAGOVINDA
 * issue154 AMARAKOSHA COLEBROOKE

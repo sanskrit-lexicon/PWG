@@ -1,0 +1,15 @@
+; <L>31702<pc>2-113-a<k1>krama<k2>kra/ma
+126107 old <div n="1">— 3〉 {%Gang, Lauf, Verlauf%} <ls>HIT. 8,15. 39,5</ls>. <ls>MĀLATĪM. 18,3 (57,4)</ls>.
+;
+126107 new <div n="1">— 3〉 {%Gang, Lauf, Verlauf%} <ls>HIT. 8,15.</ls> <ls n="HIT.">39,5</ls>. <ls>MĀLATĪM. 18,3 (57,4)</ls>.
+;---------------------------------------------------
+; <L>31702<pc>2-113-a<k1>krama<k2>kra/ma
+126111 old <div n="1">— 7〉 {%regelmässiger Gang, Ordnung, Reihenfolge, Rangordnung, Erbfolge%}. {#krameRa, kramAt#} und {#kramatas#} {%der Ordnung —, der Reihe nach%}. {#tadanusaraRakrameRa#} so <ab>v. a.</ab> {%stets hinter ihm her%} <ls>HIT. 9,8. 99,2</ls>. {#krameRa, kramAt#} und {#krama°#} {%in regelmässigem Gange, nach und nach, allmählich%}.
+;
+126111 new <div n="1">— 7〉 {%regelmässiger Gang, Ordnung, Reihenfolge, Rangordnung, Erbfolge%}. {#krameRa, kramAt#} und {#kramatas#} {%der Ordnung —, der Reihe nach%}. {#tadanusaraRakrameRa#} so <ab>v. a.</ab> {%stets hinter ihm her%} <ls>HIT. 9,8.</ls> <ls n="HIT.">99,2</ls>. {#krameRa, kramAt#} und {#krama°#} {%in regelmässigem Gange, nach und nach, allmählich%}.
+;---------------------------------------------------
+; <L>128323<pc>7-172-b<k1>susajjI<k2>susajjI
+534839 old {#susajjI#}¦ <lex>Adv.</lex> mit {#kar#} {%in gute Bereitschaft setzen%} <ls>HIT. 84,9. 130,1</ls>
+;
+534839 new {#susajjI#}¦ <lex>Adv.</lex> mit {#kar#} {%in gute Bereitschaft setzen%} <ls>HIT. 84,9.</ls> <ls n="HIT.">130,1</ls>
+;---------------------------------------------------
