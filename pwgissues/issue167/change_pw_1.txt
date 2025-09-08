@@ -1,0 +1,10 @@
+; <L>120328<pc>7-060-c<k1>samAnAKyAna<k2>samAnAKyAna
+502312 old {#samAnAKyAna#}¦ <lex>Adj.</lex> als Erklärung von {#saKi#} <ls>NIR. 7,39</ls>. <ab>Vgl.</ab> {#samAnaKyAna#}.
+;
+502312 new {#samAnAKyAna#}¦ <lex>Adj.</lex> als Erklärung von {#saKi#} <ls>NIR. 7,30</ls>. <ab>Vgl.</ab> {#samAnaKyAna#}.
+;---------------------------------------------------
+; <L>202444<pc>2-292-a<k1>avakutsita<k2>avakutsita
+575178 old {#avakutsita#}¦ <lex>n.</lex> {%Tadel%} <ls>NIR. 1</ls>. <ls n="NIR.">4</ls>.<info n="sup_2"/>
+;
+575178 new {#avakutsita#}¦ <lex>n.</lex> {%Tadel%} <ls>NIR. 1,4.</ls><info n="sup_2"/>
+;---------------------------------------------------

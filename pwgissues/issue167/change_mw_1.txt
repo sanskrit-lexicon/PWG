@@ -1,0 +1,20 @@
+; <L>76226<pc>408,1<k1>jagatI<k2>ja/gatI<e>2B
+257337 old ¦ a cow, <ls>Naigh. 11, 11</ls><info lex="inh"/>
+;
+257337 new ¦ a cow, <ls>Naigh. ii, 11</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>96909<pc>498,1<k1>dEvatakARqa<k2>dEvata—kARqa<e>3
+325049 old <s>dEvata—kARqa</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ls>Nir. vii</ls>-<ls n="Nir.">xii.</ls><info lex="n"/>
+;
+325049 new <s>dEvata—kARqa</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ls>Nir. vii</ls> - <ls n="Nir.">xii.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>128309<pc>645,2<k1>pfkza<k2>pfkza/<e>1B
+430544 old ¦ = <s>saMgrAma</s>, <ls>Naigh. ii, 57.</ls><info lex="inh"/>
+;
+430544 new ¦ = <s>saMgrAma</s>, <ls>Naigh. ii, 17.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>161697<pc>804,2<k1>mA<k2>mA<h>3<e>1
+540773 old <div n="to"/>to pray (<s>yAcYA-karmaRi</s>), <ls>Naigh. iii, 59</ls> :
+;
+540773 new <div n="to"/>to pray (<s>yAcYA-karmaRi</s>), <ls>Naigh. iii, 19</ls> :
+;---------------------------------------------------

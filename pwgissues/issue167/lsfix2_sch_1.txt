@@ -1,0 +1,24 @@
+True	2	5942	<ls>Nir. 1,18.</ls>	
+True	2	7767	<ls>Nir. 7,24.</ls>	
+fixed	2	8546	<ls>Nir. 1,4. 5.</ls>	<ls>Nir. 1,4.</ls> <ls n="Nir. 1,">5.</ls>
+True	2	11993	<ls>Nir. 5,13.</ls>	
+True	2	13218	<ls>Nir. 7,26.</ls>	
+True	2	13221	<ls>Nir. 2,13.</ls>	
+True	2	15212	<ls>Nir. 1,7.</ls>	
+True	2	16003	<ls>Nir. 1,4.</ls>	
+True	2	16866	<ls>Nir. 3,6.</ls>	
+True	2	18715	<ls>Nir. 12,2.</ls>	
+True	2	32316	<ls>Nir. 1,13.</ls>	
+True	2	36756	<ls>Nir. 1,5</ls>	
+True	2	37611	<ls>Nir. 3,5.</ls>	
+True	2	43403	<ls>Nir. 12,1.</ls>	
+True	2	44082	<ls>Nir. 7,1.</ls>	
+True	2	44367	<ls>Nir. 12,1.</ls>	
+True	2	46355	<ls>Nir. 7,28</ls>	
+True	2	46355	<ls n="Nir.">12,19.</ls>	
+True	2	48511	<ls>Nir. 12,5.</ls>	
+True	2	69604	<ls>Nir. 2,20</ls>	
+True	2	69604	<ls n="Nir.">3,16</ls>	
+True	2	69604	<ls n="Nir.">11,5.</ls>	
+True	2	20031	<ls>Nigh. 2,11.</ls>	
+None	2	50985	<ls>Nigh. Pr.</ls>	

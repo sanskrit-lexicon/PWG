@@ -79,5 +79,6 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue156 link target README.md improvement
 * issue157 VIKRAMORVAŚĪ link target
 * issue159 AITAREYABRĀHMAṆA Haug ed. link target
-* issue159auf AITAREYABRĀHMAṆA Aufrecht ed. link target
+* issue159 auf AITAREYABRĀHMAṆA Aufrecht ed. link target
 * issue160 split combined multiple links to separate links
+* issue167 NIRUKTA
