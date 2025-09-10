@@ -57,6 +57,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue134 TAITTIRĪYASAM̃HITĀ link target
 * issue135 RĀJATARAṄGIṆĪ link target
 * issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
+* issue136fix KĀTYĀYANA'S ŚRAUTASŪTRĀṆI split ls
 * issue137 NĀRADA PAÑCARĀTRA 
 * issue137fix NĀRADA PAÑCARĀTRA  split ls
 * issue139 VS. PRĀT. link target

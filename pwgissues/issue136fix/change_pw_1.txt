@@ -1,0 +1,25 @@
+; <L>1171<pc>1-014-b<k1>acCAvAka<k2>acCAvAka/
+4443 old {#acCAvAka/#}¦ <lex>m.</lex> {%der Einlader,%} <ab>N.</ab> eines <ab>best.</ab> Priesters, eines der drei Gehülfen des <is>Hotar</is>, <ls>Ind. St. 10,144</ls>. {#acCAvAkacamasa#} <ls>KĀTY. ŚR. 9,12,13</ls>. {#°vigraha#} <ls n="KĀTY. ŚR.">14,16. 22,10,3</ls>. {#°vAda#} <lex>m.</lex> {%der Ort wo der%} <is n="Acchāvāka">A.</is> {%ruft%} <ls>VAITĀN. 18</ls>. {#°Sastra#} <lex>n.</lex> Titel eines Werkes, {#°sAma/n#} <lex>n.</lex> <ls>TĀṆḌYA-BR. 18,11,10</ls>.
+;
+4443 new {#acCAvAka/#}¦ <lex>m.</lex> {%der Einlader,%} <ab>N.</ab> eines <ab>best.</ab> Priesters, eines der drei Gehülfen des <is>Hotar</is>, <ls>Ind. St. 10,144</ls>. {#acCAvAkacamasa#} <ls>KĀTY. ŚR. 9,12,13</ls>. {#°vigraha#} <ls n="KĀTY. ŚR. 9,">14,16. 22,10,3</ls>. {#°vAda#} <lex>m.</lex> {%der Ort wo der%} <is n="Acchāvāka">A.</is> {%ruft%} <ls>VAITĀN. 18</ls>. {#°Sastra#} <lex>n.</lex> Titel eines Werkes, {#°sAma/n#} <lex>n.</lex> <ls>TĀṆḌYA-BR. 18,11,10</ls>.
+;---------------------------------------------------
+; <L>46511<pc>3-038-b<k1>tuzapakva<k2>tu/zapakva
+190888 old {#tu/zapakva#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%an Spreufeuer getrocknet%} <ls>MAITR. S. 3,2,4</ls> (<ls>KAP. S. 32,4</ls>). <ls>TS. 5,2,4,2</ls>. <ls>ŚAT. BR. 7,2,1,7</ls>. <ls>KĀTY. ŚR. 17,23</ls>.
+;
+190888 new {#tu/zapakva#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%an Spreufeuer getrocknet%} <ls>MAITR. S. 3,2,4</ls> (<ls>KAP. S. 32,4</ls>). <ls>TS. 5,2,4,2</ls>. <ls>ŚAT. BR. 7,2,1,7</ls>. <ls>KĀTY. ŚR. 17,1,23</ls>.
+;---------------------------------------------------
+; <L>51257<pc>3-102-c<k1>durbala<k2>durbala
+210670 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%schwach, schwächlich, machtlos, schmächtig, mager, kränklich, unwohl, krank%} (<ls>KĀTY. ŚR. 7,1</ls>), {%kärglich, schwach an%} (im <ab>Comp.</ab> vorangehend). <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;
+210670 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%schwach, schwächlich, machtlos, schmächtig, mager, kränklich, unwohl, krank%} (<ls>KĀTY. ŚR. 25,7,1</ls>), {%kärglich, schwach an%} (im <ab>Comp.</ab> vorangehend). <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex>
+;---------------------------------------------------
+; <L>65224<pc>4-058-c<k1>paSUKA<k2>paSUKA
+269115 old {#paSUKA#}¦ <lex>f.</lex> {%der Topf, in welchem das Opferthier gekocht%} oder {%gebraten wird%} <ls>KĀTY. ŚR. 25,914</ls>.
+;
+269115 new {#paSUKA#}¦ <lex>f.</lex> {%der Topf, in welchem das Opferthier gekocht%} oder {%gebraten wird%} <ls>KĀTY. ŚR. 25,9,14</ls>.
+;---------------------------------------------------
+; <L>111625<pc>6-223-c<k1>SAmIla<k2>SAmIla
+466406 old {#SAmIla#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus dem Holze der <bot>Prosopis spicigera</bot> gemacht%} <ls>KĀTY. ŚR. 4,21</ls>. <ls>GOBH. 1,7,16</ls>.
+;
+466406 new {#SAmIla#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%aus dem Holze der <bot>Prosopis spicigera</bot> gemacht%} <ls>KĀTY. ŚR. 4,2,1</ls>. <ls>GOBH. 1,7,16</ls>.
+;---------------------------------------------------
