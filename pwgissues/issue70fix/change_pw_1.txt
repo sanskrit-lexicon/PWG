@@ -1,0 +1,25 @@
+; <L>23898<pc>2-011-a<k1>kadalIgarBA<k2>kadalIgarBA
+93018 old {#kadalIgarBA#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines Tochter <is>Maṅkaṇaka</is>ʼs <ls>KATHĀS. 32. 104</ls>.
+;
+93018 new {#kadalIgarBA#}¦ <lex>f.</lex> <ab>N. pr.</ab> eines Tochter <is>Maṅkaṇaka</is>ʼs <ls>KATHĀS. 32,104</ls>.
+;---------------------------------------------------
+; <L>49011<pc>3-069-c<k1>damBamuni<k2>damBamuni
+200909 old {#damBamuni#}¦ <lex>m.</lex> {%ein heuchlerischer%} <is>Muni</is> <ls>KATHĀS. 7263</ls>.
+;
+200909 new {#damBamuni#}¦ <lex>m.</lex> {%ein heuchlerischer%} <is>Muni</is> <ls>KATHĀS. 72,263</ls>.
+;---------------------------------------------------
+; <L>54494<pc>3-142-a<k1>DanurlatA<k2>DanurlatA
+223201 old <div n="1">— 1〉 {%Bogen%} <ls>KATHĀS. 74. 217</ls>. {#latA#} hinzugefügt um ein <ab>Fem.</ab> zu erhalten.
+;
+223201 new <div n="1">— 1〉 {%Bogen%} <ls>KATHĀS. 74,217</ls>. {#latA#} hinzugefügt um ein <ab>Fem.</ab> zu erhalten.
+;---------------------------------------------------
+; <L>72819<pc>4-165-a<k1>pramuditavant<k2>pramuditavant
+299902 old {#pramuditavant#}¦ <lex>Adj.</lex> {%erfreut%} <ls>KATHĀS. 165</ls>.
+;
+299902 new {#pramuditavant#}¦ <lex>Adj.</lex> {%erfreut%} <ls>KATHĀS. 6,165</ls>.
+;---------------------------------------------------
+; <L>118302<pc>7-030-c<k1>satyavara<k2>satyavara
+494356 old {#satyavara#}¦ <lex>m.</lex> <ab>N. pr.</ab> <ls>KATHĀS. 78</ls>, fehlerhaft für {#sattvavara#}.
+;
+494356 new {#satyavara#}¦ <lex>m.</lex> <ab>N. pr.</ab> <ls>KATHĀS. 78,9</ls> fehlerhaft für {#sattvavara#}.
+;---------------------------------------------------

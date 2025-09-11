@@ -6,6 +6,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue62fix ls splitting check
 * issue67 German word corrections
 * issue70 katha-sarit-sagara link target
+* issue70fix katha-sarit-sagara link target ls splitting
 * issue71 standardization of pwg links for KATHĀS.
 * issue73 Manu-smfti link target
 * issue74 Standardization of pwg links for 'M.' (Manu)

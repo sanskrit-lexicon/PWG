@@ -1,0 +1,30 @@
+; <L>26060<pc>149,3<k1>Arawi<k2>A-rawi<e>2
+92326 old <s>A-rawi</s> ¦ <lex>f.</lex> (?) noise, roaring (in <s>muktA<srs/>rawi</s>, ‘having uttered a roaring’), <ls>Kathās. 52, 123.</ls><info lex="f"/>
+;
+92326 new <s>A-rawi</s> ¦ <lex>f.</lex> (?) noise, roaring (in <s>muktA<srs/>rawi</s>, ‘having uttered a roaring’), <ls>Kathās. vii, 123.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>26667<pc>153,1<k1>Ala<k2>Ala<e>1B
+94376 old <s>Ala</s> ¦ <lex>m.</lex> <ab>N.</ab> of an ape, <ls>Kathās. 57, 136</ls><info lex="m"/>
+;
+94376 new <s>Ala</s> ¦ <lex>m.</lex> <ab>N.</ab> of an ape, <ls>Kathās. vvii, 136</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>27433<pc>157,2<k1>ASarIram<k2>A-SarIram<e>1
+97012 old <s>A-SarIram</s> ¦ <lex>ind.</lex> to or as far as the body, (all things) including the body, <ls>Kathās. 90, 18.</ls><info lex="ind"/>
+;
+97012 new <s>A-SarIram</s> ¦ <lex>ind.</lex> to or as far as the body, (all things) including the body, <ls>Kathās. xc, 18.</ls><info lex="ind"/>
+;---------------------------------------------------
+; <L>31381<pc>179,1<k1>uttaraMga<k2>ut-taraMga<h>2<e>1
+110841 old <hom>2.</hom> <s>ut-taraMga</s> ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 178, col. 2</pcol>), a high wave, <ls>Kathās. 123, 196</ls><info lex="m"/>
+;
+110841 new <hom>2.</hom> <s>ut-taraMga</s> ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 178, col. 2</pcol>), a high wave, <ls>Kathās. cxxiii, 196</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>70539<pc>381,2<k1>cakrasenA<k2>cakra—senA<e>3B
+238771 old <s>cakra—senA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a princess, <ls>Kathās. liv, III.</ls><info lex="f"/>
+;
+238771 new <s>cakra—senA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a princess, <ls>Kathās. liv, 111.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>91212<pc>473,2<k1>dA<k2>dA<h>1<e>1
+306447 old <div n="to"/>to give back, <ls n="Kathās.">222 f.</ls>; <ls>MBh. iii</ls>; <ls>Pañcat.</ls>; <ls>VP.</ls>; <ls>Kathās. lxxiv</ls>;
+;
+306447 new <div n="to"/>to give back, <ls n="Mn. viii,">222 f.</ls>; <ls>MBh. iii</ls>; <ls>Pañcat.</ls>; <ls>VP.</ls>; <ls>Kathās. lxxiv</ls>;
+;---------------------------------------------------
