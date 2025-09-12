@@ -1,0 +1,135 @@
+; <L>3572<pc>1-0268<k1>anyapuzwa<k2>anyapuzwa
+29898 old <ls>KUMĀRAS. I,46.</ls>
+;
+29898 new <ls>KUMĀRAS. 1,46.</ls>
+;---------------------------------------------------
+; <L>5482<pc>1-0396<k1>ayi<k2>ayi
+44945 old <ls>KUMĀRAS. 4,3. 5,33-35. 62.</ls> <ls>ŚĀK. 12,20, v. l. 64,17, v. l.</ls> für {#api#}; vgl. dieses.
+;
+44945 new <ls>KUMĀRAS. 4,3. 5,33</ls>-<ls n="KUMĀRAS. 5,">35. 62.</ls> <ls>ŚĀK. 12,20, v. l. 64,17, v. l.</ls> für {#api#}; vgl. dieses.
+;---------------------------------------------------
+; <L>6095<pc>1-0456<k1>alaktaka<k2>alaktaka
+51585 old <ls n="KUMĀRAS.">68. 7,58.</ls> <ls>VIKR. 79.</ls> {#bimbADarAlaktakaH#}
+;
+51585 new <ls n="KUMĀRAS. 5,">68. 7,58.</ls> <ls>VIKR. 79.</ls> {#bimbADarAlaktakaH#}
+;---------------------------------------------------
+; <L>12395<pc>1-0996<k1>umA<k2>u/mA
+111393 old <ls>KUMĀRAS. 1,26. -</ls> <ls>R. 1,36,15.</ls> <ls n="R. 1,36,">20.</ls> <ls n="R.">3,47,10.</ls> <ls n="R. 3,">53,60.</ls> <ls n="R.">5,25,26.</ls> <ls n="R. 5,">89,7.</ls> <ls>RAGH. 3,23.</ls> <ls>VP. 59.</ls> <ls>SCHIEFNER, Lebensb. 244 (14).</ls>
+;
+111393 new <ls>KUMĀRAS. 1,26.</ls> — <ls>R. 1,36,15.</ls> <ls n="R. 1,36,">20.</ls> <ls n="R.">3,47,10.</ls> <ls n="R. 3,">53,60.</ls> <ls n="R.">5,25,26.</ls> <ls n="R. 5,">89,7.</ls> <ls>RAGH. 3,23.</ls> <ls>VP. 59.</ls> <ls>SCHIEFNER, Lebensb. 244 (14).</ls>
+;---------------------------------------------------
+; <L>15693<pc>2-0159<k1>kalApa<k2>kalApa
+145043 old <ls>MĀLAV. 85</ls> (vgl. <ls>KUMĀRAS. 1,15).</ls> Vgl. {#utkalApa#} .
+;
+145043 new <ls>MĀLAV. 85</ls> (vgl. <ls>KUMĀRAS. 1,15</ls>). Vgl. {#utkalApa#} .
+;---------------------------------------------------
+; <L>15750<pc>2-0173<k1>kalpa<k2>ka/lpa
+146285 old <ls>KUMĀRAS. 3. 14.</ls> {#hInakalpa#} {%mangelhaft%}
+;
+146285 new <ls>KUMĀRAS. 3,14.</ls> {#hInakalpa#} {%mangelhaft%}
+;---------------------------------------------------
+; <L>25172<pc>2-0989<k1>cAndramasa<k2>cAndramasa/
+239953 old <ls n="KUMĀRAS.">44.</ls> {#suDA#}
+;
+239953 new <ls n="KUMĀRAS. 1,">44.</ls> {#suDA#}
+;---------------------------------------------------
+; <L>27412<pc>3-0095<k1>ji<k2>ji<h>1
+264257 old <ls>KUMĀRAS. 1. 41.</ls>
+;
+264257 new <ls>KUMĀRAS. 1,41.</ls>
+;---------------------------------------------------
+; <L>29740<pc>3-0337<k1>tilaka<k2>ti/laka
+289924 old <ls>KUMĀRAS. 3,30</ls> (zugleich Bed.
+;
+289924 new <ls>KUMĀRAS. 3,30</ls> (zugleich Bed. 1). 
+;---------------------------------------------------
+; <L>29740<pc>3-0337<k1>tilaka<k2>ti/laka
+289925 old <ls n="KUMĀRAS.">1). 7,24.</ls> <ls>KATHĀS. 9,81.</ls> <ls n="KATHĀS.">16,31. fg.</ls> <ls>VARĀH. BṚH. S. 104,28.</ls> <ls>SĀH. D. 56,4.</ls> <ls n="SĀH. D.">60,1.</ls> {#vihInatilakeva strI nottarA dikprakASate#} (ohne Sonne)
+;
+289925 new <ls n="KUMĀRAS.">7,24.</ls> <ls>KATHĀS. 9,81.</ls> <ls n="KATHĀS.">16,31. fg.</ls> <ls>VARĀH. BṚH. S. 104,28.</ls> <ls>SĀH. D. 56,4.</ls> <ls n="SĀH. D.">60,1.</ls> {#vihInatilakeva strI nottarA dikprakASate#} (ohne Sonne)
+;---------------------------------------------------
+; <L>41679<pc>4-0383<k1>pawwa<k2>pawwa
+405689 old <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7. 3.</ls> {#DaraRiDarastanagalitaSuklapawwacIna#}
+;
+405689 new <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7,3.</ls> {#DaraRiDarastanagalitaSuklapawwacIna#}
+;---------------------------------------------------
+; <L>49695<pc>4-1064<k1>pralaya<k2>pralaya
+482684 old <ls n="KUMĀRAS.">8.</ls> <ls>SUŚR. 1,77,5. 6.</ls> <ls>KATHĀS. 28,182.</ls> <ls>BHAG. 14,2.</ls> {#trijagatpralaya#}
+;
+482684 new <ls n="KUMĀRAS. 2,">8.</ls> <ls>SUŚR. 1,77,5. 6.</ls> <ls>KATHĀS. 28,182.</ls> <ls>BHAG. 14,2.</ls> {#trijagatpralaya#}
+;---------------------------------------------------
+; <L>51025<pc>4-1163<k1>priyatva<k2>priyatva
+494430 old <ls>Spr. 2656</ls> (= <ls>KUMĀRAS. 1,49).</ls>
+;
+494430 new <ls>Spr. 2656</ls> (= <ls>KUMĀRAS. 1,49</ls>).
+;---------------------------------------------------
+; <L>53862<pc>5-0178<k1>Baj<k2>Baj
+521263 old <ls n="KUMĀRAS.">15.</ls> {#suviBaktavarUTa#} <lex>adj.</lex>
+;
+521263 new <ls n="KUMĀRAS. 7,">15.</ls> {#suviBaktavarUTa#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>55359<pc>5-0345<k1>BUDaratA<k2>BUDaratA
+538507 old <ls>KUMĀRAS. 3. 13.</ls>
+;
+538507 new <ls>KUMĀRAS. 3,13.</ls>
+;---------------------------------------------------
+; <L>65163<pc>5-1049<k1>arDa<k2>arDa<h>1
+622718 old <ls>KUMĀRAS. 1. 51.</ls> {#mAsArDa#}
+;
+622718 new <ls>KUMĀRAS. 1,51.</ls> {#mAsArDa#}
+;---------------------------------------------------
+; <L>81498<pc>6-0061<k1>yantraRa<k2>yantraRa
+731034 old <ls>RAGH. 7,20</ls> (= <ls>KUMĀRAS. 7,75).</ls> <ls>SĀH. D. 40,10.</ls> {#upacAra°#}
+;
+731034 new <ls>RAGH. 7,20</ls> (= <ls>KUMĀRAS. 7,75</ls>). <ls>SĀH. D. 40,10.</ls> {#upacAra°#}
+;---------------------------------------------------
+; <L>86448<pc>6-0554<k1>lIlA<k2>lIlA
+786071 old <ls>RAGH. 7,7</ls> (= <ls>KUMĀRAS. 7,58).</ls> {#lIlAvalokana#}
+;
+786071 new <ls>RAGH. 7,7</ls> (= <ls>KUMĀRAS. 7,58</ls>). {#lIlAvalokana#}
+;---------------------------------------------------
+; <L>86819<pc>6-0589<k1>loDra<k2>loDra
+789984 old <ls n="KUMĀRAS.">17.</ls>
+;
+789984 new <ls n="KUMĀRAS. 7,">17.</ls>
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+809741 old <ls n="KUMĀRAS.">54.</ls> {#DUmo nivartyeta samIraRena#}
+;
+809741 new <ls n="KUMĀRAS. 5,">54.</ls> {#DUmo nivartyeta samIraRena#}
+;---------------------------------------------------
+; <L>88549<pc>6-0782<k1>varD<k2>varD<h>1
+811870 old <ls n="KUMĀRAS.">74.</ls> {#sneha#}
+;
+811870 new <ls n="KUMĀRAS. 7,">74.</ls> {#sneha#}
+;---------------------------------------------------
+; <L>88549<pc>6-0782<k1>varD<k2>varD<h>1
+811982 old <ls n="KUMĀRAS.">56.</ls> <ls>RAGH. 2,32.</ls> <ls n="RAGH.">3,60.</ls> <ls>BHĀG. P. 2,7,19.</ls> <ls n="BHĀG. P.">3,9,25.</ls> <ls n="BHĀG. P. 3,">10,6.</ls> <ls n="BHĀG. P. 3,">18,19.</ls> <ls n="BHĀG. P.">4,2,19.</ls> <ls n="BHĀG. P. 4,">21,51.</ls> {#Satru#} {%zu Macht gelangt%}
+;
+811982 new <ls n="KUMĀRAS. 3,">56.</ls> <ls>RAGH. 2,32.</ls> <ls n="RAGH.">3,60.</ls> <ls>BHĀG. P. 2,7,19.</ls> <ls n="BHĀG. P.">3,9,25.</ls> <ls n="BHĀG. P. 3,">10,6.</ls> <ls n="BHĀG. P. 3,">18,19.</ls> <ls n="BHĀG. P.">4,2,19.</ls> <ls n="BHĀG. P. 4,">21,51.</ls> {#Satru#} {%zu Macht gelangt%}
+;---------------------------------------------------
+; <L>94793<pc>6-1319<k1>vftti<k2>vftti
+874094 old <ls n="KUMĀRAS.">73. 7,64.</ls> <ls>NĪLAK. 45. 47. 55. 58. 169. 223. 238.</ls> {#yAgaScittavfttiniroDaH#}
+;
+874094 new <ls n="KUMĀRAS. 3,">73. 7,64.</ls> <ls>NĪLAK. 45. 47. 55. 58. 169. 223. 238.</ls> {#yAgaScittavfttiniroDaH#}
+;---------------------------------------------------
+; <L>97800<pc>7-0065<k1>Sabda<k2>Sa/bda
+903638 old <ls>KUMĀRAS. 1,1,46.</ls>
+;
+903638 new <ls>KUMĀRAS. 1,46.</ls>
+;---------------------------------------------------
+; <L>103069<pc>7-0484<k1>saMsarpin<k2>saMsarpin
+955308 old <ls>RAGH. 7,23</ls> (= <ls>KUMĀRAS. 7,81).</ls> {#kapolasaMsarpitA#}
+;
+955308 new <ls>RAGH. 7,23</ls> (= <ls>KUMĀRAS. 7,81</ls>). {#kapolasaMsarpitA#}
+;---------------------------------------------------
+; <L>108632<pc>7-0945<k1>sAra<k2>sA/ra<h>2
+1010305 old <ls n="KUMĀRAS.">6,50. <is>Kāma's</is> 3,13.</ls> {#aKilasArasaMBfta#} <is>Viṣṇu</is> als Zwerg
+;
+1010305 new <ls n="KUMĀRAS.">6,50.</ls> <is>Kāma's</is> <ls n="KUMĀRAS.">3,13.</ls> {#aKilasArasaMBfta#} <is>Viṣṇu</is> als Zwerg
+;---------------------------------------------------
+; <L>114015<pc>7-1328<k1>sTAvara<k2>sTAvara/
+1060106 old <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BHAG. 10,25.</ls> <ls>KUMĀRAS. 6. 67.</ls> {#°rAja#} Bez. des <is>Himālaya</is>
+;
+1060106 new <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>BHAG. 10,25.</ls> <ls>KUMĀRAS. 6,67.</ls> {#°rAja#} Bez. des <is>Himālaya</is>
+;---------------------------------------------------

@@ -1,0 +1,20 @@
+; <L>5086<pc>069-2<k1>alantarAm<k2>alantarAm
+15689 old {%alantarām%}¦ Adv. in hohem Grade, <ls>Kumāras. 14,16; 15,28.</ls> Mit einem Inf. bedeutend besser, <ls>Śiś. 2,106.</ls> {part=,seq=5156,type=,n=3}
+;
+15689 new {%alantarām%}¦ Adv. in hohem Grade, <ls>Kumāras. 14,16</ls>; <ls n="Kumāras.">15,28.</ls> Mit einem Inf. bedeutend besser, <ls>Śiś. 2,106.</ls> {part=,seq=5156,type=,n=3}
+;---------------------------------------------------
+; <L>17708<pc>244-3<k1>padmaka<k2>padmaka
+54730 old {%padmaka%}¦ m. n. *rote Flecke beim Elefanten, <ls>Mallin.</ls> zu <ls>Kumāras. I,7</ls>; <ls>Harṣac. 72,5</ls>; <ls>Rasas. 113</ls><sup>a</sup>. — n. ° = {%kusumbha%}, <ls>H XIX,3</ls> (Ko.); vgl. <ls>Harṣac. 16,1</ls> (Ko.). 157 (Ko.); Maṅkha 562, Ko. [Z.]. — *Costus speciosus oder arabicus, E 829 (R). 849 (A). 870 (R)? — ein best. Baum, <ls>R. ed. Bomb. 4,1,79.</ls> {part=,seq=17967,type=,n=8}
+;
+54730 new {%padmaka%}¦ m. n. *rote Flecke beim Elefanten, <ls>Mallin.</ls> zu <ls>Kumāras. 1,7</ls>; <ls>Harṣac. 72,5</ls>; <ls>Rasas. 113</ls><sup>a</sup>. — n. ° = {%kusumbha%}, <ls>H XIX,3</ls> (Ko.); vgl. <ls>Harṣac. 16,1</ls> (Ko.). 157 (Ko.); Maṅkha 562, Ko. [Z.]. — *Costus speciosus oder arabicus, E 829 (R). 849 (A). 870 (R)? — ein best. Baum, <ls>R. ed. Bomb. 4,1,79.</ls> {part=,seq=17967,type=,n=8}
+;---------------------------------------------------
+; <L>20700<pc>285-3<k1>BUtArTa<k2>BUtArTa
+63913 old {%bhūtārtha%}¦ °Adj. natürlich ({%śobhā%}; Mallinātha erklärt mit {%svābhāvikī%}), <ls>Kumāras. VII,13</ls>; <ls>H XVIII,75.</ls> {part=,seq=20985,type=,n=3}
+;
+63913 new {%bhūtārtha%}¦ °Adj. natürlich ({%śobhā%}; Mallinātha erklärt mit {%svābhāvikī%}), <ls>Kumāras. 7,13</ls>; <ls>H XVIII,75.</ls> {part=,seq=20985,type=,n=3}
+;---------------------------------------------------
+; <L>21935<pc>303-1<k1>mfRAla<k2>mfRAla
+67720 old {%mṛṇāla%}¦ 1. {%°sūtra%} n. <ls>Kumāras. 1,40; 3,49</ls>; <ls>Śiś. 3,3.</ls> {part=,seq=22235,type=,n=2}
+;
+67720 new {%mṛṇāla%}¦ 1. {%°sūtra%} n. <ls>Kumāras. 1,40</ls>; <ls n="Kumāras.">3,49</ls>; <ls>Śiś. 3,3.</ls> {part=,seq=22235,type=,n=2}
+;---------------------------------------------------
