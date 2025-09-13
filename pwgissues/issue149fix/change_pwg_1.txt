@@ -1,0 +1,55 @@
+; <L>26484<pc>3-0023<k1>jana<k2>ja/na<h>1
+255319 old <ls n="ŚĀK.">117. 59,13.</ls> <ls>RAGH. 8,80.</ls> <ls>VIKR. 29,16.</ls> <ls>MĀLAV. 26. 28,28.</ls> Vgl.
+;
+255319 new <ls n="ŚĀK.">117. 59,13.</ls> <ls>RAGH. 8,80.</ls> <ls>VIKR. 29,16.</ls> <ls>MĀLAV. 26.</ls> <ls n="MĀLAV.">28,8.</ls> Vgl.
+;---------------------------------------------------
+; <L>28488<pc>3-0209<k1>taTAgata<k2>taTAgata
+275905 old <ls n="MĀLAV.">63, ult.</ls>). {#SriyaM taTAgatAM dfzwvA jvalantImiva pARqave#}
+;
+275905 new <ls n="MĀLAV.">63,23.</ls>). {#SriyaM taTAgatAM dfzwvA jvalantImiva pARqave#}
+;---------------------------------------------------
+; <L>35051<pc>3-0782<k1>dohada<k2>dohada
+339521 old <ls>MĀLAV. 80. 33,8, v. l.</ls>
+;
+339521 new <ls>MĀLAV. 80.</ls> <ls n="MĀLAV.">33,8, v. l.</ls>
+;---------------------------------------------------
+; <L>46344<pc>4-0808<k1>puz<k2>puz<h>1
+452507 old <ls>R. 2,94,10</ls> (<ls n="GORR. 2,">103,10</ls> <ls>GORR.</ls>). <ls n="R.">6,2,48.</ls> <ls>RAGH. 3,32.</ls> <ls n="RAGH.">4,11.</ls> <ls n="RAGH.">9,5.</ls> <ls n="RAGH.">16,58.</ls> <ls>KUMĀRAS. 1,25.</ls> <ls n="KUMĀRAS.">7,18.</ls> <ls n="KUMĀRAS. 7,">78.</ls> <ls>ŚĀK. 18. 10,6.</ls> <ls>MĀLAV. 12. 21,10. 63,20.</ls> <ls>MEGH. 78.</ls> <ls>Spr. 1726.</ls> {#mEtrImaSezaBUtAni puzyantu sakale jane#}
+;
+452507 new <ls>R. 2,94,10</ls> (<ls n="GORR. 2,">103,10</ls> <ls>GORR.</ls>). <ls n="R.">6,2,48.</ls> <ls>RAGH. 3,32.</ls> <ls n="RAGH.">4,11.</ls> <ls n="RAGH.">9,5.</ls> <ls n="RAGH.">16,58.</ls> <ls>KUMĀRAS. 1,25.</ls> <ls n="KUMĀRAS.">7,18.</ls> <ls n="KUMĀRAS. 7,">78.</ls> <ls>ŚĀK. 18. 10,6.</ls> <ls>MĀLAV. 12.</ls> <ls n="MĀLAV.">21,10. 63,20.</ls> <ls>MEGH. 78.</ls> <ls>Spr. 1726.</ls> {#mEtrImaSezaBUtAni puzyantu sakale jane#}
+;---------------------------------------------------
+; <L>51218<pc>4-1178<k1>prezyaBAva<k2>prezyaBAva
+496143 old <ls>MĀLAV. 87. 69,14.</ls>
+;
+496143 new <ls>MĀLAV. 87.</ls> <ls n="MĀLAV.">69,14.</ls>
+;---------------------------------------------------
+; <L>62150<pc>5-0914<k1>moktavya<k2>moktavya
+603565 old <ls>MĀLAV. 9,1. v. l.</ls>
+;
+603565 new <ls>MĀLAV. 9,1, v. l.</ls>
+;---------------------------------------------------
+; <L>62972<pc>5-0962<k1>atiBUmi<k2>atiBUmi
+609400 old <ls>Spr. 3472</ls> (pl.). <ls>UTTARARĀMAC. 64,5.</ls> <ls>MĀLAV. 32,7 im</ls> <is>Prākrit</is>.
+;
+609400 new <ls>Spr. 3472</ls> (pl.). <ls>UTTARARĀMAC. 64,5.</ls> <ls>MĀLAV. 32,7</ls> im <is>Prākrit</is>.
+;---------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+740581 old <ls>MĀLAV. 49. 34,3.</ls>
+;
+740581 new <ls>MĀLAV. 49.</ls> <ls n="MĀLAV.">34,3.</ls>
+;---------------------------------------------------
+; <L>88455<pc>6-0743<k1>varRay<k2>varRay
+808060 old <ls>MĀLAV. 66. 73,18.</ls>
+;
+808060 new <ls>MĀLAV. 66.</ls> <ls n="MĀLAV.">73,18.</ls>
+;---------------------------------------------------
+; <L>96403<pc>6-1454<k1>vyavahAra<k2>vyavahAra
+889724 old <ls>MĀLAV. 13,22.fg.</ls>
+;
+889724 new <ls>MĀLAV. 13,22. fg.</ls>
+;---------------------------------------------------
+; <L>104665<pc>7-0636<k1>saMdAnita<k2>saMdAnita
+972559 old <ls>MĀLAV. 41,13. v. l.</ls> {#saMdita#} .
+;
+972559 new <ls>MĀLAV. 41,13, v. l.</ls> {#saMdita#} .
+;---------------------------------------------------

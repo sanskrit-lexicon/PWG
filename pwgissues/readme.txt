@@ -73,6 +73,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue148fix/chaura 'CAURAP. N'
 * issue148fix/bhartr 'BHARTṚ.  N,N'
 * issue149 MĀLAVIKĀGNIMITRA
+* issue149fix MĀLAVIKĀGNIMITRA link splitting
 * issue152 HITOPADEŚA
 * issue152fix HITOPADEŚA split ls
 * issue153 GITAGOVINDA
