@@ -1,0 +1,25 @@
+; <L>85904<pc>5-065-a<k1>mAtratraya<k2>mAtratraya
+355207 old {#mAtratraya#}¦ <lex>Adj.</lex> {%dreifach, in dreifacher Zahl vorhanden%} <ls>MĀRK. P. 23,35. 37</ls>.
+;
+355207 new {#mAtratraya#}¦ <lex>Adj.</lex> {%dreifach, in dreifacher Zahl vorhanden%} <ls>MĀRK. P. 23,35.</ls> <ls n="MĀRK. P. 23,">37</ls>.
+;---------------------------------------------------
+; <L>89245<pc>5-112-b<k1>mOleya<k2>mOleya
+369207 old {#mOleya#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes; <ab>vgl.</ab> {#vinDya°#}. <ls>MĀRK. P. 61,35. 46</ls> fehlerhaft für {#ma/neya#}.
+;
+369207 new {#mOleya#}¦ <lex>m.</lex> <ab>Pl.</ab> <ab>N. pr.</ab> eines Volkes; <ab>vgl.</ab> {#vinDya°#}. <ls>MĀRK. P. 61,35.</ls> <ls n="MĀRK. P. 61,">46</ls> fehlerhaft für {#ma/neya#}.
+;---------------------------------------------------
+; <L>118259<pc>7-030-a<k1>satyapASa<k2>satyapASa
+494192 old {#satyapASa#}¦ <lex>m.</lex> {%das Einen an ein Versprechen haltende Band%} <ls>R. 2,34,30</ls>. <ls>MĀRK. P. 126,32. 127,28</ls>. <ls>BHĀG. P. 9,10,8</ls>.
+;
+494192 new {#satyapASa#}¦ <lex>m.</lex> {%das Einen an ein Versprechen haltende Band%} <ls>R. 2,34,30</ls>. <ls>MĀRK. P. 126,32.</ls> <ls n="MĀRK. P.">127,28</ls>. <ls>BHĀG. P. 9,10,8</ls>.
+;---------------------------------------------------
+; <L>132127<pc>7-233-b<k1>svan<k2>svan<h>1
+551465 old <div n="p">— Mit *{#ni#} {%beim Essen ein Geräusch bewirken%}. <ls>MĀRK. P. 66,26. 128,14</ls> ist {#devavaDyAni sasvanuH#} zu schreiben. <ab>Vgl.</ab> {#nisvana#} fgg.
+;
+551465 new <div n="p">— Mit *{#ni#} {%beim Essen ein Geräusch bewirken%}. <ls>MĀRK. P. 66,26.</ls> <ls n="MĀRK. P.">128,14</ls> ist {#devavaDyAni sasvanuH#} zu schreiben. <ab>Vgl.</ab> {#nisvana#} fgg.
+;---------------------------------------------------
+; <L>134666<pc>7-274-c<k1>himaKaRqa<k2>himaKaRqa
+563081 old {#himaKaRqa#}¦ <lex>n.</lex> {%Hagelkorn%} <ls>MĀRK. P. 12,13. 18</ls>.
+;
+563081 new {#himaKaRqa#}¦ <lex>n.</lex> {%Hagelkorn%} <ls>MĀRK. P. 12,13.</ls> <ls n="MĀRK. P. 12,">18</ls>.
+;---------------------------------------------------

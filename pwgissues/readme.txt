@@ -48,6 +48,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue109 RAGHUVAṂŚA Calcutta edition
 * issue110 VOPADEVA'S Mughabodha
 * issue122 MarkandeyaPurana link target
+* issue122fix MarkandeyaPurana link target split ls
 * issue123 ANEKĀRTHASAM̃GRAHA link target
 * issue123fix  ANEKĀRTHASAM̃GRAHA split ls 'H. an.'
 * issue123fixa ANEKĀRTHASAM̃GRAHA split ls 'an.' 
