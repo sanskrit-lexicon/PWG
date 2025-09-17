@@ -1,0 +1,105 @@
+; <L>19883<pc>115,1<k1>aSvakranda<k2>a/Sva—kranda<e>3
+71055 old <s>a/Sva—kranda</s> ¦ (<s>a/Sva-</s>), <lex>m.</lex> <ab>N.</ab> of a mythical being, <ls>Suparṇ.</ls>; <ls>MBh. 1, 1488</ls> (‘<ab>N.</ab> of <s1>Yakṣa</s1>’ <ab>Comm.</ab>)<info lex="m"/>
+;
+71055 new <s>a/Sva—kranda</s> ¦ (<s>a/Sva-</s>), <lex>m.</lex> <ab>N.</ab> of a mythical being, <ls>Suparṇ.</ls>; <ls>MBh. i, 1488</ls> (‘<ab>N.</ab> of <s1>Yakṣa</s1>’ <ab>Comm.</ab>)<info lex="m"/>
+;---------------------------------------------------
+; <L>23547<pc>135,2<k1>AtmapraBa<k2>Atma—praBa<e>3
+83786 old <s>Atma—praBa</s> ¦ <lex>mfn.</lex> shining by one's own light, self-illuminated, <ls>MBh. (Nala)</ls>.<info lex="m:f:n"/>
+;
+83786 new <s>Atma—praBa</s> ¦ <lex>mfn.</lex> shining by one's own light, self-illuminated, <ls>MBh.</ls> (Nala).<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>32530<pc>185,2<k1>udArAkza<k2>udArAkza<e>3
+114786 old <s>udArA<srs/>kza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a demon that causes diseases, <ls>MBh.</ls> (<ls n="MBh.">ed. Bombay ix, 45, 63</ls>; <ab>v.l.</ab> <s>udarA<srs/>kza</s>, <ab>q.v.</ab>)<info lex="m"/>
+;
+114786 new <s>udArA<srs/>kza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a demon that causes diseases, <ls>MBh.</ls> (<ls n="MBh.">ed. Bomb. ix, 45, 63</ls>; <ab>v.l.</ab> <s>udarA<srs/>kza</s>, <ab>q.v.</ab>)<info lex="m"/>
+;---------------------------------------------------
+; <L>45832<pc>261,1<k1>kalA<k2>kalA/<e>1A
+159432 old ¦ a designation of the three constituent parts of a sacrifice (<ab>viz.</ab> <s>mantra</s>, <s>dravya</s>, and <s>SradDA</s>, <ls>Nīlak.</ls> on <ls>MBh. [ed. Bomb.] xiv, 89, 3</ls>)<info lex="inh"/>
+;
+159432 new ¦ a designation of the three constituent parts of a sacrifice (<ab>viz.</ab> <s>mantra</s>, <s>dravya</s>, and <s>SradDA</s>, <ls>Nīlak.</ls> on <ls>MBh. (ed. Bomb.) xiv, 89, 3</ls>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>72113<pc>388,3<k1>camUpati<k2>camU—pati<e>3
+244095 old <s>camU—pati</s> ¦ <lex>m.</lex> <ab>id.</ab>, <ls>MBh. iii vi</ls>; <ls>R.</ls> &c.<info lex="m"/>
+;
+244095 new <s>camU—pati</s> ¦ <lex>m.</lex> <ab>id.</ab>, <ls>MBh. iii</ls>, <ls n="MBh.">vi</ls>; <ls>R.</ls> &c.<info lex="m"/>
+;---------------------------------------------------
+; <L>74222<pc>398,3<k1>cirakArika<k2>cira—kArika<e>3
+250933 old <s>cira—kArika</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls n="MBh. xii">9483</ls>; <ls n="MBh. xii">9534 ff.</ls>; <ls n="MBh. xii">9547.</ls><info lex="m:f:n"/>
+;
+250933 new <s>cira—kArika</s> ¦ <lex>mfn.</lex> <ab>id.</ab>, <ls n="MBh. xii,">9483</ls>; <ls n="MBh. xii,">9534 ff.</ls>; <ls n="MBh. xii,">9547.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>75258<pc>403,2<k1>cyu<k2>cyu<h>2<e>1
+254241 old <div n="to"/>to deviate from (<ab>abl.</ab>), abandon (duty &c., <ab>abl.</ab>; exceptionally <ab>gen.</ab>, <ls>MBh. xv, 463 [<ab>C</ab>]</ls> <ab>inf.</ab> <s>cyavitum</s>), <ls>Mn. vii, 98</ls>; <ls>MBh. iii</ls>;
+;
+254241 new <div n="to"/>to deviate from (<ab>abl.</ab>), abandon (duty &c., <ab>abl.</ab>; exceptionally <ab>gen.</ab>, <ls>MBh. xv, 463</ls> [<ab>C</ab>] <ab>inf.</ab> <s>cyavitum</s>), <ls>Mn. vii, 98</ls>; <ls>MBh. iii</ls>;
+;---------------------------------------------------
+; <L>75284<pc>403,3<k1>cyavanopAKyAna<k2>cyavanopAKyAna<e>3
+254339 old <s>cyavano<srs/>pA<srs/>KyAna</s> ¦ <lex>n.</lex> ‘tale of <s1>Cyavana</s1>’, <ab>N.</ab> of <ls>MBh. xiii</ls>, <ab>chs.</ab> 50-52 (<ls n="MBh. xiii">2641</ls>-<ls n="MBh. xiii">2754</ls>) and of <ls>PadmaP. ii, 80</ls> and <ls n="PadmaP.">iv, 42.</ls><info lex="n"/>
+;
+254339 new <s>cyavano<srs/>pA<srs/>KyAna</s> ¦ <lex>n.</lex> ‘tale of <s1>Cyavana</s1>’, <ab>N.</ab> of <ls>MBh. xiii</ls>, <ab>chs.</ab> 50-52 (<ls n="MBh. xiii,">2641</ls>-<ls n="MBh. xiii,">2754</ls>) and of <ls>PadmaP. ii, 80</ls> and <ls n="PadmaP.">iv, 42.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>75935<pc>406,3<k1>Cidra<k2>Cidra/<e>2A
+256392 old ¦ leaky, <ls>MBh. v, 1307</ls>; <ls n="MBh.">1047</ls> (= <ls n="MBh.">xii, 8782</ls>)<info lex="inh"/>
+;
+256392 new ¦ leaky, <ls>MBh. v, 1307</ls>; <ls n="MBh. v,">1047</ls> (= <ls n="MBh.">xii, 8782</ls>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>78297<pc>416,2<k1>jalpa<k2>jalpa<e>2B
+263904 old <s>jalpa</s> ¦ <lex>n.</lex> for <s>°lpya</s>, <ls>MBh. i, 5066 (<ab>C</ab>)</ls>; <ls>R. ii, 60, 14</ls><info lex="n"/>
+;
+263904 new <s>jalpa</s> ¦ <lex>n.</lex> for <s>°lpya</s>, <ls>MBh. i, 5066</ls> (<ab>C</ab>); <ls>R. ii, 60, 14</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>92564<pc>480,1<k1>digvijaya<k2>dig—vijaya<e>3A
+310971 old ¦ <ab>N.</ab> of a section of the <ls>MBh.</ls> (<ls n="MBh.">ii, 983</ls>-<ls n="MBh.">1203</ls>) describing the victories of <s1>Yudhiṣṭhira</s1><info lex="inh"/>
+;
+310971 new ¦ <ab>N.</ab> of a section of the <ls>MBh.</ls> (<ls n="MBh.">ii, 983</ls>-<ls n="MBh. ii,">1203</ls>) describing the victories of <s1>Yudhiṣṭhira</s1><info lex="inh"/>
+;---------------------------------------------------
+; <L>100775<pc>514,2<k1>DAneya<k2>DAneya<e>2
+337788 old <s>DAneya</s> & <s>DAne°yaka</s>, ¦ <lex>n.</lex> coriander, <ls>Bhpr.</ls>; <ls>MBh. 13, 5468</ls> (<ab>B.</ab>?).<info lex="n"/>
+;
+337788 new <s>DAneya</s> & <s>DAne°yaka</s>, ¦ <lex>n.</lex> coriander, <ls>Bhpr.</ls>; <ls>MBh. xiii, 5468</ls> (<ab>B.</ab>?).<info lex="n"/>
+;---------------------------------------------------
+; <L>109978<pc>557,3<k1>nirvARa<k2>nir-vARa<e>3B
+369112 old ¦ (with <ns>Buddhists</ns> and <s1>Jaina</s1>s) absolute extinction or annihilation (= <s>SUnya</s>, <ls>L.</ls>) of individual existence or of all desires and passions, <ls>MWB. 137</ls>-<ls n="MBh.">139</ls> &c.<info lex="inh"/>
+;
+369112 new ¦ (with <ns>Buddhists</ns> and <s1>Jaina</s1>s) absolute extinction or annihilation (= <s>SUnya</s>, <ls>L.</ls>) of individual existence or of all desires and passions, <ls>MWB. 137</ls>-<ls n="MWB.">139</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>110072<pc>558,1<k1>nirvft<k2>nir-vft<e>1
+369419 old <s>nir-√ vft</s> ¦ <ab>Ā.</ab> <s>-vartate</s> (<ab>P.</ab> only in <ab>fut.</ab> <s>-vartsyAmi</s>, to cause to roll out or cast (as dice), <ls>MBh. iv, 24 [B.]</ls>; <ab>fut.</ab> <s>-vartsyati</s> and <ab>cond.</ab> <s>-avartsyat</s>, to take place, happen, <ls>Bhaṭṭ.</ls>),
+;
+369419 new <s>nir-√ vft</s> ¦ <ab>Ā.</ab> <s>-vartate</s> (<ab>P.</ab> only in <ab>fut.</ab> <s>-vartsyAmi</s>, to cause to roll out or cast (as dice), <ls>MBh. iv, 24</ls> [B.]; <ab>fut.</ab> <s>-vartsyati</s> and <ab>cond.</ab> <s>-avartsyat</s>, to take place, happen, <ls>Bhaṭṭ.</ls>),
+;---------------------------------------------------
+; <L>118196<pc>598,3<k1>pariBrajj<k2>pari-Brajj<e>1
+397534 old <s>pari-√ Brajj</s> ¦ only <ab>pr. p.</ab> <s>-Bfjjyat</s> (with <ab>pass.</ab> meaning, <ls>MBh. [B.] xi, 97</ls> <ab>C.</ab>, <s>-Bujyat</s>) and <ab>Caus.</ab> <s>-Barjayati</s> (<ls>Bhpr.</ls>), to fry, roast, parch.<info verb="pre" cp="" parse="pari+Brajj"/>
+;
+397534 new <s>pari-√ Brajj</s> ¦ only <ab>pr. p.</ab> <s>-Bfjjyat</s> (with <ab>pass.</ab> meaning, <ls>MBh. [B.]</ls> <ls n="MBh.">xi, 97</ls> <ab>C.</ab>, <s>-Bujyat</s>) and <ab>Caus.</ab> <s>-Barjayati</s> (<ls>Bhpr.</ls>), to fry, roast, parch.<info verb="pre" cp="" parse="pari+Brajj"/>
+;---------------------------------------------------
+; <L>118531<pc>600,3<k1>parivAS<k2>pari-vAS<e>1
+398646 old <s>pari-√ vAS</s> ¦ (only <ab>Ā.</ab> <ab>impf.</ab> <s>paryavASanta</s>), to cry about or together with (<ab>acc.</ab>), <ls>MBh. (B.) xvi, 49</ls> (<ab>C.</ab> <s>-arAsanta</s>). <info verb="pre" cp="Ā" parse="pari+vAS"/>
+;
+398646 new <s>pari-√ vAS</s> ¦ (only <ab>Ā.</ab> <ab>impf.</ab> <s>paryavASanta</s>), to cry about or together with (<ab>acc.</ab>), <ls>MBh. (B.)</ls> <ls n="MBh.">xvi, 49</ls> (<ab>C.</ab> <s>-arAsanta</s>). <info verb="pre" cp="Ā" parse="pari+vAS"/>
+;---------------------------------------------------
+; <L>118796<pc>602,2<k1>pariSuc<k2>pari-Suc<e>1
+399596 old <div n="vp"/><ab>Caus.</ab> <s>-Socayati</s> (<ab>ind.p.</ab> <s>-Socya</s>), to pain, torment, <ls>MBh. (B.) vi, 1902</ls>;
+;
+399596 new <div n="vp"/><ab>Caus.</ab> <s>-Socayati</s> (<ab>ind.p.</ab> <s>-Socya</s>), to pain, torment, <ls>MBh. (B.)</ls> <ls n="MBh.">vi, 1902</ls>;
+;---------------------------------------------------
+; <L>197959<pc>976,1<k1>vipralaB<k2>vi-pra-laB<e>1
+658571 old <div n="to"/>to regain, recover, <ls>MBh. (B.) xiv, 1732</ls> (<ab>C.</ab> <s>pra-vi-l°</s>, <ab>prob.</ab> <ab>w.r.</ab> for <s>prati-l°</s>) :
+;
+658571 new <div n="to"/>to regain, recover, <ls>MBh. (B.)</ls> <ls n="MBh.">xiv, 1732</ls> (<ab>C.</ab> <s>pra-vi-l°</s>, <ab>prob.</ab> <ab>w.r.</ab> for <s>prati-l°</s>) :
+;---------------------------------------------------
+; <L>210026<pc>1039,1<k1>vyAvf<k2>vy-A-vf<e>1
+698554 old <s>vy-A-√ vf</s> ¦ only 3. <ab>pl.</ab> <ab>impf.</ab> <ab>P.</ab> <s>vyA<srs/>vfRvan</s>, ‘they chose’, <ls>MBh. (B.) i, 4413</ls> (<ab>C.</ab> <s>vyavfRvan</s>)<info verb="pre" cp="P" parse="vi+A+vf"/><info hui="b"/>
+;
+698554 new <s>vy-A-√ vf</s> ¦ only 3. <ab>pl.</ab> <ab>impf.</ab> <ab>P.</ab> <s>vyA<srs/>vfRvan</s>, ‘they chose’, <ls>MBh. (B.)</ls> <ls n="MBh.">i, 4413</ls> (<ab>C.</ab> <s>vyavfRvan</s>)<info verb="pre" cp="P" parse="vi+A+vf"/><info hui="b"/>
+;---------------------------------------------------
+; <L>228841<pc>1130,2<k1>saMGarza<k2>saM-Garza<e>2A
+759218 old ¦ sexual excitement, <ls>MBh. (B.) xv, 840</ls> (<ab>C.</ab> <s>saMharza</s>)<info lex="inh"/>
+;
+759218 new ¦ sexual excitement, <ls>MBh. (B.)</ls> <ls n="MBh.">xv, 840</ls> (<ab>C.</ab> <s>saMharza</s>)<info lex="inh"/>
+;---------------------------------------------------
+; <L>262845<pc>1298,2<k1>hiqimbavaDa<k2>hiqimba—vaDa<e>3
+870497 old <s>hiqimba—vaDa</s> ¦ <lex>m.</lex> ‘the killing of <s1>Hiḍimba</s1>’, an episode of the <s1>Mahā-bhārata</s1>, <ls n="MBh.">i, 152</ls>-<ls n="MBh.">156</ls>.<info lex="m"/>
+;
+870497 new <s>hiqimba—vaDa</s> ¦ <lex>m.</lex> ‘the killing of <s1>Hiḍimba</s1>’, an episode of the <s1>Mahā-bhārata</s1>, <ls n="MBh.">i, 152</ls>-<ls n="MBh. i,">156</ls>.<info lex="m"/>
+;---------------------------------------------------

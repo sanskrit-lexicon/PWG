@@ -1,0 +1,15 @@
+; <L>2254<pc>2-290-a<k1>anvatrasta<k2>anvatrasta
+6995 old {#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3 (5,1811)</ls> fehlerhaft für {#avitrasta#}.
+;
+6995 new {#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3</ls> (<ls n="MBH.">5,1811</ls>) fehlerhaft für {#avitrasta#}.
+;---------------------------------------------------
+; <L>4364<pc>3-258-c<k1>kawukaBAzin<k2>kawukaBAzin
+14558 old {#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3. 40,13</ls>.
+;
+14558 new {#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3,40,13</ls>.
+;---------------------------------------------------
+; <L>7961<pc>5-262-a<k1>brahmalOkika<k2>brahmalOkika
+25613 old {#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,150 (151),46</ls>.
+;
+25613 new {#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,151,46</ls> (150).
+;---------------------------------------------------

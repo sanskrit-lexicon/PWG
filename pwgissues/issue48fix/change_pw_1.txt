@@ -1,0 +1,80 @@
+; <L>44938<pc>3-017-b<k1>tarj<k2>tarj
+184226 old <div n="1">— 5〉 {#tarjayase#} <ls>MBH. 4,567 (4,33,1)</ls> fehlerhaft für {#tarkayase#}.
+;
+184226 new <div n="1">— 5〉 {#tarjayase#} <ls>MBH. 4,567</ls> (4,33,1) fehlerhaft für {#tarkayase#}.
+;---------------------------------------------------
+; <L>60495<pc>3-231-a<k1>nI<k2>nI<h>1
+248471 old <div n="m">— <ab>Intens.</ab> {#nenIya/te#} {%gefangen führen, in seiner Gewalt haben%}. Scheinbar mit <ab>pass.</ab> <ab>Bed.</ab> <ls>MBH. 12,7082 (12,194,17)</ls> und <ls n="MBH. 12,">10502 (12,285,18)</ls>; es ist aber wie <ls n="MBH.">12,8989 (12,248,16)</ls> {#guRAn#} <ab>st.</ab> {#guREs#} zu lesen.
+;
+248471 new <div n="m">— <ab>Intens.</ab> {#nenIya/te#} {%gefangen führen, in seiner Gewalt haben%}. Scheinbar mit <ab>pass.</ab> <ab>Bed.</ab> <ls>MBH. 12,7082</ls> (12,194,17) und <ls n="MBH. 12,">10502</ls> (12,285,18; es ist aber wie <ls n="MBH.">12,8989</ls> (12,248,16) {#guRAn#} <ab>st.</ab> {#guREs#} zu lesen.
+;---------------------------------------------------
+; <L>64424<pc>4-047-b<k1>parisrazwar<k2>parisrazwar
+265816 old {#parisrazwar#}¦ <ab>Nom. ag.</ab> {%in Berührung stehend —, Etwas zu thun habend mit%} <ls>MBH. 12,248,21 (Bl. 112,a)</ls>.
+;
+265816 new {#parisrazwar#}¦ <ab>Nom. ag.</ab> {%in Berührung stehend —, Etwas zu thun habend mit%} <ls>MBH. 12,248,21</ls> (Bl. 112,a).
+;---------------------------------------------------
+; <L>65465<pc>4-062-b<k1>pAYcarAtrika<k2>pAYcarAtrika<h>2
+270149 old <hom>2.</hom> {#pAYcarAtrika#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs {%zum%} <is>Pāñcarātra</is> {%in Beziehung stehend%} <ls>MBH. 12,338, No. 67</ls>.
+;
+270149 new <hom>2.</hom> {#pAYcarAtrika#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs {%zum%} <is>Pāñcarātra</is> {%in Beziehung stehend%} <ls>MBH. 12,338</ls>, <span>No. 67</span>.
+;---------------------------------------------------
+; <L>68729<pc>4-107-c<k1>puzpy<k2>puzpy
+283604 old !√{#puzpy#}¦, {#puzpyati#} {%blühen%}. <ab>Med.</ab> {#puzpyamARa#} Bisweilen fälschlich {#puzpati#} geschrieben (<ab>z. B.</ab> <ls>MBH. ed. Vardh. 12,25,8</ls>) und auch mit <hom>1.</hom> √{#puz#} verwechselt (<ab>z. B.</ab> <ls>MBH. ed. Bomb. 12,25,8. 58,26</ls>. <ls>MĀLATĪM. ed. Bomb. 326,6</ls> = <ls>UTTARAR. 49,2</ls>).
+;
+283604 new !√{#puzpy#}¦, {#puzpyati#} {%blühen%}. <ab>Med.</ab> {#puzpyamARa#} Bisweilen fälschlich {#puzpati#} geschrieben (<ab>z. B.</ab> <ls>MBH. ed. Vardh. 12,25,8</ls>) und auch mit <hom>1.</hom> √{#puz#} verwechselt (<ab>z. B.</ab> <ls>MBH. ed. Bomb. 12,25,8.</ls> <ls n="MBH. ed. Bomb. 12,">58,26</ls>. <ls>MĀLATĪM. ed. Bomb. 326,6</ls> = <ls>UTTARAR. 49,2</ls>).
+;---------------------------------------------------
+; <L>72211<pc>4-156-a<k1>praTamatrisOparRa<k2>praTamatrisOparRa
+297337 old {#praTamatrisOparRa#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338, S. 257,b.</ls>
+;
+297337 new {#praTamatrisOparRa#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338</ls>, S. 257,b.
+;---------------------------------------------------
+; <L>77815<pc>4-235-b<k1>brahmagItA<k2>brahmagItA
+320447 old <div n="1">— 1〉 <ab>Pl.</ab> {%die von%} <is>Brahman</is> {%gesprochenen Verse%} <ls>MBH. 13,35,5-11</ls>.
+;
+320447 new <div n="1">— 1〉 <ab>Pl.</ab> {%die von%} <is>Brahman</is> {%gesprochenen Verse%} <ls>MBH. 13,35,5</ls>-<ls n="MBH. 13,35,">11</ls>.
+;---------------------------------------------------
+; <L>83693<pc>5-035-a<k1>mard<k2>mard
+346235 old <div n="1">— 2〉 {%reiben%}. — {#avamardataH#} <ls>MBH. 7. 1831</ls> fehlerhaft für {#api#} {#majjataH#}.
+;
+346235 new <div n="1">— 2〉 {%reiben%}. — {#avamardataH#} <ls>MBH. 7,1831</ls> fehlerhaft für {#api#} {#majjataH#}.
+;---------------------------------------------------
+; <L>84352<pc>5-044-a<k1>mahAtuzita<k2>mahAtuzita
+348964 old {#mahAtuzita#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs <ls>VIṢṆUS. 98,43</ls>. <ls>MBH. 12,338, No. 48</ls>.
+;
+348964 new {#mahAtuzita#}¦ <lex>m.</lex> <ab>Bein.</ab> <is>Viṣṇu</is>ʼs <ls>VIṢṆUS. 98,43</ls>. <ls>MBH. 12,338</ls>, No. 48.
+;---------------------------------------------------
+; <L>119480<pc>7-049-a<k1>saptamahABAga<k2>saptamahABAga
+499223 old {#saptamahABAga#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,4. No. 43</ls> nach <ls>NĪLAK.</ls> = {#saptaBirgAyatryAdiBirarpaRIyAHsaptEva#} {#mahAnto#} {#yajYaBAgA#} {#yasya#}. Im <ls>VIṢṆUS.</ls> werden {#sapta#} {#mahABAga#} als zwei Beiwörter gefasst.
+;
+499223 new {#saptamahABAga#}¦ <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,4.</ls> No. 43 nach <ls>NĪLAK.</ls> = {#saptaBirgAyatryAdiBirarpaRIyAHsaptEva#} {#mahAnto#} {#yajYaBAgA#} {#yasya#}. Im <ls>VIṢṆUS.</ls> werden {#sapta#} {#mahABAga#} als zwei Beiwörter gefasst.
+;---------------------------------------------------
+; <L>127324<pc>7-160-a<k1>suyantrita<k2>suyantrita
+530913 old <div n="1">— 3〉 <ls>MBH. 8,4246 (8,83,39)</ls> fehlerhaft für {#suyattrita#} wie <ls>ed. Vardh. 8,83,29</ls> liest.
+;
+530913 new <div n="1">— 3〉 <ls>MBH. 8,4246</ls> (8,83,39) fehlerhaft für {#suyattrita#} wie <ls>ed. Vardh. 8,83,29</ls> liest.
+;---------------------------------------------------
+; <L>128299<pc>7-172-a<k1>susaMsfzwa<k2>susaMsfzwa
+534748 old {#susaMsfzwa#}¦ <lex>Adj.</lex> <ls>MBH. 13,5876. 6460 (13,141,71)</ls> fehlerhaft für {#susaMmfzwa#}.
+;
+534748 new {#susaMsfzwa#}¦ <lex>Adj.</lex> <ls>MBH. 13,5876. 6460</ls> (13,141,71) fehlerhaft für {#susaMmfzwa#}.
+;---------------------------------------------------
+; <L>202254<pc>2-290-a<k1>anvatrasta<k2>anvatrasta
+574560 old {#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3 (5,1811)</ls> fehlerhaft für {#avitrasta#}.<info n="sup_2"/>
+;
+574560 new {#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3</ls> (<ls n="MBH.">5,1811</ls>) fehlerhaft für {#avitrasta#}.<info n="sup_2"/>
+;---------------------------------------------------
+; <L>204001<pc>3-255-a<k1>asajjant<k2>asajjant
+581050 old {#asajjant#}¦ <lex>Adj.</lex> {%nicht hängend an%} (<ab>Loc.</ab>) <ls>MBH. 12,248,19 (Bl. 112,a)</ls>.<info n="sup_3"/>
+;
+581050 new {#asajjant#}¦ <lex>Adj.</lex> {%nicht hängend an%} (<ab>Loc.</ab>) <ls>MBH. 12,248,19</ls> (Bl. 112,a).<info n="sup_3"/>
+;---------------------------------------------------
+; <L>205843<pc>4-301-b<k1>paYcamahAkalpa<k2>paYcamahAkalpa
+586732 old {#paYcamahAkalpa#}¦ <lex>Adj.</lex> <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338, No. 114</ls>.<info n="sup_4"/>
+;
+586732 new {#paYcamahAkalpa#}¦ <lex>Adj.</lex> <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338</ls>, No. 114.<info n="sup_4"/>
+;---------------------------------------------------
+; <L>207961<pc>5-262-a<k1>brahmalOkika<k2>brahmalOkika
+593266 old {#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,150 (151),46</ls>.<info n="sup_5"/>
+;
+593266 new {#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,151,46</ls> (150).<info n="sup_5"/>
+;---------------------------------------------------

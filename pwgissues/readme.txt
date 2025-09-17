@@ -2,6 +2,8 @@ Issue titles
 
 Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 
+* issue48 MBH Bombay edition links
+* issue48fix MBH Bombay edition links  ls splitting
 * issue62 Amarakosha link target
 * issue62fix ls splitting check
 * issue67 German word corrections
