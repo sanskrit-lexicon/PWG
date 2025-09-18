@@ -1,0 +1,45 @@
+; <L>10029<pc>1-0787<k1>iti<k2>i/ti<h>1
+88729 old <ls>ŚṚṄGĀRAT. 5. 16.</ls>
+;
+88729 new <ls>ŚṚṄGĀRAT. 5.</ls> <ls n="ŚṚṄGĀRAT.">16.</ls>
+;---------------------------------------------------
+; <L>10109<pc>1-0800<k1>indIvara<k2>indIvara
+89658 old <ls>ŚṚṄGĀRAT. 3. 20.</ls>
+;
+89658 new <ls>ŚṚṄGĀRAT. 3.</ls> <ls n="ŚṚṄGĀRAT.">20.</ls>
+;---------------------------------------------------
+; <L>14764<pc>2-0056<k1>kandarpa<k2>kandarpa
+134061 old <ls>ŚṚṄGĀRAT. 1. 2.</ls>
+;
+134061 new <ls>ŚṚṄGĀRAT. 1.</ls> <ls n="ŚṚṄGĀRAT.">2.</ls>
+;---------------------------------------------------
+; <L>14989<pc>2-0072<k1>kam<k2>kam<h>2
+135988 old <ls>ŚṚṄGĀRAT. 1. 8.</ls>
+;
+135988 new <ls>ŚṚṄGĀRAT. 1.</ls> <ls n="ŚṚṄGĀRAT.">8.</ls>
+;---------------------------------------------------
+; <L>15001<pc>2-0074<k1>kamala<k2>kama/la<h>1
+136230 old <ls>ŚṚṄGĀRAT. 15. 21.</ls> {#kamalavadanA#}
+;
+136230 new <ls>ŚṚṄGĀRAT. 15.</ls> <ls n="ŚṚṄGĀRAT.">21.</ls> {#kamalavadanA#}
+;---------------------------------------------------
+; <L>17236<pc>2-0285<k1>kim<k2>kim
+159578 old <ls n="HIT.">39,4.</ls> <ls>ŚĀK. 8,3. 23,11. 29,12. 61,9.</ls> <ls>HIT. I,72.</ls> <ls>VID. 296.</ls> <ls>BRAHMA-P. in LA. 57,2.</ls> <ls>ŚṚṄGĀRAT. 14. 19. 21.</ls> {#kawamakArzIH kim . na karomi#} oder {#nAkArzam#}
+;
+159578 new <ls n="HIT.">39,4.</ls> <ls>ŚĀK. 8,3. 23,11. 29,12. 61,9.</ls> <ls>HIT. I,72.</ls> <ls>VID. 296.</ls> <ls>BRAHMA-P. in LA. 57,2.</ls> <ls>ŚṚṄGĀRAT. 14.</ls> <ls n="ŚṚṄGĀRAT.">19.</ls> <ls n="ŚṚṄGĀRAT.">21.</ls> {#kawamakArzIH kim . na karomi#} oder {#nAkArzam#}
+;---------------------------------------------------
+; <L>17890<pc>2-0341<k1>kumBa<k2>kumBa/
+166038 old <ls>ŚṚṄGĀRAT. 14. 9, v. l.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH prAgdvAravediviniveSitapUrRakumBAm — navopakAryAm#}
+;
+166038 new <ls>ŚṚṄGĀRAT. 14.</ls> <ls n="ŚṚṄGĀRAT.">9, v. l.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#AH prAgdvAravediviniveSitapUrRakumBAm — navopakAryAm#}
+;---------------------------------------------------
+; <L>20802<pc>2-0589<k1>KaYjana<k2>KaYjana
+194206 old <ls>MED. n. 55.</ls> <ls>HĀR. 87.</ls> <ls>SUŚR. 1,115,2.</ls> <ls>ŚṚṄGĀRAT. 4. 5.</ls> <ls>GĪT. 11,27.</ls> {#netre KaYjanagaYjane#}
+;
+194206 new <ls>MED. n. 55.</ls> <ls>HĀR. 87.</ls> <ls>SUŚR. 1,115,2.</ls> <ls>ŚṚṄGĀRAT. 4.</ls> <ls n="ŚṚṄGĀRAT.">5.</ls> <ls>GĪT. 11,27.</ls> {#netre KaYjanagaYjane#}
+;---------------------------------------------------
+; <L>38669<pc>4-0130<k1>nikara<k2>nikara
+377657 old <ls>ŚṚṄGĀRAT. 7. 10.</ls>
+;
+377657 new <ls>ŚṚṄGĀRAT. 7.</ls> <ls n="ŚṚṄGĀRAT.">10.</ls>
+;---------------------------------------------------

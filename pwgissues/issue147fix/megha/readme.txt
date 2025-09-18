@@ -19,7 +19,7 @@ cp /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt temp_sch_0.txt
 cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw_0.txt
 
 --------------------------------------
-link target sample: https://sanskrit-lexicon-scans.github.io/kumaras/app1?N,N
+link target sample: https://sanskrit-lexicon-scans.github.io/meghasrnga/app1?N
 
 --------------------------------------
 pwg, pw,pwkvn  MEGH. 

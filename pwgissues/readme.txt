@@ -72,8 +72,8 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue145 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI, 2 parameter references 
 * issue146 KUMĀRASAM̃BHAVA 
 * issue146fix KUMĀRASAM̃BHAVA  split ls
-* issue147 MEGHADŪTA
-* issue147fix MEGHADŪTA split ls 
+* issue147 MEGHADŪTA and Śṛṅgāratilaka
+* issue147fix MEGHADŪTA and Śṛṅgāratilaka split ls 
 * issue148 BHARTṚHARI
 * issue148fix/chaura 'CAURAP. N'
 * issue148fix/bhartr 'BHARTṚ.  N,N'
