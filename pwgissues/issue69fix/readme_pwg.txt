@@ -4,17 +4,7 @@ issue69fix
 pwg link forms:
 Verz. d. Oxf. H. ([0-9]+)
 
-python lsfix2_alt.py pwg temp_pwg_0.txt lsfix2_pwg_0.txt 
 
-14743 lines written to lsfix2_pwg_0.txt
-(None, 1) 14654
-(True, 1) 63
-('fixed', 1) 6
-(False, 1) 20
-
-512921 <ls>Verz. d. Oxf. H. 25,b,1. 39,a,24. 40,a,1</ls>
-259525	jalaMDara	<ls>Verz. d. Oxf. H. 16,a. 45,a.</ls>
-1015993	sidDakzetra	<ls>Verz. d. Oxf. H. 20,b,43. 21,a,32. 53,a,6: 79,a,30.</ls>
 cp temp_pwg_0.txt temp_pwg_1.txt
 
 python lsfix2_alt.py 01 pwg temp_pwg_1.txt fixwork/lsfix2_pwg_1_01.txt 

@@ -3,8 +3,7 @@
 """
 def testnoncapture(analyze,fixopt):
  tests = [
-     '113,b,10. 162,b,32. 170,a, No. 378. fg. b, No. 380. 179,a, No. 410. 183,a,4. 184. fgg., No. 422. fgg. 196,a, No. 454. b, No. 456. 211,a,9. 10.'
-
+'31,a,4. 6. 87,a,4. 6. 87,b. 32. 97,b,38.'
 
     
   
