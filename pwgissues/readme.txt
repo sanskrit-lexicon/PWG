@@ -7,6 +7,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue62 Amarakosha link target
 * issue62fix ls splitting check
 * issue67 German word corrections
+* issue69fix  Verz. D. Oxf. H. link target splitting
 * issue70 katha-sarit-sagara link target
 * issue70fix katha-sarit-sagara link target ls splitting
 * issue71 standardization of pwg links for KATHĀS.

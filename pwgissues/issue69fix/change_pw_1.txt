@@ -1,0 +1,20 @@
+; <L>5733<pc>1-068-a<k1>anvayin<k2>anvayin
+21267 old <div n="1">— 2〉 {%mit Etwas zusammenhängend, sich aus Etwas ergebend%}. Dazu <ab>Nom. abstr.</ab> {#°yitA#} <lex>f.</lex> <ls>Verz. d. Oxf. H. 229,b,20</ls>. {#°yitva#} <lex>n.</lex> <ls n="Verz. d. Oxf. H.">34</ls>.
+;
+21267 new <div n="1">— 2〉 {%mit Etwas zusammenhängend, sich aus Etwas ergebend%}. Dazu <ab>Nom. abstr.</ab> {#°yitA#} <lex>f.</lex> <ls>Verz. d. Oxf. H. 229,b,20</ls>. {#°yitva#} <lex>n.</lex> <ls n="Verz. d. Oxf. H. 229,b,">34</ls>.
+;---------------------------------------------------
+; <L>46941<pc>3-043-a<k1>tEtiri<k2>tEtiri
+192544 old {#tEtiri#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>Verz. d. Oxf. H. 55,3</ls> <ab>v. u.</ab> <ab>Vgl.</ab> {#tEtili#} und {#tEttiri#}.
+;
+192544 new {#tEtiri#}¦ <lex>m.</lex> <ab>N. pr.</ab> eines Mannes <ls>Verz. d. B. H. 55,3</ls> <ab>v. u.</ab> <ab>Vgl.</ab> {#tEtili#} und {#tEttiri#}.
+;---------------------------------------------------
+; <L>131712<pc>7-226-b<k1>smAram<k2>smAram
+549471 old {#smAram#}¦ <ab>Absol.</ab> {%gedenkend, sich erinnernd an%} (<ab>Acc.</ab>). Stets wiederholt <ls>VOP. 26,219</ls>. <ls>Spr. 1404</ls>. <ls>UTTAMAC. 311</ls>. <ls>Verz. d. Oxf. H. 161,2</ls>. <ab>v. u.</ab>
+;
+549471 new {#smAram#}¦ <ab>Absol.</ab> {%gedenkend, sich erinnernd an%} (<ab>Acc.</ab>). Stets wiederholt <ls>VOP. 26,219</ls>. <ls>Spr. 1404</ls>. <ls>UTTAMAC. 311</ls>. <ls>Verz. d. Oxf. H. 161,b,2</ls>. <ab>v. u.</ab>
+;---------------------------------------------------
+; <L>205832<pc>4-301-b<k1>nyAyaprasUnAYjali<k2>nyAyaprasUnAYjali
+586699 old {#nyAyaprasUnAYjali#}¦ <lex>m.</lex> Titel eines Werkes, = {#nyAyakusumAYjali#} <ls>Verz. d. Oxf. H. No. 599. S. 264, Sp, 3, Z. 12</ls>, lies {#DarmapASa#}.<info n="sup_4"/>
+;
+586699 new {#nyAyaprasUnAYjali#}¦ <lex>m.</lex> Titel eines Werkes, = {#nyAyakusumAYjali#} <ls>Verz. d. Oxf. H. No. 599.</ls> S. 264, Sp, 3, Z. 12, lies {#DarmapASa#}.<info n="sup_4"/>
+;---------------------------------------------------

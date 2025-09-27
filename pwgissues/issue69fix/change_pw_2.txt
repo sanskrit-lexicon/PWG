@@ -1,0 +1,30 @@
+; <L>92951<pc>5-173-c<k1>rasaDenu<k2>rasaDenu
+385325 old {#rasaDenu#}¦ <lex>f.</lex> {%eine aus Fruchtsäften dargestellte Kuh%} <ls>HEMĀDRI 1,407,11. 434,13. 17</ls>. <ls>Verz. d. Oxf. H. 35,b,41. 59,a,22</ls>.
+;
+385325 new {#rasaDenu#}¦ <lex>f.</lex> {%eine aus Fruchtsäften dargestellte Kuh%} <ls>HEMĀDRI 1,407,11. 434,13. 17</ls>. <ls>Verz. d. Oxf. H. 35,b,41.</ls> <ls n="Verz. d. Oxf. H.">59,a,22</ls>.
+;---------------------------------------------------
+; <L>102682<pc>6-093-b<k1>vidyAdAna<k2>vidyAdAna
+429000 old {#vidyAdAna#}¦ <lex>n.</lex> {%das Mittheilen einer Wissenschaft, das Unterweisen in einer <ab n="Wissenschaft">W.</ab>,%} <ab>insbes.</ab> {%im heiligen Wissen%} <ls>Verz. d. Oxf. H. 35,a,44. 87,a,32</ls>. <ls>HEMĀDRI 1,560,19</ls>.
+;
+429000 new {#vidyAdAna#}¦ <lex>n.</lex> {%das Mittheilen einer Wissenschaft, das Unterweisen in einer <ab n="Wissenschaft">W.</ab>,%} <ab>insbes.</ab> {%im heiligen Wissen%} <ls>Verz. d. Oxf. H. 35,a,44.</ls> <ls n="Verz. d. Oxf. H.">87,a,32</ls>. <ls>HEMĀDRI 1,560,19</ls>.
+;---------------------------------------------------
+; <L>109059<pc>6-188-b<k1>vrataBaNga<k2>vrataBaNga
+455893 old {#vrataBaNga#}¦ <lex>m.</lex> {%das Brechen eines Gelübdes%} <ls>Verz. d. Oxf. H. 88,a,27. 282,b,41. fg.</ls>
+;
+455893 new {#vrataBaNga#}¦ <lex>m.</lex> {%das Brechen eines Gelübdes%} <ls>Verz. d. Oxf. H. 88,a,27.</ls> <ls n="Verz. d. Oxf. H.">282,b,41. fg.</ls>
+;---------------------------------------------------
+; <L>112559<pc>6-237-a<k1>Sivakavaca<k2>Sivakavaca
+470341 old {#Sivakavaca#}¦ <lex>n.</lex> Titel verschiedener <is>Kavaca</is> <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>. <ls>Verz. d. Oxf. H. 26,a,37. 74,b,9. 94,a,39</ls>.
+;
+470341 new {#Sivakavaca#}¦ <lex>n.</lex> Titel verschiedener <is>Kavaca</is> <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>. <ls>Verz. d. Oxf. H. 26,a,37.</ls> <ls n="Verz. d. Oxf. H.">74,b,9.</ls> <ls n="Verz. d. Oxf. H.">94,a,39</ls>.
+;---------------------------------------------------
+; <L>112634<pc>6-237-c<k1>SivapUjA<k2>SivapUjA
+470640 old {#SivapUjA#}¦ <lex>f.</lex> <is>Śiva</is>ʼs {%Verehrung%} <ls>Verz. d. Oxf. H. 45,a,23. 85,a,42. 273,b,24</ls>. Als Titel, {#°padDati#} <lex>f.</lex>, {#°mahiman#} <lex>m.</lex>, {#°viDAna#} <lex>n.</lex> und {#°viDi#} <lex>m.</lex> <ab>desgl.</ab> <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.
+;
+470640 new {#SivapUjA#}¦ <lex>f.</lex> <is>Śiva</is>ʼs {%Verehrung%} <ls>Verz. d. Oxf. H. 45,a,23.</ls> <ls n="Verz. d. Oxf. H.">85,a,42.</ls> <ls n="Verz. d. Oxf. H.">273,b,24</ls>. Als Titel, {#°padDati#} <lex>f.</lex>, {#°mahiman#} <lex>m.</lex>, {#°viDAna#} <lex>n.</lex> und {#°viDi#} <lex>m.</lex> <ab>desgl.</ab> <ls>BURNELL, T.</ls> <ls>OPP. CAT. 1</ls>.
+;---------------------------------------------------
+; <L>115211<pc>6-275-b<k1>SrImantra<k2>SrImantra
+481700 old {#SrImantra#}¦ <lex>m.</lex> {%ein Gebet an die%} <is>Śrī</is> <ls>Verz. d. Oxf. H. 93,b,19. 105,b,15. 16</ls>.
+;
+481700 new {#SrImantra#}¦ <lex>m.</lex> {%ein Gebet an die%} <is>Śrī</is> <ls>Verz. d. Oxf. H. 93,b,19.</ls> <ls n="Verz. d. Oxf. H.">105,b,15. 16</ls>.
+;---------------------------------------------------
