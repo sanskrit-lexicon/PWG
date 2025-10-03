@@ -25,6 +25,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue84 ŚATAPATHABRĀHMAṆA link target
 * issue85 Several Formatting Issues: <ls>MÜLLER</ls>?'
 * issue86 PAÑCAT.	PAÑCATANTRA.  link target
+* issue86fix PAÑCATANTRA link splitting
 * issue87 Indische Sprüche 1st ed. link target
 * issue88 List of 20 words from dem Text der ...
 * issue90 Ṛv. wrongly for Ṛv. PRĀTIŚ.

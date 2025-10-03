@@ -1,0 +1,30 @@
+; <L>74096<pc>4-183-c<k1>prARadakziRA<k2>prARadakziRA
+305365 old {#prARadakziRA#}¦ <lex>f.</lex> {%das Geschenk des Leben%} <ls>PAÑCAT. 23,1,20</ls>.
+;
+305365 new {#prARadakziRA#}¦ <lex>f.</lex> {%das Geschenk des Leben%} <ls>PAÑCAT. 231,20</ls>.
+;---------------------------------------------------
+; <L>76578<pc>4-219-a<k1>bahvapAya<k2>bahvapAya
+315415 old {#bahvapAya#}¦ <lex>Adj.</lex> {%mit vielen Gefahren verbunden%} <ls>PAÑCAT. 8,21,25. 30,25</ls>.
+;
+315415 new {#bahvapAya#}¦ <lex>Adj.</lex> {%mit vielen Gefahren verbunden%} <ls>PAÑCAT. 8,21. 25. 30,25</ls>.
+;---------------------------------------------------
+; <L>78974<pc>4-253-a<k1>Barts<k2>Barts
+325382 old √{#Barts#}¦, {#Bartsati#} (selten), {#Bartsayati#}, {#°te#} (vom <ab>Med.</ab> nur {#BartsayamAna#} <ls>PAÑCAT. ed. Bomb. 2,17,19</ls>. {#BartsamAna#} <ls>PAÑCAT. ed. KOSEG.</ls> Fehlerhaft); <ab>Fut.</ab> {#BartsyAmi#} <ls>AV.</ls>
+;
+325382 new √{#Barts#}¦, {#Bartsati#} (selten), {#Bartsayati#}, {#°te#} (vom <ab>Med.</ab> nur {#BartsayamAna#} <ls>PAÑCAT. ed. Bomb. 2,17,19</ls>. {#BartsamAna#} <ls>PAÑCAT.</ls> Fehlerhaft); <ab>Fut.</ab> {#BartsyAmi#} <ls>AV.</ls>
+;---------------------------------------------------
+; <L>91092<pc>5-144-a<k1>yuj<k2>yuj<h>1
+377178 old <div n="1">— 15〉 <ab>Pass.</ab> {%passen, — zu%} (<ab>Instr.</ab>), {%wohin%} (<ab>Loc.</ab>), {%sich schicken, — für Jmd%} (<ab>Loc.</ab>; statt des <ab>Loc.</ab> {#dvayos#} <ls>PAÑCAT. ed. Bomb. 2,11,6</ls> hat <ls>PAÑCAT. ed. KOSEG.</ls> {#dvAByAm#}), {%gemäss sein, sich ziemen, sich eignen zu%} so <ab>v. a.</ab> {%Etwas%} (<ab>Nomin.</ab>) {%zu sein verdienen, Etwas aller Ordnung nach sein müssen, zukommen, — Jmd%} (<ab>Loc.</ab> oder <ab>Gen.</ab>), {%recht sein, logisch richtig sein%}. Mit {#na#} und <ab>Infin.</ab> {%sich nicht schicken —, nicht gerathen sein —, nicht am Platze sein zu, — für Jmd%} (<ab>Instr.</ab> oder <ab>Gen.</ab>); {%nicht dürfen%} (mit passivisch wiederzugebendem <ab>Infin.</ab>; die Person, durch die Etwas nicht geschehen soll, im <ab>Instr.</ab> oder <ab>Gen.</ab>).
+;
+377178 new <div n="1">— 15〉 <ab>Pass.</ab> {%passen, — zu%} (<ab>Instr.</ab>), {%wohin%} (<ab>Loc.</ab>), {%sich schicken, — für Jmd%} (<ab>Loc.</ab>; statt des <ab>Loc.</ab> {#dvayos#} <ls>PAÑCAT. ed. Bomb. 2,11,6</ls> hat <ls>PAÑCAT.</ls> {#dvAByAm#}), {%gemäss sein, sich ziemen, sich eignen zu%} so <ab>v. a.</ab> {%Etwas%} (<ab>Nomin.</ab>) {%zu sein verdienen, Etwas aller Ordnung nach sein müssen, zukommen, — Jmd%} (<ab>Loc.</ab> oder <ab>Gen.</ab>), {%recht sein, logisch richtig sein%}. Mit {#na#} und <ab>Infin.</ab> {%sich nicht schicken —, nicht gerathen sein —, nicht am Platze sein zu, — für Jmd%} (<ab>Instr.</ab> oder <ab>Gen.</ab>); {%nicht dürfen%} (mit passivisch wiederzugebendem <ab>Infin.</ab>; die Person, durch die Etwas nicht geschehen soll, im <ab>Instr.</ab> oder <ab>Gen.</ab>).
+;---------------------------------------------------
+; <L>129064<pc>7-182-a<k1>sUryAsta<k2>sUryAsta
+537763 old {#sUryAsta#}¦ <lex>m.</lex> {%Sonnenuntergang%} <ls>PAÑCAT. 111. 187</ls>.
+;
+537763 new {#sUryAsta#}¦ <lex>m.</lex> {%Sonnenuntergang%} <ls>PAÑCAT. III,187</ls>.
+;---------------------------------------------------
+; <L>133572<pc>7-254-b<k1>har<k2>har<h>1
+557959 old <div n="1">— 2〉 {%erretten, befreien, — aus%} (<ab>Abl.</ab>). {#udDArita#} <ls>PAÑCAT. ed. Bomb. 2,41,10</ls>. {#udDarita#} fehlerhaft <ls>ebend. 2,12,7</ls> und <ls>PAÑCAT. ed. KOSEG. 114,17. 141,10</ls>.
+;
+557959 new <div n="1">— 2〉 {%erretten, befreien, — aus%} (<ab>Abl.</ab>). {#udDArita#} <ls>PAÑCAT. ed. Bomb. 2,41,10</ls>. {#udDarita#} fehlerhaft ebend. <ls n="PAÑCAT. ed. Bomb.">2,12,7</ls> und <ls>PAÑCAT. 114,17. 141,10</ls>.
+;---------------------------------------------------

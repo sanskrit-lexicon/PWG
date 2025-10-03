@@ -1,0 +1,95 @@
+; <L>9623<pc>1-113-b<k1>arDajvalita<k2>arDajvalita
+36140 old {#arDajvalita#}¦ <lex>Adj.</lex> {%halb brennend%} <ls>PAÑCAT. 254,20. 21</ls>.
+;
+36140 new {#arDajvalita#}¦ <lex>Adj.</lex> {%halb brennend%} <ls>PAÑCAT. 254,20.</ls> <ls n="PAÑCAT. 254,">21</ls>.
+;---------------------------------------------------
+; <L>10708<pc>1-126-a<k1>avazwamBa<k2>avazwamBa
+40359 old <div n="1">— 2〉 {%das Greifen zu Etwas, Anwendung%} <ls>PAÑCAT. 21,20. 24</ls>. <ls>SĀH. D. 333,19</ls>.
+;
+40359 new <div n="1">— 2〉 {%das Greifen zu Etwas, Anwendung%} <ls>PAÑCAT. 21,20.</ls> <ls n="PAÑCAT. 21,">24</ls>. <ls>SĀH. D. 333,19</ls>.
+;---------------------------------------------------
+; <L>15364<pc>1-181-c<k1>AyuHSeza<k2>AyuHSeza<h>2
+58162 old <hom>2.</hom> {#AyuHSeza#}¦ <lex>Adj.</lex> {%dessen Lebenszeit noch nicht abgelaufen ist%} <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>PAÑCAT. 9,4. 127,3</ls>.
+;
+58162 new <hom>2.</hom> {#AyuHSeza#}¦ <lex>Adj.</lex> {%dessen Lebenszeit noch nicht abgelaufen ist%} <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>PAÑCAT. 9,4.</ls> <ls n="PAÑCAT.">127,3</ls>.
+;---------------------------------------------------
+; <L>23193<pc>2-002-b<k1>kakza<k2>ka/kza
+90044 old <div n="2">— a〉 {%Achselgrube%} <ls>MṚCCH. 152,3</ls>. <ls>PAÑCAT. 32,25. 33,4. 34,13. 20</ls>.
+;
+90044 new <div n="2">— a〉 {%Achselgrube%} <ls>MṚCCH. 152,3</ls>. <ls>PAÑCAT. 32,25.</ls> <ls n="PAÑCAT.">33,4.</ls> <ls n="PAÑCAT.">34,13.</ls> <ls n="PAÑCAT. 34,">20</ls>.
+;---------------------------------------------------
+; <L>25142<pc>2-028-b<k1>karpara<k2>karpara
+98602 old <div n="1">— 3〉 <lex>n.</lex> {%Scherbe%} <ls>PAÑCAT. 217,21. 22. 218,11. 12</ls>.
+;
+98602 new <div n="1">— 3〉 <lex>n.</lex> {%Scherbe%} <ls>PAÑCAT. 217,21.</ls> <ls n="PAÑCAT. 217,">22.</ls> <ls n="PAÑCAT.">218,11.</ls> <ls n="PAÑCAT. 218,">12</ls>.
+;---------------------------------------------------
+; <L>50018<pc>3-085-c<k1>dAseraka<k2>dAseraka
+205536 old <div n="2">— c〉 {%Kamel,%} <ab>insbes.</ab> {%ein junges%} <ls>PAÑCAT. 228,15. 20</ls>.
+;
+205536 new <div n="2">— c〉 {%Kamel,%} <ab>insbes.</ab> {%ein junges%} <ls>PAÑCAT. 228,15.</ls> <ls n="PAÑCAT. 228,">20</ls>.
+;---------------------------------------------------
+; <L>50430<pc>3-091-c<k1>diSoBAga<k2>diSoBAga
+207274 old {#diSoBAga#}¦ <lex>Adj.</lex> <ls>PAÑCAT. 232,16. 18</ls> fehlerhaft für {#diSoBAj#}.
+;
+207274 new {#diSoBAga#}¦ <lex>Adj.</lex> <ls>PAÑCAT. 232,16.</ls> <ls n="PAÑCAT. 232,">18</ls> fehlerhaft für {#diSoBAj#}.
+;---------------------------------------------------
+; <L>62889<pc>4-024-b<k1>padmaniDi<k2>padmaniDi
+259448 old {#padmaniDi#}¦ <lex>m.</lex> {%einer der 9 Schätze%} <is>Kubera</is>ʼs personificirt <ls>PAÑCAT. 135,10. 11</ls>.
+;
+259448 new {#padmaniDi#}¦ <lex>m.</lex> {%einer der 9 Schätze%} <is>Kubera</is>ʼs personificirt <ls>PAÑCAT. 135,10.</ls> <ls n="PAÑCAT. 135,">11</ls>.
+;---------------------------------------------------
+; <L>67409<pc>4-090-a<k1>pInAyatakakudmant<k2>pInAyatakakudmant
+278382 old {#pInAyatakakudmant#}¦ <lex>Adj.</lex> {%einen fetten und hohen Höcker habend%} <ls>PAÑCAT. 30,19. 20</ls>.
+;
+278382 new {#pInAyatakakudmant#}¦ <lex>Adj.</lex> {%einen fetten und hohen Höcker habend%} <ls>PAÑCAT. 30,19.</ls> <ls n="PAÑCAT. 30,">20</ls>.
+;---------------------------------------------------
+; <L>76578<pc>4-219-a<k1>bahvapAya<k2>bahvapAya
+315415 old {#bahvapAya#}¦ <lex>Adj.</lex> {%mit vielen Gefahren verbunden%} <ls>PAÑCAT. 8,21. 25. 30,25</ls>.
+;
+315415 new {#bahvapAya#}¦ <lex>Adj.</lex> {%mit vielen Gefahren verbunden%} <ls>PAÑCAT. 8,21.</ls> <ls n="PAÑCAT. 8,">25.</ls> <ls n="PAÑCAT.">30,25</ls>.
+;---------------------------------------------------
+; <L>90152<pc>5-126-a<k1>yad<k2>ya/d
+372833 old <div n="2">— a〉 <ab>dass.</ab> Nach {%sagen, denken%} <ab>u. s. w.</ab> vor einer directen Rede und zwar in der Regel ohne nachfolgendes {#iti#} <ls>PAÑCAT. 160,24. 172,7. 213,18. 218,2. 236,2</ls>.
+;
+372833 new <div n="2">— a〉 <ab>dass.</ab> Nach {%sagen, denken%} <ab>u. s. w.</ab> vor einer directen Rede und zwar in der Regel ohne nachfolgendes {#iti#} <ls>PAÑCAT. 160,24.</ls> <ls n="PAÑCAT.">172,7.</ls> <ls n="PAÑCAT.">213,18.</ls> <ls n="PAÑCAT.">218,2.</ls> <ls n="PAÑCAT.">236,2</ls>.
+;---------------------------------------------------
+; <L>95735<pc>5-216-c<k1>labDapraRASa<k2>labDapraRASa
+397669 old {#labDapraRASa#}¦ <lex>m.</lex> <ab>dass.</ab> Titel des 4ten Buches im <is>Pañcatantra</is> <ls>PAÑCAT. 5,10. 205,1</ls>.
+;
+397669 new {#labDapraRASa#}¦ <lex>m.</lex> <ab>dass.</ab> Titel des 4ten Buches im <is>Pañcatantra</is> <ls>PAÑCAT. 5,10.</ls> <ls n="PAÑCAT.">205,1</ls>.
+;---------------------------------------------------
+; <L>97371<pc>6-005-c<k1>vacanaracanA<k2>vacanaracanA
+405033 old {#vacanaracanA#}¦ {%geschickte Rede, Beredsamkeit%} <ls>PAÑCAT. 68,5. 161,2</ls>.
+;
+405033 new {#vacanaracanA#}¦ {%geschickte Rede, Beredsamkeit%} <ls>PAÑCAT. 68,5.</ls> <ls n="PAÑCAT.">161,2</ls>.
+;---------------------------------------------------
+; <L>97906<pc>6-014-a<k1>vanakAzWikA<k2>vanakAzWikA
+407387 old {#vanakAzWikA#}¦ <lex>f.</lex> {%ein im Walde liegendes dürres Reis%} <ls>PAÑCAT. 194,12. 19. 195,6</ls>.
+;
+407387 new {#vanakAzWikA#}¦ <lex>f.</lex> {%ein im Walde liegendes dürres Reis%} <ls>PAÑCAT. 194,12.</ls> <ls n="PAÑCAT. 194,">19.</ls> <ls n="PAÑCAT.">195,6</ls>.
+;---------------------------------------------------
+; <L>107911<pc>6-169-c<k1>vErayAtanA<k2>vErayAtanA
+450881 old <div n="1">— 1〉 {%Vergeltung von Feindseligkeiten, Rache%} <ls>MBH. 12,139,18</ls>. <ls>HARIV. 11232</ls>. <ls>PAÑCAT. 111,9. 188,3</ls>.
+;
+450881 new <div n="1">— 1〉 {%Vergeltung von Feindseligkeiten, Rache%} <ls>MBH. 12,139,18</ls>. <ls>HARIV. 11232</ls>. <ls>PAÑCAT. 111,9.</ls> <ls n="PAÑCAT.">188,3</ls>.
+;---------------------------------------------------
+; <L>110256<pc>6-205-b<k1>SabdarUpa<k2>SabdarUpa<h>1
+460878 old <div n="1">— 1〉 {%die Natur —, Eigenthümlichkeit eines Lautes, ein eigenthümlicher Laut%} <ls>PAÑCAT. 21,24. 25</ls>.
+;
+460878 new <div n="1">— 1〉 {%die Natur —, Eigenthümlichkeit eines Lautes, ein eigenthümlicher Laut%} <ls>PAÑCAT. 21,24.</ls> <ls n="PAÑCAT. 21,">25</ls>.
+;---------------------------------------------------
+; <L>119659<pc>7-051-a<k1>sapraSrayam<k2>sapraSrayam
+499834 old {#sapraSrayam#}¦ <lex>Adv.</lex> {%ehrerbietig, bescheiden%} <ls>Spr. 2422</ls>. <ls>KATHĀS. 6,42</ls>. <ls>PAÑCAT. 25,25. 33,12. 236,17</ls>. <ls>VĀSAV. 240,8</ls> (= {#saviSvAsam#} <ab>Comm.</ab>).
+;
+499834 new {#sapraSrayam#}¦ <lex>Adv.</lex> {%ehrerbietig, bescheiden%} <ls>Spr. 2422</ls>. <ls>KATHĀS. 6,42</ls>. <ls>PAÑCAT. 25,25.</ls> <ls n="PAÑCAT.">33,12.</ls> <ls n="PAÑCAT.">236,17</ls>. <ls>VĀSAV. 240,8</ls> (= {#saviSvAsam#} <ab>Comm.</ab>).
+;---------------------------------------------------
+; <L>123829<pc>7-113-b<k1>sADusamAcAra<k2>sADusamAcAra<h>2
+516593 old <hom>2.</hom> {#sADusamAcAra#}¦ <lex>Adj.</lex> {%rechtschaffen%} <ls>Spr. 7398</ls>. <ls>PAÑCAT. 24,19. 20. 41,17</ls>.
+;
+516593 new <hom>2.</hom> {#sADusamAcAra#}¦ <lex>Adj.</lex> {%rechtschaffen%} <ls>Spr. 7398</ls>. <ls>PAÑCAT. 24,19.</ls> <ls n="PAÑCAT. 24,">20.</ls> <ls n="PAÑCAT.">41,17</ls>.
+;---------------------------------------------------
+; <L>133572<pc>7-254-b<k1>har<k2>har<h>1
+557959 old <div n="1">— 2〉 {%erretten, befreien, — aus%} (<ab>Abl.</ab>). {#udDArita#} <ls>PAÑCAT. ed. Bomb. 2,41,10</ls>. {#udDarita#} fehlerhaft ebend. <ls n="PAÑCAT. ed. Bomb.">2,12,7</ls> und <ls>PAÑCAT. 114,17. 141,10</ls>.
+;
+557959 new <div n="1">— 2〉 {%erretten, befreien, — aus%} (<ab>Abl.</ab>). {#udDArita#} <ls>PAÑCAT. ed. Bomb. 2,41,10</ls>. {#udDarita#} fehlerhaft ebend. <ls n="PAÑCAT. ed. Bomb.">2,12,7</ls> und <ls>PAÑCAT. 114,17.</ls> <ls n="PAÑCAT.">141,10</ls>.
+;---------------------------------------------------

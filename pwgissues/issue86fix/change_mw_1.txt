@@ -1,0 +1,75 @@
+; <L>34674<pc>199,1<k1>upadAtf<k2>upa-dAtf<h>1<e>2
+122119 old <hom>1.</hom> <s>upa-dAtf</s> ¦ (for <hom>2.</hom> See <ab>col.</ab> 2) <lex>mfn.</lex> one who gives or grants or confers, <ls>Pañcat. iv, 107</ls> (<ab>ed.</ab> Bombay). <info lex="m:f:n"/>
+;
+122119 new <hom>1.</hom> <s>upa-dAtf</s> ¦ (for <hom>2.</hom> See <ab>col.</ab> 2) <lex>mfn.</lex> one who gives or grants or confers, <ls>Pañcat. (ed. Bombay) iv, 107</ls>. <info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>47157<pc>267,2<k1>kAkaruka<k2>kAkaruka<e>1A
+163715 old ¦ a coward, craven, <ls>Pañcat. ix, 15</ls><info lex="inh"/>
+;
+163715 new ¦ a coward, craven, <ls>Pañcat. 9, 15</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>59452<pc>328,2<k1>kzIRa<k2>kzIRa/<e>2A
+203002 old ¦ poor, miserable, <ls>Pañcat. iv, 16</ls> and <ls n="Pañcat. iv,">32</ls><info lex="inh"/>
+;
+203002 new ¦ poor, miserable, <ls>Pañcat. iv, 16</ls> and <ls n="Pañcat. iv, ">32</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>65791<pc>358,2<k1>guRigaRa<k2>guRi—gaRa<e>3
+223292 old <s>guRi—gaRa</s> ¦ <lex>m.</lex> a number of virtuous persons, <ls>Pañcat. <ab>Introd.</ab> 7.</ls><info lex="m"/>
+;
+223292 new <s>guRi—gaRa</s> ¦ <lex>m.</lex> a number of virtuous persons, <ls>Pañcat. Introd. 7.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>70549<pc>381,2<k1>cakrANkitA<k2>cakrANkitA<e>3
+238807 old <s>cakrA<srs/>NkitA</s> ¦ <lex>f.</lex> a kind of plant, <ls>Pañcat. iii, 73/74.</ls><info lex="f"/>
+;
+238807 new <s>cakrA<srs/>NkitA</s> ¦ <lex>f.</lex> a kind of plant, <ls>Pañcat. iii, 72/73.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>76684<pc>409,3<k1>jaqAtman<k2>jaqAtman<e>3
+258776 old <s>jaqA<srs/>tman</s> ¦ <lex>mfn.</lex> ‘cold-natured, and stupid’, <ls n="Pañcat.">iii, 11/12</ls>; <ls>Vcar.</ls><info lex="m:f:n"/>
+;
+258776 new <s>jaqA<srs/>tman</s> ¦ <lex>mfn.</lex> ‘cold-natured, and stupid’, <ls n="Pañcat.">iii, 12, 11/12</ls>; <ls>Vcar.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>78079<pc>415,2<k1>jalavAhaka<k2>jala—vAhaka<e>3
+263238 old <s>jala—vAhaka</s> ¦ <lex>m.</lex> a water-carrier, <ls>Pañcat. iii, 67/68.</ls><info lex="m"/>
+;
+263238 new <s>jala—vAhaka</s> ¦ <lex>m.</lex> a water-carrier, <ls>Pañcat. iii, 66/67.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>79008<pc>419,3<k1>jAraja<k2>jAra—ja<e>3
+266255 old <s>jAra—ja</s> ¦ <lex>m.</lex> = <s>-garBa</s>, <ls>Pañcat. <ab>Introd.</ab> 6</ls>; <ls>Mn. iii, 158/159.</ls><info lex="m"/>
+;
+266255 new <s>jAra—ja</s> ¦ <lex>m.</lex> = <s>-garBa</s>, <ls>Pañcat. Introd. 6</ls>; <ls>Mn. iii, 158/159.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>79520<pc>422,1<k1>jihvAlOlya<k2>jihvA—lOlya<e>3
+267874 old <s>jihvA—lOlya</s> ¦ <lex>n.</lex> greediness, <ls>Pañcat. i., f.</ls><info lex="n"/>
+;
+267874 new <s>jihvA—lOlya</s> ¦ <lex>n.</lex> greediness, <ls>Pañcat. i.</ls> f.<info lex="n"/>
+;---------------------------------------------------
+; <L>82044<pc>434,1<k1>taTyavacana<k2>taTya—vacana<e>3
+276296 old <s>taTya—vacana</s> ¦ <lex>n.</lex> a promise, <ls>Pañcat. <ab>Introd.</ab> 10/11</ls>,<info lex="n"/>
+;
+276296 new <s>taTya—vacana</s> ¦ <lex>n.</lex> a promise, <ls>Pañcat. Introd. 10/11</ls>,<info lex="n"/>
+;---------------------------------------------------
+; <L>84047<pc>443,1<k1>tAmbUlavAhaka<k2>tAmbUla—vAhaka<e>3
+282825 old <s>tAmbUla—vAhaka</s> ¦ <lex>m.</lex> = <s>-da</s>, <ls>Pañcat. iii, 67/68.</ls><info lex="m"/>
+;
+282825 new <s>tAmbUla—vAhaka</s> ¦ <lex>m.</lex> = <s>-da</s>, <ls>Pañcat. iii, 66/67.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>85572<pc>449,1<k1>tIrTa<k2>tIrTa/<e>2A
+287638 old ¦ <ab>N.</ab> of certain counsellors of a king (enumerated in <ls>Pañcat. iii, 67/68</ls>), <ls>MBh. ii, 171</ls>; <ls>Ragh. xvii</ls>; <ls>Śiś. xiv</ls><info lex="inh"/>
+;
+287638 new ¦ <ab>N.</ab> of certain counsellors of a king (enumerated in <ls>Pañcat. iii, 66/67</ls>), <ls>MBh. ii, 171</ls>; <ls>Ragh. xvii</ls>; <ls>Śiś. xiv</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>188286<pc>928,3<k1>vallaBa<k2>vallaBa<e>2A
+626864 old ¦ dearer than (<ab>abl.</ab>), <ls>Pañcat. iv, 28</ls><info lex="inh"/>
+;
+626864 new ¦ dearer than (<ab>abl.</ab>), <ls>Pañcat. iv, 67/68</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>199802<pc>986,1<k1>viluRw<k2>vi-luRw<e>1
+664713 old <s>vi-√ luRw</s> ¦ (only <ab>ind.p.</ab> <s>-luRwya</s>), to unhusk, <ls>Pañcat. iii, 32/83</ls> (<ab>v.l.</ab> for <s>luYcitvA</s>). <info verb="pre" cp="" parse="vi+luRw"/>
+;
+664713 new <s>vi-√ luRw</s> ¦ (only <ab>ind.p.</ab> <s>-luRwya</s>), to unhusk, <ls>Pañcat. iii, 82/83</ls> (<ab>v.l.</ab> for <s>luYcitvA</s>). <info verb="pre" cp="" parse="vi+luRw"/>
+;---------------------------------------------------
+; <L>201991<pc>997,1<k1>vizamaSIla<k2>vi-zama—SIla<e>3B
+672190 old ¦ (<ab>w.r.</ab> for <s>vizama-SilA</s>, ‘an uneven rock’, <ls>Pañcat. iii, 310/311</ls>)<info lex="inh"/>
+;
+672190 new ¦ (<ab>w.r.</ab> for <s>vizama-SilA</s>, ‘an uneven rock’, <ls>Pañcat. iii, 210/211</ls>)<info lex="inh"/>
+;---------------------------------------------------
