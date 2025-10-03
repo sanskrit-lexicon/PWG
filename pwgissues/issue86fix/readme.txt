@@ -1,6 +1,6 @@
 issue86fix/readme.txt
 09-29-2025 begun ejf
-fix references to  PaÒcatantra, Kosegarten, 1848  
+fix references to  Pa√±catantra, Kosegarten, 1848  
 
 sanskrit-lexicon-scans/
 
@@ -25,9 +25,16 @@ split work for pwg
 see readme_pwg.txt 
 
 Add about 1165 additional links to target
- about 500 references to 'PA—CAT. ed. orn.'  -- a different link target
+ about 500 references to 'PA√ëCAT. ed. orn.'  -- a different link target
     Some marked as 'ed. orn.'
- about 20 to 'PA—CAT. ed. Bomb.' -- a different target
+ From Google Gemini:
+    Meaning: 'Ed. orn.' is an abbreviation for ƒìditi≈ç ≈çrnƒÅtior (Latin for "more ornamented edition") or textus ornatior ("more ornamented text").
+
+The Text: This refers to the version of the Pa√±catantra finalized by the Jaina monk P≈´r·πáabhadra in 1199 CE.
+https://archive.org/details/panchatantracoll00purnuoft/page/n1/mode/2up
+  Harvard Oriental Series: Johannes Hertel  1908.
+  
+ about 20 to 'PA√ëCAT. ed. Bomb.' -- a different target
 
 temp_pwg_2.txt
 =====================================================
@@ -80,7 +87,7 @@ diff temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt | wc -l
 cd /c/xampp/htdocs/cologne/csl-orig/
 git pull
 git add .
-git commit -m "issue86fix  splitting 'PA—CAT. ' refs
+git commit -m "issue86fix  splitting 'PA√ëCAT. ' refs
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 # 4 files changed, 890 insertions(+), 890 deletions(-)
 git push
@@ -91,7 +98,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
 cd /c/xampp/htdocs/cologne/csl-websanlexicon
 git pull
 git add .
-git commit -m "issue86fix  splitting 'PA—CAT. ' refs
+git commit -m "issue86fix  splitting 'PA√ëCAT. ' refs
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
@@ -101,7 +108,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
 cd /c/xampp/htdocs/cologne/csl-apidev
 git pull
 git add .
-git commit -m "issue86fix  splitting 'PA—CAT. ' refs
+git commit -m "issue86fix  splitting 'PA√ëCAT. ' refs
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
@@ -114,7 +121,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
 cd /c/xampp/htdocs/cologne/csl-corrections
 git pull
 git add .
-git commit -m "issue86fix  'PA—CAT. '
+git commit -m "issue86fix  'PA√ëCAT. '
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
@@ -144,7 +151,7 @@ sh generate_dict.sh mw  ../../MWScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue86fix
 git pull
 git add .
-git commit -m "issue86fix 'PA—CAT. ' link splitting
+git commit -m "issue86fix 'PA√ëCAT. ' link splitting
 Ref: https://github.com/sanskrit-lexicon/pwg/issues/160"
 git push
 
