@@ -43,23 +43,7 @@ sh xmlchk_xampp.sh pwg
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue100fix
 -- end of 'remake xml ...'
 
--------------------------------------------------------------
-Create Some documentation files
-
-python lsfix2.py pwg temp_pwg_2.txt lsfix2_pwg_2.txt
-
-2686 lines written to lsfix2_pwg_2.txt
-
-(True, 2) 6389
-(None, 2) 51
-
-(- 6389 4556)  1833 additional standard links
-
 ---------------------------------------------------
 ---- documentation in change files
 python diff_to_changes_dict.py temp_pwg_0.txt temp_pwg_1.txt change_pwg_1.txt
-105 changes written to change_pwg_1.txt
-
-python diff_to_changes_dict.py temp_pwg_1.txt temp_pwg_2.txt change_pwg_2.txt
-742 changes written to change_pwg_2.txt
-
+7 changes written to change_pwg_1.txt

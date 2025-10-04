@@ -29,16 +29,17 @@ splitting multiple references into sequences of standard references,
 and making manual changes to the kosha.
 
 See the readme files for these koshas:
+Only a few changes.
 
-readme_pwg.txt 1833 additional standard links;  1 print change.
+readme_pwg.txt 7 new links added.
 
-readme_pw.txt  19 new links added.  (temp_pw_2.txt)
+readme_pw.txt  19 new links added.  
   
 readme_pwkvn.txt  no changes.  
  
 readme_sch.txt  2 links added.  (temp_sch_1.txt)
 
-readme_mw.txt  1 new links; 2 changes (temp_mw_1.txt)
+readme_mw.txt  1 new link; 2 changes (temp_mw_1.txt)
 
   
 ================================================

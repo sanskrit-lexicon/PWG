@@ -1,0 +1,35 @@
+; <L>6464<pc>1-0481<k1>avaBfTa<k2>avaBfTa/
+54751 old <ls n="KĀTY. ŚR. 19,">5,12.</ls> <ls n="KĀTY. ŚR. 19,">7,11.</ls> <ls n="KĀTY. ŚR.">2,8,17.</ls> — <ls>ĀŚV. ŚR. 6,10.</ls> <ls n="ĀŚV. ŚR. 6,">13.</ls> <ls>GṚHY. 1,10.</ls> <ls n="GṚHY.">6,13.</ls> <ls>KAUŚ. 140.</ls> <ls>CHĀND. UP. 3,17,5.</ls> <ls>M. 11,82.</ls> <ls>YĀJÑ. 3,244.</ls> <ls>INDR. 5,29.</ls> <ls>MBH. 12,240.</ls> <ls>R. 4,22,32.</ls> <ls>RAGH. 1,84.</ls> <ls n="RAGH.">6,61.RAGH.9,18.RAGH.11,31.</ls>
+;
+54751 new <ls n="KĀTY. ŚR. 19,">5,12.</ls> <ls n="KĀTY. ŚR. 19,">7,11.</ls> <ls n="KĀTY. ŚR.">2,8,17.</ls> — <ls>ĀŚV. ŚR. 6,10.</ls> <ls n="ĀŚV. ŚR. 6,">13.</ls> <ls>GṚHY. 1,10.</ls> <ls n="GṚHY.">6,13.</ls> <ls>KAUŚ. 140.</ls> <ls>CHĀND. UP. 3,17,5.</ls> <ls>M. 11,82.</ls> <ls>YĀJÑ. 3,244.</ls> <ls>INDR. 5,29.</ls> <ls>MBH. 12,240.</ls> <ls>R. 4,22,32.</ls> <ls>RAGH. 1,84.</ls> <ls n="RAGH.">6,61.</ls> <ls n="RAGH.">9,18.</ls> <ls n="RAGH.">11,31.</ls>
+;---------------------------------------------------
+; <L>16080<pc>2-0199<k1>kAkutsTa<k2>kAkutsTa/
+149307 old <ls>RAGH. 6,2. <is>Daśaratha's</is></ls>
+;
+149307 new <ls>RAGH. 6,2.</ls> <is>Daśaratha's</is>
+;---------------------------------------------------
+; <L>16080<pc>2-0199<k1>kAkutsTa<k2>kAkutsTa/
+149310 old <ls>RAGH. 12,46. <is>Lakṣmaṇa's</is></ls>
+;
+149310 new <ls>RAGH. 12,46.</ls> <is>Lakṣmaṇa's</is>
+;---------------------------------------------------
+; <L>23118<pc>2-0799<k1>godAna<k2>godA/na<h>2
+218072 old <ls>R. 1,71,23.</ls> <ls n="R. 1,">72,21.</ls> <ls n="R. 1,72,">24.</ls> <ls n="R. 1,">73,1.</ls> Nach <ls>MALLIN.</ls> zu <ls>RAGH. a. a. O.</ls> soll {#godAna = keSAnta#} sein: {#gAvo lomAni keSA dIyante KaRqyanta 'sminniti#} .
+;
+218072 new <ls>R. 1,71,23.</ls> <ls n="R. 1,">72,21.</ls> <ls n="R. 1,72,">24.</ls> <ls n="R. 1,">73,1.</ls> Nach <ls>MALLIN.</ls> zu <ls>RAGH.</ls> a. a. O. soll {#godAna = keSAnta#} sein: {#gAvo lomAni keSA dIyante KaRqyanta 'sminniti#} .
+;---------------------------------------------------
+; <L>90523<pc>6-0958<k1>vAS<k2>vAS
+831766 old <ls>RAGH. 11,61</ls> (<ls n="RAGH.">ed. ST.</ls> {#vavAsire#}, <ls n="RAGH.">ed. Calc.</ls> {#vavASire)#} .
+;
+831766 new <ls>RAGH. 11,61</ls> (<ls n="RAGH.">ed. ST.</ls> {#vavAsire#}, <ls n="RAGH.">ed. Calc.</ls> {#vavASire#}) .
+;---------------------------------------------------
+; <L>99308<pc>7-0183<k1>SiYj<k2>SiYj
+918230 old <ls n="RAGH.">9,36 (45).</ls>
+;
+918230 new <ls n="RAGH.">9,36</ls> (<ls n="RAGH. ed. Calc. 9,">45</ls>).
+;---------------------------------------------------
+; <L>113928<pc>7-1285<k1>sTA<k2>sTA<h>1
+1057637 old <ls>RAGH. 12,12,49.</ls> Fahne
+;
+1057637 new <ls>RAGH. 12,49.</ls> Fahne
+;---------------------------------------------------
