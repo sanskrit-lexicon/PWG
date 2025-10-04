@@ -1,0 +1,10 @@
+; <L>9927<pc>53,3<k1>apahArita<k2>apa-hArita<e>2
+36371 old <s>apa-hArita</s> ¦ <lex>mfn.</lex> carried off, <ls>R.</ls>; <ls>Ragh. iii., 50.</ls><info lex="m:f:n"/>
+;
+36371 new <s>apa-hArita</s> ¦ <lex>mfn.</lex> carried off, <ls>R.</ls>; <ls>Ragh. iii, 50.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>109039<pc>551,2<k1>nimIlitamuKa<k2>ni-mIlita—muKa<e>4
+365685 old <s>ni-°mIlita—muKa</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ls>Ragh. xix, 28, C.</ls> <s>-dfS</s> <ab>cf.</ab> above) = <s>-dfS</s><info lex="m:f#I:n"/>
+;
+365685 new <s>ni-°mIlita—muKa</s> ¦ <lex>mf(<s>I</s>)n.</lex> (<ls>Ragh. xix, 28</ls>, <ls>Ragh. (C) xix, 28</ls> <s>-dfS</s> <ab>cf.</ab> above) = <s>-dfS</s><info lex="m:f#I:n"/>
+;---------------------------------------------------
