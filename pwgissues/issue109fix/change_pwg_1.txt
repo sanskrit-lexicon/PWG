@@ -1,0 +1,100 @@
+; <L>2454<pc>1-0181<k1>anasUya<k2>anasUya
+20370 old <ls>RAGH. (ed. Calc.) 12,27.</ls>
+;
+20370 new <ls>RAGH. ed. Calc. 12,27.</ls>
+;---------------------------------------------------
+; <L>2915<pc>1-0213<k1>anumAna<k2>anumA/na
+24053 old <ls>RAGH. (ed. Calc.) 4,5.</ls> <ls>Verz. d. B. H. No. 667. 671.</ls>
+;
+24053 new <ls>RAGH. ed. Calc. 4,5.</ls> <ls>Verz. d. B. H. No. 667. 671.</ls>
+;---------------------------------------------------
+; <L>4098<pc>1-0301<k1>apAya<k2>apAya
+33827 old <ls>RAGH. (ed. Calc.) 1,53.</ls> {#ekApAya#} {%eine Verminderung um eins%}
+;
+33827 new <ls>RAGH. ed. Calc. 1,53.</ls> {#ekApAya#} {%eine Verminderung um eins%}
+;---------------------------------------------------
+; <L>4187<pc>1-0311<k1>apekzA<k2>apekzA
+34753 old <ls>RAGH. (ed. Calc.) 1,80.</ls>
+;
+34753 new <ls>RAGH. ed. Calc. 1,80.</ls>
+;---------------------------------------------------
+; <L>7257<pc>1-0538<k1>as<k2>as<h>2
+61638 old <ls>RAGH. (ed. Calc.) 1,35.</ls> {#rAme SrIrnyasyatAm#}
+;
+61638 new <ls>RAGH. ed. Calc. 1,35.</ls> {#rAme SrIrnyasyatAm#}
+;---------------------------------------------------
+; <L>7257<pc>1-0538<k1>as<k2>as<h>2
+61639 old <ls n="RAGH. (ed. Calc.)">12,2.</ls> {#madgehe nyastA vipreRa kenacit . AvantikABiDA yEzA#}
+;
+61639 new <ls n="RAGH. ed. Calc.">12,2.</ls> {#madgehe nyastA vipreRa kenacit . AvantikABiDA yEzA#}
+;---------------------------------------------------
+; <L>7365<pc>1-0550<k1>asahya<k2>asahya/
+62664 old <ls>RAGH. (ed. Calc.) 3,63.</ls>
+;
+62664 new <ls>RAGH. ed. Calc. 3,63.</ls>
+;---------------------------------------------------
+; <L>10503<pc>1-0846<k1>Ir<k2>Ir
+94300 old <ls>RAGH. (ed. Calc.) 4,24.</ls>
+;
+94300 new <ls>RAGH. ed. Calc. 4,24.</ls>
+;---------------------------------------------------
+; <L>13432<pc>1-1086<k1>ekAntara<k2>ekAntara
+121096 old <ls>RAGH. (ed. Calc.) 1,82.</ls>
+;
+121096 new <ls>RAGH. ed. Calc. 1,82.</ls>
+;---------------------------------------------------
+; <L>15071<pc>2-0080<k1>kar<k2>kar<h>1
+137959 old <ls>RAGH. (Calc.) 2,46, v. l.</ls> {#prakurvate kasya mano na sotsukam#}
+;
+137959 new <ls>RAGH. ed. Calc. 2,46, v. l.</ls> {#prakurvate kasya mano na sotsukam#}
+;---------------------------------------------------
+; <L>15776<pc>2-0177<k1>kalpya<k2>kalpya
+146553 old <ls>RAGH. (ed. Calc.) 5,9.</ls> ST.: {#kalpa#} .
+;
+146553 new <ls>RAGH. ed. Calc. 5,9.</ls> ST.: {#kalpa#} .
+;---------------------------------------------------
+; <L>16363<pc>2-0217<k1>kAma<k2>kA/ma<h>1
+151707 old <ls>RAGH. (ed. Calc.) 1,82.</ls> <ls>VIŚV. 3,1.</ls>
+;
+151707 new <ls>RAGH. ed. Calc. 1,82.</ls> <ls>VIŚV. 3,1.</ls>
+;---------------------------------------------------
+; <L>19326<pc>2-0446<k1>kopa<k2>kopa
+178680 old <ls>RAGH. (ed. Calc.) 1,77.</ls> {#kopArdita#}
+;
+178680 new <ls>RAGH. ed. Calc. 1,77.</ls> {#kopArdita#}
+;---------------------------------------------------
+; <L>36705<pc>3-0956<k1>DAv<k2>DAv<h>2
+357330 old <ls>RAGH. (ed. Calc.) 11,80.</ls>
+;
+357330 new <ls>RAGH. ed. Calc. 11,80.</ls>
+;---------------------------------------------------
+; <L>36831<pc>3-0972<k1>DU<k2>DU<h>1
+359190 old <ls>RAGH. (ed. Calc.) 9,72.</ls>
+;
+359190 new <ls>RAGH. ed. Calc. 9,72.</ls>
+;---------------------------------------------------
+; <L>37924<pc>4-0069<k1>nava<k2>na/va<h>1
+370806 old <ls>RAGH. (ed. Calc.) 1,72.</ls> {#°prarUQa#}
+;
+370806 new <ls>RAGH. ed. Calc. 1,72.</ls> {#°prarUQa#}
+;---------------------------------------------------
+; <L>37935<pc>4-0070<k1>navagraha<k2>navagraha<h>1
+370894 old <ls>RAGH. (ed. Calc.) 1,72.</ls>
+;
+370894 new <ls>RAGH. ed. Calc. 1,72.</ls>
+;---------------------------------------------------
+; <L>54947<pc>5-0294<k1>BIma<k2>BIma/
+533291 old <ls>RAGH. ed. Calc. 3,59. <is>Rudra</is></ls> <ls>VS. 16,40.</ls> <ls>Ind. St. 2,41.</ls>
+;
+533291 new <ls>RAGH. ed. Calc. 3,59.</ls> <is>Rudra</is> <ls>VS. 16,40.</ls> <ls>Ind. St. 2,41.</ls>
+;---------------------------------------------------
+; <L>55677<pc>5-0369<k1>Bfti<k2>Bfti/
+541367 old <ls>RAGH. ed. Calc. 1. 18.</ls> <ls>MĀRK. P. 99,16.</ls>
+;
+541367 new <ls>RAGH. ed. Calc. 1,18.</ls> <ls>MĀRK. P. 99,16.</ls>
+;---------------------------------------------------
+; <L>57974<pc>5-0588<k1>marmarAy<k2>marmarAy
+565528 old Schol. zu <ls>RAGH. ed. Calc. 4. 56.</ls>
+;
+565528 new Schol. zu <ls>RAGH. ed. Calc. 4,56.</ls>
+;---------------------------------------------------
