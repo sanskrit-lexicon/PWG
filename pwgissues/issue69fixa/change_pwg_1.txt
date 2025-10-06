@@ -1,0 +1,40 @@
+; <L>30112<pc>3-0367<k1>tulasI<k2>tulasI
+293496 old <ls>VĀYU-P.</ls> in <ls>VP. 78,N.</ls> <ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 16.</ls> <ls>BRAHMAVAIV. P.</ls> ebend. <ls n="Verz. d. Oxf. H.">23. fg. 26.</ls> Der Ursprung der Pflanzezurückgeführt auf die Haare einer gleichnamigen Göttin <ls n="Verz. d. Oxf. H.">24,a</ls>; vgl. <ls n="Verz. d. Oxf. H.">23,a,32. b,15.</ls>
+;
+293496 new <ls>VĀYU-P.</ls> in <ls>VP. 78,N.</ls> <ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 16.</ls> <ls>BRAHMAVAIV. P.</ls> ebend. <ls n="Verz. d. Oxf. H.">23. fg.</ls> <ls n="Verz. d. Oxf. H.">26.</ls> Der Ursprung der Pflanzezurückgeführt auf die Haare einer gleichnamigen Göttin <ls n="Verz. d. Oxf. H.">24,a</ls>; vgl. <ls n="Verz. d. Oxf. H.">23,a,32. b,15.</ls>
+;---------------------------------------------------
+; <L>66752<pc>5-1116<k1>AraRyaka<k2>AraRyaka
+632626 old <ls>ŚĀṄKH. GṚHY. 6,1. 2.</ls> <ls>Ind. St. 3,276. 392. fg.</ls> <ls>Verz. d. Oxf. H. 56,a,10. 12. 378.</ls> <ls n="Verz. d. Oxf. H.">393,b, No. 91.</ls>
+;
+632626 new <ls>ŚĀṄKH. GṚHY. 6,1. 2.</ls> <ls>Ind. St. 3,276. 392. fg.</ls> <ls>Verz. d. Oxf. H. 56,a,10. 12.</ls> <ls n="Verz. d. Oxf. H.">378.</ls> <ls n="Verz. d. Oxf. H.">393,b, No. 91.</ls>
+;---------------------------------------------------
+; <L>67033<pc>5-1128<k1>ASvina<k2>ASvina<h>1
+634430 old <ls>Verz. d. Oxf. H. 284,a,7</ls> v. u. <ls n="Verz. d. Oxf. H. 294,">b,12. 25. 27. 35. 47.</ls> <ls n="Verz. d. Oxf. H.">285,a,8. 9. 16. 21.</ls>
+;
+634430 new <ls>Verz. d. Oxf. H. 284,a,7</ls> v. u. <ls n="Verz. d. Oxf. H. 284,">b,12. 25. 27. 35. 47.</ls> <ls n="Verz. d. Oxf. H.">285,a,8. 9. 16. 21.</ls>
+;---------------------------------------------------
+; <L>89436<pc>6-0886<k1>vANmaya<k2>vANma/ya
+822541 old <ls n="Verz. d. Oxf. H.">210,b, No. 496, Z. 6. 14.</ls> {#stotra#}
+;
+822541 new <ls n="Verz. d. Oxf. H.">210,b, No. 497, Z. 6. 14.</ls> {#stotra#}
+;---------------------------------------------------
+; <L>92786<pc>6-1151<k1>virasa<k2>virasa
+854246 old <ls n="Spr. (I)">3035.</ls> <ls>Verz. d. Oxf. 11. 128,b,16.</ls> {#niranvayaviparyAsavirasavfttayaH#}
+;
+854246 new <ls n="Spr. (I)">3035.</ls> <ls>Verz. d. Oxf. H. 128,b,16.</ls> {#niranvayaviparyAsavirasavfttayaH#}
+;---------------------------------------------------
+; <L>99000<pc>7-0156<k1>SAlagrAma<k2>SAlagrAma
+914898 old <ls n="Verz. d. Oxf. H.">22,b,27. 29. fg. 3</ls>
+;
+914898 new <ls n="Verz. d. Oxf. H.">22,b,27. 29. fg.</ls>
+;---------------------------------------------------
+; <L>99000<pc>7-0156<k1>SAlagrAma<k2>SAlagrAma
+914899 old <ls n="Verz. d. Oxf. H.">9,b,6.</ls>
+;
+914899 new <ls n="Verz. d. Oxf. H.">39,b,6.</ls>
+;---------------------------------------------------
+; <L>100686<pc>7-0286<k1>SUlapARi<k2>SUlapARi
+931532 old <ls>Verz. d. Oxf. H. 279,b,23.</ls> <ls n="Verz. d. Oxf. H.">281,a, No. 660.</ls> <ls n="Verz. d. Oxf. H.">283,a, No. 661. b, No. 62.</ls> <ls n="Verz. d. Oxf. H.">292,b,22. fg.</ls>
+;
+931532 new <ls>Verz. d. Oxf. H. 279,b,23.</ls> <ls n="Verz. d. Oxf. H.">281,a, No. 660.</ls> <ls n="Verz. d. Oxf. H.">283,a, No. 661. b, No. 662.</ls> <ls n="Verz. d. Oxf. H.">292,b,22. fg.</ls>
+;---------------------------------------------------

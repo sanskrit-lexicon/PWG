@@ -1,4 +1,4 @@
-Issue titles
+OIssue titles
 
 Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 
@@ -8,6 +8,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue62fix ls splitting check
 * issue67 German word corrections
 * issue69fix  Verz. D. Oxf. H. link target splitting
+* issue69fixa  Verz. D. Oxf. H. link target splitting, part 2
 * issue70 katha-sarit-sagara link target
 * issue70fix katha-sarit-sagara link target ls splitting
 * issue71 standardization of pwg links for KATHĀS.
