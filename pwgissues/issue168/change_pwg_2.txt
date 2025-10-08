@@ -1,0 +1,80 @@
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+353419 old <ls>PAÑCAT. ed. orn. 41,6. 8.</ls>
+;
+353419 new <ls>PAÑCAT. ed. orn. 41,6.</ls> <ls n="PAÑCAT. ed. orn. 41,">8.</ls>
+;---------------------------------------------------
+; <L>38450<pc>4-0111<k1>nAmagrahaRa<k2>nAmagrahaRa
+375564 old <ls>PAÑCAT. ed. orn. 64,3. 15.</ls> {#PalaM katakavfkzasya yadyapyambuprasAdakam . na nAmagrahaRAdeva tasya vAri prasIdati ..#}
+;
+375564 new <ls>PAÑCAT. ed. orn. 64,3.</ls> <ls n="PAÑCAT. ed. orn. 64,">15.</ls> {#PalaM katakavfkzasya yadyapyambuprasAdakam . na nAmagrahaRAdeva tasya vAri prasIdati ..#}
+;---------------------------------------------------
+; <L>39230<pc>4-0178<k1>nirAkula<k2>nirAkula
+383108 old <ls>PAÑCAT. ed. orn. 56,4. 55,18.</ls>
+;
+383108 new <ls>PAÑCAT. ed. orn. 56,4.</ls> <ls n="PAÑCAT. ed. orn.">55,18.</ls>
+;---------------------------------------------------
+; <L>40430<pc>4-0285<k1>nItiSAstra<k2>nItiSAstra
+394594 old <ls>PAÑCAT. ed. orn. 2,18. 20.</ls>
+;
+394594 new <ls>PAÑCAT. ed. orn. 2,18.</ls> <ls n="PAÑCAT. ed. orn. 2,">20.</ls>
+;---------------------------------------------------
+; <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
+410735 old <ls>PAÑCAT. ed. orn. 53,12. 18.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 195,2.</ls> {#mayoktA sA vacanaM pratipatsyate#}
+;
+410735 new <ls>PAÑCAT. ed. orn. 53,12.</ls> <ls n="PAÑCAT. ed. orn. 53,">18.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 195,2.</ls> {#mayoktA sA vacanaM pratipatsyate#}
+;---------------------------------------------------
+; <L>48523<pc>4-0973<k1>pratilomaka<k2>pratilomaka
+472125 old <ls>PAÑCAT. ed. orn. 38,14. 39,1. 3.</ls>
+;
+472125 new <ls>PAÑCAT. ed. orn. 38,14.</ls> <ls n="PAÑCAT. ed. orn.">39,1.</ls> <ls n="PAÑCAT. ed. orn. 39,">3.</ls>
+;---------------------------------------------------
+; <L>50043<pc>4-1091<k1>prasaNga<k2>prasaNga/
+485830 old <ls>PAÑCAT. ed. orn. 38,11. 14. 17.</ls> {#tasya prasaNgo 'BUdatimAtraM sma devane#}
+;
+485830 new <ls>PAÑCAT. ed. orn. 38,11.</ls> <ls n="PAÑCAT. ed. orn. 38,">14.</ls> <ls n="PAÑCAT. ed. orn. 38,">17.</ls> {#tasya prasaNgo 'BUdatimAtraM sma devane#}
+;---------------------------------------------------
+; <L>94342<pc>6-1287<k1>vihvala<k2>vihvala
+869888 old <ls>PAÑCAT. ed. orn. 32,21. 33,12.</ls> {#madanavihvalasAlasANgI#}
+;
+869888 new <ls>PAÑCAT. ed. orn. 32,21.</ls> <ls n="PAÑCAT. ed. orn.">33,12.</ls> {#madanavihvalasAlasANgI#}
+;---------------------------------------------------
+; <L>97760<pc>7-0060<k1>Sap<k2>Sap
+903128 old <ls>PAÑCAT. ed. orn. 64,7. 17.</ls> med. <ls>AV. 7,89,3</ls> (diese Stelle ist wie
+;
+903128 new <ls>PAÑCAT. ed. orn. 64,7.</ls> <ls n="PAÑCAT. ed. orn. 64,">17.</ls> med. <ls>AV. 7,89,3</ls> (diese Stelle ist wie
+;---------------------------------------------------
+; <L>98176<pc>7-0100<k1>SarIraSuSrUzA<k2>SarIraSuSrUzA
+907731 old <ls>PAÑCAT. ed. orn. 49,15. 52,21.</ls>
+;
+907731 new <ls>PAÑCAT. ed. orn. 49,15.</ls> <ls n="PAÑCAT. ed. orn.">52,21.</ls>
+;---------------------------------------------------
+; <L>100744<pc>7-0290<k1>SfNgAra<k2>Sf/NgAra
+932154 old <ls>PAÑCAT. ed. orn. 32,24. 51,15.</ls> {#mukta°#}
+;
+932154 new <ls>PAÑCAT. ed. orn. 32,24.</ls> <ls n="PAÑCAT. ed. orn.">51,15.</ls> {#mukta°#}
+;---------------------------------------------------
+; <L>102843<pc>7-0465<k1>saMvaraRa<k2>saMva/raRa<h>1
+953097 old <ls>PAÑCAT. ed. orn. 20,7. 50,3.</ls> {#aprasidDArTasya#}
+;
+953097 new <ls>PAÑCAT. ed. orn. 20,7.</ls> <ls n="PAÑCAT. ed. orn.">50,3.</ls> {#aprasidDArTasya#}
+;---------------------------------------------------
+; <L>104058<pc>7-0578<k1>satya<k2>satya/
+966096 old <ls>PAÑCAT. ed. orn. 64,7. 16. fg.</ls> {#satyena SApayedvipram#}
+;
+966096 new <ls>PAÑCAT. ed. orn. 64,7.</ls> <ls n="PAÑCAT. ed. orn. 64,">16. fg.</ls> {#satyena SApayedvipram#}
+;---------------------------------------------------
+; <L>110247<pc>7-1057<k1>sudarSana<k2>sudarSana/
+1024795 old <ls>PAÑCAT. ed. orn. 53,19. 55,22. 25.</ls>
+;
+1024795 new <ls>PAÑCAT. ed. orn. 53,19.</ls> <ls n="PAÑCAT. ed. orn.">55,22.</ls> <ls n="PAÑCAT. ed. orn. 55,">25.</ls>
+;---------------------------------------------------
+; <L>110708<pc>7-1082<k1>suprativarman<k2>suprativarman
+1028399 old <ls>PAÑCAT. ed. orn. 58,14. 17.</ls>
+;
+1028399 new <ls>PAÑCAT. ed. orn. 58,14.</ls> <ls n="PAÑCAT. ed. orn. 58,">17.</ls>
+;---------------------------------------------------
+; <L>114485<pc>7-1373<k1>sPuw<k2>sPuw
+1065401 old <ls>PAÑCAT. ed. orn. 6,3. 7.</ls> {#kAzWakUwacaYcvA sPowitanayanaH#} {%ausgestochen%}
+;
+1065401 new <ls>PAÑCAT. ed. orn. 6,3.</ls> <ls n="PAÑCAT. ed. orn. 6,">7.</ls> {#kAzWakUwacaYcvA sPowitanayanaH#} {%ausgestochen%}
+;---------------------------------------------------

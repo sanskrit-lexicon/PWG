@@ -1,0 +1,45 @@
+; <L>36831<pc>3-0972<k1>DU<k2>DU<h>1
+358922 old <ls>PAÑCAT. I,42</ls> (<ls>ed. orn. 30</ls>).
+;
+358922 new <ls>PAÑCAT. I,42</ls> (<ls>ed. orn. I,30</ls>).
+;---------------------------------------------------
+; <L>49367<pc>4-1036<k1>praboDana<k2>praboDana
+479454 old <ls>PAÑCAT. 4,13</ls> (<ls>ed. orn. 1,16. 18. 20</ls>).
+;
+479454 new <ls>PAÑCAT. 4,13</ls> (<ls>ed. orn. 1,16.</ls> <ls n="ed. orn. 1,">18.</ls> <ls n="ed. orn. 1,">20</ls>).
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+501360 old <ls>PAÑCAT. ed. orn. 33. 12.</ls> <ls>VET. in LA. 10,11.</ls> <ls>BHAṬṬ. 9,75.</ls> {#asminhimavataH SfNge nAvam — baDnIta#}
+;
+501360 new <ls>PAÑCAT. ed. orn. 33,12.</ls> <ls>VET. in LA. 10,11.</ls> <ls>BHAṬṬ. 9,75.</ls> {#asminhimavataH SfNge nAvam — baDnIta#}
+;---------------------------------------------------
+; <L>56235<pc>5-0425<k1>maNgala<k2>maNgala/
+547468 old u.s.w. <ls>PAÑCAT. ed. orn. 57. 11.</ls> {#yatrEva praBavedvatsa tannAmaguRakIrtanam . tatra sarvARi tIrTAni puRyAni maNgalAni ca ..#}
+;
+547468 new u.s.w. <ls>PAÑCAT. ed. orn. 57,11.</ls> {#yatrEva praBavedvatsa tannAmaguRakIrtanam . tatra sarvARi tIrTAni puRyAni maNgalAni ca ..#}
+;---------------------------------------------------
+; <L>57513<pc>5-0540<k1>mantray<k2>mantray
+560289 old <ls n="MBH. 2,">15221.</ls> <ls n="MBH.">14,799.</ls> <ls>R. 2,78,14.</ls> <ls>R. GORR. 2,34,5.</ls> <ls>KATHĀS. 12,158.</ls> <ls n="KATHĀS.">27,159.</ls> <ls>BRAHMA-P. in LA. (II) 50,1.</ls> <ls>PAÑCAT. 173,20.</ls> {#parasparaM mantayete#} <ls>ed. orn. 28,8. 56,9.</ls>
+;
+560289 new <ls n="MBH. 2,">15221.</ls> <ls n="MBH.">14,799.</ls> <ls>R. 2,78,14.</ls> <ls>R. GORR. 2,34,5.</ls> <ls>KATHĀS. 12,158.</ls> <ls n="KATHĀS.">27,159.</ls> <ls>BRAHMA-P. in LA. (II) 50,1.</ls> <ls>PAÑCAT. 173,20.</ls> {#parasparaM mantayete#} <ls>ed. orn. 28,8.</ls> <ls n="ed. orn.">56,9.</ls>
+;---------------------------------------------------
+; <L>86440<pc>6-0549<k1>lI<k2>lI<h>1
+785679 old <ls>PAÑCAT. 185,3.</ls> <ls n="PAÑCAT.">191,3.</ls> <ls>ed. orn. 18,21. 41,22.</ls> {#lIna#} <lex>n.</lex> {%das Aufgehen —, Verschwinden in%}
+;
+785679 new <ls>PAÑCAT. 185,3.</ls> <ls n="PAÑCAT.">191,3.</ls> <ls>ed. orn. 18,21.</ls> <ls n="ed. orn.">41,22.</ls> {#lIna#} <lex>n.</lex> {%das Aufgehen —, Verschwinden in%}
+;---------------------------------------------------
+; <L>86635<pc>6-0574<k1>lok<k2>lok
+788414 old <ls>PAÑCAT. Pr. 3</ls> (<ls>ed. orn. 1</ls>).
+;
+788414 new <ls>PAÑCAT. Pr. 3</ls> (<ls>ed. orn. 1,1</ls>).
+;---------------------------------------------------
+; <L>91395<pc>6-1029<k1>vijYApya<k2>vijYApya
+840124 old <ls>PAÑCAT. 19,6.</ls> <ls n="PAÑCAT. 19,">10.</ls> <ls>ed. orn. 53,18. 56,25.</ls>
+;
+840124 new <ls>PAÑCAT. 19,6.</ls> <ls n="PAÑCAT. 19,">10.</ls> <ls>ed. orn. 53,18.</ls> <ls n="ed. orn.">56,25.</ls>
+;---------------------------------------------------
+; <L>113514<pc>7-1243<k1>sKal<k2>sKal
+1051404 old <ls n="MBH. 3,">12145.</ls> <ls n="MBH.">13,7434.</ls> <ls>VĀGBH. 1,7,15.</ls> <ls>Spr. (II) 1032.</ls> <ls>KATHĀS. 64,72.</ls> <ls>PAÑCAT. 36,16</ls> (<ls>ed. orn. 32,21 </ls>). <ls>BHĀG. P. 10,4,3.</ls> {#raTavAjinaH#}
+;
+1051404 new <ls n="MBH. 3,">12145.</ls> <ls n="MBH.">13,7434.</ls> <ls>VĀGBH. 1,7,15.</ls> <ls>Spr. (II) 1032.</ls> <ls>KATHĀS. 64,72.</ls> <ls>PAÑCAT. 36,16</ls> (<ls>ed. orn. 32,21</ls>). <ls>BHĀG. P. 10,4,3.</ls> {#raTavAjinaH#}
+;---------------------------------------------------
