@@ -1,0 +1,15 @@
+; <L>81470<pc>431,1<k1>qomba<k2>qomba<e>2A
+274342 old ¦ <ab>N.</ab> of a man, <ls n="Rājat.">vii, 1070</ls> and <ls n="Rājat.">1136</ls><info lex="inh"/>
+;
+274342 new ¦ <ab>N.</ab> of a man, <ls n="Rājat.">vii, 1070</ls> and <ls n="Rājat. vii,">1136</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>82556<pc>436,2<k1>tantrin<k2>tantrin<e>2B
+277978 old ¦ <ls n="Rājat. ">vi.</ls><info lex="inh"/>
+;
+277978 new ¦ <ls n="Rājat.">vi.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>90386<pc>470,1<k1>daratpura<k2>darat-pura<e>2
+303670 old <s>darat-pura</s> ¦ <lex>n.</lex> the city of the <s1>Darad</s1>s, <ls>Rājat. vii, 916</ls>; <ls n="Rājat.">viii</ls>, <ls n="Rājat.">1155</ls><info lex="n"/>
+;
+303670 new <s>darat-pura</s> ¦ <lex>n.</lex> the city of the <s1>Darad</s1>s, <ls>Rājat. vii, 916</ls>; <ls n="Rājat.">viii, 1155</ls><info lex="n"/>
+;---------------------------------------------------

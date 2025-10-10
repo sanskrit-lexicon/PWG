@@ -66,6 +66,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue130 ŚĀKUNTALA link target for MW
 * issue134 TAITTIRĪYASAM̃HITĀ link target
 * issue135 RĀJATARAṄGIṆĪ link target
+* issue135fix RĀJATARAṄGIṆĪ split ls
 * issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
 * issue136fix KĀTYĀYANA'S ŚRAUTASŪTRĀṆI split ls
 * issue137 NĀRADA PAÑCARĀTRA 

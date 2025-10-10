@@ -1,0 +1,1260 @@
+; <L>980<pc>1-0072<k1>ajitApIqa<k2>ajitApIqa
+8336 old <ls>RĀJA-TAR. IV,689. 706. 708.</ls>
+;
+8336 new <ls>RĀJA-TAR. 4,689. 706. 708.</ls>
+;---------------------------------------------------
+; <L>13412<pc>1-1084<k1>ekANga<k2>ekANga<h>2
+120862 old <ls n="RĀJA-TAR.">248.</ls>
+;
+120862 new <ls n="RĀJA-TAR. 5,">248.</ls>
+;---------------------------------------------------
+; <L>13535<pc>1-1098<k1>eramattaka<k2>eramattaka
+122229 old <ls n="RĀJA-TAR.">254.</ls>
+;
+122229 new <ls n="RĀJA-TAR. 6,">254.</ls>
+;---------------------------------------------------
+; <L>15038<pc>2-0078<k1>kambala<k2>kambala/
+136684 old <ls n="RĀJA-TAR.">460.</ls> {#kambalaDAvaka#} {%der wollene Tücher reinigt%}
+;
+136684 new <ls n="RĀJA-TAR. 5,">460.</ls> {#kambalaDAvaka#} {%der wollene Tücher reinigt%}
+;---------------------------------------------------
+; <L>15849<pc>2-0182<k1>kavi<k2>kavi/<h>1
+147357 old <ls>RĀJA-TAR. 1,4. 5. 45 — 47.</ls> {#sukavi#}
+;
+147357 new <ls>RĀJA-TAR. 1,4. 5. 45</ls> — <ls n="RĀJA-TAR. 1,">47.</ls> {#sukavi#}
+;---------------------------------------------------
+; <L>15849<pc>2-0182<k1>kavi<k2>kavi/<h>1
+147358 old <ls n="RĀJA-TAR.">3.</ls> {#kavISvara#}
+;
+147358 new <ls n="RĀJA-TAR. 1,">3.</ls> {#kavISvara#}
+;---------------------------------------------------
+; <L>16582<pc>2-0236<k1>kAraskara<k2>kAraskara
+153847 old (<ls>RĀJA-TAR. I, p. 554,41).</ls>
+;
+153847 new (<ls>RĀJA-TAR. I, p. 554,41.</ls>)
+;---------------------------------------------------
+; <L>18287<pc>2-0369<k1>kuSeSaya<k2>kuSeSaya
+169478 old <ls n="RAGH.">18,3.</ls> <ls>RĀJA-TAR. 1,88, wo</ls> <ls>TROYER</ls> {#kuSeSayAkza#} ohne alle Noth als Beinamen von <is>Kuśa</is> auffasst; statt {#kuSeSayAkza#} steht
+;
+169478 new <ls n="RAGH.">18,3.</ls> <ls>RĀJA-TAR. 1,88</ls>, wo <ls>TROYER</ls> {#kuSeSayAkza#} ohne alle Noth als Beinamen von <is>Kuśa</is> auffasst; statt {#kuSeSayAkza#} steht
+;---------------------------------------------------
+; <L>19382<pc>2-0450<k1>koSa<k2>ko/Sa
+179255 old <ls n="RĀJA-TAR.">421.</ls> {#kozagaRana#}
+;
+179255 new <ls n="RĀJA-TAR. 5,">421.</ls> {#kozagaRana#}
+;---------------------------------------------------
+; <L>19382<pc>2-0450<k1>koSa<k2>ko/Sa
+179256 old <ls n="RĀJA-TAR.">237.</ls> {#prajAnAM pAlanaM SasyaM svargakoSasya varDanam#}
+;
+179256 new <ls n="RĀJA-TAR. 5,">237.</ls> {#prajAnAM pAlanaM SasyaM svargakoSasya varDanam#}
+;---------------------------------------------------
+; <L>19479<pc>2-0458<k1>kOwumba<k2>kOwumba
+180065 old <ls>RĀJA-TAR. 5. 395.</ls> Beide Ausgg.: {#kowumba#}, was
+;
+180065 new <ls>RĀJA-TAR. 5,395.</ls> Beide Ausgg.: {#kowumba#}, was
+;---------------------------------------------------
+; <L>19516<pc>2-0459<k1>kOtuka<k2>kOtuka/
+180278 old <ls n="RĀJA-TAR.">434.</ls> {#upajAtakOtukaH#}
+;
+180278 new <ls n="RĀJA-TAR. 5,">434.</ls> {#upajAtakOtukaH#}
+;---------------------------------------------------
+; <L>21117<pc>2-0610<k1>KAgi<k2>KAgi
+196953 old <ls n="RĀJA-TAR.">342.</ls>
+;
+196953 new <ls n="RĀJA-TAR. 1,">342.</ls>
+;---------------------------------------------------
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204743 old <ls n="RĀJA-TAR.">395.</ls> {#grAmanirgata#}
+;
+204743 new <ls n="RĀJA-TAR. 5,">395.</ls> {#grAmanirgata#}
+;---------------------------------------------------
+; <L>22271<pc>2-0734<k1>gAnDAra<k2>gAnDAra
+210328 old <ls n="RĀJA-TAR.">307.</ls> {#gAnDAravizaya#}
+;
+210328 new <ls n="RĀJA-TAR. 1,">307.</ls> {#gAnDAravizaya#}
+;---------------------------------------------------
+; <L>22747<pc>2-0773<k1>guha<k2>guha
+214958 old <ls>RĀJA-TAR. 1. 29.</ls>
+;
+214958 new <ls>RĀJA-TAR. 1,29.</ls>
+;---------------------------------------------------
+; <L>23495<pc>2-0823<k1>gOqa<k2>gOqa
+221204 old <ls n="RĀJA-TAR.">420. 467.</ls> {#gOqopajIvinaH#}
+;
+221204 new <ls n="RĀJA-TAR. 4,">420. 467.</ls> {#gOqopajIvinaH#}
+;---------------------------------------------------
+; <L>23495<pc>2-0823<k1>gOqa<k2>gOqa
+221205 old <ls n="RĀJA-TAR.">324.</ls> {#gOqEH#}
+;
+221205 new <ls n="RĀJA-TAR. 4,">324.</ls> {#gOqEH#}
+;---------------------------------------------------
+; <L>23495<pc>2-0823<k1>gOqa<k2>gOqa
+221206 old <ls n="RĀJA-TAR.">332.</ls> <is>Gauḍa</is> — Brahmanen
+;
+221206 new <ls n="RĀJA-TAR. 4,">332.</ls> <is>Gauḍa</is> — Brahmanen
+;---------------------------------------------------
+; <L>24037<pc>2-0883<k1>Garz<k2>Garz<h>2
+227661 old <ls>RĀJA-TAR. 2,99.</ls> {#udGfzwa#} <lex>n.</lex> {%ein best. Fehler der Aussprache%} <is>Śikṣā</is>
+;
+227661 new <ls>RĀJA-TAR. 2,99.</ls> {#udGfzwa#} <lex>n.</lex> {%ein best. Fehler der Aussprache%} <is>Śikṣā</is> 34.
+;---------------------------------------------------
+; <L>24037<pc>2-0883<k1>Garz<k2>Garz<h>2
+227662 old <ls n="RĀJA-TAR.">34.</ls>
+;
+227662 new 
+;---------------------------------------------------
+; <L>24376<pc>2-0913<k1>cakrin<k2>cakrin
+231141 old <ls>MED. n. 62.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> <ls>BHAG. 11,17.</ls> <ls>BHĀG. P. 1,9,4.</ls> <ls>RĀJA-TAR. 1,262. <is>Śiva's</is></ls> <ls>MBH. 13,745.</ls>
+;
+231141 new <ls>MED. n. 62.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> <ls>BHAG. 11,17.</ls> <ls>BHĀG. P. 1,9,4.</ls> <ls>RĀJA-TAR. 1,262.</ls> <is>Śiva's</is> <ls>MBH. 13,745.</ls>
+;---------------------------------------------------
+; <L>24532<pc>2-0927<k1>catura<k2>catura/<h>2
+232802 old <ls n="RĀJA-TAR.">188.</ls>
+;
+232802 new <ls n="RĀJA-TAR. 3,">188.</ls>
+;---------------------------------------------------
+; <L>25680<pc>2-1038<k1>cIra<k2>cI/ra<h>2
+245490 old <ls n="RĀJA-TAR.">576</ls>, wo st. dessen {#aMSukapallava#} gesetzt wird. Accent eines auf {#cIra#} ausgehenden comp.
+;
+245490 new <ls n="RĀJA-TAR. 4,">576</ls>, wo st. dessen {#aMSukapallava#} gesetzt wird. Accent eines auf {#cIra#} ausgehenden comp.
+;---------------------------------------------------
+; <L>26418<pc>3-0010<k1>jawAjUwa<k2>jawAjUwa
+253996 old <ls n="RĀJA-TAR.">127.</ls> {#jawAjUwagranTiM draQayati raGURAM parivfQaH#}
+;
+253996 new <ls n="RĀJA-TAR. 2,">127.</ls> {#jawAjUwagranTiM draQayati raGURAM parivfQaH#}
+;---------------------------------------------------
+; <L>26755<pc>3-0046<k1>jayAdevI<k2>jayAdevI
+257954 old <ls n="RĀJA-TAR.">676. 680.</ls>
+;
+257954 new <ls n="RĀJA-TAR. 4,">676. 680.</ls>
+;---------------------------------------------------
+; <L>27083<pc>3-0065<k1>jaloka<k2>jaloka
+260561 old <ls>RĀJA-TAR. 1</ls>, <ls n="RĀJA-TAR.">108.LIA. II,273. fgg. 344. fg.</ls>
+;
+260561 new <ls>RĀJA-TAR. 1,108.</ls> <ls>LIA. II,273. fgg. 344. fg.</ls>
+;---------------------------------------------------
+; <L>27339<pc>3-0089<k1>jAra<k2>jAra/<h>2
+263295 old <ls>RĀJA-TAR. 6,321.</ls> Das Wort kann auf
+;
+263295 new <ls>RĀJA-TAR. 6,321.</ls> Das Wort kann auf 2. {#jar#}
+;---------------------------------------------------
+; <L>27339<pc>3-0089<k1>jAra<k2>jAra/<h>2
+263296 old <ls n="RĀJA-TAR.">2.</ls> {#jar#} {%sich nähern, sich anhängen%} zurückgeführt werden.
+;
+263296 new {%sich nähern, sich anhängen%} zurückgeführt werden.
+;---------------------------------------------------
+; <L>27484<pc>3-0104<k1>jindurAja<k2>jindurAja
+264951 old <ls n="RĀJA-TAR.">265.</ls>
+;
+264951 new <ls n="RĀJA-TAR. 7,">265.</ls>
+;---------------------------------------------------
+; <L>27706<pc>3-0126<k1>juzka<k2>juzka
+267405 old <ls>RĀJA-TAR. a. a. O.</ls>
+;
+267405 new <ls>RĀJA-TAR.</ls> a. a. O.
+;---------------------------------------------------
+; <L>27726<pc>3-0128<k1>jUwa<k2>jUwa
+267628 old <ls n="RĀJA-TAR.">151.</ls> {#SivajUwa = kaparda#}
+;
+267628 new <ls n="RĀJA-TAR. 4,">151.</ls> {#SivajUwa = kaparda#}
+;---------------------------------------------------
+; <L>27838<pc>3-0135<k1>jYA<k2>jYA<h>1
+268571 old <ls n="RĀJA-TAR.">198.</ls> {#na cApi jAnIma taveha nATam#}
+;
+268571 new <ls n="RĀJA-TAR. 5,">198.</ls> {#na cApi jAnIma taveha nATam#}
+;---------------------------------------------------
+; <L>27838<pc>3-0135<k1>jYA<k2>jYA<h>1
+269367 old <ls n="RĀJA-TAR.">65.</ls> <ls>KATHĀS. 12,7.</ls> <ls>VID. 125.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,3. 192,20.</ls> {#SvaSrUjanaM sarvamanukrameRa vijYApaya prApitamatpraRAmaH#} (folgen die zusprechenden Worte)
+;
+269367 new <ls n="RĀJA-TAR. 4,">65.</ls> <ls>KATHĀS. 12,7.</ls> <ls>VID. 125.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191,3. 192,20.</ls> {#SvaSrUjanaM sarvamanukrameRa vijYApaya prApitamatpraRAmaH#} (folgen die zusprechenden Worte)
+;---------------------------------------------------
+; <L>28046<pc>3-0166<k1>jramB<k2>jramB
+271374 old <ls n="RĀJA-TAR.">269.</ls>
+;
+271374 new <ls n="RĀJA-TAR. 5,">269.</ls>
+;---------------------------------------------------
+; <L>28169<pc>3-0177<k1>wakkara<k2>wakkara
+272634 old <ls n="RĀJA-TAR.">162.</ls> Dieselbe Bed. wohl auch <ls n="RĀJA-TAR.">5,417.</ls>
+;
+272634 new <ls n="RĀJA-TAR. 6,">162.</ls> Dieselbe Bed. wohl auch <ls n="RĀJA-TAR.">5,417.</ls>
+;---------------------------------------------------
+; <L>28253<pc>3-0182<k1>qamb<k2>qamb
+273290 old <ls n="RĀJA-TAR.">283.</ls> {#svamAyayA viqambamAnasya nflokam#}
+;
+273290 new <ls n="RĀJA-TAR. 4,">283.</ls> {#svamAyayA viqambamAnasya nflokam#}
+;---------------------------------------------------
+; <L>28472<pc>3-0205<k1>tatpara<k2>tatpara
+275590 old <ls n="RĀJA-TAR.">292.</ls> {#bAhuyudDEkatatparO#}
+;
+275590 new <ls n="RĀJA-TAR. 5,">292.</ls> {#bAhuyudDEkatatparO#}
+;---------------------------------------------------
+; <L>28714<pc>3-0236<k1>tanvaNga<k2>tanvaNga
+278611 old <ls n="RĀJA-TAR.">260.</ls>
+;
+278611 new <ls n="RĀJA-TAR. 7,">260.</ls>
+;---------------------------------------------------
+; <L>28871<pc>3-0256<k1>tar<k2>tar<h>1
+281127 old <ls>RĀJA-TAR. 4. 250.</ls>
+;
+281127 new <ls>RĀJA-TAR. 4,250.</ls>
+;---------------------------------------------------
+; <L>29251<pc>3-0298<k1>tAmasa<k2>tAmasa<h>1
+285444 old <ls>H. ś. 18.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RĀJA-TAR. 1,137 (?).</ls>
+;
+285444 new <ls>H. ś. 18.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RĀJA-TAR. 1,137</ls> (?).
+;---------------------------------------------------
+; <L>29383<pc>3-0308<k1>tAramUla<k2>tAramUla
+286663 old <ls n="RĀJA-TAR.">3039.</ls>
+;
+286663 new <ls n="RĀJA-TAR. 7,">3039.</ls>
+;---------------------------------------------------
+; <L>29911<pc>3-0351<k1>tuHKAra<k2>tuHKAra
+291626 old <ls n="RĀJA-TAR.">246.</ls>
+;
+291626 new <ls n="RĀJA-TAR. 4,">246.</ls>
+;---------------------------------------------------
+; <L>32071<pc>3-0525<k1>darad<k2>dara/d
+311201 old <ls n="RĀJA-TAR.">913. 916. 8,1155.</ls> Nach den Erkll. zu <ls>AK.</ls>
+;
+311201 new <ls n="RĀJA-TAR. 7,">913. 916. 8,1155.</ls> Nach den Erkll. zu <ls>AK.</ls>
+;---------------------------------------------------
+; <L>32649<pc>3-0598<k1>dArQya<k2>dA/rQya
+318522 old <ls n="RĀJA-TAR.">173.</ls> {%Feststellung, Befestigung, Bekräftigung, Bestätigung%}: {#saMhitApadadArQyArTam#}
+;
+318522 new <ls n="RĀJA-TAR. 6,">173.</ls> {%Feststellung, Befestigung, Bekräftigung, Bestätigung%}: {#saMhitApadadArQyArTam#}
+;---------------------------------------------------
+; <L>32807<pc>3-0608<k1>diktawa<k2>diktawa
+319783 old <ls n="RĀJA-TAR.">328.</ls> {#vihagAn — SabdapUritadiktawAn#}
+;
+319783 new <ls n="RĀJA-TAR. 3,">328.</ls> {#vihagAn — SabdapUritadiktawAn#}
+;---------------------------------------------------
+; <L>32829<pc>3-0610<k1>digdeSa<k2>digdeSa
+319932 old <ls n="RĀJA-TAR.">308.</ls> {#tatra nAnAdigdeSAdAgatya rAtrO pakziRo nivasanti#} {%aus dieser und jener Gegend%}
+;
+319932 new <ls n="RĀJA-TAR. 4,">308.</ls> {#tatra nAnAdigdeSAdAgatya rAtrO pakziRo nivasanti#} {%aus dieser und jener Gegend%}
+;---------------------------------------------------
+; <L>32936<pc>3-0615<k1>dilha<k2>dilha
+320680 old <ls n="RĀJA-TAR.">434. 448.</ls>
+;
+320680 new <ls n="RĀJA-TAR. 8,">434. 448.</ls>
+;---------------------------------------------------
+; <L>33556<pc>3-0678<k1>durgaGAta<k2>durgaGAta
+327281 old <ls>RĀJA-TAR. 7,1175 (1173).</ls>
+;
+327281 new <ls>RĀJA-TAR. 7,1175</ls> (<ls n="RĀJA-TAR. 7,">1173</ls>).
+;---------------------------------------------------
+; <L>34294<pc>3-0729<k1>dfti<k2>df/ti
+333250 old <ls n="RĀJA-TAR.">574. 568.</ls> Viell. von 1. {#dar#}, vgl. {#kftti, Cavi#} {%Fell, Haut.%}
+;
+333250 new <ls n="RĀJA-TAR. 4,">574. 568.</ls> Viell. von 1. {#dar#}, vgl. {#kftti, Cavi#} {%Fell, Haut.%}
+;---------------------------------------------------
+; <L>34849<pc>3-0767<k1>deSya<k2>de/Sya
+337759 old <ls n="RĀJA-TAR.">10.</ls> häufig am Ende eines comp.: {#nAnA°#} {%zu verschiedenen Gegenden, Ländern gehörig, daher kommend%}: {#pArTivAH#}
+;
+337759 new <ls n="RĀJA-TAR. 3,">10.</ls> häufig am Ende eines comp.: {#nAnA°#} {%zu verschiedenen Gegenden, Ländern gehörig, daher kommend%}: {#pArTivAH#}
+;---------------------------------------------------
+; <L>34991<pc>3-0776<k1>dESika<k2>dESika
+338890 old <ls n="RĀJA-TAR.">304.</ls>
+;
+338890 new <ls n="RĀJA-TAR. 6,">304.</ls>
+;---------------------------------------------------
+; <L>35024<pc>3-0781<k1>dozan<k2>doza/n
+339291 old <ls n="RĀJA-TAR.">161.</ls> Ueberall nur vor vocalisch anlautenden Casusendungen. Nach den indischen Grammatikern erscheint {#dozan#} in allen Casus mit Ausnahme des nom. aller Zahlen und des acc. sg. und du.
+;
+339291 new <ls n="RĀJA-TAR. 6,">161.</ls> Ueberall nur vor vocalisch anlautenden Casusendungen. Nach den indischen Grammatikern erscheint {#dozan#} in allen Casus mit Ausnahme des nom. aller Zahlen und des acc. sg. und du.
+;---------------------------------------------------
+; <L>35248<pc>3-0795<k1>draNga<k2>draNga
+341057 old <ls n="RĀJA-TAR.">1598. 1998.</ls> {#mArga°#} {%eine auf dem Wege gelegene Stadt%}
+;
+341057 new <ls n="RĀJA-TAR. 8,">1598. 1998.</ls> {#mArga°#} {%eine auf dem Wege gelegene Stadt%}
+;---------------------------------------------------
+; <L>35248<pc>3-0795<k1>draNga<k2>draNga
+341058 old <ls n="RĀJA-TAR.">1992.</ls> {#takzaSilA°#}
+;
+341058 new <ls n="RĀJA-TAR. 8,">1992.</ls> {#takzaSilA°#}
+;---------------------------------------------------
+; <L>35314<pc>3-0801<k1>drazwar<k2>drazwa/r
+341705 old <ls n="RĀJA-TAR.">66.</ls> <ls>MṚCCH. 137,16.</ls> pass. Bed. {%der da erscheint als%} scheint das Wort in der Stelle {#samarTA ye ca drazwAraH#}
+;
+341705 new <ls n="RĀJA-TAR. 4,">66.</ls> <ls>MṚCCH. 137,16.</ls> pass. Bed. {%der da erscheint als%} scheint das Wort in der Stelle {#samarTA ye ca drazwAraH#}
+;---------------------------------------------------
+; <L>35477<pc>3-0817<k1>droha<k2>droha
+343461 old <ls n="RĀJA-TAR.">257. 5,320.</ls> {#°BAva#}
+;
+343461 new <ls n="RĀJA-TAR. 6,">257. 5,320.</ls> {#°BAva#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354245 old <ls>RĀJA-TAR. 5. 77.</ls> {#mfgamInasajjanAnAM tfRajalasaMtozavihitavfttInAm#}
+;
+354245 new <ls>RĀJA-TAR. 5,77.</ls> {#mfgamInasajjanAnAM tfRajalasaMtozavihitavfttInAm#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354263 old <ls n="RĀJA-TAR.">41.</ls> {#vyaDatta — keSavaM caturAtmAnam#}
+;
+354263 new <ls n="RĀJA-TAR. 5,">41.</ls> {#vyaDatta — keSavaM caturAtmAnam#}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354264 old <ls n="RĀJA-TAR.">25. 4,214</ls> (wo {#vidaDe#} zu lesen ist).
+;
+354264 new <ls n="RĀJA-TAR. 5,">25. 4,214</ls> (wo {#vidaDe#} zu lesen ist).
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354268 old <ls n="RĀJA-TAR.">176.</ls> {#DArmikAnvidaDat#} {%Tugendhafte bildend%}
+;
+354268 new <ls n="RĀJA-TAR. 5,">176.</ls> {#DArmikAnvidaDat#} {%Tugendhafte bildend%}
+;---------------------------------------------------
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354306 old <ls n="RĀJA-TAR.">389.</ls> {#saKIveSam#} {%die Kleider der Freundin anlegen%}
+;
+354306 new <ls n="RĀJA-TAR. 5,">389.</ls> {#saKIveSam#} {%die Kleider der Freundin anlegen%}
+;---------------------------------------------------
+; <L>37582<pc>4-0031<k1>nandAnindya<k2>nandAnindya
+366849 old <ls>RĀJA-TAR. 7,1504 (1499</ls> bei <ls>TROYER)</ls> nach <ls>TROYER</ls> N. pr. eines Mannes, aber die Worte {#nandAnindyakulodBavA#} besagen aller Wahrscheinlichkeit nach {%aus dem untadelhaften Geschlecht des%} <is>Nanda</is> {%stammend.%}
+;
+366849 new <ls>RĀJA-TAR. 7,1504</ls> (<ls n="RĀJA-TAR. 7,">1499</ls> bei <ls>TROYER)</ls> nach <ls>TROYER</ls> N. pr. eines Mannes, aber die Worte {#nandAnindyakulodBavA#} besagen aller Wahrscheinlichkeit nach {%aus dem untadelhaften Geschlecht des%} <is>Nanda</is> {%stammend.%}
+;---------------------------------------------------
+; <L>37795<pc>4-0056<k1>naranATa<k2>naranATa
+369428 old <ls n="RĀJA-TAR.">480.</ls> {#naranATAsana#} {%der königliche Thron, die Königswürde%}
+;
+369428 new <ls n="RĀJA-TAR. 5,">480.</ls> {#naranATAsana#} {%der königliche Thron, die Königswürde%}
+;---------------------------------------------------
+; <L>38035<pc>4-0075<k1>navIkar<k2>navIkar
+371549 old <ls n="RĀJA-TAR.">276.</ls> {#ete klAntamanasaH punarnavIkftAH smaH#}
+;
+371549 new <ls n="RĀJA-TAR. 1,">276.</ls> {#ete klAntamanasaH punarnavIkftAH smaH#}
+;---------------------------------------------------
+; <L>38209<pc>4-0094<k1>nAgarawwa<k2>nAgarawwa
+373583 old <ls>RĀJA-TAR. 8,1137 (1144</ls> <ls>TR.</ls>)
+;
+373583 new <ls>RĀJA-TAR. 8,1137</ls> (<ls n="RĀJA-TAR. 8,">1144</ls> <ls>TR.</ls>)
+;---------------------------------------------------
+; <L>40060<pc>4-0242<k1>nizkaRwaka<k2>nizkaRwaka
+390377 old <ls n="RĀJA-TAR.">1,174. Beiw. <is>Śiva's</is></ls> <ls>ŚIV.</ls>
+;
+390377 new <ls n="RĀJA-TAR.">1,174.</ls> Beiw. <is>Śiva's</is> <ls>ŚIV.</ls>
+;---------------------------------------------------
+; <L>40704<pc>4-0308<k1>nfpAsana<k2>nfpAsana
+397320 old <ls n="RĀJA-TAR.">332.</ls>
+;
+397320 new <ls n="RĀJA-TAR. 6,">332.</ls>
+;---------------------------------------------------
+; <L>40829<pc>4-0316<k1>nepAla<k2>nepAla
+398291 old <ls n="RĀJA-TAR.">553. 578.</ls> <ls>HIOUENTHSANG I,407.</ls> <ls>LIA. I,58, N. 3. II,953.</ls>
+;
+398291 new <ls n="RĀJA-TAR. 4,">553. 578.</ls> <ls>HIOUENTHSANG I,407.</ls> <ls>LIA. I,58, N. 3. II,953.</ls>
+;---------------------------------------------------
+; <L>41185<pc>4-0344<k1>pakza<k2>pakza/
+401319 old <ls n="RĀJA-TAR.">612.</ls> {#mAtf°#}
+;
+401319 new <ls n="RĀJA-TAR. 4,">612.</ls> {#mAtf°#}
+;---------------------------------------------------
+; <L>41185<pc>4-0344<k1>pakza<k2>pakza/
+401337 old <ls>RĀJA-TAR. 6,220 fg.</ls> {#banDupakza#} so v. a. {#banDavaH#}
+;
+401337 new <ls>RĀJA-TAR. 6,220. fg.</ls> {#banDupakza#} so v. a. {#banDavaH#}
+;---------------------------------------------------
+; <L>41628<pc>4-0377<k1>paw<k2>paw
+405049 old <ls n="RĀJA-TAR.">4,400. 5,279. 291</ls> (vgl. {#utpAwana#}
+;
+405049 new <ls n="RĀJA-TAR.">4,400. 5,279. 291</ls>
+;---------------------------------------------------
+; <L>41628<pc>4-0377<k1>paw<k2>paw
+405050 old <ls n="RĀJA-TAR.">255. 292).</ls> bei <ls>TROYER</ls> häufig {#Wa#} st. {#wa#} gedruckt.
+;
+405050 new (vgl. {#utpAwana#} <ls n="RĀJA-TAR. 5,">255. 292</ls>). bei <ls>TROYER</ls> häufig {#Wa#} st. {#wa#} gedruckt.
+;---------------------------------------------------
+; <L>41862<pc>4-0413<k1>pattana<k2>pa/ttana
+408421 old <ls n="RĀJA-TAR.">306. 4,244.</ls> <ls>BHĀG. P. 7,2,14.</ls> <ls>PRAB. 35,15.</ls> <ls>PAÑCAT. 134,15.</ls> {#preta°#}
+;
+408421 new <ls n="RĀJA-TAR. 1,">306. 4,244.</ls> <ls>BHĀG. P. 7,2,14.</ls> <ls>PRAB. 35,15.</ls> <ls>PAÑCAT. 134,15.</ls> {#preta°#}
+;---------------------------------------------------
+; <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
+410190 old <ls n="RĀJA-TAR.">319.</ls> {#samutpAditapOruza#}
+;
+410190 new <ls n="RĀJA-TAR. 5,">319.</ls> {#samutpAditapOruza#}
+;---------------------------------------------------
+; <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
+411070 old <ls n="RĀJA-TAR.">477.</ls> {#saMpAditatadarcana#}
+;
+411070 new <ls n="RĀJA-TAR. 5,">477.</ls> {#saMpAditatadarcana#}
+;---------------------------------------------------
+; <L>42593<pc>4-0505<k1>parArDa<k2>parArDa/
+417597 old <ls n="RĀJA-TAR.">459.</ls>
+;
+417597 new <ls n="RĀJA-TAR. 3,">459.</ls>
+;---------------------------------------------------
+; <L>43729<pc>4-0594<k1>pallava<k2>pallava
+427574 old <ls>RĀJA-TAR. 4,576</ls>; vgl. <ls n="RĀJA-TAR.">573.</ls>
+;
+427574 new <ls>RĀJA-TAR. 4,576</ls>; vgl. <ls n="RĀJA-TAR. 4,">573.</ls>
+;---------------------------------------------------
+; <L>44021<pc>4-0626<k1>pAja<k2>pAja
+430892 old <ls n="RĀJA-TAR.">567.</ls>
+;
+430892 new <ls n="RĀJA-TAR. 7,">567.</ls>
+;---------------------------------------------------
+; <L>44147<pc>4-0635<k1>pARipraRayin<k2>pARipraRayin
+432005 old <ls n="RĀJA-TAR.">307.</ls>
+;
+432005 new <ls n="RĀJA-TAR. 3,">307.</ls>
+;---------------------------------------------------
+; <L>44364<pc>4-0652<k1>pAdamudrA<k2>pAdamudrA
+434020 old <ls n="RĀJA-TAR.">103.</ls>
+;
+434020 new <ls n="RĀJA-TAR. 4,">103.</ls>
+;---------------------------------------------------
+; <L>44804<pc>4-0680<k1>pArTa<k2>pArTa/<h>2
+437518 old <ls n="RĀJA-TAR.">478.</ls> — N. pr. eines andern Mannes
+;
+437518 new <ls n="RĀJA-TAR. 5,">478.</ls> — N. pr. eines andern Mannes
+;---------------------------------------------------
+; <L>47244<pc>4-0876<k1>peSala<k2>peSala/
+460653 old <ls n="RĀJA-TAR.">307.</ls> {#praRaya°#}
+;
+460653 new <ls n="RĀJA-TAR. 5,">307.</ls> {#praRaya°#}
+;---------------------------------------------------
+; <L>48646<pc>4-0980<k1>pratizWA<k2>pratizWA/
+473085 old <ls n="RĀJA-TAR.">349.</ls> {#SivaliNgasahasrasya pratizWAkarmaRi#}
+;
+473085 new <ls n="RĀJA-TAR. 1,">349.</ls> {#SivaliNgasahasrasya pratizWAkarmaRi#}
+;---------------------------------------------------
+; <L>49306<pc>4-1032<k1>prapitfvya<k2>prapitfvya
+478908 old <ls>RĀJA-TAR. 1,101,6,91.</ls>
+;
+478908 new <ls>RĀJA-TAR. 1,101. 6,91.</ls>
+;---------------------------------------------------
+; <L>50523<pc>4-1127<k1>prAjya<k2>prAjya
+490108 old <ls n="RĀJA-TAR.">134.</ls> {#svArAjya#}
+;
+490108 new <ls n="RĀJA-TAR. 5,">134.</ls> {#svArAjya#}
+;---------------------------------------------------
+; <L>50820<pc>4-1148<k1>prAya<k2>prAya/
+492586 old <ls n="RĀJA-TAR.">163.</ls> {#pIta°#}
+;
+492586 new <ls n="RĀJA-TAR. 4,">163.</ls> {#pIta°#}
+;---------------------------------------------------
+; <L>51575<pc>4-1208<k1>Palguna<k2>Pa/lguna
+499639 old <ls n="RĀJA-TAR.">168.</ls> {#°svAmin#} Bez. eines von ihm errichteten Heiligthums
+;
+499639 new <ls n="RĀJA-TAR. 6,">168.</ls> {#°svAmin#} Bez. eines von ihm errichteten Heiligthums
+;---------------------------------------------------
+; <L>51575<pc>4-1208<k1>Palguna<k2>Pa/lguna
+499640 old <ls n="RĀJA-TAR.">169.</ls>
+;
+499640 new <ls n="RĀJA-TAR. 6,">169.</ls>
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+501533 old <ls n="RĀJA-TAR.">9.</ls> {#badDA dvAdaSaBirgranTasahasrEH pArTivAvaliH#}
+;
+501533 new <ls n="RĀJA-TAR. 1,">9.</ls> {#badDA dvAdaSaBirgranTasahasrEH pArTivAvaliH#}
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+501534 old <ls n="RĀJA-TAR.">17.</ls> {#badDaM ca yaddaRqinA#}
+;
+501534 new <ls n="RĀJA-TAR. 1,">17.</ls> {#badDaM ca yaddaRqinA#}
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+501590 old <ls n="RĀJA-TAR.">446.</ls> {#badDAnuSaya#}
+;
+501590 new <ls n="RĀJA-TAR. 2,">446.</ls> {#badDAnuSaya#}
+;---------------------------------------------------
+; <L>51753<pc>5-0006<k1>banD<k2>banD
+502008 old <ls n="RĀJA-TAR.">575.</ls> {#keSabanDaviSezAH#} {%verschiedene Arten das Haar zu binden, — von Haartrachten%}
+;
+502008 new <ls n="RĀJA-TAR. 4,">575.</ls> {#keSabanDaviSezAH#} {%verschiedene Arten das Haar zu binden, — von Haartrachten%}
+;---------------------------------------------------
+; <L>51759<pc>5-0017<k1>banDana<k2>ba/nDana
+502273 old <ls n="RĀJA-TAR.">26.</ls> {#karacaraRayorbanDanamapanIya#}
+;
+502273 new <ls n="RĀJA-TAR. 3,">26.</ls> {#karacaraRayorbanDanamapanIya#}
+;---------------------------------------------------
+; <L>52123<pc>5-0046<k1>bahis<k2>bahi/s
+505724 old <ls n="RĀJA-TAR.">153.</ls> {#bahizkfta#} und {#bahirgata#} so v. a. {%zur Erscheinung gekommen, leibhaftig erschienen%}: {#tasyAmajani me sutaH . bahizkftaH kulasyeva kftsnasya hfdayotsavaH#}
+;
+505724 new <ls n="RĀJA-TAR. 6,">153.</ls> {#bahizkfta#} und {#bahirgata#} so v. a. {%zur Erscheinung gekommen, leibhaftig erschienen%}: {#tasyAmajani me sutaH . bahizkftaH kulasyeva kftsnasya hfdayotsavaH#}
+;---------------------------------------------------
+; <L>53140<pc>5-0119<k1>bfhant<k2>bfha/nt
+514351 old <ls n="RĀJA-TAR.">200.</ls> {#u\rvIsadma^nI bfha\tI#}
+;
+514351 new <ls n="RĀJA-TAR. 4,">200.</ls> {#u\rvIsadma^nI bfha\tI#}
+;---------------------------------------------------
+; <L>53363<pc>5-0134<k1>brahmadaRqa<k2>brahmadaRqa
+516150 old <ls n="RĀJA-TAR.">655.</ls> <ls>BHĀG. P. 3,15,35.</ls> <ls n="BHĀG. P.">4,2,27.</ls> <ls n="BHĀG. P. 4,">13,22.</ls> <ls n="BHĀG. P.">9,4,14.</ls>
+;
+516150 new <ls n="RĀJA-TAR. 4,">655.</ls> <ls>BHĀG. P. 3,15,35.</ls> <ls n="BHĀG. P.">4,2,27.</ls> <ls n="BHĀG. P. 4,">13,22.</ls> <ls n="BHĀG. P.">9,4,14.</ls>
+;---------------------------------------------------
+; <L>53669<pc>5-0156<k1>brAhmadaRqa<k2>brAhmadaRqa
+518660 old <ls>RĀJA-TAR. 4. 651</ls> wohl fehlerhaft für {#brahmadaRqa#} .
+;
+518660 new <ls>RĀJA-TAR. 4,651</ls> wohl fehlerhaft für {#brahmadaRqa#} .
+;---------------------------------------------------
+; <L>54447<pc>5-0238<k1>BAgin<k2>BAgi/n
+527379 old <ls n="RĀJA-TAR.">678.</ls> <ls>Spr. 2486.</ls> {#suKa°#}
+;
+527379 new <ls n="RĀJA-TAR. 4,">678.</ls> <ls>Spr. 2486.</ls> {#suKa°#}
+;---------------------------------------------------
+; <L>54497<pc>5-0244<k1>BARqapati<k2>BARqapati
+527995 old <ls>RĀJA-TAR. 6. 37.</ls> {#nAnA°#}
+;
+527995 new <ls>RĀJA-TAR. 6,37.</ls> {#nAnA°#}
+;---------------------------------------------------
+; <L>54577<pc>5-0249<k1>BAra<k2>BAra/
+528669 old <ls n="RĀJA-TAR.">173.</ls> {#°mUlya#}
+;
+528669 new <ls n="RĀJA-TAR. 5,">173.</ls> {#°mUlya#}
+;---------------------------------------------------
+; <L>54577<pc>5-0249<k1>BAra<k2>BAra/
+528670 old <ls n="RĀJA-TAR.">171. fg.</ls> {#menake tava BAro 'yaM viSvAmitraH#} <is>Viśv</is>. {%ist die dir bevorstehende Arbeit%}
+;
+528670 new <ls n="RĀJA-TAR. 5,">171. fg.</ls> {#menake tava BAro 'yaM viSvAmitraH#} <is>Viśv</is>. {%ist die dir bevorstehende Arbeit%}
+;---------------------------------------------------
+; <L>55309<pc>5-0342<k1>BUtArTa<k2>BUtArTa
+538091 old <ls n="RĀJA-TAR.">10.</ls> {#BUtArTAnuBava#}
+;
+538091 new <ls n="RĀJA-TAR. 1,">10.</ls> {#BUtArTAnuBava#}
+;---------------------------------------------------
+; <L>55731<pc>5-0375<k1>Bedya<k2>Bedya
+542093 old <ls n="RĀJA-TAR.">574.</ls> {#asmanmatamananyaBedyam#} so v. a. {%unwiderlegbar für Andere%}
+;
+542093 new <ls n="RĀJA-TAR. 4,">574.</ls> {#asmanmatamananyaBedyam#} so v. a. {%unwiderlegbar für Andere%}
+;---------------------------------------------------
+; <L>56386<pc>5-0439<k1>maWikA<k2>maWikA
+548923 old <ls>RĀJA-TAR. 4. 71.</ls>
+;
+548923 new <ls>RĀJA-TAR. 4,71.</ls>
+;---------------------------------------------------
+; <L>56888<pc>5-0483<k1>maDu<k2>ma/Du
+554016 old <ls n="RĀJA-TAR.">23</ls> Feinden des <is>Viṣṇu</is>
+;
+554016 new <ls n="RĀJA-TAR. 4,">23</ls> Feinden des <is>Viṣṇu</is>
+;---------------------------------------------------
+; <L>57727<pc>5-0560<k1>mamma<k2>mamma
+562512 old <ls n="RĀJA-TAR.">698.</ls>
+;
+562512 new <ls n="RĀJA-TAR. 4,">698.</ls>
+;---------------------------------------------------
+; <L>58106<pc>5-0602<k1>mallakozwa<k2>mallakozwa
+567015 old <ls n="RĀJA-TAR.">648. 652. 851.</ls> Vielleicht fehlerhaft für {#°kozWa, °kozWaka#} .
+;
+567015 new <ls n="RĀJA-TAR. 8,">648. 652. 851.</ls> Vielleicht fehlerhaft für {#°kozWa, °kozWaka#} .
+;---------------------------------------------------
+; <L>58613<pc>5-0635<k1>mahApadmasaras<k2>mahApadmasaras
+571183 old <ls n="RĀJA-TAR.">103. 104. 8,3229.</ls>
+;
+571183 new <ls n="RĀJA-TAR. 5,">103. 104. 8,3229.</ls>
+;---------------------------------------------------
+; <L>60006<pc>5-0736<k1>mAra<k2>mAra
+583168 old <ls n="RĀJA-TAR.">57. 256.</ls> {#aSezaprARinAmAsIdamAro daSa vatsarAn#}
+;
+583168 new <ls n="RĀJA-TAR. 3,">57. 256.</ls> {#aSezaprARinAmAsIdamAro daSa vatsarAn#}
+;---------------------------------------------------
+; <L>60069<pc>5-0744<k1>mArgapa<k2>mArgapa
+584011 old {#mArgapa#}¦ (2. {#mArga#} + 2. {#pa)#} <lex>m.</lex> {%Wegemeister%}, Bez. eines best. Amtes 4te
+;
+584011 new {#mArgapa#}¦ (2. {#mArga#} + 2. {#pa#}) <lex>m.</lex> {%Wegemeister%}, Bez. eines best. Amtes 4te
+;---------------------------------------------------
+; <L>60120<pc>5-0747<k1>mArtaRqa<k2>mArtaRqa
+584398 old <ls n="RĀJA-TAR.">723. 3,462. 8,3396.</ls>
+;
+584398 new <ls n="RĀJA-TAR. 7,">723. 3,462. 8,3396.</ls>
+;---------------------------------------------------
+; <L>60603<pc>5-0787<k1>miz<k2>miz<h>1
+588898 old <ls n="RĀJA-TAR.">257.</ls>
+;
+588898 new <ls n="RĀJA-TAR. 3,">257.</ls>
+;---------------------------------------------------
+; <L>61005<pc>5-0830<k1>muni<k2>mu/ni
+593486 old <ls n="VARĀH. BṚH. S. 13,">3</ls> (= <ls>RĀJA-TAR. 1,56). 47,12.</ls> <ls>BHĀG. P. 4,12,34.</ls> Daher Bez. {%der Zahl sieben%}
+;
+593486 new <ls n="VARĀH. BṚH. S. 13,">3</ls> (= <ls>RĀJA-TAR. 1,56</ls>). <ls n="VARĀH. BṚH.">47,12.</ls> <ls>BHĀG. P. 4,12,34.</ls> Daher Bez. {%der Zahl sieben%}
+;---------------------------------------------------
+; <L>62034<pc>5-0906<k1>meruvarDana<k2>meruvarDana
+602571 old <ls n="RĀJA-TAR.">266.</ls>
+;
+602571 new <ls n="RĀJA-TAR. 5,">266.</ls>
+;---------------------------------------------------
+; <L>62384<pc>5-0933<k1>mlAni<k2>mlAni/
+605829 old <ls n="RĀJA-TAR.">585.</ls>
+;
+605829 new <ls n="RĀJA-TAR. 4,">585.</ls>
+;---------------------------------------------------
+; <L>62665<pc>5-0950<k1>agrahAra<k2>agrahAra
+607545 old <ls>RĀJA-TAR. 1,90. 174. 342. 5,23.</ls> Vgl. {#parihAra#}
+;
+607545 new <ls>RĀJA-TAR. 1,90. 174. 342. 5,23.</ls> Vgl. {#parihAra#} 4. 5.
+;---------------------------------------------------
+; <L>62665<pc>5-0950<k1>agrahAra<k2>agrahAra
+607546 old <ls n="RĀJA-TAR.">4. 5.</ls>
+;
+607546 new 
+;---------------------------------------------------
+; <L>64436<pc>5-1019<k1>aBiDA<k2>aBiDA
+618139 old <ls n="RĀJA-TAR.">22.</ls>
+;
+618139 new <ls n="RĀJA-TAR. 5,">22.</ls>
+;---------------------------------------------------
+; <L>66710<pc>5-1114<k1>AyAsa<k2>AyAsa
+632360 old <ls n="RĀJA-TAR.">191.</ls> {#anAyAsa#} <lex>adj.</lex> {%keine Anstrengung verursachend%}
+;
+632360 new <ls n="RĀJA-TAR. 5,">191.</ls> {#anAyAsa#} <lex>adj.</lex> {%keine Anstrengung verursachend%}
+;---------------------------------------------------
+; <L>67391<pc>5-1149<k1>Ir<k2>Ir
+637260 old <ls n="RĀJA-TAR.">330.</ls> {#preritA#} {%angetrieben, aufgefordert zu sprechen%}
+;
+637260 new <ls n="RĀJA-TAR. 5,">330.</ls> {#preritA#} {%angetrieben, aufgefordert zu sprechen%}
+;---------------------------------------------------
+; <L>68242<pc>5-1188<k1>upapatti<k2>upapatti
+642866 old <ls n="RĀJA-TAR.">378</ls> (<ls>Spr. 2760</ls>) bedeuten {#upapattiyukta#} {%begründet, richtig, sich in Wirklichkeit so verhaltend%}, {#upapattiparityakta (SAstra)#} und {#anupapatti (vastu)#} {%unbegründet, sich in Wirklichkeit nicht so verhaltend.%} {#sopapattika#} {%begründet%}
+;
+642866 new <ls n="RĀJA-TAR. 5,">378</ls> (<ls>Spr. 2760</ls>) bedeuten {#upapattiyukta#} {%begründet, richtig, sich in Wirklichkeit so verhaltend%}, {#upapattiparityakta (SAstra)#} und {#anupapatti (vastu)#} {%unbegründet, sich in Wirklichkeit nicht so verhaltend.%} {#sopapattika#} {%begründet%}
+;---------------------------------------------------
+; <L>74333<pc>5-1442<k1>jAtu<k2>jAtu
+683438 old <ls>RĀJA-TAR. 5,4</ls> gehört zu <ls n="RĀJA-TAR.">3</ls>
+;
+683438 new <ls>RĀJA-TAR. 5,4</ls> gehört zu <ls n="RĀJA-TAR. 5,">3</ls>
+;---------------------------------------------------
+; <L>81501<pc>6-0062<k1>yantraputraka<k2>yantraputraka
+731064 old <ls>RĀJA-TAR. 6,160.</ls> {#°putrikA#}
+;
+731064 new <ls>RĀJA-TAR. 6,160.</ls> {#°putrikA#} 1.
+;---------------------------------------------------
+; <L>81501<pc>6-0062<k1>yantraputraka<k2>yantraputraka
+731065 old <ls n="RĀJA-TAR.">1.</ls> <ls>KATHĀS. 29,1.</ls> <ls n="KATHĀS. 29,">18.</ls>
+;
+731065 new <ls>KATHĀS. 29,1.</ls> <ls n="KATHĀS. 29,">18.</ls>
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+735867 old <ls n="RĀJA-TAR.">256.</ls> {#yudDAya#}
+;
+735867 new <ls n="RĀJA-TAR. 2,">256.</ls> {#yudDAya#}
+;---------------------------------------------------
+; <L>81815<pc>6-0097<k1>yA<k2>yA<h>1
+735875 old <ls n="RĀJA-TAR.">585.</ls> {#yaTA mAtrA kftAstasmAd#} ({#hfdayAt#}) {#upadeSA viniryayuH#}
+;
+735875 new <ls n="RĀJA-TAR. 4,">585.</ls> {#yaTA mAtrA kftAstasmAd#} ({#hfdayAt#}) {#upadeSA viniryayuH#}
+;---------------------------------------------------
+; <L>81914<pc>6-0121<k1>yAtrA<k2>yA/trA
+737261 old <ls n="RĀJA-TAR.">267.</ls> <ls>Verz. d. B. H. No. 1236.</ls> <ls>SĀH. D. 109.</ls> <ls>HIT. 85,12.</ls> {#deva°#}
+;
+737261 new <ls n="RĀJA-TAR. 1,">267.</ls> <ls>Verz. d. B. H. No. 1236.</ls> <ls>SĀH. D. 109.</ls> <ls>HIT. 85,12.</ls> {#deva°#}
+;---------------------------------------------------
+; <L>82108<pc>6-0138<k1>yu<k2>yu<h>2
+739193 old <ls n="VARĀH. BṚH. S.">13,3</ls> (= <ls>RĀJA-TAR. 1,56).</ls> <ls>BHĀṢĀP. 31.</ls> {#divyE ratnamayErvfkzEH PalapuzpapradEryutA#} ({#saBA#}) {%versehen mit%}
+;
+739193 new <ls n="VARĀH. BṚH. S.">13,3</ls> (= <ls>RĀJA-TAR. 1,56</ls>). <ls>BHĀṢĀP. 31.</ls> {#divyE ratnamayErvfkzEH PalapuzpapradEryutA#} ({#saBA#}) {%versehen mit%}
+;---------------------------------------------------
+; <L>82186<pc>6-0149<k1>yuj<k2>yuj<h>1
+740996 old <ls n="RĀJA-TAR.">588.</ls> {#praBukAryopayuktAsu#}
+;
+740996 new <ls n="RĀJA-TAR. 4,">588.</ls> {#praBukAryopayuktAsu#}
+;---------------------------------------------------
+; <L>82523<pc>6-0194<k1>yojana<k2>yo/jana
+744863 old <ls n="RĀJA-TAR.">187.</ls> {#evaM kftaM tatastena nazwArTasya yojanam#}
+;
+744863 new <ls n="RĀJA-TAR. 1,">187.</ls> {#evaM kftaM tatastena nazwArTasya yojanam#}
+;---------------------------------------------------
+; <L>83145<pc>6-0244<k1>raRAramBA<k2>raRAramBA
+750752 old <ls n="RĀJA-TAR.">460</ls>, wo wohl {#°devo#} zu lesen ist.
+;
+750752 new <ls n="RĀJA-TAR. 3,">460</ls>, wo wohl {#°devo#} zu lesen ist.
+;---------------------------------------------------
+; <L>83297<pc>6-0252<k1>ratnavarDana<k2>ratnavarDana
+751902 old <ls n="RĀJA-TAR.">162.</ls>
+;
+751902 new <ls n="RĀJA-TAR. 5,">162.</ls>
+;---------------------------------------------------
+; <L>83562<pc>6-0279<k1>ramaRa<k2>ra/maRa
+754960 old <ls n="RĀJA-TAR.">265.</ls>
+;
+754960 new <ls n="RĀJA-TAR. 1,">265.</ls>
+;---------------------------------------------------
+; <L>83706<pc>6-0290<k1>rasa<k2>rasa
+756428 old <ls n="RĀJA-TAR.">322. 8,448.</ls>
+;
+756428 new <ls n="RĀJA-TAR. 6,">322. 8,448.</ls>
+;---------------------------------------------------
+; <L>84216<pc>6-0325<k1>rAjaSrI<k2>rAjaSrI
+760685 old <ls>RĀJA-TAR. 1,281. 5,19. 449. 466. 6,279. — 4,144</ls> ist nicht, wie
+;
+760685 new <ls>RĀJA-TAR. 1,281. 5,19. 449. 466. 6,279.</ls> — <ls n="RĀJA-TAR.">4,144</ls> ist nicht, wie
+;---------------------------------------------------
+; <L>84828<pc>6-0369<k1>rIti<k2>rIti/
+766035 old <ls>KATHĀS. 24,178.</ls> <ls n="KATHĀS. 24,">193.</ls> <ls>RĀJA-TAR. 4,203. 6,172. 4te</ls> <ls>RĀJA-TAR. 12.</ls> {%Eisenrost%}
+;
+766035 new <ls>KATHĀS. 24,178.</ls> <ls n="KATHĀS. 24,">193.</ls> <ls>RĀJA-TAR. 4,203. 6,172.</ls> 4te <ls>RĀJA-TAR. 12.</ls> {%Eisenrost%}
+;---------------------------------------------------
+; <L>84878<pc>6-0379<k1>ruci<k2>ru/ci
+766929 old <ls>RĀJA-TAR. 1</ls>, <ls n="RĀJA-TAR.">29.PRAB. 15,7.</ls>
+;
+766929 new <ls>RĀJA-TAR. 1,29.</ls> <ls>PRAB. 15,7.</ls>
+;---------------------------------------------------
+; <L>85042<pc>6-0392<k1>ruD<k2>ruD<h>2
+768482 old <ls n="RĀJA-TAR.">49.</ls> <ls>VET. in LA. (III) 17,22, v. l.</ls> {#raRe 'rudDaH#}
+;
+768482 new <ls n="RĀJA-TAR. 6,">49.</ls> <ls>VET. in LA. (III) 17,22, v. l.</ls> {#raRe 'rudDaH#}
+;---------------------------------------------------
+; <L>85118<pc>6-0424<k1>rUpaka<k2>rUpaka
+771136 old <ls n="RĀJA-TAR.">45.</ls> {#svarRa°#}
+;
+771136 new <ls n="RĀJA-TAR. 6,">45.</ls> {#svarRa°#}
+;---------------------------------------------------
+; <L>85424<pc>6-0447<k1>romanTa<k2>romanTa
+774169 old <ls n="RĀJA-TAR.">351.</ls> Nach den Erklärern zu <ls>P. 3,1,15</ls>
+;
+774169 new <ls n="RĀJA-TAR. 5,">351.</ls> Nach den Erklärern zu <ls>P. 3,1,15</ls>
+;---------------------------------------------------
+; <L>85641<pc>6-0465<k1>lakzay<k2>lakzay
+776556 old <ls n="RĀJA-TAR.">252.</ls> {#hemnaH saMlakzyate hyagnO viSudDiH SyAmikApi vA#}
+;
+776556 new <ls n="RĀJA-TAR. 3,">252.</ls> {#hemnaH saMlakzyate hyagnO viSudDiH SyAmikApi vA#}
+;---------------------------------------------------
+; <L>85715<pc>6-0475<k1>lag<k2>lag
+777474 old <ls n="RĀJA-TAR.">348. 351.</ls> <ls>HIT. 97,13.</ls> {#lagnaSca saMprAptaH#}
+;
+777474 new <ls n="RĀJA-TAR. 3,">348. 351.</ls> <ls>HIT. 97,13.</ls> {#lagnaSca saMprAptaH#}
+;---------------------------------------------------
+; <L>86542<pc>6-0568<k1>lUtA<k2>lUtA
+787404 old <ls n="RĀJA-TAR.">185. 4,523.</ls>
+;
+787404 new <ls n="RĀJA-TAR. 6,">185. 4,523.</ls>
+;---------------------------------------------------
+; <L>86777<pc>6-0586<k1>lokottara<k2>lokottara
+789588 old <ls n="RĀJA-TAR.">426.</ls> {#kiM na lokottaramaBUdBUpateScakravarmaRaH#}
+;
+789588 new <ls n="RĀJA-TAR. 4,">426.</ls> {#kiM na lokottaramaBUdBUpateScakravarmaRaH#}
+;---------------------------------------------------
+; <L>87151<pc>6-0609<k1>vaMSya<k2>va/MSya
+792752 old <ls n="RĀJA-TAR.">337.</ls> {#BUpAla°#}
+;
+792752 new <ls n="RĀJA-TAR. 5,">337.</ls> {#BUpAla°#}
+;---------------------------------------------------
+; <L>87539<pc>6-0642<k1>vawwadeva<k2>vawwadeva
+796596 old <ls n="RĀJA-TAR.">1303.</ls>
+;
+796596 new <ls n="RĀJA-TAR. 7,">1303.</ls>
+;---------------------------------------------------
+; <L>88004<pc>6-0682<k1>vap<k2>vap<h>2
+801734 old <ls n="RĀJA-TAR.">507.</ls> {#pratyuptasyeva dayite tfzRAdIrGasya cakzuzaH#}
+;
+801734 new <ls n="RĀJA-TAR. 3,">507.</ls> {#pratyuptasyeva dayite tfzRAdIrGasya cakzuzaH#}
+;---------------------------------------------------
+; <L>88032<pc>6-0689<k1>vappawadevI<k2>vappawadevI
+802105 old <ls n="RĀJA-TAR.">281.</ls>
+;
+802105 new <ls n="RĀJA-TAR. 5,">281.</ls>
+;---------------------------------------------------
+; <L>88033<pc>6-0689<k1>vappiya<k2>vappiya
+802111 old <ls n="RĀJA-TAR.">393.</ls>
+;
+802111 new <ls n="RĀJA-TAR. 4,">393.</ls>
+;---------------------------------------------------
+; <L>88101<pc>6-0696<k1>var<k2>var<h>1
+803118 old <ls n="RĀJA-TAR.">340.</ls> {%ausschliessen%}
+;
+803118 new <ls n="RĀJA-TAR. 6,">340.</ls> {%ausschliessen%}
+;---------------------------------------------------
+; <L>88101<pc>6-0696<k1>var<k2>var<h>1
+803495 old <ls n="RĀJA-TAR.">315.</ls> {%wegschaffen, entfernen%}: {#vyADim#}
+;
+803495 new <ls n="RĀJA-TAR. 3,">315.</ls> {%wegschaffen, entfernen%}: {#vyADim#}
+;---------------------------------------------------
+; <L>88105<pc>6-0709<k1>vara<k2>va/ra<h>3
+804086 old <ls n="RĀJA-TAR.">434.</ls> {#varaM brUhi#}
+;
+804086 new <ls n="RĀJA-TAR. 3,">434.</ls> {#varaM brUhi#}
+;---------------------------------------------------
+; <L>88241<pc>6-0719<k1>varAha<k2>varAha/
+805484 old <ls n="RĀJA-TAR.">365.</ls>
+;
+805484 new <ls n="RĀJA-TAR. 7,">365.</ls>
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+809339 old <ls n="RĀJA-TAR.">473.</ls> {#pratyAvfttaH punariva sa me jAnakIviprayogaH#}
+;
+809339 new <ls n="RĀJA-TAR. 5,">473.</ls> {#pratyAvfttaH punariva sa me jAnakIviprayogaH#}
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+810518 old <ls n="RĀJA-TAR.">186.</ls> {#tena rAjYA pravartitAH . sTitayo vItasaMdehA BAsvateva dinakriyAH#}
+;
+810518 new <ls n="RĀJA-TAR. 1,">186.</ls> {#tena rAjYA pravartitAH . sTitayo vItasaMdehA BAsvateva dinakriyAH#}
+;---------------------------------------------------
+; <L>88503<pc>6-0746<k1>vart<k2>vart
+810520 old <ls n="RĀJA-TAR.">397.</ls> {#ityeza tena saMvAho gfhakftye pravartitaH#}
+;
+810520 new <ls n="RĀJA-TAR. 4,">397.</ls> {#ityeza tena saMvAho gfhakftye pravartitaH#}
+;---------------------------------------------------
+; <L>88549<pc>6-0782<k1>varD<k2>varD<h>1
+811873 old <ls n="RĀJA-TAR.">333.</ls> {#harza#}
+;
+811873 new <ls n="RĀJA-TAR. 6,">333.</ls> {#harza#}
+;---------------------------------------------------
+; <L>88594<pc>6-0794<k1>varman<k2>va/rman
+812538 old <ls n="RĀJA-TAR.">406.</ls> {#Garme vahanvarma#}
+;
+812538 new <ls n="RĀJA-TAR. 3,">406.</ls> {#Garme vahanvarma#}
+;---------------------------------------------------
+; <L>88676<pc>6-0803<k1>varzin<k2>varzin
+813512 old <ls n="RĀJA-TAR.">239.</ls> {#SoRita°#}
+;
+813512 new <ls n="RĀJA-TAR. 1,">239.</ls> {#SoRita°#}
+;---------------------------------------------------
+; <L>89199<pc>6-0859<k1>vah<k2>vah<h>1
+819847 old <ls n="RĀJA-TAR.">290.</ls>
+;
+819847 new <ls n="RĀJA-TAR. 4,">290.</ls>
+;---------------------------------------------------
+; <L>89199<pc>6-0859<k1>vah<k2>vah<h>1
+820163 old <ls n="RĀJA-TAR.">478.</ls> {#pramodam#}
+;
+820163 new <ls n="RĀJA-TAR. 3,">478.</ls> {#pramodam#}
+;---------------------------------------------------
+; <L>89314<pc>6-0881<k1>vAkpuzwA<k2>vAkpuzwA
+821743 old <ls n="RĀJA-TAR.">57.</ls>
+;
+821743 new <ls n="RĀJA-TAR. 2,">57.</ls>
+;---------------------------------------------------
+; <L>89664<pc>6-0907<k1>vAtagaRqA<k2>vAtagaRqA
+824890 old <ls n="RĀJA-TAR.">1179.</ls>
+;
+824890 new <ls n="RĀJA-TAR. 7,">1179.</ls>
+;---------------------------------------------------
+; <L>90242<pc>6-0942<k1>vAriDi<k2>vAriDi
+829510 old <ls n="RĀJA-TAR.">479.</ls> {#°sutA#}
+;
+829510 new <ls n="RĀJA-TAR. 3,">479.</ls> {#°sutA#}
+;---------------------------------------------------
+; <L>90245<pc>6-0942<k1>vAriniDi<k2>vAriniDi
+829529 old <ls n="RĀJA-TAR.">327.</ls>
+;
+829529 new <ls n="RĀJA-TAR. 3,">327.</ls>
+;---------------------------------------------------
+; <L>90487<pc>6-0956<k1>vAlukA<k2>vAlukA
+831463 old <ls n="RĀJA-TAR.">172.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A#})
+;
+831463 new <ls n="RĀJA-TAR. 4,">172.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#A#})
+;---------------------------------------------------
+; <L>90727<pc>6-0976<k1>vAhin<k2>vAhin
+833900 old <ls n="RĀJA-TAR.">134.</ls> <ls>MBH. 6,2337.</ls> <ls>VĀSAVAD. 13,3.</ls>
+;
+833900 new <ls n="RĀJA-TAR. 4,">134.</ls> <ls>MBH. 6,2337.</ls> <ls>VĀSAVAD. 13,3.</ls>
+;---------------------------------------------------
+; <L>91046<pc>6-1002<k1>vigraha<k2>vigraha<h>1
+837036 old <ls n="RĀJA-TAR.">653. 5,240.</ls> {#nagna#}
+;
+837036 new <ls n="RĀJA-TAR. 4,">653. 5,240.</ls> {#nagna#}
+;---------------------------------------------------
+; <L>91046<pc>6-1002<k1>vigraha<k2>vigraha<h>1
+837037 old <ls n="RĀJA-TAR.">433.</ls> <ls>BHĀG. P. 2,1,38.</ls> {#pulakAYcita°#}
+;
+837037 new <ls n="RĀJA-TAR. 5,">433.</ls> <ls>BHĀG. P. 2,1,38.</ls> {#pulakAYcita°#}
+;---------------------------------------------------
+; <L>91127<pc>6-1010<k1>vicAra<k2>vicAra
+837864 old <ls n="RĀJA-TAR.">235.</ls> <ls>VET. in LA. (III) 12,10.</ls> {#avicAram#} {%ohne Bedenken%}
+;
+837864 new <ls n="RĀJA-TAR. 4,">235.</ls> <ls>VET. in LA. (III) 12,10.</ls> {#avicAram#} {%ohne Bedenken%}
+;---------------------------------------------------
+; <L>91210<pc>6-1016<k1>vicCeda<k2>vicCeda
+838558 old <ls n="RĀJA-TAR.">1249.</ls> {#sarga°#}
+;
+838558 new <ls n="RĀJA-TAR. 8,">1249.</ls> {#sarga°#}
+;---------------------------------------------------
+; <L>91879<pc>6-1075<k1>viDAyin<k2>viDAyin
+845272 old <ls n="RĀJA-TAR.">636.</ls> An den beiden letzten Stellen zugleich {%bewirkend.%}
+;
+845272 new <ls n="RĀJA-TAR. 4,">636.</ls> An den beiden letzten Stellen zugleich {%bewirkend.%}
+;---------------------------------------------------
+; <L>91879<pc>6-1075<k1>viDAyin<k2>viDAyin
+845291 old <ls n="RĀJA-TAR.">634.</ls> {#BUtanizWA°#}
+;
+845291 new <ls n="RĀJA-TAR. 4,">634.</ls> {#BUtanizWA°#}
+;---------------------------------------------------
+; <L>91879<pc>6-1075<k1>viDAyin<k2>viDAyin
+845292 old <ls n="RĀJA-TAR.">636</ls> (vgl. u. 1). {#mAnakzati°#}
+;
+845292 new <ls n="RĀJA-TAR. 4,">636</ls> (vgl. u. 1). {#mAnakzati°#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850187 old <ls n="RĀJA-TAR.">88.</ls> {#saMkalpa°#}
+;
+850187 new <ls n="RĀJA-TAR. 3,">88.</ls> {#saMkalpa°#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850188 old <ls n="RĀJA-TAR.">89.</ls> {#janatAGa°#}
+;
+850188 new <ls n="RĀJA-TAR. 3,">89.</ls> {#janatAGa°#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850209 old <ls n="RĀJA-TAR.">184.</ls> {#grahaRa°#}
+;
+850209 new <ls n="RĀJA-TAR. 1,">184.</ls> {#grahaRa°#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850220 old <ls n="RĀJA-TAR.">559. 2261.</ls> {#urvI SamitaviplavA#}
+;
+850220 new <ls n="RĀJA-TAR. 8,">559. 2261.</ls> {#urvI SamitaviplavA#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850221 old <ls n="RĀJA-TAR.">1041.</ls> {#°spfS#}
+;
+850221 new <ls n="RĀJA-TAR. 8,">1041.</ls> {#°spfS#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850222 old <ls n="RĀJA-TAR.">915.</ls> {#gOqarAkzasa°#}
+;
+850222 new <ls n="RĀJA-TAR. 8,">915.</ls> {#gOqarAkzasa°#}
+;---------------------------------------------------
+; <L>92371<pc>6-1117<k1>viplava<k2>viplava<h>1
+850224 old <ls n="RĀJA-TAR.">715. 5,420. 8,993.</ls> {#rAjya°#}
+;
+850224 new <ls n="RĀJA-TAR. 4,">715. 5,420. 8,993.</ls> {#rAjya°#}
+;---------------------------------------------------
+; <L>92487<pc>6-1127<k1>viBIzaRa<k2>viBI/zaRa
+851356 old <ls n="RĀJA-TAR.">196.fg.</ls>
+;
+851356 new <ls n="RĀJA-TAR. 1,">196. fg.</ls>
+;---------------------------------------------------
+; <L>93196<pc>6-1187<k1>viS<k2>viS<h>1
+859486 old <ls n="RĀJA-TAR.">271.</ls> {#tamas#}
+;
+859486 new <ls n="RĀJA-TAR. 5,">271.</ls> {#tamas#}
+;---------------------------------------------------
+; <L>93313<pc>6-1214<k1>viSfNKala<k2>viSfNKala
+860946 old <ls n="RĀJA-TAR.">820.</ls> {#manas#}
+;
+860946 new <ls n="RĀJA-TAR. 8,">820.</ls> {#manas#}
+;---------------------------------------------------
+; <L>93313<pc>6-1214<k1>viSfNKala<k2>viSfNKala
+860947 old <ls n="RĀJA-TAR.">2128.</ls> {#cezwita#}
+;
+860947 new <ls n="RĀJA-TAR. 8,">2128.</ls> {#cezwita#}
+;---------------------------------------------------
+; <L>93775<pc>6-1245<k1>vizama<k2>vi/zama
+864921 old <ls n="RĀJA-TAR.">2052.</ls> {#rAjopasevana#}
+;
+864921 new <ls n="RĀJA-TAR. 8,">2052.</ls> {#rAjopasevana#}
+;---------------------------------------------------
+; <L>93775<pc>6-1245<k1>vizama<k2>vi/zama
+864922 old <ls n="RĀJA-TAR.">2188.</ls> {#nayanavizamErvidyududayEH#}
+;
+864922 new <ls n="RĀJA-TAR. 8,">2188.</ls> {#nayanavizamErvidyududayEH#}
+;---------------------------------------------------
+; <L>93775<pc>6-1245<k1>vizama<k2>vi/zama
+864923 old <ls n="RĀJA-TAR.">1558.</ls> {#vizamA vAmA viDervfttayaH#}
+;
+864923 new <ls n="RĀJA-TAR. 8,">1558.</ls> {#vizamA vAmA viDervfttayaH#}
+;---------------------------------------------------
+; <L>93855<pc>6-1252<k1>vizalAwA<k2>vizalAwA
+865660 old <ls n="RĀJA-TAR.">691.</ls>
+;
+865660 new <ls n="RĀJA-TAR. 8,">691.</ls>
+;---------------------------------------------------
+; <L>93963<pc>6-1260<k1>vizwara<k2>vizwara
+866614 old <ls n="RĀJA-TAR.">263. 555. 719.</ls> {#uttamaSlokapadAbja°#}
+;
+866614 new <ls n="RĀJA-TAR. 4,">263. 555. 719.</ls> {#uttamaSlokapadAbja°#}
+;---------------------------------------------------
+; <L>94164<pc>6-1274<k1>visUtra<k2>visUtra
+868249 old <ls n="RĀJA-TAR.">1800.</ls>
+;
+868249 new <ls n="RĀJA-TAR. 8,">1800.</ls>
+;---------------------------------------------------
+; <L>94739<pc>6-1313<k1>vfjina<k2>vfjina/
+873294 old <ls n="RĀJA-TAR.">137.</ls> {#SAnta°#} <lex>adj.</lex>
+;
+873294 new <ls n="RĀJA-TAR. 6,">137.</ls> {#SAnta°#} <lex>adj.</lex>
+;---------------------------------------------------
+; <L>94971<pc>6-1335<k1>vfza<k2>vf/za<h>1
+875886 old <ls>RĀJA-TAR. 4,227),2.</ls> {#vArza#} und {#vArzyAyaRi#} .
+;
+875886 new <ls>RĀJA-TAR. 4,227</ls>), 2. {#vArza#} und {#vArzyAyaRi#} .
+;---------------------------------------------------
+; <L>95554<pc>6-1380<k1>vezw<k2>vezw
+881305 old <ls n="RĀJA-TAR.">1106</ls> ({#vezwitA dvizAM#} zu lesen).
+;
+881305 new <ls n="RĀJA-TAR. 8,">1106</ls> ({#vezwitA dvizAM#} zu lesen).
+;---------------------------------------------------
+; <L>95557<pc>6-1383<k1>vezwana<k2>vezwana
+881529 old <ls n="RĀJA-TAR.">1434.</ls>
+;
+881529 new <ls n="RĀJA-TAR. 8,">1434.</ls>
+;---------------------------------------------------
+; <L>96450<pc>6-1459<k1>vyasanin<k2>vyasanin
+890283 old <ls n="RĀJA-TAR.">1287.</ls> {#SakunibanDa°#}
+;
+890283 new <ls n="RĀJA-TAR. 8,">1287.</ls> {#SakunibanDa°#}
+;---------------------------------------------------
+; <L>96592<pc>6-1471<k1>vyApad<k2>vyApad
+891662 old <ls n="RĀJA-TAR.">1853.</ls> {#vyApadgata#}
+;
+891662 new <ls n="RĀJA-TAR. 8,">1853.</ls> {#vyApadgata#}
+;---------------------------------------------------
+; <L>96626<pc>6-1475<k1>vyAyAma<k2>vyAyAma/
+892029 old <ls n="RĀJA-TAR.">1073. 2117.</ls> {#°vid#}
+;
+892029 new <ls n="RĀJA-TAR. 8,">1073. 2117.</ls> {#°vid#}
+;---------------------------------------------------
+; <L>96626<pc>6-1475<k1>vyAyAma<k2>vyAyAma/
+892030 old <ls n="RĀJA-TAR.">2323.</ls> {#°BUmi#} {%ein für körperliche Uebungen bestimmter Platz- Exercirplatz%} u. s. w.
+;
+892030 new <ls n="RĀJA-TAR. 8,">2323.</ls> {#°BUmi#} {%ein für körperliche Uebungen bestimmter Platz- Exercirplatz%} u. s. w.
+;---------------------------------------------------
+; <L>96864<pc>6-1494<k1>vraRay<k2>vraRay
+894323 old <ls n="RĀJA-TAR.">401.</ls>
+;
+894323 new <ls n="RĀJA-TAR. 3,">401.</ls>
+;---------------------------------------------------
+; <L>97288<pc>7-0030<k1>SaNkA<k2>SaNkA/
+899074 old <ls n="RĀJA-TAR.">1634.</ls> {#pApayoste kaTaM nAma tayoH#} (loc.) {#SaNkA na vidyate#}
+;
+899074 new <ls n="RĀJA-TAR. 8,">1634.</ls> {#pApayoste kaTaM nAma tayoH#} (loc.) {#SaNkA na vidyate#}
+;---------------------------------------------------
+; <L>97293<pc>7-0031<k1>SaNku<k2>SaNku/
+899213 old <ls n="RĀJA-TAR.">1634.</ls> Hierher vielleicht {#SaNku = kaluza#}
+;
+899213 new <ls n="RĀJA-TAR. 8,">1634.</ls> Hierher vielleicht {#SaNku = kaluza#}
+;---------------------------------------------------
+; <L>97918<pc>7-0078<k1>SamAgAsa<k2>SamAgAsa
+905104 old <ls n="RĀJA-TAR.">342.</ls>
+;
+905104 new <ls n="RĀJA-TAR. 1,">342.</ls>
+;---------------------------------------------------
+; <L>98790<pc>7-0140<k1>SAnta<k2>SAnta<h>1
+912975 old <ls n="RĀJA-TAR.">92. 102. 106. 3,192. 420. 6,310.</ls> <ls>Spr. (II) 1810.</ls> <ls>DAŚAK. 73,5.</ls> <ls>Verz. d. Oxf. H. 55,a,1</ls>
+;
+912975 new <ls n="RĀJA-TAR. 1,">92. 102. 106. 3,192. 420. 6,310.</ls> <ls>Spr. (II) 1810.</ls> <ls>DAŚAK. 73,5.</ls> <ls>Verz. d. Oxf. H. 55,a,1</ls>
+;---------------------------------------------------
+; <L>98810<pc>7-0142<k1>SAnti<k2>SA/nti
+913233 old <ls n="RĀJA-TAR.">702.</ls>
+;
+913233 new <ls n="RĀJA-TAR. 4,">702.</ls>
+;---------------------------------------------------
+; <L>99142<pc>7-0164<k1>SAs<k2>SAs<h>1
+916128 old u.s.w. <ls>MBH. 12,513.</ls> <ls>HARIV. 14408.</ls> <ls>R. 2,35,10.</ls> <ls n="R. 2,">37,27.</ls> <ls n="R. 2,37,">29.</ls> <ls n="R.">5,37,18.</ls> <ls>MṚCCH. 178,1.</ls> <ls>RAGH. 1,30.</ls> <ls n="RAGH.">10,1.</ls> <ls>ŚĀK. 24.</ls> <ls>VARĀH. BṚH. S. 8,30.</ls> <ls n="VARĀH. BṚH. S.">13,3</ls> (= <ls>RĀJA-TAR. 1,56).</ls> <ls>BṚH. 11,8.</ls> <ls>KATHĀS. 3,77.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7,26, Śl. 14.</ls> <ls>RĀJA-TAR. 3,242. 4,7.</ls> <ls>BHĀG. P. 1,10,3.</ls> <ls n="BHĀG. P. 1,">16,1.</ls> <ls n="BHĀG. P.">3,1,20.</ls> <ls n="BHĀG. P. 3,">13,11.</ls> <ls n="BHĀG. P. 3,">21,25.</ls> <ls n="BHĀG. P.">4,12,13.</ls> <ls n="BHĀG. P. 4,">21,7.</ls> <ls n="BHĀG. P.">9,16,11.</ls> <ls n="BHĀG. P.">12,1,9.</ls> <ls>BHAṬṬ. 3,53.</ls> {#trinAkam#}
+;
+916128 new u.s.w. <ls>MBH. 12,513.</ls> <ls>HARIV. 14408.</ls> <ls>R. 2,35,10.</ls> <ls n="R. 2,">37,27.</ls> <ls n="R. 2,37,">29.</ls> <ls n="R.">5,37,18.</ls> <ls>MṚCCH. 178,1.</ls> <ls>RAGH. 1,30.</ls> <ls n="RAGH.">10,1.</ls> <ls>ŚĀK. 24.</ls> <ls>VARĀH. BṚH. S. 8,30.</ls> <ls n="VARĀH. BṚH. S.">13,3</ls> (= <ls>RĀJA-TAR. 1,56</ls>). <ls>BṚH. 11,8.</ls> <ls>KATHĀS. 3,77.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7,26, Śl. 14.</ls> <ls>RĀJA-TAR. 3,242. 4,7.</ls> <ls>BHĀG. P. 1,10,3.</ls> <ls n="BHĀG. P. 1,">16,1.</ls> <ls n="BHĀG. P.">3,1,20.</ls> <ls n="BHĀG. P. 3,">13,11.</ls> <ls n="BHĀG. P. 3,">21,25.</ls> <ls n="BHĀG. P.">4,12,13.</ls> <ls n="BHĀG. P. 4,">21,7.</ls> <ls n="BHĀG. P.">9,16,11.</ls> <ls n="BHĀG. P.">12,1,9.</ls> <ls>BHAṬṬ. 3,53.</ls> {#trinAkam#}
+;---------------------------------------------------
+; <L>99768<pc>7-0208<k1>SiSira<k2>Si/Sira
+921888 old <ls n="RĀJA-TAR.">65.</ls> <ls>R. 5,55,3.</ls> <ls>Spr. (II) 4368.</ls> <ls>SUŚR. 2,489,19.</ls> <ls n="SUŚR.">1,151,14.</ls> {#SiSirASrutA#}
+;
+921888 new <ls n="RĀJA-TAR. 5,">65.</ls> <ls>R. 5,55,3.</ls> <ls>Spr. (II) 4368.</ls> <ls>SUŚR. 2,489,19.</ls> <ls n="SUŚR.">1,151,14.</ls> {#SiSirASrutA#}
+;---------------------------------------------------
+; <L>99828<pc>7-0217<k1>SI<k2>SI<h>2
+922900 old <ls n="RĀJA-TAR.">4.</ls> <ls>BHĀG. P. 3,23,41.</ls> {#atyaSerata tadvegaM suparRArkamArutAH#}
+;
+922900 new <ls n="RĀJA-TAR. 3,">4.</ls> <ls>BHĀG. P. 3,23,41.</ls> {#atyaSerata tadvegaM suparRArkamArutAH#}
+;---------------------------------------------------
+; <L>99867<pc>7-0223<k1>SIta<k2>SIta/
+923437 old <ls n="RĀJA-TAR.">169. fg. 177. 5,195. 6,364.</ls> <ls>BHĀG. P. 11,29,37.</ls> <ls>PAÑCAT. I,436.</ls> <ls>VOP. 26,91.</ls> {#atItAni SItAni#}
+;
+923437 new <ls n="RĀJA-TAR. 3,">169. fg. 177. 5,195. 6,364.</ls> <ls>BHĀG. P. 11,29,37.</ls> <ls>PAÑCAT. I,436.</ls> <ls>VOP. 26,91.</ls> {#atItAni SItAni#}
+;---------------------------------------------------
+; <L>100618<pc>7-0281<k1>SUra<k2>SU/ra<h>1
+930967 old <ls n="RĀJA-TAR.">47. fgg. 7,803. 808. 8,1847. 1940. 2483.</ls> <ls>SCHIEFNER, Lebensb. 310 (80).</ls> <ls>TĀRAN. 5. 90. 136. 140. 181. 204.</ls>
+;
+930967 new <ls n="RĀJA-TAR. 5,">47. fgg. 7,803. 808. 8,1847. 1940. 2483.</ls> <ls>SCHIEFNER, Lebensb. 310 (80).</ls> <ls>TĀRAN. 5. 90. 136. 140. 181. 204.</ls>
+;---------------------------------------------------
+; <L>100744<pc>7-0290<k1>SfNgAra<k2>Sf/NgAra
+932191 old <ls n="RĀJA-TAR.">2427.</ls>
+;
+932191 new <ls n="RĀJA-TAR. 8,">2427.</ls>
+;---------------------------------------------------
+; <L>101242<pc>7-0321<k1>SOrya<k2>SO/rya
+936364 old <ls n="Spr.">(II) 2632.</ls> <ls n="Spr. (II)">2760.</ls> <ls n="Spr. (II)">3502.</ls> <ls n="Spr. (II)">4763, v. l.</ls> <ls n="Spr. (II)">5023, v. l.</ls> <ls>VARĀH. BṚH. S. 15,15.</ls> <ls n="VARĀH. BṚH. S.">69,19.</ls> <ls>KATHĀS. 18,344.</ls> <ls>RĀJA-TAR. 5,233. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6,504, Śl. 12.</ls> {#°varDana#}
+;
+936364 new <ls n="Spr.">(II) 2632.</ls> <ls n="Spr. (II)">2760.</ls> <ls n="Spr. (II)">3502.</ls> <ls n="Spr. (II)">4763, v. l.</ls> <ls n="Spr. (II)">5023, v. l.</ls> <ls>VARĀH. BṚH. S. 15,15.</ls> <ls n="VARĀH. BṚH. S.">69,19.</ls> <ls>KATHĀS. 18,344.</ls> <ls>RĀJA-TAR. 5,233.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 6,504, Śl. 12.</ls> {#°varDana#}
+;---------------------------------------------------
+; <L>101520<pc>7-0345<k1>SrAdDa<k2>SrAdDa/
+939344 old <ls n="Spr. (II)">4950.</ls> <ls>RĀJA-TAR. 6. 254</ls>, <ls>VP. 297. 314. fgg. 325. 328. 330. 333.</ls> <ls>DHŪRTAS. 89,2.</ls> <ls>Verz. d. B. H. No. 324. 1120. fgg.</ls> <ls>Verz. d. Oxf. H. 10,b,23.</ls> <ls n="Verz. d. Oxf. H.">12,b,17.</ls> <ls n="Verz. d. Oxf. H.">87,a,16. 28.</ls> <ls n="Verz. d. Oxf. H.">265,b,39.</ls> <ls n="Verz. d. Oxf. H.">269,b,15.</ls> <ls n="Verz. d. Oxf. H.">271,a,3.</ls> {#°SarIranirRaya#}
+;
+939344 new <ls n="Spr. (II)">4950.</ls> <ls>RĀJA-TAR. 6,254</ls>, <ls>VP. 297. 314. fgg. 325. 328. 330. 333.</ls> <ls>DHŪRTAS. 89,2.</ls> <ls>Verz. d. B. H. No. 324. 1120. fgg.</ls> <ls>Verz. d. Oxf. H. 10,b,23.</ls> <ls n="Verz. d. Oxf. H.">12,b,17.</ls> <ls n="Verz. d. Oxf. H.">87,a,16. 28.</ls> <ls n="Verz. d. Oxf. H.">265,b,39.</ls> <ls n="Verz. d. Oxf. H.">269,b,15.</ls> <ls n="Verz. d. Oxf. H.">271,a,3.</ls> {#°SarIranirRaya#}
+;---------------------------------------------------
+; <L>102035<pc>7-0402<k1>SlAGya<k2>SlAGya
+945665 old <ls n="RĀJA-TAR.">5,56,83.</ls> {#jagacClADya#} {%von der Welt zu preisen%}
+;
+945665 new <ls n="R.">5,56,83.</ls> {#jagacClADya#} {%von der Welt zu preisen%}
+;---------------------------------------------------
+; <L>102807<pc>7-0462<k1>saMlApa<k2>saMlApa
+952707 old <ls n="RĀJA-TAR.">191.</ls> <ls>MĀRK. P. 8,26.</ls> {#hari°#} {%über%}
+;
+952707 new <ls n="RĀJA-TAR. 3,">191.</ls> <ls>MĀRK. P. 8,26.</ls> {#hari°#} {%über%}
+;---------------------------------------------------
+; <L>102907<pc>7-0470<k1>saMvid<k2>saMvi/d<h>1
+953733 old <ls n="RĀJA-TAR.">124.</ls>
+;
+953733 new <ls n="RĀJA-TAR. 6,">124.</ls>
+;---------------------------------------------------
+; <L>102907<pc>7-0470<k1>saMvid<k2>saMvi/d<h>1
+953779 old <ls n="RĀJA-TAR.">412.</ls> {#kftvA saMkrAntasaMvidam . saKIm#}
+;
+953779 new <ls n="RĀJA-TAR. 4,">412.</ls> {#kftvA saMkrAntasaMvidam . saKIm#}
+;---------------------------------------------------
+; <L>102907<pc>7-0470<k1>saMvid<k2>saMvi/d<h>1
+953780 old <ls n="RĀJA-TAR.">428.</ls> {#pUrRAyAM saMvidi#}
+;
+953780 new <ls n="RĀJA-TAR. 4,">428.</ls> {#pUrRAyAM saMvidi#}
+;---------------------------------------------------
+; <L>102907<pc>7-0470<k1>saMvid<k2>saMvi/d<h>1
+953781 old <ls n="RĀJA-TAR.">553. 576. 615.</ls>
+;
+953781 new <ls n="RĀJA-TAR. 4,">553. 576. 615.</ls>
+;---------------------------------------------------
+; <L>104247<pc>7-0591<k1>sad<k2>sad
+968053 old <ls n="RĀJA-TAR.">674.</ls> — partic. {#°sanna#} {%in der Nähe befindlich, benachbart%}
+;
+968053 new <ls n="RĀJA-TAR. 4,">674.</ls> — partic. {#°sanna#} {%in der Nähe befindlich, benachbart%}
+;---------------------------------------------------
+; <L>104821<pc>7-0651<k1>saMniDi<k2>saMniDi
+974306 old <ls n="RĀJA-TAR.">507.</ls>
+;
+974306 new <ls n="RĀJA-TAR. 4,">507.</ls>
+;---------------------------------------------------
+; <L>104937<pc>7-0658<k1>sapAda<k2>sapAda
+975251 old <ls>RĀJA-TAR. 4. 407.</ls>
+;
+975251 new <ls>RĀJA-TAR. 4,407.</ls>
+;---------------------------------------------------
+; <L>104983<pc>7-0660<k1>saptati<k2>saptati/
+975574 old <ls n="RĀJA-TAR.">311.</ls> <ls>SĀṂKHYAK. 72</ls> (<ls>HALL 4</ls>). {%ein Siebzig%} so v. a. {%siebzig Jahre%}
+;
+975574 new <ls n="RĀJA-TAR. 1,">311.</ls> <ls>SĀṂKHYAK. 72</ls> (<ls>HALL 4</ls>). {%ein Siebzig%} so v. a. {%siebzig Jahre%}
+;---------------------------------------------------
+; <L>105033<pc>7-0664<k1>saptama<k2>saptama/
+976025 old <ls n="RĀJA-TAR.">448.</ls> {#°kalpa#}
+;
+976025 new <ls n="RĀJA-TAR. 5,">448.</ls> {#°kalpa#}
+;---------------------------------------------------
+; <L>106057<pc>7-0738<k1>saMpAta<k2>saMpAta
+985263 old <ls n="RĀJA-TAR.">278.</ls> <ls>PRAB. 87,9.</ls> {#pavanADikasaMpAtaH KagaH#}
+;
+985263 new <ls n="RĀJA-TAR. 5,">278.</ls> <ls>PRAB. 87,9.</ls> {#pavanADikasaMpAtaH KagaH#}
+;---------------------------------------------------
+; <L>106569<pc>7-0791<k1>sarj<k2>sarj<h>3
+992171 old <ls n="RĀJA-TAR.">188.</ls> <ls>KATHĀS. 11,26.</ls> {#tvatpArSvam#}
+;
+992171 new <ls n="RĀJA-TAR. 3,">188.</ls> <ls>KATHĀS. 11,26.</ls> {#tvatpArSvam#}
+;---------------------------------------------------
+; <L>108436<pc>7-0931<k1>sAmanta<k2>sAmanta
+1008531 old <ls n="RĀJA-TAR.">341. 354. 394. 430. 445. 6,91.</ls> <ls>PRAB. 2,2. 3.</ls> <ls>SĀH. D. 82. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6,505, Śl. 18.</ls> {#mAlava°#}
+;
+1008531 new <ls n="RĀJA-TAR. 5,">341. 354. 394. 430. 445. 6,91.</ls> <ls>PRAB. 2,2. 3.</ls> <ls>SĀH. D. 82. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6,505, Śl. 18.</ls> {#mAlava°#}
+;---------------------------------------------------
+; <L>108457<pc>7-0932<k1>sAmarTya<k2>sAmarTya
+1008726 old <ls n="RĀJA-TAR.">476.</ls> Die Ergänzung
+;
+1008726 new <ls n="RĀJA-TAR. 5,">476.</ls> Die Ergänzung
+;---------------------------------------------------
+; <L>108790<pc>7-0958<k1>sArDa<k2>sArDa
+1011818 old <ls n="RĀJA-TAR.">172.</ls> <ls>KATHĀS. 29,171.</ls> {#dve sahasre suvarRasya sArDe#} {%2500%}
+;
+1011818 new <ls n="RĀJA-TAR. 1,">172.</ls> <ls>KATHĀS. 29,171.</ls> {#dve sahasre suvarRasya sArDe#} {%2500%}
+;---------------------------------------------------
+; <L>109006<pc>7-0971<k1>siMha<k2>siMha/
+1013668 old <ls n="RĀJA-TAR.">2008.</ls> {#°mahIpati#}
+;
+1013668 new <ls n="RĀJA-TAR. 8,">2008.</ls> {#°mahIpati#}
+;---------------------------------------------------
+; <L>109006<pc>7-0971<k1>siMha<k2>siMha/
+1013669 old <ls n="RĀJA-TAR.">2021.</ls> {#°nfpa#}
+;
+1013669 new <ls n="RĀJA-TAR. 8,">2021.</ls> {#°nfpa#}
+;---------------------------------------------------
+; <L>109150<pc>7-0985<k1>sita<k2>sita/<h>3
+1015244 old <ls n="RĀJA-TAR.">311.</ls> {#ahan#}
+;
+1015244 new <ls n="RĀJA-TAR. 6,">311.</ls> {#ahan#}
+;---------------------------------------------------
+; <L>109150<pc>7-0985<k1>sita<k2>sita/<h>3
+1015245 old <ls n="RĀJA-TAR.">312.</ls>
+;
+1015245 new <ls n="RĀJA-TAR. 6,">312.</ls>
+;---------------------------------------------------
+; <L>109630<pc>7-1016<k1>sImantay<k2>sImantay
+1019270 old <ls n="RĀJA-TAR.">345.</ls> {#raTANgasImantitasAndrakardama#}
+;
+1019270 new <ls n="RĀJA-TAR. 3,">345.</ls> {#raTANgasImantitasAndrakardama#}
+;---------------------------------------------------
+; <L>112658<pc>7-1193<k1>sevaka<k2>sevaka<h>2
+1044347 old <ls n="RĀJA-TAR.">197.</ls> <ls>BHĀG. P. 7,6,10.</ls> <ls n="BHĀG. P. 7,">10,5.</ls> <ls>PAÑCAT. 217,25.</ls> <ls>HIT. 41,22.</ls> <ls n="HIT.">51,15.</ls> <ls n="HIT.">110,17.</ls> <ls>Z. d. d. m. G. 14,571,22.</ls> {#Apatsevaka#} {%ein Diener im Unglück%}
+;
+1044347 new <ls n="RĀJA-TAR. 5,">197.</ls> <ls>BHĀG. P. 7,6,10.</ls> <ls n="BHĀG. P. 7,">10,5.</ls> <ls>PAÑCAT. 217,25.</ls> <ls>HIT. 41,22.</ls> <ls n="HIT.">51,15.</ls> <ls n="HIT.">110,17.</ls> <ls>Z. d. d. m. G. 14,571,22.</ls> {#Apatsevaka#} {%ein Diener im Unglück%}
+;---------------------------------------------------
+; <L>113411<pc>7-1234<k1>sOssala<k2>sOssala
+1050243 old <ls n="RĀJA-TAR.">465.</ls>
+;
+1050243 new <ls n="RĀJA-TAR. 8,">465.</ls>
+;---------------------------------------------------
+; <L>114309<pc>7-1352<k1>sneha<k2>sneha
+1063181 old <ls n="RĀJA-TAR.">577.</ls> <ls>DHŪRTAS. 76,4.</ls> <ls>BHĀG. P. 1,6,6.</ls> <ls n="BHĀG. P.">2,1,31.</ls> <ls>PAÑCAT. I,1.</ls> <ls>HIT. 17,14.</ls> <ls n="HIT.">33,12.</ls> <ls>VET. in LA. (III) 9,17.</ls> {#tayA saha °vacanAni vadati#}
+;
+1063181 new <ls n="RĀJA-TAR. 4,">577.</ls> <ls>DHŪRTAS. 76,4.</ls> <ls>BHĀG. P. 1,6,6.</ls> <ls n="BHĀG. P.">2,1,31.</ls> <ls>PAÑCAT. I,1.</ls> <ls>HIT. 17,14.</ls> <ls n="HIT.">33,12.</ls> <ls>VET. in LA. (III) 9,17.</ls> {#tayA saha °vacanAni vadati#}
+;---------------------------------------------------
+; <L>114357<pc>7-1358<k1>sparS<k2>sparS
+1063840 old <ls n="RĀJA-TAR.">289.</ls> {#madena#}
+;
+1063840 new <ls n="RĀJA-TAR. 6,">289.</ls> {#madena#}
+;---------------------------------------------------
+; <L>114414<pc>7-1367<k1>spfS<k2>spfS
+1064649 old <ls n="RĀJA-TAR.">164. 5,343.</ls> {#EkamatyaspfSo#} (so mit der <ls>ed. Calc.</ls> zu lesen) {#dvijAH#}
+;
+1064649 new <ls n="RĀJA-TAR. 4,">164. 5,343.</ls> {#EkamatyaspfSo#} (so mit der <ls>ed. Calc.</ls> zu lesen) {#dvijAH#}
+;---------------------------------------------------
+; <L>114414<pc>7-1367<k1>spfS<k2>spfS
+1064650 old <ls n="RĀJA-TAR.">475.</ls> {#viplava°#}
+;
+1064650 new <ls n="RĀJA-TAR. 5,">475.</ls> {#viplava°#}
+;---------------------------------------------------
+; <L>114612<pc>7-1389<k1>smi<k2>smi
+1067136 old <ls n="RĀJA-TAR.">236.</ls> <ls>KATHĀS. 122,72.</ls> <ls>BHĀG. P. 4,21,15.</ls> {#sa°#} {%von Lächeln begleitet%}
+;
+1067136 new <ls n="RĀJA-TAR. 3,">236.</ls> <ls>KATHĀS. 122,72.</ls> <ls>BHĀG. P. 4,21,15.</ls> {#sa°#} {%von Lächeln begleitet%}
+;---------------------------------------------------
+; <L>115162<pc>7-1442<k1>svara<k2>svara/
+1073195 old <ls n="VARĀH. BṚH. S.">86,36.</ls> <ls>RĀJA-TAR. 5. 373.</ls> {#sagadgadasvaram#}
+;
+1073195 new <ls n="VARĀH. BṚH. S.">86,36.</ls> <ls>RĀJA-TAR. 5,373.</ls> {#sagadgadasvaram#}
+;---------------------------------------------------
+; <L>115947<pc>7-1491<k1>haWa<k2>haWa
+1079457 old <ls n="RĀJA-TAR.">155.</ls> {#°pravizwatoyOGa#}
+;
+1079457 new <ls n="RĀJA-TAR. 2,">155.</ls> {#°pravizwatoyOGa#}
+;---------------------------------------------------
+; <L>116085<pc>7-1519<k1>har<k2>har<h>1
+1082682 old <ls n="RĀJA-TAR.">584.</ls> {#°citta#} {%verloren%} so v. a. {%hin%}
+;
+1082682 new <ls n="RĀJA-TAR. 4,">584.</ls> {#°citta#} {%verloren%} so v. a. {%hin%}
+;---------------------------------------------------
+; <L>116085<pc>7-1519<k1>har<k2>har<h>1
+1082684 old <ls n="RĀJA-TAR.">368.</ls>
+;
+1082684 new <ls n="RĀJA-TAR. 5,">368.</ls>
+;---------------------------------------------------
+; <L>116085<pc>7-1519<k1>har<k2>har<h>1
+1083960 old <ls n="RĀJA-TAR.">510.</ls> {#paraSvaDaH#}
+;
+1083960 new <ls n="RĀJA-TAR. 3,">510.</ls> {#paraSvaDaH#}
+;---------------------------------------------------
+; <L>116135<pc>7-1545<k1>hari<k2>ha/ri<h>1
+1084821 old <ls n="RĀJA-TAR.">451.</ls> <ls>PRAB. 54,12.</ls> <ls>BHĀG. P. 1,2,23.</ls> <ls n="BHĀG. P.">4,30,24.</ls> <ls n="BHĀG. P.">7,10,24.</ls> <ls n="BHĀG. P.">8,1,30.</ls> <ls>PAÑCAT. Pr. 1.</ls> <ls>VET. in LA. (III) 1,14.</ls> <ls>Verz. d. Oxf. H. 45,b,31.</ls> <ls>SĀH. D. 237,16.</ls> <ls>HALL 126.</ls> <ls>SARVADARŚANAS. 46,3. 57. 16. 66,15. 67,9. 69,13. 17. 72,4.</ls> <ls>BURNOUF, Intr. 131.</ls>
+;
+1084821 new <ls n="RĀJA-TAR. 3,">451.</ls> <ls>PRAB. 54,12.</ls> <ls>BHĀG. P. 1,2,23.</ls> <ls n="BHĀG. P.">4,30,24.</ls> <ls n="BHĀG. P.">7,10,24.</ls> <ls n="BHĀG. P.">8,1,30.</ls> <ls>PAÑCAT. Pr. 1.</ls> <ls>VET. in LA. (III) 1,14.</ls> <ls>Verz. d. Oxf. H. 45,b,31.</ls> <ls>SĀH. D. 237,16.</ls> <ls>HALL 126.</ls> <ls>SARVADARŚANAS. 46,3. 57. 16. 66,15. 67,9. 69,13. 17. 72,4.</ls> <ls>BURNOUF, Intr. 131.</ls>
+;---------------------------------------------------
+; <L>116180<pc>7-1549<k1>harit<k2>hari/t
+1085280 old <ls n="RĀJA-TAR.">290.</ls> <ls>SĀH. D. 79,13. 312,1.</ls> <ls>Verz. d. Oxf. H. 255,b,19.</ls>
+;
+1085280 new <ls n="RĀJA-TAR. 1,">290.</ls> <ls>SĀH. D. 79,13. 312,1.</ls> <ls>Verz. d. Oxf. H. 255,b,19.</ls>
+;---------------------------------------------------
+; <L>116719<pc>7-1588<k1>hA<k2>hA<h>2
+1090461 old <ls n="RĀJA-TAR.">373.</ls> {#hftAmBasaH svasmAdeva kaRAnGanasya jahataH#}
+;
+1090461 new <ls n="RĀJA-TAR. 1,">373.</ls> {#hftAmBasaH svasmAdeva kaRAnGanasya jahataH#}
+;---------------------------------------------------
+; <L>117645<pc>7-1659<k1>helugrAma<k2>helugrAma
+1099366 old <ls n="RĀJA-TAR.">397.</ls>
+;
+1099366 new <ls n="RĀJA-TAR. 5,">397.</ls>
+;---------------------------------------------------
+; <L>117919<pc>7-1679<k1>hvA<k2>hvA<h>1
+1102066 old <ls n="RĀJA-TAR.">247.</ls> {#anAhUta#}
+;
+1102066 new <ls n="RĀJA-TAR. 1,">247.</ls> {#anAhUta#}
+;---------------------------------------------------
