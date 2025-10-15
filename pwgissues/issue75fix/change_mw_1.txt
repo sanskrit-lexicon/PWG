@@ -1,0 +1,55 @@
+; <L>16606<pc>94,2<k1>alaMkAra<k2>alaM—kAra/<e>3
+59638 old <s>alaM—kAra/</s> ¦ <lex>m.</lex> the act of decorating, <ls>R. ii, 40, 13</ls>, (<ab>ifc.</ab> <lex type="hwifc">f.</lex>, <ls>R. 18, 6</ls>) ornament, decoration, <ls>ŚBr.</ls>; <ls>TBr.</ls> &c. (in rhetoric) an ornament of the sense or the sound (<ab>cf.</ab> <s>arTA<srs/>l°</s> and <s>SabdA<srs/>l°</s>)<info lex="m:f"/><listinfo n="sup"/>
+;
+59638 new <s>alaM—kAra/</s> ¦ <lex>m.</lex> the act of decorating, <ls>R. ii, 40, 13</ls>, (<ab>ifc.</ab> <lex type="hwifc">f.</lex>, <ls>R. v, 18, 6</ls>) ornament, decoration, <ls>ŚBr.</ls>; <ls>TBr.</ls> &c. (in rhetoric) an ornament of the sense or the sound (<ab>cf.</ab> <s>arTA<srs/>l°</s> and <s>SabdA<srs/>l°</s>)<info lex="m:f"/><listinfo n="sup"/>
+;---------------------------------------------------
+; <L>17172<pc>97,3<k1>avaGaww<k2>ava-Gaww<e>1
+61675 old <s>ava-√ Gaww</s> ¦ <ab>Caus.</ab> (<ab>p.</ab> <s>-Gawwayat</s>) to push away, push open, <ls>R. v, 15, 10 (<ab>Gorresio</ab>)</ls>;
+;
+61675 new <s>ava-√ Gaww</s> ¦ <ab>Caus.</ab> (<ab>p.</ab> <s>-Gawwayat</s>) to push away, push open, <ls>R. v, 15, 10</ls> (<ab>Gorresio</ab>);
+;---------------------------------------------------
+; <L>19482<pc>112,3<k1>aSanipraBa<k2>aSani—praBa<e>3
+69645 old <s>aSani—praBa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Rākṣasa</s1>, <ls>R. vi, 69, 11 i.</ls><info lex="m"/>
+;
+69645 new <s>aSani—praBa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Rākṣasa</s1>, <ls>R. vi, 69, 11</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>35779.3<pc>206,3<k1>upoQA<k2>upoQA<e>2B
+125894 old <s>upo<srs/>QA</s> ¦ <lex>f.</lex> ‘brought home in addition to’, a second or inferior but favourite wife, <ls>R. i, 13, 37</ls> (<ab>ed.</ab> <ls>Schlegel</ls>; <s>vAvAtA</s> [<ab>q.v.</ab>] <ab>ed.</ab> Bombay <ls n="R. (B.)">i, 14, 35</ls>). <info lex="f"/>
+;
+125894 new <s>upo<srs/>QA</s> ¦ <lex>f.</lex> ‘brought home in addition to’, a second or inferior but favourite wife, <ls>R. i, 13, 37</ls> (<ab>ed.</ab> <ls>Schlegel</ls>; <s>vAvAtA</s> [<ab>q.v.</ab>] <ls>R. ed. Bombay i, 14, 35</ls>). <info lex="f"/>
+;---------------------------------------------------
+; <L>83719<pc>441,3<k1>tAqakA<k2>tAqakA<e>2B
+281796 old <s>tAqakA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <s1>Yakṣiṇī</s1> (changed into a <s1>Rākṣasī</s1> by <s1>Agastya</s1> for having disturbed his devotions, afterwards killed by <s1>Rāma</s1>), <ls>R. i, 26, 26 ff.</ls> (<ls n="R.">G. 27, 25 ff.</ls>); <ls>Hariv. 218</ls>; <ls>Ragh. xi, 14 ff.</ls>; <ls>VāyuP. ii, 6, 72 f.</ls> (wife of <s1>Mārīca</s1>)<info lex="f"/>
+;
+281796 new <s>tAqakA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <s1>Yakṣiṇī</s1> (changed into a <s1>Rākṣasī</s1> by <s1>Agastya</s1> for having disturbed his devotions, afterwards killed by <s1>Rāma</s1>), <ls>R. i, 26, 26 ff.</ls> (<ls>R. G. 27, 25 ff.</ls>); <ls>Hariv. 218</ls>; <ls>Ragh. xi, 14 ff.</ls>; <ls>VāyuP. ii, 6, 72 f.</ls> (wife of <s1>Mārīca</s1>)<info lex="f"/>
+;---------------------------------------------------
+; <L>85035<pc>447,1<k1>timiSa<k2>timiSa<e>1A
+285944 old ¦ [<ab>B</ab>] <ls n="R. (B.)">iii, 15, 16</ls><info lex="inh"/>
+;
+285944 new ¦ <ls>R. [B] iii, 15, 16</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>87737<pc>458,2<k1>tritrika<k2>tri—trika<e>3
+294794 old <s>tri—trika</s> ¦ <lex>mfn.</lex> ? (<s1>Rāma</s1>), <ls n="R. (B.) v,">32, 13.</ls><info lex="m:f:n"/>
+;
+294794 new <s>tri—trika</s> ¦ <lex>mfn.</lex> ? (<s1>Rāma</s1>), <ls>R. (B.) v, 32, 13.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>88314<pc>460,3<k1>triSaNku<k2>tri—SaNku<e>3A
+296684 old on his being hurled down again head foremost by the gods, he was arrested in his course by <s1>Viśvā-mitra</s1> and remained suspended in the sky, forming the southern cross constellation, <ls>R. i, 57 (59 <ab>G.</ab>) ff.</ls> [son of <s1>Pṛthu</s1>];
+;
+296684 new on his being hurled down again head foremost by the gods, he was arrested in his course by <s1>Viśvā-mitra</s1> and remained suspended in the sky, forming the southern cross constellation, <ls>R. i, 57 ff.</ls> (<ls>R. G. i, 59</ls>) [son of <s1>Pṛthu</s1>];
+;---------------------------------------------------
+; <L>92060<pc>477,3<k1>diti<k2>di/ti<e>2A
+309231 old ¦ (the <s1>Marut</s1>s are also described as her progeny or derived from the embryo in her womb divided into pieces by <s1>Indra</s1>), <ls>Hariv. 239</ls>; <ls>R. i, 46, i</ls><info lex="inh"/>
+;
+309231 new ¦ (the <s1>Marut</s1>s are also described as her progeny or derived from the embryo in her womb divided into pieces by <s1>Indra</s1>), <ls>Hariv. 239</ls>; <ls>R. i, 46, 1</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>109713<pc>555,3<k1>nirBaYj<k2>nir-BaYj<e>1
+368195 old <s>nir-√ BaYj</s> ¦ <ab>P.</ab> <s>-Banakti</s> (2. <ab>sg.</ab> <ab>impf.</ab> <s>-a/Banas</s>; <ab>Impv.</ab> <s>-banDi</s>, <ls>AV. iii, 6, 7</ls>), to break or split asunder, defeat, <ls>AV.</ls>; <ls>R.</ls> (<ab>w.r.</ab> <s>-Bajanti</s> for <s>BaYj°</s>, <ls n="R. ">v, 73, 37</ls>). <info verb="pre" cp="P" parse="nir+BaYj"/>
+;
+368195 new <s>nir-√ BaYj</s> ¦ <ab>P.</ab> <s>-Banakti</s> (2. <ab>sg.</ab> <ab>impf.</ab> <s>-a/Banas</s>; <ab>Impv.</ab> <s>-banDi</s>, <ls>AV. iii, 6, 7</ls>), to break or split asunder, defeat, <ls>AV.</ls>; <ls>R.</ls> (<ab>w.r.</ab> <s>-Bajanti</s> for <s>BaYj°</s>, <ls n="R.">v, 73, 37</ls>). <info verb="pre" cp="P" parse="nir+BaYj"/>
+;---------------------------------------------------
+; <L>227101<pc>1121,1<k1>saMstamB<k2>saM-stamB<e>1
+753385 old <div n="to"/> <ab>Ā.</ab> (only <ab>Impv.</ab> <s>stamBasva</s>) to be firm, take heart or courage, <ls>Nir. ix, 12</ls> (in <ls>R. iv, 1, 115 [<ab>B.</ab>]</ls> <s>-stamBa</s> <ab>id.</ab>; <ab>cf.</ab> <s>-staBya</s>) :
+;
+753385 new <div n="to"/> <ab>Ā.</ab> (only <ab>Impv.</ab> <s>stamBasva</s>) to be firm, take heart or courage, <ls>Nir. ix, 12</ls> (in <ls>R. [B.] iv, 1, 115</ls> <s>-stamBa</s> <ab>id.</ab>; <ab>cf.</ab> <s>-staBya</s>) :
+;---------------------------------------------------

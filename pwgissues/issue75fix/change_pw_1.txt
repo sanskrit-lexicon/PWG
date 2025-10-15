@@ -1,0 +1,75 @@
+; <L>101<pc>1-002-a<k1>akarmaRya<k2>*akarmaRya
+391 old <div n="1">— 1〉 {%Nichts zu leisten im Stande seiend%} <ls>R. 2,64,33 (34)</ls>.
+;
+391 new <div n="1">— 1〉 {%Nichts zu leisten im Stande seiend%} <ls>R. 2,64,33</ls> (<ls n="R. ed. Bomb. 2,64,">34</ls>).
+;---------------------------------------------------
+; <L>3808<pc>1-044-c<k1>anAgata<k2>a/nAgata
+14158 old <div n="1">— 4〉 {%nicht anzutreffen, — zu finden%} <ls>R. 3,56,18 (50,9)</ls>.
+;
+14158 new <div n="1">— 4〉 {%nicht anzutreffen, — zu finden%} <ls>R. 3,56,18</ls> (<ls n="R. ed. Bomb. 3,">50,9</ls>).
+;---------------------------------------------------
+; <L>4510<pc>1-053-b<k1>anupacArayukta<k2>anupacArayukta
+16700 old {#anupacArayukta#}¦ <lex>Adj.</lex> {%nicht aufgeputzt, — geschmückt%} <ls>R. 5,13,69 (9,72)</ls>.
+;
+16700 new {#anupacArayukta#}¦ <lex>Adj.</lex> {%nicht aufgeputzt, — geschmückt%} <ls>R. 5,13,69</ls> (<ls n="R. ed. Bomb. 5,">9,72</ls>).
+;---------------------------------------------------
+; <L>62476<pc>4-015-b<k1>patatrin<k2>patatri/n
+257270 old <div n="2">— b〉 {%Pferd%} <ls>R. ed. Bomb. 1,14,34. 36</ls>.
+;
+257270 new <div n="2">— b〉 {%Pferd%} <ls>R. ed. Bomb. 1,14,34.</ls> <ls n="R. ed. Bomb. 1,14,">36</ls>.
+;---------------------------------------------------
+; <L>126357<pc>7-147-c<k1>sudurADarza<k2>sudurADarza
+526910 old <div n="1">— 2〉 {%dem sehr schwer beizukommen ist, unerreichbar%} <ls>R. ed. Bomb. 4,13,20. 29</ls>.
+;
+526910 new <div n="1">— 2〉 {%dem sehr schwer beizukommen ist, unerreichbar%} <ls>R. ed. Bomb. 4,13,20.</ls> <ls n="R. ed. Bomb. 4,13,">29</ls>.
+;---------------------------------------------------
+; <L>127194<pc>7-158-b<k1>sumanorama<k2>sumanorama
+530387 old <div n="1">— 1〉 <lex>Adj.</lex> {%überaus reizend, — ansprechend%} <ls>R. ed. Bomb. 4,37,28. 41,22</ls>
+;
+530387 new <div n="1">— 1〉 <lex>Adj.</lex> {%überaus reizend, — ansprechend%} <ls>R. ed. Bomb. 4,37,28.</ls> <ls n="R. ed. Bomb. 4,">41,22</ls>
+;---------------------------------------------------
+; <L>128367<pc>7-172-c<k1>susaMprahfzwa<k2>susaMprahfzwa
+534987 old {#susaMprahfzwa#}¦ <lex>Adj.</lex> {%hoch erfreut%} <ls>R. ed. Bomb. 354,30</ls>.
+;
+534987 new {#susaMprahfzwa#}¦ <lex>Adj.</lex> {%hoch erfreut%} <ls>R. ed. Bomb. 3,54,30</ls>.
+;---------------------------------------------------
+; <L>132268<pc>7-235-b<k1>svaBirAma<k2>svaBirAma
+552032 old {#svaBirAma#}¦ <lex>Adj.</lex> {%überaus erfreulich, — angenehm%} <ls>R. ed. Bomb. 4,27,46. 28,65</ls>.
+;
+552032 new {#svaBirAma#}¦ <lex>Adj.</lex> {%überaus erfreulich, — angenehm%} <ls>R. ed. Bomb. 4,27,46.</ls> <ls n="R. ed. Bomb. 4,">28,65</ls>.
+;---------------------------------------------------
+; <L>209148<pc>6-304-a<k1>pratyupaveSana<k2>pratyupaveSana
+596921 old {#pratyupaveSana#}¦ <lex>n.</lex> = {#pratyupaveSa#} <ls>R. 2,111,17 (120,17 GORR.)</ls>.<info n="sup_6"/>
+;
+596921 new {#pratyupaveSana#}¦ <lex>n.</lex> = {#pratyupaveSa#} <ls>R. 2,111,17</ls> (<ls>R. ed. GORR. 2,120,17</ls>).<info n="sup_6"/>
+;---------------------------------------------------
+; <L>212105<pc>7-305-b<k1>abalIyastva<k2>abalIyastva
+607421 old {#abalIyastva#}, {#abahirBAva#}, {#abahirvAsas#}, {#abahizkfta#}¦ (an der entsprechenden Stelle <ls n="R.">ed. Bomb. 3,74,19</ls> {%nicht uneingeweiht, wohl vertraut mit%} [<ab>Loc.</ab>]), {#abahis#} <ab n="und">u.</ab> {#abahupatnIka#} 4.<info n="sup_7"/>
+;
+607421 new {#abalIyastva#}, {#abahirBAva#}, {#abahirvAsas#}, {#abahizkfta#}¦ (an der entsprechenden Stelle <ls>R. ed. Bomb. 3,74,19</ls> {%nicht uneingeweiht, wohl vertraut mit%} [<ab>Loc.</ab>]), {#abahis#} <ab n="und">u.</ab> {#abahupatnIka#} 4.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>212162<pc>7-305-c<k1>aBAskara<k2>aBAskara
+607622 old {#aBAskara#}¦ <lex>Adj.</lex> {%sonnenlos%} <ls>R. ed. Bomb. 4,40,68. 42,51. 43,59</ls>.<info n="sup_7"/>
+;
+607622 new {#aBAskara#}¦ <lex>Adj.</lex> {%sonnenlos%} <ls>R. ed. Bomb. 4,40,68.</ls> <ls n="R. ed. Bomb. 4,">42,51.</ls> <ls n="R. ed. Bomb. 4,">43,59</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>214513<pc>7-321-a<k1>iNgudi<k2>iNgudi
+615799 old {#iNgudi#}¦ <lex>f.</lex> metrisch <ab>st.</ab> {#iNgudI#} <ls>R. ed. Bomb. 2,104,8. 12. 14</ls>.<info n="sup_7"/>
+;
+615799 new {#iNgudi#}¦ <lex>f.</lex> metrisch <ab>st.</ab> {#iNgudI#} <ls>R. ed. Bomb. 2,104,8.</ls> <ls n="R. ed. Bomb. 2,104,">12.</ls> <ls n="R. ed. Bomb. 2,104,">14</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>218118<pc>7-348-a<k1>dAntaka<k2>dAntaka
+628482 old {#dAntaka#}¦ <lex>Adj.</lex> {%elfenbeinern%} <ls>R. ed. Bomb. 3,55,8. 10</ls>.<info n="sup_7"/>
+;
+628482 new {#dAntaka#}¦ <lex>Adj.</lex> {%elfenbeinern%} <ls>R. ed. Bomb. 3,55,8.</ls> <ls n="R. ed. Bomb. 3,55,">10</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>218806<pc>7-353-c<k1>niSAkara<k2>niSAkara
+630807 old {#niSAkara#}¦ auch <ab>N. pr.</ab> eines <is>Ṛṣi</is> <ls>R. ed. Bomb. 4,60,8. 9. 13. 63,4. 10</ls>.<info n="sup_7"/>
+;
+630807 new {#niSAkara#}¦ auch <ab>N. pr.</ab> eines <is>Ṛṣi</is> <ls>R. ed. Bomb. 4,60,8.</ls> <ls n="R. ed. Bomb. 4,60,">9.</ls> <ls n="R. ed. Bomb. 4,60,">13.</ls> <ls n="R. ed. Bomb. 4,">63,4.</ls> <ls n="R. ed. Bomb. 4,63,">10</ls>.<info n="sup_7"/>
+;---------------------------------------------------
+; <L>219058<pc>7-355-d<k1>pad<k2>pad<h>1
+631632 old <div n="p">— Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17. 68,22</ls>.
+;
+631632 new <div n="p">— Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17.</ls> <ls n="R. ed. Bomb. 3,">68,22</ls>.
+;---------------------------------------------------
