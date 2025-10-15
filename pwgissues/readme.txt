@@ -15,7 +15,8 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue73 Manu-smfti link target
 * issue73fix Manu-smfti link target splitting
 * issue74 Standardization of pwg links for 'M.' (Manu)
-* issue75 Ramayana prakshipta link target
+* issue75 Ramayana prakshipta link target (Bombay edition)
+* issue75fix Ramayana (Bombay edition) link target splitting
 * issue76 VN missing pages, continued
 * issue77 Remove gratuitous spaces in ls
 * issue78 Transcoding vowel-marker characters
