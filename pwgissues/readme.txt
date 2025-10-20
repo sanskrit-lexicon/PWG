@@ -99,4 +99,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue160 split combined multiple links to separate links
 * issue167 NIRUKTA
 * issue168 PANCHATANTRA KOSEGARTEN ed. orn.
+* issue169 RĀJATARAṄGIṆĪ ed. Calc.
 

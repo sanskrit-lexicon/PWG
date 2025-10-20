@@ -1,0 +1,441 @@
+page	taranga	from v.	to v.	ipage	Remarks
+10	1	1	19	1	I: Kalhana
+11	1	20	47	2	I: Kalhana
+12	1	48	77	3	I: Kalhana
+13	1	78	107	4	I: Kalhana
+14	1	108	137	5	I: Kalhana
+15	1	138	167	6	I: Kalhana
+16	1	168	197	7	I: Kalhana
+17	1	198	227	8	I: Kalhana
+18	1	228	257	9	I: Kalhana
+19	1	258	287	10	I: Kalhana
+20	1	288	317	11	I: Kalhana
+21	1	318	347	12	I: Kalhana
+22	1	348	376	13	I: Kalhana
+23	1	377	380	14	I: Kalhana
+24	2	1	19	15	I: Kalhana
+25	2	20	49	16	I: Kalhana
+26	2	50	79	17	I: Kalhana
+27	2	80	109	18	I: Kalhana
+28	2	110	139	19	I: Kalhana
+29	2	140	168	20	I: Kalhana
+30	2	169	178	21	I: Kalhana
+31	3	1	19	22	I: Kalhana
+32	3	20	49	23	I: Kalhana
+33	3	50	79	24	I: Kalhana
+34	3	80	109	25	I: Kalhana
+35	3	110	139	26	I: Kalhana
+36	3	140	168	27	I: Kalhana
+37	3	169	197	28	I: Kalhana
+38	3	198	223	29	I: Kalhana
+39	3	224	253	30	I: Kalhana
+40	3	254	283	31	I: Kalhana
+41	3	284	313	32	I: Kalhana
+42	3	310	339	33	I: Kalhana
+43	3	340	369	34	I: Kalhana
+44	3	370	399	35	I: Kalhana
+45	3	400	429	36	I: Kalhana
+46	3	430	459	37	I: Kalhana
+47	3	460	489	38	I: Kalhana
+48	3	490	518	39	I: Kalhana
+49	3	519	532	40	I: Kalhana
+50	4	1	19	41	I: Kalhana
+51	4	20	48	42	I: Kalhana
+52	4	49	78	43	I: Kalhana
+53	4	80	109	44	I: Kalhana
+54	4	110	139	45	I: Kalhana
+55	4	140	169	46	I: Kalhana
+56	4	170	199	47	I: Kalhana
+57	4	200	228	48	I: Kalhana
+58	4	229	256	49	I: Kalhana
+59	4	257	286	50	I: Kalhana
+60	4	287	314	51	I: Kalhana
+61	4	315	342	52	I: Kalhana
+62	4	343	370	53	I: Kalhana
+63	4	371	398	54	I: Kalhana
+64	4	399	427a	55	I: Kalhana
+65	4	427b	456	56	I: Kalhana
+66	4	457	486	57	I: Kalhana
+67	4	487	515	58	I: Kalhana
+68	4	516	543a	59	I: Kalhana
+69	4	543b	572	60	I: Kalhana
+70	4	578	606	61	I: Kalhana
+71	4	607	634	62	I: Kalhana
+72	4	635	664	63	I: Kalhana
+73	4	665	694	64	I: Kalhana
+74	4	690	718a	65	I: Kalhana
+75	4	718b	725	66	I: Kalhana
+76	5	1	17	67	I: Kalhana
+77	5	18	51	68	I: Kalhana
+78	5	52	81	69	I: Kalhana
+79	5	82	111	70	I: Kalhana
+80	5	112	141	71	I: Kalhana
+81	5	142	171	72	I: Kalhana
+82	5	172	200	73	I: Kalhana
+83	5	201	230	74	I: Kalhana
+84	5	231	260	75	I: Kalhana
+85	5	261	290	76	I: Kalhana
+86	5	291	319	77	I: Kalhana
+87	5	320	349	78	I: Kalhana
+88	5	350	379	79	I: Kalhana
+89	5	380	406	80	I: Kalhana
+90	5	407	436	81	I: Kalhana
+91	5	437	466	82	I: Kalhana
+92	5	467	488	83	I: Kalhana
+93	6	1	18	84	I: Kalhana
+94	6	19	48	85	I: Kalhana
+95	6	49	78	86	I: Kalhana
+96	6	79	108	87	I: Kalhana
+97	6	109	138	88	I: Kalhana
+98	6	139	167a	89	I: Kalhana
+99	6	167b	195	90	I: Kalhana
+100	6	196	224	91	I: Kalhana
+101	6	225	251	92	I: Kalhana
+102	6	252	280	93	I: Kalhana
+103	6	281	309	94	I: Kalhana
+104	6	310	338	95	I: Kalhana
+105	6	339	366	96	I: Kalhana
+106	6	367	370	97	I: Kalhana
+107	7	1	18	98	I: Kalhana
+108	7	19	47	99	I: Kalhana
+109	7	48	77	100	I: Kalhana
+110	7	78	107	101	I: Kalhana
+111	7	108	137	102	I: Kalhana
+112	7	138	167	103	I: Kalhana
+113	7	168	197	104	I: Kalhana
+114	7	198	227	105	I: Kalhana
+115	7	228	257	106	I: Kalhana
+116	7	258	287	107	I: Kalhana
+117	7	288	317a	108	I: Kalhana
+118	7	317b	346	109	I: Kalhana
+119	7	347	376	110	I: Kalhana
+120	7	377	406	111	I: Kalhana
+121	7	407	436	112	I: Kalhana
+122	7	437	465	113	I: Kalhana
+123	7	466	494	114	I: Kalhana
+124	7	495	522	115	I: Kalhana
+125	7	523	552	116	I: Kalhana
+126	7	553	582	117	I: Kalhana
+127	7	583	612	118	I: Kalhana
+128	7	613	641	119	I: Kalhana
+129	7	642	670	120	I: Kalhana
+130	7	671	699	121	I: Kalhana
+131	7	700	727	122	I: Kalhana
+132	7	728	756	123	I: Kalhana
+133	7	757	786	124	I: Kalhana
+134	7	787	812	125	I: Kalhana
+135	7	813	841	126	I: Kalhana
+136	7	842	870	127	I: Kalhana
+137	7	871	900	128	I: Kalhana
+138	7	901	929	129	I: Kalhana
+139	7	930	959	130	I: Kalhana
+140	7	960	988	131	I: Kalhana
+141	7	990	1017	132	I: Kalhana
+142	7	1018	1047	133	I: Kalhana
+143	7	1048	1076	134	I: Kalhana
+144	7	1077	1105	135	I: Kalhana
+145	7	1106	1127a	136	I: Kalhana
+146	7	1127b	1156	137	I: Kalhana
+147	7	1157	1184	138	I: Kalhana
+148	7	1185	1213	139	I: Kalhana
+149	7	1214	1252	140	I: Kalhana
+150	7	1253	1281	141	I: Kalhana
+151	7	1282	1312	142	I: Kalhana
+152	7	1313	1343	143	I: Kalhana
+153	7	1344	1372	144	I: Kalhana
+154	7	1373	1401	145	I: Kalhana
+155	7	1402	1429	146	I: Kalhana
+156	7	1430	1456	147	I: Kalhana
+157	7	1457	1485	148	I: Kalhana
+158	7	1486	1515	149	I: Kalhana
+159	7	1516	1544	150	I: Kalhana
+160	7	1545	1574	151	I: Kalhana
+161	7	1575	1604	152	I: Kalhana
+162	7	1605	1632	153	I: Kalhana
+163	7	1633	1661	154	I: Kalhana
+164	7	1662	1690	155	I: Kalhana
+165	7	1691	1719	156	I: Kalhana
+166	7	1720	1744	157	I: Kalhana
+167	7	---	---	158	I: Kalhana
+168	8	1	19	159	I: Kalhana
+169	8	20	49	160	I: Kalhana
+170	8	50	79	161	I: Kalhana
+171	8	80	109	162	I: Kalhana
+172	8	110	138	163	I: Kalhana
+173	8	139	167	164	I: Kalhana
+174	8	168	197	165	I: Kalhana
+175	8	198	227	166	I: Kalhana
+176	8	228	257	167	I: Kalhana
+177	8	258	287	168	I: Kalhana
+178	8	288	316	169	I: Kalhana
+179	8	317	344	170	I: Kalhana
+180	8	345	371	171	I: Kalhana
+181	8	372	401	172	I: Kalhana
+182	8	402	431	173	I: Kalhana
+183	8	432	461	174	I: Kalhana
+184	8	462	491	175	I: Kalhana
+185	8	492	521	176	I: Kalhana
+186	8	522	550	177	I: Kalhana
+187	8	551	580	178	I: Kalhana
+188	8	581	609	179	I: Kalhana
+189	8	610	639	180	I: Kalhana
+190	8	645	673	181	I: Kalhana
+191	8	674	700	182	I: Kalhana
+192	8	701	730	183	I: Kalhana
+193	8	731	760	184	I: Kalhana
+194	8	756	785	185	I: Kalhana
+195	8	786	814	186	I: Kalhana
+196	8	815	843	187	I: Kalhana
+197	8	844	873	188	I: Kalhana
+198	8	874	903	189	I: Kalhana
+199	8	904	933	190	I: Kalhana
+200	8	934	963	191	I: Kalhana
+201	8	964	993	192	I: Kalhana
+202	8	994	1023	193	I: Kalhana
+203	8	1024	1052	194	I: Kalhana
+204	8	1053	1082	195	I: Kalhana
+205	8	1083	1112	196	I: Kalhana
+206	8	1113	1142	197	I: Kalhana
+207	8	1143	1172	198	I: Kalhana
+208	8	1173	1202	199	I: Kalhana
+209	8	1203	1231	200	I: Kalhana
+210	8	1232	1261	201	I: Kalhana
+211	8	1262	1290	202	I: Kalhana
+212	8	1291	1319	203	I: Kalhana
+213	8	1320	1349	204	I: Kalhana
+214	8	1350	1379	205	I: Kalhana
+215	8	1380	1408	206	I: Kalhana
+216	8	1409	1438	207	I: Kalhana
+217	8	1439	1468	208	I: Kalhana
+218	8	1469	1497a	209	I: Kalhana
+219	8	1497b	1526	210	I: Kalhana
+220	8	1527	1555	211	I: Kalhana
+221	8	1556	1583	212	I: Kalhana
+222	8	1584	1611	213	I: Kalhana
+223	8	1612	1637	214	I: Kalhana
+224	8	1638	1666	215	I: Kalhana
+225	8	1667	1696	216	I: Kalhana
+226	8	1697	1726	217	I: Kalhana
+227	8	1727	1756	218	I: Kalhana
+228	8	1757	1786	219	I: Kalhana
+229	8	1787	1814	220	I: Kalhana
+230	8	1815	1844	221	I: Kalhana
+231	8	1845	1874	222	I: Kalhana
+232	8	1875	1904	223	I: Kalhana
+233	8	1905	1933	224	I: Kalhana
+234	8	1934	1963	225	I: Kalhana
+235	8	1963	1992	226	I: Kalhana
+236	8	1993	2021	227	I: Kalhana
+237	8	2022	2047	228	I: Kalhana
+238	8	2048	2077	229	I: Kalhana
+239	8	2078	2106	230	I: Kalhana
+240	8	2107	2135	231	I: Kalhana
+241	8	2136	2165	232	I: Kalhana
+242	8	2166	2194	233	I: Kalhana
+243	8	2195	2224	234	I: Kalhana
+244	8	2225	2254	235	I: Kalhana
+245	8	2255	2283	236	I: Kalhana
+246	8	2284	2313	237	I: Kalhana
+247	8	2314	2343	238	I: Kalhana
+248	8	2344	2371	239	I: Kalhana
+249	8	2372	2400	240	I: Kalhana
+250	8	2401	2429	241	I: Kalhana
+251	8	2430	2459	242	I: Kalhana
+252	8	2460	2488	243	I: Kalhana
+253	8	2489	2617	244	I: Kalhana
+254	8	2618	2645	245	I: Kalhana
+255	8	2646	2672	246	I: Kalhana
+256	8	2673	2702	247	I: Kalhana
+257	8	2703	2726	248	I: Kalhana
+258	8	2727	2755	249	I: Kalhana
+259	8	2756	2784	250	I: Kalhana
+260	8	2785	2814	251	I: Kalhana
+261	8	2815	2844	252	I: Kalhana
+262	8	2845	2874	253	I: Kalhana
+263	8	2875	2904	254	I: Kalhana
+264	8	2905	2933	255	I: Kalhana
+265	8	2934	2962	256	I: Kalhana
+266	8	2963	2991	257	I: Kalhana
+267	8	2992	3021	258	I: Kalhana
+268	8	3022	3050	259	I: Kalhana
+269	8	3051	3079	260	I: Kalhana
+270	8	3080	3108	261	I: Kalhana
+271	8	3109	3134	262	I: Kalhana
+272	8	3135	3161	263	I: Kalhana
+273	8	3162	3191	264	I: Kalhana
+274	8	3192	3221	265	I: Kalhana
+275	8	3222	3249	266	I: Kalhana
+276	8	3250	3279	267	I: Kalhana
+277	8	3280	3307	268	I: Kalhana
+278	8	3308	3337	269	I: Kalhana
+279	8	3338	3367	270	I: Kalhana
+280	8	3368	3397	271	I: Kalhana
+281	8	3398	3426	272	I: Kalhana
+282	8	3427	3455	273	I: Kalhana
+283	8	3456	3480	274	I: Kalhana
+284	8	3481	3507	275	I: Kalhana
+285	8	3508	3537	276	I: Kalhana
+286	8	3538	3551	277	I: Kalhana
+287	---	---	---	278	blank
+288				279	II: Jonaraja
+289				280	II: Jonaraja
+290				281	II: Jonaraja
+291				282	II: Jonaraja
+292				283	II: Jonaraja
+293				284	II: Jonaraja
+294				285	II: Jonaraja
+295				286	II: Jonaraja
+296				287	II: Jonaraja
+297				288	II: Jonaraja
+298				289	II: Jonaraja
+299				290	II: Jonaraja
+300				291	II: Jonaraja
+301				292	II: Jonaraja
+302				293	II: Jonaraja
+303				294	II: Jonaraja
+304				295	II: Jonaraja
+305				296	II: Jonaraja
+306				297	II: Jonaraja
+307				298	II: Jonaraja
+308				299	II: Jonaraja
+309				300	II: Jonaraja
+310				301	II: Jonaraja
+311				302	II: Jonaraja
+312				303	II: Jonaraja
+313				304	II: Jonaraja
+314				305	II: Jonaraja
+315				306	II: Jonaraja
+316				307	II: Jonaraja
+317				308	II: Jonaraja
+318				309	II: Jonaraja
+319				310	II: Jonaraja
+320				311	II: Jonaraja
+321				312	II: Jonaraja
+322				313	III: Srivara
+323				314	III: Srivara
+324				315	III: Srivara
+325				316	III: Srivara
+326				317	III: Srivara
+327				318	III: Srivara
+328				319	III: Srivara
+329				320	III: Srivara
+330				321	III: Srivara
+331				322	III: Srivara
+332				323	III: Srivara
+333				324	III: Srivara
+334				325	III: Srivara
+335				326	III: Srivara
+336				327	III: Srivara
+337				328	III: Srivara
+338				329	III: Srivara
+339				330	III: Srivara
+340				331	III: Srivara
+341				332	III: Srivara
+342				333	III: Srivara
+343				334	III: Srivara
+344				335	III: Srivara
+345				336	III: Srivara
+346				337	III: Srivara
+347				338	III: Srivara
+348				339	III: Srivara
+349				340	III: Srivara
+350				341	III: Srivara
+351				342	III: Srivara
+352				343	III: Srivara
+353				344	III: Srivara
+354				345	III: Srivara
+355				346	III: Srivara
+356				347	III: Srivara
+357				348	III: Srivara
+358				349	III: Srivara
+359				350	III: Srivara
+360				351	III: Srivara
+361				352	III: Srivara
+362				353	III: Srivara
+363				354	III: Srivara
+364				355	III: Srivara
+365				356	III: Srivara
+366				357	III: Srivara
+367				358	III: Srivara
+368				359	III: Srivara
+369				360	III: Srivara
+370				361	III: Srivara
+371				362	III: Srivara
+372				363	III: Srivara
+373				364	III: Srivara
+374				365	III: Srivara
+375				366	III: Srivara
+376				367	III: Srivara
+377				368	III: Srivara
+378				369	III: Srivara
+379				370	III: Srivara
+380				371	III: Srivara
+381				372	III: Srivara
+382				373	III: Srivara
+383				374	III: Srivara
+384				375	III: Srivara
+385				376	III: Srivara
+386				377	III: Srivara
+387				378	III: Srivara
+388				379	III: Srivara
+389				380	III: Srivara
+390				381	III: Srivara
+391				382	III: Srivara
+392				383	III: Srivara
+393				384	III: Srivara
+394				385	III: Srivara
+395				386	III: Srivara
+396				387	III: Srivara
+397				388	III: Srivara
+398				389	III: Srivara
+399				390	III: Srivara
+400				391	III: Srivara
+401				392	III: Srivara
+402				393	III: Srivara
+403				394	III: Srivara
+404				395	III: Srivara
+405				396	III: Srivara
+406				397	III: Srivara
+407				398	IV: Prajyabhatta
+408				399	IV: Prajyabhatta
+409				400	IV: Prajyabhatta
+410				401	IV: Prajyabhatta
+411				402	IV: Prajyabhatta
+412				403	IV: Prajyabhatta
+413				404	IV: Prajyabhatta
+414				405	IV: Prajyabhatta
+415				406	IV: Prajyabhatta
+416				407	IV: Prajyabhatta
+417				408	IV: Prajyabhatta
+418				409	IV: Prajyabhatta
+419				410	IV: Prajyabhatta
+420				411	IV: Prajyabhatta
+421				412	IV: Prajyabhatta
+422				413	IV: Prajyabhatta
+423				414	IV: Prajyabhatta
+424				415	IV: Prajyabhatta
+425				416	IV: Prajyabhatta
+426				417	IV: Prajyabhatta
+427				418	IV: Prajyabhatta
+428				419	IV: Prajyabhatta
+429				420	IV: Prajyabhatta
+430				421	IV: Prajyabhatta
+431				422	IV: Prajyabhatta
+432				423	IV: Prajyabhatta
+433				424	IV: Prajyabhatta
+434				425	IV: Prajyabhatta
+435				426	IV: Prajyabhatta
+436				427	IV: Prajyabhatta
+437				428	IV: Prajyabhatta
+438				429	IV: Prajyabhatta
+439				430	IV: Prajyabhatta
+440				431	IV: Prajyabhatta
+441				432	IV: Prajyabhatta
+442				433	IV: Prajyabhatta
+443	---	---	---	434	blank
+444				1	Rajataranginisangraha
+445				2	Rajataranginisangraha
+446				3	Rajataranginisangraha
+447				4	Rajataranginisangraha
+448				5	Rajataranginisangraha
+449				6	Rajataranginisangraha
