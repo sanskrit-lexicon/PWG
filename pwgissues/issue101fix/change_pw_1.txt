@@ -1,0 +1,25 @@
+; <L>6753<pc>1-079-b<k1>apratipatti<k2>apratipatti
+25040 old <div n="1">— 3〉 {%Unentschlossenheit, Verblüfftheit, Rathlosigkeit%} <ls>DAŚAR. 4,12</ls>. <ls>SĀH. D. 175. 33,21</ls>. <ls>KĀD. 180,1</ls>.
+;
+25040 new <div n="1">— 3〉 {%Unentschlossenheit, Verblüfftheit, Rathlosigkeit%} <ls>DAŚAR. 4,12</ls>. <ls>SĀH. D. 175.</ls> <ls n="SĀH. D.">33,21</ls>. <ls>KĀD. 180,1</ls>.
+;---------------------------------------------------
+; <L>20784<pc>1-253-c<k1>ullAsa<k2>ullAsa
+80424 old <div n="1">— 1〉 {%das Erscheinen, zum Vorschein Kommen%} <ls>KAP. 2,36</ls>. <ls>Spr. 4711</ls>. <ls>KATHĀS. 14,13</ls>. <ls>SĀH. D. 198. 258,21. 305,20</ls>.
+;
+80424 new <div n="1">— 1〉 {%das Erscheinen, zum Vorschein Kommen%} <ls>KAP. 2,36</ls>. <ls>Spr. 4711</ls>. <ls>KATHĀS. 14,13</ls>. <ls>SĀH. D. 198.</ls> <ls n="SĀH. D.">258,21. 305,20</ls>.
+;---------------------------------------------------
+; <L>86565<pc>5-074-b<k1>mAlArUpa<k2>mAlArUpa
+358027 old {#mAlArUpa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%reihenförmig%} <ls>KĀVYAPR. 290,16</ls>. <ls>SĀH. D. 671. 278,17. 279,6</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls n="Chr.">199,19</ls>. {#°tva#} <lex>n.</lex> <ls n="SĀH. D.">675</ls>.
+;
+358027 new {#mAlArUpa#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%reihenförmig%} <ls>KĀVYAPR. 290,16</ls>. <ls>SĀH. D. 671.</ls> <ls n="SĀH. D.">278,17. 279,6</ls>. <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls n="Chr.">199,19</ls>. {#°tva#} <lex>n.</lex> <ls n="SĀH. D.">675</ls>.
+;---------------------------------------------------
+; <L>213529<pc>7-314-b<k1>asaMkO<k2>asaMkO
+612405 old <L>213529<pc>7-314-b<k1>asaMkO<k2>asaMkO
+;
+612405 new <L>213529<pc>7-314-b<k1>asakO<k2>asakO
+;---------------------------------------------------
+; <L>213529<pc>7-314-b<k1>asaMkO<k2>asaMkO
+612406 old {#asaMkO#}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>SĀH. D. 49, ult. fg.</ls><info n="sup_7"/>
+;
+612406 new {#asakO#}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>SĀH. D. 49,21. fg.</ls><info n="sup_7"/>
+;---------------------------------------------------
