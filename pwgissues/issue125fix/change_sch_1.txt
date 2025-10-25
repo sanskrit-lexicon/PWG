@@ -1,0 +1,40 @@
+; <L>2592<pc>035-3<k1>anukUlakArin<k2>anukUlakArin
+8004 old {%anukūlakārin%}¦ Adj. Liebes erweisend, <ls>Śāk.</ls> ed. Pischel 61,1. {part=,seq=2629,type=,n=2}
+;
+8004 new {%anukūlakārin%}¦ Adj. Liebes erweisend, <ls>Śāk. ed. Pischel 61,1.</ls> {part=,seq=2629,type=,n=2}
+;---------------------------------------------------
+; <L>4503<pc>061-3<k1>amftavarzin<k2>amftavarzin
+13880 old {%amṛtavarṣin%}¦ Adj. Nektar regnend, <ls>Śāk.</ls> ed. Pischel 64,9. {part=,seq=4561,type=,n=2}
+;
+13880 new {%amṛtavarṣin%}¦ Adj. Nektar regnend, <ls>Śāk. ed. Pischel 64,9.</ls> {part=,seq=4561,type=,n=2}
+;---------------------------------------------------
+; <L>5228<pc>071-2<k1>avacitapUrva<k2>avacitapUrva
+16124 old {%avacitapūrva%}¦ Adj. <ls>Śāk.</ls> (Pischel) 116 falsche Lesart für {%racitapūrva%}. {part=,seq=5299,type=,n=2}
+;
+16124 new {%avacitapūrva%}¦ Adj. <ls>Śāk. (Pischel) 116</ls> falsche Lesart für {%racitapūrva%}. {part=,seq=5299,type=,n=2}
+;---------------------------------------------------
+; <L>8912<pc>122a-1<k1>UQapUrvA<k2>UQapUrvA
+27506 old {%ūḍhapūrvā%}¦ Adj. f. mit der man sich vorher ehelich verbunden hat, <ls>Śāk. 79,15; 110,17.</ls> {part=,seq=9031,type=,n=3}
+;
+27506 new {%ūḍhapūrvā%}¦ Adj. f. mit der man sich vorher ehelich verbunden hat, <ls>Śāk. 79,15</ls>; <ls n="Śāk.">110,17.</ls> {part=,seq=9031,type=,n=3}
+;---------------------------------------------------
+; <L>14630<pc>202-1<k1>tIraBuktIya<k2>tIraBuktIya
+45261 old {%tīrabhuktīya%}¦ Adj. aus Tirhut stammend, Komm. zu <ls>Śāk.</ls> (Pischel) 174,14. {part=,seq=14863,type=,n=2}
+;
+45261 new {%tīrabhuktīya%}¦ Adj. aus Tirhut stammend, Komm. zu <ls>Śāk. (Pischel) 174,14.</ls> {part=,seq=14863,type=,n=2}
+;---------------------------------------------------
+; <L>16587<pc>229-2<k1>nAtiSlizwa<k2>nAtiSlizwa
+51298 old {%nātiśliṣṭa%}¦ Adj. nicht sehr fest, <ls>Śāk.</ls> (Pischel) 64,13. {part=,seq=16838,type=,n=2}
+;
+51298 new {%nātiśliṣṭa%}¦ Adj. nicht sehr fest, <ls>Śāk. (Pischel)</ls> 64,13. {part=,seq=16838,type=,n=2}
+;---------------------------------------------------
+; <L>20100<pc>277-2<k1>bahirdfS<k2>bahirdfS
+62078 old {%bahirdṛś%}¦ Adj. oberflächlich (Person), <ls>Śaṃk.</ls> zu <ls>Śāk.</ls> (Pischel) 182,5. {part=,seq=20380,type=,n=2}
+;
+62078 new {%bahirdṛś%}¦ Adj. oberflächlich (Person), <ls>Śaṃk.</ls> zu <ls>Śāk. (Pischel) 182,5.</ls> {part=,seq=20380,type=,n=2}
+;---------------------------------------------------
+; <L>21674<pc>299-2<k1>miTaHsamaya<k2>miTaHsamaya
+66926 old {%mithaḥsamaya%}¦ m. gegenseitiges Übereinkommen, <ls>Śāk. 65. 3.</ls> Statt dessen {%°samavāya%} ed. Pischel 101,2. {part=,seq=21972,type=,n=3}
+;
+66926 new {%mithaḥsamaya%}¦ m. gegenseitiges Übereinkommen, <ls>Śāk. 65,3.</ls> Statt dessen {%°samavāya%} <ls>Śāk. ed. Pischel 101,2.</ls> {part=,seq=21972,type=,n=3}
+;---------------------------------------------------

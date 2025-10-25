@@ -1,0 +1,45 @@
+; <L>243<pc>1-003-c<k1>aklizwa<k2>aklizwa
+888 old <div n="1">— 1〉 {%nicht abgenutzt, frisch, integer%} <ls>ŚĀK. 115. 147</ls>.
+;
+888 new <div n="1">— 1〉 {%nicht abgenutzt, frisch, integer%} <ls>ŚĀK. 115.</ls> <ls n="ŚĀK.">147</ls>.
+;---------------------------------------------------
+; <L>3254<pc>1-038-c<k1>anatikramaRIya<k2>anatikramaRIya
+12265 old <div n="1">— 2〉 {%nicht zu übergehen, — ausser Acht zu lassen, — zu vernachlässigen, zu berücksichtigen%} (von Personen und Sachen) <ls n="Chr.">42,30</ls>. <ls>MṚCCH. 49,16. 50,3</ls>. <ls>ŚĀK. 22,12. 29,20. 95,19. 99,21</ls>.
+;
+12265 new <div n="1">— 2〉 {%nicht zu übergehen, — ausser Acht zu lassen, — zu vernachlässigen, zu berücksichtigen%} (von Personen und Sachen) <ls n="Chr.">42,30</ls>. <ls>MṚCCH. 49,16. 50,3</ls>. <ls>ŚĀK. 22,12.</ls> <ls n="ŚĀK.">29,20.</ls> <ls n="ŚĀK.">95,19.</ls> <ls n="ŚĀK.">99,21</ls>.
+;---------------------------------------------------
+; <L>6348<pc>1-074-c<k1>apahAra<k2>apahAra
+23525 old <div n="1">— 4〉 {%Verheimlichung, Verläugnung%} <ls>ŚĀK. 13,21. 22</ls>.
+;
+23525 new <div n="1">— 4〉 {%Verheimlichung, Verläugnung%} <ls>ŚĀK. 13,21.</ls> <ls n="ŚĀK. 13,">22</ls>.
+;---------------------------------------------------
+; <L>9768<pc>1-114-c<k1>arDokta<k2>arDokta
+36610 old {#arDokta#}¦ <lex>Adj.</lex> {%halb gesagt, nicht zu Ende gesprochen, — aufgezählt%} <ls>MBH. 8,45,35</ls>. <ls>Chr. 293,32</ls>. <ls>ŚĀK. 12,11. 15,3</ls>.
+;
+36610 new {#arDokta#}¦ <lex>Adj.</lex> {%halb gesagt, nicht zu Ende gesprochen, — aufgezählt%} <ls>MBH. 8,45,35</ls>. <ls>Chr. 293,32</ls>. <ls>ŚĀK. 12,11.</ls> <ls n="ŚĀK.">15,3</ls>.
+;---------------------------------------------------
+; <L>23823<pc>2-009-c<k1>kaTam<k2>kaTa/m
+92685 old <div n="1">— 3〉 {%wie als Ausruf der Verwunderung%}. {#kaTam . iyaM sA kaRvaduhitA#} <ls>ŚĀK. 9,12. 16,12</ls> <ab>v. l.</ab> <ls n="Chr.">80,3</ls> <ab>v. l.</ab> <ls n="Chr.">89,2</ls>. <ls n="Chr.">102,17</ls>. <ls n="Chr.">104,8</ls>. <ls>Chr. 291,16</ls>.
+;
+92685 new <div n="1">— 3〉 {%wie als Ausruf der Verwunderung%}. {#kaTam . iyaM sA kaRvaduhitA#} <ls>ŚĀK. 9,12.</ls> <ls n="ŚĀK.">16,12</ls> <ab>v. l.</ab> <ls n="Chr.">80,3</ls> <ab>v. l.</ab> <ls n="Chr.">89,2</ls>. <ls n="Chr.">102,17</ls>. <ls n="Chr.">104,8</ls>. <ls>Chr. 291,16</ls>.
+;---------------------------------------------------
+; <L>92217<pc>5-163-a<k1>raRaSiras<k2>raRaSiras
+382183 old {#raRaSiras#}¦ <lex>n.</lex> {%die Spitze einer Schlacht, Vordertreffen%} <ls>ŚĀK. 157. 185</ls>. <ls>Spr. 3093</ls>.
+;
+382183 new {#raRaSiras#}¦ <lex>n.</lex> {%die Spitze einer Schlacht, Vordertreffen%} <ls>ŚĀK. 157.</ls> <ls n="ŚĀK.">185</ls>. <ls>Spr. 3093</ls>.
+;---------------------------------------------------
+; <L>119633<pc>7-050-c<k1>sapraRAmam<k2>sapraRAmam
+499749 old {#sapraRAmam#}¦ <lex>Adv.</lex> {%mit einer Verneigung%} <ls>ŚĀK. 7,8. 28,10. 53,1. 75,15</ls>. <ls>DHŪRTAS. 15,21</ls>.
+;
+499749 new {#sapraRAmam#}¦ <lex>Adv.</lex> {%mit einer Verneigung%} <ls>ŚĀK. 7,8.</ls> <ls n="ŚĀK.">28,10.</ls> <ls n="ŚĀK.">53,1.</ls> <ls n="ŚĀK.">75,15</ls>. <ls>DHŪRTAS. 15,21</ls>.
+;---------------------------------------------------
+; <L>122564<pc>7-095-a<k1>savizAda<k2>savizAda
+511606 old {#savizAda#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%bestürzt%} <ls>PAÑCAT. 129,13</ls>. {#°m#} <lex>Adv.</lex> <ls n="Chr.">107,19</ls>. <ls>ŚĀK. 66,1. 67,20</ls>. <ls>VIKR. 30,12</ls>. <ls>PRAB. 64,6</ls>. <ls>Chr. 293,23</ls>.
+;
+511606 new {#savizAda#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%bestürzt%} <ls>PAÑCAT. 129,13</ls>. {#°m#} <lex>Adv.</lex> <ls n="Chr.">107,19</ls>. <ls>ŚĀK. 66,1.</ls> <ls n="ŚĀK.">67,20</ls>. <ls>VIKR. 30,12</ls>. <ls>PRAB. 64,6</ls>. <ls>Chr. 293,23</ls>.
+;---------------------------------------------------
+; <L>134592<pc>7-273-c<k1>hiRq<k2>hiRq
+562796 old <div n="p">— Mit {#A#} im <lang>Prākrit</lang> {%umherstreichen, umherlaufen%} <ls>MṚCCH. 13,10. 38,22</ls>. <ls>ŚĀK. 20,4. 23,21</ls>. <ls>MUDRĀR. 15,7</ls>.
+;
+562796 new <div n="p">— Mit {#A#} im <lang>Prākrit</lang> {%umherstreichen, umherlaufen%} <ls>MṚCCH. 13,10. 38,22</ls>. <ls>ŚĀK. 20,4.</ls> <ls n="ŚĀK.">23,21</ls>. <ls>MUDRĀR. 15,7</ls>.
+;---------------------------------------------------
