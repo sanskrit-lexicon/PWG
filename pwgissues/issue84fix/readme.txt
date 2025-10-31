@@ -30,11 +30,10 @@ links from pwg, pw, pwkvn
 <ls>ŚAT. BR. ([0-9]+),([0-9]+),([0-9]+),([0-9]+)
 
 ---- links from sch
-<ls>Śāk. ([0-9]+),([0-9]+)
-<ls>Śāk. ([0-9]+)
+<ls>Śat. Br. ([0-9]+),([0-9]+),([0-9]+),([0-9]+)
 
 ---- links from mw
-<ls>Śāk. ([vixlc]+), *([0-9]+)  # uses app3, peculiar to mw. 
+<ls>Śat. Br. ([vixlc]+), ([0-9]+), ([0-9]+), ([0-9]+). 
 
 -------------------------------------------------
 We use lsfix2.py, with parmfile lsfix2_parm.py
