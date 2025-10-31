@@ -49,7 +49,7 @@ readme_pwg.txt 8388  additional standard links
   revise pwgbib_input.txt in csl-pywork
   237 references inconsistent with index. see lsfix3_chkidx_pwg_2.txt
   
-readme_pw.txt x additional standard links
+readme_pw.txt 414 additional standard links
   29 references inconsistent with index. see lsfix3_chkidx_pw_2.txt
   
 readme_pwkvn.txt  0 additional standard links
