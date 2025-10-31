@@ -25,6 +25,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue82fix split ls for BHĀG. P.  (both bombay and bur editions)
 * issue83 BHĀGAVATAPURĀṆA link target problems 
 * issue84 ŚATAPATHABRĀHMAṆA link target
+* issue84fix ŚATAPATHABRĀHMAṆA link splitting
 * issue85 Several Formatting Issues: <ls>MÜLLER</ls>?'
 * issue86 PAÑCAT.	PAÑCATANTRA.  link target
 * issue86fix PAÑCATANTRA link splitting

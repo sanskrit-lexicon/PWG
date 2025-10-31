@@ -1,0 +1,800 @@
+; <L>508<pc>1-006-c<k1>agnikarman<k2>agnikarma/n
+1917 old <div n="1">— 1〉 {%Feuergeschäft%} ({%Schichtung des Feuers%} <ab>u. s. w.</ab>) <ls>ŚAT. BR. 6,6,1,4. 7,3,1,4. 4,1,42. 9,2,3,6. 13,8,4,11</ls>.
+;
+1917 new <div n="1">— 1〉 {%Feuergeschäft%} ({%Schichtung des Feuers%} <ab>u. s. w.</ab>) <ls>ŚAT. BR. 6,6,1,4.</ls> <ls n="ŚAT. BR.">7,3,1,4.</ls> <ls n="ŚAT. BR. 7,">4,1,42.</ls> <ls n="ŚAT. BR.">9,2,3,6.</ls> <ls n="ŚAT. BR.">13,8,4,11</ls>.
+;---------------------------------------------------
+; <L>588<pc>1-007-c<k1>agniprAyaScitta<k2>agniprAyaScitta
+2212 old {#agniprAyaScitta#} <lex>n.</lex> (<ls>Ind. St. 13,233</ls>) und {#°prAyaYcitti/#} <lex>f.</lex> (<ls>ŚAT. BR. 6,6,4,11. 14</ls>)¦ {%Sühnungsceremonie beim Schichten des Feuers%}.
+;
+2212 new {#agniprAyaScitta#} <lex>n.</lex> (<ls>Ind. St. 13,233</ls>) und {#°prAyaYcitti/#} <lex>f.</lex> (<ls>ŚAT. BR. 6,6,4,11.</ls> <ls n="ŚAT. BR. 6,6,4,">14</ls>)¦ {%Sühnungsceremonie beim Schichten des Feuers%}.
+;---------------------------------------------------
+; <L>654<pc>1-008-b<k1>agnizwomasAma<k2>agnizwomasAma/
+2467 old {#agnizwomasAma/#} und {#°sAma/n#}¦ <lex>n.</lex> {%das%} <is>Sāman</is> {%des%} <is>Agniṣṭoma</is> <ls>ŚAT. BR. 13,5,1,1. 2. 4,10. 20</ls>.
+;
+2467 new {#agnizwomasAma/#} und {#°sAma/n#}¦ <lex>n.</lex> {%das%} <is>Sāman</is> {%des%} <is>Agniṣṭoma</is> <ls>ŚAT. BR. 13,5,1,1.</ls> <ls n="ŚAT. BR. 13,5,1,">2.</ls> <ls n="ŚAT. BR. 13,5,">4,10.</ls> <ls n="ŚAT. BR. 13,5,4,">20</ls>.
+;---------------------------------------------------
+; <L>665<pc>1-008-b<k1>agnisava<k2>agnisava/
+2513 old {#agnisava/#}¦ <lex>m.</lex> {%Weihe des Feuers%} <ls>TS. 5,6,2,1</ls>. <ls>ŚAT. BR. 9,3,4,7. 9. 10,1,5,3</ls>.
+;
+2513 new {#agnisava/#}¦ <lex>m.</lex> {%Weihe des Feuers%} <ls>TS. 5,6,2,1</ls>. <ls>ŚAT. BR. 9,3,4,7.</ls> <ls n="ŚAT. BR. 9,3,4,">9.</ls> <ls n="ŚAT. BR.">10,1,5,3</ls>.
+;---------------------------------------------------
+; <L>682<pc>1-008-c<k1>agnihotra<k2>agni/hotra<h>2
+2571 old <div n="1">— 2〉 <lex>f.</lex> {#I/#} {%eine zum Feueropfer bestimmte Kuh%} <ls>ŚAT. BR. 11,3,1,1. 5. 2,1. 5,3,2. 5</ls>. {#agnihotrIvatsa/#} <lex>m.</lex> <ls n="ŚAT. BR.">12,4,1,11</ls>.
+;
+2571 new <div n="1">— 2〉 <lex>f.</lex> {#I/#} {%eine zum Feueropfer bestimmte Kuh%} <ls>ŚAT. BR. 11,3,1,1.</ls> <ls n="ŚAT. BR. 11,3,1,">5.</ls> <ls n="ŚAT. BR. 11,3,">2,1.</ls> <ls n="ŚAT. BR. 11,">5,3,2.</ls> <ls n="ŚAT. BR. 11,5,3,">5</ls>. {#agnihotrIvatsa/#} <lex>m.</lex> <ls n="ŚAT. BR.">12,4,1,11</ls>.
+;---------------------------------------------------
+; <L>724<pc>1-009-a<k1>agra<k2>a/gra<h>1
+2720 old <div n="3">— α〉 {%von — an%} ({#A#} bis folgt). <ls>ŚAT. BR. 2,3,1,1. 3,1,3,19. 12,6,1,41</ls>.
+;
+2720 new <div n="3">— α〉 {%von — an%} ({#A#} bis folgt). <ls>ŚAT. BR. 2,3,1,1.</ls> <ls n="ŚAT. BR.">3,1,3,19.</ls> <ls n="ŚAT. BR.">12,6,1,41</ls>.
+;---------------------------------------------------
+; <L>797<pc>1-010-a<k1>agri<k2>agri/
+2969 old {#agri/#}¦ <lex>m.</lex> ein zur Erklärung von {#agni#} erfundenes Wort <ls>ŚAT. BR. 2,2,4,2. 6,1,1,11</ls>.
+;
+2969 new {#agri/#}¦ <lex>m.</lex> ein zur Erklärung von {#agni#} erfundenes Wort <ls>ŚAT. BR. 2,2,4,2.</ls> <ls n="ŚAT. BR.">6,1,1,11</ls>.
+;---------------------------------------------------
+; <L>975<pc>1-012-a<k1>aNgaSas<k2>aNgaSa/s
+3668 old {#aNgaSa/s#}¦ <lex>Adv.</lex> {%in Theile%} <ls>ŚAT. BR. 3,8,3,10. 37</ls>.
+;
+3668 new {#aNgaSa/s#}¦ <lex>Adv.</lex> {%in Theile%} <ls>ŚAT. BR. 3,8,3,10.</ls> <ls n="ŚAT. BR. 3,8,3,">37</ls>.
+;---------------------------------------------------
+; <L>1166<pc>1-014-b<k1>acCambawkAra<k2>a/cCambawkAra
+4428 old {#a/cCambawkAra#}¦ <lex>m.</lex> {%das nicht Etwas Fehlenlassen%} <ls>ŚAT. BR. 11,5,6,9. 13,4,1,12</ls>. <ls>MAITR. S. 1,5,5</ls>.
+;
+4428 new {#a/cCambawkAra#}¦ <lex>m.</lex> {%das nicht Etwas Fehlenlassen%} <ls>ŚAT. BR. 11,5,6,9.</ls> <ls n="ŚAT. BR.">13,4,1,12</ls>. <ls>MAITR. S. 1,5,5</ls>.
+;---------------------------------------------------
+; <L>1279<pc>1-015-c<k1>ajaloman<k2>ajaloma/n
+4904 old <div n="1">— 1〉 <lex>n.</lex> <ab>dass.</ab> <ls>ŚAT. BR. 6,4,4,22. 7,5,2,43</ls> (könnte überall auch {#°loma/#} <lex>n.</lex> sein).
+;
+4904 new <div n="1">— 1〉 <lex>n.</lex> <ab>dass.</ab> <ls>ŚAT. BR. 6,4,4,22.</ls> <ls n="ŚAT. BR.">7,5,2,43</ls> (könnte überall auch {#°loma/#} <lex>n.</lex> sein).
+;---------------------------------------------------
+; <L>2409<pc>1-028-c<k1>adantaka<k2>adanta/ka
+9000 old {#adanta/ka#} (<ls>TS.</ls>) und {#aduntaka#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%zahnlos%} <ls>ŚAT. BR. 11,4,1,5. 12</ls>.
+;
+9000 new {#adanta/ka#} (<ls>TS.</ls>) und {#aduntaka#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%zahnlos%} <ls>ŚAT. BR. 11,4,1,5.</ls> <ls n="ŚAT. BR. 11,4,1,">12</ls>.
+;---------------------------------------------------
+; <L>3181<pc>1-037-c<k1>anakta<k2>a/nakta
+11986 old {#a/nakta#}¦ <lex>Adj.</lex> {%ungesalbt%} <ls>ŚAT. BR. 2,6,2,6. 3,4,3,20</ls>.
+;
+11986 new {#a/nakta#}¦ <lex>Adj.</lex> {%ungesalbt%} <ls>ŚAT. BR. 2,6,2,6.</ls> <ls n="ŚAT. BR.">3,4,3,20</ls>.
+;---------------------------------------------------
+; <L>3197<pc>1-038-a<k1>anagnicityA<k2>a/nagnicityA
+12049 old {#a/nagnicityA#}¦ <lex>f.</lex> {%das Nichtschichten das Feuers%} <ls>ŚAT. BR. 6,6,1,1. 13</ls>.
+;
+12049 new {#a/nagnicityA#}¦ <lex>f.</lex> {%das Nichtschichten das Feuers%} <ls>ŚAT. BR. 6,6,1,1.</ls> <ls n="ŚAT. BR. 6,6,1,">13</ls>.
+;---------------------------------------------------
+; <L>3260<pc>1-038-c<k1>anatidAha<k2>a/natidAha
+12283 old {#a/natidAha#}¦ <lex>m.</lex> {%nicht zu heftiges Brennen%} <ls>ŚAT. BR. 6,7,1,15. 16. 26</ls>.
+;
+12283 new {#a/natidAha#}¦ <lex>m.</lex> {%nicht zu heftiges Brennen%} <ls>ŚAT. BR. 6,7,1,15.</ls> <ls n="ŚAT. BR. 6,7,1,">16.</ls> <ls n="ŚAT. BR. 6,7,1,">26</ls>.
+;---------------------------------------------------
+; <L>3274<pc>1-039-a<k1>anatirikta<k2>a/natirikta
+12325 old {#a/natirikta#}¦ <lex>Adj.</lex> {%nicht überschüssig, — zu viel%} <ls>ŚAT. BR. 3,9,2,15. 7,3,1,39. 13,8,1,15</ls>.
+;
+12325 new {#a/natirikta#}¦ <lex>Adj.</lex> {%nicht überschüssig, — zu viel%} <ls>ŚAT. BR. 3,9,2,15.</ls> <ls n="ŚAT. BR.">7,3,1,39.</ls> <ls n="ŚAT. BR.">13,8,1,15</ls>.
+;---------------------------------------------------
+; <L>3292<pc>1-039-a<k1>anatyaya<k2>a/natyaya<h>1
+12385 old <hom>1.</hom> {#a/natyaya#}¦ <lex>m.</lex> {%das Nichtinübergehen%} <ls>ŚAT. BR. 13,8,4,1. 2</ls>.
+;
+12385 new <hom>1.</hom> {#a/natyaya#}¦ <lex>m.</lex> {%das Nichtinübergehen%} <ls>ŚAT. BR. 13,8,4,1.</ls> <ls n="ŚAT. BR. 13,8,4,">2</ls>.
+;---------------------------------------------------
+; <L>3385<pc>1-040-b<k1>anantarita<k2>a/nantarita
+12706 old <div n="1">— 1〉 {%nicht getrennt, — geschieden%} <ls>ŚAT. BR. 7,5,1,28. 12,3,5,3. fgg.</ls> {%durch%} (<ab>Instr.</ab>) <ls>VOP. 3,18, <ab>Sch.</ab></ls>
+;
+12706 new <div n="1">— 1〉 {%nicht getrennt, — geschieden%} <ls>ŚAT. BR. 7,5,1,28.</ls> <ls n="ŚAT. BR.">12,3,5,3. fgg.</ls> {%durch%} (<ab>Instr.</ab>) <ls>VOP. 3,18, <ab>Sch.</ab></ls>
+;---------------------------------------------------
+; <L>3494<pc>1-041-b<k1>anapahatapApman<k2>a/napahatapApman
+13068 old {#a/napahatapApman#}¦ <lex>Adj.</lex> {%nicht übelfrei%} <ls>ŚAT. BR. 2,1,3,4. 7,4,1,1</ls>.
+;
+13068 new {#a/napahatapApman#}¦ <lex>Adj.</lex> {%nicht übelfrei%} <ls>ŚAT. BR. 2,1,3,4.</ls> <ls n="ŚAT. BR.">7,4,1,1</ls>.
+;---------------------------------------------------
+; <L>3507<pc>1-041-c<k1>anapekzam<k2>a/napekzam
+13111 old {#a/napekzam#}¦ <ab>Absol.</ab> {%ohne sich umzusehen%} <ls>ŚAT. BR. 12,9,2,8. 14,3,1,28</ls>. <ls>KĀTY. ŚR. 5,10,23</ls>.
+;
+13111 new {#a/napekzam#}¦ <ab>Absol.</ab> {%ohne sich umzusehen%} <ls>ŚAT. BR. 12,9,2,8.</ls> <ls n="ŚAT. BR.">14,3,1,28</ls>. <ls>KĀTY. ŚR. 5,10,23</ls>.
+;---------------------------------------------------
+; <L>3518<pc>1-041-c<k1>anaBigata<k2>a/naBigata
+13150 old {#a/naBigata#}¦ <lex>Adj.</lex> {%nicht aufgefasst, — begriffen%} <ls>ŚAT. BR. 1,4,5,9. 4,6,7,19</ls>.
+;
+13150 new {#a/naBigata#}¦ <lex>Adj.</lex> {%nicht aufgefasst, — begriffen%} <ls>ŚAT. BR. 1,4,5,9.</ls> <ls n="ŚAT. BR.">4,6,7,19</ls>.
+;---------------------------------------------------
+; <L>3575<pc>1-042-b<k1>anaByArUQa<k2>a/naByArUQa
+13338 old <div n="1">— 2〉 {%unerreicht%} <ls>ŚAT. BR. 2,4,3,7. 12,2,3,10</ls>.
+;
+13338 new <div n="1">— 2〉 {%unerreicht%} <ls>ŚAT. BR. 2,4,3,7.</ls> <ls n="ŚAT. BR.">12,2,3,10</ls>.
+;---------------------------------------------------
+; <L>3713<pc>1-043-c<k1>anavarudDa<k2>a/navarudDa
+13816 old {#a/navarudDa#}¦ <lex>Adj.</lex> {%nicht erlangt auf seinen Theil, Jmdn%} (<ab>Gen.</ab>) {%nicht gegeben, — zukommend%} <ls>ŚAT. BR. 1,6,4,10. 3,2,2,22. 4,6,9,20. 5,2,2,3</ls>.
+;
+13816 new {#a/navarudDa#}¦ <lex>Adj.</lex> {%nicht erlangt auf seinen Theil, Jmdn%} (<ab>Gen.</ab>) {%nicht gegeben, — zukommend%} <ls>ŚAT. BR. 1,6,4,10.</ls> <ls n="ŚAT. BR.">3,2,2,22.</ls> <ls n="ŚAT. BR.">4,6,9,20.</ls> <ls n="ŚAT. BR.">5,2,2,3</ls>.
+;---------------------------------------------------
+; <L>3738<pc>1-044-a<k1>anavAnant<k2>a/navAnant
+13902 old {#a/navAnant#}¦ <lex>Adj.</lex> {%keinen Athem holend%} <ls>ŚAT. BR. 1,3,5,13. fgg. 4,6,1,5. 11,1,6,31. 13,8,3,4</ls>.
+;
+13902 new {#a/navAnant#}¦ <lex>Adj.</lex> {%keinen Athem holend%} <ls>ŚAT. BR. 1,3,5,13. fgg.</ls> <ls n="ŚAT. BR.">4,6,1,5.</ls> <ls n="ŚAT. BR.">11,1,6,31.</ls> <ls n="ŚAT. BR.">13,8,3,4</ls>.
+;---------------------------------------------------
+; <L>4611<pc>1-054-b<k1>anupUrva<k2>anupUrva
+17049 old <div n="2">— a〉 {%je einem Vordern nachstehend%}. {#°dIkzA/#} <ls>ŚAT. BR. 12,1,1,10. 11</ls>.
+;
+17049 new <div n="2">— a〉 {%je einem Vordern nachstehend%}. {#°dIkzA/#} <ls>ŚAT. BR. 12,1,1,10.</ls> <ls n="ŚAT. BR. 12,1,1,">11</ls>.
+;---------------------------------------------------
+; <L>4618<pc>1-054-c<k1>anupeta<k2>a/nupeta
+17080 old {#a/nupeta#} (<ls>ŚAT. BR. 11,4,1,9. 2,20</ls>) und {#anupetapUrva#}¦ <lex>Adj.</lex> {%der sich noch nicht zum Lehrer in die Lehre begeben hat%} <ls n="Chr.">38,15</ls>.
+;
+17080 new {#a/nupeta#} (<ls>ŚAT. BR. 11,4,1,9.</ls> <ls n="ŚAT. BR. 11,4,">2,20</ls>) und {#anupetapUrva#}¦ <lex>Adj.</lex> {%der sich noch nicht zum Lehrer in die Lehre begeben hat%} <ls n="Chr.">38,15</ls>.
+;---------------------------------------------------
+; <L>5211<pc>1-061-c<k1>antara<k2>a/ntara
+19320 old <div n="2">— c〉 {%(dem Mittelpuncte nahe) im Innern befindlich, der inner%} <ls n="Chr.">217,17</ls>. <ls n="Chr. 217,">20</ls>. <ls>ŚVETĀŚV. UP. 1,7</ls>. Von Kleidungsstücken so <ab>v. a.</ab> {%Unter%}. Mit einem <ab>Abl.</ab> {%mehr nach innen befindlich als%} (von Kleidungsstücken {%dem Körper näher liegend%}) <ls>ŚAT. BR. 3,2,1,11. 5,2,1,8</ls>. <ls>KĀTY. ŚR. 7,3,26.</ls> <ls n="KĀTY. ŚR.">14,5,4</ls>. {%innerhalb von — befindlich%} <ls>ŚAT. BR. 14,6,7,7. fgg.</ls>
+;
+19320 new <div n="2">— c〉 {%(dem Mittelpuncte nahe) im Innern befindlich, der inner%} <ls n="Chr.">217,17</ls>. <ls n="Chr. 217,">20</ls>. <ls>ŚVETĀŚV. UP. 1,7</ls>. Von Kleidungsstücken so <ab>v. a.</ab> {%Unter%}. Mit einem <ab>Abl.</ab> {%mehr nach innen befindlich als%} (von Kleidungsstücken {%dem Körper näher liegend%}) <ls>ŚAT. BR. 3,2,1,11.</ls> <ls n="ŚAT. BR.">5,2,1,8</ls>. <ls>KĀTY. ŚR. 7,3,26.</ls> <ls n="KĀTY. ŚR.">14,5,4</ls>. {%innerhalb von — befindlich%} <ls>ŚAT. BR. 14,6,7,7. fgg.</ls>
+;---------------------------------------------------
+; <L>5273<pc>1-062-c<k1>antarikzAyatana<k2>anta/rikzAyatana
+19567 old {#anta/rikzAyatana#}¦ <lex>Adj.</lex> {%die Luft zum Sitz habend%} <ls>ŚAT. BR. 4,5,2,13. 8,3,1,12</ls>.
+;
+19567 new {#anta/rikzAyatana#}¦ <lex>Adj.</lex> {%die Luft zum Sitz habend%} <ls>ŚAT. BR. 4,5,2,13.</ls> <ls n="ŚAT. BR.">8,3,1,12</ls>.
+;---------------------------------------------------
+; <L>5561<pc>1-065-c<k1>annaprada<k2>annaprada/
+20635 old {#annaprada/#}¦ <lex>Adj.</lex> {%Speise verleihend%} <ls>ŚAT. BR. 11,2,4,5. 6</ls>.
+;
+20635 new {#annaprada/#}¦ <lex>Adj.</lex> {%Speise verleihend%} <ls>ŚAT. BR. 11,2,4,5.</ls> <ls n="ŚAT. BR. 11,2,4,">6</ls>.
+;---------------------------------------------------
+; <L>5772<pc>1-068-b<k1>anvAvftam<k2>anvAvfta/m
+21400 old {#anvAvfta/m#}¦ <lex>Adv.</lex> {%in Bezug auf die Reihenfolge%} <ls>ŚAT. BR. 8,4,4,1. 6,1,23</ls>.
+;
+21400 new {#anvAvfta/m#}¦ <lex>Adv.</lex> {%in Bezug auf die Reihenfolge%} <ls>ŚAT. BR. 8,4,4,1.</ls> <ls n="ŚAT. BR. 8,">6,1,23</ls>.
+;---------------------------------------------------
+; <L>5845<pc>1-069-b<k1>apakzIyamARapakza<k2>apakzIyamARapakza/
+21683 old {#apakzIyamARapakza/#}¦ <lex>m.</lex> {%die zweite Hälfte des Monats, da der Mond abnimmt,%} <ls>ŚAT. BR. 11,1,7,4. 14,9,1,19</ls>.
+;
+21683 new {#apakzIyamARapakza/#}¦ <lex>m.</lex> {%die zweite Hälfte des Monats, da der Mond abnimmt,%} <ls>ŚAT. BR. 11,1,7,4.</ls> <ls n="ŚAT. BR.">14,9,1,19</ls>.
+;---------------------------------------------------
+; <L>6334<pc>1-074-c<k1>apahatapApman<k2>a/pahatapApman
+23472 old {#a/pahatapApman#}¦ <lex>Adj.</lex> {%vom Uebel befreit%} <ls>ŚAT. BR. 2,1,3,4. 6,2,2,19</ls>.
+;
+23472 new {#a/pahatapApman#}¦ <lex>Adj.</lex> {%vom Uebel befreit%} <ls>ŚAT. BR. 2,1,3,4.</ls> <ls n="ŚAT. BR.">6,2,2,19</ls>.
+;---------------------------------------------------
+; <L>6475<pc>1-076-a<k1>apAzWiha<k2>apAzWiha/
+23991 old {#apAzWiha/#} und {#°ha/n#}¦ <lex>Adj.</lex> {%mit den Krallen tödtend%} <ls>ŚAT. BR. 12,7,1,6. 2,15</ls>.
+;
+23991 new {#apAzWiha/#} und {#°ha/n#}¦ <lex>Adj.</lex> {%mit den Krallen tödtend%} <ls>ŚAT. BR. 12,7,1,6.</ls> <ls n="ŚAT. BR. 12,7,">2,15</ls>.
+;---------------------------------------------------
+; <L>6924<pc>1-081-b<k1>apravargya<k2>a/pravargya
+25616 old {#a/pravargya#}¦ <lex>Adj.</lex> {%ohne%} <is>Pravargya</is> <ls>ŚAT. BR. 14,2,2,48. 3,2,30</ls>. <ls>KĀTY. ŚR. 8,2,16</ls>.
+;
+25616 new {#a/pravargya#}¦ <lex>Adj.</lex> {%ohne%} <is>Pravargya</is> <ls>ŚAT. BR. 14,2,2,48.</ls> <ls n="ŚAT. BR. 14,">3,2,30</ls>. <ls>KĀTY. ŚR. 8,2,16</ls>.
+;---------------------------------------------------
+; <L>6953<pc>1-081-c<k1>aprasUta<k2>a/prasUta<h>1
+25717 old <div n="1">— 2〉 {%unerlaubt%} <ls>ŚAT. BR. 4,1,4,3. 6</ls>.
+;
+25717 new <div n="1">— 2〉 {%unerlaubt%} <ls>ŚAT. BR. 4,1,4,3.</ls> <ls n="ŚAT. BR. 4,1,4,">6</ls>.
+;---------------------------------------------------
+; <L>7912<pc>1-092-c<k1>aByastam<k2>aBya/stam
+29322 old {#aBya/stam#}¦ <lex>Adv.</lex> mit {#I#} oder {#gA#} {%über Jmd oder Etwas%} (<ab>Acc.</ab>) {%untergehen%} (von der Sonne) <ls>AIT. BR. 1,3</ls>. <ls>ŚAT. BR. 3,2,3,27. 9,2,8. 12,4,4,6</ls>. {#aByastamita#} <lex>Adj.</lex> {%der bei Sonnenuntergang schläft%} <ls>GAUT. 23,21</ls>.
+;
+29322 new {#aBya/stam#}¦ <lex>Adv.</lex> mit {#I#} oder {#gA#} {%über Jmd oder Etwas%} (<ab>Acc.</ab>) {%untergehen%} (von der Sonne) <ls>AIT. BR. 1,3</ls>. <ls>ŚAT. BR. 3,2,3,27.</ls> <ls n="ŚAT. BR. 3,">9,2,8.</ls> <ls n="ŚAT. BR.">12,4,4,6</ls>. {#aByastamita#} <lex>Adj.</lex> {%der bei Sonnenuntergang schläft%} <ls>GAUT. 23,21</ls>.
+;---------------------------------------------------
+; <L>8400<pc>1-098-b<k1>amftayoni<k2>amftayoni/
+31248 old {#amftayoni/#}¦ <lex>m.</lex> {%Schooss der Unsterblichen%} <ls>ŚAT. BR. 12,9,3,11. 12</ls>.
+;
+31248 new {#amftayoni/#}¦ <lex>m.</lex> {%Schooss der Unsterblichen%} <ls>ŚAT. BR. 12,9,3,11.</ls> <ls n="ŚAT. BR. 12,9,3,">12</ls>.
+;---------------------------------------------------
+; <L>8718<pc>1-102-a<k1>ayata<k2>a/yata
+32480 old {#a/yata#}¦ <lex>Adj.</lex> {%ungezügelt%} <ls>ŚAT. BR. 3,2,4,18. 13,3,3,5. 14,1,1,25</ls>. In <ab>übertr.</ab> <ab>Bed.</ab> <ls>KAṆ. 6,2,7</ls>.
+;
+32480 new {#a/yata#}¦ <lex>Adj.</lex> {%ungezügelt%} <ls>ŚAT. BR. 3,2,4,18.</ls> <ls n="ŚAT. BR.">13,3,3,5.</ls> <ls n="ŚAT. BR.">14,1,1,25</ls>. In <ab>übertr.</ab> <ab>Bed.</ab> <ls>KAṆ. 6,2,7</ls>.
+;---------------------------------------------------
+; <L>9073<pc>1-106-a<k1>arAzwra<k2>a/rAzwra
+33849 old {#a/rAzwra#}¦ <lex>n.</lex> {%kein Reich, — Volk%} <ls>ŚAT. BR. 9,4,1,5. 13,4,2,17</ls>.
+;
+33849 new {#a/rAzwra#}¦ <lex>n.</lex> {%kein Reich, — Volk%} <ls>ŚAT. BR. 9,4,1,5.</ls> <ls n="ŚAT. BR.">13,4,2,17</ls>.
+;---------------------------------------------------
+; <L>9155<pc>1-107-a<k1>aruRapuzpa<k2>aruRa/puzpa
+34201 old {#aruRa/puzpa#}¦ <lex>n.</lex> {%eine röthliche Blume%} <ls>ŚAT. BR. 4,5,10,2. 3</ls>. {%die Blüthe eines <ab>best.</ab> Grases%} (<ab>Comm.</ab>) <ls>KĀTY. ŚR. 25,12,18</ls>.
+;
+34201 new {#aruRa/puzpa#}¦ <lex>n.</lex> {%eine röthliche Blume%} <ls>ŚAT. BR. 4,5,10,2.</ls> <ls n="ŚAT. BR. 4,5,10,">3</ls>. {%die Blüthe eines <ab>best.</ab> Grases%} (<ab>Comm.</ab>) <ls>KĀTY. ŚR. 25,12,18</ls>.
+;---------------------------------------------------
+; <L>9240<pc>1-108-a<k1>arkakoSI<k2>arkakoSI/
+34536 old {#arkakoSI/#}¦ <lex>f.</lex> {%Knospe der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3. 5</ls>.
+;
+34536 new {#arkakoSI/#}¦ <lex>f.</lex> {%Knospe der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3.</ls> <ls n="ŚAT. BR. 10,3,4,">5</ls>.
+;---------------------------------------------------
+; <L>9256<pc>1-108-a<k1>arkaparRa<k2>arkaparRa/<h>1
+34596 old <hom>1.</hom> {#arkaparRa/#}¦ <lex>n.</lex> {%Blatt der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 9,1,1,4. 9. 42. 10,3,4,3. 5</ls>. <ls>KĀTY. ŚR. 18,1,1</ls>.
+;
+34596 new <hom>1.</hom> {#arkaparRa/#}¦ <lex>n.</lex> {%Blatt der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 9,1,1,4.</ls> <ls n="ŚAT. BR. 9,1,1,">9.</ls> <ls n="ŚAT. BR. 9,1,1,">42.</ls> <ls n="ŚAT. BR.">10,3,4,3.</ls> <ls n="ŚAT. BR. 10,3,4,">5</ls>. <ls>KĀTY. ŚR. 18,1,1</ls>.
+;---------------------------------------------------
+; <L>9260<pc>1-108-b<k1>arkapuzpa<k2>arkapuzpa/
+34616 old <div n="1">— 1〉 {%Blüthe der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3. 5</ls>.
+;
+34616 new <div n="1">— 1〉 {%Blüthe der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3.</ls> <ls n="ŚAT. BR. 10,3,4,">5</ls>.
+;---------------------------------------------------
+; <L>9271<pc>1-108-b<k1>arkamUla<k2>arkamUla/
+34657 old {#arkamUla/#}¦ <lex>n.</lex> {%Wurzel der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3. 5</ls>.
+;
+34657 new {#arkamUla/#}¦ <lex>n.</lex> {%Wurzel der <bot>Calotropis gigantea</bot>%} <ls>ŚAT. BR. 10,3,4,3.</ls> <ls n="ŚAT. BR. 10,3,4,">5</ls>.
+;---------------------------------------------------
+; <L>9297<pc>1-108-c<k1>arkASvameDa<k2>arkASvameDa
+34741 old {#arkASvameDa#} *<lex>n.</lex> <ab>Sg.</ab> (<ls>KĀŚ. zu P. 2,6,4</ls>) und {#°DO/#} <lex>m.</lex> <ab>Du.</ab>¦ {%die Begehung%} <is>Arka</is> {%und das Rossopfer%} <ls>AV. 11,7,7</ls>. <ls>ŚAT. BR. 9,4,2,18. 10,6,5,8</ls>. {#°Da/vant#} <lex>Adj.</lex> {%den%} <is n="Arka">A.</is> {%<ab n="und das Rossopfer">u. d. R.</ab> erhaltend%} <ls>TS. 2,2,7,5</ls>. {#°Di/n#} <lex>Adj.</lex> {%den%} <is n="Arka">A.</is> {%<ab n="und das Rossopfer">u. d. R.</ab> begehend%} <ls n="TS.">5,7,5,3</ls>.
+;
+34741 new {#arkASvameDa#} *<lex>n.</lex> <ab>Sg.</ab> (<ls>KĀŚ. zu P. 2,6,4</ls>) und {#°DO/#} <lex>m.</lex> <ab>Du.</ab>¦ {%die Begehung%} <is>Arka</is> {%und das Rossopfer%} <ls>AV. 11,7,7</ls>. <ls>ŚAT. BR. 9,4,2,18.</ls> <ls n="ŚAT. BR.">10,6,5,8</ls>. {#°Da/vant#} <lex>Adj.</lex> {%den%} <is n="Arka">A.</is> {%<ab n="und das Rossopfer">u. d. R.</ab> erhaltend%} <ls>TS. 2,2,7,5</ls>. {#°Di/n#} <lex>Adj.</lex> {%den%} <is n="Arka">A.</is> {%<ab n="und das Rossopfer">u. d. R.</ab> begehend%} <ls n="TS.">5,7,5,3</ls>.
+;---------------------------------------------------
+; <L>9345<pc>1-109-b<k1>arC<k2>arC
+34980 old <div n="p">— Mit {#A#} {%in Etwas (Schaden) gerathen, erlangen, theilhaftig werden%}. Ohne <ab>Acc.</ab> {%Schaden nehmen%} <ls>ŚAT. BR. 6,6,4,8. 12,6,1,2</ls>.
+;
+34980 new <div n="p">— Mit {#A#} {%in Etwas (Schaden) gerathen, erlangen, theilhaftig werden%}. Ohne <ab>Acc.</ab> {%Schaden nehmen%} <ls>ŚAT. BR. 6,6,4,8.</ls> <ls n="ŚAT. BR.">12,6,1,2</ls>.
+;---------------------------------------------------
+; <L>9709<pc>1-114-a<k1>arDavrata<k2>arDavrata/
+36426 old {#arDavrata/#}¦ <lex>n.</lex> {%halbe Portion Milch%}. <ls>ŚAT. BR. 3,6,3,4. 9,2,1,18</ls>. <ls>KĀTY. ŚR. 8,3,17.</ls> <ls n="KĀTY. ŚR. 8,">6,30</ls>.
+;
+36426 new {#arDavrata/#}¦ <lex>n.</lex> {%halbe Portion Milch%}. <ls>ŚAT. BR. 3,6,3,4.</ls> <ls n="ŚAT. BR.">9,2,1,18</ls>. <ls>KĀTY. ŚR. 8,3,17.</ls> <ls n="KĀTY. ŚR. 8,">6,30</ls>.
+;---------------------------------------------------
+; <L>9832<pc>1-115-b<k1>arvAkpaYcASa<k2>arvAkpaYcASa/
+36896 old {#arvAkpaYcASa/#}¦ <lex>Adj.</lex> <ab>Pl.</ab> {%unter 50%} <ls>ŚAT. BR. 10,2,6,8. 11,5,5,6</ls>.
+;
+36896 new {#arvAkpaYcASa/#}¦ <lex>Adj.</lex> <ab>Pl.</ab> {%unter 50%} <ls>ŚAT. BR. 10,2,6,8.</ls> <ls n="ŚAT. BR.">11,5,5,6</ls>.
+;---------------------------------------------------
+; <L>10338<pc>1-121-c<k1>avatAna<k2>avatAna/
+38891 old <div n="1">— 2〉 {%Abspannung des Bogens als%} <ab>Bez.</ab> {%der Verse%} <ls>VS. 16,54-63</ls>. <ls>ŚAT. BR. 9,1,1,21. 27</ls>.
+;
+38891 new <div n="1">— 2〉 {%Abspannung des Bogens als%} <ab>Bez.</ab> {%der Verse%} <ls>VS. 16,54-63</ls>. <ls>ŚAT. BR. 9,1,1,21.</ls> <ls n="ŚAT. BR. 9,1,1,">27</ls>.
+;---------------------------------------------------
+; <L>10530<pc>1-124-a<k1>avamarSam<k2>avama/rSam
+39672 old {#avama/rSam#}¦ <ab>Absol.</ab> {%unter Berührung%} <ls>ŚAT. BR. 1,2,5,24. 26</ls>.
+;
+39672 new {#avama/rSam#}¦ <ab>Absol.</ab> {%unter Berührung%} <ls>ŚAT. BR. 1,2,5,24.</ls> <ls n="ŚAT. BR. 1,2,5,">26</ls>.
+;---------------------------------------------------
+; <L>10582<pc>1-124-c<k1>avaruRya<k2>avaruRya/
+39878 old {#avaruRya/#}¦ <lex>Adj.</lex> {%nicht%} <is>Varuṇa</is> {%gehörig, nicht ihm verfallen%} <ls>ŚAT. BR. 3,2,4,18. 6,4,3,8. 5,2,13</ls>.
+;
+39878 new {#avaruRya/#}¦ <lex>Adj.</lex> {%nicht%} <is>Varuṇa</is> {%gehörig, nicht ihm verfallen%} <ls>ŚAT. BR. 3,2,4,18.</ls> <ls n="ŚAT. BR.">6,4,3,8.</ls> <ls n="ŚAT. BR. 6,">5,2,13</ls>.
+;---------------------------------------------------
+; <L>11094<pc>1-130-c<k1>avimukta<k2>a/vimukta
+41771 old <div n="1">— 1〉 <lex>Adj.</lex> {%nicht gelöst, — abgespannt%} <ls>ŚAT. BR. 1,9,2,32. 3,4,1,4</ls>.
+;
+41771 new <div n="1">— 1〉 <lex>Adj.</lex> {%nicht gelöst, — abgespannt%} <ls>ŚAT. BR. 1,9,2,32.</ls> <ls n="ŚAT. BR.">3,4,1,4</ls>.
+;---------------------------------------------------
+; <L>11346<pc>1-133-c<k1>avyatizakta<k2>a/vyatizakta
+42668 old {#a/vyatizakta#}¦ <lex>Adj.</lex> {%nicht untereinandergemischt%} <ls>ŚAT. BR. 12,7,3,15. 16</ls>.
+;
+42668 new {#a/vyatizakta#}¦ <lex>Adj.</lex> {%nicht untereinandergemischt%} <ls>ŚAT. BR. 12,7,3,15.</ls> <ls n="ŚAT. BR. 12,7,3,">16</ls>.
+;---------------------------------------------------
+; <L>11382<pc>1-134-a<k1>avyavacCinna<k2>a/vyavacCinna
+42818 old {#a/vyavacCinna#}¦ <lex>Adj.</lex> {%ununterbrochen%} <ls>ŚAT. BR. 1,3,5,13. 16. 7,2,4. 7,4,2,20</ls>.
+;
+42818 new {#a/vyavacCinna#}¦ <lex>Adj.</lex> {%ununterbrochen%} <ls>ŚAT. BR. 1,3,5,13.</ls> <ls n="ŚAT. BR. 1,3,5,">16.</ls> <ls n="ŚAT. BR. 1,">7,2,4.</ls> <ls n="ŚAT. BR.">7,4,2,20</ls>.
+;---------------------------------------------------
+; <L>11432<pc>1-134-c<k1>avyUQa<k2>a/vyUQa
+43001 old {#a/vyUQa#}¦ <lex>Adj.</lex> {%nicht auseinandergerückt%} <ls>ŚAT. BR. 5,1,3,13. 5,4,33</ls>.
+;
+43001 new {#a/vyUQa#}¦ <lex>Adj.</lex> {%nicht auseinandergerückt%} <ls>ŚAT. BR. 5,1,3,13.</ls> <ls n="ŚAT. BR. 5,">5,4,33</ls>.
+;---------------------------------------------------
+; <L>12105<pc>1-142-a<k1>azwAgfhIta<k2>azwAgfhIta/
+45537 old {#azwAgfhIta/#}¦ <lex>Adj.</lex> {%achtmal geschöpft%} <ls>ŚAT. BR. 6,3,1,1. 3</ls>.
+;
+45537 new {#azwAgfhIta/#}¦ <lex>Adj.</lex> {%achtmal geschöpft%} <ls>ŚAT. BR. 6,3,1,1.</ls> <ls n="ŚAT. BR. 6,3,1,">3</ls>.
+;---------------------------------------------------
+; <L>12162<pc>1-143-a<k1>azwASri<k2>azwA/Sri
+45742 old {#azwA/Sri#}¦ <lex>Adj.</lex> {%achteckig%} <ls>ŚAT. BR. 3,6,4,27. 7,1,28. 5,2,1,5</ls>. {#azwAsri#} <ls>MBH. 3,134,15</ls>.
+;
+45742 new {#azwA/Sri#}¦ <lex>Adj.</lex> {%achteckig%} <ls>ŚAT. BR. 3,6,4,27.</ls> <ls n="ŚAT. BR. 3,">7,1,28.</ls> <ls n="ŚAT. BR.">5,2,1,5</ls>. {#azwAsri#} <ls>MBH. 3,134,15</ls>.
+;---------------------------------------------------
+; <L>12211<pc>1-144-c<k1>asaMvfta<k2>a/saMvfta
+46092 old <div n="1">— 1〉 <lex>Adj.</lex> {%unverdeckt, unverhüllt%} <ls>ŚAT. BR. 14,5,5,18. 6,8,8</ls>. {%unbedeckt, bloss%} (Erde). {#°guda#} <lex>Adj.</lex> {%dessen After nicht mehr schliesst%} <ls>BHĀVAPR. 3,148</ls>.
+;
+46092 new <div n="1">— 1〉 <lex>Adj.</lex> {%unverdeckt, unverhüllt%} <ls>ŚAT. BR. 14,5,5,18.</ls> <ls n="ŚAT. BR. 14,">6,8,8</ls>. {%unbedeckt, bloss%} (Erde). {#°guda#} <lex>Adj.</lex> {%dessen After nicht mehr schliesst%} <ls>BHĀVAPR. 3,148</ls>.
+;---------------------------------------------------
+; <L>12299<pc>1-146-a<k1>asaMcarant<k2>a/saMcarant
+46422 old {#a/saMcarant#}¦ <lex>Adj.</lex> {%sich nicht ergehend%} <ls>ŚAT. BR. 14,4,3,29. 32</ls>.
+;
+46422 new {#a/saMcarant#}¦ <lex>Adj.</lex> {%sich nicht ergehend%} <ls>ŚAT. BR. 14,4,3,29.</ls> <ls n="ŚAT. BR. 14,4,3,">32</ls>.
+;---------------------------------------------------
+; <L>12303<pc>1-146-a<k1>asaMCanna<k2>a/saMCanna
+46434 old {#a/saMCanna#}¦ <lex>Adj.</lex> {%nicht verdeckt, — umhüllt%} <ls>ŚAT. BR. 8,7,4,19. 21</ls>.
+;
+46434 new {#a/saMCanna#}¦ <lex>Adj.</lex> {%nicht verdeckt, — umhüllt%} <ls>ŚAT. BR. 8,7,4,19.</ls> <ls n="ŚAT. BR. 8,7,4,">21</ls>.
+;---------------------------------------------------
+; <L>12776<pc>1-151-c<k1>asomayAjin<k2>a/somayAjin
+48203 old {#a/somayAjin#}¦ <lex>Adj.</lex> {%der kein%} <is>Soma</is>-{%Opfer dargebracht hat%} <ls>ŚAT. BR. 1,6,4,10. 11</ls>.
+;
+48203 new {#a/somayAjin#}¦ <lex>Adj.</lex> {%der kein%} <is>Soma</is>-{%Opfer dargebracht hat%} <ls>ŚAT. BR. 1,6,4,10.</ls> <ls n="ŚAT. BR. 1,6,4,">11</ls>.
+;---------------------------------------------------
+; <L>13076<pc>1-154-c<k1>asvAhAkfta<k2>a/svAhAkfta
+49255 old {#a/svAhAkfta#}¦ <lex>Adj.</lex> {%nicht durch%} {#svAhA#} {%den Göttern geweiht%} <ls>ŚAT. BR. 4,5,2,17. 6,6,3,17</ls>.
+;
+49255 new {#a/svAhAkfta#}¦ <lex>Adj.</lex> {%nicht durch%} {#svAhA#} {%den Göttern geweiht%} <ls>ŚAT. BR. 4,5,2,17.</ls> <ls n="ŚAT. BR.">6,6,3,17</ls>.
+;---------------------------------------------------
+; <L>13310<pc>1-157-b<k1>ahoma<k2>a/homa
+50180 old {#a/homa#}¦ <lex>m.</lex> {%keine Spende%} <ls>ŚAT. BR. 12,4,2,2. 9</ls>.
+;
+50180 new {#a/homa#}¦ <lex>m.</lex> {%keine Spende%} <ls>ŚAT. BR. 12,4,2,2.</ls> <ls n="ŚAT. BR. 12,4,2,">9</ls>.
+;---------------------------------------------------
+; <L>13611<pc>1-161-a<k1>Agata<k2>A/gata
+51336 old <div n="1">— 2〉 <lex>n.</lex> {%Eingetroffenes, Erfolgtes%} <ls>ŚAT. BR. 2,3,1,24. 27</ls>.
+;
+51336 new <div n="1">— 2〉 <lex>n.</lex> {%Eingetroffenes, Erfolgtes%} <ls>ŚAT. BR. 2,3,1,24.</ls> <ls n="ŚAT. BR. 2,3,1,">27</ls>.
+;---------------------------------------------------
+; <L>13703<pc>1-162-b<k1>AgrayaRAgra<k2>AgrayaRAgra/
+51739 old {#AgrayaRAgra/#}¦ <lex>Adj.</lex> {%mit der%} <is>Āgrayaṇa</is>-{%Libation beginnend%} <ls>ŚAT. BR. 4,5,9,2. 13</ls>.
+;
+51739 new {#AgrayaRAgra/#}¦ <lex>Adj.</lex> {%mit der%} <is>Āgrayaṇa</is>-{%Libation beginnend%} <ls>ŚAT. BR. 4,5,9,2.</ls> <ls n="ŚAT. BR. 4,5,9,">13</ls>.
+;---------------------------------------------------
+; <L>13948<pc>1-165-a<k1>Ajyalipta<k2>A/jyalipta
+52646 old {#A/jyalipta#}¦ <lex>Adj.</lex> {%mit Opferschmalz bestrichen%} <ls>ŚAT. BR. 1,3,1,24. 9,3,3,14</ls>.
+;
+52646 new {#A/jyalipta#}¦ <lex>Adj.</lex> {%mit Opferschmalz bestrichen%} <ls>ŚAT. BR. 1,3,1,24.</ls> <ls n="ŚAT. BR.">9,3,3,14</ls>.
+;---------------------------------------------------
+; <L>13951<pc>1-165-a<k1>AjyavilApanI<k2>AjyavilA/panI
+52655 old {#AjyavilA/panI#}¦ <lex>f.</lex> {%Schmalzpfanne%} <ls>ŚAT. BR. 3,5,3,13. 5,2,1,1</ls>.
+;
+52655 new {#AjyavilA/panI#}¦ <lex>f.</lex> {%Schmalzpfanne%} <ls>ŚAT. BR. 3,5,3,13.</ls> <ls n="ŚAT. BR.">5,2,1,1</ls>.
+;---------------------------------------------------
+; <L>14271<pc>1-168-c<k1>AtmasaMmita<k2>Atma/saMmita
+53849 old <div n="1">— 1〉 {%der Person entsprechend%} <ls>ŚAT. BR. 6,6,2,12. 7,2,2,17. 5,1,14. 9,2,2,2. 10,4,1,3</ls>.
+;
+53849 new <div n="1">— 1〉 {%der Person entsprechend%} <ls>ŚAT. BR. 6,6,2,12.</ls> <ls n="ŚAT. BR.">7,2,2,17.</ls> <ls n="ŚAT. BR. 7,">5,1,14.</ls> <ls n="ŚAT. BR.">9,2,2,2.</ls> <ls n="ŚAT. BR.">10,4,1,3</ls>.
+;---------------------------------------------------
+; <L>14388<pc>1-170-b<k1>Adityagraha<k2>Adityagraha/
+54318 old {#Adityagraha/#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Becher%} <is>Soma</is> {%bei der Abendspende%} <ls>ŚAT. BR. 4,3,5,16. 23</ls>.
+;
+54318 new {#Adityagraha/#}¦ <lex>m.</lex> {%ein <ab>best.</ab> Becher%} <is>Soma</is> {%bei der Abendspende%} <ls>ŚAT. BR. 4,3,5,16.</ls> <ls n="ŚAT. BR. 4,3,5,">23</ls>.
+;---------------------------------------------------
+; <L>14401<pc>1-170-b<k1>AdityapAtra<k2>AdityapAtra/
+54365 old {#AdityapAtra/#}¦ <lex>n.</lex> {%der Becher, mit dem der%} <is>Ādityagraha</is> {%geschöpft wird,%} <ls>ŚAT. BR. 4,3,5,6. 9. 5,5,8. 12</ls>.
+;
+54365 new {#AdityapAtra/#}¦ <lex>n.</lex> {%der Becher, mit dem der%} <is>Ādityagraha</is> {%geschöpft wird,%} <ls>ŚAT. BR. 4,3,5,6.</ls> <ls n="ŚAT. BR. 4,3,5,">9.</ls> <ls n="ŚAT. BR. 4,">5,5,8.</ls> <ls n="ŚAT. BR. 4,5,5,">12</ls>.
+;---------------------------------------------------
+; <L>14425<pc>1-170-c<k1>AdityasTAlI<k2>AdityasTAlI/
+54441 old {#AdityasTAlI/#}¦ <lex>f.</lex> {%der Kessel, aus dem der%} <is>Ādityagraha</is> {%geschöpft wird,%} <ls>ŚAT. BR. 4,2,1,16. 3,5,9</ls>.
+;
+54441 new {#AdityasTAlI/#}¦ <lex>f.</lex> {%der Kessel, aus dem der%} <is>Ādityagraha</is> {%geschöpft wird,%} <ls>ŚAT. BR. 4,2,1,16.</ls> <ls n="ŚAT. BR. 4,">3,5,9</ls>.
+;---------------------------------------------------
+; <L>15588<pc>1-184-c<k1>Arkzyant<k2>Arkzya/nt
+59035 old {#Arkzya/nt#}¦ <lex>Adj.</lex> <ls>ŚAT. BR. 12,2,3,1. 3</ls> = {#Akzyant#}.
+;
+59035 new {#Arkzya/nt#}¦ <lex>Adj.</lex> <ls>ŚAT. BR. 12,2,3,1.</ls> <ls n="ŚAT. BR. 12,2,3,">3</ls> = {#Akzyant#}.
+;---------------------------------------------------
+; <L>16804<pc>1-203-b<k1>ityahe<k2>ityahe/
+64408 old {#ityahe/#}¦ <ab>Loc.</ab> {%an dem und dem Tage%} <ls>ŚAT. BR. 3,3,4,17. 19. 9,5,1,8</ls>.
+;
+64408 new {#ityahe/#}¦ <ab>Loc.</ab> {%an dem und dem Tage%} <ls>ŚAT. BR. 3,3,4,17.</ls> <ls n="ŚAT. BR. 3,3,4,">19.</ls> <ls n="ŚAT. BR.">9,5,1,8</ls>.
+;---------------------------------------------------
+; <L>16806<pc>1-203-b<k1>ityAliKita<k2>ityAliKita/
+64414 old {#ityAliKita/#}¦ <lex>Adj.</lex> {%so geritzt%} <ls>ŚAT. BR. 10,2,1,8. 10</ls>.
+;
+64414 new {#ityAliKita/#}¦ <lex>Adj.</lex> {%so geritzt%} <ls>ŚAT. BR. 10,2,1,8.</ls> <ls n="ŚAT. BR. 10,2,1,">10</ls>.
+;---------------------------------------------------
+; <L>17119<pc>1-206-c<k1>indrAyatana<k2>i/ndrAyatana
+65570 old {#i/ndrAyatana#}¦ <lex>Adj.</lex> {%auf%} <is>Indra</is> {%beruhend%} <ls>ŚAT. BR. 12,8,2,24. 3,25</ls>.
+;
+65570 new {#i/ndrAyatana#}¦ <lex>Adj.</lex> {%auf%} <is>Indra</is> {%beruhend%} <ls>ŚAT. BR. 12,8,2,24.</ls> <ls n="ŚAT. BR. 12,8,">3,25</ls>.
+;---------------------------------------------------
+; <L>17652<pc>1-215-b<k1>ukTyapAtra<k2>ukTyapAtra/
+68030 old {#ukTyapAtra/#}¦ <lex>n.</lex> {%der zur Darbringung der Libation%} <is>Ukthya</is> {%bestimmte Becher%} <ls>ŚAT. BR. 4,5,5,8. 12</ls>.
+;
+68030 new {#ukTyapAtra/#}¦ <lex>n.</lex> {%der zur Darbringung der Libation%} <is>Ukthya</is> {%bestimmte Becher%} <ls>ŚAT. BR. 4,5,5,8.</ls> <ls n="ŚAT. BR. 4,5,5,">12</ls>.
+;---------------------------------------------------
+; <L>18897<pc>1-230-c<k1>udIcIna<k2>udIcI/na
+72859 old {#udIcI/na#}¦ <lex>Adj.</lex> {%nördlich gewandt%}. {#°pravaRa#} {%nach Norden sich neigend%}. {#°daSa#} <lex>Adj.</lex> <ls>ŚAT. BR. 1,7,1,13. 4,3,5,21</ls>. {#°vaMSa#} <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ls n="ŚAT. BR.">3,1,1,7. 6,1,23</ls>. {#udIcI/nAgra#} <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ls n="ŚAT. BR.">1,2,1,16</ls> (falsch betont), <ls n="ŚAT. BR.">3,5,4,20. 6,1,14. 7,1,7</ls>.
+;
+72859 new {#udIcI/na#}¦ <lex>Adj.</lex> {%nördlich gewandt%}. {#°pravaRa#} {%nach Norden sich neigend%}. {#°daSa#} <lex>Adj.</lex> <ls>ŚAT. BR. 1,7,1,13.</ls> <ls n="ŚAT. BR.">4,3,5,21</ls>. {#°vaMSa#} <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ls n="ŚAT. BR.">3,1,1,7.</ls> <ls n="ŚAT. BR. 3,">6,1,23</ls>. {#udIcI/nAgra#} <lex>Adj.</lex> (<lex>f.</lex> {#A#}) <ls n="ŚAT. BR.">1,2,1,16</ls> (falsch betont), <ls n="ŚAT. BR.">3,5,4,20.</ls> <ls n="ŚAT. BR. 3,">6,1,14.</ls> <ls n="ŚAT. BR. 3,">7,1,7</ls>.
+;---------------------------------------------------
+; <L>19908<pc>1-243-b<k1>uparizwAtsvAhAkfti<k2>upa/rizwAtsvAhAkfti
+76990 old {#upa/rizwAtsvAhAkfti#}¦ <lex>Adj.</lex> {%mit hinterher folgendem%} <is>Svāhā</is>-{%Ruf%} <ls>ŚAT. BR. 3,8,1,16. 13,2,11,2</ls>.
+;
+76990 new {#upa/rizwAtsvAhAkfti#}¦ <lex>Adj.</lex> {%mit hinterher folgendem%} <is>Svāhā</is>-{%Ruf%} <ls>ŚAT. BR. 3,8,1,16.</ls> <ls n="ŚAT. BR.">13,2,11,2</ls>.
+;---------------------------------------------------
+; <L>19971<pc>1-244-a<k1>upavant<k2>u/pavant
+77228 old {#u/pavant#}¦ <lex>Adj.</lex> {%das Wort%} {#upa#} {%enthaltend%}. <lex>f.</lex> {#°tI#} (<ab>sc.</ab> {#fc#}) <ls>ŚAT. BR. 2,3,4,9. 16</ls>. <ls>LĀṬY. 4,5,19</ls>. <ls>TĀṆḌYA-BR. 11,1,1. 2</ls>.
+;
+77228 new {#u/pavant#}¦ <lex>Adj.</lex> {%das Wort%} {#upa#} {%enthaltend%}. <lex>f.</lex> {#°tI#} (<ab>sc.</ab> {#fc#}) <ls>ŚAT. BR. 2,3,4,9.</ls> <ls n="ŚAT. BR. 2,3,4,">16</ls>. <ls>LĀṬY. 4,5,19</ls>. <ls>TĀṆḌYA-BR. 11,1,1. 2</ls>.
+;---------------------------------------------------
+; <L>20270<pc>1-247-c<k1>upAMSvantaryAma<k2>upAMSvantaryAma/
+78372 old {#upAMSvantaryAma/#}¦ <lex>m.</lex> <ab>Du.</ab> <ab>Bez.</ab> {%zweier <ab>best.</ab>%} <is>Soma</is>-{%Füllungen%} <ls>ŚAT. BR. 4,1,2,3. 18. 4,1,4. 2,10. 5,5,12</ls>.
+;
+78372 new {#upAMSvantaryAma/#}¦ <lex>m.</lex> <ab>Du.</ab> <ab>Bez.</ab> {%zweier <ab>best.</ab>%} <is>Soma</is>-{%Füllungen%} <ls>ŚAT. BR. 4,1,2,3.</ls> <ls n="ŚAT. BR. 4,1,2,">18.</ls> <ls n="ŚAT. BR. 4,">4,1,4.</ls> <ls n="ŚAT. BR. 4,4,">2,10.</ls> <ls n="ŚAT. BR. 4,">5,5,12</ls>.
+;---------------------------------------------------
+; <L>20472<pc>1-250-a<k1>uBayataHparigfhIta<k2>uBayataHparigfhIta/
+79181 old {#uBayataHparigfhIta/#}¦ <lex>Adj.</lex> {%von beiden%} (elterlichen) {%Seiten umfasst%} <ls>ŚAT. BR. 2,3,1,32. 33</ls>.
+;
+79181 new {#uBayataHparigfhIta/#}¦ <lex>Adj.</lex> {%von beiden%} (elterlichen) {%Seiten umfasst%} <ls>ŚAT. BR. 2,3,1,32.</ls> <ls n="ŚAT. BR. 2,3,1,">33</ls>.
+;---------------------------------------------------
+; <L>20486<pc>1-250-b<k1>uBayatojyotis<k2>uBaya/tojyotis
+79228 old {#uBaya/tojyotis#}¦ <lex>Adj.</lex> {%auf beiden Seiten Licht%} — und — {%eine%} <is>Jyotis</is>-{%Tag habend%} <ls>ŚAT. BR. 12,2,2,1. 13,6,1,8. 9</ls>. <ls>AIT. BR. 4,15</ls>.
+;
+79228 new {#uBaya/tojyotis#}¦ <lex>Adj.</lex> {%auf beiden Seiten Licht%} — und — {%eine%} <is>Jyotis</is>-{%Tag habend%} <ls>ŚAT. BR. 12,2,2,1.</ls> <ls n="ŚAT. BR.">13,6,1,8.</ls> <ls n="ŚAT. BR. 13,6,1,">9</ls>. <ls>AIT. BR. 4,15</ls>.
+;---------------------------------------------------
+; <L>21182<pc>1-258-b<k1>UrDvastoma<k2>UrDva/stoma
+82049 old {#UrDva/stoma#}¦ <lex>Adj.</lex> {%mit ansteigenden%} <is>Stoma</is>. <is>Daśarātra</is> <ls>ŚAT. BR. 12,2,3,8. 9</ls>. <ls>VAITĀN. 31,14</ls>.
+;
+82049 new {#UrDva/stoma#}¦ <lex>Adj.</lex> {%mit ansteigenden%} <is>Stoma</is>. <is>Daśarātra</is> <ls>ŚAT. BR. 12,2,3,8.</ls> <ls n="ŚAT. BR. 12,2,3,">9</ls>. <ls>VAITĀN. 31,14</ls>.
+;---------------------------------------------------
+; <L>21944<pc>1-268-b<k1>ekaviMSati<k2>e/kaviMSati
+85201 old {#e/kaviMSati#}¦ <lex>f.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> (selten) <ab>dass.</ab> {#ekaviMSatyamI (!) svargAH#} <ls>HEMĀDRI 1,164,1</ls>. Als <lex>Adj.</lex> in {#°yUpAH ekaviMSatigfhIta/#} {%21 Mal geschöpft%}. {#e/kaviMSatinirbADa#}. <lex>Adj.</lex> <ls>ŚAT. BR. 6,7,1,2. 7,4,1,10</ls>.
+;
+85201 new {#e/kaviMSati#}¦ <lex>f.</lex> <ab>Sg.</ab> und <ab>Pl.</ab> (selten) <ab>dass.</ab> {#ekaviMSatyamI (!) svargAH#} <ls>HEMĀDRI 1,164,1</ls>. Als <lex>Adj.</lex> in {#°yUpAH ekaviMSatigfhIta/#} {%21 Mal geschöpft%}. {#e/kaviMSatinirbADa#}. <lex>Adj.</lex> <ls>ŚAT. BR. 6,7,1,2.</ls> <ls n="ŚAT. BR.">7,4,1,10</ls>.
+;---------------------------------------------------
+; <L>21954<pc>1-268-c<k1>ekaviMSasaMpad<k2>ekaviMSasaMpa/d
+85231 old {#ekaviMSasaMpa/d#}¦ <lex>f.</lex> {%Herstellung einer 21-Zahl%} <ls>ŚAT. BR. 7,1,2,15. 8,5,3,8</ls>.
+;
+85231 new {#ekaviMSasaMpa/d#}¦ <lex>f.</lex> {%Herstellung einer 21-Zahl%} <ls>ŚAT. BR. 7,1,2,15.</ls> <ls n="ŚAT. BR.">8,5,3,8</ls>.
+;---------------------------------------------------
+; <L>21972<pc>1-268-c<k1>ekavyAKyAna<k2>e/kavyAKyAna
+85300 old {#e/kavyAKyAna#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%dieselbe Begründung habend%} <ls>ŚAT. BR. 6,2,1,27. 33. 7,4,6. 7,2,4,28</ls>.
+;
+85300 new {#e/kavyAKyAna#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%dieselbe Begründung habend%} <ls>ŚAT. BR. 6,2,1,27.</ls> <ls n="ŚAT. BR. 6,2,1,">33.</ls> <ls n="ŚAT. BR. 6,">7,4,6.</ls> <ls n="ŚAT. BR.">7,2,4,28</ls>.
+;---------------------------------------------------
+; <L>22026<pc>1-269-b<k1>ekasPyA<k2>e/kasPyA
+85488 old {#e/kasPyA#}¦ <lex>f.</lex> {%ein mit einem Holzspan gezogener Stich%} <ls>ŚAT. BR. 3,5,2,2. 9,2,3,1</ls>.
+;
+85488 new {#e/kasPyA#}¦ <lex>f.</lex> {%ein mit einem Holzspan gezogener Stich%} <ls>ŚAT. BR. 3,5,2,2.</ls> <ls n="ŚAT. BR.">9,2,3,1</ls>.
+;---------------------------------------------------
+; <L>22154<pc>1-271-a<k1>ekezwaka<k2>e/kezwaka
+85967 old {#e/kezwaka#}¦ <lex>Adj.</lex> {%einen Backstein habend%} <ls>ŚAT. BR. 6,1,2,30. 10,5,2,22</ls>.
+;
+85967 new {#e/kezwaka#}¦ <lex>Adj.</lex> {%einen Backstein habend%} <ls>ŚAT. BR. 6,1,2,30.</ls> <ls n="ŚAT. BR.">10,5,2,22</ls>.
+;---------------------------------------------------
+; <L>22251<pc>1-272-b<k1>ed<k2>e/d
+86334 old {#e/d#}¦ ({#A#} + {#id#}) mit folgendem <ab>Acc.</ab> als Ausruf der {%Ueberraschung%}. {#e/ttiro/BUtAm#} {%sich da, sie war verschwunden%} <ls n="Chr.">29,30</ls>. <ls n="Chr.">30,23</ls> (vielleicht {#jagamEdDiraRya°#} zu lesen). <ls n="Chr. 30,">30</ls>. {#e/tpuroqA/Sameva/ kUrma/M BUtvA/ sa/rpantam#} <ls>ŚAT. BR. 1,6,2,3. 2,2,3,3. 4,12. 3,4,2. 4,1,3,4. 11,6,1,3</ls>. {#Et#} (so <ab>Hdschrr.</ab>, wohl {#et#} zu lesen) {#paSumeva nirAntraM SayAnam#} <ls>AIT. BR. 2,13</ls>.
+;
+86334 new {#e/d#}¦ ({#A#} + {#id#}) mit folgendem <ab>Acc.</ab> als Ausruf der {%Ueberraschung%}. {#e/ttiro/BUtAm#} {%sich da, sie war verschwunden%} <ls n="Chr.">29,30</ls>. <ls n="Chr.">30,23</ls> (vielleicht {#jagamEdDiraRya°#} zu lesen). <ls n="Chr. 30,">30</ls>. {#e/tpuroqA/Sameva/ kUrma/M BUtvA/ sa/rpantam#} <ls>ŚAT. BR. 1,6,2,3.</ls> <ls n="ŚAT. BR.">2,2,3,3.</ls> <ls n="ŚAT. BR. 2,2,">4,12.</ls> <ls n="ŚAT. BR. 2,">3,4,2.</ls> <ls n="ŚAT. BR.">4,1,3,4.</ls> <ls n="ŚAT. BR.">11,6,1,3</ls>. {#Et#} (so <ab>Hdschrr.</ab>, wohl {#et#} zu lesen) {#paSumeva nirAntraM SayAnam#} <ls>AIT. BR. 2,13</ls>.
+;---------------------------------------------------
+; <L>22377<pc>1-273-c<k1>ezwavE<k2>e/zwavE/
+86826 old {#e/zwavE/#}¦ <ab>Dat.</ab> <ab>Inf.</ab> {%aufzusuchen%} <ls>ŚAT. BR. 4,5,2,1. 12,5,1,4</ls>.
+;
+86826 new {#e/zwavE/#}¦ <ab>Dat.</ab> <ab>Inf.</ab> {%aufzusuchen%} <ls>ŚAT. BR. 4,5,2,1.</ls> <ls n="ŚAT. BR.">12,5,1,4</ls>.
+;---------------------------------------------------
+; <L>22442<pc>1-274-b<k1>Ekzava<k2>Ekzava/
+87061 old <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I/#}) {%aus Zuckerrohr gemacht, vom <ab n="Zuckerrohr">Z.</ab> kommend%} <ls>ŚAT. BR. 3,4,1,18. 6,2,10</ls>. <ls>KĀTY. ŚR. 8,1,4</ls>. <ls>HEMĀDRI 1,428,20</ls>. <ls>BĀLAR. 62,15</ls>.
+;
+87061 new <div n="1">— 1〉 <lex>Adj.</lex> (<lex>f.</lex> {#I/#}) {%aus Zuckerrohr gemacht, vom <ab n="Zuckerrohr">Z.</ab> kommend%} <ls>ŚAT. BR. 3,4,1,18.</ls> <ls n="ŚAT. BR. 3,">6,2,10</ls>. <ls>KĀTY. ŚR. 8,1,4</ls>. <ls>HEMĀDRI 1,428,20</ls>. <ls>BĀLAR. 62,15</ls>.
+;---------------------------------------------------
+; <L>22501<pc>1-275-b<k1>EndravAyava<k2>EndravAyava/
+87323 old <div n="1">— 2〉 <lex>m.</lex> {%der%} <is n="Indra">I.</is> und <is n="Vāyu">V.</is> {%gehörige%} <is>Graha</is>. {#°vAyavapAtra/#} <lex>n.</lex> <ls>ŚAT. BR. 4,1,5,19</ls>. {#°vAyavA/gra#} <lex>Adj.</lex> <ls>ŚAT. BR. 4,4,1,17. 5,9,1. fgg.</ls>
+;
+87323 new <div n="1">— 2〉 <lex>m.</lex> {%der%} <is n="Indra">I.</is> und <is n="Vāyu">V.</is> {%gehörige%} <is>Graha</is>. {#°vAyavapAtra/#} <lex>n.</lex> <ls>ŚAT. BR. 4,1,5,19</ls>. {#°vAyavA/gra#} <lex>Adj.</lex> <ls>ŚAT. BR. 4,4,1,17.</ls> <ls n="ŚAT. BR. 4,">5,9,1. fgg.</ls>
+;---------------------------------------------------
+; <L>31679<pc>2-110-c<k1>kratUdakzO<k2>kra/tUda/kzO
+125704 old {#kra/tUda/kzO#}¦ <ab>Nom.</ab> <ab>Du.</ab> <lex>m.</lex> {%Verstand und Wille%} <ls>VS. 7,27</ls>. <ls>ŚAT. BR. 4,1,1,1. 14,3,1,31</ls>.
+;
+125704 new {#kra/tUda/kzO#}¦ <ab>Nom.</ab> <ab>Du.</ab> <lex>m.</lex> {%Verstand und Wille%} <ls>VS. 7,27</ls>. <ls>ŚAT. BR. 4,1,1,1.</ls> <ls n="ŚAT. BR.">14,3,1,31</ls>.
+;---------------------------------------------------
+; <L>42736<pc>2-266-a<k1>ji<k2>ji<h>1
+173883 old <div n="1">— 1〉 {#jApayati#} {%Jmd Etwas gewinnen machen,%} mit doppeltem <ab>Acc.</ab> {#a/jIjapata#} <ab>Med.</ab> <ls>ŚAT. BR. 5,1,5,11. 12</ls>.
+;
+173883 new <div n="1">— 1〉 {#jApayati#} {%Jmd Etwas gewinnen machen,%} mit doppeltem <ab>Acc.</ab> {#a/jIjapata#} <ab>Med.</ab> <ls>ŚAT. BR. 5,1,5,11.</ls> <ls n="ŚAT. BR. 5,1,5,">12</ls>.
+;---------------------------------------------------
+; <L>52409<pc>3-117-b<k1>devamanuzya<k2>devamanuzya^
+215141 old {#devamanuzya^#} (<ls>AV. 8,10,9</ls>) und {#°zya/#} (<ls>ŚAT. BR. 6,3,1,17. 4,4,22</ls>)¦ <lex>m.</lex> <ab>Pl.</ab> {%Götter und Menschen%}.
+;
+215141 new {#devamanuzya^#} (<ls>AV. 8,10,9</ls>) und {#°zya/#} (<ls>ŚAT. BR. 6,3,1,17.</ls> <ls n="ŚAT. BR. 6,">4,4,22</ls>)¦ <lex>m.</lex> <ab>Pl.</ab> {%Götter und Menschen%}.
+;---------------------------------------------------
+; <L>52990<pc>3-123-c<k1>dorbAhava<k2>dorbAhava/
+217303 old {#dorbAhava/#}¦ <lex>n.</lex> <ab>Pl.</ab> {%Vorder- und Oberarme%} <ls>ŚAT. BR. 8,3,4,4. 4,3,10</ls>.
+;
+217303 new {#dorbAhava/#}¦ <lex>n.</lex> <ab>Pl.</ab> {%Vorder- und Oberarme%} <ls>ŚAT. BR. 8,3,4,4.</ls> <ls n="ŚAT. BR. 8,">4,3,10</ls>.
+;---------------------------------------------------
+; <L>54472<pc>3-141-c<k1>DanurArtnI<k2>DanurArtnI/
+223122 old {#DanurArtnI/#}¦ <lex>f.</lex> {%Bogenende%} <ls>ŚAT. BR. 5,4,3,10. 14,1,1,7</ls>.
+;
+223122 new {#DanurArtnI/#}¦ <lex>f.</lex> {%Bogenende%} <ls>ŚAT. BR. 5,4,3,10.</ls> <ls n="ŚAT. BR.">14,1,1,7</ls>.
+;---------------------------------------------------
+; <L>55032<pc>3-151-b<k1>DA<k2>DA<h>1
+226055 old <div n="1">— 1〉 <ab>Act.</ab> {%wieder zusammensetzen%} <ls>ŚAT. BR. 12,6,1,2. 37</ls>.
+;
+226055 new <div n="1">— 1〉 <ab>Act.</ab> {%wieder zusammensetzen%} <ls>ŚAT. BR. 12,6,1,2.</ls> <ls n="ŚAT. BR. 12,6,1,">37</ls>.
+;---------------------------------------------------
+; <L>55955<pc>3-169-a<k1>Druva<k2>Druva/
+230059 old <div n="2">— i〉 {%der bleibende%} <ab>d. h.</ab> {%aufbewahrte%} <is>Graha</is> (welcher, Morgens geschöpft, erst Abends geopfert wird) <ls>ŚAT. BR. 4,2,3,3. 4,1. 5,1,2,19</ls>. <ls>KĀTY. ŚR. 9,5,17</ls>. <ls>VAITĀN.</ls>
+;
+230059 new <div n="2">— i〉 {%der bleibende%} <ab>d. h.</ab> {%aufbewahrte%} <is>Graha</is> (welcher, Morgens geschöpft, erst Abends geopfert wird) <ls>ŚAT. BR. 4,2,3,3.</ls> <ls n="ŚAT. BR. 4,2,">4,1.</ls> <ls n="ŚAT. BR.">5,1,2,19</ls>. <ls>KĀTY. ŚR. 9,5,17</ls>. <ls>VAITĀN.</ls>
+;---------------------------------------------------
+; <L>57323<pc>3-188-c<k1>nahi<k2>nahi/
+235906 old {#nahi/#} ({#na/hi/#} <ls>MAITR. S.</ls> und <ls>ŚAT. BR.</ls> <ab>z. B.</ab> <ls n="ŚAT. BR.">2,4,2,6. 9,1,1,29</ls>)¦ <lex>Adv.</lex> {%ja%} (unbetont) {%nicht, denn nicht; gewiss nicht, durchaus nicht%}. Verstärkt durch ein nachfolgendes {#aNga/, nu/, sma#} und *{#kam#}.
+;
+235906 new {#nahi/#} ({#na/hi/#} <ls>MAITR. S.</ls> und <ls>ŚAT. BR.</ls> <ab>z. B.</ab> <ls n="ŚAT. BR.">2,4,2,6.</ls> <ls n="ŚAT. BR.">9,1,1,29</ls>)¦ <lex>Adv.</lex> {%ja%} (unbetont) {%nicht, denn nicht; gewiss nicht, durchaus nicht%}. Verstärkt durch ein nachfolgendes {#aNga/, nu/, sma#} und *{#kam#}.
+;---------------------------------------------------
+; <L>57920<pc>3-196-b<k1>nAmarUpa<k2>nAmarUpa/
+238219 old {#nAmarUpa/#}¦ <lex>n.</lex> <ab>Du.</ab> {%Name und Gestalt%} <ls>ŚAT. BR. 14,4,2,15. 4,3</ls>. <ls>MUṆḌ. UP. 3,2,8</ls>. <ls>BURN. <ab>Intr.</ab> 502</ls>. {#nAma/pAtmaka#} <lex>Adj.</lex> <ls>Ind. St. 9,134</ls>.
+;
+238219 new {#nAmarUpa/#}¦ <lex>n.</lex> <ab>Du.</ab> {%Name und Gestalt%} <ls>ŚAT. BR. 14,4,2,15.</ls> <ls n="ŚAT. BR. 14,4,">4,3</ls>. <ls>MUṆḌ. UP. 3,2,8</ls>. <ls>BURN. <ab>Intr.</ab> 502</ls>. {#nAma/pAtmaka#} <lex>Adj.</lex> <ls>Ind. St. 9,134</ls>.
+;---------------------------------------------------
+; <L>60627<pc>3-234-c<k1>nIla<k2>nI/la
+249281 old <div n="2">— a〉 {%die dunkle Farbe%} <ls>TS. 3,1,1,2</ls>. <ls>KAUṢ. UP. 3,1</ls>. {%ein dunkler Stoff%} <ls>ŚAT. BR. 14,7,1,20. 2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;
+249281 new <div n="2">— a〉 {%die dunkle Farbe%} <ls>TS. 3,1,1,2</ls>. <ls>KAUṢ. UP. 3,1</ls>. {%ein dunkler Stoff%} <ls>ŚAT. BR. 14,7,1,20.</ls> <ls n="ŚAT. BR. 14,7,">2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;---------------------------------------------------
+; <L>61096<pc>3-240-c<k1>ned<k2>ne/d<h>2
+251167 old <div n="1">— 1〉 {%nicht%} (verstärkt). {#ne/ttu/#} {%nicht —, keinesfalls aber%} <ls>ŚAT. BR. 3,1,4,8. 4,2,1,7. 5,10,8. 6,2,3,39</ls>. <ls>TĀṆḌYA-BR. 2,2,3</ls>.
+;
+251167 new <div n="1">— 1〉 {%nicht%} (verstärkt). {#ne/ttu/#} {%nicht —, keinesfalls aber%} <ls>ŚAT. BR. 3,1,4,8.</ls> <ls n="ŚAT. BR.">4,2,1,7.</ls> <ls n="ŚAT. BR. 4,">5,10,8.</ls> <ls n="ŚAT. BR.">6,2,3,39</ls>. <ls>TĀṆḌYA-BR. 2,2,3</ls>.
+;---------------------------------------------------
+; <L>64385<pc>4-046-c<k1>parisarpam<k2>parisa/rpam
+265672 old {#parisa/rpam#}¦ <ab>Absol.</ab> {%sich umherbewegend%} <ls>ŚAT. BR. 7,4,1,32. 10,5,5,7</ls>.
+;
+265672 new {#parisa/rpam#}¦ <ab>Absol.</ab> {%sich umherbewegend%} <ls>ŚAT. BR. 7,4,1,32.</ls> <ls n="ŚAT. BR.">10,5,5,7</ls>.
+;---------------------------------------------------
+; <L>64451<pc>4-047-c<k1>parihAram<k2>parihA/ram
+265934 old {#parihA/ram#}¦ <ab>Absol.</ab> {%herumbewegend%} <ls>AIT. BR. 2,278</ls>. <ls>ŚAT. BR. 4,5,1,1. 9,4,1,14. 15</ls>.
+;
+265934 new {#parihA/ram#}¦ <ab>Absol.</ab> {%herumbewegend%} <ls>AIT. BR. 2,278</ls>. <ls>ŚAT. BR. 4,5,1,1.</ls> <ls n="ŚAT. BR.">9,4,1,14.</ls> <ls n="ŚAT. BR. 9,4,1,">15</ls>.
+;---------------------------------------------------
+; <L>64686<pc>4-051-a<k1>parRaSAKA<k2>parRaSAKA/
+266853 old {#parRaSAKA/#}¦ <lex>f.</lex> {%ein Zweig von der <bot>Butea frondosa</bot>%} <ls>ŚAT. BR. 1,7,1,1. 11,1,4,2</ls>.
+;
+266853 new {#parRaSAKA/#}¦ <lex>f.</lex> {%ein Zweig von der <bot>Butea frondosa</bot>%} <ls>ŚAT. BR. 1,7,1,1.</ls> <ls n="ŚAT. BR.">11,1,4,2</ls>.
+;---------------------------------------------------
+; <L>65309<pc>4-059-c<k1>pA<k2>pA<h>1
+269461 old <div n="p">— Mit {#ud#}, {#utpibante#} <ls>ŚAT. BR. 5,2,4,7. 11</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> <hom>5.</hom> {#pA#}.
+;
+269461 new <div n="p">— Mit {#ud#}, {#utpibante#} <ls>ŚAT. BR. 5,2,4,7.</ls> <ls n="ŚAT. BR. 5,2,4,">11</ls> fehlerhaft für {#utpipateH#} <ab>vgl.</ab> <hom>5.</hom> {#pA#}.
+;---------------------------------------------------
+; <L>65624<pc>4-064-b<k1>pARqaravAsas<k2>pA/RqaravAsas
+270834 old {#pA/RqaravAsas#}¦ <lex>Adj.</lex> {%ein weisses Gewand tragend%} <ls>ŚAT. BR. 14,5,1,3. 15</ls>.
+;
+270834 new {#pA/RqaravAsas#}¦ <lex>Adj.</lex> {%ein weisses Gewand tragend%} <ls>ŚAT. BR. 14,5,1,3.</ls> <ls n="ŚAT. BR. 14,5,1,">15</ls>.
+;---------------------------------------------------
+; <L>65877<pc>4-068-a<k1>pAdamAtra<k2>pAdamAtra/<h>2
+271872 old <hom>2.</hom> {#pAdamAtra/#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%einen Fuss lang%} <ls>ŚAT. BR. 6,5,3,2. 7,2,1,7. 8,7,2,17</ls>. <ls>KĀTY. ŚR. 17,1,10.</ls> <ls n="KĀTY. ŚR. 17,">4,12</ls>.
+;
+271872 new <hom>2.</hom> {#pAdamAtra/#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#I#}) {%einen Fuss lang%} <ls>ŚAT. BR. 6,5,3,2.</ls> <ls n="ŚAT. BR.">7,2,1,7.</ls> <ls n="ŚAT. BR.">8,7,2,17</ls>. <ls>KĀTY. ŚR. 17,1,10.</ls> <ls n="KĀTY. ŚR. 17,">4,12</ls>.
+;---------------------------------------------------
+; <L>68034<pc>4-098-a<k1>purastAtsvAhAkAra<k2>purastAtsvAhAkAra
+280821 old {#purastAtsvAhAkAra#} (<ls>Comm. zu ĀPAST. ŚR. 7,20,9</ls>) und {#pura/stAtsvAhAkfti#} (<ls>TS. 3,1,5,2</ls>. <ls>ŚAT. BR. 3,8,1,16. 13,2,11,2</ls>)¦ <lex>Adj.</lex> {%mit vorangehendem%} <is>Svāhā</is> {%Rufe%}.
+;
+280821 new {#purastAtsvAhAkAra#} (<ls>Comm. zu ĀPAST. ŚR. 7,20,9</ls>) und {#pura/stAtsvAhAkfti#} (<ls>TS. 3,1,5,2</ls>. <ls>ŚAT. BR. 3,8,1,16.</ls> <ls n="ŚAT. BR.">13,2,11,2</ls>)¦ <lex>Adj.</lex> {%mit vorangehendem%} <is>Svāhā</is> {%Rufe%}.
+;---------------------------------------------------
+; <L>72244<pc>4-156-b<k1>praTamAham<k2>praTamAha/m
+297441 old {#praTamAha/m#}¦ <lex>Adv.</lex> {%am ersten Tage%} <ls>ŚAT. BR. 3,4,4,26. 10,2,5,13</ls>.
+;
+297441 new {#praTamAha/m#}¦ <lex>Adv.</lex> {%am ersten Tage%} <ls>ŚAT. BR. 3,4,4,26.</ls> <ls n="ŚAT. BR.">10,2,5,13</ls>.
+;---------------------------------------------------
+; <L>72277<pc>4-156-c<k1>pradaGos<k2>prada/Gos
+297559 old {#prada/Gos#}¦ wohl fehlerhaft für {#prada/Gas#} <ls>ŚAT. BR. 13,1,3,4. 2,1,6</ls>. Nach dem <ab>Comm.</ab> = {#pradagDos#}.
+;
+297559 new {#prada/Gos#}¦ wohl fehlerhaft für {#prada/Gas#} <ls>ŚAT. BR. 13,1,3,4.</ls> <ls n="ŚAT. BR. 13,">2,1,6</ls>. Nach dem <ab>Comm.</ab> = {#pradagDos#}.
+;---------------------------------------------------
+; <L>73557<pc>4-175-c<k1>prasuta<k2>pra/suta
+303074 old <div n="1">— 2〉 (wohl <lex>m.</lex>) [Page4-176-a] = {#savanIyaH paSuH#} <ls>ŚAT. BR. 3,8,2,27. 3,29</ls>. <ls>KĀTY. ŚR. 6,6,26.</ls> <ls n="KĀTY. ŚR. 6,">8,16</ls>.
+;
+303074 new <div n="1">— 2〉 (wohl <lex>m.</lex>) [Page4-176-a] = {#savanIyaH paSuH#} <ls>ŚAT. BR. 3,8,2,27.</ls> <ls n="ŚAT. BR. 3,8,">3,29</ls>. <ls>KĀTY. ŚR. 6,6,26.</ls> <ls n="KĀTY. ŚR. 6,">8,16</ls>.
+;---------------------------------------------------
+; <L>76328<pc>4-216-a<k1>bahudakziRa<k2>bahudakziRa/
+314439 old {#bahudakziRa/#}¦ <lex>Adj.</lex> {%mit reichlichem Opferlohn verbunden%} (Opfer) <ls>ŚAT. BR. 11,6,2,1. 14,6,1,1</ls>.
+;
+314439 new {#bahudakziRa/#}¦ <lex>Adj.</lex> {%mit reichlichem Opferlohn verbunden%} (Opfer) <ls>ŚAT. BR. 11,6,2,1.</ls> <ls n="ŚAT. BR.">14,6,1,1</ls>.
+;---------------------------------------------------
+; <L>78310<pc>4-242-c<k1>Ba<k2>Ba<h>1
+322390 old <div n="2">— a〉 {%Schein, Glanz, Licht%} <ls>VS. 30,12</ls>. <ls>ŚAT. BR. 9,4,1,9. 11,8,3,11</ls>. <ab>Pl.</ab> {%Lichtstrahlen%}.
+;
+322390 new <div n="2">— a〉 {%Schein, Glanz, Licht%} <ls>VS. 30,12</ls>. <ls>ŚAT. BR. 9,4,1,9.</ls> <ls n="ŚAT. BR.">11,8,3,11</ls>. <ab>Pl.</ab> {%Lichtstrahlen%}.
+;---------------------------------------------------
+; <L>78884<pc>4-252-a<k1>Barata<k2>Barata/
+325016 old <div n="3">— α〉 verschiedener Fürsten und auch anderer Manner <ls>ṚV. 5,54,14. 6,16,4. 7,8,4</ls>. <ls>ŚAT. BR. 6,8,1,14. 13,5,4,21</ls>.
+;
+325016 new <div n="3">— α〉 verschiedener Fürsten und auch anderer Manner <ls>ṚV. 5,54,14. 6,16,4. 7,8,4</ls>. <ls>ŚAT. BR. 6,8,1,14.</ls> <ls n="ŚAT. BR.">13,5,4,21</ls>.
+;---------------------------------------------------
+; <L>79127<pc>4-255-b<k1>Bavitos<k2>Ba/vitos
+326000 old {#Ba/vitos#}¦ <ab>Gen.</ab> <ab>Abl.</ab> <ab>Infin.</ab> zu <hom>1.</hom> {#BU#} <ls>MAITR. S. 2,5,9</ls>. <ls>ŚAT. BR. 3,2,1,31. 9,5,2,3</ls>. <ls>AIT. ĀR. 236,4</ls>.
+;
+326000 new {#Ba/vitos#}¦ <ab>Gen.</ab> <ab>Abl.</ab> <ab>Infin.</ab> zu <hom>1.</hom> {#BU#} <ls>MAITR. S. 2,5,9</ls>. <ls>ŚAT. BR. 3,2,1,31.</ls> <ls n="ŚAT. BR.">9,5,2,3</ls>. <ls>AIT. ĀR. 236,4</ls>.
+;---------------------------------------------------
+; <L>80521<pc>4-278-c<k1>BUmijozaRa<k2>BUmijozaRa/
+332524 old {#BUmijozaRa/#}¦ <lex>n.</lex> {%die Wahl des Bodens%} <ls>ŚAT. BR. 13,8,1,6. 4,11</ls>. <ls>PĀR. GṚHY. 3,10,10</ls>.
+;
+332524 new {#BUmijozaRa/#}¦ <lex>n.</lex> {%die Wahl des Bodens%} <ls>ŚAT. BR. 13,8,1,6.</ls> <ls n="ŚAT. BR. 13,8,">4,11</ls>. <ls>PĀR. GṚHY. 3,10,10</ls>.
+;---------------------------------------------------
+; <L>82071<pc>5-010-c<k1>maT<k2>maT<h>1
+339180 old <div n="1">— 1〉 <ab>Med.</ab> {%wegreissen, entreissen, wegnehmen%} <ls>TS. 3,5,4,3</ls>. <ls>ŚAT. BR. 2,5,1,12. 13. 3,24. 26</ls>.
+;
+339180 new <div n="1">— 1〉 <ab>Med.</ab> {%wegreissen, entreissen, wegnehmen%} <ls>TS. 3,5,4,3</ls>. <ls>ŚAT. BR. 2,5,1,12.</ls> <ls n="ŚAT. BR. 2,5,1,">13.</ls> <ls n="ŚAT. BR. 2,5,">3,24.</ls> <ls n="ŚAT. BR. 2,5,3,">26</ls>.
+;---------------------------------------------------
+; <L>89543<pc>5-117-a<k1>yajYarUpa<k2>yajYarUpa/<h>1
+370451 old <hom>1.</hom> {#yajYarUpa/#}¦ <lex>n.</lex> {%Opferform, Opferattribut%} <ls>ŚAT. BR. 5,3,5,20. 12,8,2,15</ls>. <ls>KĀTY. ŚR. 15,5,11</ls>. {#°Dfk#} als <ab>Beiw.</ab> <is>Kṛṣṇa</is>ʼs <ls>PAÑCAR. 4,8,26</ls>.
+;
+370451 new <hom>1.</hom> {#yajYarUpa/#}¦ <lex>n.</lex> {%Opferform, Opferattribut%} <ls>ŚAT. BR. 5,3,5,20.</ls> <ls n="ŚAT. BR.">12,8,2,15</ls>. <ls>KĀTY. ŚR. 15,5,11</ls>. {#°Dfk#} als <ab>Beiw.</ab> <is>Kṛṣṇa</is>ʼs <ls>PAÑCAR. 4,8,26</ls>.
+;---------------------------------------------------
+; <L>89971<pc>5-123-b<k1>yaTArUpa<k2>yaTArUpa
+372145 old <div n="2">— a〉 {%in passender Weise, angemessen, richtig, wahr%} <ls>ŚAT. BR. 6,2,1,19. 7,1,1,20</ls>.
+;
+372145 new <div n="2">— a〉 {%in passender Weise, angemessen, richtig, wahr%} <ls>ŚAT. BR. 6,2,1,19.</ls> <ls n="ŚAT. BR.">7,1,1,20</ls>.
+;---------------------------------------------------
+; <L>90119<pc>5-125-b<k1>yaTezwi<k2>yaTe/zwi
+372709 old {#yaTe/zwi#}¦ <lex>Adv.</lex> {%dem%} {#izwi#} {%genannten Opfer entsprechend%} <ls>ŚAT. BR. 5,2,3,6. 4,5,16. 11,1,3,1</ls>.
+;
+372709 new {#yaTe/zwi#}¦ <lex>Adv.</lex> {%dem%} {#izwi#} {%genannten Opfer entsprechend%} <ls>ŚAT. BR. 5,2,3,6.</ls> <ls n="ŚAT. BR. 5,">4,5,16.</ls> <ls n="ŚAT. BR.">11,1,3,1</ls>.
+;---------------------------------------------------
+; <L>94207<pc>5-189-c<k1>ric<k2>ric
+390494 old <div n="p">— Mit {#aByati#} <ab>Med.</ab> <ab>Pass.</ab> {%zu Gunsten von Jmd oder Etwas%} (<ab>Acc.</ab>) {%übrigbleiben, Jmd oder Etwas zu Gute kommen%} <ls>MAITR. S. 2,2,13</ls>. <ls>KĀṬH. 26,4</ls>. <ls>TS. 2,3,4,1. 7,1,5,6</ls>. <ls>TBR. 1,2,5,3. 4,5,1</ls>. <ls>ŚAT. BR. 1,9,1,18. 3,9,2,34. 11,1,2,5</ls>. <ls>KĀTY. ŚR. 25,13,17</ls>. <ls>TĀṆḌYA-BR. 9,7,2</ls>.
+;
+390494 new <div n="p">— Mit {#aByati#} <ab>Med.</ab> <ab>Pass.</ab> {%zu Gunsten von Jmd oder Etwas%} (<ab>Acc.</ab>) {%übrigbleiben, Jmd oder Etwas zu Gute kommen%} <ls>MAITR. S. 2,2,13</ls>. <ls>KĀṬH. 26,4</ls>. <ls>TS. 2,3,4,1. 7,1,5,6</ls>. <ls>TBR. 1,2,5,3. 4,5,1</ls>. <ls>ŚAT. BR. 1,9,1,18.</ls> <ls n="ŚAT. BR.">3,9,2,34.</ls> <ls n="ŚAT. BR.">11,1,2,5</ls>. <ls>KĀTY. ŚR. 25,13,17</ls>. <ls>TĀṆḌYA-BR. 9,7,2</ls>.
+;---------------------------------------------------
+; <L>94308<pc>5-191-c<k1>rukmapuruza<k2>rukmapuruza/
+390980 old {#rukmapuruza/#}¦ <lex>m.</lex> <ab>Du.</ab> <ab>Bez.</ab> {%bestimmter Backsteine%} <ls>ŚAT. BR. 6,1,2,30. 10,4,2,14. 5,5,10</ls>. <ab>Vgl.</ab> <ls n="ŚAT. BR.">8,7,4,8. 10,4,1,6. 5,2,7. 21. 4,15</ls>.
+;
+390980 new {#rukmapuruza/#}¦ <lex>m.</lex> <ab>Du.</ab> <ab>Bez.</ab> {%bestimmter Backsteine%} <ls>ŚAT. BR. 6,1,2,30.</ls> <ls n="ŚAT. BR.">10,4,2,14.</ls> <ls n="ŚAT. BR. 10,">5,5,10</ls>. <ab>Vgl.</ab> <ls n="ŚAT. BR.">8,7,4,8.</ls> <ls n="ŚAT. BR.">10,4,1,6.</ls> <ls n="ŚAT. BR. 10,">5,2,7.</ls> <ls n="ŚAT. BR. 10,5,2,">21.</ls> <ls n="ŚAT. BR. 10,5,">4,15</ls>.
+;---------------------------------------------------
+; <L>94552<pc>5-195-c<k1>ruD<k2>ruD<h>2
+392077 old <div n="1">— 14〉 {%einbüssen, verlieren%} <ls>TS. 2,6,8,5</ls> <ls>ŚAT. BR. 12,4,1,4. 3,8. 5,1,17. 14,4,2,19</ls> (<ls>Chr. 32,8</ls>).
+;
+392077 new <div n="1">— 14〉 {%einbüssen, verlieren%} <ls>TS. 2,6,8,5</ls> <ls>ŚAT. BR. 12,4,1,4.</ls> <ls n="ŚAT. BR. 12,4,">3,8.</ls> <ls n="ŚAT. BR. 12,">5,1,17.</ls> <ls n="ŚAT. BR.">14,4,2,19</ls> (<ls>Chr. 32,8</ls>).
+;---------------------------------------------------
+; <L>95245<pc>5-208-b<k1>rOhiRakapAla<k2>rOhiRakapAla/
+395421 old {#rOhiRakapAla/#}¦ <lex>n.</lex> {%die für die%} <is>Rauhiṇa</is>-{%Fladen bestimmte Schüssel%} <ls>ŚAT. BR. 14,1,2,17. 19. fgg. 3,1</ls>.
+;
+395421 new {#rOhiRakapAla/#}¦ <lex>n.</lex> {%die für die%} <is>Rauhiṇa</is>-{%Fladen bestimmte Schüssel%} <ls>ŚAT. BR. 14,1,2,17.</ls> <ls n="ŚAT. BR. 14,1,2,">19. fgg.</ls> <ls n="ŚAT. BR. 14,1,">3,1</ls>.
+;---------------------------------------------------
+; <L>95246<pc>5-208-b<k1>rOhiRahavanI<k2>rOhiRaha/vanI
+395424 old {#rOhiRaha/vanI#}¦ <lex>f.</lex> {%der für die%} <is>Rauhiṇa</is>-{%Fladen bestimmte Löffel%} <ls>ŚAT. BR. 14,1,3,1. 3,1,20</ls>. <ls>KĀTY. ŚR. 26,2,10.</ls> <ls n="KĀTY. ŚR. 26,">7,18</ls>.
+;
+395424 new {#rOhiRaha/vanI#}¦ <lex>f.</lex> {%der für die%} <is>Rauhiṇa</is>-{%Fladen bestimmte Löffel%} <ls>ŚAT. BR. 14,1,3,1.</ls> <ls n="ŚAT. BR. 14,">3,1,20</ls>. <ls>KĀTY. ŚR. 26,2,10.</ls> <ls n="KĀTY. ŚR. 26,">7,18</ls>.
+;---------------------------------------------------
+; <L>96704<pc>5-235-b<k1>lokEzaRA<k2>lokEzaRA/
+402275 old {#lokEzaRA/#}¦ <lex>f.</lex> {%das Verlangen nach dem Himmel%} <ls>ŚAT. BR. 14,6,4,1. 7,2,26</ls>. <ls>ŚAṂK. zu BĀDAR. 3,4,9</ls>. <ls>Comm. zu NYĀYAS. 4,1,62</ls>.
+;
+402275 new {#lokEzaRA/#}¦ <lex>f.</lex> {%das Verlangen nach dem Himmel%} <ls>ŚAT. BR. 14,6,4,1.</ls> <ls n="ŚAT. BR. 14,">7,2,26</ls>. <ls>ŚAṂK. zu BĀDAR. 3,4,9</ls>. <ls>Comm. zu NYĀYAS. 4,1,62</ls>.
+;---------------------------------------------------
+; <L>96943<pc>5-238-c<k1>lohita<k2>lo/hita
+403266 old <div n="2">— a〉 {%rother Stoff%} <ls>ŚAT. BR. 14,7,1,20. 2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;
+403266 new <div n="2">— a〉 {%rother Stoff%} <ls>ŚAT. BR. 14,7,1,20.</ls> <ls n="ŚAT. BR. 14,7,">2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;---------------------------------------------------
+; <L>99039<pc>6-038-b<k1>varzASarad<k2>varzASara/d
+413470 old {#varzASara/d#}¦ <lex>f.</lex> <ab>Du.</ab> {%die Regenzeit und der Herbst%} <ls>ŚAT. BR. 8,3,2,7. 8. 12,8,2,34</ls> ({#°SaradO/#}) <ls n="ŚAT. BR.">13,6,1,10</ls>.
+;
+413470 new {#varzASara/d#}¦ <lex>f.</lex> <ab>Du.</ab> {%die Regenzeit und der Herbst%} <ls>ŚAT. BR. 8,3,2,7.</ls> <ls n="ŚAT. BR. 8,3,2,">8.</ls> <ls n="ŚAT. BR.">12,8,2,34</ls> ({#°SaradO/#}) <ls n="ŚAT. BR.">13,6,1,10</ls>.
+;---------------------------------------------------
+; <L>99689<pc>6-050-c<k1>vahas<k2>va/has
+416542 old {#va/has#}¦ <lex>n.</lex> <ab>v. l.</ab> der <ls>KĀṆVA-REC.</ls> für {#vaha/#} 2〉a〉 <ls>ŚAT. BR. 1,1,2,9. 2,2,3,28. 4,5,1,15</ls> nach <ls>EGGELING</ls>.
+;
+416542 new {#va/has#}¦ <lex>n.</lex> <ab>v. l.</ab> der <ls>KĀṆVA-REC.</ls> für {#vaha/#} 2〉a〉 <ls>ŚAT. BR. 1,1,2,9.</ls> <ls n="ŚAT. BR.">2,2,3,28.</ls> <ls n="ŚAT. BR.">4,5,1,15</ls> nach <ls>EGGELING</ls>.
+;---------------------------------------------------
+; <L>101805<pc>6-079-c<k1>vikrAnti<k2>vi/krAnti
+425239 old <div n="1">— 1〉 {%die Macht Alles zu durchschreiten, — überallhin zu gelangen%} <ls>TS. 2,5,6,2. 5,3,1,4</ls>. <ls>TBR. 1,4,9,5</ls>. <ls>ŚAT. BR. 1,1,2,13. 9,3,9. 3,6,3,3</ls>.
+;
+425239 new <div n="1">— 1〉 {%die Macht Alles zu durchschreiten, — überallhin zu gelangen%} <ls>TS. 2,5,6,2. 5,3,1,4</ls>. <ls>TBR. 1,4,9,5</ls>. <ls>ŚAT. BR. 1,1,2,13.</ls> <ls n="ŚAT. BR. 1,">9,3,9.</ls> <ls n="ŚAT. BR.">3,6,3,3</ls>.
+;---------------------------------------------------
+; <L>101860<pc>6-080-c<k1>vikzobDos<k2>vi/kzobDos
+425470 old {#vi/kzobDos#}¦ <ab>Gen.</ab> <ab>Infin.</ab> zu <hom>1.</hom> {#kzuB#} mit {#vi#} <ls>ŚAT. BR. 1,1,2,22. 2,4,1,14</ls>.
+;
+425470 new {#vi/kzobDos#}¦ <ab>Gen.</ab> <ab>Infin.</ab> zu <hom>1.</hom> {#kzuB#} mit {#vi#} <ls>ŚAT. BR. 1,1,2,22.</ls> <ls n="ŚAT. BR.">2,4,1,14</ls>.
+;---------------------------------------------------
+; <L>102220<pc>6-086-a<k1>vijita<k2>vi/jita
+426990 old <div n="2">— a〉 {%ein erobertes Land%} <ls>ŚAT. BR. 1,5,3,21. 4,3,2,5. 16</ls>. <ls>LĀṬY. 9,10,7</ls>.
+;
+426990 new <div n="2">— a〉 {%ein erobertes Land%} <ls>ŚAT. BR. 1,5,3,21.</ls> <ls n="ŚAT. BR.">4,3,2,5.</ls> <ls n="ŚAT. BR. 4,3,2,">16</ls>. <ls>LĀṬY. 9,10,7</ls>.
+;---------------------------------------------------
+; <L>102509<pc>6-090-a<k1>vittEzaRA<k2>vittEzaRA/
+428129 old {#vittEzaRA/#}¦ <lex>f.</lex> <ab>dass.</ab> <ls>ŚAT. BR. 14,6,4,1. 7,2,26</ls>. <ls>ŚAṂK. zu BĀDAR. 3,4,9</ls>.
+;
+428129 new {#vittEzaRA/#}¦ <lex>f.</lex> <ab>dass.</ab> <ls>ŚAT. BR. 14,6,4,1.</ls> <ls n="ŚAT. BR. 14,">7,2,26</ls>. <ls>ŚAṂK. zu BĀDAR. 3,4,9</ls>.
+;---------------------------------------------------
+; <L>102900<pc>6-096-b<k1>viDA<k2>viDA/
+429869 old <div n="1">— 1〉 {%Theil%} <ls>ŚAT. BR. 10,2,3,6. 11. 4,3. 6,1. 10</ls>. <ls>ŚULBAS. 2,4. 9</ls>. Häufig am Ende eines <ab>adj. Comp.</ab> nach einem Zahlwort in der <ab>Bed.</ab> {%-fach%}. Auch <lex>Adv.</lex> in {#tri°#} und {#dvi°#}.
+;
+429869 new <div n="1">— 1〉 {%Theil%} <ls>ŚAT. BR. 10,2,3,6.</ls> <ls n="ŚAT. BR. 10,2,3,">11.</ls> <ls n="ŚAT. BR. 10,2,">4,3.</ls> <ls n="ŚAT. BR. 10,2,">6,1.</ls> <ls n="ŚAT. BR. 10,2,6,">10</ls>. <ls>ŚULBAS. 2,4. 9</ls>. Häufig am Ende eines <ab>adj. Comp.</ab> nach einem Zahlwort in der <ab>Bed.</ab> {%-fach%}. Auch <lex>Adv.</lex> in {#tri°#} und {#dvi°#}.
+;---------------------------------------------------
+; <L>103293<pc>6-102-b<k1>viparikrAmam<k2>viparikrA/mam
+431493 old {#viparikrA/mam#}¦ <ab>Absol.</ab> {%rings herumschreitend%} <ls>ŚAT. BR. 7,5,2,30. 9,4,2,10</ls>.
+;
+431493 new {#viparikrA/mam#}¦ <ab>Absol.</ab> {%rings herumschreitend%} <ls>ŚAT. BR. 7,5,2,30.</ls> <ls n="ŚAT. BR.">9,4,2,10</ls>.
+;---------------------------------------------------
+; <L>106245<pc>6-147-a<k1>vfkaloman<k2>vfkaloma/n
+444138 old {#vfkaloma/n#}¦ <lex>n.</lex> {%Wolfshaar%} <ls>ŚAT. BR. 5,5,4,18. 12,9,1,6</ls>.
+;
+444138 new {#vfkaloma/n#}¦ <lex>n.</lex> {%Wolfshaar%} <ls>ŚAT. BR. 5,5,4,18.</ls> <ls n="ŚAT. BR.">12,9,1,6</ls>.
+;---------------------------------------------------
+; <L>109943<pc>6-201-a<k1>SatavitfRRa<k2>Sata/vitfRRa
+459546 old {#Sata/vitfRRa#}¦ <lex>Adj.</lex> {%an hundert Stellen durchlöchert%} <ls>ŚAT. BR. 5,4,1,13. 5,4,27</ls>.
+;
+459546 new {#Sata/vitfRRa#}¦ <lex>Adj.</lex> {%an hundert Stellen durchlöchert%} <ls>ŚAT. BR. 5,4,1,13.</ls> <ls n="ŚAT. BR. 5,">5,4,27</ls>.
+;---------------------------------------------------
+; <L>110005<pc>6-202-a<k1>SatAtirAtra<k2>SatA/tirAtra
+459794 old {#SatA/tirAtra#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit hundert%} <is>Atirātra</is> {%verbunden%} <ls>ŚAT. BR. 11,5,5,5. 6</ls>. <ls>KĀTY. ŚR. 24,3,37</ls>.
+;
+459794 new {#SatA/tirAtra#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit hundert%} <is>Atirātra</is> {%verbunden%} <ls>ŚAT. BR. 11,5,5,5.</ls> <ls n="ŚAT. BR. 11,5,5,">6</ls>. <ls>KĀTY. ŚR. 24,3,37</ls>.
+;---------------------------------------------------
+; <L>110020<pc>6-202-a<k1>SatAyu<k2>SatA/yu
+459857 old {#SatA/yu#}¦ <lex>Adj.</lex> {%hundert Jahre alt werdend%} <ls>ŚAT. BR. 4,3,4,3. 7,5,2,17</ls>.
+;
+459857 new {#SatA/yu#}¦ <lex>Adj.</lex> {%hundert Jahre alt werdend%} <ls>ŚAT. BR. 4,3,4,3.</ls> <ls n="ŚAT. BR.">7,5,2,17</ls>.
+;---------------------------------------------------
+; <L>112826<pc>6-240-a<k1>Siz<k2>Siz<h>3
+471439 old <hom>3.</hom> √{#Siz#}¦, {#Sinazwi, SiMzati#} {%übrig lassen%}. {#°Si/zyate#} (<ls>TBR. 1,1,9,3. 3,7,6,20</ls>) und <ab>Pass.</ab> {#°Sizya/te#} (<ls>ŚAT. BR. 1,3,3,4. 3,8,2,5. 13,1,1,1</ls>) <ab>intrans.</ab> Das Simplex {%übrig bleiben%} nur in der klassischen Sprache; mit {#na#} {%mangeln, fehlen%}. {#Sizye#} <ls>MBH. 2,55,20</ls> (<ls>MBH. ed. Vardh. 2,54,20</ls>. <ls>MBH. ed. Calc. 2,1964</ls>) fehlerhaft für {#Sezye#} (von <hom>2.</hom> {#SI#}); {#na Sizyati#} <ls>MĀRK. P. 51,113</ls> fehlerhaft für {#naSizyati#}. <ab>Partic.</ab> {#Sizwa/#} {%übrig gelassen, — geblieben, übrig%} <ls>AV. 2,29,4. 31,3. 3,5,4. 5,26,4</ls>. <ls>Chr. 66,26</ls>. {#nAlaSizwa#} {%von dem nur der Stengel übrig geblieben ist,%} {#hataSizwa#} <ab>Pl.</ab> so <ab>v. a.</ab> {%dem Gemetzel entronnen,%} {#hftasizwa#} <lex>Adj.</lex> so <ab>v. a.</ab> {%vom Raube verschont geblieben%}.
+;
+471439 new <hom>3.</hom> √{#Siz#}¦, {#Sinazwi, SiMzati#} {%übrig lassen%}. {#°Si/zyate#} (<ls>TBR. 1,1,9,3. 3,7,6,20</ls>) und <ab>Pass.</ab> {#°Sizya/te#} (<ls>ŚAT. BR. 1,3,3,4.</ls> <ls n="ŚAT. BR.">3,8,2,5.</ls> <ls n="ŚAT. BR.">13,1,1,1</ls>) <ab>intrans.</ab> Das Simplex {%übrig bleiben%} nur in der klassischen Sprache; mit {#na#} {%mangeln, fehlen%}. {#Sizye#} <ls>MBH. 2,55,20</ls> (<ls>MBH. ed. Vardh. 2,54,20</ls>. <ls>MBH. ed. Calc. 2,1964</ls>) fehlerhaft für {#Sezye#} (von <hom>2.</hom> {#SI#}); {#na Sizyati#} <ls>MĀRK. P. 51,113</ls> fehlerhaft für {#naSizyati#}. <ab>Partic.</ab> {#Sizwa/#} {%übrig gelassen, — geblieben, übrig%} <ls>AV. 2,29,4. 31,3. 3,5,4. 5,26,4</ls>. <ls>Chr. 66,26</ls>. {#nAlaSizwa#} {%von dem nur der Stengel übrig geblieben ist,%} {#hataSizwa#} <ab>Pl.</ab> so <ab>v. a.</ab> {%dem Gemetzel entronnen,%} {#hftasizwa#} <lex>Adj.</lex> so <ab>v. a.</ab> {%vom Raube verschont geblieben%}.
+;---------------------------------------------------
+; <L>113239<pc>6-246-b<k1>Sukra<k2>Sukra/
+473219 old <div n="2">— e〉 {%ein <ab>best.</ab> Bechervoll mit%} <is>Soma</is>. {#SukrA/gra#} <lex>Adj.</lex> <ls>ŚAT. BR. 4,5,9,4. 6. 13</ls>.
+;
+473219 new <div n="2">— e〉 {%ein <ab>best.</ab> Bechervoll mit%} <is>Soma</is>. {#SukrA/gra#} <lex>Adj.</lex> <ls>ŚAT. BR. 4,5,9,4.</ls> <ls n="ŚAT. BR. 4,5,9,">6.</ls> <ls n="ŚAT. BR. 4,5,9,">13</ls>.
+;---------------------------------------------------
+; <L>113251<pc>6-246-c<k1>SukrapAtra<k2>SukrapAtra/
+473279 old {#SukrapAtra/#}¦ <lex>n.</lex> {%das Gefäss für den%} <is>Graha</is> <is>Śukra</is> <ls>ŚAT. BR. 4,3,1,26. 3,17. 5,5,7</ls>.
+;
+473279 new {#SukrapAtra/#}¦ <lex>n.</lex> {%das Gefäss für den%} <is>Graha</is> <is>Śukra</is> <ls>ŚAT. BR. 4,3,1,26.</ls> <ls n="ŚAT. BR. 4,3,">3,17.</ls> <ls n="ŚAT. BR. 4,">5,5,7</ls>.
+;---------------------------------------------------
+; <L>113285<pc>6-247-a<k1>Sukla<k2>Sukla/
+473425 old <div n="2">— b〉 {%etwas Weisses, weisser Fleck, weisser Stoff%} <ls>ŚAT. BR. 14,7,1,20. 2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;
+473425 new <div n="2">— b〉 {%etwas Weisses, weisser Fleck, weisser Stoff%} <ls>ŚAT. BR. 14,7,1,20.</ls> <ls n="ŚAT. BR. 14,7,">2,12</ls>. <ls>CHĀND. UP. 8,6,1</ls>.
+;---------------------------------------------------
+; <L>117415<pc>7-015-c<k1>saMkartam<k2>saMka/rtam
+490536 old {#saMka/rtam#}¦ <ab>Absol.</ab> {%zerschneidend%} <ls>ŚAT. BR. 11,6,1,4. 9</ls>.
+;
+490536 new {#saMka/rtam#}¦ <ab>Absol.</ab> {%zerschneidend%} <ls>ŚAT. BR. 11,6,1,4.</ls> <ls n="ŚAT. BR. 11,6,1,">9</ls>.
+;---------------------------------------------------
+; <L>119376<pc>7-047-c<k1>saptakapAla<k2>sapta/kapAla
+498837 old {#sapta/kapAla#}¦ <lex>Adj.</lex> {%auf sieben Schalen befindlich%} <ls>ŚAT. BR. 2,5,1,12. 5,3,1,6</ls>.
+;
+498837 new {#sapta/kapAla#}¦ <lex>Adj.</lex> {%auf sieben Schalen befindlich%} <ls>ŚAT. BR. 2,5,1,12.</ls> <ls n="ŚAT. BR.">5,3,1,6</ls>.
+;---------------------------------------------------
+; <L>119465<pc>7-048-c<k1>saptapuruza<k2>saptapuruza
+499167 old {#saptapuruza#}¦ <lex>Adj.</lex> {%aus sieben%} (□-) {%Manneslängen bestehend%} (<ls>ŚAT. BR. 6,1,1,6. 10,2,2,5</ls>).
+;
+499167 new {#saptapuruza#}¦ <lex>Adj.</lex> {%aus sieben%} (□-) {%Manneslängen bestehend%} (<ls>ŚAT. BR. 6,1,1,6.</ls> <ls n="ŚAT. BR.">10,2,2,5</ls>).
+;---------------------------------------------------
+; <L>120277<pc>7-060-a<k1>samAnadevatya<k2>samAnadevatya/
+502146 old {#samAnadevatya/#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A^#}) <ab>dass.</ab> <ls>ŚAT. BR. 12,8,2,18. 35,9,1,10</ls>.
+;
+502146 new {#samAnadevatya/#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A^#}) <ab>dass.</ab> <ls>ŚAT. BR. 12,8,2,18.</ls> <ls n="ŚAT. BR.">35,9,1,10</ls>.
+;---------------------------------------------------
+; <L>120294<pc>7-060-b<k1>samAnaBft<k2>samAnaBf/t
+502197 old {#samAnaBf/t#}¦ <lex>f.</lex> <ab>Bez.</ab> {%bestimmter Backsteine%} <ls>ŚAT. BR. 8,1,3,6. 7</ls>.
+;
+502197 new {#samAnaBf/t#}¦ <lex>f.</lex> <ab>Bez.</ab> {%bestimmter Backsteine%} <ls>ŚAT. BR. 8,1,3,6.</ls> <ls n="ŚAT. BR. 8,1,3,">7</ls>.
+;---------------------------------------------------
+; <L>120320<pc>7-060-c<k1>samAnasaMbanDana<k2>samAna/saMbanDana
+502286 old {#samAna/saMbanDana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%auf gleiche Weise zusammenhängend%} <ls>ŚAT. BR. 7,4,2,4. 5,2,62</ls>.
+;
+502286 new {#samAna/saMbanDana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%auf gleiche Weise zusammenhängend%} <ls>ŚAT. BR. 7,4,2,4.</ls> <ls n="ŚAT. BR. 7,">5,2,62</ls>.
+;---------------------------------------------------
+; <L>120470<pc>7-062-c<k1>samAsam<k2>samA/sam
+502853 old {#samA/sam#}¦ <ab>Absol.</ab> mit <ab>Acc.</ab> {%verbindend, aneinander reihend, vereinigend%} <ls>ŚAT. BR. 4,1,2,26. 12,8,3,14</ls>.
+;
+502853 new {#samA/sam#}¦ <ab>Absol.</ab> mit <ab>Acc.</ab> {%verbindend, aneinander reihend, vereinigend%} <ls>ŚAT. BR. 4,1,2,26.</ls> <ls n="ŚAT. BR.">12,8,3,14</ls>.
+;---------------------------------------------------
+; <L>120528<pc>7-063-b<k1>samidDahoma<k2>samidDahoma/
+503073 old {#samidDahoma/#}¦ <lex>m.</lex> {%eine auf brennendes Holz ausgegossene Spende%} <ls>ŚAT. BR. 1,5,2,7. 2,3,1,17</ls>.
+;
+503073 new {#samidDahoma/#}¦ <lex>m.</lex> {%eine auf brennendes Holz ausgegossene Spende%} <ls>ŚAT. BR. 1,5,2,7.</ls> <ls n="ŚAT. BR.">2,3,1,17</ls>.
+;---------------------------------------------------
+; <L>123222<pc>7-104-a<k1>sahasrArha<k2>sahasrA/rha
+514071 old {#sahasrA/rha#}¦ <lex>Adj.</lex> {%tausend%} (Kühe) {%werth%} <ls>ŚAT. BR. 14,4,2,1. 2</ls>.
+;
+514071 new {#sahasrA/rha#}¦ <lex>Adj.</lex> {%tausend%} (Kühe) {%werth%} <ls>ŚAT. BR. 14,4,2,1.</ls> <ls n="ŚAT. BR. 14,4,2,">2</ls>.
+;---------------------------------------------------
+; <L>124907<pc>7-128-a<k1>siMhaloman<k2>siMhaloma/n
+520799 old {#siMhaloma/n#}¦ <lex>n.</lex> {%Löwenhaar%} <ls>ŚAT. BR. 5,5,4,18. 12,7,2,8. 9,1,6</ls>.
+;
+520799 new {#siMhaloma/n#}¦ <lex>n.</lex> {%Löwenhaar%} <ls>ŚAT. BR. 5,5,4,18.</ls> <ls n="ŚAT. BR.">12,7,2,8.</ls> <ls n="ŚAT. BR. 12,">9,1,6</ls>.
+;---------------------------------------------------
+; <L>125605<pc>7-138-a<k1>su<k2>su<h>2
+523894 old <hom>2.</hom> √{#su#}¦ = <hom>1.</hom> {#sU#}. Davon {#sOti#} (erst <ls>ŚAT. BR.</ls>) und {#suhi#} (<ab>v. l.</ab> {#sUhi#}). <ab>Partic.</ab> {#suta/#} {%veranlasst, angetrieben%} (<ls>ŚAT. BR. 9,3,4,5. 4,3,12. 13</ls>).
+;
+523894 new <hom>2.</hom> √{#su#}¦ = <hom>1.</hom> {#sU#}. Davon {#sOti#} (erst <ls>ŚAT. BR.</ls>) und {#suhi#} (<ab>v. l.</ab> {#sUhi#}). <ab>Partic.</ab> {#suta/#} {%veranlasst, angetrieben%} (<ls>ŚAT. BR. 9,3,4,5.</ls> <ls n="ŚAT. BR. 9,">4,3,12.</ls> <ls n="ŚAT. BR. 9,4,3,">13</ls>).
+;---------------------------------------------------
+; <L>130874<pc>7-207-a<k1>sTA<k2>sTA<h>1
+545648 old <div n="2">— b〉 {%fertig, vollendet%} <ls>ŚAT. BR. 3,5,3,25. 6,1,25</ls>. <ls>GOBH. 1,3,16</ls>.
+;
+545648 new <div n="2">— b〉 {%fertig, vollendet%} <ls>ŚAT. BR. 3,5,3,25.</ls> <ls n="ŚAT. BR. 3,">6,1,25</ls>. <ls>GOBH. 1,3,16</ls>.
+;---------------------------------------------------
+; <L>133572<pc>7-254-b<k1>har<k2>har<h>1
+558052 old <div n="1">— 6〉 {%bei Seite legen, aufbewahren für%} (<ab>Dat.</ab>) <ls>ŚAT. BR. 1,7,1,6. 12</ls>. Citat im <ls>Comm. zu NYĀYAM. 10,2,5</ls>.
+;
+558052 new <div n="1">— 6〉 {%bei Seite legen, aufbewahren für%} (<ab>Dat.</ab>) <ls>ŚAT. BR. 1,7,1,6.</ls> <ls n="ŚAT. BR. 1,7,1,">12</ls>. Citat im <ls>Comm. zu NYĀYAM. 10,2,5</ls>.
+;---------------------------------------------------
+; <L>133689<pc>7-259-b<k1>harita<k2>ha/rita
+558723 old <div n="2">— a〉 {%gelblicher oder grünlicher Stoff%} <ls>ŚAT. BR. 14,7,1,20. 2,12</ls>.
+;
+558723 new <div n="2">— a〉 {%gelblicher oder grünlicher Stoff%} <ls>ŚAT. BR. 14,7,1,20.</ls> <ls n="ŚAT. BR. 14,7,">2,12</ls>.
+;---------------------------------------------------
+; <L>134064<pc>7-264-c<k1>havirAtaYcana<k2>havirAta/Ycana
+560367 old {#havirAta/Ycana#}¦ <lex>n.</lex> {%Lab |<sic/> zum%} <is>Havis</is> <ls>ŚAT. BR. 11,1,4,1. 12,4,2,8</ls>. <ls>KĀTY. ŚR. 25,4,38</ls>.
+;
+560367 new {#havirAta/Ycana#}¦ <lex>n.</lex> {%Lab |<sic/> zum%} <is>Havis</is> <ls>ŚAT. BR. 11,1,4,1.</ls> <ls n="ŚAT. BR.">12,4,2,8</ls>. <ls>KĀTY. ŚR. 25,4,38</ls>.
+;---------------------------------------------------
+; <L>134649<pc>7-274-b<k1>hinv<k2>hinv
+563001 old √{#hinv#}¦ {#hinvati#} {#prIRanAr(TaH)#}. Ist = <hom>1.</hom> {#hi#} und auch daraus weitergebildet; zu belegen {#hinvatu#} <ls>ṚV. 1,27,1</ls>. {#hi/nva#} <ls n="ṚV.">10,156,2</ls>. <ls>TS. 3,2,5,3</ls>. <ls>KĀTY. ŚR. 9,12,4</ls>. {#hinvati#} <ls>ŚAT. BR. 3,5,1,35. 14,1,2,19</ls>.
+;
+563001 new √{#hinv#}¦ {#hinvati#} {#prIRanAr(TaH)#}. Ist = <hom>1.</hom> {#hi#} und auch daraus weitergebildet; zu belegen {#hinvatu#} <ls>ṚV. 1,27,1</ls>. {#hi/nva#} <ls n="ṚV.">10,156,2</ls>. <ls>TS. 3,2,5,3</ls>. <ls>KĀTY. ŚR. 9,12,4</ls>. {#hinvati#} <ls>ŚAT. BR. 3,5,1,35.</ls> <ls n="ŚAT. BR.">14,1,2,19</ls>.
+;---------------------------------------------------

@@ -1,0 +1,25 @@
+; <L>18261<pc>105,1<k1>avasaBa<k2>a/va-saBa<e>1
+65384 old <s>a/va-saBa</s> ¦ only in <lex>mf(<s>A</s>)n.</lex>, excluded from a (husband's) company [<ls>Sāy.</ls>], fallen into wrong (<ab>i.e.</ab> into men's) company [<ls>NBD.</ls>], <ls>ŚBr. 3, 1, 1, 21.</ls><info lex="m:f#A:n"/>
+;
+65384 new <s>a/va-saBa</s> ¦ only in <lex>mf(<s>A</s>)n.</lex>, excluded from a (husband's) company [<ls>Sāy.</ls>], fallen into wrong (<ab>i.e.</ab> into men's) company [<ls>NBD.</ls>], <ls>ŚBr. iii, 1, 1, 21.</ls><info lex="m:f#A:n"/>
+;---------------------------------------------------
+; <L>71481<pc>386,1<k1>catvAriMSadakzara<k2>catvAriMSa/d-akzara<e>3
+242118 old <s>catvAriMSa/d-akzara</s> ¦ <lex>mf(<s>A</s>)n.</lex> consisting of 40 syllables, <ls n="ŚBr. ">xiii, 6, 1, 2</ls>.<info lex="m:f#A:n"/>
+;
+242118 new <s>catvAriMSa/d-akzara</s> ¦ <lex>mf(<s>A</s>)n.</lex> consisting of 40 syllables, <ls n="ŚBr.">xiii, 6, 1, 2</ls>.<info lex="m:f#A:n"/>
+;---------------------------------------------------
+; <L>75111<pc>402,3<k1>cElaki<k2>cE/laki<e>3
+253779 old <s>cE/laki</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>ce/laka</s> <ab>N.</ab> of <s1>Jīvala</s1>, <ls>ŚBr. ii, 3, i, 34.</ls><info lex="m"/>
+;
+253779 new <s>cE/laki</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>ce/laka</s> <ab>N.</ab> of <s1>Jīvala</s1>, <ls>ŚBr. ii, 3, 1, 34.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>79828<pc>423,2<k1>jIvana<k2>jI/vana<e>2
+268872 old <s>jI/vana</s> ¦ <lex>mf(<s>I</s>)n.</lex> vivifying, giving life, enlivening, <ls>ŚBr. ii, 3, i, 10</ls>; <ls>MBh.</ls> (said of wind, the sun, &c.; of <s1>Śiva</s1> <ls n="MBh.">xiii, 1236</ls>), <ls>BhP. x</ls>; <ls>Kathās.</ls><info lex="m:f#I:n"/>
+;
+268872 new <s>jI/vana</s> ¦ <lex>mf(<s>I</s>)n.</lex> vivifying, giving life, enlivening, <ls>ŚBr. ii, 3, 1, 10</ls>; <ls>MBh.</ls> (said of wind, the sun, &c.; of <s1>Śiva</s1> <ls n="MBh.">xiii, 1236</ls>), <ls>BhP. x</ls>; <ls>Kathās.</ls><info lex="m:f#I:n"/>
+;---------------------------------------------------
+; <L>88827<pc>463,1<k1>tryaNgula<k2>try—aNgula/<e>3
+298317 old <s>try—aNgula/</s> ¦ <lex>n.</lex> 3 fingers' breadth, <ls>ŚBr. iii, 3, 2, 4</ls> and <ls n="ŚBr.">7, 1, 25</ls><info lex="n"/>
+;
+298317 new <s>try—aNgula/</s> ¦ <lex>n.</lex> 3 fingers' breadth, <ls>ŚBr. iii, 3, 2, 4</ls> and <ls n="ŚBr. iii,">7, 1, 25</ls><info lex="n"/>
+;---------------------------------------------------
