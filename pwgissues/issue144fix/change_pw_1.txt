@@ -1,0 +1,60 @@
+; <L>1949<pc>1-023-b<k1>atimemiza<k2>a/timemiza
+7375 old {#a/timemiza#}¦ <lex>Adj.</lex> {%die Augen aufreissend, stier blickend%} <ls>TBR. 3,4,1. 19</ls>.
+;
+7375 new {#a/timemiza#}¦ <lex>Adj.</lex> {%die Augen aufreissend, stier blickend%} <ls>TBR. 3,4,1,19</ls>.
+;---------------------------------------------------
+; <L>16848<pc>1-203-c<k1>iD<k2>iD<h>1
+64580 old <div n="p">— Mit {#upasam#} <ab>dass.</ab> <ls>TBR. 2,1,1,8</ls>. — {#pratisam#} {%wider entzünden%}.
+;
+64580 new <div n="p">— Mit {#upasam#} <ab>dass.</ab> <ls>TBR. 2,1,3,8</ls>. — {#pratisam#} {%wider entzünden%}.
+;---------------------------------------------------
+; <L>63440<pc>4-033-b<k1>parasyA<k2>parasyA/
+261863 old {#parasyA/#}¦ <lex>m.</lex> <ls>TBR. 2,8,1,3. 3,27</ls>. Fehlerhaft für {#paraspA/#}. {#parasyA/yAH#} <ls>TAITT. ĀR. 4,11,2. 3</ls> fehlerhaft für {#paraspA/yE#}.
+;
+261863 new {#parasyA/#}¦ <lex>m.</lex> <ls>TBR. 2,8,1,3. 3,7</ls>. Fehlerhaft für {#paraspA/#}. {#parasyA/yAH#} <ls>TAITT. ĀR. 4,11,2. 3</ls> fehlerhaft für {#paraspA/yE#}.
+;---------------------------------------------------
+; <L>65759<pc>4-066-b<k1>pAtranirRega<k2>pAtranirRega/
+271423 old {#pAtranirRega/#}¦ <lex>m.</lex> {%Abwascher der Geschirre%} <ls>TBR. 3,4,18</ls>.
+;
+271423 new {#pAtranirRega/#}¦ <lex>m.</lex> {%Abwascher der Geschirre%} <ls>TBR. 3,4,1,8</ls>.
+;---------------------------------------------------
+; <L>72919<pc>4-166-b<k1>prayukti<k2>pra/yukti
+300292 old <div n="1">— 2〉 {%das in Thätigkeit Setzen, Anwendung%}. {#ta/sya pra/yukti#} so <ab>v. a.</ab> {#ta/sya pra/yuktyA#} <ls>TBR. 2,2,11,1-4</ls>.
+;
+300292 new <div n="1">— 2〉 {%das in Thätigkeit Setzen, Anwendung%}. {#ta/sya pra/yukti#} so <ab>v. a.</ab> {#ta/sya pra/yuktyA#} <ls>TBR. 2,2,11,1</ls>-<ls n="TBR. 2,2,11,">4</ls>.
+;---------------------------------------------------
+; <L>74278<pc>4-186-a<k1>prAtarveza<k2>prAtarveza/
+305988 old {#prAtarveza/#}¦ <lex>Adj.</lex> {%früh thätig%} <ls>TBR. 3,7,1,18</ls>.
+;
+305988 new {#prAtarveza/#}¦ <lex>Adj.</lex> {%früh thätig%} <ls>TBR. 3,7,4,18</ls>.
+;---------------------------------------------------
+; <L>90611<pc>5-134-b<k1>yA<k2>yA<h>1
+375109 old <div n="1">— 1〉 {%nach Jmd%} (<ab>Acc.</ab>) {%aufbrechen, Jmd begleiten%} <ls>TBR. 3,7,4,1,2</ls>. {#anuprayAta#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab>
+;
+375109 new <div n="1">— 1〉 {%nach Jmd%} (<ab>Acc.</ab>) {%aufbrechen, Jmd begleiten%} <ls>TBR. 3,7,4,1. 2</ls>. {#anuprayAta#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>117438<pc>7-016-a<k1>saMkalpajUti<k2>saMkalpa/jUti
+490629 old {#saMkalpa/jUti#}¦ <lex>Adj.</lex> {%von Wünschen vorwärts gedrängt%} <ls>TBR. 3,12,3. 4</ls>.
+;
+490629 new {#saMkalpa/jUti#}¦ <lex>Adj.</lex> {%von Wünschen vorwärts gedrängt%} <ls>TBR. 3,12,3,4</ls>.
+;---------------------------------------------------
+; <L>118646<pc>7-036-c<k1>sadyan<k2>sa/dyan
+495888 old {#sa/dyan#}¦ <lex>m.</lex> <ls>TBR. 2,8,6</ls>, fehlerhaft für {#sa/Gan#}.
+;
+495888 new {#sa/dyan#}¦ <lex>m.</lex> <ls>TBR. 2,8,6,1</ls>, fehlerhaft für {#sa/Gan#}.
+;---------------------------------------------------
+; <L>128372<pc>7-173-a<k1>susaMBft<k2>susaMBf/t
+535002 old {#susaMBf/t#}¦ <lex>f.</lex> {%richtiges Zusammenfassen%} <ls>TS. 1,1,2,2</ls>. <ls>TBR. 3,7,9</ls>.
+;
+535002 new {#susaMBf/t#}¦ <lex>f.</lex> {%richtiges Zusammenfassen%} <ls>TS. 1,1,2,2</ls>. <ls>TBR. 3,7,4,9</ls>.
+;---------------------------------------------------
+; <L>132130<pc>7-233-b<k1>svana<k2>sva/na<h>2
+551484 old <hom>2.</hom> {#sva/na#}¦ <lex>m.</lex> {%rauschende Wasser%} <ls>VS. 30,16</ls>. <ls>TBR. 3,4,1. 12</ls>.
+;
+551484 new <hom>2.</hom> {#sva/na#}¦ <lex>m.</lex> {%rauschende Wasser%} <ls>VS. 30,16</ls>. <ls>TBR. 3,4,1,12</ls>.
+;---------------------------------------------------
+; <L>205691<pc>4-299-c<k1>tApin<k2>tA\pi\n
+586273 old {#tA\pi\n#}¦ scheinbar <ls>TBR. 2,1,3?, 1</ls>. Es ist zu lesen {#upA^rama\tAtA^pi\#} (<ab>Aor.</ab>) {#vE#}.<info n="sup_4"/>
+;
+586273 new {#tA\pi\n#}¦ scheinbar <ls>TBR. 2,1,3,1</ls>. Es ist zu lesen {#upA^rama\tAtA^pi\#} (<ab>Aor.</ab>) {#vE#}.<info n="sup_4"/>
+;---------------------------------------------------

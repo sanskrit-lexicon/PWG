@@ -1,0 +1,2883 @@
+True	4	182436	krandya	<ls>TBR. 2,7,7,1.</ls>	
+True	4	183274	kram	<ls>TBR. 3,1,2,7.</ls>	
+True	4	183329	kram	<ls>TBR. 1,1,5,10.</ls>	
+True	4	183819	krayi	<ls>TBR. 1,7,8,6</ls>	
+True	4	184934	krumuka	<ls>TBR. 1,4,7,3.</ls>	
+True	4	185210	krUrakft	<ls>TBR. 1,4,6,5.</ls>	
+True	4	187185	kzattar	<ls>TBR. 1,7,3,5.</ls>	
+True	4	187241	kzatra	<ls>TBR. 2,4,7,7</ls>	
+True	4	187243	kzatra	<ls>TBR. 2,7,6,3.</ls>	
+True	4	187252	kzatra	<ls>TBR. 1,1,1,1.</ls>	
+True	4	187310	kzatrapati	<ls>TBR. 2,5,7,4.</ls>	
+fixed	4	187333	kzatraBft	<ls>TBR. 2,4,6,12. 7,6,3.</ls>	<ls>TBR. 2,4,6,12.</ls> <ls n="TBR. 2,">7,6,3.</ls>
+True	4	187435	kzatriya	<ls>TBR. 2,4,7,7.</ls>	
+True	4	188373	kzar	<ls>TBR. 1,8,9,1.</ls>	
+True	4	188563	kzA	<ls>TBR. 2,4,1,2.</ls>	
+fixed	4	189054	kzi	<ls>TBR. 3,1,1,7. 8.</ls>	<ls>TBR. 3,1,1,7.</ls> <ls n="TBR. 3,1,1,">8.</ls>
+True	4	189145	kzi	<ls>TBR. 1,6,3,3.</ls>	
+True	4	189146	kzi	<ls n="TBR. 1,">1,3,5.</ls>	
+True	4	189255	kzi	<ls>TBR. 1,1,3,5.</ls>	
+True	4	191086	kzudra	<ls>TBR. 3,1,2,12.</ls>	
+fixed	4	191643	kzuD	<ls>TBR. 2,2,7,3. 11,5.</ls>	<ls>TBR. 2,2,7,3.</ls> <ls n="TBR. 2,2,">11,5.</ls>
+True	4	191655	kzuD	<ls>TBR. 3,1,1,14.</ls>	
+True	4	191868	kzumant	<ls>TBR. 2,7,13,4.</ls>	
+True	4	192546	kzetriya	<ls>TBR. 2,5,6,1</ls>	
+True	4	193128	kzEtrapatya	<ls>TBR. 1,4,4,2.</ls>	
+True	4	194112	KajaMkara	<ls>TBR. 2,7,15,6.</ls>	
+True	4	196536	Kalu	<ls>TBR. 1,6,4,5.</ls>	
+True	4	196537	Kalu	<ls n="TBR. 1,">4,7,7.</ls>	
+True	4	196539	Kalu	<ls>TBR. 2,1,3,2.</ls>	
+True	4	196543	Kalu	<ls>TBR. 1,8,8,3.</ls>	
+True	4	197871	Kud	<ls>TBR. 2,4,6,5.</ls>	
+True	4	198676	KyA	<ls>TBR. 1,4,3,2.</ls>	
+True	4	199918	gaRa	<ls>TBR. 1,7,7,3.</ls>	
+True	4	200390	gaRavant	<ls>TBR. 2,4,6,12.</ls>	
+True	4	200407	gaRaSas	<ls>TBR. 1,6,2,3.</ls>	
+True	4	201078	gataSrI	<ls>TBR. 2,1,8,1.</ls>	
+True	4	203138	gaBasti	<ls>TBR. 2,7,13,4.</ls>	
+True	4	204229	gam	<ls>TBR. 3,1,2,8.</ls>	
+True	4	204468	gam	<ls>TBR. 1,3,10,1.</ls>	
+True	4	208748	gahman	<ls>TBR. 2,7,7,6.</ls>	
+True	4	208815	gA	<ls>TBR. 3,1,2,15.</ls>	
+fixed	4	209025	gA	<ls>TBR. 3,1,1,2. 15.</ls>	<ls>TBR. 3,1,1,2.</ls> <ls n="TBR. 3,1,1,">15.</ls>
+True	4	209954	gATa	<ls>TBR. 1,3,2,6.</ls>	
+True	4	210563	gAyatra	<ls>TBR. 1,1,5,3.</ls>	
+True	4	211128	gAvIDuka	<ls>TBR. 1,7,3,6.</ls>	
+True	4	212250	gu	<ls>TBR. 2,7,3,14.</ls>	
+True	4	213824	gup	<ls>TBR. 2,5,1,1.</ls>	
+True	4	213835	gup	<ls>TBR. 1,5,3,4.</ls>	
+True	4	214027	gupti	<ls>TBR. 1,2,1,24.</ls>	
+True	4	214132	gur	<ls>TBR. 1,4,7,7.</ls>	
+True	4	214162	guru	<ls>TBR. 1,2,6,3.</ls>	
+True	4	215035	guhA	<ls>TBR. 1,2,1,3.</ls>	
+True	4	215072	guhA	<ls>TBR. 1,2,1,2.</ls>	
+True	4	215639	gfDnu	<ls>TBR. 2,7,16,3.</ls>	
+True	4	216278	gfhameDin	<ls>TBR. 1,6,6,4.</ls>	
+True	4	216294	gfhameDIya	<ls>TBR. 1,6,6,3.</ls>	
+True	4	216568	gfhevAsin	<ls>TBR. 1,1,10,6.</ls>	
+True	4	216963	go	<ls>TBR. 3,1,2,12.</ls>	
+True	4	218300	goDUma	<ls>TBR. 1,3,7,2.</ls>	
+True	4	218773	gopA	<ls>TBR. 3,1,2,7</ls>	
+True	4	218826	gopAy	<ls>TBR. 1,1,9,7.</ls>	
+True	4	219058	gopITa	<ls>TBR. 1,1,5,7.</ls>	
+True	4	219183	goptar	<ls>TBR. 1,2,1,24.</ls>	
+True	4	220984	gosava	<ls>TBR. 2,7,6,1.</ls>	
+True	4	222254	graT	<ls>TBR. 2,2,1,4.</ls>	
+True	4	222843	graB	<ls>TBR. 1,3,3,2.</ls>	
+True	4	222963	graB	<ls>TBR. 1,6,4,1.</ls>	
+True	4	223013	graB	<ls>TBR. 1,3,3,1.</ls>	
+True	4	223135	graB	<ls>TBR. 1,1,5,4.</ls>	
+True	4	223305	graB	<ls>TBR. 1,7,6,1.</ls>	
+True	4	223356	graB	<ls>TBR. 1,1,10,2.</ls>	
+True	4	223494	graB	<ls>TBR. 1,4,1,5.</ls>	
+True	4	223507	graB	<ls>TBR. 1,3,2,7.</ls>	
+fixed	4	223508	graB	<ls n="TBR.">2,2,5,1. 3,4,1.</ls>	<ls n="TBR.">2,2,5,1.</ls> <ls n="TBR. 2,">3,4,1.</ls>
+True	4	223576	graB	<ls>TBR. 1,4,1,1.</ls>	
+True	4	224694	grAmaRI	<ls>TBR. 1,1,4,8.</ls>	
+fixed	4	224698	grAmaRI	<ls>TBR. 1,7,3,4. 2,7,18,4.</ls>	<ls>TBR. 1,7,3,4.</ls> <ls n="TBR.">2,7,18,4.</ls>
+True	4	227441	Garma	<ls>TBR. 1,1,7,1.</ls>	
+True	4	227513	Garmaduh	<ls>TBR. 2,1,1,1.</ls>	
+True	4	228000	GAtuka	<ls>TBR. 2,1,1,3.</ls>	
+True	4	228045	GAsa	<ls>TBR. 1,6,3,10.</ls>	
+True	4	228938	Gftasad	<ls>TBR. 1,3,9,2.</ls>	
+True	4	229458	Goza	<ls>TBR. 2,7,16,3.</ls>	
+fixed	4	231353	cakz	<ls>TBR. 2,2,1,4. 2,6.</ls>	<ls>TBR. 2,2,1,4.</ls> <ls n="TBR. 2,2,">2,6.</ls>
+fixed	4	231444	cakz	<ls>TBR. 3,1,1,12. 2,6. 14.</ls>	<ls>TBR. 3,1,1,12.</ls> <ls n="TBR. 3,1,">2,6.</ls> <ls n="TBR. 3,1,2,">14.</ls>
+True	4	233099	caturTa	<ls>TBR. 1,1,9,2.</ls>	
+True	4	233568	caturhotar	<ls>TBR. 2,2,1,4.</ls>	
+fixed	4	233569	caturhotar	<ls n="TBR. 2,2,">2,1. 8,3. 4.</ls>	<ls n="TBR. 2,2,">2,1.</ls> <ls n="TBR. 2,2,">8,3.</ls> <ls n="TBR. 2,2,8,">4.</ls>
+True	4	233771	catuzpaTa	<ls>TBR. 1,6,10,3.</ls>	
+True	4	233944	catustriMSa	<ls>TBR. 2,7,1,3.</ls>	
+True	4	234415	candra	<ls>TBR. 1,2,1,4.</ls>	
+fixed	4	234927	candramas	<ls>TBR. 2,2,10,3. 3,3,2.</ls>	<ls>TBR. 2,2,10,3.</ls> <ls n="TBR. 2,">3,3,2.</ls>
+True	4	235059	candravant	<ls>TBR. 2,2,10,4.</ls>	
+True	4	235615	cam	<ls>TBR. 2,1,4,7.</ls>	
+True	4	236221	car	<ls>TBR. 2,7,15,1.</ls>	
+fixed	4	236427	car	<ls>TBR. 1,7,7,5. 1,5,1.</ls>	<ls>TBR. 1,7,7,5.</ls> <ls n="TBR. 1,">1,5,1.</ls>
+True	4	236428	car	<ls n="TBR.">2,2,1,7.</ls>	
+True	4	236463	car	<ls>TBR. 1,4,4,7.</ls>	
+True	4	236845	car	<ls>TBR. 1,3,1,5.</ls>	
+True	4	236849	car	<ls>TBR. 1,3,4,4.</ls>	
+True	4	237059	car	<ls>TBR. 1,5,12,5.</ls>	
+True	4	237121	car	<ls>TBR. 3,1,1,7.</ls>	
+True	4	237921	carci	<ls>TBR. 1,2,2,2.</ls>	
+True	4	238042	carma	<ls>TBR. 2,7,2,2.</ls>	
+True	4	238735	cal	<ls>TBR. 2,3,9,9.</ls>	
+True	4	239712	cAturmAsya	<ls>TBR. 1,4,9,5.</ls>	
+True	4	239715	cAturmAsya	<ls>TBR. 2,2,2,2.</ls>	
+fixed	4	239866	cAtvAla	<ls>TBR. 1,3,6,1. 5,10,1.</ls>	<ls>TBR. 1,3,6,1.</ls> <ls n="TBR. 1,">5,10,1.</ls>
+True	4	240566	cAru	<ls>TBR. 3,1,1,9.</ls>	
+True	4	241560	ci	<ls>TBR. 2,8,2,2.</ls>	
+True	4	241635	ci	<ls>TBR. 1,1,2,2.</ls>	
+True	4	241636	ci	<ls>TBR. 2,7,18,1.</ls>	
+True	4	242296	cit	<ls>TBR. 1,7,3,3.</ls>	
+True	4	242482	citta	<ls>TBR. 2,2,4,1.</ls>	
+True	4	242645	citti	<ls>TBR. 2,2,4,1.</ls>	
+True	4	242749	citra	<ls>TBR. 3,1,2,1.</ls>	
+True	4	242814	citra	<ls>TBR. 1,1,2,5.</ls>	
+True	4	243391	citraBAnu	<ls>TBR. 2,7,15,2.</ls>	
+True	4	243393	citraBAnu	<ls>TBR. 3,1,1,2.</ls>	
+fixed	4	243970	citriya	<ls>TBR. 1,1,9,5. 2,1,7.</ls>	<ls>TBR. 1,1,9,5.</ls> <ls n="TBR. 1,">2,1,7.</ls>
+True	4	247253	cetas	<ls>TBR. 3,1,1,7.</ls>	
+True	4	249006	cyu	<ls>TBR. 2,3,2,5.</ls>	
+True	4	249077	cyuti	<ls>TBR. 2,4,6,4.</ls>	
+True	4	250308	Cambaw	<ls>TBR. 1,2,1,3.</ls>	
+fixed	4	250557	Cavi	<ls>TBR. 1,2,6,3. 2,3,6,2.</ls>	<ls>TBR. 1,2,6,3.</ls> <ls n="TBR.">2,3,6,2.</ls>
+True	4	251242	Cid	<ls>TBR. 1,3,10,7.</ls>	
+True	4	252974	jakz	<ls>TBR. 2,1,1,2.</ls>	
+True	4	253517	jaGana	<ls>TBR. 2,4,2,7.</ls>	
+True	4	253518	jaGana	<ls n="TBR. 2,4,">6,4.</ls>	
+True	4	253519	jaGana	<ls n="TBR. 2,">2,9,5.</ls>	
+True	4	253612	jaGanya	<ls>TBR. 1,1,2,8.</ls>	
+fixed	4	254903	jan	<ls>TBR. 2,1,2,5. 2,3,4.</ls>	<ls>TBR. 2,1,2,5.</ls> <ls n="TBR. 2,">2,3,4.</ls>
+True	4	255470	janatA	<ls>TBR. 1,4,6,1.</ls>	
+True	4	255471	janatA	<ls n="TBR.">2,3,1,3.</ls>	
+True	4	255507	janaDA	<ls>TBR. 1,1,1,2.</ls>	
+True	4	255586	janapada	<ls>TBR. 2,3,9,9.</ls>	
+True	4	255986	janitra	<ls>TBR. 2,5,1,2.</ls>	
+True	4	256429	janman	<ls>TBR. 2,5,6,5.</ls>	
+True	4	256623	janya	<ls>TBR. 1,3,10,6.</ls>	
+True	4	256635	janya	<ls>TBR. 1,7,8,7.</ls>	
+True	4	262012	jAtavedas	<ls>TBR. 2,4,2,5.</ls>	
+True	4	262891	jAmi	<ls>TBR. 1,7,2,6.</ls>	
+True	4	262932	jAmi	<ls>TBR. 1,7,2,6.</ls>	
+True	4	262946	jAmi	<ls>TBR. 1,8,2,1.</ls>	
+True	4	263275	jAra	<ls>TBR. 1,6,5,2.</ls>	
+True	4	263958	ji	<ls>TBR. 2,4,3,2.</ls>	
+True	4	264131	ji	<ls>TBR. 3,1,2,6.</ls>	
+True	4	264160	ji	<ls>TBR. 1,3,6,3.</ls>	
+True	4	264346	ji	<ls>TBR. 1,1,6,2.</ls>	
+True	4	264377	ji	<ls>TBR. 3,1,1,9.</ls>	
+True	4	264382	ji	<ls>TBR. 3,1,2,6.</ls>	
+fixed	4	265075	jizRu	<ls>TBR. 2,8,4,1. 3,1,1,6.</ls>	<ls>TBR. 2,8,4,1.</ls> <ls n="TBR.">3,1,1,6.</ls>
+True	4	265806	jIv	<ls>TBR. 2,3,8,1.</ls>	
+True	4	265948	jIv	<ls>TBR. 2,2,7,3.</ls>	
+True	4	266356	jIvaDanya	<ls>TBR. 2,8,1,4.</ls>	
+True	4	266823	jIvAtu	<ls>TBR. 1,2,1,20.</ls>	
+True	4	267111	juj	<ls>TBR. 2,7,13,14</ls>	
+True	4	268074	jEtra	<ls>TBR. 2,4,7,5.</ls>	
+True	4	268075	jEtra	<ls n="TBR. 2,4,">3,2.</ls>	
+fixed	4	268734	jYA	<ls>TBR. 3,1,1,13. 2,6.</ls>	<ls>TBR. 3,1,1,13.</ls> <ls n="TBR. 3,1,">2,6.</ls>
+True	4	269542	jYAti	<ls>TBR. 1,6,5,2.</ls>	
+True	4	270072	jyA	<ls>TBR. 1,7,2,6.</ls>	
+True	4	270261	jyAyaMs	<ls>TBR. 2,6,6,1.</ls>	
+True	4	270376	jyezWa	<ls>TBR. 2,4,7,10.</ls>	
+True	4	270431	jyezWa	<ls>TBR. 3,1,2,2.</ls>	
+True	4	270465	jyezWaGnI	<ls>TBR. 1,5,2,8.</ls>	
+True	4	270648	jyEzWineya	<ls>TBR. 2,1,8,1.</ls>	
+True	4	270661	jyEzWya	<ls>TBR. 1,3,2,2.</ls>	
+True	4	271077	jyotis	<ls>TBR. 2,1,3,9.</ls>	
+True	4	271228	jyotsnA	<ls>TBR. 2,2,9,7.</ls>	
+True	4	271716	jval	<ls>TBR. 1,5,10,1.</ls>	
+True	4	275074	tata	<ls>TBR. 1,6,9,7.</ls>	
+True	4	276018	taTAviDa	<ls>TBR. 2,1,10,1.</ls>	
+True	4	276666	tan	<ls>TBR. 2,4,7,10.</ls>	
+True	4	276695	tan	<ls>TBR. 1,4,4,10.</ls>	
+True	4	276752	tan	<ls>TBR. 1,3,10,2</ls>	
+True	4	276797	tan	<ls>TBR. 3,1,2,1.</ls>	
+True	4	276902	tan	<ls>TBR. 1,5,7,1.</ls>	
+True	4	276950	tan	<ls>TBR. 1,2,3,2.</ls>	
+True	4	277231	tanu	<ls>TBR. 1,1,7,3.</ls>	
+True	4	277821	tantu	<ls>TBR. 2,4,2,6.</ls>	
+True	4	278007	tantra	<ls>TBR. 2,5,5,3.</ls>	
+True	4	278741	tap	<ls>TBR. 2,2,9,3.</ls>	
+True	4	278861	tap	<ls>TBR. 1,2,4,1.</ls>	
+fixed	4	278986	tap	<ls>TBR. 1,1,9,9. 2,1,3,5.</ls>	<ls>TBR. 1,1,9,9.</ls> <ls n="TBR.">2,1,3,5.</ls>
+fixed	4	279324	tapana	<ls>TBR. 2,2,9,1. 2.</ls>	<ls>TBR. 2,2,9,1.</ls> <ls n="TBR. 2,2,9,">2.</ls>
+True	4	279471	tapas	<ls>TBR. 2,2,9,3.</ls>	
+True	4	280088	tam	<ls>TBR. 2,3,8,1.</ls>	
+fixed	4	280089	tam	<ls n="TBR.">1,4,4,2. 2,1,9,3.</ls>	<ls n="TBR.">1,4,4,2.</ls> <ls n="TBR.">2,1,9,3.</ls>
+True	4	280527	tamisra	<ls>TBR. 2,2,9,6.</ls>	
+True	4	280858	tar	<ls>TBR. 3,1,2,2.</ls>	
+True	4	280868	tar	<ls>TBR. 3,1,2,2.</ls>	
+True	4	281276	tar	<ls>TBR. 3,1,2,9.</ls>	
+True	4	281566	taraRi	<ls>TBR. 2,7,13,2.</ls>	
+True	4	281945	tarasvant	<ls>TBR. 2,8,4,1.</ls>	
+True	4	282945	tard	<ls>TBR. 2,2,3,1.</ls>	
+True	4	283087	tarp	<ls>TBR. 2,1,8,3.</ls>	
+True	4	283417	tarhi	<ls>TBR. 2,1,10,1.</ls>	
+True	4	283420	tarhi	<ls>TBR. 2,2,10,1.</ls>	
+True	4	283833	talpa	<ls>TBR. 1,2,6,5.</ls>	
+True	4	283834	talpa	<ls n="TBR.">2,2,5,3.</ls>	
+True	4	286437	tAraka	<ls>TBR. 1,5,2,5.</ls>	
+fixed	4	287143	tArpya	<ls>TBR. 1,3,2,1. 7,6,4.</ls>	<ls>TBR. 1,3,2,1.</ls> <ls n="TBR. 1,">7,6,4.</ls>
+True	4	288516	tigmaSfNga	<ls>TBR. 3,1,1,13.</ls>	
+True	4	290406	tizya	<ls>TBR. 1,5,1,2.</ls>	
+fixed	4	290480	tisfDanva	<ls>TBR. 1,8,3,4. 2,7,9,2.</ls>	<ls>TBR. 1,8,3,4.</ls> <ls n="TBR.">2,7,9,2.</ls>
+fixed	4	290530	tIkzRa	<ls>TBR. 1,5,3,2. 6,6,3.</ls>	<ls>TBR. 1,5,3,2.</ls> <ls n="TBR. 1,">6,6,3.</ls>
+True	4	291013	tIrTa	<ls>TBR. 2,1,8,3.</ls>	
+True	4	293230	turIya	<ls>TBR. 1,7,1,3.</ls>	
+True	4	293257	turIya	<ls>TBR. 1,7,1,3.</ls>	
+True	4	294044	tuvizmant	<ls>TBR. 3,1,1,9.</ls>	
+True	4	294273	tuza	<ls>TBR. 1,6,5,5.</ls>	
+True	4	294790	tUpara	<ls>TBR. 1,3,7,2</ls>	
+True	4	295142	tUza	<ls>TBR. 1,6,1,8.</ls>	
+True	4	295184	tUzRIm	<ls>TBR. 2,1,2,8.</ls>	
+fixed	4	295905	tftIya	<ls>TBR. 1,1,6,1. 7,1,2.</ls>	<ls>TBR. 1,1,6,1.</ls> <ls n="TBR. 1,">7,1,2.</ls>
+True	4	296481	tejas	<ls>TBR. 2,1,2,9.</ls>	
+True	4	296621	tejasvant	<ls>TBR. 2,7,7,3.</ls>	
+True	4	296643	tejasvin	<ls>TBR. 1,3,1,4.</ls>	
+True	4	296644	tejasvin	<ls n="TBR.">1,5,3,1.</ls>	
+True	4	297563	tokasAti	<ls>TBR. 1,2,1,1.</ls>	
+True	4	299195	traya	<ls>TBR. 1,4,9,2.</ls>	
+True	4	299306	trayastriMSa	<ls>TBR. 2,2,4,6.</ls>	
+True	4	299364	trayastriMSin	<ls>TBR. 1,2,2,4.</ls>	
+True	4	299405	trayIvida	<ls>TBR. 1,2,1,26.</ls>	
+True	4	300729	triRava	<ls>TBR. 2,2,4,6.</ls>	
+True	4	300805	trita	<ls>TBR. 1,7,4,4.</ls>	
+True	4	301721	tripuruza	<ls>TBR. 1,5,10,1.</ls>	
+True	4	302507	trivft	<ls>TBR. 1,6,3,1.</ls>	
+fixed	4	302525	trivft	<ls>TBR. 2,2,3,1. 7,1,1.</ls>	<ls>TBR. 2,2,3,1.</ls> <ls n="TBR. 2,">7,1,1.</ls>
+True	4	302529	trivft	<ls>TBR. 1,5,20,2.</ls>	
+True	4	302872	triSukra	<ls>TBR. 2,7,1,2.</ls>	
+True	4	303088	trizwuB	<ls n="TBR.">2,6,2,6.</ls>	
+fixed	4	303089	trizwuB	<ls n="TBR.">3,2,9,3. 2,4,11,2.</ls>	<ls n="TBR.">3,2,9,3.</ls> <ls n="TBR.">2,4,11,2.</ls>
+True	4	303090	trizwuB	<ls>TBR. 1,7,9,2.</ls>	
+True	4	303532	treDA	<ls>TBR. 1,1,5,8.</ls>	
+True	4	304302	tryambaka	<ls>TBR. 1,4,10,9.</ls>	
+True	4	304303	tryambaka	<ls n="TBR. 1,">6,8,1.</ls>	
+True	4	304463	tryAvft	<ls>TBR. 2,1,3,4.</ls>	
+True	4	304871	tvac	<ls>TBR. 1,5,5,4</ls>	
+True	4	305299	tvazwar	<ls>TBR. 1,4,7,1.</ls>	
+fixed	4	305491	tvAzwra	<ls>TBR. 1,4,7,1. 8,1,2.</ls>	<ls>TBR. 1,4,7,1.</ls> <ls n="TBR. 1,">8,1,2.</ls>
+True	4	306253	daMSuka	<ls>TBR. 1,7,8,2.</ls>	
+True	4	306564	dakza	<ls>TBR. 1,5,4,2.</ls>	
+True	4	306901	dakziRa	<ls>TBR. 1,7,3,3. fgg.</ls>	
+True	4	307087	dakziRA	<ls>TBR. 2,1,4,8.</ls>	
+True	4	307288	dakziRArDa	<ls>TBR. 1,6,8,2.</ls>	
+True	4	307355	dakziRAvft	<ls>TBR. 1,6,8,2.</ls>	
+True	4	307454	dakziRya	<ls>TBR. 1,3,3,7.</ls>	
+True	4	307455	dakziRya	<ls n="TBR.">2,1,5,2.</ls>	
+True	4	307585	daG	<ls>TBR. 1,3,7,7.</ls>	
+None	4	308177	daRqapAta	<ls>TBR. S. 120, N.</ls>	
+True	4	310278	dam	<ls>TBR. 1,7,1,4.</ls>	
+fixed	4	310728	day	<ls>TBR. 1,6,8,1. 3,10,7.</ls>	<ls>TBR. 1,6,8,1.</ls> <ls n="TBR. 1,">3,10,7.</ls>
+True	4	311654	darBa	<ls>TBR. 1,4,4,1.</ls>	
+True	4	311703	darBamaya	<ls>TBR. 1,3,7,1.</ls>	
+True	4	312415	darSa	<ls>TBR. 1,2,1,14.</ls>	
+True	4	312428	darSa	<ls>TBR. 2,2,2,1.</ls>	
+True	4	313536	daSaDA	<ls>TBR. 2,2,4,1.</ls>	
+True	4	313773	daSama	<ls>TBR. 2,2,6,1.</ls>	
+True	4	313778	daSama	<ls>TBR. 2,3,11,1.</ls>	
+True	4	313956	daSarzaBa	<ls>TBR. 2,1,4,1.</ls>	
+fixed	4	314158	daSahotar	<ls>TBR. 2,2,1,1. 6. 3,11,1.</ls>	<ls>TBR. 2,2,1,1.</ls> <ls n="TBR. 2,2,1,">6.</ls> <ls n="TBR. 2,">3,11,1.</ls>
+True	4	314524	das	<ls>TBR. 2,3,2,2.</ls>	
+True	4	314975	dah	<ls>TBR. 2,3,7,1.</ls>	
+True	4	316125	dA	<ls>TBR. 1,7,1,1.</ls>	
+True	4	316228	dA	<ls>TBR. 1,6,8,6.</ls>	
+True	4	316265	dA	<ls>TBR. 1,3,8,2.</ls>	
+True	4	317211	dAnakAma	<ls>TBR. 2,3,9,9.</ls>	
+True	4	317251	dAnava	<ls>TBR. 2,8,3,7.</ls>	
+True	4	317799	dAya	<ls>TBR. 2,8,1,4</ls>	
+True	4	318199	dAru	<ls>TBR. 1,4,7,3.</ls>	
+fixed	4	318443	dArumaya	<ls>TBR. 1,4,1,3. 2,2,9,7.</ls>	<ls>TBR. 1,4,1,3.</ls> <ls n="TBR.">2,2,9,7.</ls>
+True	4	320229	didfkzeRya	<ls>TBR. 2,7,9,4.</ls>	
+True	4	321048	divasa	<ls>TBR. 1,7,6,6.</ls>	
+True	4	321996	diS	<ls>TBR. 2,4,2,2.</ls>	
+True	4	323008	dI	<ls>TBR. 2,4,1,4.</ls>	
+True	4	323118	dIkzaRIya	<ls>TBR. 1,5,9,2.</ls>	
+True	4	323145	dIkzA	<ls>TBR. 1,8,2,1.</ls>	
+True	4	323146	dIkzA	<ls>TBR. 2,7,17,1.</ls>	
+True	4	323208	dIkzApAla	<ls>TBR. 2,4,3,4.</ls>	
+True	4	323483	dIp	<ls>TBR. 1,4,3,3.</ls>	
+True	4	324821	dIrGaprayajyu	<ls>TBR. 2,8,4,5.</ls>	
+True	4	326012	dunduBi	<ls>TBR. 1,3,6,2.</ls>	
+True	4	326921	duriti	<ls>TBR. 1,2,1,5.</ls>	
+True	4	326933	durizwa	<ls>TBR. 1,2,5,3.</ls>	
+True	4	328493	durBUta	<ls>TBR. 1,2,6,7.</ls>	
+True	4	329104	durvarRa	<ls>TBR. 2,2,4,5.</ls>	
+True	4	329107	durvarRa	<ls>TBR. 2,2,4,6.</ls>	
+True	4	329841	duScarman	<ls>TBR. 1,7,8,3.</ls>	
+True	4	330706	duzprajYAna	<ls>TBR. 1,4,5,4.</ls>	
+True	4	332606	dfMhaRa	<ls>TBR. 2,8,3,8.</ls>	
+True	4	332613	dfMhitar	<ls>TBR. 2,8,3,8.</ls>	
+True	4	333239	dfti	<ls>TBR. 1,8,3,4.</ls>	
+True	4	334613	devagfha	<ls>TBR. 1,5,2,6.</ls>	
+True	4	334802	devatA	<ls>TBR. 1,8,1,1.</ls>	
+True	4	334811	devatA	<ls>TBR. 2,3,1,3.</ls>	
+True	4	334819	devatA	<ls>TBR. 1,7,2,6.</ls>	
+True	4	334997	devatrA	<ls>TBR. 2,3,8,3.</ls>	
+True	4	335009	devatva	<ls>TBR. 2,3,8,3.</ls>	
+fixed	4	335299	devanakzatra	<ls>TBR. 1,5,2,6. 7.</ls>	<ls>TBR. 1,5,2,6.</ls> <ls n="TBR. 1,5,2,">7.</ls>
+fixed	4	336000	devayAna	<ls>TBR. 1,3,4,3. 2,4,2,6.</ls>	<ls>TBR. 1,3,4,3.</ls> <ls n="TBR.">2,4,2,6.</ls>
+True	4	336141	devaraTa	<ls>TBR. 1,3,6,4.</ls>	
+True	4	336166	devarAja	<ls>TBR. 1,8,8,4.</ls>	
+True	4	336327	devaloka	<ls>TBR. 1,6,3,7.</ls>	
+True	4	336764	devasU	<ls>TBR. 1,7,4,1.</ls>	
+fixed	4	336765	devasU	<ls n="TBR. 1,7,4,">2. 4.</ls>	<ls n="TBR. 1,7,4,">2.</ls> <ls n="TBR. 1,7,4,">4.</ls>
+fixed	4	339462	doha	<ls>TBR. 1,1,10,2. 2,2,9,9.</ls>	<ls>TBR. 1,1,10,2.</ls> <ls n="TBR.">2,2,9,9.</ls>
+fixed	4	340131	dyAvApfTivIya	<ls>TBR. 2,1,7,1. 8,2.</ls>	<ls>TBR. 2,1,7,1.</ls> <ls n="TBR. 2,1,">8,2.</ls>
+True	4	340300	dyut	<ls>TBR. 2,1,3,3.</ls>	
+True	4	341224	dravaRa	<ls>TBR. 2,7,7,7.</ls>	
+fixed	4	342245	dru	<ls>TBR. 2,2,1,1. 2,1.</ls>	<ls>TBR. 2,2,1,1.</ls> <ls n="TBR. 2,2,">2,1.</ls>
+True	4	342305	dru	<ls>TBR. 2,1,9,3.</ls>	
+True	4	342325	dru	<ls>TBR. 2,2,1,6.</ls>	
+True	4	342332	dru	<ls>TBR. 2,1,6,4.</ls>	
+True	4	342397	dru	<ls>TBR. 2,1,2,12.</ls>	
+True	4	342491	dru	<ls>TBR. 1,3,9,1.</ls>	
+True	4	342862	druzad	<ls>TBR. 1,3,9,1.</ls>	
+True	4	343784	dvaya	<ls>TBR. 1,4,9,2.</ls>	
+True	4	343952	dvAdaSa	<ls>TBR. 2,7,18,2.</ls>	
+True	4	346585	dvis	<ls>TBR. 2,1,9,1.</ls>	
+True	4	347793	DanaMjaya	<ls>TBR. 2,4,2,7.</ls>	
+True	4	349688	Dar	<ls>TBR. 2,6,3,3.</ls>	
+True	4	349913	Dar	<ls>TBR. 1,8,4,2.</ls>	
+True	4	350468	DarRasi	<ls>TBR. 2,7,16,4.</ls>	
+True	4	351762	DarmasU	<ls>TBR. 1,7,8,3.</ls>	
+True	4	352689	DA	<ls>TBR. 2,5,5,3.</ls>	
+True	4	352727	DA	<ls>TBR. 3,1,2,3</ls>	
+True	4	352805	DA	<ls>TBR. 3,1,2,9</ls>	
+True	4	353034	DA	<ls>TBR. 1,1,5,9.</ls>	
+True	4	353410	DA	<ls>TBR. 1,1,2,2.</ls>	
+True	4	353472	DA	<ls>TBR. 2,3,4,1.</ls>	
+True	4	353853	DA	<ls>TBR. 1,5,9,1.</ls>	
+True	4	353887	DA	<ls>TBR. 2,1,3,6.</ls>	
+True	4	353996	DA	<ls>TBR. 1,3,1,1.</ls>	
+True	4	354099	DA	<ls>TBR. 1,3,7,1.</ls>	
+True	4	354135	DA	<ls>TBR. 1,7,4,2.</ls>	
+True	4	354206	DA	<ls>TBR. 2,2,4,1.</ls>	
+True	4	354851	DAtar	<ls>TBR. 1,7,2,1.</ls>	
+True	4	354873	DAtar	<ls>TBR. 1,7,2,1.</ls>	
+True	4	354874	DAtar	<ls n="TBR.">2,3,5,3.</ls>	
+True	4	354882	DAtar	<ls>TBR. 2,1,7,1.</ls>	
+True	4	354889	DAtar	<ls>TBR. 1,1,9,1</ls>	
+True	4	355438	DAnA	<ls>TBR. 1,5,11,2.</ls>	
+True	4	355874	DAman	<ls>TBR. 1,1,9,6.</ls>	
+True	4	355875	DAman	<ls n="TBR.">2,3,2,5.</ls>	
+True	4	355930	DAman	<ls>TBR. 2,8,1,5.</ls>	
+True	4	357027	DAv	<ls>TBR. 1,4,3,6.</ls>	
+True	4	357249	DAv	<ls>TBR. 2,3,9,9.</ls>	
+True	4	357251	DAv	<ls>TBR. 2,5,6,4.</ls>	
+True	4	357527	Di	<ls>TBR. 1,2,6,2.</ls>	
+True	4	358134	DIti	<ls>TBR. 1,5,5,2.</ls>	
+True	4	359023	DU	<ls>TBR. 1,4,7,4.</ls>	
+None	4	359296	DUnana	<ls>TBR. 1,173,17.</ls>	
+True	4	360248	DUrzad	<ls>TBR. 1,2,1,12</ls>	
+fixed	4	360582	Dfti	<ls>TBR. 2,1,3,8. 2,2,2.</ls>	<ls>TBR. 2,1,3,8.</ls> <ls n="TBR. 2,">2,2,2.</ls>
+True	4	361523	DyA	<ls>TBR. 1,1,3,3.</ls>	
+True	4	361524	DyA	<ls n="TBR. 1,1,">4,1.</ls>	
+True	4	361585	DyA	<ls>TBR. 2,1,4,3.</ls>	
+True	4	361604	DyA	<ls>TBR. 1,1,3,8.</ls>	
+None	4	362451	DvaMs	<ls>TBR. I, p. 6,9.</ls>	
+True	4	362899	Dvan	<ls>TBR. 2,7,16,1</ls>	
+fixed	4	364292	nakzatra	<ls>TBR. 1,5,1,1. 2,5. 2,7,18,13.</ls>	<ls>TBR. 1,5,1,1.</ls> <ls n="TBR. 1,5,">2,5.</ls> <ls n="TBR.">2,7,18,13.</ls>
+True	4	364303	nakzatra	<ls>TBR. 1,5,2,5.</ls>	
+True	4	364509	nakzatriya	<ls>TBR. 1,5,2,2.</ls>	
+fixed	4	366468	nand	<ls>TBR. 2,3,9,5. 7,9,4.</ls>	<ls>TBR. 2,3,9,5.</ls> <ls n="TBR. 2,">7,9,4.</ls>
+True	4	368226	nam	<ls>TBR. 1,1,2,8.</ls>	
+fixed	4	368227	nam	<ls n="TBR. 1,1,">8,4. 9,7. 8. 8,8,3.</ls>	<ls n="TBR. 1,1,">8,4.</ls> <ls n="TBR. 1,1,">9,7.</ls> <ls n="TBR. 1,1,9,">8.</ls> <ls n="TBR. 1,">8,8,3.</ls>
+True	4	368636	namaskAra	<ls>TBR. 1,3,10,8.</ls>	
+True	4	368765	namuci	<ls>TBR. 1,7,1,6.</ls>	
+True	4	369998	nart	<ls>TBR. 1,5,1,2.</ls>	
+True	4	370039	nart	<ls>TBR. 2,3,9,9.</ls>	
+True	4	370383	narya	<ls>TBR. 1,1,10,2.</ls>	
+True	4	372245	nastas	<ls>TBR. 1,8,5,1.</ls>	
+True	4	374547	nATa	<ls>TBR. 1,6,4,1.</ls>	
+fixed	4	374999	nAnAvIrya	<ls>TBR. 1,1,5,6. 8,5.</ls>	<ls>TBR. 1,1,5,6.</ls> <ls n="TBR. 1,1,">8,5.</ls>
+True	4	375745	nAman	<ls>TBR. 2,7,17,1.</ls>	
+True	4	376522	nArASaMsa	<ls>TBR. 1,3,2,6.</ls>	
+True	4	376532	nArASaMsa	<ls>TBR. 2,7,5,2.</ls>	
+True	4	376534	nArASaMsa	<ls>TBR. 2,7,1,3.</ls>	
+True	4	379128	nij	<ls>TBR. 2,1,4,8.</ls>	
+True	4	379363	nitarAm	<ls>TBR. 2,1,10,2.</ls>	
+True	4	379889	nidAna	<ls>TBR. 2,2,11,6.</ls>	
+True	4	379928	nidAnavant	<ls>TBR. 2,2,11,6.</ls>	
+True	4	380283	niDAna	<ls>TBR. 2,7,17,3.</ls>	
+fixed	4	380426	niDipA	<ls>TBR. 2,8,1,3. 4,3.</ls>	<ls>TBR. 2,8,1,3.</ls> <ls n="TBR. 2,8,">4,3.</ls>
+True	4	381566	nimeza	<ls>TBR. 2,1,5,9.</ls>	
+True	4	382802	niravatti	<ls>TBR. 1,7,1,9.</ls>	
+True	4	383257	nirADAna	<ls>TBR. 1,6,3,10.</ls>	
+True	4	383621	nirindriya	<ls>TBR. 1,8,3,3.</ls>	
+fixed	4	384022	nirupya	<ls>TBR. 1,1,6,4. 8,3,3.</ls>	<ls>TBR. 1,1,6,4.</ls> <ls n="TBR. 1,">8,3,3.</ls>
+fixed	4	384149	nirfti	<ls>TBR. 1,6,1,1. 2,3.</ls>	<ls>TBR. 1,6,1,1.</ls> <ls n="TBR. 1,6,">2,3.</ls>
+True	4	384526	nirGAta	<ls>TBR. 1,8,9,1.</ls>	
+True	4	385905	nirmArga	<ls>TBR. 1,5,3,1. fg.</ls>	
+fixed	4	386432	nirvaruRatva	<ls>TBR. 1,5,9,7. 2,7,2,1. 3,2.</ls>	<ls>TBR. 1,5,9,7.</ls> <ls n="TBR.">2,7,2,1.</ls> <ls n="TBR. 2,7,">3,2.</ls>
+fixed	4	387142	nirvIrya	<ls>TBR. 1,1,9,8. 5,12,3.</ls>	<ls>TBR. 1,1,9,8.</ls> <ls n="TBR. 1,">5,12,3.</ls>
+True	4	387591	nirhftya	<ls>TBR. 2,2,4,7.</ls>	
+True	4	387697	nilayana	<ls>TBR. 2,4,4,1.</ls>	
+True	4	387766	nivat	<ls>TBR. 2,8,1,4.</ls>	
+fixed	4	390590	nizkAza	<ls>TBR. 1,6,7,3. 5,5.</ls>	<ls>TBR. 1,6,7,3.</ls> <ls n="TBR. 1,6,">5,5.</ls>
+True	4	390775	nizkfti	<ls>TBR. 2,1,5,3.</ls>	
+fixed	4	391043	nizwya	<ls>TBR. 1,5,2,2. 3. 3,1,1,13.</ls>	<ls>TBR. 1,5,2,2.</ls> <ls n="TBR. 1,5,2,">3.</ls> <ls n="TBR.">3,1,1,13.</ls>
+True	4	393009	nI	<ls>TBR. 2,2,5,1.</ls>	
+True	4	393327	nI	<ls>TBR. 1,5,9,6.</ls>	
+True	4	393345	nI	<ls>TBR. 1,8,6,2.</ls>	
+True	4	393372	nI	<ls>TBR. 1,5,6,7.</ls>	
+True	4	393416	nI	<ls>TBR. 2,1,5,5.</ls>	
+True	4	393620	nI	<ls>TBR. 1,4,5,2.</ls>	
+fixed	4	393649	nI	<ls>TBR. 1,5,9,2. 3.</ls>	<ls>TBR. 1,5,9,2.</ls> <ls n="TBR. 1,5,9,">3.</ls>
+True	4	394086	nI	<ls>TBR. 2,5,3,3.</ls>	
+True	4	394504	nItamiSra	<ls>TBR. 1,4,7,7.</ls>	
+True	4	396072	nIvAra	<ls>TBR. 1,3,6,7.</ls>	
+True	4	396519	nud	<ls>TBR. 3,1,2,3</ls>	
+fixed	4	396559	nud	<ls>TBR. 3,1,1,4. 13. 14</ls>	<ls>TBR. 3,1,1,4.</ls> <ls n="TBR. 3,1,1,">13.</ls> <ls n="TBR. 3,1,1,">14</ls>
+True	4	396975	nftejas	<ls>TBR. 2,8,2,1</ls>	
+True	4	398158	ned	<ls>TBR. 1,5,9,1.</ls>	
+True	4	398193	nedizWa	<ls>TBR. 2,3,11,4.</ls>	
+True	4	398236	nedIyaMs	<ls>TBR. 1,3,10,7.</ls>	
+True	4	398872	nEdAGa	<ls>TBR. 1,8,4,2.</ls>	
+True	4	399151	nEyagroDa	<ls>TBR. 1,7,8,7.</ls>	
+fixed	4	399465	nEvAra	<ls>TBR. 1,3,4,5. 6,7.</ls>	<ls>TBR. 1,3,4,5.</ls> <ls n="TBR. 1,3,">6,7.</ls>
+True	4	400065	nyakta	<ls>TBR. 1,3,1,4.</ls>	
+True	4	400071	nyakna	<ls>TBR. 1,6,4,2</ls>	
+fixed	4	400173	nyaNka	<ls>TBR. 1,3,5,4. 2,7,8,1.</ls>	<ls>TBR. 1,3,5,4.</ls> <ls n="TBR.">2,7,8,1.</ls>
+True	4	400792	nyUna	<ls>TBR. 2,2,1,2.</ls>	
+True	4	400905	nvE	<ls>TBR. 1,1,3,8.</ls>	
+True	4	401238	pakza	<ls>TBR. 1,5,12,5.</ls>	
+True	4	401264	pakza	<ls>TBR. 1,8,11,2.</ls>	
+True	4	401667	pakzas	<ls>TBR. 1,2,3,1.</ls>	
+True	4	402222	paNkti	<ls>TBR. 1,1,10,3.</ls>	
+True	4	402234	paNkti	<ls>TBR. 2,7,10,2.</ls>	
+True	4	402519	pac	<ls>TBR. 1,8,4,2.</ls>	
+True	4	403102	paYcajanIna	<ls>TBR. 1,3,9,2.</ls>	
+True	4	403285	paYcadaSa	<ls>TBR. 1,5,10,2.</ls>	
+fixed	4	403291	paYcadaSa	<ls>TBR. 1,5,10,5. 2,6,3.</ls>	<ls>TBR. 1,5,10,5.</ls> <ls n="TBR. 1,">2,6,3.</ls>
+True	4	403298	paYcadaSa	<ls>TBR. 1,5,10,5.</ls>	
+True	4	403366	paYcaDA	<ls>TBR. 1,5,9,7.</ls>	
+True	4	403369	paYcaDA	<ls>TBR. 1,2,1,27.</ls>	
+True	4	403370	paYcaDA	<ls n="TBR.">2,2,11,4.</ls>	
+True	4	403494	paYcapaYcin	<ls>TBR. 1,5,9,7</ls>	
+True	4	403681	paYcama	<ls>TBR. 2,1,2,4.</ls>	
+True	4	403686	paYcama	<ls>TBR. 2,3,4,3.</ls>	
+True	4	404065	paYcaviMSa	<ls>TBR. 1,2,6,2.</ls>	
+True	4	404074	paYcaviMSa	<ls>TBR. 1,2,6,1.</ls>	
+fixed	4	404222	paYcaSAradIya	<ls>TBR. 2,7,10,1. 2.</ls>	<ls>TBR. 2,7,10,1.</ls> <ls n="TBR. 2,7,10,">2.</ls>
+None	4	404422	paYcAgni	<ls>TBR. 63,18.</ls>	
+True	4	404681	paYcAvattIya	<ls>TBR. 1,7,1,5.</ls>	
+True	4	406088	paqbISa	<ls>TBR. 1,6,10,3.</ls>	
+True	4	407068	pat	<ls>TBR. 1,1,2,5.</ls>	
+fixed	4	407409	pat	<ls>TBR. 1,1,3,8. 5,4.</ls>	<ls>TBR. 1,1,3,8.</ls> <ls n="TBR. 1,1,">5,4.</ls>
+fixed	4	409213	patnIsaMyAja	<ls>TBR. 1,3,1,4. 5,9,2.</ls>	<ls>TBR. 1,3,1,4.</ls> <ls n="TBR. 1,">5,9,2.</ls>
+True	4	409308	paT	<ls>TBR. 1,4,4,10</ls>	
+True	4	409721	pad	<ls>TBR. 1,2,4,2.</ls>	
+True	4	409852	pad	<ls>TBR. 2,1,1,1.</ls>	
+fixed	4	409867	pad	<ls>TBR. 1,2,4,2. 5,12,1</ls>	<ls>TBR. 1,2,4,2.</ls> <ls n="TBR. 1,">5,12,1</ls>
+True	4	410589	pad	<ls>TBR. 1,6,9,9.</ls>	
+True	4	410960	pad	<ls>TBR. 1,1,5,3.</ls>	
+True	4	410984	pad	<ls>TBR. 2,1,2,9.</ls>	
+True	4	411106	pad	<ls>TBR. 1,2,2,2.</ls>	
+True	4	413568	papuri	<ls>TBR. 3,1,1,11</ls>	
+True	4	413784	payasya	<ls>TBR. 1,5,11,2.</ls>	
+True	4	413824	payasvant	<ls>TBR. 2,7,7,4.</ls>	
+True	4	415992	paramezWin	<ls>TBR. 1,5,5,1.</ls>	
+fixed	4	416002	paramezWin	<ls>TBR. 2,2,9,10. 7,6,1.</ls>	<ls>TBR. 2,2,9,10.</ls> <ls n="TBR. 2,">7,6,1.</ls>
+True	4	416006	paramezWin	<ls>TBR. 1,4,10,9.</ls>	
+True	4	416373	paraHSata	<ls>TBR. 1,7,10,6.</ls>	
+fixed	4	416500	parastAt	<ls>TBR. 1,5,1,1. 3,4.</ls>	<ls>TBR. 1,5,1,1.</ls> <ls n="TBR. 1,5,">3,4.</ls>
+True	4	416502	parastAt	<ls>TBR. 3,1,2,8</ls>	
+True	4	416516	parastAt	<ls>TBR. 1,4,1,1.</ls>	
+True	4	416639	paraspA	<ls>TBR. 2,8,1,3.</ls>	
+None	4	416697	paraHsAman	<ls>TBR. Comm.</ls>	
+True	4	416698	paraHsAman	<ls>TBR. 1,2,2,1.</ls>	
+True	4	417078	parAYc	<ls>TBR. 1,4,4,5.</ls>	
+True	4	417083	parAYc	<ls>TBR. 1,2,2,5.</ls>	
+True	4	417084	parAYc	<ls n="TBR. 1,">5,9,5.</ls>	
+True	4	417583	parArDa	<ls>TBR. 1,2,3,4.</ls>	
+True	4	417651	parAvat	<ls>TBR. 1,6,7,4.</ls>	
+True	4	417652	parAvat	<ls n="TBR.">2,8,1,4.</ls>	
+True	4	421053	pariBU	<ls>TBR. 1,1,7,3.</ls>	
+True	4	421299	parimAd	<ls>TBR. 1,2,6,5.</ls>	
+True	4	421715	parivatsara	<ls>TBR. 1,5,5,6.</ls>	
+True	4	421721	parivatsara	<ls>TBR. 1,4,10,1.</ls>	
+fixed	4	421724	parivatsara	<ls>TBR. 1,4,10,1. 2.</ls>	<ls>TBR. 1,4,10,1.</ls> <ls n="TBR. 1,4,10,">2.</ls>
+True	4	421732	parivatsarIRa	<ls>TBR. 1,4,10,2.</ls>	
+fixed	4	421748	parivarga	<ls>TBR. 2,1,10,3. 3,6,4.</ls>	<ls>TBR. 2,1,10,3.</ls> <ls n="TBR. 2,">3,6,4.</ls>
+None	4	421869	parivartana	<ls>TBR. 466,2.</ls>	
+True	4	422008	parivApa	<ls>TBR. 1,5,11,2.</ls>	
+True	4	422257	parivfkta	<ls>TBR. 1,7,3,4.</ls>	
+True	4	422862	parizadya	<ls>TBR. 3,1,2,11</ls>	
+True	4	423438	parisrajin	<ls>TBR. 2,7,1,1.</ls>	
+True	4	423458	parisrasA	<ls>TBR. 1,2,1,1.</ls>	
+True	4	424253	parus	<ls>TBR. 1,6,8,6.</ls>	
+True	4	424262	parus	<ls>TBR. 1,6,9,1</ls>	
+True	4	424444	parokza	<ls>TBR. 1,5,6,7.</ls>	
+True	4	424455	parokza	<ls>TBR. 1,5,9,2.</ls>	
+True	4	424667	parc	<ls>TBR. 2,7,8,2.</ls>	
+True	4	424690	parc	<ls>TBR. 2,5,4,5.</ls>	
+fixed	4	424729	parc	<ls>TBR. 2,7,7,3. 4.</ls>	<ls>TBR. 2,7,7,3.</ls> <ls n="TBR. 2,7,7,">4.</ls>
+True	4	424732	parc	<ls>TBR. 3,1,2,13</ls>	
+fixed	4	424863	parRa	<ls>TBR. 1,1,3,10. 2,1,4.</ls>	<ls>TBR. 1,1,3,10.</ls> <ls n="TBR. 1,">2,1,4.</ls>
+fixed	4	424888	parRa	<ls>TBR. 1,1,3,10. 2,1,6. 7,1,9.</ls>	<ls>TBR. 1,1,3,10.</ls> <ls n="TBR. 1,">2,1,6.</ls> <ls n="TBR. 1,">7,1,9.</ls>
+fixed	4	425013	parRamaya	<ls>TBR. 1,1,3,11. 7,1,9. 8,7.</ls>	<ls>TBR. 1,1,3,11.</ls> <ls n="TBR. 1,">7,1,9.</ls> <ls n="TBR. 1,7,">8,7.</ls>
+True	4	425413	paryagni	<ls>TBR. 2,1,3,4.</ls>	
+True	4	425502	paryanta	<ls>TBR. 2,1,11,1.</ls>	
+None	4	426075	paryudAsa	<ls>TBR. 184.</ls>	
+fixed	4	427457	palpUlay	<ls>TBR. 1,3,5,2. 3.</ls>	<ls>TBR. 1,3,5,2.</ls> <ls n="TBR. 1,3,5,">3.</ls>
+True	4	427922	pavamAna	<ls>TBR. 1,1,5,10.</ls>	
+None	4	427946	pavamAnahavis	<ls>TBR. Comm. 37,20.</ls>	
+None	4	427951	pavamAnezwi	<ls>TBR. Comm. 38,10. 12. 39,11.</ls>	
+True	4	428030	pavitra	<ls>TBR. 1,4,1,1.</ls>	
+True	4	428292	paS	<ls>TBR. 2,1,8,3.</ls>	
+True	4	428417	paS	<ls>TBR. 2,4,2,6.</ls>	
+True	4	428513	paS	<ls>TBR. 1,2,1,4.</ls>	
+True	4	428672	paSavya	<ls>TBR. 1,8,10,3.</ls>	
+None	4	428672	paSavya	<ls n="TBR.">1,8,4.</ls>	
+True	4	428672	paSavya	<ls n="TBR.">2,1,3,2.</ls>	
+True	4	428676	paSavya	<ls>TBR. 1,8,10,3.</ls>	
+True	4	428805	paSukAma	<ls>TBR. 2,1,3,2.</ls>	
+True	4	428954	paSupA	<ls>TBR. 3,1,2,12</ls>	
+fixed	4	429001	paSubanDa	<ls>TBR. 2,2,2,3. 3,6,3.</ls>	<ls>TBR. 2,2,2,3.</ls> <ls n="TBR. 2,">3,6,3.</ls>
+True	4	429343	paScAdakzam	<ls>TBR. 1,3,3,5.</ls>	
+fixed	4	429575	pazWavAh	<ls>TBR. 1,7,3,3. 8,3,2. 2,7,2,2.</ls>	<ls>TBR. 1,7,3,3.</ls> <ls n="TBR. 1,">8,3,2.</ls> <ls n="TBR.">2,7,2,2.</ls>
+True	4	429590	pas	<ls>TBR. 3,1,1,12</ls>	
+True	4	429900	pA	<ls>TBR. 1,3,10,4.</ls>	
+True	4	429933	pA	<ls>TBR. 3,1,2,8</ls>	
+True	4	430081	pAMsu	<ls>TBR. 2,6,10,2.</ls>	
+True	4	430719	pANkta	<ls>TBR. 1,1,10,4.</ls>	
+None	4	431002	pAYcadaSya	<ls>TBR. 204,3.</ls>	
+True	4	433070	pAtra	<ls>TBR. 1,5,4,1.</ls>	
+True	4	433405	pATas	<ls>TBR. 3,1,1,5</ls>	
+fixed	4	435026	pApa	<ls>TBR. 1,1,2,8. 2,2,3,2.</ls>	<ls>TBR. 1,1,2,8.</ls> <ls n="TBR.">2,2,3,2.</ls>
+True	4	435029	pApa	<ls>TBR. 2,1,5,11.</ls>	
+True	4	435252	pApaparAjita	<ls>TBR. 1,5,2,4.</ls>	
+fixed	4	435360	pApavasyasa	<ls>TBR. 1,3,3,5. 8,6,5. 2,1,8,2.</ls>	<ls>TBR. 1,3,3,5.</ls> <ls n="TBR. 1,">8,6,5.</ls> <ls n="TBR.">2,1,8,2.</ls>
+True	4	435483	pApAha	<ls>TBR. 1,5,2,6.</ls>	
+True	4	435534	pApman	<ls>TBR. 1,5,9,6.</ls>	
+True	4	435558	pApman	<ls>TBR. 2,3,3,1.</ls>	
+True	4	436627	pArAvataGnI	<ls>TBR. 2,8,2,8</ls>	
+True	4	437497	pArTa	<ls>TBR. 1,7,7,4.</ls>	
+True	4	438016	pArSvatas	<ls>TBR. 1,1,5,9.</ls>	
+True	4	439056	pAvaka	<ls>TBR. 1,1,5,10.</ls>	
+True	4	441692	pitar	<ls>TBR. 2,7,16,3.</ls>	
+True	4	441723	pitar	<ls>TBR. 2,1,1,1.</ls>	
+True	4	441724	pitar	<ls n="TBR.">1,4,9,1.</ls>	
+True	4	441729	pitar	<ls>TBR. 1,3,10,4.</ls>	
+True	4	441849	pitumant	<ls>TBR. 2,8,2,1.</ls>	
+fixed	4	442066	pitfdevatya	<ls>TBR. 1,6,8,4. 2,1,3,4.</ls>	<ls>TBR. 1,6,8,4.</ls> <ls n="TBR.">2,1,3,4.</ls>
+True	4	442121	pitfpIta	<ls>TBR. 1,3,10,2.</ls>	
+True	4	442201	pitfmant	<ls>TBR. 1,6,8,2.</ls>	
+fixed	4	442228	pitfyajYa	<ls>TBR. 1,4,10,8. 6,8,2.</ls>	<ls>TBR. 1,4,10,8.</ls> <ls n="TBR. 1,">6,8,2.</ls>
+True	4	442274	pitfloka	<ls>TBR. 2,1,8,1.</ls>	
+True	4	443314	piS	<ls>TBR. 3,1,1,12</ls>	
+True	4	443334	piS	<ls>TBR. 2,7,15,2.</ls>	
+True	4	443380	piSaNga	<ls>TBR. 6,6,11,6.</ls>	
+True	4	444096	pI	<ls>TBR. 3,1,1,3</ls>	
+True	4	445319	pIy	<ls>TBR. 2,4,2,4.</ls>	
+True	4	445656	pIvasa	<ls>TBR. 2,8,2,1.</ls>	
+fixed	4	446309	puYjIla	<ls>TBR. 1,7,6,4. 2,7,9,5.</ls>	<ls>TBR. 1,7,6,4.</ls> <ls n="TBR.">2,7,9,5.</ls>
+True	4	446379	puwa	<ls>TBR. 1,3,7,6.</ls>	
+True	4	446545	puRqarisrajA	<ls>TBR. 1,8,2,1.</ls>	
+True	4	446557	puRqarIka	<ls>TBR. 1,8,2,1.</ls>	
+True	4	446784	puRya	<ls>TBR. 1,5,3,1.</ls>	
+True	4	446786	puRya	<ls>TBR. 1,5,2,1.</ls>	
+fixed	4	446789	puRya	<ls>TBR. 2,1,2,9. 3,6.</ls>	<ls>TBR. 2,1,2,9.</ls> <ls n="TBR. 2,1,">3,6.</ls>
+fixed	4	447230	puRyAha	<ls>TBR. 1,5,2,1. 8,10,2.</ls>	<ls>TBR. 1,5,2,1.</ls> <ls n="TBR. 1,">8,10,2.</ls>
+True	4	447494	putrakAma	<ls>TBR. 1,1,9,1.</ls>	
+True	4	447961	punar	<ls>TBR. 1,3,10,1.</ls>	
+True	4	447989	punar	<ls>TBR. 1,5,2,3.</ls>	
+None	4	448127	punarADAna	<ls>TBR. 123,9.</ls>	
+True	4	448134	punarADeya	<ls>TBR. 1,3,1,5.</ls>	
+fixed	4	448135	punarADeya	<ls n="TBR.">3,4,10,5. 5,4,10,4.</ls>	<ls n="TBR.">3,4,10,5.</ls> <ls n="TBR.">5,4,10,4.</ls>
+True	4	448139	punarADeya	<ls>TBR. 1,3,1,2.</ls>	
+None	4	448146	punarADeyaka	<ls>TBR. 141,8.</ls>	
+True	4	448440	punarmaGa	<ls>TBR. 3,5,7,2</ls>	
+True	4	448520	punarvasu	<ls>TBR. 1,1,2,3.</ls>	
+None	4	448814	pumarTa	<ls>TBR. Comm. 140,12.</ls>	
+True	4	448866	pur	<ls>TBR. 1,7,7,5.</ls>	
+fixed	4	449546	purastAt	<ls>TBR. 1,4,4,3. 6,3.</ls>	<ls>TBR. 1,4,4,3.</ls> <ls n="TBR. 1,4,">6,3.</ls>
+True	4	449739	purA	<ls>TBR. 2,4,2,1.</ls>	
+fixed	4	450408	purucetana	<ls>TBR. 2,4,1,2. 7,5.</ls>	<ls>TBR. 2,4,1,2.</ls> <ls n="TBR. 2,4,">7,5.</ls>
+fixed	4	450870	puruza	<ls>TBR. 1,1,2,5. 2,6,4.</ls>	<ls>TBR. 1,1,2,5.</ls> <ls n="TBR. 1,">2,6,4.</ls>
+True	4	450871	puruza	<ls n="TBR.">2,7,18,5.</ls>	
+True	4	451483	puruspArha	<ls>TBR. 3,6,13,1.</ls>	
+True	4	451621	purokzam	<ls>TBR. 1,3,3,5.</ls>	
+True	4	451687	purogA	<ls>TBR. 1,2,1,13.</ls>	
+True	4	451848	puroDA	<ls>TBR. 2,7,1,2.</ls>	
+True	4	451852	puroDA	<ls>TBR. 2,7,1,2.</ls>	
+True	4	451881	puronuvAkyA	<ls>TBR. 1,3,1,3.</ls>	
+True	4	452560	puz	<ls>TBR. 1,6,2,4.</ls>	
+True	4	452624	puzkara	<ls>TBR. 1,2,1,4.</ls>	
+True	4	452772	puzkaraparRa	<ls>TBR. 1,1,3,6.</ls>	
+True	4	453026	puzkala	<ls>TBR. 2,7,15,3.</ls>	
+fixed	4	453155	puzwi	<ls>TBR. 1,1,1,1. 4,5,4.</ls>	<ls>TBR. 1,1,1,1.</ls> <ls n="TBR. 1,">4,5,4.</ls>
+True	4	453221	puzwikAma	<ls>TBR. 2,3,3,1.</ls>	
+fixed	4	453258	puzwipati	<ls>TBR. 1,6,2,2. 3,1,2,9.</ls>	<ls>TBR. 1,6,2,2.</ls> <ls n="TBR.">3,1,2,9.</ls>
+True	4	453313	puzpa	<ls>TBR. 3,7,14,2.</ls>	
+True	4	454567	pU	<ls>TBR. 1,7,6,4.</ls>	
+True	4	454590	pU	<ls>TBR. 1,8,6,6.</ls>	
+fixed	4	454594	pU	<ls>TBR. 1,8,5,5. 6,4.</ls>	<ls>TBR. 1,8,5,5.</ls> <ls n="TBR. 1,8,">6,4.</ls>
+True	4	454610	pU	<ls>TBR. 2,3,9,1.</ls>	
+True	4	454611	pU	<ls n="TBR. 2,3,9,">4.</ls>	
+fixed	4	454629	pU	<ls>TBR. 1,7,6,1. 3,2,3,10.</ls>	<ls>TBR. 1,7,6,1.</ls> <ls n="TBR.">3,2,3,10.</ls>
+True	4	454630	pU	<ls n="TBR. 1,7,">5,1.</ls>	
+True	4	454635	pU	<ls>TBR. 3,7,12,6.</ls>	
+True	4	454669	pU	<ls>TBR. 2,3,9,1.</ls>	
+None	4	455261	pUti	<ls>TBR. Comm. 181,18</ls>	
+None	4	455273	pUtika	<ls>TBR. Comm. 181,12. 20.</ls>	
+True	4	456040	pUrRapAtra	<ls>TBR. 3,3,10,4.</ls>	
+fixed	4	456094	pUrRamAsa	<ls>TBR. 1,2,1,14. 3,7,5,13.</ls>	<ls>TBR. 1,2,1,14.</ls> <ls n="TBR.">3,7,5,13.</ls>
+True	4	456212	pUrRAhuti	<ls>TBR. 3,8,10,5.</ls>	
+True	4	456306	pUrta	<ls>TBR. 3,7,5,4.</ls>	
+True	4	456410	pUrva	<ls>TBR. 2,1,8,1.</ls>	
+True	4	456970	pUrvaTA	<ls>TBR. 2,5,4,5.</ls>	
+True	4	457065	pUrvapakza	<ls>TBR. 3,10,4,1.</ls>	
+True	4	457377	pUrvavayasin	<ls>TBR. 3,8,13,3.</ls>	
+True	4	457387	pUrvavah	<ls>TBR. 1,1,5,6.</ls>	
+True	4	457518	pUrvahoma	<ls>TBR. 3,8,17,1.</ls>	
+True	4	457834	pUrvedyus	<ls>TBR. 1,3,10,1.</ls>	
+True	4	457835	pUrvedyus	<ls n="TBR.">3,2,3,1.</ls>	
+True	4	458009	pUzan	<ls>TBR. 1,7,2,4.</ls>	
+True	4	458181	pftana	<ls>TBR. 2,4,7,5.</ls>	
+True	4	458273	pftanAzAhya	<ls>TBR. 2,4,7,5.</ls>	
+fixed	4	458334	pfTa	<ls>TBR. 1,6,4,2. 3.</ls>	<ls>TBR. 1,6,4,2.</ls> <ls n="TBR. 1,6,4,">3.</ls>
+True	4	458592	pfTi	<ls>TBR. 1,7,7,4</ls>	
+True	4	458608	pfTivitva	<ls>TBR. 1,1,3,7.</ls>	
+True	4	458732	pfTivIpati	<ls>TBR. 3,11,4,1.</ls>	
+True	4	458829	pfTI	<ls>TBR. 2,7,5,1.</ls>	
+True	4	458985	pfTuka	<ls>TBR. 3,8,14,3.</ls>	
+True	4	459470	pfSni	<ls>TBR. 2,2,6,1.</ls>	
+True	4	459479	pfSni	<ls>TBR. 1,4,1,5.</ls>	
+True	4	459582	pfSnivant	<ls>TBR. 2,2,6,1.</ls>	
+True	4	459916	pfzWa	<ls>TBR. 1,5,6,1.</ls>	
+fixed	4	459939	pfzWa	<ls>TBR. 1,2,1,24. 2,4,2,6.</ls>	<ls>TBR. 1,2,1,24.</ls> <ls n="TBR.">2,4,2,6.</ls>
+fixed	4	460004	pfzWa	<ls>TBR. 1,8,8,3. 4,7,7. 2,2,3. 4,3.</ls>	<ls>TBR. 1,8,8,3.</ls> <ls n="TBR. 1,">4,7,7.</ls> <ls n="TBR. 1,">2,2,3.</ls> <ls n="TBR. 1,2,">4,3.</ls>
+True	4	460063	pfzWatas	<ls>TBR. 1,1,2,8.</ls>	
+None	4	460440	petva	<ls>TBR. Comm.</ls>	
+True	4	460446	petva	<ls>TBR. 1,2,5,3.</ls>	
+True	4	460625	peSala	<ls>TBR. 3,3,4,5.</ls>	
+True	4	462022	pOMScaleya	<ls>TBR. 3,8,4,2.</ls>	
+True	4	462084	pOYjizWa	<ls>TBR. 3,4,1,5.</ls>	
+True	4	462264	pOtudrava	<ls>TBR. 3,8,20,1.</ls>	
+True	4	462293	pOtra	<ls>TBR. 2,1,8,3.</ls>	
+True	4	462887	pOrRamAsa	<ls>TBR. 3,7,4,4.</ls>	
+True	4	463310	pOzRa	<ls>TBR. 2,7,2,1.</ls>	
+fixed	4	464113	prakASa	<ls>TBR. 2,2,1,4. 6,3.</ls>	<ls>TBR. 2,2,1,4.</ls> <ls n="TBR. 2,2,">6,3.</ls>
+True	4	464159	prakASa	<ls>TBR. 1,8,2,3.</ls>	
+True	4	465778	praGAsya	<ls>TBR. 1,6,5,3.</ls>	
+True	4	466553	praC	<ls>TBR. 3,10,9,5.</ls>	
+fixed	4	466744	prajanana	<ls>TBR. 1,1,3,2. 3,1,4.</ls>	<ls>TBR. 1,1,3,2.</ls> <ls n="TBR. 1,">3,1,4.</ls>
+fixed	4	466756	prajanana	<ls>TBR. 2,2,9,3. 6.</ls>	<ls>TBR. 2,2,9,3.</ls> <ls n="TBR. 2,2,9,">6.</ls>
+True	4	466763	prajanana	<ls>TBR. 3,11,9,6.</ls>	
+True	4	466785	prajanayitar	<ls>TBR. 1,7,2,3.</ls>	
+True	4	467018	prajAti	<ls>TBR. 3,3,8,3.</ls>	
+True	4	467126	prajApati	<ls>TBR. 2,2,10,1.</ls>	
+fixed	4	467127	prajApati	<ls n="TBR. 2,">8,1,3. 4.</ls>	<ls n="TBR. 2,">8,1,3.</ls> <ls n="TBR. 2,8,1,">4.</ls>
+True	4	467128	prajApati	<ls n="TBR. 2,">7,1,4.</ls>	
+True	4	468108	praRI	<ls>TBR. 2,4,7,3.</ls>	
+True	4	470051	pratiduh	<ls>TBR. 2,7,6,2.</ls>	
+True	4	470193	pratiDfzya	<ls>TBR. 3,8,5,2.</ls>	
+None	4	470278	pratiniDi	<ls n="TBR.">I,181.</ls>	
+True	4	470573	pratipad	<ls>TBR. 3,8,15,11.</ls>	
+True	4	470577	pratipad	<ls>TBR. 1,4,6,2.</ls>	
+fixed	4	470824	pratipuruzam	<ls>TBR. 1,6,4,5. 10,1.</ls>	<ls>TBR. 1,6,4,5.</ls> <ls n="TBR. 1,6,">10,1.</ls>
+True	4	471509	pratimA	<ls>TBR. 3,2,8,8.</ls>	
+True	4	471540	pratimA	<ls>TBR. 1,1,6,7.</ls>	
+True	4	471938	pratirUpa	<ls>TBR. 3,9,22,2.</ls>	
+True	4	472104	pratiloma	<ls>TBR. 2,3,2,1.</ls>	
+True	4	472578	prativeSa	<ls>TBR. 1,6,7,1.</ls>	
+None	4	472579	prativeSa	<ls>TBR. II,54.</ls>	
+True	4	472852	pratizicya	<ls>TBR. 2,1,3,2.</ls>	
+None	4	472862	pratizeka	<ls n="TBR.">II,376.</ls>	
+fixed	4	473020	pratizWA	<ls>TBR. 1,2,1,4. 3,2,9,11.</ls>	<ls>TBR. 1,2,1,4.</ls> <ls n="TBR.">3,2,9,11.</ls>
+True	4	473059	pratizWA	<ls>TBR. 1,5,2,2.</ls>	
+True	4	473145	pratizWAna	<ls>TBR. 3,3,8,3.</ls>	
+fixed	4	473207	pratizWiti	<ls>TBR. 1,2,1,27. 2,1,3,8.</ls>	<ls>TBR. 1,2,1,27.</ls> <ls n="TBR.">2,1,3,8.</ls>
+True	4	473641	pratihartar	<ls>TBR. 1,8,2,3.</ls>	
+True	4	473833	pratIka	<ls>TBR. 1,8,6,4.</ls>	
+True	4	473931	pratIkza	<ls>TBR. 3,4,1,19.</ls>	
+True	4	474037	pratIcIna	<ls>TBR. 1,3,7,7.</ls>	
+True	4	474041	pratIcIna	<ls>TBR. 3,2,5,6.</ls>	
+True	4	474052	pratIcIna	<ls>TBR. 1,5,3,1.</ls>	
+True	4	474643	pratyakza	<ls>TBR. 2,7,3,2.</ls>	
+True	4	475002	pratyaYc	<ls>TBR. 1,1,4,4.</ls>	
+True	4	475018	pratyaYc	<ls>TBR. 1,4,4,5.</ls>	
+True	4	475046	pratyaYc	<ls>TBR. 1,7,7,5.</ls>	
+fixed	4	475361	pratyayanastva	<ls>TBR. 1,1,9,6. 7.</ls>	<ls>TBR. 1,1,9,6.</ls> <ls n="TBR. 1,1,9,">7.</ls>
+None	4	475437	pratyarDi	<ls>TBR. Comm. 1,536</ls>	
+True	4	476149	pratyuttabDi	<ls>TBR. 1,2,3,2</ls>	
+True	4	476525	praT	<ls>TBR. 1,2,1,22.</ls>	
+True	4	476526	praT	<ls n="TBR. 1,">4,10,9.</ls>	
+True	4	476589	praT	<ls>TBR. 1,1,3,6.</ls>	
+True	4	476590	praT	<ls n="TBR.">3,3,7,5.</ls>	
+True	4	476683	praTana	<ls>TBR. 1,2,1,4.</ls>	
+True	4	476751	praTama	<ls>TBR. 2,3,1,3.</ls>	
+True	4	476877	praTamaja	<ls>TBR. 1,6,1,11.</ls>	
+True	4	476883	praTamaja	<ls>TBR. 2,8,1,4.</ls>	
+True	4	477264	pradara	<ls>TBR. 1,5,10,7.</ls>	
+fixed	4	477367	pradAtar	<ls>TBR. 1,7,3,1. 3,2,3,7.</ls>	<ls>TBR. 1,7,3,1.</ls> <ls n="TBR.">3,2,3,7.</ls>
+True	4	477399	pradAna	<ls>TBR. 2,2,7,3.</ls>	
+fixed	4	477489	pradApayitar	<ls>TBR. 1,7,1,1. 2,3. 4. 3,7,1,5.</ls>	<ls>TBR. 1,7,1,1.</ls> <ls n="TBR. 1,7,">2,3.</ls> <ls n="TBR. 1,7,2,">4.</ls> <ls n="TBR.">3,7,1,5.</ls>
+True	4	477550	pradAha	<ls>TBR. 1,1,3,12.</ls>	
+True	4	478715	prapA	<ls>TBR. 3,10,1,2.</ls>	
+True	4	478828	prapAda	<ls>TBR. 3,2,1,5.</ls>	
+True	4	478841	prapAduka	<ls>TBR. 3,2,1,5.</ls>	
+True	4	479338	prabAhuk	<ls>TBR. 2,7,18,3.</ls>	
+True	4	480147	praBu	<ls>TBR. 1,1,7,3.</ls>	
+True	4	480278	praBUti	<ls>TBR. 2,2,2,6.</ls>	
+True	4	480447	praBraMSuka	<ls>TBR. 3,9,14,2.</ls>	
+True	4	481255	pramAyuka	<ls>TBR. 1,3,10,10.</ls>	
+True	4	481327	pramukti	<ls>TBR. 3,8,18,4.</ls>	
+True	4	481457	pramfRa	<ls>TBR. 1,4,8,6.</ls>	
+True	4	482028	prayukti	<ls>TBR. 2,2,11,1.</ls>	
+True	4	482051	prayuj	<ls>TBR. 3,4,1,5</ls>	
+True	4	483666	pravasaTa	<ls>TBR. 1,1,10,6.</ls>	
+True	4	484891	pravyADa	<ls>TBR. 1,3,6,3.</ls>	
+True	4	485389	praSizwi	<ls>TBR. 2,4,6,12.</ls>	
+True	4	485407	praSis	<ls>TBR. 3,7,5,11.</ls>	
+True	4	485451	praSna	<ls>TBR. 3,10,9,3.</ls>	
+True	4	485474	praSna	<ls>TBR. 2,1,6,2.</ls>	
+True	4	485708	prazwi	<ls>TBR. 3,8,21,3.</ls>	
+True	4	485710	prazwi	<ls>TBR. 1,5,12,5.</ls>	
+fixed	4	485729	prazwivAhin	<ls>TBR. 1,3,6,4. 7,1,5. 9,1.</ls>	<ls>TBR. 1,3,6,4.</ls> <ls n="TBR. 1,">7,1,5.</ls> <ls n="TBR. 1,7,">9,1.</ls>
+fixed	4	486205	prasava	<ls>TBR. 1,5,1,3. 3,1.</ls>	<ls>TBR. 1,5,1,3.</ls> <ls n="TBR. 1,5,">3,1.</ls>
+True	4	486215	prasava	<ls>TBR. 1,8,1,1.</ls>	
+True	4	486322	prasavitar	<ls>TBR. 3,10,9,7.</ls>	
+True	4	486699	prasAraRa	<ls>TBR. 3,11,7,2.</ls>	
+True	4	486768	prasiti	<ls>TBR. 3,7,13,4.</ls>	
+True	4	486906	prasU	<ls>TBR. 1,6,3,2.</ls>	
+fixed	4	486929	prasUti	<ls>TBR. 1,7,3,5. 4,2.</ls>	<ls>TBR. 1,7,3,5.</ls> <ls n="TBR. 1,7,">4,2.</ls>
+True	4	487450	prastotar	<ls>TBR. 1,8,2,3.</ls>	
+True	4	487762	prasraMsa	<ls>TBR. 3,2,3,1.</ls>	
+True	4	488485	prahrAda	<ls>TBR. 1,5,9,1.</ls>	
+True	4	488743	prAkASa	<ls>TBR. 1,8,2,3</ls>	
+True	4	489626	prAcIna	<ls>TBR. 1,5,3,1.</ls>	
+True	4	489755	prAcInAvItin	<ls>TBR. 1,4,6,6.</ls>	
+True	4	489927	prAjApatya	<ls>TBR. 2,1,2,2</ls>	
+True	4	489946	prAjApatya	<ls>TBR. 2,7,1,3.</ls>	
+True	4	490175	prAYc	<ls>TBR. 1,3,6,5.</ls>	
+True	4	490386	prARa	<ls>TBR. 1,3,7,4.</ls>	
+fixed	4	491301	prAtaranuvAka	<ls>TBR. 1,5,9,7. 2,2,3,6.</ls>	<ls>TBR. 1,5,9,7.</ls> <ls n="TBR.">2,2,3,6.</ls>
+True	4	491413	prAtaryukta	<ls>TBR. 2,4,3,7.</ls>	
+True	4	491444	prAtastana	<ls>TBR. 1,5,3,1.</ls>	
+True	4	491479	prAtaHsavana	<ls>TBR. 2,7,1,3.</ls>	
+True	4	492632	prAyaRa	<ls>TBR. 2,1,5,1.</ls>	
+True	4	492660	prAyaRIya	<ls>TBR. 1,5,9,3.</ls>	
+True	4	493003	prArTa	<ls>TBR. 2,1,2,12.</ls>	
+True	4	493352	prAvitra	<ls>TBR. 3,4,5,1.</ls>	
+True	4	493413	prAvfz	<ls>TBR. 1,8,4,2.</ls>	
+True	4	493661	prASU	<ls>TBR. 1,1,5,1.</ls>	
+True	4	493693	prASya	<ls>TBR. 1,3,10,6.</ls>	
+True	4	493771	prAsaca	<ls>TBR. 3,12,7,4.</ls>	
+True	4	493792	prAsah	<ls>TBR. 2,4,2,7</ls>	
+True	4	493802	prAsaha	<ls>TBR. 2,4,2,7</ls>	
+True	4	494343	priyaNgu	<ls>TBR. 3,8,14,6.</ls>	
+True	4	494790	prI	<ls>TBR. 3,6,14,3.</ls>	
+True	4	494854	prI	<ls>TBR. 1,1,10,6.</ls>	
+fixed	4	494911	prI	<ls>TBR. 1,3,10,4. 5</ls>	<ls>TBR. 1,3,10,4.</ls> <ls n="TBR. 1,3,10,">5</ls>
+True	4	496216	prEyyameDa	<ls>TBR. 2,1,9,1.</ls>	
+fixed	4	496321	prokzaRa	<ls>TBR. 3,2,9,14. 2,1,5,1.</ls>	<ls>TBR. 3,2,9,14.</ls> <ls n="TBR.">2,1,5,1.</ls>
+True	4	496566	prozWa	<ls>TBR. 2,7,17,1.</ls>	
+True	4	496586	prozWapada	<ls>TBR. 1,5,2,9.</ls>	
+True	4	496619	prozya	<ls>TBR. 3,12,7,2.</ls>	
+True	4	496844	plakza	<ls>TBR. 3,8,19,2.</ls>	
+fixed	4	496862	plakza	<ls>TBR. 3,10,9,3. 5.</ls>	<ls>TBR. 3,10,9,3.</ls> <ls n="TBR. 3,10,9,">5.</ls>
+True	4	497503	plu	<ls>TBR. 3,8,4,2.</ls>	
+True	4	497537	plu	<ls>TBR. 1,3,5,2.</ls>	
+True	4	497628	plu	<ls>TBR. 3,2,8,2.</ls>	
+True	4	497950	pleNKa	<ls>TBR. 1,2,6,6.</ls>	
+True	4	498168	PaRa	<ls>TBR. 3,10,1,4.</ls>	
+fixed	4	499421	PalIkar	<ls>TBR. 3,2,5,11. 7,6,20.</ls>	<ls>TBR. 3,2,5,11.</ls> <ls n="TBR. 3,">7,6,20.</ls>
+True	4	499431	PalIkaraRa	<ls>TBR. 3,3,9,9.</ls>	
+None	4	499565	Palgu	<ls>TBR. Comm. 179,15.</ls>	
+True	4	499644	Palguna	<ls>TBR. 1,1,2,3.</ls>	
+True	4	499984	PAlguna	<ls>TBR. 1,4,7,5.</ls>	
+True	4	500298	Pena	<ls>TBR. 1,7,1,7.</ls>	
+True	4	500913	bata	<ls>TBR. 3,10,9,12.</ls>	
+True	4	501013	badara	<ls>TBR. 1,8,5,1.</ls>	
+True	4	501387	banD	<ls>TBR. 3,8,3,1.</ls>	
+True	4	501427	banD	<ls>TBR. 1,2,6,4.</ls>	
+True	4	501649	banD	<ls>TBR. 1,8,3,2.</ls>	
+True	4	501992	banD	<ls>TBR. 3,8,4,3.</ls>	
+True	4	502252	banDana	<ls>TBR. 3,8,9,4.</ls>	
+True	4	502409	banDu	<ls>TBR. 3,7,5,5.</ls>	
+True	4	503104	barh	<ls>TBR. 1,1,2,5.</ls>	
+True	4	503161	barh	<ls>TBR. 3,8,4,1.</ls>	
+fixed	4	503211	barh	<ls>TBR. 1,1,6,10. 6,8,9.</ls>	<ls>TBR. 1,1,6,10.</ls> <ls n="TBR. 1,">6,8,9.</ls>
+True	4	503360	barhas	<ls>TBR. 2,7,13,2</ls>	
+True	4	503490	barhizad	<ls>TBR. 3,3,8,5.</ls>	
+True	4	503558	barhizya	<ls>TBR. 2,1,5,2.</ls>	
+True	4	503885	balakza	<ls>TBR. 3,8,23,3.</ls>	
+True	4	504579	bali	<ls>TBR. 1,2,3,2.</ls>	
+fixed	4	504580	bali	<ls n="TBR.">2,7,18,3. 3,12,2,7.</ls>	<ls n="TBR.">2,7,18,3.</ls> <ls n="TBR.">3,12,2,7.</ls>
+True	4	504736	balin	<ls>TBR. 3,9,1,3.</ls>	
+True	4	504842	balimant	<ls>TBR. 3,12,2,7.</ls>	
+True	4	504854	balivarda	<ls>TBR. 3,8,20,5.</ls>	
+True	4	504888	balizWa	<ls>TBR. 3,8,7,1.</ls>	
+True	4	504958	balIyaMs	<ls>TBR. 1,5,9,1.</ls>	
+True	4	505201	basta	<ls>TBR. 1,3,7,7.</ls>	
+True	4	505374	bahirDA	<ls>TBR. 1,8,6,1.</ls>	
+True	4	505614	bahizpavamAna	<ls>TBR. 1,5,9,7.</ls>	
+fixed	4	505615	bahizpavamAna	<ls>TBR. 2,2,8,3. 3,8,22,1.</ls>	<ls>TBR. 2,2,8,3.</ls> <ls n="TBR.">3,8,22,1.</ls>
+True	4	505742	bahiHsad	<ls>TBR. 3,4,1,16.</ls>	
+True	4	505781	bahu	<ls>TBR. 2,2,3,3.</ls>	
+True	4	505811	bahu	<ls>TBR. 3,8,5,3.</ls>	
+True	4	506402	bahuparRa	<ls>TBR. 3,2,1,2.</ls>	
+True	4	506801	bahurUpa	<ls>TBR. 1,6,8,3.</ls>	
+True	4	506802	bahurUpa	<ls n="TBR. 1,">4,7,1.</ls>	
+fixed	4	506803	bahurUpa	<ls n="TBR.">1,6,3,2. 3. 3,9,2,4.</ls>	<ls n="TBR.">1,6,3,2.</ls> <ls n="TBR. 1,6,3,">3.</ls> <ls n="TBR.">3,9,2,4.</ls>
+True	4	506894	bahula	<ls>TBR. 2,5,4,3.</ls>	
+True	4	506910	bahula	<ls>TBR. 3,2,7,6.</ls>	
+True	4	507176	bahuvid	<ls>TBR. 3,12,5,11.</ls>	
+True	4	507285	bahuSAKa	<ls>TBR. 3,2,1,2.</ls>	
+True	4	507981	bAD	<ls>TBR. 1,1,3,8.</ls>	
+True	4	508061	bAD	<ls>TBR. 3,2,9,5.</ls>	
+True	4	509796	bAhucyuta	<ls>TBR. 3,7,13,1</ls>	
+True	4	509902	bAhubalin	<ls>TBR. 3,8,23,3.</ls>	
+True	4	510265	bAhyatas	<ls>TBR. 3,3,1,5.</ls>	
+True	4	510885	bila	<ls>TBR. 3,7,4,16.</ls>	
+True	4	511760	bIBatsa	<ls>TBR. 1,1,3,9.</ls>	
+True	4	512622	buD	<ls>TBR. 2,3,1,3.</ls>	
+True	4	512955	buDanvant	<ls>TBR. 1,3,1,3.</ls>	
+True	4	513023	buDna	<ls>TBR. 3,7,2,7.</ls>	
+True	4	513046	buDniya	<ls>TBR. 3,1,2,11</ls>	
+True	4	513063	buDnya	<ls>TBR. 1,1,10,3.</ls>	
+None	4	513790	bfhatsoma	<ls>TBR. II, S. 781, Z. 1</ls>	
+None	4	513792	bfhatsoma	<ls n="TBR. II,">S. 23,8</ls>	
+True	4	514447	bfhant	<ls>TBR. 2,7,18,4.</ls>	
+True	4	514727	bfhaspatisava	<ls>TBR. 2,7,1,2.</ls>	
+True	4	515448	braDna	<ls>TBR. 3,7,5,7.</ls>	
+True	4	515454	braDna	<ls>TBR. 3,7,5,13</ls>	
+True	4	515768	brahmacarya	<ls>TBR. 3,10,11,3.</ls>	
+True	4	515770	brahmacarya	<ls>TBR. 3,7,6,3.</ls>	
+True	4	515941	brahmajya	<ls>TBR. 3,7,9,2.</ls>	
+True	4	515957	brahmajyezWa	<ls>TBR. 2,4,7,10.</ls>	
+fixed	4	516053	brahmaRvant	<ls>TBR. 2,5,5,1. 3,12,2,4.</ls>	<ls>TBR. 2,5,5,1.</ls> <ls n="TBR.">3,12,2,4.</ls>
+True	4	516314	brahman	<ls>TBR. 2,2,1,4.</ls>	
+True	4	516364	brahman	<ls>TBR. 2,1,10,3.</ls>	
+True	4	516460	brahman	<ls>TBR. 2,7,17,1</ls>	
+True	4	516827	brahmaBAga	<ls>TBR. 3,3,8,9.</ls>	
+fixed	4	517242	brahmavarcasa	<ls>TBR. 1,7,8,7. 2,1,3,2. 7,1,1.</ls>	<ls>TBR. 1,7,8,7.</ls> <ls n="TBR.">2,1,3,2.</ls> <ls n="TBR. 2,">7,1,1.</ls>
+True	4	517247	brahmavarcasa	<ls>TBR. 2,1,3,2.</ls>	
+True	4	517260	brahmavarcasin	<ls>TBR. 2,1,3,3.</ls>	
+True	4	517307	brahmavAda	<ls>TBR. 1,2,1,6.</ls>	
+True	4	517318	brahmavAdin	<ls>TBR. 1,3,10,6.</ls>	
+True	4	517358	brahmavid	<ls>TBR. 1,4,8,6.</ls>	
+True	4	517530	brahmasaMSita	<ls>TBR. 3,5,3,1.</ls>	
+fixed	4	517643	brahmasAma	<ls>TBR. 1,2,4,3. 4,6,3. 8,2,5.</ls>	<ls>TBR. 1,2,4,3.</ls> <ls n="TBR. 1,">4,6,3.</ls> <ls n="TBR. 1,">8,2,5.</ls>
+True	4	517804	brahmahan	<ls>TBR. 3,2,8,12.</ls>	
+fixed	4	518182	brahmOdana	<ls>TBR. 1,1,9,1. 3,9,18,1. 8,2,1.</ls>	<ls>TBR. 1,1,9,1.</ls> <ls n="TBR.">3,9,18,1.</ls> <ls n="TBR. 3,">8,2,1.</ls>
+True	4	518323	brAhmaRa	<ls>TBR. 1,1,4,8.</ls>	
+fixed	4	518342	brAhmaRa	<ls>TBR. 1,4,4,2. 1,2,5. 6. 2,7,3,1.</ls>	<ls>TBR. 1,4,4,2.</ls> <ls n="TBR. 1,">1,2,5.</ls> <ls n="TBR. 1,1,2,">6.</ls> <ls n="TBR.">2,7,3,1.</ls>
+True	4	518404	brAhmaRa	<ls>TBR. 1,3,10,3.</ls>	
+True	4	518548	brAhmaRavant	<ls>TBR. 1,2,5,3.</ls>	
+True	4	518593	brAhmaRAcCaMsin	<ls>TBR. 1,7,6,1.</ls>	
+None	4	518726	brAhmOdanika	<ls n="TBR.">II, S. 57.</ls>	
+True	4	518877	brU	<ls>TBR. 1,1,2,5.</ls>	
+True	4	518902	brU	<ls>TBR. 1,4,6,6.</ls>	
+True	4	518942	brU	<ls>TBR. 1,7,10,6.</ls>	
+True	4	519015	brU	<ls>TBR. 3,11,8,2.</ls>	
+True	4	519660	Bakza	<ls>TBR. 3,10,8,2.</ls>	
+True	4	519785	Bakzayitar	<ls>TBR. 3,7,5,7.</ls>	
+True	4	519827	BakzivaMs	<ls>TBR. 3,7,5,7.</ls>	
+True	4	519928	Baga	<ls>TBR. 1,5,3,3.</ls>	
+True	4	519930	Baga	<ls>TBR. 1,1,2,4.</ls>	
+fixed	4	519997	Baga	<ls>TBR. 1,5,3,3. 7,3,3.</ls>	<ls>TBR. 1,5,3,3.</ls> <ls n="TBR. 1,">7,3,3.</ls>
+True	4	520401	Bagin	<ls>TBR. 1,1,2,4.</ls>	
+True	4	521128	Baj	<ls>TBR. 2,1,6,4.</ls>	
+True	4	521162	Baj	<ls>TBR. 1,1,5,6.</ls>	
+True	4	521567	BaYj	<ls>TBR. 1,5,1,4.</ls>	
+True	4	522305	Badra	<ls>TBR. 1,1,2,3.</ls>	
+True	4	522306	Badra	<ls n="TBR. 1,1,">4,4.</ls>	
+True	4	522963	Badravant	<ls>TBR. 3,4,1,15.</ls>	
+True	4	523009	BadravAcya	<ls>TBR. 3,3,8,11.</ls>	
+True	4	524145	Bar	<ls>TBR. 1,2,6,1.</ls>	
+True	4	524338	BaraRa	<ls>TBR. 3,1,2,11.</ls>	
+True	4	524433	Barata	<ls>TBR. 3,7,5,5.</ls>	
+True	4	524447	Barata	<ls>TBR. 1,7,4,2.</ls>	
+True	4	524921	Bartar	<ls>TBR. 3,1,1,4.</ls>	
+True	4	526225	Bas	<ls>TBR. 1,4,6,1.</ls>	
+True	4	526565	BA	<ls>TBR. 3,11,7,3.</ls>	
+True	4	526568	BA	<ls>TBR. 3,1,1,1</ls>	
+True	4	526641	BA	<ls>TBR. 3,10,1,1.</ls>	
+True	4	526673	BA	<ls>TBR. 3,10,1,1.</ls>	
+True	4	526718	BA	<ls>TBR. 1,2,1,7.</ls>	
+True	4	526787	BA	<ls>TBR. 1,4,10,7.</ls>	
+True	4	526836	BA	<ls>TBR. 3,10,1,1.</ls>	
+True	4	526964	BAga	<ls>TBR. 1,3,10,6.</ls>	
+True	4	527083	BAgaduGa	<ls>TBR. 1,7,3,5.</ls>	
+True	4	527102	BAgaDeya	<ls>TBR. 2,1,1,2.</ls>	
+True	4	527347	BAgin	<ls>TBR. 3,7,5,9.</ls>	
+fixed	4	528802	BArata	<ls>TBR. 1,5,11,1. 2.</ls>	<ls>TBR. 1,5,11,1.</ls> <ls n="TBR. 1,5,11,">2.</ls>
+fixed	4	530396	BAvuka	<ls>TBR. 3,8,13,2. 23,1.</ls>	<ls>TBR. 3,8,13,2.</ls> <ls n="TBR. 3,8,">23,1.</ls>
+True	4	530482	BAz	<ls>TBR. 2,3,9,9.</ls>	
+True	4	531007	BAs	<ls>TBR. 1,1,3,12.</ls>	
+True	4	531178	BAsa	<ls>TBR. 1,2,4,3.</ls>	
+True	4	532302	Bid	<ls>TBR. 1,7,3,4.</ls>	
+fixed	4	532405	Bid	<ls>TBR. 1,1,3,5. 2,1,3.</ls>	<ls>TBR. 1,1,3,5.</ls> <ls n="TBR. 1,">2,1,3.</ls>
+True	4	532496	Bid	<ls>TBR. 3,7,5,6.</ls>	
+True	4	532497	Bid	<ls n="TBR.">1,6,4,2.</ls>	
+True	4	532666	Bindu	<ls>TBR. 2,1,7,1.</ls>	
+fixed	4	532995	Bizajy	<ls>TBR. 1,5,11,2. 3.</ls>	<ls>TBR. 1,5,11,2.</ls> <ls n="TBR. 1,5,11,">3.</ls>
+True	4	533887	BIzA	<ls>TBR. 3,7,8,1.</ls>	
+True	4	533909	BIzma	<ls>TBR. 3,8,23,1.</ls>	
+True	4	533910	BIzma	<ls n="TBR. 1,">12,3,3.</ls>	
+True	4	534350	Buj	<ls>TBR. 3,7,6,1.</ls>	
+True	4	535351	Buvanapati	<ls>TBR. 3,7,6,1.</ls>	
+True	4	535392	Buvanasad	<ls>TBR. 1,3,9,1.</ls>	
+True	4	535604	BU	<ls>TBR. 1,3,10,9.</ls>	
+True	4	535685	BU	<ls>TBR. 1,1,6,1.</ls>	
+True	4	535787	BU	<ls>TBR. 1,7,7,4.</ls>	
+True	4	535791	BU	<ls>TBR. 2,1,3,12.</ls>	
+True	4	535916	BU	<ls>TBR. 2,1,8,1.</ls>	
+True	4	536091	BU	<ls>TBR. 1,4,6,4.</ls>	
+fixed	4	536214	BU	<ls>TBR. 1,5,12,1. 3.</ls>	<ls>TBR. 1,5,12,1.</ls> <ls n="TBR. 1,5,12,">3.</ls>
+True	4	536265	BU	<ls>TBR. 1,1,4,4.</ls>	
+fixed	4	536292	BU	<ls>TBR. 1,1,8,6. 7,1,6.</ls>	<ls>TBR. 1,1,8,6.</ls> <ls n="TBR. 1,">7,1,6.</ls>
+True	4	536312	BU	<ls>TBR. 3,12,3,1.</ls>	
+True	4	536418	BU	<ls>TBR. 1,5,2,5.</ls>	
+True	4	536513	BU	<ls>TBR. 2,2,2,5.</ls>	
+True	4	536645	BU	<ls>TBR. 1,3,3,4.</ls>	
+fixed	4	537178	BUta	<ls>TBR. 3,8,17,3. 12,8,3.</ls>	<ls>TBR. 3,8,17,3.</ls> <ls n="TBR. 3,">12,8,3.</ls>
+True	4	537313	BUta	<ls>TBR. 3,7,10,1.</ls>	
+True	4	538152	BUti	<ls>TBR. 2,5,6,5.</ls>	
+True	4	538579	BUpati	<ls>TBR. 3,7,6,1.</ls>	
+True	4	539566	BUyaMs	<ls>TBR. 1,7,3,2.</ls>	
+True	4	539783	BUyizWaBAj	<ls>TBR. 3,7,11,5.</ls>	
+True	4	539906	BUrikarman	<ls>TBR. 3,7,6,13.</ls>	
+True	4	539990	BUridA	<ls>TBR. 3,1,1,12</ls>	
+True	4	540820	Bfgu	<ls>TBR. 1,8,2,5.</ls>	
+True	4	542290	Bezaja	<ls>TBR. 3,1,2,9.</ls>	
+True	4	542326	BezajatA	<ls>TBR. 1,5,9,7.</ls>	
+True	4	542824	Boga	<ls>TBR. 2,3,10,3.</ls>	
+True	4	544374	BraMS	<ls>TBR. 2,7,14,2.</ls>	
+True	4	545353	BrAj	<ls>TBR. 3,1,2,8.</ls>	
+True	4	545439	BrAjas	<ls>TBR. 3,11,1,21.</ls>	
+True	4	545641	BrAtfvya	<ls>TBR. 1,2,6,7.</ls>	
+True	4	546090	BrURahatyA	<ls>TBR. 3,8,20,1.</ls>	
+True	4	546105	BrURahan	<ls>TBR. 3,9,15,3.</ls>	
+True	4	547167	maGa	<ls>TBR. 3,1,1,8</ls>	
+True	4	548051	majj	<ls>TBR. 1,1,3,6.</ls>	
+True	4	548141	majj	<ls>TBR. 1,1,3,6.</ls>	
+True	4	548183	majjan	<ls>TBR. 2,3,6,2.</ls>	
+True	4	549768	maRw	<ls>TBR. 2,3,9,9.</ls>	
+True	4	551647	maT	<ls>TBR. 1,1,9,1.</ls>	
+fixed	4	551761	maT	<ls>TBR. 1,6,8,4. 5.</ls>	<ls>TBR. 1,6,8,4.</ls> <ls n="TBR. 1,6,8,">5.</ls>
+True	4	552109	mad	<ls>TBR. 3,1,1,10</ls>	
+True	4	552200	mad	<ls>TBR. 3,1,1,15</ls>	
+True	4	552209	mad	<ls>TBR. 3,1,1,14</ls>	
+fixed	4	552230	mad	<ls>TBR. 1,8,3,1. 6,3,6. 7,7,1.</ls>	<ls>TBR. 1,8,3,1.</ls> <ls n="TBR. 1,">6,3,6.</ls> <ls n="TBR. 1,">7,7,1.</ls>
+True	4	553865	maDavya	<ls>TBR. 1,7,5,5.</ls>	
+fixed	4	553903	maDu	<ls>TBR. 3,1,2,4. 13</ls>	<ls>TBR. 3,1,2,4.</ls> <ls n="TBR. 3,1,2,">13</ls>
+True	4	554225	maDukft	<ls>TBR. 3,10,10,1.</ls>	
+fixed	4	554816	maDumant	<ls>TBR. 3,1,1,7. 2,2</ls>	<ls>TBR. 3,1,1,7.</ls> <ls n="TBR. 3,1,">2,2</ls>
+True	4	555423	maDuvfza	<ls>TBR. 3,10,10,1.</ls>	
+True	4	555541	maDus	<ls>TBR. 3,3,4,1.</ls>	
+True	4	556114	maDyatas	<ls>TBR. 1,2,6,2.</ls>	
+True	4	556115	maDyatas	<ls n="TBR.">2,7,7,7.</ls>	
+True	4	556119	maDyatas	<ls>TBR. 3,1,1,6</ls>	
+True	4	556202	maDyaMdina	<ls>TBR. 1,5,3,2.</ls>	
+True	4	556394	maDyama	<ls>TBR. 3,11,9,6.</ls>	
+True	4	557191	man	<ls>TBR. 2,3,8,2.</ls>	
+fixed	4	557441	man	<ls>TBR. 1,7,2,1. 3,7,5,2. 10,9,6.</ls>	<ls>TBR. 1,7,2,1.</ls> <ls n="TBR.">3,7,5,2.</ls> <ls n="TBR. 3,">10,9,6.</ls>
+True	4	557456	man	<ls>TBR. 2,7,3,2.</ls>	
+True	4	557556	man	<ls>TBR. 1,5,6,7.</ls>	
+True	4	558054	manas	<ls>TBR. 2,2,9,1.</ls>	
+True	4	558085	manas	<ls>TBR. 1,2,1,17.</ls>	
+True	4	558136	manasaspati	<ls>TBR. 3,7,4,1.</ls>	
+True	4	558262	manasy	<ls>TBR. 2,3,8,3.</ls>	
+True	4	558293	manasvin	<ls>TBR. 2,3,8,3.</ls>	
+True	4	558614	manu	<ls>TBR. 1,1,4,8</ls>	
+True	4	558616	manu	<ls>TBR. 2,2,5,3.</ls>	
+True	4	558624	manu	<ls>TBR. 1,5,6,3.</ls>	
+True	4	558705	manu	<ls>TBR. 2,3,8,3.</ls>	
+True	4	558706	manu	<ls>TBR. 1,3,5,3.</ls>	
+True	4	558898	manuzya	<ls>TBR. 2,3,8,3.</ls>	
+True	4	558912	manuzya	<ls>TBR. 1,3,10,9</ls>	
+True	4	558979	manuzyatva	<ls>TBR. 2,3,8,3.</ls>	
+True	4	559027	manuzyaloka	<ls>TBR. 2,1,8,1.</ls>	
+True	4	559050	manuzyasava	<ls>TBR. 2,7,5,1.</ls>	
+True	4	559223	manojavas	<ls>TBR. 2,7,7,6.</ls>	
+True	4	560403	mantray	<ls>TBR. 2,3,11,1.</ls>	
+True	4	560840	manTa	<ls>TBR. 3,12,5,9.</ls>	
+True	4	561124	manTipa	<ls>TBR. 1,1,1,2.</ls>	
+True	4	562252	manyu	<ls>TBR. 1,7,9,4.</ls>	
+True	4	562397	manvidDa	<ls>TBR. 3,5,3,1.</ls>	
+True	4	562604	mayas	<ls>TBR. 2,2,5,5.</ls>	
+True	4	562670	mayUKa	<ls>TBR. 2,5,5,3.</ls>	
+True	4	563091	mar	<ls>TBR. 1,4,4,2.</ls>	
+True	4	563099	mar	<ls>TBR. 3,2,5,1.</ls>	
+fixed	4	563275	marAyu	<ls>TBR. 3,7,6,7. 9</ls>	<ls>TBR. 3,7,6,7.</ls> <ls n="TBR. 3,7,6,">9</ls>
+True	4	563379	marIci	<ls>TBR. 2,2,9,2.</ls>	
+True	4	563380	marIci	<ls n="TBR. 2,">3,3,2.</ls>	
+True	4	563628	marut	<ls>TBR. 2,7,2,2.</ls>	
+True	4	563850	marutvant	<ls>TBR. 1,4,5,2.</ls>	
+True	4	563910	marutstoma	<ls>TBR. 2,7,10,1.</ls>	
+True	4	564242	marka	<ls>TBR. 1,1,1,5.</ls>	
+fixed	4	564504	marj	<ls>TBR. 3,2,8,9. 11.</ls>	<ls>TBR. 3,2,8,9.</ls> <ls n="TBR. 3,2,8,">11.</ls>
+True	4	564528	marj	<ls>TBR. 1,2,1,27.</ls>	
+None	4	564569	marj	<ls>TBR. Comm. 2,384,8.</ls>	
+True	4	564585	marj	<ls>TBR. 2,1,2,1.</ls>	
+True	4	564586	marj	<ls n="TBR. 2,1,2,">2.</ls>	
+True	4	564604	marj	<ls>TBR. 2,1,4,4.</ls>	
+True	4	564751	marj	<ls>TBR. 1,7,4,4.</ls>	
+True	4	564788	marj	<ls>TBR. 3,3,7,3.</ls>	
+True	4	564797	marj	<ls>TBR. 3,3,1,2.</ls>	
+None	4	565121	mard	<ls>TBR. Comm. 2,402,7.</ls>	
+None	4	565689	maryAdA	<ls>TBR. 1,123,18.</ls>	
+True	4	565812	marS	<ls>TBR. 3,11,9,9.</ls>	
+True	4	565978	marS	<ls>TBR. 2,5,2,2</ls>	
+fixed	4	566028	marS	<ls>TBR. 2,1,3,6. 5,10.</ls>	<ls>TBR. 2,1,3,6.</ls> <ls n="TBR. 2,1,">5,10.</ls>
+True	4	567716	masUsya	<ls>TBR. 3,8,14,6.</ls>	
+True	4	567880	mastizka	<ls>TBR. 3,2,8,7.</ls>	
+True	4	567950	mah	<ls>TBR. 3,2,8,3.</ls>	
+True	4	567978	mah	<ls>TBR. 2,5,4,6</ls>	
+True	4	568409	mahant	<ls>TBR. 3,7,10,1.</ls>	
+True	4	568580	mahartvij	<ls>TBR. 3,8,2,4.</ls>	
+True	4	568680	mahas	<ls>TBR. 2,5,1,3.</ls>	
+True	4	568727	mahas	<ls>TBR. 3,8,18,2.</ls>	
+fixed	4	568748	mahas	<ls>TBR. 1,2,6,6. 5,5,6. 3,10,4,2.</ls>	<ls>TBR. 1,2,6,6.</ls> <ls n="TBR. 1,">5,5,6.</ls> <ls n="TBR.">3,10,4,2.</ls>
+True	4	568777	mahasvant	<ls>TBR. 3,12,3,4.</ls>	
+True	4	570295	mahAdivAkIrtya	<ls>TBR. 1,2,4,3.</ls>	
+fixed	4	574067	mahAvrata	<ls>TBR. 1,2,3,4. 6,1.</ls>	<ls>TBR. 1,2,3,4.</ls> <ls n="TBR. 1,2,">6,1.</ls>
+True	4	575381	mahitvana	<ls>TBR. 2,4,8,6.</ls>	
+fixed	4	575458	mahiman	<ls>TBR. 1,1,5,8. 2,1,21.</ls>	<ls>TBR. 1,1,5,8.</ls> <ls n="TBR. 1,">2,1,21.</ls>
+True	4	576089	mahIy	<ls>TBR. 3,10,4,2.</ls>	
+True	4	576273	mahendra	<ls>TBR. 3,5,7,6.</ls>	
+True	4	577266	mA	<ls>TBR. 1,1,4,1.</ls>	
+True	4	577281	mA	<ls>TBR. 1,1,10,4.</ls>	
+True	4	577394	mA	<ls>TBR. 1,1,4,1.</ls>	
+fixed	4	577605	mAMsa	<ls>TBR. 1,1,9,8. 3,3,8,7.</ls>	<ls>TBR. 1,1,9,8.</ls> <ls n="TBR.">3,3,8,7.</ls>
+True	4	579282	mAtariSvan	<ls>TBR. 2,3,9,5.</ls>	
+fixed	4	580057	mAtra	<ls>TBR. 1,4,10,5. 5,10,2.</ls>	<ls>TBR. 1,4,10,5.</ls> <ls n="TBR. 1,">5,10,2.</ls>
+fixed	4	580058	mAtra	<ls n="TBR.">2,2,9,10. 3,9,12,2.</ls>	<ls n="TBR.">2,2,9,10.</ls> <ls n="TBR.">3,9,12,2.</ls>
+True	4	580319	mAtsya	<ls>TBR. 1,5,2,1.</ls>	
+fixed	4	581365	mAna	<ls>TBR. 1,3,7,7. 7,6,2.</ls>	<ls>TBR. 1,3,7,7.</ls> <ls n="TBR. 1,">7,6,2.</ls>
+True	4	582257	mAnuza	<ls>TBR. 1,2,1,15.</ls>	
+True	4	582715	mAya	<ls>TBR. 3,10,8,2.</ls>	
+True	4	583052	mAyu	<ls>TBR. 2,7,7,1</ls>	
+True	4	583468	mAruta	<ls>TBR. 2,7,2,2.</ls>	
+True	4	583961	mArgaRa	<ls>TBR. 3,4,1,12.</ls>	
+True	4	584150	mArgAra	<ls>TBR. 3,4,1,12.</ls>	
+True	4	584342	mArjAlIya	<ls>TBR. 1,4,6,6.</ls>	
+True	4	585679	mAs	<ls>TBR. 1,4,9,1.</ls>	
+None	4	585818	mAsara	<ls>TBR. II,652. 670.</ls>	
+True	4	586485	mi	<ls>TBR. 1,3,6,1.</ls>	
+True	4	586548	mi	<ls>TBR. 3,2,2,5.</ls>	
+True	4	586587	mi	<ls>TBR. 3,6,13,1</ls>	
+True	4	586604	mi	<ls>TBR. 1,3,10,10.</ls>	
+True	4	586604	mi	<ls n="TBR. 1,3,10,">2.</ls>	
+True	4	586605	mi	<ls n="TBR. 1,">4,6,5.</ls>	
+True	4	586665	mi	<ls>TBR. 3,6,13,1</ls>	
+True	4	586981	mitra	<ls>TBR. 1,7,10,1.</ls>	
+True	4	587004	mitra	<ls>TBR. 1,7,4,3.</ls>	
+True	4	587006	mitra	<ls>TBR. 3,11,4,1.</ls>	
+fixed	4	587052	mitra	<ls>TBR. 1,7,8,7. 2,2,7,2.</ls>	<ls>TBR. 1,7,8,7.</ls> <ls n="TBR.">2,2,7,2.</ls>
+True	4	587198	mitradruh	<ls>TBR. 1,7,1,7.</ls>	
+True	4	587811	miTu	<ls>TBR. 3,7,11,5.</ls>	
+True	4	587837	miTuna	<ls>TBR. 1,1,4,8.</ls>	
+True	4	587838	miTuna	<ls n="TBR. 1,1,">6,11.</ls>	
+True	4	587842	miTuna	<ls>TBR. 1,2,1,8.</ls>	
+True	4	587843	miTuna	<ls n="TBR. 1,2,">2,4.</ls>	
+True	4	587867	miTuna	<ls>TBR. 1,6,3,1.</ls>	
+fixed	4	587896	miTunatva	<ls>TBR. 1,1,9,4. 2,1,2,12. 3,3,4,6.</ls>	<ls>TBR. 1,1,9,4.</ls> <ls n="TBR.">2,1,2,12.</ls> <ls n="TBR.">3,3,4,6.</ls>
+True	4	587954	miTus	<ls>TBR. 3,7,5,12.</ls>	
+True	4	588271	mid	<ls>TBR. 1,2,6,3.</ls>	
+True	4	588290	mid	<ls>TBR. 1,2,6,3</ls>	
+fixed	4	588425	mirmira	<ls>TBR. 2,7,1,2. 3,4,1,17.</ls>	<ls>TBR. 2,7,1,2.</ls> <ls n="TBR.">3,4,1,17.</ls>
+True	4	588426	mirmira	<ls n="TBR. 3,4,1,">19.</ls>	
+True	4	589233	mIQvaMs	<ls>TBR. 3,1,2,2.</ls>	
+fixed	4	589399	mImAMsA	<ls>TBR. 3,3,4,6. 8,5.</ls>	<ls>TBR. 3,3,4,6.</ls> <ls n="TBR. 3,3,">8,5.</ls>
+True	4	589400	mImAMsA	<ls n="TBR. 3,">10,9,2.</ls>	
+True	4	589674	mIv	<ls>TBR. 2,6,10,1, v. l.</ls>	
+True	4	589676	mIv	<ls>TBR. 3,6,13,1.</ls>	
+True	4	590618	muKa	<ls>TBR. 3,8,23,1.</ls>	
+True	4	590648	muKa	<ls>TBR. 3,8,23,1.</ls>	
+True	4	590782	muKatas	<ls>TBR. 1,7,3,2.</ls>	
+True	4	590783	muKatas	<ls n="TBR. 1,">1,2,8.</ls>	
+True	4	591287	muKya	<ls>TBR. 1,1,2,1.</ls>	
+True	4	591870	muc	<ls>TBR. 1,7,9,4.</ls>	
+True	4	591996	muc	<ls>TBR. 3,1,1,4</ls>	
+True	4	592063	muc	<ls>TBR. 1,4,3,2.</ls>	
+True	4	592122	muc	<ls>TBR. 1,3,6,9.</ls>	
+True	4	592809	muRqiBa	<ls>TBR. 3,9,15,3.</ls>	
+True	4	592989	mud	<ls>TBR. 3,1,2,10</ls>	
+True	4	593223	mudgala	<ls>TBR. 2,5,6,5.</ls>	
+True	4	594392	muzkara	<ls>TBR. 1,8,2,2.</ls>	
+fixed	4	594465	muzwi	<ls>TBR. 3,2,2,6. 10,11,4.</ls>	<ls>TBR. 3,2,2,6.</ls> <ls n="TBR. 3,">10,11,4.</ls>
+fixed	4	595222	muhUrta	<ls>TBR. 3,10,9,7. 12,9,6.</ls>	<ls>TBR. 3,10,9,7.</ls> <ls n="TBR. 3,">12,9,6.</ls>
+fixed	4	595233	muhUrta	<ls>TBR. 3,10,1,1. 9,7.</ls>	<ls>TBR. 3,10,1,1.</ls> <ls n="TBR. 3,10,">9,7.</ls>
+True	4	595519	mUta	<ls>TBR. 1,6,10,5.</ls>	
+True	4	596170	mUrti	<ls>TBR. 3,12,9,2.</ls>	
+True	4	596737	mUla	<ls>TBR. 3,1,2,3</ls>	
+True	4	596888	mUlatas	<ls>TBR. 3,3,1,3.</ls>	
+fixed	4	597032	mUlabarhaRa	<ls>TBR. 1,5,1,4. 2,5.</ls>	<ls>TBR. 1,5,1,4.</ls> <ls n="TBR. 1,5,">2,5.</ls>
+True	4	597722	mfga	<ls>TBR. 3,2,5,6.</ls>	
+True	4	598229	mfgayu	<ls>TBR. 1,5,1,1.</ls>	
+True	4	598437	mfgaSIrza	<ls>TBR. 3,1,1,3.</ls>	
+None	4	598438	mfgaSIrza	<ls>TBR. Comm. 1,204,6</ls>	
+True	4	598502	mfgAKara	<ls>TBR. 3,9,17,3.</ls>	
+True	4	599412	mftyu	<ls>TBR. 1,5,9,6.</ls>	
+True	4	599582	mftyupASa	<ls>TBR. 3,10,8,2.</ls>	
+fixed	4	600263	mfnmaya	<ls>TBR. 1,4,1,3. 4. 2,2,9,6. 3,2,3,11.</ls>	<ls>TBR. 1,4,1,3.</ls> <ls n="TBR. 1,4,1,">4.</ls> <ls n="TBR.">2,2,9,6.</ls> <ls n="TBR.">3,2,3,11.</ls>
+fixed	4	600512	mekzaRa	<ls>TBR. 1,3,10,4. 3,7,4,9.</ls>	<ls>TBR. 1,3,10,4.</ls> <ls n="TBR.">3,7,4,9.</ls>
+True	4	601003	meGay	<ls>TBR. 3,1,4,1.</ls>	
+True	4	601627	medas	<ls>TBR. 2,8,4,4.</ls>	
+True	4	601690	medin	<ls>TBR. 2,4,5,7</ls>	
+True	4	601871	meDapati	<ls>TBR. 3,3,6,1.</ls>	
+True	4	602182	meDya	<ls>TBR. 1,3,3,7.</ls>	
+True	4	602183	meDya	<ls n="TBR.">3,7,3,5.</ls>	
+True	4	602184	meDya	<ls n="TBR. 3,">6,6,1.</ls>	
+fixed	4	602228	meDyatva	<ls>TBR. 1,3,6,8. 6,4,4. 2,1,3,4.</ls>	<ls>TBR. 1,3,6,8.</ls> <ls n="TBR. 1,">6,4,4.</ls> <ls n="TBR.">2,1,3,4.</ls>
+True	4	602340	meni	<ls>TBR. 2,4,2,1</ls>	
+True	4	602384	memiza	<ls>TBR. 3,4,1,19.</ls>	
+True	4	602782	meza	<ls>TBR. 1,6,4,4.</ls>	
+True	4	602979	mEtra	<ls>TBR. 1,7,10,1.</ls>	
+True	4	602980	mEtra	<ls n="TBR. 1,">8,4,2.</ls>	
+True	4	603100	mEtrAbArhaspatya	<ls>TBR. 1,7,3,7.</ls>	
+True	4	603172	mEtrAvaruRa	<ls>TBR. 1,8,2,4.</ls>	
+True	4	604146	moda	<ls>TBR. 2,4,6,5.</ls>	
+True	4	604820	mOYja	<ls>TBR. 3,8,1,1.</ls>	
+True	4	605657	mruc	<ls>TBR. 1,4,4,1.</ls>	
+True	4	605660	mruc	<ls>TBR. 3,2,8,11.</ls>	
+True	4	605905	mlup	<ls>TBR. 3,2,9,4.</ls>	
+True	4	606035	aMSaBU	<ls>TBR. 3,7,9,1.</ls>	
+True	4	606130	aMsala	<ls>TBR. 3,4,1,17.</ls>	
+True	4	606131	aMsala	<ls n="TBR. 3,4,1,">19.</ls>	
+True	4	606807	akzAvApa	<ls>TBR. 1,7,3,6.</ls>	
+True	4	607478	agradiDizu	<ls>TBR. 3,2,8,12.</ls>	
+True	4	607702	aNka	<ls>TBR. 2,7,8,1.</ls>	
+True	4	608548	ajAmitva	<ls>TBR. 2,1,4,3.</ls>	
+True	4	609151	atigrAhya	<ls>TBR. 1,3,3,1.</ls>	
+True	4	609322	atipAda	<ls>TBR. 1,2,4,2.</ls>	
+None	4	609644	atiSaya	<ls>TBR. Comm. II,389,2</ls>	
+True	4	609817	atyaMha	<ls>TBR. 3,10,9,3.</ls>	
+True	4	610061	aTarya	<ls>TBR. 1,1,10,2.</ls>	
+True	4	610145	adasta	<ls>TBR. 3,2,3,12.</ls>	
+True	4	611056	aDivfkzasUrye	<ls>TBR. 2,2,6,4.</ls>	
+True	4	611582	an	<ls>TBR. 1,2,1,19.</ls>	
+fixed	4	611586	an	<ls>TBR. 1,4,4,3. 6.</ls>	<ls>TBR. 1,4,4,3.</ls> <ls n="TBR. 1,4,4,">6.</ls>
+True	4	611795	ananDa	<ls>TBR. 2,5,1,3.</ls>	
+True	4	611834	anapAyin	<ls>TBR. 2,5,1,2.</ls>	
+True	4	611857	anaBijita	<ls>TBR. 1,7,3,8.</ls>	
+True	4	612026	anavacCitti	<ls>TBR. 1,3,7,2.</ls>	
+fixed	4	612213	anAgneya	<ls>TBR. 1,3,1,2. 3.</ls>	<ls>TBR. 1,3,1,2.</ls> <ls n="TBR. 1,3,1,">3.</ls>
+True	4	612364	anAlamBuka	<ls>TBR. 3,7,1,9.</ls>	
+True	4	612431	anASvaMs	<ls>TBR. 1,1,4,2.</ls>	
+True	4	612483	aniBfzwa	<ls>TBR. 2,4,6,12.</ls>	
+True	4	613145	anudvAta	<ls>TBR. 1,4,4,6.</ls>	
+True	4	613166	anuDyAyin	<ls>TBR. 2,1,4,3.</ls>	
+True	4	613547	anumAna	<ls>TBR. 2,7,3,3.</ls>	
+fixed	4	613788	anuvatsara	<ls>TBR. 1,4,10,1. 2.</ls>	<ls>TBR. 1,4,10,1.</ls> <ls n="TBR. 1,4,10,">2.</ls>
+True	4	614134	anusavanam	<ls>TBR. 2,2,8,3.</ls>	
+True	4	614228	anUkASin	<ls>TBR. 1,1,4,4.</ls>	
+True	4	614244	anUcInatva	<ls>TBR. 2,1,3,6.</ls>	
+True	4	614327	anUrADAH	<ls>TBR. 1,5,1,3.</ls>	
+True	4	614723	antaravacArin	<ls>TBR. 1,6,10,1.</ls>	
+True	4	614892	antarvant	<ls>TBR. 1,2,1,13.</ls>	
+fixed	4	614935	antarhiti	<ls>TBR. 1,6,1,4. 5,6.</ls>	<ls>TBR. 1,6,1,4.</ls> <ls n="TBR. 1,6,">5,6.</ls>
+True	4	615030	anti	<ls>TBR. 2,4,2,3.</ls>	
+True	4	615265	annahoma	<ls>TBR. 1,3,8,1.</ls>	
+None	4	615625	anvAhArya	<ls>TBR. 1,66,12.</ls>	
+True	4	615633	anvAhAryapacana	<ls>TBR. 1,1,8,1.</ls>	
+None	4	615822	apacAra	<ls>TBR. Comm. I,182,3.</ls>	
+True	4	615851	apaciti	<ls>TBR. 3,8,7,2.</ls>	
+True	4	615986	apaDuram	<ls>TBR. 1,6,5,1.</ls>	
+True	4	616102	apaBaraRI	<ls>TBR. 1,5,1,5</ls>	
+True	4	616865	apAdAtar	<ls>TBR. 1,7,3,1.</ls>	
+True	4	616977	apAvya	<ls>TBR. 3,8,17,5.</ls>	
+True	4	617012	apAzWa	<ls>TBR. 3,7,13,4.</ls>	
+True	4	617068	apivant	<ls>TBR. 1,3,2,5.</ls>	
+True	4	617073	apivApa	<ls>TBR. 1,5,4,2.</ls>	
+fixed	4	617367	apratiKyAta	<ls>TBR. 2,2,3,7. 7,18,3.</ls>	<ls>TBR. 2,2,3,7.</ls> <ls n="TBR. 2,">7,18,3.</ls>
+True	4	617454	apramAyuka	<ls>TBR. 2,1,3,1.</ls>	
+True	4	617845	aBikrAnti	<ls>TBR. 1,1,6,8</ls>	
+None	4	617890	aBigara	<ls>TBR. Comm. 2,421.</ls>	
+None	4	618623	aBimAnin	<ls>TBR. Comm. III, S. 346. fg.</ls>	
+True	4	618826	aBivAnyA	<ls>TBR. 1,6,8,4.</ls>	
+True	4	618867	aBivftti	<ls>TBR. 1,4,6,3.</ls>	
+True	4	618929	aBiSuna	<ls>TBR. 1,7,1,6.</ls>	
+True	4	619366	aByaYjanya	<ls>TBR. 1,6,8,9.</ls>	
+True	4	619452	aByarDa	<ls>TBR. 2,3,7,1.</ls>	
+None	4	619619	aByuddravaRa	<ls>TBR. Comm. 2,397,2. 3. 399,1.</ls>	
+True	4	619674	aByUQi	<ls>TBR. 3,3,7,5.</ls>	
+True	4	619740	aBray	<ls>TBR. 3,1,4,1.</ls>	
+True	4	620475	ameni	<ls>TBR. 2,4,2,1.</ls>	
+True	4	620625	ambA	<ls>TBR. 3,1,4,1.</ls>	
+True	4	620817	amBas	<ls>TBR. 2,3,8,3</ls>	
+True	4	620916	ayajYa	<ls>TBR. 2,1,5,6.</ls>	
+True	4	620952	ayaTAdevatam	<ls>TBR. 1,1,4,8.</ls>	
+True	4	620963	ayaTApUrvam	<ls>TBR. 1,1,6,9.</ls>	
+True	4	621308	araRyenuvAkya	<ls>TBR. 1,7,7,3.</ls>	
+True	4	621334	aratnin	<ls>TBR. 1,7,3,1.</ls>	
+True	4	621380	arAjaka	<ls>TBR. 1,5,9,1.</ls>	
+True	4	621575	aruRa	<ls>TBR. 2,1,5,11.</ls>	
+None	4	622466	arTavAda	<ls>TBR. Comm. 2,401,17.</ls>	
+True	4	622985	arBa	<ls>TBR. 3,4,1,9</ls>	
+True	4	623006	aryaman	<ls>TBR. 1,1,2,4.</ls>	
+True	4	623008	aryaman	<ls>TBR. 1,7,6,6.</ls>	
+True	4	623140	arzwar	<ls>TBR. 1,4,6,5</ls>	
+True	4	623267	alaMkAra	<ls>TBR. 2,3,10,2.</ls>	
+True	4	623578	alUkza	<ls>TBR. 1,1,6,6.</ls>	
+True	4	623991	avaGreya	<ls>TBR. 1,3,10,7.</ls>	
+True	4	624172	avadAnIya	<ls>TBR. 1,3,8,4.</ls>	
+fixed	4	624461	avapAda	<ls>TBR. 1,2,4,2. 5,12,1.</ls>	<ls>TBR. 1,2,4,2.</ls> <ls n="TBR. 1,">5,12,1.</ls>
+True	4	624699	avaraparam	<ls>TBR. 1,7,10,5.</ls>	
+True	4	624962	avavartin	<ls>TBR. 1,2,6,1.</ls>	
+True	4	625387	avAYc	<ls>TBR. 2,1,4,2.</ls>	
+True	4	625427	avAruRa	<ls>TBR. 3,2,4,5.</ls>	
+True	4	625761	avezwi	<ls>TBR. 1,8,3,1.</ls>	
+True	4	625804	avyaTA	<ls>TBR. 2,7,16,1.</ls>	
+True	4	625824	avyarDuka	<ls>TBR. 2,1,6,3.</ls>	
+True	4	625838	avyAvftta	<ls>TBR. 1,1,8,1.</ls>	
+True	4	626906	as	<ls>TBR. 2,6,6,4.</ls>	
+True	4	626945	asaMvlaya	<ls>TBR. 1,5,4,2.</ls>	
+True	4	627325	asidDi	<ls>TBR. 1,5,1,3.</ls>	
+True	4	627392	asumant	<ls>TBR. 2,3,8,2.</ls>	
+True	4	627729	asra	<ls>TBR. 2,7,13,2.</ls>	
+True	4	628691	AKukarIza	<ls>TBR. 1,1,3,3.</ls>	
+fixed	4	629160	ANgIrasa	<ls>TBR. 2,2,3,7. 5,3. 7,3. 3,2,5.</ls>	<ls>TBR. 2,2,3,7.</ls> <ls n="TBR. 2,2,">5,3.</ls> <ls n="TBR. 2,2,">7,3.</ls> <ls n="TBR. 2,">3,2,5.</ls>
+True	4	629513	AYjaneya	<ls>TBR. 1,6,8,9.</ls>	
+True	4	630039	Atmya	<ls>TBR. 3,2,8,11.</ls>	
+True	4	630199	AdAra	<ls>TBR. 1,4,7,5.</ls>	
+True	4	630257	Aditya	<ls>TBR. 1,1,9,1. fgg.</ls>	
+True	4	630589	ADAna	<ls>TBR. 1,6,3,9</ls>	
+True	4	631090	AnujAvara	<ls>TBR. 2,2,10,1.</ls>	
+True	4	631109	Anumata	<ls>TBR. 1,6,1,4</ls>	
+True	4	632107	Amikzavant	<ls>TBR. 1,6,2,5.</ls>	
+True	4	632498	Ayus	<ls>TBR. 3,10,11,3.</ls>	
+True	4	632499	Ayus	<ls>TBR. 1,3,10,7.</ls>	
+True	4	633053	ArtvijIna	<ls>TBR. 1,3,2,7</ls>	
+True	4	633422	AlamBya	<ls>TBR. 2,1,6,4.</ls>	
+True	4	633663	Avapana	<ls>TBR. 1,1,6,8.</ls>	
+True	4	634212	ASuga	<ls>TBR. 1,2,1,26.</ls>	
+True	4	634915	AspAtra	<ls>TBR. 3,5,3,1.</ls>	
+True	4	635106	AhArya	<ls>TBR. 2,1,2,12.</ls>	
+True	4	635356	i	<ls>TBR. 2,1,10,2.</ls>	
+True	4	635533	i	<ls>TBR. 1,5,10,4.</ls>	
+True	4	635625	iNg	<ls>TBR. 1,1,8,6.</ls>	
+True	4	635627	iNg	<ls>TBR. 1,1,8,6.</ls>	
+True	4	635742	iqA	<ls>TBR. 1,1,4,4.</ls>	
+fixed	4	635953	idAvatsara	<ls>TBR. 1,4,10,1. 3,10,4,1.</ls>	<ls>TBR. 1,4,10,1.</ls> <ls n="TBR.">3,10,4,1.</ls>
+True	4	635967	iduvatsara	<ls>TBR. 3,10,4,1</ls>	
+True	4	635977	idvatsara	<ls>TBR. 3,10,4,1.</ls>	
+True	4	636221	indraturIya	<ls>TBR. 1,7,1,3.</ls>	
+True	4	636450	indrARI	<ls>TBR. 2,4,2,7.</ls>	
+True	4	636480	indrAsomIya	<ls>TBR. 1,7,2,3.</ls>	
+True	4	636540	invaka	<ls>TBR. 1,5,1,1.</ls>	
+fixed	4	636585	iyant	<ls>TBR. 1,1,4,1. 5,7. 9,4.</ls>	<ls>TBR. 1,1,4,1.</ls> <ls n="TBR. 1,1,">5,7.</ls> <ls n="TBR. 1,1,">9,4.</ls>
+True	4	636677	iluvarda	<ls>TBR. 3,8,20,5.</ls>	
+True	4	636751	iz	<ls>TBR. 2,7,13,2.</ls>	
+fixed	4	636858	izwarga	<ls>TBR. 1,4,6,4. 5</ls>	<ls>TBR. 1,4,6,4.</ls> <ls n="TBR. 1,4,6,">5</ls>
+True	4	637138	INK	<ls>TBR. 1,1,8,6</ls>	
+True	4	637241	Ir	<ls>TBR. 2,5,4,5.</ls>	
+True	4	639070	uttarAvant	<ls>TBR. 2,1,4,1.</ls>	
+fixed	4	639151	uttAna	<ls>TBR. 2,2,5,3. 3,2,5.</ls>	<ls>TBR. 2,2,5,3.</ls> <ls n="TBR. 2,">3,2,5.</ls>
+True	4	639621	utsa	<ls>TBR. 1,4,4,9.</ls>	
+True	4	640096	udanta	<ls>TBR. 2,1,7,1.</ls>	
+True	4	640101	udanta	<ls>TBR. 1,2,6,2.</ls>	
+True	4	640361	udarza	<ls>TBR. 3,7,10,1.</ls>	
+True	4	640502	udAra	<ls>TBR. 2,2,9,2.</ls>	
+True	4	640944	uddfzwa	<ls>TBR. 1,8,10,2.</ls>	
+None	4	640966	uddeSana	<ls>TBR. Comm. 2,386,15. 16.</ls>	
+True	4	641109	udDi	<ls>TBR. 1,5,12,5</ls>	
+True	4	641469	udvAra	<ls>TBR. 1,7,3,6.</ls>	
+True	4	641490	udvAsIkArin	<ls>TBR. 1,2,6,7.</ls>	
+True	4	642408	upajIvA	<ls>TBR. 1,5,6,4.</ls>	
+True	4	642532	upadIkA	<ls>TBR. 1,1,3,4.</ls>	
+True	4	642571	upadeSana	<ls>TBR. 2,3,1,3.</ls>	
+fixed	4	642648	upadrazwfmant	<ls>TBR. 2,2,1,3. 5.</ls>	<ls>TBR. 2,2,1,3.</ls> <ls n="TBR. 2,2,1,">5.</ls>
+fixed	4	642850	upapakza	<ls>TBR. 1,5,6,1. 2,2,9,7.</ls>	<ls>TBR. 1,5,6,1.</ls> <ls n="TBR.">2,2,9,7.</ls>
+fixed	4	642967	upabarhaRa	<ls>TBR. 1,1,6,10. 6,8,9.</ls>	<ls>TBR. 1,1,6,10.</ls> <ls n="TBR. 1,">6,8,9.</ls>
+None	4	643441	upavaktar	<ls>TBR. 2,411,15.</ls>	
+fixed	4	643529	upavyuzam	<ls>TBR. 1,1,9,9. 5,2,1.</ls>	<ls>TBR. 1,1,9,9.</ls> <ls n="TBR. 1,">5,2,1.</ls>
+None	4	643550	upaSaPa	<ls>TBR. II,668,14.</ls>	
+None	4	643764	upasAdana	<ls>TBR. II,379,12.</ls>	
+True	4	643859	upasti	<ls>TBR. 3,3,5,4.</ls>	
+True	4	644125	upAtaNkya	<ls>TBR. 3,7,4,2.</ls>	
+None	4	644529	uB	<ls>TBR. Comm. II,558</ls>	
+True	4	645570	Uti	<ls>TBR. 1,1,3,3.</ls>	
+True	4	645754	UrRanABi	<ls>TBR. 1,1,2,5.</ls>	
+True	4	645975	Urmi	<ls>TBR. 2,5,7,1.</ls>	
+fixed	4	646016	Uza	<ls>TBR. 1,3,7,6. 3,12,6,2.</ls>	<ls>TBR. 1,3,7,6.</ls> <ls n="TBR.">3,12,6,2.</ls>
+True	4	646043	Uh	<ls>TBR. 2,1,10,3.</ls>	
+True	4	646054	Uh	<ls>TBR. 1,1,9,9.</ls>	
+True	4	646287	fjuDA	<ls>TBR. 2,2,8,2.</ls>	
+True	4	646529	ftviyavant	<ls>TBR. 1,2,1,14.</ls>	
+True	4	647055	ekayAvan	<ls>TBR. 2,7,11,2.</ls>	
+True	4	647651	etAvacCas	<ls>TBR. 2,2,2,5.</ls>	
+True	4	648769	Odanyava	<ls>TBR. 3,9,15,3.</ls>	
+True	4	648871	OdBidya	<ls>TBR. 2,7,18,2.</ls>	
+True	4	649245	Ozasa	<ls>TBR. 2,1,2,12</ls>	
+True	4	649652	kaNkata	<ls>TBR. 2,7,17,3.</ls>	
+True	4	651322	kantva	<ls>TBR. 1,6,4,5.</ls>	
+True	4	652036	kam	<ls>TBR. 2,2,7,4.</ls>	
+fixed	4	652038	kam	<ls>TBR. 1,1,5,6. 4,4,1.</ls>	<ls>TBR. 1,1,5,6.</ls> <ls n="TBR. 1,">4,4,1.</ls>
+True	4	652395	kayADu	<ls>TBR. 1,5,9,1.</ls>	
+True	4	652465	kar	<ls>TBR. 1,4,7,3.</ls>	
+True	4	652514	kar	<ls>TBR. 1,4,3,4.</ls>	
+True	4	652592	kar	<ls>TBR. 2,5,5,3.</ls>	
+True	4	653571	kart	<ls>TBR. 2,4,2,2.</ls>	
+True	4	654691	kali	<ls>TBR. 1,5,11,1.</ls>	
+None	4	655432	kavaza	<ls>TBR. 3,376</ls>	
+True	4	655602	kaS	<ls>TBR. 1,4,8,3.</ls>	
+True	4	655618	kaSas	<ls>TBR. 1,4,8,3.</ls>	
+True	4	656145	kAca	<ls>TBR. 3,9,4,4.</ls>	
+True	4	656417	kARqin	<ls>TBR. 2,7,17,1.</ls>	
+True	4	656657	kAndama	<ls>TBR. 2,7,11,2.</ls>	
+True	4	657388	kAyADava	<ls>TBR. 1,5,9,1.</ls>	
+None	4	657581	kArIra	<ls>TBR. Comm. 2,364,12.</ls>	
+True	4	657608	kAruRya	<ls>TBR. 2,2,3,2.</ls>	
+None	4	657637	kArotara	<ls>TBR. Comm. 2,670,4.</ls>	
+True	4	657983	kAlakaYja	<ls>TBR. 1,1,2,4.</ls>	
+fixed	4	662139	kuSa	<ls>TBR. 1,5,10,1. 2. 7.</ls>	<ls>TBR. 1,5,10,1.</ls> <ls n="TBR. 1,5,10,">2.</ls> <ls n="TBR. 1,5,10,">7.</ls>
+None	4	662318	kuzWikA	<ls>TBR. 2,668.</ls>	
+True	4	663280	kfttyaDIvAsa	<ls>TBR. 3,9,20,1.</ls>	
+True	4	663665	kfzRa	<ls>TBR. 1,2,1,2.</ls>	
+True	4	663880	kfzRala	<ls>TBR. 1,3,6,7.</ls>	
+None	4	664563	kesarin	<ls>TBR. Comm. 1,184,11.</ls>	
+True	4	665293	kozaDAvana	<ls>TBR. 3,6,2,2.</ls>	
+None	4	665454	kOkila	<ls>TBR. Comm. 2,652,8. 666,9.</ls>	
+True	4	666032	kOSikatA	<ls>TBR. 1,5,10,2</ls>	
+True	4	666163	kyat	<ls>TBR. 3,2,9,7.</ls>	
+True	4	666256	kraT	<ls>TBR. 2,3,9,9.</ls>	
+True	4	666770	krIq	<ls>TBR. 1,6,7,5.</ls>	
+None	4	667257	kloman	<ls>TBR. Comm. 2,671,2</ls>	
+True	4	667444	kzan	<ls>TBR. 3,2,10,1.</ls>	
+True	4	667694	kzar	<ls>TBR. 3,7,13,3.</ls>	
+True	4	668623	kzetrI	<ls>TBR. 2,5,6,1</ls>	
+True	4	670010	KIla	<ls>TBR. 3,7,6,19.</ls>	
+True	4	674801	gobala	<ls>TBR. 3,11,9,3.</ls>	
+None	4	675689	graha	<ls>TBR. Comm. 2,414. fgg.</ls>	
+True	4	676009	grAhuka	<ls>TBR. 3,2,5,6.</ls>	
+True	4	676433	Garma	<ls>TBR. 1,5,5,2.</ls>	
+True	4	676818	GrA	<ls>TBR. 1,3,6,9</ls>	
+True	4	678883	carmakarta	<ls>TBR. 1,2,6,7.</ls>	
+True	4	679600	ciccika	<ls>TBR. 2,5,5,6.</ls>	
+None	4	679766	citraka	<ls>TBR. Comm. 1,59,10.</ls>	
+True	4	681483	CA	<ls>TBR. 1,1,9,9.</ls>	
+True	4	682814	jaratkakza	<ls>TBR. 3,3,2,4.</ls>	
+True	4	684079	jIrRi	<ls>TBR. 3,10,11,3.</ls>	
+True	4	684407	juj	<ls>TBR. 2,7,13,4</ls>	
+None	4	685004	jyezWa	<ls>TBR. Comm. 2,367,12</ls>	
+True	4	686503	tanticara	<ls>TBR. 3,2,2,5.</ls>	
+True	4	686698	tap	<ls>TBR. 3,11,7,3.</ls>	
+True	4	686702	tap	<ls>TBR. 3,9,17,1.</ls>	
+None	4	686713	tap	<ls>TBR. Comm. 2,378,11.</ls>	
+True	4	687824	tArpya	<ls>TBR. 3,9,20,1.</ls>	
+None	4	689379	trikadruka	<ls>TBR. Comm. 2,647,2.</ls>	
+True	4	689982	trizatya	<ls>TBR. 3,2,3,8.</ls>	
+True	4	690901	dayyAMpAti	<ls>TBR. 3,10,9,3.</ls>	
+True	4	691187	daSat	<ls>TBR. 1,2,1,14.</ls>	
+True	4	691464	dA	<ls>TBR. 3,10,9,1.</ls>	
+True	4	691850	dArSya	<ls>TBR. 3,2,3,4.</ls>	
+True	4	692486	diS	<ls>TBR. 2,1,4,8.</ls>	
+True	4	692495	diS	<ls>TBR. 3,2,2,4.</ls>	
+None	4	693078	durAgraha	<ls>TBR. Comm. 1,114,3</ls>	
+fixed	4	693632	durmarAyu	<ls>TBR. 3,7,6,7. 9.</ls>	<ls>TBR. 3,7,6,7.</ls> <ls n="TBR. 3,7,6,">9.</ls>
+True	4	694192	dUrepaSyA	<ls>TBR. 3,7,12,3.</ls>	
+True	4	694685	devaBAga	<ls>TBR. 3,10,9,11.</ls>	
+True	4	694899	devaheqana	<ls>TBR. 3,7,11,2.</ls>	
+True	4	696064	dvAdaSa	<ls>TBR. 1,1,9,10.</ls>	
+None	4	696682	Danurvakra	<ls>TBR. Comm. 2,455,7.</ls>	
+True	4	697375	DA	<ls>TBR. 2,7,18,4.</ls>	
+True	4	698415	Druvagopa	<ls>TBR. 3,12,9,5.</ls>	
+True	4	698475	DvaMsa	<ls>TBR. 3,12,7,2.</ls>	
+None	4	698804	nagnahu	<ls>TBR. Comm. 2,652.</ls>	
+True	4	699642	navadAva	<ls>TBR. 3,3,2,5.</ls>	
+True	4	699647	navadAvya	<ls>TBR. 3,3,2,4.</ls>	
+True	4	700440	nAraka	<ls>TBR. 3,4,1,1.</ls>	
+True	4	700543	nArizWa	<ls>TBR. 3,7,5,11. fg.</ls>	
+True	4	700758	nikAmaDaraRa	<ls>TBR. 3,6,17,1.</ls>	
+True	4	702281	nirRega	<ls>TBR. 3,4,1,8.</ls>	
+True	4	702390	nirbADya	<ls>TBR. 3,3,11,3.</ls>	
+True	4	704403	nfSastra	<ls>TBR. 3,6,2,1.</ls>	
+True	4	704457	nF~HpraRetra	<ls>TBR. 3,6,2,1.</ls>	
+True	4	706048	pat	<ls>TBR. 3,2,8,10.</ls>	
+True	4	706164	patividya	<ls>TBR. 2,4,2,7.</ls>	
+True	4	707495	parASas	<ls>TBR. 3,7,14,4.</ls>	
+True	4	707624	paricakzya	<ls>TBR. 3,7,3,5.</ls>	
+True	4	708097	parivitta	<ls>TBR. 3,2,8,12.</ls>	
+True	4	708397	parorajas	<ls>TBR. 3,10,9,4.</ls>	
+True	4	708989	pA	<ls>TBR. 3,2,9,10.</ls>	
+True	4	711365	puruza	<ls>TBR. 2,7,7,1</ls>	
+True	4	713330	prajApayitar	<ls>TBR. 1,7,2,4</ls>	
+None	4	713428	praRayanIya	<ls>TBR. Comm. 1,90,6.</ls>	
+None	4	713659	pratigrAhya	<ls>TBR. Comm. 1,102,6.</ls>	
+None	4	716070	praharaRa	<ls>TBR. Comm. 2,387,9.</ls>	
+True	4	720386	BAs	<ls>TBR. 1,2,1,7.</ls>	
+True	4	724537	yakza	<ls>TBR. 3,12,3,1.</ls>	
+True	4	725143	yaj	<ls>TBR. 1,4,2,3.</ls>	
+True	4	725144	yaj	<ls n="TBR.">3,10,8,2.</ls>	
+True	4	725192	yaj	<ls>TBR. 3,9,10,1.</ls>	
+True	4	725213	yaj	<ls>TBR. 1,4,10,3.</ls>	
+True	4	725219	yaj	<ls>TBR. 3,7,6,21.</ls>	
+True	4	725222	yaj	<ls>TBR. 1,1,10,5.</ls>	
+True	4	725467	yajurveda	<ls>TBR. 3,12,9,1.</ls>	
+True	4	725507	yajuzkfti	<ls>TBR. 3,8,3,2.</ls>	
+fixed	4	725578	yajus	<ls>TBR. 2,1,2,8. 3,9.</ls>	<ls>TBR. 2,1,2,8.</ls> <ls n="TBR. 2,1,">3,9.</ls>
+fixed	4	725808	yajYakratu	<ls>TBR. 1,3,4,1. 4,6,3. 5,9,1. 7,3,2. 2,2,4,1.</ls>	<ls>TBR. 1,3,4,1.</ls> <ls n="TBR. 1,">4,6,3.</ls> <ls n="TBR. 1,">5,9,1.</ls> <ls n="TBR. 1,">7,3,2.</ls> <ls n="TBR.">2,2,4,1.</ls>
+fixed	4	725809	yajYakratu	<ls n="TBR. 2,">3,6,1. 3,8,19,1. 10,9,2.</ls>	<ls n="TBR. 2,">3,6,1.</ls> <ls n="TBR.">3,8,19,1.</ls> <ls n="TBR. 3,">10,9,2.</ls>
+fixed	4	725997	yajYaparus	<ls>TBR. 3,7,1,5. 12,5,12. 1,1,9,5.</ls>	<ls>TBR. 3,7,1,5.</ls> <ls n="TBR. 3,">12,5,12.</ls> <ls n="TBR.">1,1,9,5.</ls>
+fixed	4	726170	yajYamuKa	<ls>TBR. 1,1,9,4. 2,1,8.</ls>	<ls>TBR. 1,1,9,4.</ls> <ls n="TBR. 1,">2,1,8.</ls>
+fixed	4	726171	yajYamuKa	<ls n="TBR. 1,">6,1,8. 11.</ls>	<ls n="TBR. 1,">6,1,8.</ls> <ls n="TBR. 1,6,1,">11.</ls>
+True	4	726615	yajYAnukASin	<ls>TBR. 1,1,4,4.</ls>	
+True	4	726636	yajYAyajYiya	<ls>TBR. 2,2,8,3.</ls>	
+True	4	726662	yajYAyuDa	<ls>TBR. 3,2,5,9.</ls>	
+fixed	4	726768	yajYiya	<ls>TBR. 1,1,3,3. 2,1,2.</ls>	<ls>TBR. 1,1,3,3.</ls> <ls n="TBR. 1,">2,1,2.</ls>
+True	4	726769	yajYiya	<ls n="TBR. 1,2,1,">8.</ls>	
+True	4	726770	yajYiya	<ls n="TBR. 1,2,1,">9.</ls>	
+True	4	726840	yajYezu	<ls>TBR. 1,5,2,1.</ls>	
+True	4	726861	yajYopavIta	<ls>TBR. 3,10,9,12.</ls>	
+True	4	726964	yat	<ls>TBR. 1,4,6,2.</ls>	
+True	4	727086	yat	<ls>TBR. 1,5,2,4</ls>	
+True	4	727147	yat	<ls>TBR. 3,8,7,3.</ls>	
+True	4	727148	yat	<ls n="TBR. 3,">9,15,1.</ls>	
+True	4	727153	yat	<ls>TBR. 3,8,7,3.</ls>	
+True	4	727194	yat	<ls>TBR. 2,8,2,2.</ls>	
+True	4	727258	yat	<ls>TBR. 1,5,2,3.</ls>	
+True	4	727388	yatas	<ls>TBR. 2,7,7,6.</ls>	
+fixed	4	727534	yati	<ls>TBR. 3,2,2,1. 4,6.</ls>	<ls>TBR. 3,2,2,1.</ls> <ls n="TBR. 3,2,">4,6.</ls>
+True	4	727535	yati	<ls n="TBR. 3,">3,6,10.</ls>	
+True	4	727695	yatkArin	<ls>TBR. 1,5,2,1.</ls>	
+True	4	728068	yaTA	<ls>TBR. 3,6,6,4.</ls>	
+fixed	4	728106	yaTA	<ls>TBR. 3,1,1,2. 11.</ls>	<ls>TBR. 3,1,1,2.</ls> <ls n="TBR. 3,1,1,">11.</ls>
+fixed	4	728606	yaTAdevatam	<ls>TBR. 1,1,4,8. 3,3,10,1.</ls>	<ls>TBR. 1,1,4,8.</ls> <ls n="TBR.">3,3,10,1.</ls>
+True	4	728743	yaTAnyupta	<ls>TBR. 3,11,9,3.</ls>	
+True	4	728787	yaTApUrva	<ls>TBR. 1,1,6,9.</ls>	
+True	4	728968	yaTABijYAyam	<ls>TBR. 1,3,1,2.</ls>	
+True	4	729100	yaTAyajus	<ls>TBR. 3,3,9,2.</ls>	
+True	4	729109	yaTAyatanam	<ls>TBR. 1,2,5,2.</ls>	
+True	4	729117	yaTAyaTam	<ls>TBR. 1,7,3,1.</ls>	
+True	4	729358	yaTAvakASam	<ls>TBR. 3,12,5,5.</ls>	
+True	4	729600	yaTASarIram	<ls>TBR. 1,2,1,9.</ls>	
+True	4	729617	yaTASradDam	<ls>TBR. 3,12,5,11.</ls>	
+True	4	729848	yaTAsTAnam	<ls>TBR. 1,3,7,4.</ls>	
+True	4	730911	yantra	<ls>TBR. 3,7,6,7.</ls>	
+True	4	731252	yaB	<ls>TBR. 2,4,6,5.</ls>	
+None	4	731254	yaB	<ls>TBR. 2,568,10.</ls>	
+True	4	731349	yam	<ls>TBR. 2,1,10,1.</ls>	
+True	4	731357	yam	<ls>TBR. 1,4,7,1.</ls>	
+True	4	731536	yam	<ls>TBR. 1,2,6,6.</ls>	
+fixed	4	731537	yam	<ls n="TBR.">7,5,6,3. 2,1,6,2.</ls>	<ls n="TBR.">7,5,6,3.</ls> <ls n="TBR.">2,1,6,2.</ls>
+True	4	731578	yam	<ls>TBR. 1,2,3,1.</ls>	
+fixed	4	731653	yam	<ls>TBR. 1,2,1,21. 3,8,11,1.</ls>	<ls>TBR. 1,2,1,21.</ls> <ls n="TBR.">3,8,11,1.</ls>
+True	4	731737	yam	<ls>TBR. 3,3,1,3.</ls>	
+True	4	731982	yam	<ls>TBR. 3,3,1,3.</ls>	
+True	4	732084	yam	<ls>TBR. 3,1,1,6.</ls>	
+fixed	4	732188	yam	<ls>TBR. 1,1,3,9. 2,1,5.</ls>	<ls>TBR. 1,1,3,9.</ls> <ls n="TBR. 1,">2,1,5.</ls>
+fixed	4	732277	yam	<ls>TBR. 2,1,3,8. 5,2,10,6.</ls>	<ls>TBR. 2,1,3,8.</ls> <ls n="TBR.">5,2,10,6.</ls>
+True	4	732760	yamanakzatra	<ls>TBR. 1,5,2,7.</ls>	
+True	4	733316	yava	<ls>TBR. 1,8,4,1.</ls>	
+True	4	733822	yavAgU	<ls>TBR. 2,1,5,6.</ls>	
+True	4	734053	yavya	<ls>TBR. 3,8,18,3.</ls>	
+True	4	734317	yaSasvin	<ls>TBR. 3,8,7,2.</ls>	
+True	4	734439	yaSoDA	<ls>TBR. 3,6,2,2.</ls>	
+True	4	734563	yazwar	<ls>TBR. 3,3,7,6.</ls>	
+True	4	735671	yA	<ls>TBR. 3,1,2,4.</ls>	
+True	4	735910	yA	<ls>TBR. 3,7,1,1.</ls>	
+True	4	736030	yA	<ls>TBR. 3,7,1,1.</ls>	
+True	4	736148	yA	<ls>TBR. 2,4,3,3.</ls>	
+True	4	736272	yAc	<ls>TBR. 1,3,10,1.</ls>	
+True	4	736713	yAjuza	<ls>TBR. 3,12,9,1.</ls>	
+fixed	4	736999	yAtayAman	<ls>TBR. 3,2,3,9. 3,4,1.</ls>	<ls>TBR. 3,2,3,9.</ls> <ls n="TBR. 3,">3,4,1.</ls>
+True	4	737506	yAdas	<ls>TBR. 3,4,1,15</ls>	
+True	4	737565	yAdfS	<ls>TBR. 1,4,3,4.</ls>	
+True	4	737614	yAna	<ls>TBR. 3,1,2,10.</ls>	
+True	4	737854	yAma	<ls>TBR. 3,9,10,1.</ls>	
+True	4	737874	yAma	<ls>TBR. 3,2,3,9.</ls>	
+True	4	738771	yAvant	<ls>TBR. 1,1,5,3.</ls>	
+True	4	738781	yAvant	<ls>TBR. 2,7,5,1.</ls>	
+True	4	738797	yAvant	<ls>TBR. 2,1,11,1.</ls>	
+True	4	738817	yAvant	<ls>TBR. 3,3,9,5.</ls>	
+True	4	738961	yAvant	<ls>TBR. 1,5,2,1.</ls>	
+True	4	739161	yu	<ls>TBR. 3,3,3,3.</ls>	
+True	4	739254	yu	<ls>TBR. 2,7,16,2.</ls>	
+True	4	739285	yu	<ls>TBR. 3,6,11,2.</ls>	
+True	4	739390	yu	<ls>TBR. 3,6,13,1.</ls>	
+True	4	739727	yuga	<ls>TBR. 1,5,1,3.</ls>	
+True	4	739733	yuga	<ls>TBR. 3,7,10,1.</ls>	
+True	4	740184	yugmant	<ls>TBR. 2,7,18,4.</ls>	
+True	4	741322	yuj	<ls>TBR. 1,6,2,2.</ls>	
+fixed	4	741328	yuj	<ls>TBR. 3,2,5,6. 3,9,12. 7,4,1.</ls>	<ls>TBR. 3,2,5,6.</ls> <ls n="TBR. 3,">3,9,12.</ls> <ls n="TBR. 3,">7,4,1.</ls>
+fixed	4	741436	yuj	<ls>TBR. 1,8,1,1. 3,9,2,1.</ls>	<ls>TBR. 1,8,1,1.</ls> <ls n="TBR.">3,9,2,1.</ls>
+True	4	741442	yuj	<ls>TBR. 1,5,6,3.</ls>	
+True	4	741906	yudDa	<ls>TBR. 1,5,9,1.</ls>	
+fixed	4	742556	yuvati	<ls>TBR. 3,1,1,9. 2,4.</ls>	<ls>TBR. 3,1,1,9.</ls> <ls n="TBR. 3,1,">2,4.</ls>
+None	4	743238	yUza	<ls>TBR. Comm. II,668.</ls>	
+True	4	743397	yoktra	<ls>TBR. 3,3,3,3.</ls>	
+True	4	743746	yogakzema	<ls>TBR. 3,3,3,4.</ls>	
+True	4	744830	yojana	<ls>TBR. 2,4,2,7.</ls>	
+fixed	4	745327	yonimant	<ls>TBR. 1,1,2,7. 3,9,21,2.</ls>	<ls>TBR. 1,1,2,7.</ls> <ls n="TBR.">3,9,21,2.</ls>
+True	4	745436	yozA	<ls>TBR. 3,3,2,2.</ls>	
+True	4	748493	raGuyant	<ls>TBR. 3,7,13,4.</ls>	
+fixed	4	749522	rajata	<ls>TBR. 1,5,10,1. 7. 8,9,1.</ls>	<ls>TBR. 1,5,10,1.</ls> <ls n="TBR. 1,5,10,">7.</ls> <ls n="TBR. 1,">8,9,1.</ls>
+fixed	4	749523	rajata	<ls n="TBR.">2,2,9,7. 3,9,6,5.</ls>	<ls n="TBR.">2,2,9,7.</ls> <ls n="TBR.">3,9,6,5.</ls>
+True	4	752138	ratnin	<ls>TBR. 1,7,3,1.</ls>	
+True	4	752302	raTakAra	<ls>TBR. 1,1,4,8.</ls>	
+True	4	752403	raTacakra	<ls>TBR. 1,1,6,8.</ls>	
+fixed	4	752523	raTaMtara	<ls>TBR. 2,1,5,7. 7,1,1.</ls>	<ls>TBR. 2,1,5,7.</ls> <ls n="TBR. 2,">7,1,1.</ls>
+True	4	752713	raTavAhana	<ls>TBR. 1,7,9,6.</ls>	
+True	4	752718	raTavAhana	<ls>TBR. 1,8,4,3.</ls>	
+fixed	4	752736	raTavimocana	<ls>TBR. 1,3,6,6. 7,9,5.</ls>	<ls>TBR. 1,3,6,6.</ls> <ls n="TBR. 1,">7,9,5.</ls>
+True	4	753337	rad	<ls>TBR. 2,3,9,9.</ls>	
+True	4	753891	raB	<ls>TBR. 3,3,7,3.</ls>	
+True	4	754073	raB	<ls>TBR. 3,3,7,8.</ls>	
+True	4	754635	ram	<ls>TBR. 2,1,2,1.</ls>	
+True	4	755042	ramati	<ls>TBR. 3,7,7,1.</ls>	
+True	4	755522	rayizWA	<ls>TBR. 1,4,4,10.</ls>	
+True	4	755552	rarAwa	<ls>TBR. 2,1,2,1.</ls>	
+True	4	756047	raSmi	<ls>TBR. 1,2,4,2.</ls>	
+True	4	756084	raSmi	<ls>TBR. 3,1,1,1.</ls>	
+True	4	756147	raSmipavitra	<ls>TBR. 3,7,4,1.</ls>	
+True	4	756199	raSmivant	<ls>TBR. 2,8,2,1.</ls>	
+True	4	756330	rasa	<ls>TBR. 1,3,10,8.</ls>	
+True	4	758068	rAkA	<ls>TBR. 1,7,2,1.</ls>	
+True	4	759001	rAj	<ls>TBR. 3,11,1,10.</ls>	
+True	4	759751	rAjanya	<ls>TBR. 1,7,2,6.</ls>	
+True	4	759895	rAjaputra	<ls>TBR. 3,8,5,1.</ls>	
+fixed	4	760825	rAjasUya	<ls>TBR. 2,7,4,1. 6,1.</ls>	<ls>TBR. 2,7,4,1.</ls> <ls n="TBR. 2,7,">6,1.</ls>
+fixed	4	761445	rAjjudAla	<ls>TBR. 3,8,19,1. 20,1.</ls>	<ls>TBR. 3,8,19,1.</ls> <ls n="TBR. 3,8,">20,1.</ls>
+fixed	4	761458	rAjYI	<ls>TBR. 2,2,6,2. 3,11,3,1.</ls>	<ls>TBR. 2,2,6,2.</ls> <ls n="TBR.">3,11,3,1.</ls>
+True	4	761473	rAjya	<ls>TBR. 1,4,2,4.</ls>	
+True	4	761484	rAjya	<ls>TBR. 1,4,2,4.</ls>	
+True	4	762308	rATaMtara	<ls>TBR. 1,1,8,1.</ls>	
+True	4	762371	rAdDi	<ls>TBR. 1,2,6,7.</ls>	
+True	4	762407	rAD	<ls>TBR. 3,9,9,1.</ls>	
+True	4	762414	rAD	<ls>TBR. 2,1,3,6.</ls>	
+True	4	762447	rAD	<ls>TBR. 2,1,2,9.</ls>	
+True	4	762449	rAD	<ls>TBR. 1,5,2,8</ls>	
+True	4	762456	rAD	<ls>TBR. 3,9,2,3.</ls>	
+True	4	762457	rAD	<ls n="TBR.">1,6,7,4.</ls>	
+True	4	762461	rAD	<ls>TBR. 3,2,10,3.</ls>	
+True	4	764267	rAzwra	<ls>TBR. 1,2,1,13.</ls>	
+True	4	764578	rAsaBa	<ls>TBR. 5,1,5,7.</ls>	
+True	4	765138	ric	<ls>TBR. 1,1,10,1.</ls>	
+True	4	765209	ric	<ls>TBR. 1,5,12,1.</ls>	
+True	4	765257	ric	<ls>TBR. 3,2,2,4.</ls>	
+fixed	4	765291	ric	<ls>TBR. 1,2,5,3. 4,5,1.</ls>	<ls>TBR. 1,2,5,3.</ls> <ls n="TBR. 1,">4,5,1.</ls>
+True	4	765689	riS	<ls>TBR. 1,5,11,2.</ls>	
+True	4	765778	riz	<ls>TBR. 3,1,1,3.</ls>	
+True	4	765862	rizwi	<ls>TBR. 2,1,11,1.</ls>	
+True	4	766094	ru	<ls>TBR. 1,5,2,9.</ls>	
+True	4	766165	ru	<ls>TBR. 3,1,1,8.</ls>	
+True	4	766166	ru	<ls n="TBR. 3,1,1,">10.</ls>	
+fixed	4	766308	rukma	<ls>TBR. 1,8,2,3. 9,1.</ls>	<ls>TBR. 1,8,2,3.</ls> <ls n="TBR. 1,8,">9,1.</ls>
+True	4	766309	rukma	<ls n="TBR.">2,2,10,3.</ls>	
+True	4	767566	rud	<ls>TBR. 2,2,9,4.</ls>	
+fixed	4	767783	rudra	<ls>TBR. 1,6,1,2. 2,1,1,3.</ls>	<ls>TBR. 1,6,1,2.</ls> <ls n="TBR.">2,1,1,3.</ls>
+True	4	767784	rudra	<ls n="TBR. 2,1,">3,1.</ls>	
+fixed	4	767818	rudra	<ls>TBR. 1,5,11,3. 2,1,10,1.</ls>	<ls>TBR. 1,5,11,3.</ls> <ls n="TBR.">2,1,10,1.</ls>
+fixed	4	768747	ruD	<ls>TBR. 1,3,7,1. 2,1,2,1.</ls>	<ls>TBR. 1,3,7,1.</ls> <ls n="TBR.">2,1,2,1.</ls>
+True	4	768798	ruD	<ls>TBR. 3,8,22,3.</ls>	
+True	4	768966	ruD	<ls>TBR. 3,9,17,3.</ls>	
+True	4	769007	ruD	<ls>TBR. 1,8,4,1.</ls>	
+True	4	769290	rup	<ls>TBR. 2,1,1,2.</ls>	
+True	4	769300	rup	<ls>TBR. 3,7,5,6.</ls>	
+True	4	769768	ruh	<ls>TBR. 1,2,4,1.</ls>	
+True	4	769975	ruh	<ls>TBR. 1,3,7,7.</ls>	
+True	4	769982	ruh	<ls>TBR. 2,5,8,8.</ls>	
+True	4	769995	ruh	<ls>TBR. 1,8,8,5.</ls>	
+True	4	769996	ruh	<ls n="TBR. 1,">1,6,8.</ls>	
+True	4	770034	ruh	<ls>TBR. 1,2,1,8.</ls>	
+fixed	4	770357	ruh	<ls>TBR. 1,8,8,5. 5,1,3.</ls>	<ls>TBR. 1,8,8,5.</ls> <ls n="TBR. 1,">5,1,3.</ls>
+True	4	770511	ruh	<ls>TBR. 2,1,2,10.</ls>	
+True	4	770514	ruh	<ls>TBR. 1,5,9,3.</ls>	
+True	4	770535	ruh	<ls>TBR. 1,1,2,5.</ls>	
+True	4	770607	ruh	<ls>TBR. 1,4,7,1.</ls>	
+True	4	770916	rUpa	<ls>TBR. 1,4,7,1.</ls>	
+True	4	770923	rUpa	<ls>TBR. 1,1,6,10.</ls>	
+True	4	770947	rUpa	<ls>TBR. 1,1,3,3.</ls>	
+True	4	770980	rUpa	<ls>TBR. 3,10,11,4.</ls>	
+True	4	771066	rUpa	<ls>TBR. 2,1,4,9.</ls>	
+True	4	772223	retas	<ls>TBR. 1,1,3,8.</ls>	
+True	4	772298	retoDA	<ls>TBR. 2,1,2,11.</ls>	
+True	4	772303	retoDA	<ls>TBR. 2,7,4,1.</ls>	
+True	4	772632	revant	<ls>TBR. 1,5,2,5.</ls>	
+True	4	772836	rE	<ls>TBR. 1,2,1,21.</ls>	
+True	4	773286	rocana	<ls>TBR. 3,10,1,2.</ls>	
+True	4	773377	rocana	<ls>TBR. 3,12,8,1.</ls>	
+True	4	773382	rocana	<ls>TBR. 3,3,11,3.</ls>	
+True	4	773427	rocanAvant	<ls>TBR. 2,7,15,3.</ls>	
+True	4	773649	rodastva	<ls>TBR. 2,2,9,4.</ls>	
+None	4	773920	ropaRa	<ls>TBR. Comm. 3,476,9.</ls>	
+None	4	774167	romanTa	<ls>TBR. Comm. 1,193,12.</ls>	
+True	4	774634	roha	<ls>TBR. 1,1,2,2.</ls>	
+True	4	774768	rohiRitva	<ls>TBR. 1,1,10,6.</ls>	
+fixed	4	775028	rohita	<ls>TBR. 1,1,2,2. 10,6. 2,7,9,4.</ls>	<ls>TBR. 1,1,2,2.</ls> <ls n="TBR. 1,1,">10,6.</ls> <ls n="TBR.">2,7,9,4.</ls>
+True	4	776421	lakzay	<ls>TBR. 1,5,9,3.</ls>	
+True	4	776826	lakzmI	<ls>TBR. 2,1,2,2</ls>	
+True	4	779813	lap	<ls>TBR. 2,2,10,3.</ls>	
+True	4	780072	laB	<ls>TBR. 1,7,1,6.</ls>	
+True	4	780295	laB	<ls>TBR. 1,6,10,5.</ls>	
+True	4	780333	laB	<ls>TBR. 2,1,10,1.</ls>	
+True	4	780352	laB	<ls>TBR. 1,8,6,1.</ls>	
+True	4	780382	laB	<ls>TBR. 2,2,2,2.</ls>	
+True	4	780513	laB	<ls>TBR. 3,7,12,3</ls>	
+True	4	780604	laB	<ls>TBR. 1,7,1,6.</ls>	
+True	4	781662	lalAwa	<ls>TBR. 3,8,23,1.</ls>	
+True	4	783423	lAji	<ls>TBR. 3,9,4,8</ls>	
+None	4	783441	lAYC	<ls>TBR. Comm. I,37,10.</ls>	
+True	4	784322	liK	<ls>TBR. 1,7,6,6.</ls>	
+True	4	784336	liK	<ls>TBR. 2,7,17,3.</ls>	
+True	4	785051	lip	<ls>TBR. 2,1,1,1.</ls>	
+True	4	785066	lip	<ls>TBR. 3,12,9,8.</ls>	
+fixed	4	785764	lI	<ls>TBR. 1,1,3,3. 2,1,5. 4,7,3.</ls>	<ls>TBR. 1,1,3,3.</ls> <ls n="TBR. 1,">2,1,5.</ls> <ls n="TBR. 1,">4,7,3.</ls>
+True	4	785802	lI	<ls>TBR. 2,2,8,5.</ls>	
+None	4	785896	lI	<ls>TBR. Comm. 1,66,16.</ls>	
+True	4	787305	lU	<ls>TBR. 3,2,2,6.</ls>	
+True	4	787388	lUkza	<ls>TBR. 1,1,6,6.</ls>	
+True	4	788511	loka	<ls>TBR. 3,12,8,2.</ls>	
+True	4	788537	loka	<ls>TBR. 3,1,2,5.</ls>	
+True	4	788570	loka	<ls>TBR. 1,3,10,5.</ls>	
+True	4	788587	loka	<ls>TBR. 1,4,6,5.</ls>	
+True	4	788726	lokakft	<ls>TBR. 3,7,7,10.</ls>	
+True	4	790276	loman	<ls>TBR. 1,3,10,7.</ls>	
+True	4	790277	loman	<ls n="TBR. 1,">2,6,3.</ls>	
+True	4	790279	loman	<ls>TBR. 3,9,23,1.</ls>	
+True	4	790384	lomaSa	<ls>TBR. 1,6,4,4.</ls>	
+True	4	791251	lohAyasa	<ls>TBR. 3,12,6,5.</ls>	
+True	4	791379	lohita	<ls>TBR. 3,2,9,2.</ls>	
+True	4	791664	lohitAyasa	<ls>TBR. 1,5,6,5.</ls>	
+True	4	791782	lohinIkA	<ls>TBR. 2,1,10,2.</ls>	
+True	4	792211	vaMSa	<ls>TBR. 1,2,3,1.</ls>	
+True	4	792792	vakala	<ls>TBR. 3,7,4,2.</ls>	
+True	4	793731	vagnu	<ls>TBR. 3,7,9,1.</ls>	
+True	4	793735	vagnu	<ls>TBR. 3,7,12,3.</ls>	
+True	4	794268	vac	<ls>TBR. 3,3,8,6.</ls>	
+True	4	794282	vac	<ls>TBR. 3,10,11,4.</ls>	
+fixed	4	794480	vac	<ls>TBR. 3,2,2,4. 8,3,1.</ls>	<ls>TBR. 3,2,2,4.</ls> <ls n="TBR. 3,">8,3,1.</ls>
+fixed	4	796641	vaqava	<ls>TBR. 1,8,6,3. 3,8,22,3.</ls>	<ls>TBR. 1,8,6,3.</ls> <ls n="TBR.">3,8,22,3.</ls>
+True	4	797755	vad	<ls>TBR. 3,1,2,1.</ls>	
+True	4	797821	vad	<ls>TBR. 3,9,14,1.</ls>	
+True	4	797883	vad	<ls>TBR. 1,3,6,2.</ls>	
+True	4	797884	vad	<ls n="TBR. 1,">8,3,2.</ls>	
+True	4	797898	vad	<ls>TBR. 3,8,3,2.</ls>	
+True	4	797934	vad	<ls>TBR. 2,3,9,9.</ls>	
+True	4	798047	vad	<ls>TBR. 3,2,5,9.</ls>	
+True	4	798057	vad	<ls>TBR. 2,3,9,7.</ls>	
+True	4	798196	vad	<ls>TBR. 2,3,5,5.</ls>	
+True	4	798229	vad	<ls>TBR. 3,10,9,5.</ls>	
+True	4	798543	vaD	<ls>TBR. 1,5,2,8.</ls>	
+True	4	798624	vaD	<ls>TBR. 3,1,1,3.</ls>	
+True	4	799377	vana	<ls>TBR. 2,4,8,7.</ls>	
+None	4	800740	vanizWu	<ls>TBR. Comm. 2,672,18</ls>	
+True	4	801409	vap	<ls>TBR. 1,5,6,1.</ls>	
+fixed	4	801508	vap	<ls>TBR. 1,4,3,6. 5,4,2.</ls>	<ls>TBR. 1,4,3,6.</ls> <ls n="TBR. 1,">5,4,2.</ls>
+fixed	4	801598	vap	<ls>TBR. 1,6,2,7. 4,3.</ls>	<ls>TBR. 1,6,2,7.</ls> <ls n="TBR. 1,6,">4,3.</ls>
+True	4	801606	vap	<ls>TBR. 1,1,3,1.</ls>	
+True	4	801607	vap	<ls n="TBR.">3,3,8,1.</ls>	
+True	4	801648	vap	<ls>TBR. 3,3,8,5.</ls>	
+fixed	4	801687	vap	<ls>TBR. 1,1,6,7. 5.</ls>	<ls>TBR. 1,1,6,7.</ls> <ls n="TBR. 1,1,6,">5.</ls>
+True	4	801698	vap	<ls>TBR. 1,7,3,7.</ls>	
+True	4	801741	vap	<ls>TBR. 1,2,6,5.</ls>	
+True	4	801810	vapA	<ls>TBR. 2,8,4,4.</ls>	
+True	4	801843	vapA	<ls>TBR. 1,1,3,4.</ls>	
+True	4	802072	vaptar	<ls>TBR. 1,5,6,3.</ls>	
+True	4	802413	vamra	<ls>TBR. 1,2,1,3.</ls>	
+fixed	4	802466	vayas	<ls>TBR. 2,2,6,4. 3,3,2.</ls>	<ls>TBR. 2,2,6,4.</ls> <ls n="TBR. 2,">3,3,2.</ls>
+True	4	802524	vayas	<ls>TBR. 3,12,5,9</ls>	
+fixed	4	803977	var	<ls>TBR. 1,3,6,7. 6,1,10.</ls>	<ls>TBR. 1,3,6,7.</ls> <ls n="TBR. 1,">6,1,10.</ls>
+True	4	804091	vara	<ls>TBR. 2,2,1,5.</ls>	
+True	4	804112	vara	<ls>TBR. 1,6,1,5.</ls>	
+True	4	804113	vara	<ls n="TBR.">3,12,5,7.</ls>	
+True	4	805428	varAha	<ls>TBR. 1,1,3,6.</ls>	
+True	4	805432	varAha	<ls>TBR. 1,7,9,3.</ls>	
+True	4	805778	varizWa	<ls>TBR. 3,7,7,1.</ls>	
+fixed	4	805984	varuRa	<ls>TBR. 1,1,4,8. 4,10,6.</ls>	<ls>TBR. 1,1,4,8.</ls> <ls n="TBR. 1,">4,10,6.</ls>
+True	4	805986	varuRa	<ls>TBR. 3,1,2,7.</ls>	
+True	4	806009	varuRa	<ls>TBR. 1,6,5,6.</ls>	
+True	4	806022	varuRa	<ls>TBR. 1,5,3,3.</ls>	
+True	4	806041	varuRa	<ls>TBR. 1,7,2,6.</ls>	
+True	4	806107	varuRagfhIta	<ls>TBR. 1,6,4,1.</ls>	
+True	4	806113	varuRagrAha	<ls>TBR. 1,6,4,2.</ls>	
+fixed	4	806150	varuRapASa	<ls>TBR. 1,5,9,7. 7,2,5.</ls>	<ls>TBR. 1,5,9,7.</ls> <ls n="TBR. 1,">7,2,5.</ls>
+fixed	4	806167	varuRapraGAsa	<ls>TBR. 1,4,9,5. 10,6. 5,6,4. 6,4,1.</ls>	<ls>TBR. 1,4,9,5.</ls> <ls n="TBR. 1,4,">10,6.</ls> <ls n="TBR. 1,">5,6,4.</ls> <ls n="TBR. 1,">6,4,1.</ls>
+fixed	4	806237	varuRasava	<ls>TBR. 1,7,4,3. 6,4.</ls>	<ls>TBR. 1,7,4,3.</ls> <ls n="TBR. 1,7,">6,4.</ls>
+True	4	806238	varuRasava	<ls n="TBR.">2,7,6,1.</ls>	
+True	4	806383	varUTa	<ls>TBR. 2,6,10,5.</ls>	
+True	4	807052	varj	<ls>TBR. 3,6,13,1.</ls>	
+fixed	4	807064	varj	<ls>TBR. 1,4,9,3. 5,6,4.</ls>	<ls>TBR. 1,4,9,3.</ls> <ls n="TBR. 1,">5,6,4.</ls>
+True	4	807065	varj	<ls n="TBR.">2,3,5,2.</ls>	
+None	4	807166	varj	<ls>TBR. I,112,12.</ls>	
+True	4	807211	varj	<ls>TBR. 1,4,6,5.</ls>	
+True	4	807304	varj	<ls>TBR. 2,1,4,4.</ls>	
+fixed	4	807352	varj	<ls>TBR. 2,1,3,2. 3,2,8,6.</ls>	<ls>TBR. 2,1,3,2.</ls> <ls n="TBR.">3,2,8,6.</ls>
+True	4	807570	varRa	<ls>TBR. 1,4,7,1.</ls>	
+True	4	807574	varRa	<ls>TBR. 1,7,8,1.</ls>	
+True	4	807600	varRa	<ls>TBR. 1,2,6,7.</ls>	
+True	4	808804	vart	<ls>TBR. 3,2,7,1.</ls>	
+True	4	808812	vart	<ls>TBR. 1,7,1,7.</ls>	
+True	4	808902	vart	<ls>TBR. 1,5,5,1.</ls>	
+True	4	809050	vart	<ls>TBR. 1,1,5,9.</ls>	
+True	4	809132	vart	<ls>TBR. 2,1,8,1.</ls>	
+fixed	4	809213	vart	<ls>TBR. 1,1,2,3. 6,7,3.</ls>	<ls>TBR. 1,1,2,3.</ls> <ls n="TBR. 1,">6,7,3.</ls>
+fixed	4	809282	vart	<ls>TBR. 2,1,4,7. 8. 6,5.</ls>	<ls>TBR. 2,1,4,7.</ls> <ls n="TBR. 2,1,4,">8.</ls> <ls n="TBR. 2,1,">6,5.</ls>
+True	4	809283	vart	<ls n="TBR.">3,11,7,4.</ls>	
+True	4	809310	vart	<ls>TBR. 1,2,6,3.</ls>	
+True	4	809311	vart	<ls n="TBR.">2,1,6,5.</ls>	
+True	4	809349	vart	<ls>TBR. 1,1,8,1.</ls>	
+True	4	809402	vart	<ls>TBR. 1,1,8,1.</ls>	
+True	4	809403	vart	<ls n="TBR. 1,">3,3,6.</ls>	
+True	4	809404	vart	<ls n="TBR.">3,7,3,5.</ls>	
+True	4	809453	vart	<ls>TBR. 1,1,5,4.</ls>	
+True	4	809458	vart	<ls>TBR. 3,2,1,5.</ls>	
+True	4	809503	vart	<ls>TBR. 1,7,1,7.</ls>	
+True	4	809539	vart	<ls>TBR. 1,5,5,7.</ls>	
+True	4	809711	vart	<ls>TBR. 2,2,10,7.</ls>	
+True	4	809715	vart	<ls>TBR. 1,5,5,1.</ls>	
+True	4	809716	vart	<ls n="TBR. 1,5,5,">4.</ls>	
+True	4	809717	vart	<ls n="TBR. 1,5,">6,5.</ls>	
+True	4	810192	vart	<ls>TBR. 1,5,5,2.</ls>	
+True	4	810205	vart	<ls>TBR. 2,2,10,7.</ls>	
+fixed	4	810223	vart	<ls>TBR. 1,5,5,1. 3.</ls>	<ls>TBR. 1,5,5,1.</ls> <ls n="TBR. 1,5,5,">3.</ls>
+None	4	810713	vart	<ls>TBR. I,76,6.</ls>	
+True	4	811314	vartman	<ls>TBR. 2,1,3,5.</ls>	
+fixed	4	811699	varD	<ls>TBR. 3,1,1,2. 2,1.</ls>	<ls>TBR. 3,1,1,2.</ls> <ls n="TBR. 3,1,">2,1.</ls>
+True	4	811712	varD	<ls>TBR. 2,6,15,2</ls>	
+True	4	811781	varD	<ls>TBR. 2,4,6,7</ls>	
+True	4	812623	varya	<ls>TBR. 3,9,21,1.</ls>	
+True	4	812875	varz	<ls>TBR. 3,7,2,3.</ls>	
+True	4	813046	varza	<ls>TBR. 1,4,10,10.</ls>	
+True	4	813266	varzaprAvan	<ls>TBR. 3,6,13,1.</ls>	
+True	4	813558	varzizWa	<ls>TBR. 2,7,11,2.</ls>	
+fixed	4	813615	varzIyaMs	<ls>TBR. 1,6,8,6. 3,2,9,11.</ls>	<ls>TBR. 1,6,8,6.</ls> <ls n="TBR.">3,2,9,11.</ls>
+True	4	813640	varzuka	<ls>TBR. 3,3,1,2.</ls>	
+True	4	813701	varzman	<ls>TBR. 1,3,6,2.</ls>	
+fixed	4	813702	varzman	<ls n="TBR. 1,">7,9,6. 2,7,9,4.</ls>	<ls n="TBR. 1,">7,9,6.</ls> <ls n="TBR.">2,7,9,4.</ls>
+True	4	814330	valka	<ls>TBR. 1,4,7,6.</ls>	
+True	4	815362	vaSa	<ls>TBR. 3,12,3,3.</ls>	
+True	4	815641	vaSA	<ls>TBR. 1,2,5,2.</ls>	
+True	4	815788	vaSin	<ls>TBR. 2,7,17,1.</ls>	
+True	4	815831	vaSIkar	<ls>TBR. 1,7,5,4.</ls>	
+fixed	4	816048	vazawkAra	<ls>TBR. 1,6,11,1. 4. 3,3,7,2.</ls>	<ls>TBR. 1,6,11,1.</ls> <ls n="TBR. 1,6,11,">4.</ls> <ls n="TBR.">3,3,7,2.</ls>
+True	4	816152	vas	<ls>TBR. 1,8,2,3</ls>	
+True	4	816155	vas	<ls>TBR. 1,4,4,5.</ls>	
+True	4	816247	vas	<ls>TBR. 3,2,8,7.</ls>	
+True	4	816422	vas	<ls>TBR. 1,8,5,5.</ls>	
+True	4	816603	vas	<ls>TBR. 1,6,7,3.</ls>	
+fixed	4	816689	vas	<ls>TBR. 2,1,3,4. 7,1. 8,2.</ls>	<ls>TBR. 2,1,3,4.</ls> <ls n="TBR. 2,1,">7,1.</ls> <ls n="TBR. 2,1,">8,2.</ls>
+True	4	816722	vas	<ls>TBR. 1,6,6,4.</ls>	
+True	4	816899	vas	<ls>TBR. 3,11,8,2.</ls>	
+True	4	816998	vas	<ls>TBR. 1,2,1,21.</ls>	
+True	4	817028	vas	<ls>TBR. 1,2,1,13.</ls>	
+True	4	817033	vas	<ls>TBR. 3,1,1,12.</ls>	
+True	4	817035	vas	<ls>TBR. 3,7,4,4.</ls>	
+True	4	817036	vas	<ls n="TBR. 3,">1,1,1.</ls>	
+fixed	4	817133	vasati	<ls>TBR. 3,7,3,3. 2,3,5,4</ls>	<ls>TBR. 3,7,3,3.</ls> <ls n="TBR.">2,3,5,4</ls>
+True	4	817262	vasanta	<ls>TBR. 1,1,2,6.</ls>	
+fixed	4	817471	vasantA	<ls>TBR. 1,1,2,7. 4,10,10.</ls>	<ls>TBR. 1,1,2,7.</ls> <ls n="TBR. 1,">4,10,10.</ls>
+fixed	4	817681	vasizWa	<ls>TBR. 1,3,10,9. 2,3,1,3.</ls>	<ls>TBR. 1,3,10,9.</ls> <ls n="TBR.">2,3,1,3.</ls>
+True	4	817685	vasizWa	<ls>TBR. 3,1,2,7.</ls>	
+True	4	817796	vasIyaMs	<ls>TBR. 1,1,2,8.</ls>	
+fixed	4	817797	vasIyaMs	<ls n="TBR.">2,1,2,3. 3,1,1,9.</ls>	<ls n="TBR.">2,1,2,3.</ls> <ls n="TBR.">3,1,1,9.</ls>
+fixed	4	817860	vasu	<ls>TBR. 1,5,11,2. 2,1,10,1.</ls>	<ls>TBR. 1,5,11,2.</ls> <ls n="TBR.">2,1,10,1.</ls>
+fixed	4	817996	vasu	<ls>TBR. 3,11,9,9. 10,3.</ls>	<ls>TBR. 3,11,9,9.</ls> <ls n="TBR. 3,11,">10,3.</ls>
+fixed	4	818423	vasuDeya	<ls>TBR. 2,6,14,1. 3,5,9,1.</ls>	<ls>TBR. 2,6,14,1.</ls> <ls n="TBR.">3,5,9,1.</ls>
+True	4	818973	vasti	<ls>TBR. 2,2,9,2.</ls>	
+True	4	819519	vasyaMs	<ls>TBR. 2,2,9,10.</ls>	
+True	4	819521	vasyaMs	<ls>TBR. 3,2,2,4.</ls>	
+True	4	819629	vah	<ls>TBR. 1,5,4,1.</ls>	
+True	4	820084	vah	<ls>TBR. 3,8,1,2.</ls>	
+True	4	820095	vah	<ls>TBR. 1,1,5,6.</ls>	
+True	4	820429	vah	<ls>TBR. 1,1,3,7.</ls>	
+True	4	820533	vahatu	<ls>TBR. 1,5,1,2.</ls>	
+fixed	4	820626	vahin	<ls>TBR. 1,4,4,10. 6,1,6. fgg. 7,1,4.</ls>	<ls>TBR. 1,4,4,10.</ls> <ls n="TBR. 1,">6,1,6. fgg.</ls> <ls n="TBR. 1,">7,1,4.</ls>
+True	4	820657	vahni	<ls>TBR. 1,8,2,5.</ls>	
+True	4	821130	vA	<ls>TBR. 1,6,6,4.</ls>	
+fixed	4	821202	vA	<ls>TBR. 2,3,9,4. 5.</ls>	<ls>TBR. 2,3,9,4.</ls> <ls n="TBR. 2,3,9,">5.</ls>
+True	4	821257	vA	<ls>TBR. 3,10,4,2.</ls>	
+fixed	4	821328	vA	<ls>TBR. 2,3,9,6. 3,10,4,2.</ls>	<ls>TBR. 2,3,9,6.</ls> <ls n="TBR.">3,10,4,2.</ls>
+True	4	821330	vA	<ls>TBR. 3,11,7,2.</ls>	
+fixed	4	821333	vA	<ls>TBR. 2,3,9,6. 3,10,4,2.</ls>	<ls>TBR. 2,3,9,6.</ls> <ls n="TBR.">3,10,4,2.</ls>
+fixed	4	821352	vA	<ls>TBR. 1,4,4,6. 7,2.</ls>	<ls>TBR. 1,4,4,6.</ls> <ls n="TBR. 1,4,">7,2.</ls>
+True	4	821355	vA	<ls>TBR. 1,4,4,7.</ls>	
+True	4	821434	vA	<ls>TBR. 1,5,1,1.</ls>	
+fixed	4	821448	vA	<ls>TBR. 3,9,4,4. 5.</ls>	<ls>TBR. 3,9,4,4.</ls> <ls n="TBR. 3,9,4,">5.</ls>
+True	4	821468	vA	<ls>TBR. 1,2,4,2.</ls>	
+True	4	821714	vAkpatIya	<ls>TBR. 2,7,3,1.</ls>	
+True	4	822727	vAcaMyama	<ls>TBR. 3,2,3,8</ls>	
+True	4	823293	vAja	<ls>TBR. 1,3,7,1.</ls>	
+fixed	4	823359	vAjajit	<ls>TBR. 1,3,6,1. 3,7,6,4.</ls>	<ls>TBR. 1,3,6,1.</ls> <ls n="TBR.">3,7,6,4.</ls>
+True	4	823376	vAjajityA	<ls>TBR. 3,7,6,15.</ls>	
+fixed	4	823420	vAjapastya	<ls>TBR. 3,1,2,9. 12.</ls>	<ls>TBR. 3,1,2,9.</ls> <ls n="TBR. 3,1,2,">12.</ls>
+fixed	4	823429	vAjapeya	<ls>TBR. 1,3,2,3. 7,1.</ls>	<ls>TBR. 1,3,2,3.</ls> <ls n="TBR. 1,3,">7,1.</ls>
+True	4	823430	vAjapeya	<ls n="TBR.">2,7,6,1.</ls>	
+True	4	823436	vAjapeya	<ls>TBR. 1,3,8,1.</ls>	
+True	4	823444	vAjapeya	<ls>TBR. 1,3,2,3.</ls>	
+True	4	823489	vAjaprasavIya	<ls>TBR. 1,3,7,3.</ls>	
+fixed	4	823573	vAjay	<ls>TBR. 3,3,7,2. 3.</ls>	<ls>TBR. 3,3,7,2.</ls> <ls n="TBR. 3,3,7,">3.</ls>
+True	4	823625	vAjavant	<ls>TBR. 1,4,4,10.</ls>	
+True	4	823640	vAjavant	<ls>TBR. 3,3,9,1.</ls>	
+fixed	4	823665	vAjaSravasa	<ls>TBR. 1,3,10,3. 3,11,8,1. 8.</ls>	<ls>TBR. 1,3,10,3.</ls> <ls n="TBR.">3,11,8,1.</ls> <ls n="TBR. 3,11,8,">8.</ls>
+fixed	4	823752	vAjasft	<ls>TBR. 1,3,3,7. 6,7. 8,4.</ls>	<ls>TBR. 1,3,3,7.</ls> <ls n="TBR. 1,3,">6,7.</ls> <ls n="TBR. 1,3,">8,4.</ls>
+True	4	823860	vAjin	<ls>TBR. 1,3,2,4.</ls>	
+True	4	823882	vAjin	<ls>TBR. 1,6,3,9</ls>	
+True	4	823935	vAjinIvant	<ls>TBR. 2,8,4,2.</ls>	
+True	4	824562	vARija	<ls>TBR. 3,4,1,14.</ls>	
+None	4	825602	vAtApi	<ls>TBR. II,419,15.</ls>	
+True	4	825968	vAtsapra	<ls>TBR. 5,2,1,6.</ls>	
+True	4	826970	vAnyA	<ls>TBR. 2,6,16,2.</ls>	
+True	4	827132	vAma	<ls>TBR. 1,1,2,3.</ls>	
+fixed	4	827389	vAmadevya	<ls>TBR. 1,1,8,2. 2,1,5,7.</ls>	<ls>TBR. 1,1,8,2.</ls> <ls n="TBR.">2,1,5,7.</ls>
+True	4	827419	vAmana	<ls>TBR. 1,6,1,6.</ls>	
+True	4	828547	vAra	<ls>TBR. 1,1,8,3.</ls>	
+fixed	4	829042	vAravantIya	<ls>TBR. 1,5,12,1. 8,2,5. 2,7,14,2.</ls>	<ls>TBR. 1,5,12,1.</ls> <ls n="TBR. 1,">8,2,5.</ls> <ls n="TBR.">2,7,14,2.</ls>
+True	4	829161	vArAha	<ls>TBR. 1,7,9,4.</ls>	
+True	4	829440	vAriti	<ls>TBR. 2,6,14,5.</ls>	
+fixed	4	829834	vAruRa	<ls>TBR. 1,7,2,6. 2,7,2,1.</ls>	<ls>TBR. 1,7,2,6.</ls> <ls n="TBR.">2,7,2,1.</ls>
+True	4	830026	vArevfta	<ls>TBR. 2,1,1,3.</ls>	
+True	4	830482	vArtraGna	<ls>TBR. 1,6,1,7.</ls>	
+True	4	831028	vArzRa	<ls>TBR. 3,11,9,3.</ls>	
+True	4	831048	vArzReya	<ls>TBR. 3,10,9,15.</ls>	
+True	4	831096	vAla	<ls>TBR. 3,9,4,4.</ls>	
+fixed	4	831627	vAva	<ls>TBR. 1,1,10,3. 2,1,2,9. 10.</ls>	<ls>TBR. 1,1,10,3.</ls> <ls n="TBR.">2,1,2,9.</ls> <ls n="TBR. 2,1,2,">10.</ls>
+True	4	831633	vAva	<ls>TBR. 1,4,6,2.</ls>	
+True	4	831646	vAva	<ls>TBR. 1,2,2,5.</ls>	
+fixed	4	831647	vAva	<ls n="TBR. 1,">6,9,9. 7,8,5.</ls>	<ls n="TBR. 1,">6,9,9.</ls> <ls n="TBR. 1,">7,8,5.</ls>
+fixed	4	831653	vAva	<ls>TBR. 1,5,11,2. 12,2. 3,8,14,1.</ls>	<ls>TBR. 1,5,11,2.</ls> <ls n="TBR. 1,5,">12,2.</ls> <ls n="TBR.">3,8,14,1.</ls>
+True	4	831715	vAvAta	<ls>TBR. 1,7,3,3.</ls>	
+True	4	831743	vAS	<ls>TBR. 3,7,8,1.</ls>	
+True	4	831822	vASa	<ls>TBR. 1,7,5,4.</ls>	
+None	4	831851	vASana	<ls>TBR. III,518,8. 16.</ls>	
+True	4	831892	vASitA	<ls>TBR. 1,1,9,9.</ls>	
+True	4	832708	vAsas	<ls>TBR. 1,1,6,11.</ls>	
+True	4	833251	vAstavya	<ls>TBR. 1,4,4,7.</ls>	
+fixed	4	834282	vikaNkata	<ls>TBR. 1,1,3,12. 2,1,7.</ls>	<ls>TBR. 1,1,3,12.</ls> <ls n="TBR. 1,">2,1,7.</ls>
+True	4	834634	vikarRa	<ls>TBR. 1,2,4,3.</ls>	
+True	4	836138	vikrAnta	<ls>TBR. 1,1,5,10.</ls>	
+True	4	836152	vikrAnti	<ls>TBR. 1,4,9,5.</ls>	
+True	4	836162	vikrAma	<ls>TBR. 1,1,4,1.</ls>	
+True	4	836408	vikliDa	<ls>TBR. 3,9,15,3.</ls>	
+True	4	836478	vikzAra	<ls>TBR. 1,5,1,1.</ls>	
+True	4	836608	vikzoBa	<ls>TBR. 3,7,6,7.</ls>	
+True	4	837121	vigrAham	<ls>TBR. 2,3,2,1.</ls>	
+True	4	837176	viGana	<ls>TBR. 2,7,18,1.</ls>	
+True	4	838053	vicikitsA	<ls>TBR. 2,1,2,2.</ls>	
+fixed	4	838523	vicCitti	<ls>TBR. 3,2,4,1. 7,1,2.</ls>	<ls>TBR. 3,2,4,1.</ls> <ls n="TBR. 3,">7,1,2.</ls>
+True	4	838886	vijaya	<ls>TBR. 1,1,6,1.</ls>	
+True	4	839137	vijayaBAga	<ls>TBR. 3,7,4,6.</ls>	
+True	4	839846	vijYAtavIrya	<ls>TBR. 2,4,1,2.</ls>	
+True	4	841033	vitasta	<ls>TBR. 1,5,10,1.</ls>	
+True	4	841386	vitta	<ls>TBR. 1,4,7,7.</ls>	
+True	4	841691	vid	<ls>TBR. 1,3,10,3.</ls>	
+True	4	842093	vid	<ls>TBR. 3,6,6,4.</ls>	
+True	4	842231	vid	<ls>TBR. 1,1,4,6.</ls>	
+True	4	842418	vid	<ls>TBR. 3,12,2,2.</ls>	
+True	4	842427	vid	<ls>TBR. 1,2,1,3.</ls>	
+True	4	842431	vid	<ls>TBR. 3,12,2,8</ls>	
+True	4	842432	vid	<ls>TBR. 3,12,2,8.</ls>	
+True	4	842453	vid	<ls>TBR. 1,7,6,6</ls>	
+True	4	842505	vid	<ls>TBR. 3,2,8,12</ls>	
+True	4	843109	vidIgaya	<ls>TBR. 3,9,9,3.</ls>	
+True	4	843213	vidUra	<ls>TBR. 3,9,1,2.</ls>	
+True	4	843440	vidoha	<ls>TBR. 3,3,2,2.</ls>	
+True	4	843531	vidyA	<ls>TBR. 3,10,11,5.</ls>	
+True	4	844290	vidyot	<ls>TBR. 1,7,8,2</ls>	
+True	4	844709	viD	<ls>TBR. 1,2,1,3.</ls>	
+True	4	844717	viD	<ls>TBR. 3,1,1,3.</ls>	
+True	4	844718	viD	<ls>TBR. 3,1,1,3.</ls>	
+True	4	845958	viDfti	<ls>TBR. 1,3,3,5.</ls>	
+True	4	845962	viDfti	<ls>TBR. 3,7,6,7.</ls>	
+True	4	847994	vip	<ls>TBR. 3,7,8,2.</ls>	
+True	4	848032	vip	<ls>TBR. 3,2,4,7.</ls>	
+True	4	848784	vipaSci	<ls>TBR. 3,12,3,4.</ls>	
+True	4	849031	vipApman	<ls>TBR. 2,3,3,1.</ls>	
+True	4	849580	vipracitti	<ls>TBR. 3,10,8,3.</ls>	
+None	4	849647	vipratipatti	<ls>TBR. 1,168,2</ls>	
+True	4	850035	viprAnumadita	<ls>TBR. 3,5,3,1.</ls>	
+fixed	4	850109	vipruz	<ls>TBR. 3,2,3,5. 7,6,21.</ls>	<ls>TBR. 3,2,3,5.</ls> <ls n="TBR. 3,">7,6,21.</ls>
+fixed	4	850615	viBakti	<ls>TBR. 1,1,5,6. 8,5.</ls>	<ls>TBR. 1,1,5,6.</ls> <ls n="TBR. 1,1,">8,5.</ls>
+None	4	850624	viBakti	<ls>TBR. I,125.</ls>	
+True	4	850624	viBakti	<ls>TBR. 1,3,1,1.</ls>	
+True	4	851406	viBu	<ls>TBR. 3,9,19,1.</ls>	
+True	4	852779	vimATa	<ls>TBR. 1,3,8,4.</ls>	
+True	4	853264	vimoka	<ls>TBR. 2,7,17,1.</ls>	
+True	4	853265	vimoka	<ls n="TBR.">3,3,10,4.</ls>	
+True	4	853285	vimoktar	<ls>TBR. 3,7,14,1.</ls>	
+True	4	853391	vimocana	<ls>TBR. 3,7,14,1.</ls>	
+True	4	853524	viyant	<ls>TBR. 1,1,3,2.</ls>	
+True	4	854422	virAj	<ls>TBR. 1,1,7,2.</ls>	
+True	4	854439	virAj	<ls>TBR. 1,2,1,27.</ls>	
+True	4	854444	virAj	<ls>TBR. 1,1,5,10.</ls>	
+True	4	854445	virAj	<ls n="TBR. 1,">4,9,5.</ls>	
+None	4	854446	virAj	<ls>TBR. Comm. I,93,15. fgg.</ls>	
+True	4	854466	virAj	<ls>TBR. 1,6,3,4.</ls>	
+fixed	4	854469	virAj	<ls>TBR. 1,2,4,1. 8,2,1.</ls>	<ls>TBR. 1,2,4,1.</ls> <ls n="TBR. 1,">8,2,1.</ls>
+True	4	854515	virAjan	<ls>TBR. 3,11,3,1.</ls>	
+True	4	854935	virUpa	<ls>TBR. 3,1,2,10.</ls>	
+True	4	855191	virocana	<ls>TBR. 1,5,9,1.</ls>	
+True	4	856530	viloman	<ls>TBR. 1,5,11,4.</ls>	
+True	4	857045	vivartana	<ls>TBR. 3,9,23,2.</ls>	
+True	4	857261	vivasvant	<ls>TBR. 1,1,9,3.</ls>	
+True	4	857358	vivAcana	<ls>TBR. 2,7,16,4.</ls>	
+None	4	857549	vivAsayitar	<ls>TBR. Comm. 3,361,15.</ls>	
+True	4	857771	vivici	<ls>TBR. 3,7,3,5.</ls>	
+True	4	857790	vivitti	<ls>TBR. 3,4,1,7.</ls>	
+True	4	858416	viS	<ls>TBR. 3,1,1,8.</ls>	
+True	4	858914	viS	<ls>TBR. 3,7,7,14.</ls>	
+True	4	859334	viS	<ls>TBR. 2,2,10,5.</ls>	
+True	4	859505	viS	<ls>TBR. 3,7,1,1.</ls>	
+True	4	859728	viS	<ls>TBR. 1,5,10,7.</ls>	
+fixed	4	859735	viS	<ls>TBR. 2,7,16,3. 3,1,2,7.</ls>	<ls>TBR. 2,7,16,3.</ls> <ls n="TBR.">3,1,2,7.</ls>
+fixed	4	859741	viS	<ls>TBR. 2,2,10,6. 3,1,1,7.</ls>	<ls>TBR. 2,2,10,6.</ls> <ls n="TBR.">3,1,1,7.</ls>
+True	4	859790	viS	<ls>TBR. 2,7,2,2.</ls>	
+fixed	4	860289	viSAKa	<ls>TBR. 1,5,2,2. 7. 3,1,1,11.</ls>	<ls>TBR. 1,5,2,2.</ls> <ls n="TBR. 1,5,2,">7.</ls> <ls n="TBR.">3,1,1,11.</ls>
+True	4	860837	viSIrzan	<ls>TBR. 2,3,3,1.</ls>	
+True	4	861468	viSpatnI	<ls>TBR. 1,2,1,13.</ls>	
+True	4	861633	viSravas	<ls>TBR. 3,6,2,2.</ls>	
+True	4	861855	viSva	<ls>TBR. 3,1,1,1.</ls>	
+fixed	4	862028	viSvakarman	<ls>TBR. 1,1,1,5. 2,3,3.</ls>	<ls>TBR. 1,1,1,5.</ls> <ls n="TBR. 1,">2,3,3.</ls>
+True	4	862148	viSvakziti	<ls>TBR. 1,5,1,5.</ls>	
+True	4	862298	viSvajana	<ls>TBR. 1,2,1,4.</ls>	
+fixed	4	862358	viSvajit	<ls>TBR. 1,2,2,2. 4,6,3.</ls>	<ls>TBR. 1,2,2,2.</ls> <ls n="TBR. 1,">4,6,3.</ls>
+fixed	4	862563	viSvadAni	<ls>TBR. 3,3,9,10. 7,4,12.</ls>	<ls>TBR. 3,3,9,10.</ls> <ls n="TBR. 3,">7,4,12.</ls>
+None	4	862943	viSvaprI	<ls>TBR. 3,11,5.</ls>	
+True	4	862943	viSvaprI	<ls>TBR. 3,11,9,9.</ls>	
+fixed	4	863295	viSvarUpa	<ls>TBR. 1,2,1,21. 4,3,1. 7,6,7.</ls>	<ls>TBR. 1,2,1,21.</ls> <ls n="TBR. 1,">4,3,1.</ls> <ls n="TBR. 1,">7,6,7.</ls>
+fixed	4	863549	viSvavyacas	<ls>TBR. 1,5,1,5. 2,4,2,7.</ls>	<ls>TBR. 1,5,1,5.</ls> <ls n="TBR.">2,4,2,7.</ls>
+True	4	863707	visvasfj	<ls>TBR. 3,12,9,2.</ls>	
+True	4	863709	visvasfj	<ls>TBR. 2,8,1,4.</ls>	
+True	4	864379	viz	<ls>TBR. 3,3,11,1.</ls>	
+True	4	864390	viz	<ls>TBR. 2,1,3,9.</ls>	
+True	4	864397	viz	<ls>TBR. 2,1,2,12.</ls>	
+True	4	864477	viza	<ls>TBR. 2,1,1,1.</ls>	
+True	4	864892	vizama	<ls>TBR. 1,8,7,1.</ls>	
+True	4	866321	vizUcikA	<ls>TBR. 2,6,1,5.</ls>	
+True	4	866512	vizwapa	<ls>TBR. 3,8,3,3.</ls>	
+True	4	866796	vizWA	<ls>TBR. 3,7,5,3.</ls>	
+True	4	866878	vizRu	<ls>TBR. 2,8,4,5.</ls>	
+True	4	866880	vizRu	<ls>TBR. 1,6,1,5.</ls>	
+True	4	867151	vizRupatnI	<ls>TBR. 3,1,2,6.</ls>	
+True	4	867639	vizvaYc	<ls>TBR. 1,2,3,1.</ls>	
+True	4	867643	vizvaYc	<ls>TBR. 3,1,1,12.</ls>	
+True	4	869049	visras	<ls>TBR. 3,8,20,5.</ls>	
+True	4	870466	vIRAgATin	<ls>TBR. 3,9,14,1.</ls>	
+True	4	870657	vItapfzWa	<ls>TBR. 1,4,8,2</ls>	
+True	4	870776	vIti	<ls>TBR. 3,2,6,2.</ls>	
+fixed	4	871036	vIra	<ls>TBR. 1,3,10,7. 2,1,14.</ls>	<ls>TBR. 1,3,10,7.</ls> <ls n="TBR. 1,">2,1,14.</ls>
+True	4	871642	vIray	<ls>TBR. 2,7,8,1.</ls>	
+fixed	4	871717	vIravant	<ls>TBR. 3,1,1,10. 2,2.</ls>	<ls>TBR. 3,1,1,10.</ls> <ls n="TBR. 3,1,">2,2.</ls>
+True	4	871950	vIrahan	<ls>TBR. 3,2,8,12.</ls>	
+True	4	872241	vIryakft	<ls>TBR. 2,7,15,6</ls>	
+True	4	872246	vIryakfta	<ls>TBR. 2,7,17,3.</ls>	
+True	4	872307	vIryavant	<ls>TBR. 2,1,4,8.</ls>	
+fixed	4	872377	vIryAvant	<ls>TBR. 1,7,2,2. 2,8,3,7. 3,1,2,4.</ls>	<ls>TBR. 1,7,2,2.</ls> <ls n="TBR.">2,8,3,7.</ls> <ls n="TBR.">3,1,2,4.</ls>
+True	4	873273	vfjina	<ls>TBR. 3,7,5,13.</ls>	
+True	4	873279	vfjina	<ls>TBR. 3,3,7,10.</ls>	
+True	4	873493	vftta	<ls>TBR. 1,2,6,1.</ls>	
+True	4	874374	vftratur	<ls>TBR. 2,8,3,8.</ls>	
+True	4	874389	vftratUrya	<ls>TBR. 3,1,2,1.</ls>	
+True	4	874516	vfTA	<ls>TBR. 3,3,2,2.</ls>	
+True	4	874532	vfTA	<ls>TBR. 3,2,8,8.</ls>	
+True	4	874619	vfdDa	<ls>TBR. 1,7,2,3.</ls>	
+True	4	875388	vfDanvant	<ls>TBR. 1,3,1,3.</ls>	
+True	4	876212	vfzan	<ls>TBR. 3,8,21,1.</ls>	
+True	4	876240	vfzan	<ls>TBR. 1,2,1,21.</ls>	
+True	4	876963	vfzArava	<ls>TBR. 2,5,5,6.</ls>	
+True	4	877056	vfzwi	<ls>TBR. 3,1,2,4.</ls>	
+True	4	878209	vetasa	<ls>TBR. 3,8,4,3.</ls>	
+True	4	878500	veda	<ls>TBR. 3,10,11,4.</ls>	
+True	4	878558	veda	<ls>TBR. 3,3,7,2.</ls>	
+True	4	879790	vedizad	<ls>TBR. 1,2,1,23.</ls>	
+True	4	879822	veduka	<ls>TBR. 3,9,22,2.</ls>	
+True	4	880218	ven	<ls>TBR. 3,7,13,1.</ls>	
+True	4	880227	ven	<ls>TBR. 1,3,5,2.</ls>	
+True	4	880232	ven	<ls>TBR. 2,4,7,4.</ls>	
+None	4	880409	veman	<ls>TBR. 2,670.</ls>	
+True	4	880840	veSanta	<ls>TBR. 3,4,1,12.</ls>	
+None	4	881172	veza	<ls>TBR. Comm. 1,124,3</ls>	
+None	4	881173	veza	<ls n="TBR. Comm. 1,">129,3.</ls>	
+True	4	881266	vezw	<ls>TBR. 1,3,7,3.</ls>	
+True	4	881363	vezw	<ls>TBR. 1,3,6,1</ls>	
+True	4	881742	vE	<ls>TBR. 1,5,9,4.</ls>	
+True	4	881832	vEkaNkata	<ls>TBR. 1,1,3,12.</ls>	
+True	4	882856	vEtasa	<ls>TBR. 3,8,20,4.</ls>	
+True	4	883306	vEdeha	<ls>TBR. 3,10,9,9.</ls>	
+True	4	883598	vEdyuta	<ls>TBR. 3,10,5,1.</ls>	
+True	4	884769	vErahatya	<ls>TBR. 1,5,9,5.</ls>	
+True	4	885421	vESanta	<ls>TBR. 3,1,2,3.</ls>	
+True	4	885645	vESIputra	<ls>TBR. 3,9,7,3.</ls>	
+fixed	4	885706	vESya	<ls>TBR. 1,1,4,8. 9,7. 7,8,7.</ls>	<ls>TBR. 1,1,4,8.</ls> <ls n="TBR. 1,1,">9,7.</ls> <ls n="TBR. 1,">7,8,7.</ls>
+None	4	885764	vESyasava	<ls>TBR. II,753,3</ls>	
+fixed	4	885861	vESvakarmaRa	<ls>TBR. 1,6,7,5. 2,3,3.</ls>	<ls>TBR. 1,6,7,5.</ls> <ls n="TBR. 1,">2,3,3.</ls>
+True	4	885886	vESvadeva	<ls>TBR. 2,1,4,6.</ls>	
+fixed	4	885929	vESvadeva	<ls>TBR. 1,4,9,5. 10,1. 6,8,1.</ls>	<ls>TBR. 1,4,9,5.</ls> <ls n="TBR. 1,4,">10,1.</ls> <ls n="TBR. 1,">6,8,1.</ls>
+True	4	885934	vESvadeva	<ls>TBR. 3,8,10,1. fgg.</ls>	
+None	4	885959	vESvadevahoma	<ls>TBR. 3,604.</ls>	
+True	4	886074	vESvAnara	<ls>TBR. 1,2,1,27.</ls>	
+True	4	886122	vESvAnara	<ls>TBR. 1,5,1,5.</ls>	
+True	4	886206	vESvAvasava	<ls>TBR. 1,5,1,5.</ls>	
+True	4	886917	vyaMsa	<ls>TBR. 1,6,4,3</ls>	
+None	4	887687	vyatireka	<ls>TBR. 1,61,7.</ls>	
+True	4	887818	vyaT	<ls>TBR. 2,4,2,8.</ls>	
+True	4	888317	vyaD	<ls>TBR. 1,6,3,7.</ls>	
+fixed	4	888318	vyaD	<ls n="TBR.">2,5,5,6. 7,4,5,1.</ls>	<ls n="TBR.">2,5,5,6.</ls> <ls n="TBR.">7,4,5,1.</ls>
+True	4	888546	vyaDvan	<ls>TBR. 3,9,1,2</ls>	
+True	4	888558	vyanta	<ls>TBR. 2,1,3,1.</ls>	
+fixed	4	889242	vyarDuka	<ls>TBR. 2,1,6,3. 3,3,1,5.</ls>	<ls>TBR. 2,1,6,3.</ls> <ls n="TBR.">3,3,1,5.</ls>
+True	4	890084	vyazwakA	<ls>TBR. 1,8,10,2.</ls>	
+True	4	890377	vyA	<ls>TBR. 3,3,9,6.</ls>	
+True	4	890416	vyA	<ls>TBR. 1,6,8,2.</ls>	
+True	4	890463	vyA	<ls>TBR. 2,7,15,2.</ls>	
+True	4	892423	vyAvft	<ls>TBR. 1,4,1,4.</ls>	
+True	4	892426	vyAvft	<ls>TBR. 1,3,10,6.</ls>	
+fixed	4	892450	vyAvftti	<ls>TBR. 2,1,3,6. 4,3.</ls>	<ls>TBR. 2,1,3,6.</ls> <ls n="TBR. 2,1,">4,3.</ls>
+fixed	4	892451	vyAvftti	<ls n="TBR. 2,1,">8,2. 3,8,19,2.</ls>	<ls n="TBR. 2,1,">8,2.</ls> <ls n="TBR.">3,8,19,2.</ls>
+True	4	892770	vyAhfti	<ls>TBR. 2,2,4,3.</ls>	
+True	4	893114	vyUQa	<ls>TBR. 2,3,9,9.</ls>	
+True	4	893607	vraj	<ls>TBR. 2,3,10,3.</ls>	
+True	4	893830	vraj	<ls>TBR. 3,10,11,3.</ls>	
+None	4	893915	vraj	<ls>TBR. Comm. 1,89,2</ls>	
+True	4	893953	vraja	<ls>TBR. 3,8,12,2.</ls>	
+True	4	894481	vrata	<ls>TBR. 1,4,4,2.</ls>	
+True	4	894482	vrata	<ls n="TBR. 1,">5,3,4.</ls>	
+True	4	894483	vrata	<ls n="TBR.">2,5,1,7.</ls>	
+True	4	894484	vrata	<ls>TBR. 1,1,4,8.</ls>	
+True	4	894676	vratati	<ls>TBR. 1,5,1,3</ls>	
+True	4	894737	vratapati	<ls>TBR. 3,7,3,5.</ls>	
+True	4	894749	vratapA	<ls>TBR. 2,4,1,11.</ls>	
+True	4	894780	vrataBft	<ls>TBR. 2,4,1,11.</ls>	
+True	4	894953	vratopanayana	<ls>TBR. 3,3,3,2.</ls>	
+True	4	894979	vratya	<ls>TBR. 1,7,4,3.</ls>	
+True	4	894980	vratya	<ls n="TBR.">3,7,1,9.</ls>	
+True	4	895027	vraSc	<ls>TBR. 3,2,10,1.</ls>	
+True	4	895057	vraSc	<ls>TBR. 3,7,6,17.</ls>	
+True	4	895058	vraSc	<ls>TBR. 2,1,2,10.</ls>	
+True	4	895061	vraSc	<ls>TBR. 1,1,4,8.</ls>	
+True	4	895062	vraSc	<ls n="TBR. 1,">3,10,7</ls>	
+True	4	895070	vraSc	<ls>TBR. 3,7,6,16.</ls>	
+True	4	895078	vraSc	<ls>TBR. 2,2,1,7.</ls>	
+True	4	895079	vraSc	<ls n="TBR.">3,2,10,1.</ls>	
+True	4	895385	vrIhi	<ls>TBR. 1,7,3,4.</ls>	
+True	4	895549	vlI	<ls>TBR. 2,2,5,1.</ls>	
+True	4	895568	vlI	<ls>TBR. 3,11,8,8.</ls>	
+True	4	895577	vlI	<ls>TBR. 1,5,4,2.</ls>	
+True	4	895854	SaMyu	<ls>TBR. 3,3,8,11.</ls>	
+True	4	895875	SaMyos	<ls>TBR. 3,3,8,11.</ls>	
+True	4	896038	SaMs	<ls>TBR. 1,4,5,1.</ls>	
+True	4	896134	SaMs	<ls>TBR. 2,4,4,5.</ls>	
+True	4	896279	SaMsa	<ls>TBR. 3,7,12,2.</ls>	
+True	4	896396	SaMsya	<ls>TBR. 1,1,10,2.</ls>	
+True	4	896506	Sak	<ls>TBR. 2,4,4,3.</ls>	
+True	4	896520	Sak	<ls>TBR. 2,4,4,9.</ls>	
+True	4	897853	SaktIvant	<ls>TBR. 3,6,2,1.</ls>	
+True	4	897975	Sakra	<ls>TBR. 2,4,3,4.</ls>	
+True	4	898419	Sakvan	<ls>TBR. 1,2,1,14.</ls>	
+True	4	898432	Sakvan	<ls>TBR. 2,1,5,11.</ls>	
+True	4	898438	Sakvan	<ls>TBR. 3,7,6,4.</ls>	
+fixed	4	898475	Sagma	<ls>TBR. 1,5,5,2. 3,7,6,6.</ls>	<ls>TBR. 1,5,5,2.</ls> <ls n="TBR.">3,7,6,6.</ls>
+True	4	900367	SaRqa	<ls>TBR. 1,1,1,5.</ls>	
+True	4	900481	Sata	<ls>TBR. 3,1,2,1.</ls>	
+True	4	900490	Sata	<ls>TBR. 3,1,2,7.</ls>	
+True	4	900969	Satadyumna	<ls>TBR. 1,5,2,1.</ls>	
+True	4	901136	Satapati	<ls>TBR. 2,8,4,2.</ls>	
+fixed	4	901490	SataBizaj	<ls>TBR. 1,5,2,9. 3,1,2,7. 8.</ls>	<ls>TBR. 1,5,2,9.</ls> <ls n="TBR.">3,1,2,7.</ls> <ls n="TBR. 3,1,2,">8.</ls>
+True	4	901720	SatarudrIya	<ls>TBR. 3,11,9,9.</ls>	
+True	4	902173	SatAtfRRa	<ls>TBR. 1,8,6,4.</ls>	
+True	4	902572	Satru	<ls>TBR. 3,1,1,12.</ls>	
+True	4	902732	SatrubADana	<ls>TBR. 1,7,6,8.</ls>	
+True	4	903064	SantAti	<ls>TBR. 3,7,10,4</ls>	
+True	4	903098	Santva	<ls>TBR. 1,1,3,8.</ls>	
+True	4	903175	Sap	<ls>TBR. 3,12,5,1.</ls>	
+True	4	903264	SapaTa	<ls>TBR. 3,10,8,1.</ls>	
+True	4	903361	SaPa	<ls>TBR. 3,8,2,1.</ls>	
+True	4	903369	SaPa	<ls>TBR. 1,2,1,26.</ls>	
+True	4	903539	Sabala	<ls>TBR. 1,7,3,6.</ls>	
+True	4	904410	Sam	<ls>TBR. 3,6,6,4.</ls>	
+fixed	4	904501	Sam	<ls>TBR. 1,1,3,11. 6,7.</ls>	<ls>TBR. 1,1,3,11.</ls> <ls n="TBR. 1,1,">6,7.</ls>
+True	4	904502	Sam	<ls n="TBR. 1,">2,1,6.</ls>	
+True	4	905236	SamI	<ls>TBR. 1,1,3,11. fg.</ls>	
+True	4	905237	SamI	<ls n="TBR. 1,">6,4,5.</ls>	
+fixed	4	905277	SamIgarBa	<ls>TBR. 1,1,9,1. 2,1,8. 16.</ls>	<ls>TBR. 1,1,9,1.</ls> <ls n="TBR. 1,">2,1,8.</ls> <ls n="TBR. 1,2,1,">16.</ls>
+True	4	905325	SamImaya	<ls>TBR. 1,1,3,12.</ls>	
+True	4	905498	Sambarahatya	<ls>TBR. 2,8,3,8.</ls>	
+True	4	905781	SamyA	<ls>TBR. 1,6,1,1.</ls>	
+True	4	905792	SamyA	<ls>TBR. 3,2,6,2.</ls>	
+True	4	906259	Sar	<ls>TBR. 1,5,1,4.</ls>	
+True	4	906358	Sar	<ls>TBR. 1,5,1,4.</ls>	
+fixed	4	906873	Sarad	<ls>TBR. 3,1,1,2. 2,1.</ls>	<ls>TBR. 3,1,1,2.</ls> <ls n="TBR. 3,1,">2,1.</ls>
+True	4	907210	Saravya	<ls>TBR. 1,7,6,8.</ls>	
+True	4	907245	Saras	<ls>TBR. 2,1,7,1.</ls>	
+True	4	907246	Saras	<ls n="TBR. 2,1,">10,3.</ls>	
+fixed	4	907380	SarAva	<ls>TBR. 1,3,4,5. 6,8. 3,8,2,2.</ls>	<ls>TBR. 1,3,4,5.</ls> <ls n="TBR. 1,3,">6,8.</ls> <ls n="TBR.">3,8,2,2.</ls>
+True	4	907534	SarIra	<ls>TBR. 1,2,1,8.</ls>	
+True	4	907537	SarIra	<ls>TBR. 3,8,18,4.</ls>	
+True	4	907714	SarIravant	<ls>TBR. 3,8,15,2.</ls>	
+fixed	4	907867	Sarkara	<ls>TBR. 1,1,3,7. 2,1,4. 3,12,6,2.</ls>	<ls>TBR. 1,1,3,7.</ls> <ls n="TBR. 1,">2,1,4.</ls> <ls n="TBR.">3,12,6,2.</ls>
+True	4	908506	Sala	<ls>TBR. 3,6,6,3.</ls>	
+True	4	908513	Sala	<ls>TBR. 1,5,10,1.</ls>	
+True	4	908624	Salala	<ls>TBR. 1,5,6,6.</ls>	
+None	4	908659	SalAka	<ls>TBR. 1,250,1.</ls>	
+fixed	4	908852	Salka	<ls>TBR. 1,1,9,9. 2,1,15.</ls>	<ls>TBR. 1,1,9,9.</ls> <ls n="TBR. 1,">2,1,15.</ls>
+True	4	910066	SaSvant	<ls>TBR. 2,5,5,2.</ls>	
+True	4	910079	SaSvant	<ls>TBR. 3,12,9,1.</ls>	
+True	4	910793	SA	<ls>TBR. 3,3,1,1.</ls>	
+True	4	911749	SAkvara	<ls>TBR. 3,7,6,10.</ls>	
+True	4	911754	SAkvara	<ls>TBR. 2,1,5,11.</ls>	
+True	4	912942	SAnta	<ls>TBR. 2,1,3,5.</ls>	
+True	4	912944	SAnta	<ls>TBR. 1,2,1,8.</ls>	
+fixed	4	913189	SAnti	<ls>TBR. 1,1,3,1. 2,1,3,5.</ls>	<ls>TBR. 1,1,3,1.</ls> <ls n="TBR.">2,1,3,5.</ls>
+fixed	4	914684	SArdUla	<ls>TBR. 1,7,8,1. 8,5,2.</ls>	<ls>TBR. 1,7,8,1.</ls> <ls n="TBR. 1,">8,5,2.</ls>
+True	4	915077	SAlA	<ls>TBR. 1,2,3,1.</ls>	
+True	4	916014	SASvata	<ls>TBR. 2,5,5,2.</ls>	
+True	4	916268	SAs	<ls>TBR. 1,4,10,2.</ls>	
+True	4	916272	SAs	<ls>TBR. 3,6,6,1.</ls>	
+True	4	917214	Sikz	<ls>TBR. 2,4,4,9.</ls>	
+True	4	917222	Sikz	<ls>TBR. 2,3,2,2</ls>	
+fixed	4	917409	SiKaRqa	<ls>TBR. 1,2,1,27. 3,7,6,4</ls>	<ls>TBR. 1,2,1,27.</ls> <ls n="TBR.">3,7,6,4</ls>
+True	4	918335	SitAman	<ls>TBR. 3,6,11,1.</ls>	
+True	4	918465	SitipfzWa	<ls>TBR. 1,7,3,2.</ls>	
+True	4	918666	SiTilaMBAva	<ls>TBR. 3,3,3,5.</ls>	
+fixed	4	918808	Sipibizwa	<ls>TBR. 1,3,8,5. 4,5,4.</ls>	<ls>TBR. 1,3,8,5.</ls> <ls n="TBR. 1,">4,5,4.</ls>
+True	4	918818	Sipivizwaka	<ls>TBR. 3,10,1,4.</ls>	
+fixed	4	918824	Sipivizwavant	<ls>TBR. 1,3,8,5. 4,5,4.</ls>	<ls>TBR. 1,3,8,5.</ls> <ls n="TBR. 1,">4,5,4.</ls>
+True	4	920440	Silpa	<ls>TBR. 3,3,2,1</ls>	
+fixed	4	920446	Silpa	<ls>TBR. 2,7,15,2. 3.</ls>	<ls>TBR. 2,7,15,2.</ls> <ls n="TBR. 2,7,15,">3.</ls>
+True	4	920447	Silpa	<ls n="TBR.">3,3,2,1.</ls>	
+True	4	920664	Siva	<ls>TBR. 2,2,5,5.</ls>	
+True	4	920856	Siva	<ls>TBR. 3,1,2,3.</ls>	
+True	4	922230	SiSna	<ls>TBR. 2,3,7,3.</ls>	
+True	4	922231	SiSna	<ls n="TBR.">3,7,12,3.</ls>	
+True	4	922285	Siz	<ls>TBR. 3,3,8,2.</ls>	
+True	4	922302	Siz	<ls>TBR. 3,3,7,2.</ls>	
+True	4	922315	Siz	<ls>TBR. 3,7,6,20.</ls>	
+True	4	922364	Siz	<ls>TBR. 1,2,6,4.</ls>	
+fixed	4	922369	Siz	<ls>TBR. 1,1,6,8. 9,3.</ls>	<ls>TBR. 1,1,6,8.</ls> <ls n="TBR. 1,1,">9,3.</ls>
+True	4	922708	SI	<ls>TBR. 3,9,4,4.</ls>	
+True	4	922717	SI	<ls>TBR. 3,7,14,5.</ls>	
+True	4	924526	SIrzatas	<ls>TBR. 1,3,7,7.</ls>	
+True	4	925102	Su	<ls>TBR. 1,1,5,4.</ls>	
+True	4	925624	Sukra	<ls>TBR. 1,1,7,2.</ls>	
+True	4	925698	Sukra	<ls>TBR. 1,5,1,1.</ls>	
+True	4	925775	Sukrapa	<ls>TBR. 1,1,1,1.</ls>	
+True	4	925893	SukraSocis	<ls>TBR. 1,1,1,2.</ls>	
+True	4	925928	SukrAmanTinO	<ls>TBR. 1,1,1,4.</ls>	
+True	4	926440	Suc	<ls>TBR. 1,6,2,1.</ls>	
+True	4	926491	Suc	<ls>TBR. 1,1,8,2.</ls>	
+True	4	926603	Suc	<ls>TBR. 1,6,2,1.</ls>	
+True	4	926684	Suci	<ls>TBR. 1,1,5,10.</ls>	
+True	4	926685	Suci	<ls n="TBR. 1,1,">6,2.</ls>	
+True	4	927012	Sucivrata	<ls>TBR. 2,6,17,1.</ls>	
+True	4	927664	SudDi	<ls>TBR. 2,1,4,8.</ls>	
+True	4	927814	SuD	<ls>TBR. 3,7,12,6.</ls>	
+True	4	928123	Sunavant	<ls>TBR. 2,5,8,12.</ls>	
+True	4	928170	SunAsIra	<ls>TBR. 2,4,5,7.</ls>	
+fixed	4	928178	SunAsIra	<ls>TBR. 1,7,1,1. 2,5,8,2.</ls>	<ls>TBR. 1,7,1,1.</ls> <ls n="TBR.">2,5,8,2.</ls>
+True	4	928200	SunAsIrIya	<ls>TBR. 1,4,10,2.</ls>	
+True	4	928250	SunDana	<ls>TBR. 3,7,12,6.</ls>	
+True	4	928344	SuB	<ls>TBR. 3,1,1,12.</ls>	
+True	4	928398	SuB	<ls>TBR. 3,3,1,5.</ls>	
+True	4	928481	SuB	<ls>TBR. 2,5,6,4.</ls>	
+True	4	929356	SumBamAna	<ls>TBR. 3,10,1,2.</ls>	
+True	4	929643	SuSrUzu	<ls>TBR. 2,3,11,4.</ls>	
+True	4	929956	Suzkadfti	<ls>TBR. 1,8,3,4.</ls>	
+True	4	929988	Suzkala	<ls>TBR. 3,4,1,12</ls>	
+True	4	930027	SuzkAgra	<ls>TBR. 3,2,1,2.</ls>	
+True	4	930130	Suzma	<ls>TBR. 1,2,1,21.</ls>	
+fixed	4	930136	Suzma	<ls>TBR. 1,3,10,8. 6,2,4.</ls>	<ls>TBR. 1,3,10,8.</ls> <ls n="TBR. 1,">6,2,4.</ls>
+True	4	930206	Suzmin	<ls>TBR. 2,7,13,2.</ls>	
+fixed	4	930446	SUdra	<ls>TBR. 1,2,6,7. 3,2,3,9. 3,11,2.</ls>	<ls>TBR. 1,2,6,7.</ls> <ls n="TBR.">3,2,3,9.</ls> <ls n="TBR. 3,">3,11,2.</ls>
+True	4	930651	SUnya	<ls>TBR. 2,1,2,12.</ls>	
+fixed	4	931209	SUrya	<ls>TBR. 1,6,5,4. 3,2,5,11.</ls>	<ls>TBR. 1,6,5,4.</ls> <ls n="TBR.">3,2,5,11.</ls>
+True	4	931705	SUza	<ls>TBR. 3,10,8,4.</ls>	
+True	4	931708	SUza	<ls>TBR. 3,10,9,15.</ls>	
+True	4	932137	SfNgAy	<ls>TBR. 2,3,9,9.</ls>	
+True	4	932497	Sfta	<ls>TBR. 1,4,8,6.</ls>	
+True	4	932506	SftakAma	<ls>TBR. 3,2,8,12.</ls>	
+True	4	932528	Sftatva	<ls>TBR. 3,2,8,12.</ls>	
+fixed	4	932825	SevaDi	<ls>TBR. 3,10,11,2. 3.</ls>	<ls>TBR. 3,10,11,2.</ls> <ls n="TBR. 3,10,11,">3.</ls>
+True	4	934576	SocayantI	<ls>TBR. 3,4,7,3.</ls>	
+True	4	936214	SOnaHSepa	<ls>TBR. 1,7,10,6.</ls>	
+fixed	4	936561	Scut	<ls>TBR. 3,7,3,6. 7.</ls>	<ls>TBR. 3,7,3,6.</ls> <ls n="TBR. 3,7,3,">7.</ls>
+fixed	4	936891	SyA	<ls>TBR. 3,12,7,2. 3.</ls>	<ls>TBR. 3,12,7,2.</ls> <ls n="TBR. 3,12,7,">3.</ls>
+True	4	936966	SyAma	<ls>TBR. 1,3,4,4.</ls>	
+True	4	937430	SyAva	<ls>TBR. 2,3,8,1.</ls>	
+True	4	937479	SyAvadant	<ls>TBR. 3,2,8,12.</ls>	
+True	4	937634	SyetI	<ls>TBR. 1,1,8,2.</ls>	
+True	4	937706	Syena	<ls>TBR. 3,6,6,2.</ls>	
+True	4	937860	SyEta	<ls>TBR. 1,1,8,3.</ls>	
+True	4	937941	Srat	<ls>TBR. 3,11,9,8.</ls>	
+True	4	938109	SradDA	<ls>TBR. 3,7,4,1.</ls>	
+True	4	938138	SradDA	<ls>TBR. 2,3,10,1.</ls>	
+True	4	938171	SradDA	<ls>TBR. 3,11,8,1.</ls>	
+True	4	938197	SradDAdeva	<ls>TBR. 3,2,5,9.</ls>	
+fixed	4	938346	Sram	<ls>TBR. 3,12,2,2. 3.</ls>	<ls>TBR. 3,12,2,2.</ls> <ls n="TBR. 3,12,2,">3.</ls>
+True	4	938568	Srama	<ls>TBR. 2,4,1,11.</ls>	
+fixed	4	939196	SravizWa	<ls>TBR. 1,5,1,5. 9. 3,1,2,7.</ls>	<ls>TBR. 1,5,1,5.</ls> <ls n="TBR. 1,5,1,">9.</ls> <ls n="TBR.">3,1,2,7.</ls>
+True	4	939276	SrA	<ls>TBR. 1,6,6,4.</ls>	
+True	4	939292	SrA	<ls>TBR. 3,6,6,4.</ls>	
+fixed	4	939565	SrAyantIya	<ls>TBR. 1,5,12,1. 8,2,5.</ls>	<ls>TBR. 1,5,12,1.</ls> <ls n="TBR. 1,">8,2,5.</ls>
+True	4	939822	Sri	<ls>TBR. 1,5,12,1.</ls>	
+True	4	939843	Sri	<ls>TBR. 1,4,6,5.</ls>	
+True	4	939844	Sri	<ls n="TBR.">3,11,2,1.</ls>	
+True	4	939922	Sri	<ls>TBR. 1,5,5,1.</ls>	
+True	4	939978	Sri	<ls>TBR. 1,1,10,5.</ls>	
+fixed	4	939979	Sri	<ls n="TBR.">2,1,3,7. 5,5.</ls>	<ls n="TBR.">2,1,3,7.</ls> <ls n="TBR. 2,1,">5,5.</ls>
+True	4	940026	Sri	<ls>TBR. 1,2,6,7</ls>	
+True	4	940574	Sri	<ls>TBR. 1,6,6,2.</ls>	
+True	4	940623	Sri	<ls>TBR. 1,6,8,6.</ls>	
+True	4	940785	Sri	<ls>TBR. 1,5,12,3.</ls>	
+True	4	941016	SrI	<ls>TBR. 1,2,1,26.</ls>	
+True	4	941032	SrI	<ls>TBR. 1,1,4,4.</ls>	
+True	4	941034	SrI	<ls>TBR. 3,10,9,6.</ls>	
+True	4	941035	SrI	<ls n="TBR. 3,">9,14,1.</ls>	
+True	4	943060	Sru	<ls>TBR. 1,6,9,5.</ls>	
+True	4	943068	Sru	<ls>TBR. 2,1,5,9.</ls>	
+True	4	943081	Sru	<ls>TBR. 1,6,9,5.</ls>	
+True	4	943082	Sru	<ls>TBR. 2,1,5,9.</ls>	
+True	4	943093	Sru	<ls>TBR. 3,1,2,5.</ls>	
+True	4	943211	Sru	<ls>TBR. 2,4,7,4.</ls>	
+True	4	943471	Srutafzi	<ls>TBR. 2,5,6,1.</ls>	
+fixed	4	944408	SreyaMs	<ls>TBR. 1,4,6,1. 2,2,10,1.</ls>	<ls>TBR. 1,4,6,1.</ls> <ls n="TBR.">2,2,10,1.</ls>
+True	4	944409	SreyaMs	<ls n="TBR.">3,10,9,5.</ls>	
+True	4	944469	SreyaMs	<ls>TBR. 1,4,10,5.</ls>	
+True	4	944610	SrezWa	<ls>TBR. 2,3,1,3.</ls>	
+True	4	944787	SrEzWya	<ls>TBR. 3,8,9,1.</ls>	
+None	4	944815	SroR	<ls>TBR. 1,215</ls>	
+fixed	4	944833	SroRa	<ls>TBR. 1,5,2,9. 3,1,2,5. 6</ls>	<ls>TBR. 1,5,2,9.</ls> <ls n="TBR.">3,1,2,5.</ls> <ls n="TBR. 3,1,2,">6</ls>
+fixed	4	945037	Srotra	<ls>TBR. 1,2,1,3. 3,6,6,2.</ls>	<ls>TBR. 1,2,1,3.</ls> <ls n="TBR.">3,6,6,2.</ls>
+True	4	945123	Srotrasvin	<ls>TBR. 3,1,5,13.</ls>	
+True	4	945239	SrOtarza	<ls>TBR. 3,10,9,11.</ls>	
+True	4	945363	SlakzRa	<ls>TBR. 3,4,1,19.</ls>	
+True	4	945841	Sliz	<ls>TBR. 3,8,17,4.</ls>	
+True	4	946269	Sloka	<ls>TBR. 3,1,2,6.</ls>	
+fixed	4	946354	SloR	<ls>TBR. 1,5,2,8. 9.</ls>	<ls>TBR. 1,5,2,8.</ls> <ls n="TBR. 1,5,2,">9.</ls>
+True	4	946360	SloRa	<ls>TBR. 3,9,17,2</ls>	
+True	4	946367	SloRya	<ls>TBR. 3,9,17,2.</ls>	
+True	4	946564	Svan	<ls>TBR. 1,1,2,6.</ls>	
+True	4	946567	Svan	<ls>TBR. 3,8,4,1.</ls>	
+True	4	946948	SvaSura	<ls>TBR. 2,4,6,12.</ls>	
+True	4	947416	Svas	<ls>TBR. 1,5,6,5.</ls>	
+True	4	948020	Sveta	<ls>TBR. 1,7,3,7.</ls>	
+True	4	949158	Svovasyasa	<ls>TBR. 2,2,9,10.</ls>	
+True	4	949372	zawtriMSat	<ls>TBR. 3,9,12,2.</ls>	
+True	4	949383	zawtriMSat	<ls>TBR. 3,9,12,2.</ls>	
+fixed	4	950083	zaqQotar	<ls>TBR. 3,12,5,2. 5.</ls>	<ls>TBR. 3,12,5,2.</ls> <ls n="TBR. 3,12,5,">5.</ls>
+True	4	950279	zaqviMSati	<ls>TBR. 3,6,6,3.</ls>	
+True	4	950867	zazWa	<ls>TBR. 1,3,10,4.</ls>	
+True	4	952791	saMvatsara	<ls>TBR. 1,1,2,8.</ls>	
+True	4	952828	saMvatsara	<ls>TBR. 3,10,4,1.</ls>	
+fixed	4	952936	saMvatsarIRa	<ls>TBR. 1,4,10,1. 3,1,2,6.</ls>	<ls>TBR. 1,4,10,1.</ls> <ls n="TBR.">3,1,2,6.</ls>
+True	4	954193	saMveSa	<ls>TBR. 1,4,6,4.</ls>	
+True	4	954217	saMveSana	<ls>TBR. 3,10,1,7.</ls>	
+True	4	954391	saMvlaya	<ls>TBR. 1,5,4,2.</ls>	
+True	4	954617	saMSara	<ls>TBR. 1,8,7,1.</ls>	
+True	4	955070	saMsad	<ls>TBR. 3,7,4,4.</ls>	
+True	4	955607	saMsfp	<ls>TBR. 1,8,1,1.</ls>	
+True	4	955641	saMsfzwaDaya	<ls>TBR. 2,1,1,3.</ls>	
+None	4	955646	saMsfzwahoma	<ls>TBR. Comm. 2,371,10. 403,18.</ls>	
+True	4	955990	saMskfta	<ls>TBR. 3,3,5,5.</ls>	
+None	4	956006	saMskfta	<ls>TBR. Comm. 1,84,5.</ls>	
+True	4	956051	saMstamBa	<ls>TBR. 2,7,18,1.</ls>	
+True	4	956341	saMsTa	<ls>TBR. 3,12,9,6.</ls>	
+True	4	956586	saMsTiti	<ls>TBR. 3,8,6,5.</ls>	
+True	4	956787	saMsrAvaBAga	<ls>TBR. 3,3,9,7.</ls>	
+True	4	957865	sakUti	<ls>TBR. 2,4,6,4.</ls>	
+True	4	957888	sakft	<ls>TBR. 2,1,9,1.</ls>	
+True	4	958233	sakza	<ls>TBR. 3,7,7,1.</ls>	
+True	4	958548	sagaRa	<ls>TBR. 2,8,3,8.</ls>	
+True	4	959365	saNkA	<ls>TBR. 2,4,7,5.</ls>	
+True	4	959598	saMkfti	<ls>TBR. 1,1,1,5.</ls>	
+True	4	960689	saMgaTa	<ls>TBR. 3,6,2,1.</ls>	
+True	4	960796	saMgamana	<ls>TBR. 3,7,13,3.</ls>	
+fixed	4	960901	saMgava	<ls>TBR. 1,4,9,2. 5,3,1</ls>	<ls>TBR. 1,4,9,2.</ls> <ls n="TBR. 1,">5,3,1</ls>
+True	4	960902	saMgava	<ls n="TBR.">2,1,1,3.</ls>	
+fixed	4	961380	saMgrahItar	<ls>TBR. 1,7,3,5. 9,6. 3,8,5,3.</ls>	<ls>TBR. 1,7,3,5.</ls> <ls n="TBR. 1,7,">9,6.</ls> <ls n="TBR.">3,8,5,3.</ls>
+None	4	961712	saMGawaka	<ls>TBR. Comm. 3,349,6.</ls>	
+True	4	961921	saMGAta	<ls>TBR. 3,6,13,1.</ls>	
+True	4	962238	sacakrin	<ls>TBR. 2,7,18,4.</ls>	
+True	4	962312	sacA	<ls>TBR. 1,2,1,8.</ls>	
+True	4	962561	sacyuti	<ls>TBR. 2,4,6,4.</ls>	
+fixed	4	962627	sajAta	<ls>TBR. 2,1,5,6. 7,18,5.</ls>	<ls>TBR. 2,1,5,6.</ls> <ls n="TBR. 2,">7,18,5.</ls>
+True	4	962649	sajAtavant	<ls>TBR. 2,4,6,12.</ls>	
+True	4	962730	sajozas	<ls>TBR. 3,1,1,12.</ls>	
+True	4	963445	saYj	<ls>TBR. 1,4,3,3.</ls>	
+True	4	963577	saYj	<ls>TBR. 1,3,3,5.</ls>	
+True	4	963580	saYj	<ls>TBR. 2,7,18,5.</ls>	
+True	4	964328	saMjYA	<ls>TBR. 3,2,5,4.</ls>	
+fixed	4	964739	satanu	<ls>TBR. 3,2,8,4. 8,20,5.</ls>	<ls>TBR. 3,2,8,4.</ls> <ls n="TBR. 3,">8,20,5.</ls>
+True	4	964778	satAsatI	<ls>TBR. 2,6,2,3.</ls>	
+True	4	965003	satobfhant	<ls>TBR. 2,7,18,5.</ls>	
+True	4	965006	satobfhant	<ls>TBR. 2,7,18,5.</ls>	
+True	4	965300	sattra	<ls>TBR. 1,4,7,7.</ls>	
+fixed	4	965457	sattrin	<ls>TBR. 1,2,2,1. 2,3,5,4.</ls>	<ls>TBR. 1,2,2,1.</ls> <ls n="TBR.">2,3,5,4.</ls>
+True	4	965475	sattriya	<ls>TBR. 3,11,9,2.</ls>	
+True	4	965930	satya	<ls>TBR. 3,12,2,2.</ls>	
+True	4	965946	satya	<ls>TBR. 1,7,4,1</ls>	
+True	4	966032	satya	<ls>TBR. 1,1,5,1.</ls>	
+True	4	966033	satya	<ls n="TBR. 1,">8,3,3.</ls>	
+True	4	966039	satya	<ls>TBR. 3,9,3,2.</ls>	
+True	4	966409	satyaDarman	<ls>TBR. 1,7,10,3.</ls>	
+True	4	966551	satyaprASU	<ls>TBR. 1,1,5,1.</ls>	
+True	4	966600	satyamanman	<ls>TBR. 3,5,9,1.</ls>	
+True	4	966814	satyavAc	<ls>TBR. 1,8,3,4.</ls>	
+True	4	967637	sad	<ls>TBR. 2,4,7,11.</ls>	
+True	4	967992	sad	<ls>TBR. 3,7,6,8.</ls>	
+True	4	968100	sad	<ls>TBR. 1,3,1,1.</ls>	
+fixed	4	968173	sad	<ls>TBR. 1,5,9,7. 3,1,3,1.</ls>	<ls>TBR. 1,5,9,7.</ls> <ls n="TBR.">3,1,3,1.</ls>
+True	4	968197	sad	<ls>TBR. 2,1,7,1.</ls>	
+fixed	4	968213	sad	<ls>TBR. 1,4,4,2. 2,1,3,6. 4,3.</ls>	<ls>TBR. 1,4,4,2.</ls> <ls n="TBR.">2,1,3,6.</ls> <ls n="TBR. 2,1,">4,3.</ls>
+True	4	968243	sad	<ls>TBR. 2,2,1,4.</ls>	
+True	4	968866	sadas	<ls>TBR. 2,1,5,1.</ls>	
+True	4	969466	sadfS	<ls>TBR. 1,2,6,3.</ls>	
+True	4	969580	sadeva	<ls>TBR. 3,2,3,12.</ls>	
+None	4	969729	sadBAva	<ls>TBR. 1,129,1</ls>	
+None	4	969729	sadBAva	<ls n="TBR.">3,564,11.</ls>	
+True	4	969848	sadyaHkrI	<ls>TBR. 1,8,2,1.</ls>	
+True	4	970003	sadyutti	<ls>TBR. 2,4,6,4.</ls>	
+True	4	970358	saDamAda	<ls>TBR. 3,1,1,8.</ls>	
+True	4	970376	saDamAdya	<ls>TBR. 1,4,8,2</ls>	
+True	4	970630	san	<ls>TBR. 1,2,1,15</ls>	
+fixed	4	970647	san	<ls>TBR. 3,6,13,1. 14,3.</ls>	<ls>TBR. 3,6,13,1.</ls> <ls n="TBR. 3,6,">14,3.</ls>
+True	4	970653	san	<ls>TBR. 2,3,9,9.</ls>	
+True	4	971174	sani	<ls>TBR. 2,3,9,9.</ls>	
+True	4	971177	sani	<ls>TBR. 3,1,1,7.</ls>	
+True	4	971204	sanitar	<ls>TBR. 3,1,1,7.</ls>	
+True	4	971476	sant	<ls>TBR. 1,2,1,26.</ls>	
+fixed	4	971701	saMtati	<ls>TBR. 1,1,9,10. 2,3,1.</ls>	<ls>TBR. 1,1,9,10.</ls> <ls n="TBR. 1,">2,3,1.</ls>
+True	4	971769	saMtatihoma	<ls>TBR. 3,8,18,3.</ls>	
+True	4	972361	santva	<ls>TBR. 1,1,9,8.</ls>	
+True	4	972362	santva	<ls n="TBR.">3,3,10,2.</ls>	
+True	4	973053	saMDA	<ls>TBR. 1,7,1,6.</ls>	
+True	4	973054	saMDA	<ls n="TBR.">2,1,1,3.</ls>	
+None	4	973171	saMDAna	<ls>TBR. 2,652,11.</ls>	
+True	4	973272	saMDi	<ls>TBR. 1,4,5,1.</ls>	
+fixed	4	973359	saMDi	<ls>TBR. 1,4,5,1. 2,2,9,8.</ls>	<ls>TBR. 1,4,5,1.</ls> <ls n="TBR.">2,2,9,8.</ls>
+None	4	973362	saMDi	<ls>TBR. 1,164,6.</ls>	
+None	4	973702	saMDya	<ls>TBR. 1,67,4</ls>	
+True	4	973921	saMnati	<ls>TBR. 3,7,6,18.</ls>	
+True	4	973923	saMnati	<ls>TBR. 3,8,18,5.</ls>	
+None	4	973928	saMnati	<ls>TBR. Comm. 3,630.</ls>	
+True	4	974025	saMnahana	<ls>TBR. 3,7,6,18.</ls>	
+True	4	974883	sap	<ls>TBR. 2,4,6,5</ls>	
+True	4	974890	sapa	<ls>TBR. 2,4,6,5.</ls>	
+True	4	974891	sapa	<ls n="TBR. 2,4,6,">6.</ls>	
+True	4	975026	sapatnatur	<ls>TBR. 1,2,1,21.</ls>	
+True	4	975460	saptagaRa	<ls>TBR. 2,7,2,2.</ls>	
+fixed	4	975627	saptadaSa	<ls>TBR. 1,3,6,4. 5,10,6.</ls>	<ls>TBR. 1,3,6,4.</ls> <ls n="TBR. 1,">5,10,6.</ls>
+True	4	975632	saptadaSa	<ls>TBR. 1,2,6,3.</ls>	
+True	4	975635	saptadaSa	<ls>TBR. 1,4,5,3.</ls>	
+fixed	4	975639	saptadaSa	<ls>TBR. 1,5,10,3. 2,2,4,7.</ls>	<ls>TBR. 1,5,10,3.</ls> <ls n="TBR.">2,2,4,7.</ls>
+True	4	975640	saptadaSa	<ls n="TBR. 2,">7,10,2.</ls>	
+True	4	975642	saptadaSa	<ls>TBR. 1,2,2,1.</ls>	
+fixed	4	975643	saptadaSa	<ls n="TBR.">2,5,10,2. 7,5,14,1.</ls>	<ls n="TBR.">2,5,10,2.</ls> <ls n="TBR.">7,5,14,1.</ls>
+True	4	975672	saptadaSan	<ls>TBR. 1,3,6,3.</ls>	
+True	4	975798	saptan	<ls>TBR. 3,11,1,1.</ls>	
+True	4	975815	saptan	<ls>TBR. 3,12,2,9.</ls>	
+True	4	975903	saptapada	<ls>TBR. 2,1,5,11.</ls>	
+True	4	976240	saptaviMSa	<ls>TBR. 3,11,2,4.</ls>	
+True	4	976444	saptahotar	<ls>TBR. 3,12,5,2.</ls>	
+True	4	976687	sapraTas	<ls>TBR. 1,1,10,3</ls>	
+True	4	976973	sabva	<ls>TBR. 2,6,4,2</ls>	
+True	4	977039	saBA	<ls>TBR. 1,1,10,6.</ls>	
+True	4	977045	saBA	<ls>TBR. 1,1,10,3.</ls>	
+True	4	977234	saBApAla	<ls>TBR. 3,7,4,6.</ls>	
+True	4	977246	saBAvin	<ls>TBR. 3,4,1,16.</ls>	
+True	4	977254	saBAsad	<ls>TBR. 1,2,1,26.</ls>	
+fixed	4	977337	saBya	<ls>TBR. 1,2,1,26. 3,7,4,6.</ls>	<ls>TBR. 1,2,1,26.</ls> <ls n="TBR.">3,7,4,6.</ls>
+True	4	977968	samaYcana	<ls>TBR. 3,11,7,2.</ls>	
+fixed	4	978142	samad	<ls>TBR. 2,1,2,10. 3,3,3,2.</ls>	<ls>TBR. 2,1,2,10.</ls> <ls n="TBR.">3,3,3,2.</ls>
+True	4	980020	samazwi	<ls>TBR. 1,3,7,3.</ls>	
+None	4	980027	samazwi	<ls>TBR. Comm. 3,593,18. 20.</ls>	
+True	4	980825	samAna	<ls>TBR. 1,5,3,4.</ls>	
+True	4	980827	samAna	<ls>TBR. 1,8,10,2.</ls>	
+True	4	980855	samAna	<ls>TBR. 2,4,1,2.</ls>	
+True	4	980873	samAna	<ls>TBR. 1,3,2,3.</ls>	
+True	4	981846	samAvant	<ls>TBR. 1,5,2,4.</ls>	
+True	4	982393	samiti	<ls>TBR. 1,5,1,4</ls>	
+True	4	982441	samittva	<ls>TBR. 2,1,3,8.</ls>	
+True	4	982501	samidDi	<ls>TBR. 2,1,4,9.</ls>	
+True	4	982516	samidvant	<ls>TBR. 2,1,3,9.</ls>	
+fixed	4	982530	samiD	<ls>TBR. 2,1,3,8. 9.</ls>	<ls>TBR. 2,1,3,8.</ls> <ls n="TBR. 2,1,3,">9.</ls>
+True	4	982540	samiD	<ls>TBR. 3,11,4,1.</ls>	
+True	4	982639	samizwi	<ls>TBR. 3,3,9,6.</ls>	
+True	4	983460	samudanta	<ls>TBR. 2,1,7,1</ls>	
+True	4	984568	samUla	<ls>TBR. 1,6,8,7.</ls>	
+fixed	4	984727	samfdDi	<ls>TBR. 1,4,4,10. 3,7,11,4.</ls>	<ls>TBR. 1,4,4,10.</ls> <ls n="TBR.">3,7,11,4.</ls>
+True	4	984826	samokas	<ls>TBR. 2,4,2,5.</ls>	
+True	4	985032	saMpad	<ls>TBR. 3,11,7,2.</ls>	
+True	4	985212	saMpA	<ls>TBR. 3,10,1,2.</ls>	
+True	4	985439	saMpAdam	<ls>TBR. 3,8,6,5.</ls>	
+True	4	985753	saMprati	<ls>TBR. 2,1,2,12.</ls>	
+fixed	4	986368	saMpriya	<ls>TBR. 1,1,7,1. 8,4.</ls>	<ls>TBR. 1,1,7,1.</ls> <ls n="TBR. 1,1,">8,4.</ls>
+True	4	986369	saMpriya	<ls n="TBR. 1,">2,1,17.</ls>	
+None	4	986958	saMBaraRIya	<ls>TBR. 3,4,23.</ls>	
+True	4	987163	saMBAra	<ls>TBR. 1,3,1,5.</ls>	
+True	4	987166	saMBAra	<ls>TBR. 1,1,3,4.</ls>	
+fixed	4	987191	saMBAra	<ls>TBR. 2,2,2,6. 3,10,2.</ls>	<ls>TBR. 2,2,2,6.</ls> <ls n="TBR. 2,">3,10,2.</ls>
+True	4	987237	saMBArya	<ls>TBR. 1,8,8,1.</ls>	
+True	4	987532	saMBftANga	<ls>TBR. 3,7,6,9.</ls>	
+True	4	987553	saMBftya	<ls>TBR. 1,3,1,5.</ls>	
+None	4	988077	saMmArga	<ls>TBR. 3,497,14. 500,1.</ls>	
+True	4	988109	saMmArjana	<ls>TBR. 3,3,1,2.</ls>	
+True	4	988110	saMmArjana	<ls n="TBR. 3,3,">2,1.</ls>	
+True	4	988614	samyaYc	<ls>TBR. 1,7,3,8.</ls>	
+True	4	988632	samyaYc	<ls>TBR. 1,4,8,6.</ls>	
+True	4	988726	samrAjYI	<ls>TBR. 3,11,3,1.</ls>	
+fixed	4	988769	sayatva	<ls>TBR. 1,2,3,2. 3,2,5,7.</ls>	<ls>TBR. 1,2,3,2.</ls> <ls n="TBR.">3,2,5,7.</ls>
+True	4	988882	sayonitva	<ls>TBR. 3,2,2,1.</ls>	
+True	4	989072	sar	<ls>TBR. 1,4,3,3.</ls>	
+True	4	989183	sar	<ls>TBR. 2,1,9,3.</ls>	
+True	4	989199	sar	<ls>TBR. 1,4,6,1.</ls>	
+None	4	989348	sar	<ls>TBR. 3,593,4.</ls>	
+True	4	989391	sar	<ls>TBR. 1,6,4,2.</ls>	
+True	4	989420	sar	<ls>TBR. 3,10,4,3.</ls>	
+True	4	989577	sar	<ls>TBR. 3,2,8,2.</ls>	
+True	4	989753	saraGA	<ls>TBR. 3,10,10,1.</ls>	
+True	4	990726	sarit	<ls>TBR. 1,2,1,11.</ls>	
+True	4	990810	sarira	<ls>TBR. 1,2,1,3.</ls>	
+True	4	990828	sarisrara	<ls>TBR. 3,10,1,4.</ls>	
+True	4	990968	saretas	<ls>TBR. 1,1,3,8.</ls>	
+True	4	991268	sarj	<ls>TBR. 2,1,1,1.</ls>	
+True	4	991531	sarj	<ls>TBR. 3,6,6,2.</ls>	
+True	4	991548	sarj	<ls>TBR. 2,1,1,3.</ls>	
+True	4	991637	sarj	<ls>TBR. 1,3,1,6.</ls>	
+True	4	991735	sarj	<ls>TBR. 1,5,5,6.</ls>	
+True	4	991823	sarj	<ls>TBR. 1,4,3,3.</ls>	
+True	4	991836	sarj	<ls>TBR. 2,1,8,1.</ls>	
+True	4	991839	sarj	<ls>TBR. 2,1,7,1.</ls>	
+True	4	991942	sarj	<ls>TBR. 3,8,19,2.</ls>	
+True	4	992230	sarj	<ls>TBR. 1,2,1,17.</ls>	
+True	4	992251	sarj	<ls>TBR. 1,4,3,4.</ls>	
+True	4	992281	sarj	<ls>TBR. 1,2,1,17.</ls>	
+True	4	992513	sarp	<ls>TBR. 1,4,6,6.</ls>	
+True	4	992603	sarp	<ls>TBR. 1,7,7,5.</ls>	
+True	4	992627	sarp	<ls>TBR. 3,11,9,8.</ls>	
+True	4	992795	sarp	<ls>TBR. 1,8,1,1.</ls>	
+True	4	992836	sarpa	<ls>TBR. 3,1,1,6.</ls>	
+True	4	992843	sarpa	<ls>TBR. 3,12,8,2.</ls>	
+fixed	4	993059	sarparAjYI	<ls>TBR. 1,4,6,6. 2,2,6,1.</ls>	<ls>TBR. 1,4,6,6.</ls> <ls n="TBR.">2,2,6,1.</ls>
+True	4	993335	sarpizvant	<ls>TBR. 3,8,2,2.</ls>	
+True	4	993441	sarva	<ls>TBR. 3,1,1,1.</ls>	
+fixed	4	993795	sarvagaRa	<ls>TBR. 3,7,5,7. 2,6,3,5.</ls>	<ls>TBR. 3,7,5,7.</ls> <ls n="TBR.">2,6,3,5.</ls>
+True	4	994697	sarvadevatya	<ls>TBR. 1,1,7,11</ls>	
+True	4	994970	sarvapaSu	<ls>TBR. 1,2,1,19.</ls>	
+True	4	995046	sarvapfzWa	<ls>TBR. 1,4,7,7.</ls>	
+fixed	4	995788	sarvavidyA	<ls>TBR. 3,10,11,4. 12,5,2.</ls>	<ls>TBR. 3,10,11,4.</ls> <ls n="TBR. 3,">12,5,2.</ls>
+True	4	995858	sarvavedasa	<ls>TBR. 1,4,7,7.</ls>	
+True	4	995866	sarvavedasa	<ls>TBR. 3,11,8,1.</ls>	
+True	4	995929	sarvaSas	<ls>TBR. 2,1,10,2.</ls>	
+True	4	995962	sarvaSas	<ls>TBR. 3,12,9,1.</ls>	
+True	4	996625	sarvAtman	<ls>TBR. 3,7,5,7.</ls>	
+True	4	997147	sarvOzaDa	<ls>TBR. 3,10,1,4.</ls>	
+True	4	997347	salila	<ls>TBR. 1,1,3,5</ls>	
+True	4	997668	salomatva	<ls>TBR. 1,5,11,4.</ls>	
+True	4	997759	sava	<ls>TBR. 1,2,1,13.</ls>	
+None	4	997762	sava	<ls>TBR. 2</ls>	
+None	4	997762	sava	<ls n="TBR.">2,750. fgg.</ls>	
+True	4	997767	sava	<ls>TBR. 2,7,5,1.</ls>	
+True	4	997941	savanIya	<ls>TBR. 2,7,11,1.</ls>	
+True	4	998049	savarya	<ls>TBR. 3,9,21,1.</ls>	
+True	4	998076	savAtar	<ls>TBR. 2,6,2,3.</ls>	
+True	4	998084	savAtya	<ls>TBR. 1,7,3,5.</ls>	
+True	4	998409	savIra	<ls>TBR. 3,1,1,2.</ls>	
+True	4	998536	savya	<ls>TBR. 1,7,10,1.</ls>	
+True	4	998683	savyezWa	<ls>TBR. 1,7,9,1.</ls>	
+True	4	998759	saSarIra	<ls>TBR. 3,11,7,3.</ls>	
+fixed	4	998788	saSIrzan	<ls>TBR. 1,1,8,3. 2,3,3,1.</ls>	<ls>TBR. 1,1,8,3.</ls> <ls n="TBR.">2,3,3,1.</ls>
+True	4	999287	sah	<ls>TBR. 3,1,2,2.</ls>	
+True	4	999401	sah	<ls>TBR. 1,1,6,1.</ls>	
+fixed	4	999600	saha	<ls>TBR. 1,1,3,2. 2,1,6,2.</ls>	<ls>TBR. 1,1,3,2.</ls> <ls n="TBR.">2,1,6,2.</ls>
+True	4	1000747	sahas	<ls>TBR. 1,1,10,1.</ls>	
+True	4	1001575	sahasrayAjin	<ls>TBR. 1,4,10,4.</ls>	
+True	4	1001789	sahasrasaMmita	<ls>TBR. 3,12,5,8.</ls>	
+fixed	4	1002556	sahfdaya	<ls>TBR. 1,1,3,12. 2,1,7.</ls>	<ls>TBR. 1,1,3,12.</ls> <ls n="TBR. 1,">2,1,7.</ls>
+True	4	1002847	sA	<ls>TBR. 2,3,1,3.</ls>	
+True	4	1002866	sA	<ls>TBR. 3,3,11,2.</ls>	
+True	4	1002867	sA	<ls n="TBR. 3,">2,5,9.</ls>	
+True	4	1002975	sA	<ls>TBR. 1,4,4,7.</ls>	
+True	4	1002976	sA	<ls n="TBR. 1,4,">10,2.</ls>	
+True	4	1003007	sA	<ls>TBR. 1,5,2,1.</ls>	
+True	4	1003041	sA	<ls>TBR. 3,9,2,2.</ls>	
+True	4	1003046	sA	<ls>TBR. 1,8,4,2.</ls>	
+True	4	1003074	sA	<ls>TBR. 1,8,4,1.</ls>	
+None	4	1003621	sAkameDa	<ls>TBR. 1,195.</ls>	
+fixed	4	1003622	sAkameDa	<ls>TBR. 1,4,9,5. 10,7. 6,8,1.</ls>	<ls>TBR. 1,4,9,5.</ls> <ls n="TBR. 1,4,">10,7.</ls> <ls n="TBR. 1,">6,8,1.</ls>
+fixed	4	1003806	sAkzAt	<ls>TBR. 1,2,1,6. 3,6,1. 6,6,2. 8,2,1.</ls>	<ls>TBR. 1,2,1,6.</ls> <ls n="TBR. 1,">3,6,1.</ls> <ls n="TBR. 1,">6,6,2.</ls> <ls n="TBR. 1,">8,2,1.</ls>
+fixed	4	1003807	sAkzAt	<ls n="TBR. 1,">3,7,6. 4,10,7.</ls>	<ls n="TBR. 1,">3,7,6.</ls> <ls n="TBR. 1,">4,10,7.</ls>
+True	4	1004637	sAMgamizRu	<ls>TBR. 3,10,1,4.</ls>	
+True	4	1004662	sAMgrahaRa	<ls>TBR. 3,8,1,1.</ls>	
+True	4	1005153	sAtmatva	<ls>TBR. 1,1,6,4.</ls>	
+fixed	4	1005160	sAtman	<ls>TBR. 1,2,1,7. 3,8,20,5.</ls>	<ls>TBR. 1,2,1,7.</ls> <ls n="TBR.">3,8,20,5.</ls>
+None	4	1006004	sADana	<ls>TBR. 3,577,17.</ls>	
+True	4	1006714	sADuyA	<ls>TBR. 3,7,7,10</ls>	
+True	4	1006909	sADya	<ls>TBR. 1,1,9,1.</ls>	
+True	4	1007007	sADyA	<ls>TBR. 3,7,7,10.</ls>	
+True	4	1007383	sAMtapana	<ls>TBR. 1,6,6,3.</ls>	
+True	4	1007773	sAMnAyya	<ls>TBR. 3,2,3,11.</ls>	
+True	4	1007774	sAMnAyya	<ls>TBR. 3,2,3,1.</ls>	
+None	4	1008048	sAptadaSya	<ls>TBR. Comm. 1,174,14.</ls>	
+None	4	1008453	sAman	<ls>TBR. Comm. 2,411</ls>	
+fixed	4	1008466	sAman	<ls>TBR. 3,2,5,4. 3,6,1.</ls>	<ls>TBR. 3,2,5,4.</ls> <ls n="TBR. 3,">3,6,1.</ls>
+True	4	1008842	sAmaveda	<ls>TBR. 3,12,9,1.</ls>	
+True	4	1009244	sAmiDena	<ls>TBR. 1,5,9,4.</ls>	
+True	4	1009856	sAmyakza	<ls>TBR. 1,2,6,6.</ls>	
+True	4	1009948	sAya	<ls>TBR. 1,5,3,3.</ls>	
+True	4	1009987	sAyaMyAvan	<ls>TBR. 2,1,5,10.</ls>	
+True	4	1010230	sAyAhna	<ls>TBR. 1,5,3,3.</ls>	
+True	4	1010246	sAyujya	<ls>TBR. 1,4,10,4.</ls>	
+True	4	1010247	sAyujya	<ls n="TBR.">3,8,18,1.</ls>	
+True	4	1010248	sAyujya	<ls n="TBR. 3,">10,9,11.</ls>	
+True	4	1010810	sAraTi	<ls>TBR. 1,7,9,1.</ls>	
+True	4	1011194	sArasArin	<ls>TBR. 3,8,7,1.</ls>	
+fixed	4	1012237	sArzwitA	<ls>TBR. 3,9,20,2. 12,5,12. 9,8.</ls>	<ls>TBR. 3,9,20,2.</ls> <ls n="TBR. 3,">12,5,12.</ls> <ls n="TBR. 3,12,">9,8.</ls>
+None	4	1012656	sAvitra	<ls>TBR. 3,10</ls>	
+fixed	4	1012656	sAvitra	<ls n="TBR.">3,10,9,3. 6. 10. 11,5</ls>	<ls n="TBR.">3,10,9,3.</ls> <ls n="TBR. 3,10,9,">6.</ls> <ls n="TBR. 3,10,9,">10.</ls> <ls n="TBR. 3,10,">11,5</ls>
+True	4	1012713	sAvitra	<ls>TBR. 2,3,10,1.</ls>	
+True	4	1012734	sAvitra	<ls>TBR. 1,3,5,1.</ls>	
+True	4	1013309	sAhasra	<ls>TBR. 2,3,3,1.</ls>	
+True	4	1014476	sikatA	<ls>TBR. 1,1,3,1.</ls>	
+True	4	1014741	sic	<ls>TBR. 1,4,3,6.</ls>	
+True	4	1014783	sic	<ls>TBR. 2,7,6,2.</ls>	
+True	4	1014784	sic	<ls n="TBR.">3,10,9,13.</ls>	
+True	4	1015036	sic	<ls>TBR. 2,1,11,1.</ls>	
+True	4	1015086	sic	<ls>TBR. 2,1,3,2.</ls>	
+None	4	1015094	sic	<ls>TBR. Comm. 3,557,6</ls>	
+True	4	1017823	siDmala	<ls>TBR. 3,4,1,14.</ls>	
+True	4	1017904	sinIvAlI	<ls>TBR. 1,7,2,1.</ls>	
+True	4	1018966	sItA	<ls>TBR. 2,3,10,1.</ls>	
+fixed	4	1019130	sIbalA	<ls>TBR. 2,5,6,4. 5.</ls>	<ls>TBR. 2,5,6,4.</ls> <ls n="TBR. 2,5,6,">5.</ls>
+True	4	1019231	sImanta	<ls>TBR. 2,7,17,3.</ls>	
+True	4	1019460	sIra	<ls>TBR. 1,7,1,2.</ls>	
+True	4	1019461	sIra	<ls n="TBR.">2,5,8,12.</ls>	
+True	4	1019576	sIv	<ls>TBR. 3,10,11,7.</ls>	
+True	4	1019669	sIsa	<ls>TBR. 3,12,6,5.</ls>	
+True	4	1019830	su	<ls>TBR. 1,4,6,1.</ls>	
+True	4	1019836	su	<ls>TBR. 1,4,6,1.</ls>	
+True	4	1019863	su	<ls>TBR. 1,8,1,1.</ls>	
+True	4	1019864	su	<ls>TBR. 2,7,5,1.</ls>	
+True	4	1019912	su	<ls>TBR. 3,2,2,4.</ls>	
+True	4	1019923	su	<ls>TBR. 3,1,1,9.</ls>	
+True	4	1019934	su	<ls>TBR. 3,8,4,1.</ls>	
+True	4	1020092	su	<ls>TBR. 2,7,17,1.</ls>	
+fixed	4	1020785	sukft	<ls>TBR. 3,1,1,6. 2,4.</ls>	<ls>TBR. 3,1,1,6.</ls> <ls n="TBR. 3,1,">2,4.</ls>
+fixed	4	1020808	sukfta	<ls>TBR. 3,3,6,11. 10,2.</ls>	<ls>TBR. 3,3,6,11.</ls> <ls n="TBR. 3,3,">10,2.</ls>
+True	4	1020818	sukfta	<ls>TBR. 1,2,6,7.</ls>	
+True	4	1020834	sukfta	<ls>TBR. 3,7,5,11.</ls>	
+True	4	1020989	sukftya	<ls>TBR. 3,1,1,6.</ls>	
+True	4	1021193	sukziti	<ls>TBR. 2,5,5,1.</ls>	
+True	4	1022566	suga	<ls>TBR. 3,1,2,10. fg.</ls>	
+True	4	1023032	sugArhapatya	<ls>TBR. 1,2,1,20.</ls>	
+True	4	1023051	sugu	<ls>TBR. 2,4,2,4.</ls>	
+True	4	1023344	sucarita	<ls>TBR. 3,3,7,10.</ls>	
+None	4	1023566	sujaGana	<ls>TBR. Comm. 3,813,16.</ls>	
+True	4	1024262	sutAsutin	<ls>TBR. 2,6,15,1.</ls>	
+True	4	1024784	sudarSana	<ls>TBR. 3,10,1,1.</ls>	
+True	4	1025515	sudeva	<ls>TBR. 3,6,13,1</ls>	
+True	4	1025637	sudraviRas	<ls>TBR. 3,5,9,1.</ls>	
+True	4	1026197	suDita	<ls>TBR. 3,12,3,4.</ls>	
+True	4	1026800	sunIti	<ls>TBR. 1,4,8,6</ls>	
+True	4	1027248	supatnI	<ls>TBR. 2,4,2,7.</ls>	
+True	4	1027908	suputra	<ls>TBR. 3,7,5,10.</ls>	
+True	4	1028079	supeSas	<ls>TBR. 3,1,2,4.</ls>	
+True	4	1028097	supoza	<ls>TBR. 3,6,2,2.</ls>	
+True	4	1028525	supratUrti	<ls>TBR. 2,8,4,6.</ls>	
+True	4	1029230	subrahmaRya	<ls>TBR. 3,8,1,2.</ls>	
+True	4	1029325	suBaga	<ls>TBR. 3,1,1,9.</ls>	
+fixed	4	1029836	suBUta	<ls>TBR. 1,2,6,7. 3,7,6,20. 11,1,1.</ls>	<ls>TBR. 1,2,6,7.</ls> <ls n="TBR.">3,7,6,20.</ls> <ls n="TBR. 3,">11,1,1.</ls>
+True	4	1030499	sumanasy	<ls>TBR. 3,7,5,3.</ls>	
+True	4	1031343	suyaj	<ls>TBR. 1,2,1,11.</ls>	
+True	4	1031409	suyama	<ls>TBR. 3,1,2,10.</ls>	
+True	4	1031996	suraTa	<ls>TBR. 3,7,4,3.</ls>	
+True	4	1032300	suraBi	<ls>TBR. 3,9,7,5.</ls>	
+True	4	1032486	suraBimant	<ls>TBR. 3,9,7,5.</ls>	
+True	4	1033263	surAbali	<ls>TBR. 1,7,6,5.</ls>	
+True	4	1034018	sul	<ls>TBR. 3,7,9,5</ls>	
+True	4	1034477	suvarcas	<ls>TBR. 3,1,1,12.</ls>	
+True	4	1034525	suvarRa	<ls>TBR. 3,7,6,1.</ls>	
+fixed	4	1034533	suvarRa	<ls>TBR. 1,4,7,4. 8,9,1. 2,2,4,5. 3,3,4,5. 8,2,4.</ls>	<ls>TBR. 1,4,7,4.</ls> <ls n="TBR. 1,">8,9,1.</ls> <ls n="TBR.">2,2,4,5.</ls> <ls n="TBR.">3,3,4,5.</ls> <ls n="TBR. 3,">8,2,4.</ls>
+fixed	4	1034539	suvarRa	<ls>TBR. 1,5,10,1. 7.</ls>	<ls>TBR. 1,5,10,1.</ls> <ls n="TBR. 1,5,10,">7.</ls>
+True	4	1034550	suvarRa	<ls>TBR. 3,12,6,6.</ls>	
+True	4	1035358	suvAsas	<ls>TBR. 3,10,8,4.</ls>	
+fixed	4	1035493	suvita	<ls>TBR. 3,1,1,1. 2. 2,3.</ls>	<ls>TBR. 3,1,1,1.</ls> <ls n="TBR. 3,1,1,">2.</ls> <ls n="TBR. 3,1,">2,3.</ls>
+True	4	1035508	suvitta	<ls>TBR. 1,2,1,3.</ls>	
+True	4	1035884	suvIrya	<ls>TBR. 3,1,1,8.</ls>	
+True	4	1035940	suvft	<ls>TBR. 3,1,1,9.</ls>	
+True	4	1036018	suvfzaBa	<ls>TBR. 2,4,7,2.</ls>	
+True	4	1036023	suvfzwa	<ls>TBR. 3,2,8,2.</ls>	
+True	4	1036024	suvfzwa	<ls n="TBR. 3,">11,10,3.</ls>	
+True	4	1036255	suSami	<ls>TBR. 3,6,6,4.</ls>	
+True	4	1036577	suSfNga	<ls>TBR. 2,4,7,2.</ls>	
+True	4	1036588	suSeru	<ls>TBR. 3,10,1,4.</ls>	
+fixed	4	1036680	suSravas	<ls>TBR. 1,2,1,6. 1,3,11</ls>	<ls>TBR. 1,2,1,6.</ls> <ls n="TBR. 1,">1,3,11</ls>
+True	4	1036741	suSrut	<ls>TBR. 3,7,13,2.</ls>	
+True	4	1036928	suzamiD	<ls>TBR. 3,6,2,1.</ls>	
+True	4	1037305	suzwarIman	<ls>TBR. 3,6,2,1.</ls>	
+True	4	1038934	sUktavAka	<ls>TBR. 3,3,8,11.</ls>	
+True	4	1038979	sUktocya	<ls>TBR. 3,5,10,1.</ls>	
+True	4	1039479	sUci	<ls>TBR. 3,9,6,4.</ls>	
+fixed	4	1039832	sUta	<ls>TBR. 1,7,3,4. 2,7,18,4.</ls>	<ls>TBR. 1,7,3,4.</ls> <ls n="TBR.">2,7,18,4.</ls>
+True	4	1039963	sUtavaSA	<ls>TBR. 2,7,4,1.</ls>	
+True	4	1039993	sUti	<ls>TBR. 3,3,6,3.</ls>	
+fixed	4	1040642	sUda	<ls>TBR. 1,1,3,5. 2,1,3.</ls>	<ls>TBR. 1,1,3,5.</ls> <ls n="TBR. 1,">2,1,3.</ls>
+True	4	1040931	sUnfta	<ls>TBR. 3,7,6,11.</ls>	
+None	4	1040943	sUnfta	<ls>TBR. v. l.</ls>	
+True	4	1041432	sUrkzya	<ls>TBR. 1,2,2,1.</ls>	
+True	4	1041522	sUrya	<ls>TBR. 2,6,1,2.</ls>	
+True	4	1041743	sUryatvac	<ls>TBR. 2,4,2,7.</ls>	
+True	4	1042088	sUryavant	<ls>TBR. 3,7,6,14.</ls>	
+True	4	1042090	sUryavant	<ls>TBR. 2,7,15,6.</ls>	
+True	4	1043360	setu	<ls>TBR. 2,4,2,6.</ls>	
+True	4	1043652	senA	<ls>TBR. 3,7,5,1.</ls>	
+True	4	1043766	senAnI	<ls>TBR. 1,7,3,4.</ls>	
+True	4	1043854	senAmuKa	<ls>TBR. 3,8,23,1.</ls>	
+True	4	1044920	sEDraka	<ls>TBR. 3,8,4,1.</ls>	
+None	4	1045647	sopapattika	<ls>TBR. Comm. 1,126,11.</ls>	
+True	4	1045856	soma	<ls>TBR. 1,4,10,7.</ls>	
+True	4	1046263	somapa	<ls>TBR. 2,2,11,3.</ls>	
+fixed	4	1046400	somapITa	<ls>TBR. 1,2,1,6. 3,10,2.</ls>	<ls>TBR. 1,2,1,6.</ls> <ls n="TBR. 1,">3,10,2.</ls>
+True	4	1046415	somapITin	<ls>TBR. 3,7,5,10.</ls>	
+None	4	1046497	somapravAka	<ls>TBR. Comm. 3,565,7.</ls>	
+True	4	1046584	somayAjin	<ls>TBR. 2,2,11,3.</ls>	
+True	4	1046641	somarAjan	<ls>TBR. 1,7,4,2.</ls>	
+None	4	1046949	somasava	<ls>TBR. Comm. 2,759,6. fgg.</ls>	
+True	4	1046988	somasut	<ls>TBR. 2,7,16,4.</ls>	
+True	4	1047932	sOtrAmaRa	<ls>TBR. 1,8,5,4.</ls>	
+True	4	1048282	sOparRa	<ls>TBR. 2,5,8,4.</ls>	
+fixed	4	1048978	sOmya	<ls>TBR. 1,8,1,2. 2,2,2,4. 3,11,9,1.</ls>	<ls>TBR. 1,8,1,2.</ls> <ls n="TBR.">2,2,2,4.</ls> <ls n="TBR.">3,11,9,1.</ls>
+True	4	1048981	sOmya	<ls>TBR. 2,7,4,1.</ls>	
+None	4	1049801	sOvarRa	<ls>TBR. Comm. 3,567,14.</ls>	
+True	4	1050401	skand	<ls>TBR. 3,2,9,5</ls>	
+True	4	1050403	skand	<ls>TBR. 1,4,3,3.</ls>	
+True	4	1050427	skand	<ls>TBR. 3,7,10,3.</ls>	
+True	4	1050453	skand	<ls>TBR. 3,3,6,4.</ls>	
+True	4	1050524	skand	<ls>TBR. 3,2,5,11.</ls>	
+None	4	1050648	skandana	<ls>TBR. Comm. 3,533,1.</ls>	
+True	4	1052160	staB	<ls>TBR. 3,7,10,1.</ls>	
+True	4	1052184	staB	<ls>TBR. 3,7,10,1.</ls>	
+fixed	4	1052381	stamba	<ls>TBR. 3,2,2,4. 3,3,4.</ls>	<ls>TBR. 3,2,2,4.</ls> <ls n="TBR. 3,">3,3,4.</ls>
+True	4	1052386	stamba	<ls>TBR. 2,7,17,3.</ls>	
+None	4	1052479	stambayajus	<ls>TBR. Comm. 2,730,20.</ls>	
+True	4	1052498	stambaSas	<ls>TBR. 3,3,2,4.</ls>	
+True	4	1052744	star	<ls>TBR. 1,7,7,5.</ls>	
+True	4	1052770	star	<ls>TBR. 3,7,5,13.</ls>	
+True	4	1052842	star	<ls>TBR. 3,7,4,18.</ls>	
+True	4	1052857	star	<ls>TBR. 2,1,3,5.</ls>	
+True	4	1053604	stu	<ls>TBR. 3,2,3,7.</ls>	
+True	4	1053651	stu	<ls>TBR. 3,10,1,2.</ls>	
+True	4	1053678	stu	<ls>TBR. 1,5,10,2.</ls>	
+True	4	1053686	stu	<ls>TBR. 3,10,1,2.</ls>	
+True	4	1053713	stu	<ls>TBR. 3,10,1,2.</ls>	
+True	4	1053723	stu	<ls>TBR. 1,2,2,2.</ls>	
+True	4	1054209	stoka	<ls>TBR. 2,1,1,1.</ls>	
+None	4	1054294	stokIya	<ls>TBR. 3,583.</ls>	
+fixed	4	1054294	stokIya	<ls>TBR. 3,8,6,1. 2.</ls>	<ls>TBR. 3,8,6,1.</ls> <ls n="TBR. 3,8,6,">2.</ls>
+None	4	1054337	stotra	<ls>TBR. Comm. 1,99.</ls>	
+True	4	1056029	sTaviman	<ls>TBR. 3,3,11,2.</ls>	
+True	4	1056046	sTavira	<ls>TBR. 2,4,12,7.</ls>	
+True	4	1056058	sTavira	<ls>TBR. 3,10,11,3.</ls>	
+True	4	1056398	sTA	<ls>TBR. 1,3,2,2.</ls>	
+True	4	1056583	sTA	<ls>TBR. 3,2,9,10.</ls>	
+True	4	1056598	sTA	<ls>TBR. 1,1,3,6.</ls>	
+True	4	1057491	sTA	<ls>TBR. 1,7,7,1.</ls>	
+True	4	1057493	sTA	<ls>TBR. 1,8,3,1.</ls>	
+True	4	1057583	sTA	<ls>TBR. 1,1,3,10.</ls>	
+True	4	1057644	sTA	<ls>TBR. 1,2,1,5.</ls>	
+True	4	1057701	sTA	<ls>TBR. 2,2,8,7.</ls>	
+True	4	1057753	sTA	<ls>TBR. 2,2,8,7.</ls>	
+True	4	1057846	sTA	<ls>TBR. 1,4,9,1.</ls>	
+True	4	1058558	sTA	<ls>TBR. 1,1,4,7.</ls>	
+True	4	1058561	sTA	<ls>TBR. 1,2,2,1.</ls>	
+True	4	1058576	sTA	<ls>TBR. 2,1,2,8.</ls>	
+True	4	1058641	sTA	<ls>TBR. 1,8,10,1.</ls>	
+True	4	1058683	sTA	<ls>TBR. 1,6,8,1.</ls>	
+True	4	1058687	sTA	<ls>TBR. 2,1,3,9.</ls>	
+True	4	1058688	sTA	<ls n="TBR.">6,6,2,3.</ls>	
+True	4	1058728	sTA	<ls>TBR. 2,1,5,10.</ls>	
+True	4	1058757	sTA	<ls>TBR. 2,8,1,4.</ls>	
+True	4	1058822	sTA	<ls>TBR. 1,5,9,3.</ls>	
+True	4	1058976	sTA	<ls>TBR. 3,9,1,2.</ls>	
+True	4	1059044	sTAgara	<ls>TBR. 2,3,10,2.</ls>	
+True	4	1059080	sTARu	<ls>TBR. 2,1,4,3.</ls>	
+True	4	1059982	sTAla	<ls>TBR. 2,1,3,1.</ls>	
+fixed	4	1059990	sTAla	<ls>TBR. 1,4,1,4. 5.</ls>	<ls>TBR. 1,4,1,4.</ls> <ls n="TBR. 1,4,1,">5.</ls>
+True	4	1061399	sTUri	<ls>TBR. 3,8,21,3.</ls>	
+True	4	1061402	sTUri	<ls>TBR. 1,8,2,4.</ls>	
+True	4	1062399	snA	<ls>TBR. 3,7,5,3.</ls>	
+True	4	1062710	snAyu	<ls>TBR. 1,5,9,7</ls>	
+True	4	1062769	snAvan	<ls>TBR. 3,2,2,7.</ls>	
+True	4	1063057	snuzA	<ls>TBR. 2,4,6,12.</ls>	
+fixed	4	1063530	spar	<ls>TBR. 1,1,10,4. 5.</ls>	<ls>TBR. 1,1,10,4.</ls> <ls n="TBR. 1,1,10,">5.</ls>
+fixed	4	1063531	spar	<ls n="TBR. 1,">3,3,4. 2,3,7,1.</ls>	<ls n="TBR. 1,">3,3,4.</ls> <ls n="TBR.">2,3,7,1.</ls>
+True	4	1063568	spara	<ls>TBR. 1,2,4,3.</ls>	
+True	4	1063577	sparaRa	<ls>TBR. 2,3,7,1.</ls>	
+True	4	1063731	sparS	<ls>TBR. 1,5,2,2.</ls>	
+True	4	1064057	sparS	<ls>TBR. 3,3,7,9.</ls>	
+True	4	1065831	sPur	<ls>TBR. 3,8,21,1.</ls>	
+True	4	1067237	smi	<ls>TBR. 3,6,2,2.</ls>	
+True	4	1067593	sya	<ls>TBR. 2,1,2,1</ls>	
+True	4	1067733	syad	<ls>TBR. 3,7,2,1.</ls>	
+True	4	1068157	syona	<ls>TBR. 1,2,1,24.</ls>	
+True	4	1068165	syona	<ls>TBR. 1,2,1,1.</ls>	
+True	4	1068202	sraMs	<ls>TBR. 3,2,3,1.</ls>	
+True	4	1068260	sraMs	<ls>TBR. 1,2,3,1.</ls>	
+True	4	1068271	sraMs	<ls>TBR. 2,3,6,1.</ls>	
+True	4	1068279	sraMs	<ls>TBR. 3,8,20,5.</ls>	
+True	4	1068299	sraMs	<ls>TBR. 3,3,6,5</ls>	
+True	4	1068966	sru	<ls>TBR. 3,7,3,6.</ls>	
+True	4	1069028	sru	<ls>TBR. 1,3,8,3.</ls>	
+True	4	1069093	sru	<ls>TBR. 3,7,4,1.</ls>	
+True	4	1069141	sru	<ls>TBR. 3,3,9,7.</ls>	
+True	4	1069286	sruti	<ls>TBR. 3,12,5,2.</ls>	
+True	4	1069305	sruva	<ls>TBR. 1,5,9,5.</ls>	
+True	4	1069374	srekaparRa	<ls>TBR. 3,6,6,3.</ls>	
+True	4	1069796	sva	<ls>TBR. 1,3,7,4.</ls>	
+None	4	1070067	svagA	<ls>TBR. 2,389,10</ls>	
+True	4	1070070	svagA	<ls>TBR. 3,3,8,11.</ls>	
+True	4	1070086	svagAkAra	<ls>TBR. 2,1,5,2.</ls>	
+True	4	1070092	svagAkfti	<ls>TBR. 2,1,4,8.</ls>	
+True	4	1070688	svad	<ls>TBR. 1,3,5,1.</ls>	
+True	4	1070695	svad	<ls>TBR. 2,1,1,3.</ls>	
+True	4	1070718	svad	<ls>TBR. 1,6,1,10.</ls>	
+True	4	1070719	svad	<ls n="TBR.">2,1,1,2.</ls>	
+True	4	1070722	svad	<ls>TBR. 1,1,7,1.</ls>	
+True	4	1070899	svaDA	<ls>TBR. 3,1,1,6.</ls>	
+None	4	1070909	svaDA	<ls>TBR. Comm. 2,665,19.</ls>	
+True	4	1070924	svaDA	<ls>TBR. 1,4,9,1.</ls>	
+fixed	4	1070938	svaDA	<ls>TBR. 1,6,9,5. 3,10,2.</ls>	<ls>TBR. 1,6,9,5.</ls> <ls n="TBR. 1,">3,10,2.</ls>
+True	4	1071070	svaDAvin	<ls>TBR. 2,6,3,2.</ls>	
+True	4	1071086	svaDita	<ls>TBR. 3,7,13,1.</ls>	
+True	4	1071297	svana	<ls>TBR. 3,4,1,12.</ls>	
+True	4	1072209	svaBigUrta	<ls>TBR. 3,6,2,2.</ls>	
+True	4	1072440	svayaMkfta	<ls>TBR. 1,7,3,8.</ls>	
+True	4	1072541	svayaMdina	<ls>TBR. 1,7,3,8.</ls>	
+True	4	1073531	svarAj	<ls>TBR. 2,7,7,2.</ls>	
+True	4	1073551	svarAjan	<ls>TBR. 3,11,3,1.</ls>	
+True	4	1073683	svaru	<ls>TBR. 2,4,7,10.</ls>	
+True	4	1073864	svarocis	<ls>TBR. 2,7,8,1</ls>	
+True	4	1073905	svarga	<ls>TBR. 1,2,1,21.</ls>	
+True	4	1073911	svarga	<ls>TBR. 1,2,2,1.</ls>	
+fixed	4	1073912	svarga	<ls>TBR. 3,12,2,9. 4,7.</ls>	<ls>TBR. 3,12,2,9.</ls> <ls n="TBR. 3,12,">4,7.</ls>
+True	4	1075671	svasti	<ls>TBR. 1,2,2,5.</ls>	
+True	4	1075997	svastyayana	<ls>TBR. 1,4,8,4.</ls>	
+fixed	4	1077443	svArAjya	<ls>TBR. 1,3,2,2. 2,7,6,1. fgg. 11,2.</ls>	<ls>TBR. 1,3,2,2.</ls> <ls n="TBR.">2,7,6,1. fgg.</ls> <ls n="TBR. 2,7,">11,2.</ls>
+True	4	1077749	svAhAkAra	<ls>TBR. 2,1,2,3.</ls>	
+True	4	1078006	svizwa	<ls>TBR. 1,2,5,3.</ls>	
+True	4	1078601	ha	<ls>TBR. 2,3,10,2.</ls>	
+True	4	1078709	haMsa	<ls>TBR. 3,10,9,11.</ls>	
+fixed	4	1080219	han	<ls>TBR. 1,2,1,1. 5,9,5.</ls>	<ls>TBR. 1,2,1,1.</ls> <ls n="TBR. 1,">5,9,5.</ls>
+True	4	1080373	han	<ls>TBR. 3,2,5,6.</ls>	
+True	4	1080567	han	<ls>TBR. 3,2,5,9.</ls>	
+True	4	1080581	han	<ls>TBR. 1,3,6,2.</ls>	
+fixed	4	1080622	han	<ls>TBR. 1,2,1,1. 3,2,9,9.</ls>	<ls>TBR. 1,2,1,1.</ls> <ls n="TBR.">3,2,9,9.</ls>
+None	4	1080623	han	<ls n="TBR.">1,66,19.</ls>	
+True	4	1080638	han	<ls>TBR. 2,7,6,2</ls>	
+True	4	1080752	han	<ls>TBR. 1,1,3,6.</ls>	
+True	4	1080764	han	<ls>TBR. 3,7,12,3</ls>	
+True	4	1081167	han	<ls>TBR. 3,8,4,1.</ls>	
+True	4	1081346	han	<ls>TBR. 2,7,18,1.</ls>	
+True	4	1081347	han	<ls n="TBR.">1,5,10,7.</ls>	
+fixed	4	1081389	han	<ls>TBR. 1,1,3,7. 2,1,3.</ls>	<ls>TBR. 1,1,3,7.</ls> <ls n="TBR. 1,">2,1,3.</ls>
+True	4	1082422	har	<ls>TBR. 1,1,5,7.</ls>	
+fixed	4	1082433	har	<ls>TBR. 1,4,9,4. 2,1,6.</ls>	<ls>TBR. 1,4,9,4.</ls> <ls n="TBR. 1,">2,1,6.</ls>
+True	4	1082447	har	<ls>TBR. 2,1,7,1.</ls>	
+True	4	1082758	har	<ls>TBR. 1,4,7,5.</ls>	
+True	4	1082911	har	<ls>TBR. 1,3,5,2.</ls>	
+True	4	1082917	har	<ls>TBR. 2,7,15,6.</ls>	
+True	4	1082984	har	<ls>TBR. 2,3,9,6.</ls>	
+True	4	1083014	har	<ls>TBR. 1,3,2,1</ls>	
+True	4	1083097	har	<ls>TBR. 2,3,10,3.</ls>	
+None	4	1083131	har	<ls>TBR. 1,66,12.</ls>	
+True	4	1083232	har	<ls>TBR. 3,9,4,8.</ls>	
+True	4	1083312	har	<ls>TBR. 2,2,4,2.</ls>	
+True	4	1083403	har	<ls>TBR. 1,7,10,3.</ls>	
+True	4	1083446	har	<ls>TBR. 1,7,3,1.</ls>	
+fixed	4	1083545	har	<ls>TBR. 1,4,4,2. 1,5,4. 2,1,10,1.</ls>	<ls>TBR. 1,4,4,2.</ls> <ls n="TBR. 1,">1,5,4.</ls> <ls n="TBR.">2,1,10,1.</ls>
+fixed	4	1083752	har	<ls>TBR. 1,4,9,2. 3,6,7. 8,4. 7,2,6.</ls>	<ls>TBR. 1,4,9,2.</ls> <ls n="TBR. 1,">3,6,7.</ls> <ls n="TBR. 1,3,">8,4.</ls> <ls n="TBR. 1,">7,2,6.</ls>
+True	4	1083753	har	<ls n="TBR.">2,3,9,6.</ls>	
+True	4	1083830	har	<ls>TBR. 2,3,2,1</ls>	
+fixed	4	1083931	har	<ls>TBR. 2,1,5,11. 3,2,4,2.</ls>	<ls>TBR. 2,1,5,11.</ls> <ls n="TBR.">3,2,4,2.</ls>
+True	4	1084023	har	<ls>TBR. 2,1,4,9.</ls>	
+True	4	1084071	har	<ls>TBR. 3,12,9,3.</ls>	
+True	4	1084502	haraRaBAga	<ls>TBR. 1,3,10,7.</ls>	
+True	4	1084635	haras	<ls>TBR. 2,2,10,1.</ls>	
+fixed	4	1084643	haras	<ls>TBR. 3,8,7,3. 1,5,10,3.</ls>	<ls>TBR. 3,8,7,3.</ls> <ls n="TBR.">1,5,10,3.</ls>
+True	4	1084686	harasvin	<ls>TBR. 3,8,7,3.</ls>	
+fixed	4	1085344	harita	<ls>TBR. 1,8,9,1. 2,2,9,8. 3,9,6,5.</ls>	<ls>TBR. 1,8,9,1.</ls> <ls n="TBR.">2,2,9,8.</ls> <ls n="TBR.">3,9,6,5.</ls>
+True	4	1085346	harita	<ls>TBR. 2,3,8,1.</ls>	
+True	4	1086818	harmya	<ls>TBR. 3,7,6,3.</ls>	
+True	4	1086894	hary	<ls>TBR. 2,8,2,1.</ls>	
+None	4	1087988	havanaSrut	<ls>TBR. 2,419,15.</ls>	
+True	4	1088054	haviradya	<ls>TBR. 2,8,2,2.</ls>	
+True	4	1088244	havizkaraRa	<ls>TBR. 3,5,8,3.</ls>	
+True	4	1088289	havizpaNkti	<ls>TBR. 1,5,1,11</ls>	
+True	4	1088429	havis	<ls>TBR. 2,4,7,3.</ls>	
+True	4	1088447	havis	<ls>TBR. 1,5,11,3.</ls>	
+True	4	1088559	havyadAti	<ls>TBR. 2,8,2,2.</ls>	
+True	4	1088609	havyavAha	<ls>TBR. 3,1,2,11.</ls>	
+True	4	1088610	havyavAha	<ls n="TBR.">1,2,1,8.</ls>	
+None	4	1088622	havyavAhana	<ls>TBR. Comm. 1,138,6.</ls>	
+True	4	1088639	havyaSoDana	<ls>TBR. 3,7,4,11.</ls>	
+True	4	1088645	havyasUkti	<ls>TBR. 3,6,2,2.</ls>	
+fixed	4	1089131	hasta	<ls>TBR. 1,5,2,2. 3,1,1,9.</ls>	<ls>TBR. 1,5,2,2.</ls> <ls n="TBR.">3,1,1,9.</ls>
+fixed	4	1090088	hastya	<ls>TBR. 3,3,8,1. 5.</ls>	<ls>TBR. 3,3,8,1.</ls> <ls n="TBR. 3,3,8,">5.</ls>
+True	4	1090184	hA	<ls>TBR. 2,1,4,4.</ls>	
+True	4	1090216	hA	<ls>TBR. 2,5,4,5.</ls>	
+True	4	1090234	hA	<ls>TBR. 1,7,7,2.</ls>	
+True	4	1090300	hA	<ls>TBR. 1,4,6,5</ls>	
+True	4	1090695	hA	<ls>TBR. 1,2,1,27.</ls>	
+True	4	1090762	hA	<ls>TBR. 1,4,6,7.</ls>	
+True	4	1090764	hA	<ls>TBR. 3,10,9,15.</ls>	
+True	4	1092564	hi	<ls>TBR. 3,10,9,3.</ls>	
+True	4	1092835	hiMs	<ls>TBR. 2,3,2,5.</ls>	
+True	4	1093431	hita	<ls>TBR. 2,1,9,2.</ls>	
+None	4	1093712	hitopadeSa	<ls>TBR. Comm. 3,761,2.</ls>	
+True	4	1094524	hiraRya	<ls>TBR. 1,1,3,8.</ls>	
+True	4	1094551	hiraRya	<ls>TBR. 1,4,7,4.</ls>	
+True	4	1094552	hiraRya	<ls n="TBR.">3,8,2,2.</ls>	
+True	4	1094619	hiraRyakaSipu	<ls>TBR. 3,9,20,1.</ls>	
+True	4	1094780	hiraRyajyotis	<ls>TBR. 3,8,22,3.</ls>	
+True	4	1094882	hiraRyapakza	<ls>TBR. 3,7,6,9.</ls>	
+True	4	1094899	hiraRyaparRa	<ls>TBR. 3,6,11,2.</ls>	
+True	4	1094924	hiraRyapAtra	<ls>TBR. 1,3,3,7.</ls>	
+True	4	1095167	hiraRyavarRa	<ls>TBR. 2,8,4,1.</ls>	
+True	4	1095206	hiraRyavASI	<ls>TBR. 2,8,4,1</ls>	
+True	4	1095583	hIna	<ls>TBR. 1,5,12,3.</ls>	
+True	4	1095939	hu	<ls>TBR. 2,1,2,2. fgg.</ls>	
+True	4	1096103	hu	<ls>TBR. 2,1,4,3.</ls>	
+True	4	1096173	hu	<ls>TBR. 3,7,6,21.</ls>	
+True	4	1096970	hfd	<ls>TBR. 2,2,7,4.</ls>	
+True	4	1097058	hfdaya	<ls>TBR. 1,2,1,17.</ls>	
+True	4	1097135	hfdaya	<ls>TBR. 2,3,6,1.</ls>	
+True	4	1097144	hfdaya	<ls>TBR. 1,1,3,12.</ls>	
+True	4	1097147	hfdaya	<ls>TBR. 2,2,7,4.</ls>	
+True	4	1097209	hfdayaja	<ls>TBR. 3,11,8,7.</ls>	
+True	4	1097669	hfdya	<ls>TBR. 2,3,11,4.</ls>	
+True	4	1098741	heman	<ls>TBR. 1,4,10,10.</ls>	
+True	4	1098780	hemanta	<ls>TBR. 1,4,10,10.</ls>	
+True	4	1099468	hE	<ls>TBR. 2,3,6,1.</ls>	
+fixed	4	1100005	hotar	<ls>TBR. 3,12,5,1. 5.</ls>	<ls>TBR. 3,12,5,1.</ls> <ls n="TBR. 3,12,5,">5.</ls>
+fixed	4	1100009	hotar	<ls>TBR. 3,12,5,1. 5</ls>	<ls>TBR. 3,12,5,1.</ls> <ls n="TBR. 3,12,5,">5</ls>
+True	4	1100087	hotfzadana	<ls>TBR. 3,7,5,13.</ls>	
+True	4	1100188	hotrA	<ls>TBR. 3,5,8,1.</ls>	
+True	4	1100249	homa	<ls>TBR. 3,8,15,1.</ls>	
+True	4	1100250	homa	<ls n="TBR. 3,8,">17,4.</ls>	
+True	4	1100681	hnu	<ls>TBR. 3,9,6,1.</ls>	
+fixed	4	1100688	hnu	<ls>TBR. 1,4,6,7. 6,9,8. 2,7,5,2. 3,9,6,2.</ls>	<ls>TBR. 1,4,6,7.</ls> <ls n="TBR. 1,">6,9,8.</ls> <ls n="TBR.">2,7,5,2.</ls> <ls n="TBR.">3,9,6,2.</ls>
+True	4	1101236	hrAduni	<ls>TBR. 3,12,7,3.</ls>	
+fixed	4	1101768	hlIka	<ls>TBR. 1,3,10,6. 6,9,7.</ls>	<ls>TBR. 1,3,10,6.</ls> <ls n="TBR. 1,">6,9,7.</ls>
+True	4	1101998	hvA	<ls>TBR. 2,4,3,2.</ls>	
+True	4	1102201	hvA	<ls>TBR. 3,1,1,6.</ls>	
+True	4	1102552	agarBA	<ls>TBR. 1,8,3,3.</ls>	
+True	4	1102586	agfBIta	<ls>TBR. 2,5,3,3.</ls>	
+True	4	1102806	aGAta	<ls>TBR. 1,6,2,3.</ls>	
+None	4	1103116	aYjyeta	<ls>TBR. Comm. 3,593.</ls>	
+None	4	1103184	atacCezatva	<ls>TBR. Comm. 1,128,11.</ls>	
+True	4	1103639	anaDas	<ls>TBR. 3,2,1,5.</ls>	
+True	4	1104035	anuprahftya	<ls>TBR. 2,1,4,9.</ls>	
+fixed	4	1104177	anuvitti	<ls>TBR. 3,12,2,8. 4,7.</ls>	<ls>TBR. 3,12,2,8.</ls> <ls n="TBR. 3,12,">4,7.</ls>
+True	4	1104434	antarADAna	<ls>TBR. 1,6,3,10.</ls>	
+True	4	1104633	anvAramBa	<ls>TBR. 1,3,7,2.</ls>	
+True	4	1104778	aparAjayin	<ls>TBR. 1,7,10,5.</ls>	
+True	4	1104783	aparABAva	<ls>TBR. 2,1,5,4.</ls>	
+None	4	1104868	apAdya	<ls>TBR. Comm. 3,813.</ls>	
+True	4	1104869	apAdya	<ls>TBR. 3,12,4,7.</ls>	
+True	4	1105009	abrahman	<ls>TBR. 3,12,8,2.</ls>	
+True	4	1105084	aBiDA	<ls>TBR. 3,8,3,4.</ls>	
+True	4	1105153	aBivAsya	<ls>TBR. 3,2,8,8.</ls>	
+fixed	4	1107045	Ayajin	<ls>TBR. 3,16,13,1. 14,3.</ls>	<ls>TBR. 3,16,13,1.</ls> <ls n="TBR. 3,16,">14,3.</ls>
+True	4	1107332	Avasati	<ls>TBR. 2,3,5,4.</ls>	
+True	4	1107397	AvyADa	<ls>TBR. 3,7,5,6.</ls>	
+None	4	1108012	utkoca	<ls>TBR. Comm. 1,124</ls>	
+True	4	1108177	ud	<ls>TBR. 3,8,2,3.</ls>	
+True	4	1108235	udUha	<ls>TBR. 3,8,4,3.</ls>	
+None	4	1108495	upatalpya	<ls>TBR. Comm. 3,612,15.</ls>	
+None	4	1108716	upasaMskAra	<ls>TBR. 2,382.</ls>	
+True	4	1108767	upastaraRa	<ls>TBR. 3,7,4,18</ls>	
+True	4	1108856	upAvartitar	<ls>TBR. 1,6,7,3.</ls>	
+True	4	1109966	kayASuBIya	<ls>TBR. 2,7,11,1.</ls>	
+True	4	1110525	kAnizWineya	<ls>TBR. 2,1,8,1.</ls>	
+True	4	1110953	kucara	<ls>TBR. 3,8,2,3.</ls>	
+True	4	1112398	gar	<ls>TBR. 3,8,1,2.</ls>	
+None	4	1112571	gAh	<ls>TBR. Comm. 3,576.</ls>	
+None	4	1112847	gOtamavana	<ls>TBR. Comm. 3,564.</ls>	
+True	4	1113687	cezw	<ls>TBR. 1,3,6,1.</ls>	
+True	4	1116313	DUmatAnta	<ls>TBR. 3,10,11,1.</ls>	
+None	4	1119073	puzkara	<ls>TBR. 3,564,15.</ls>	
+None	4	1119396	prakzepa	<ls>TBR. Comm. 1,127.</ls>	
+True	4	1119758	praTasnu	<ls>TBR. 3,7,5,3.</ls>	
+True	4	1120729	bahugu	<ls>TBR. 3,8,5,3.</ls>	
+True	4	1120758	bahuvrIhiyava	<ls>TBR. 3,8,5,3.</ls>	
+True	4	1120773	bahuhastika	<ls>TBR. 3,8,5,3.</ls>	
+True	4	1121964	maDyama	<ls>TBR. 3,11,9,6</ls>	

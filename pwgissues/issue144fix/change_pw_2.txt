@@ -1,0 +1,100 @@
+; <L>8332<pc>1-097-b<k1>amutaHpradAna<k2>amu/taHpradAna
+30934 old {#amu/taHpradAna#}¦ <lex>n.</lex> {%Darbringung von dort her%} <ls>TBR. 2,2,7,3. 11,5</ls>.
+;
+30934 new {#amu/taHpradAna#}¦ <lex>n.</lex> {%Darbringung von dort her%} <ls>TBR. 2,2,7,3.</ls> <ls n="TBR. 2,2,">11,5</ls>.
+;---------------------------------------------------
+; <L>9907<pc>1-116-c<k1>alaMkAra<k2>alaMkAra/
+37281 old <div n="1">— 2〉 {%Schmuck%} <ls>TBR. 2,3,10,2. 4</ls>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}.
+;
+37281 new <div n="1">— 2〉 {%Schmuck%} <ls>TBR. 2,3,10,2.</ls> <ls n="TBR. 2,3,10,">4</ls>. Am Ende eines <ab>adj. Comp.</ab> <lex>f.</lex> {#A#}.
+;---------------------------------------------------
+; <L>37861<pc>2-198-b<k1>GarmaSiras<k2>GarmaSiras
+152706 old {#GarmaSiras#}¦ <lex>n.</lex> <ab>Bez.</ab> {%der Anfangssprüche in%} <ls>TBR. 1,1,7,1. 2</ls>. <ls>ĀPAST. ŚR. 5,11,12. 12,1</ls>.
+;
+152706 new {#GarmaSiras#}¦ <lex>n.</lex> <ab>Bez.</ab> {%der Anfangssprüche in%} <ls>TBR. 1,1,7,1.</ls> <ls n="TBR. 1,1,7,">2</ls>. <ls>ĀPAST. ŚR. 5,11,12. 12,1</ls>.
+;---------------------------------------------------
+; <L>45042<pc>3-019-a<k1>talpasadya<k2>talpasa/dya
+184715 old {#talpasa/dya#}¦ <lex>n.</lex> {%das Sitzen auf einem Ruhebette%} <ls>TBR. 1,2,6,5. 6</ls>.
+;
+184715 new {#talpasa/dya#}¦ <lex>n.</lex> {%das Sitzen auf einem Ruhebette%} <ls>TBR. 1,2,6,5.</ls> <ls n="TBR. 1,2,6,">6</ls>.
+;---------------------------------------------------
+; <L>46855<pc>3-042-a<k1>tekzRizWam<k2>te/kzRizWam
+192177 old {#te/kzRizWam#}¦ <lex>Adv.</lex> {%am stechendsten, am heissesten%} <ls>TBR. 1,5,3,2. 6,6,3</ls>. <ls>TAITT. ĀR. 2,13,1</ls>.
+;
+192177 new {#te/kzRizWam#}¦ <lex>Adv.</lex> {%am stechendsten, am heissesten%} <ls>TBR. 1,5,3,2.</ls> <ls n="TBR. 1,">6,6,3</ls>. <ls>TAITT. ĀR. 2,13,1</ls>.
+;---------------------------------------------------
+; <L>53479<pc>3-130-b<k1>drupada<k2>drupada/
+219362 old <div n="1">— 3〉 <lex>f.</lex> {#drupadA sAvitrI, Fk#} oder {#drupadA#} allein <ab>Bez.</ab> {%der Worte%} {#drupadA/dive/nmumucAna/H#} (<ls>TBR. 2,4,4,9. 6,6,3</ls>) <ls>VIṢṆUS. 64,21</ls>. <ls>ĀŚV. GṚHY. PARIŚ. 1,4</ls>, <ls>PARĀŚ. 11,19</ls>.
+;
+219362 new <div n="1">— 3〉 <lex>f.</lex> {#drupadA sAvitrI, Fk#} oder {#drupadA#} allein <ab>Bez.</ab> {%der Worte%} {#drupadA/dive/nmumucAna/H#} (<ls>TBR. 2,4,4,9.</ls> <ls n="TBR. 2,">6,6,3</ls>) <ls>VIṢṆUS. 64,21</ls>. <ls>ĀŚV. GṚHY. PARIŚ. 1,4</ls>, <ls>PARĀŚ. 11,19</ls>.
+;---------------------------------------------------
+; <L>63440<pc>4-033-b<k1>parasyA<k2>parasyA/
+261863 old {#parasyA/#}¦ <lex>m.</lex> <ls>TBR. 2,8,1,3. 3,7</ls>. Fehlerhaft für {#paraspA/#}. {#parasyA/yAH#} <ls>TAITT. ĀR. 4,11,2. 3</ls> fehlerhaft für {#paraspA/yE#}.
+;
+261863 new {#parasyA/#}¦ <lex>m.</lex> <ls>TBR. 2,8,1,3.</ls> <ls n="TBR. 2,8,">3,7</ls>. Fehlerhaft für {#paraspA/#}. {#parasyA/yAH#} <ls>TAITT. ĀR. 4,11,2. 3</ls> fehlerhaft für {#paraspA/yE#}.
+;---------------------------------------------------
+; <L>64674<pc>4-050-c<k1>parRavalka<k2>parRavalka/
+266814 old <div n="1">— 1〉 <ab>Sg.</ab> und <ab>Pl.</ab> {%der Bast von der <bot>Butea frondosa</bot>%} <ls>TS. 2,5,3,5</ls>. <ls>TBR. 3,7,4,2. 18</ls>. <ls>ĀPAST. ŚR. 1,14,1</ls>.
+;
+266814 new <div n="1">— 1〉 <ab>Sg.</ab> und <ab>Pl.</ab> {%der Bast von der <bot>Butea frondosa</bot>%} <ls>TS. 2,5,3,5</ls>. <ls>TBR. 3,7,4,2.</ls> <ls n="TBR. 3,7,4,">18</ls>. <ls>ĀPAST. ŚR. 1,14,1</ls>.
+;---------------------------------------------------
+; <L>74820<pc>4-193-b<k1>prI<k2>prI<h>1
+308092 old <div n="p">— Mit {#anupra#} {%nach Jmd%} (<ab>Acc.</ab>) {%in eine freudige Stimmung gerathen%} <ls>TBR. 1,3,10,4. 5</ls> (wohl {#prIyante#} zu lesen).
+;
+308092 new <div n="p">— Mit {#anupra#} {%nach Jmd%} (<ab>Acc.</ab>) {%in eine freudige Stimmung gerathen%} <ls>TBR. 1,3,10,4.</ls> <ls n="TBR. 1,3,10,">5</ls> (wohl {#prIyante#} zu lesen).
+;---------------------------------------------------
+; <L>90611<pc>5-134-b<k1>yA<k2>yA<h>1
+375109 old <div n="1">— 1〉 {%nach Jmd%} (<ab>Acc.</ab>) {%aufbrechen, Jmd begleiten%} <ls>TBR. 3,7,4,1. 2</ls>. {#anuprayAta#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab>
+;
+375109 new <div n="1">— 1〉 {%nach Jmd%} (<ab>Acc.</ab>) {%aufbrechen, Jmd begleiten%} <ls>TBR. 3,7,4,1.</ls> <ls n="TBR. 3,7,4,">2</ls>. {#anuprayAta#} mit <ab>act.</ab> und <ab>pass.</ab> <ab>Bed.</ab>
+;---------------------------------------------------
+; <L>94207<pc>5-189-c<k1>ric<k2>ric
+390494 old <div n="p">— Mit {#aByati#} <ab>Med.</ab> <ab>Pass.</ab> {%zu Gunsten von Jmd oder Etwas%} (<ab>Acc.</ab>) {%übrigbleiben, Jmd oder Etwas zu Gute kommen%} <ls>MAITR. S. 2,2,13</ls>. <ls>KĀṬH. 26,4</ls>. <ls>TS. 2,3,4,1. 7,1,5,6</ls>. <ls>TBR. 1,2,5,3. 4,5,1</ls>. <ls>ŚAT. BR. 1,9,1,18.</ls> <ls n="ŚAT. BR.">3,9,2,34.</ls> <ls n="ŚAT. BR.">11,1,2,5</ls>. <ls>KĀTY. ŚR. 25,13,17</ls>. <ls>TĀṆḌYA-BR. 9,7,2</ls>.
+;
+390494 new <div n="p">— Mit {#aByati#} <ab>Med.</ab> <ab>Pass.</ab> {%zu Gunsten von Jmd oder Etwas%} (<ab>Acc.</ab>) {%übrigbleiben, Jmd oder Etwas zu Gute kommen%} <ls>MAITR. S. 2,2,13</ls>. <ls>KĀṬH. 26,4</ls>. <ls>TS. 2,3,4,1. 7,1,5,6</ls>. <ls>TBR. 1,2,5,3.</ls> <ls n="TBR. 1,">4,5,1</ls>. <ls>ŚAT. BR. 1,9,1,18.</ls> <ls n="ŚAT. BR.">3,9,2,34.</ls> <ls n="ŚAT. BR.">11,1,2,5</ls>. <ls>KĀTY. ŚR. 25,13,17</ls>. <ls>TĀṆḌYA-BR. 9,7,2</ls>.
+;---------------------------------------------------
+; <L>95138<pc>5-206-c<k1>rohiRI<k2>rohiRI
+394931 old <div n="2">— b〉 {#ro/hiRI#} und {#rohiRI#} {%ein <ab>best.</ab> Mondhaus%} und {%der damit verbundene lunare Tag;%} ausnahmsweise auch <ab>Pl.</ab> <ls>TS. 4,4,10,1. 2</ls> und <ls>TBR. 1,5,1,1. 4</ls>. erscheinen zwei Mondhäuser dieses Namens. In der Figur des Sternbildes sieht der Inder einen {%Karren,%} einen {%Tempel%} oder einen {%Fisch%}. Personificirt als Tochter <is>Dakṣa</is>ʼs und bevorzugte Gattin des Mondes.
+;
+394931 new <div n="2">— b〉 {#ro/hiRI#} und {#rohiRI#} {%ein <ab>best.</ab> Mondhaus%} und {%der damit verbundene lunare Tag;%} ausnahmsweise auch <ab>Pl.</ab> <ls>TS. 4,4,10,1. 2</ls> und <ls>TBR. 1,5,1,1.</ls> <ls n="TBR. 1,5,1,">4</ls>. erscheinen zwei Mondhäuser dieses Namens. In der Figur des Sternbildes sieht der Inder einen {%Karren,%} einen {%Tempel%} oder einen {%Fisch%}. Personificirt als Tochter <is>Dakṣa</is>ʼs und bevorzugte Gattin des Mondes.
+;---------------------------------------------------
+; <L>95752<pc>5-217-a<k1>laB<k2>laB
+397753 old <div n="1">— 4〉 {%anfangen, unternehmen%} <ls>TBR. 2,2,2,1. 2</ls>.
+;
+397753 new <div n="1">— 4〉 {%anfangen, unternehmen%} <ls>TBR. 2,2,2,1.</ls> <ls n="TBR. 2,2,2,">2</ls>.
+;---------------------------------------------------
+; <L>97001<pc>5-239-b<k1>lohitAyasa<k2>lohitAyasa/
+403484 old <div n="1">— 1〉 <lex>Adj.</lex> {%aus röthlichen Metall gemacht;%} <ab>Subst.</ab> {%ein solches Scheermesser%} <ls>MAITR. S. 4,4,4</ls>. <ls>TBR. 1,5,6,5. 6</ls>.
+;
+403484 new <div n="1">— 1〉 <lex>Adj.</lex> {%aus röthlichen Metall gemacht;%} <ab>Subst.</ab> {%ein solches Scheermesser%} <ls>MAITR. S. 4,4,4</ls>. <ls>TBR. 1,5,6,5.</ls> <ls n="TBR. 1,5,6,">6</ls>.
+;---------------------------------------------------
+; <L>105564<pc>6-137-c<k1>vizRUvaruRa<k2>vizRUvaruRa
+441337 old {#vizRUvaruRa#}¦ <lex>m.</lex> <ab>Du.</ab> <is>Viṣṇu</is> und <is>Varuṇa</is> <ls>TBR. 2,8,4,5. 6</ls>.
+;
+441337 new {#vizRUvaruRa#}¦ <lex>m.</lex> <ab>Du.</ab> <is>Viṣṇu</is> und <is>Varuṇa</is> <ls>TBR. 2,8,4,5.</ls> <ls n="TBR. 2,8,4,">6</ls>.
+;---------------------------------------------------
+; <L>110007<pc>6-202-a<k1>SatAtfzRA<k2>SatAtfzRA/
+459802 old {#SatAtfzRA/#}¦ <lex>f.</lex> fehlerhaft für {#SatA/tfRRa#} 2〉 <ls>TBR. 1,8,6,4. 5</ls>.
+;
+459802 new {#SatAtfzRA/#}¦ <lex>f.</lex> fehlerhaft für {#SatA/tfRRa#} 2〉 <ls>TBR. 1,8,6,4.</ls> <ls n="TBR. 1,8,6,">5</ls>.
+;---------------------------------------------------
+; <L>112826<pc>6-240-a<k1>Siz<k2>Siz<h>3
+471439 old <hom>3.</hom> √{#Siz#}¦, {#Sinazwi, SiMzati#} {%übrig lassen%}. {#°Si/zyate#} (<ls>TBR. 1,1,9,3. 3,7,6,20</ls>) und <ab>Pass.</ab> {#°Sizya/te#} (<ls>ŚAT. BR. 1,3,3,4.</ls> <ls n="ŚAT. BR.">3,8,2,5.</ls> <ls n="ŚAT. BR.">13,1,1,1</ls>) <ab>intrans.</ab> Das Simplex {%übrig bleiben%} nur in der klassischen Sprache; mit {#na#} {%mangeln, fehlen%}. {#Sizye#} <ls>MBH. 2,55,20</ls> (<ls>MBH. ed. Vardh. 2,54,20</ls>. <ls>MBH. ed. Calc. 2,1964</ls>) fehlerhaft für {#Sezye#} (von <hom>2.</hom> {#SI#}); {#na Sizyati#} <ls>MĀRK. P. 51,113</ls> fehlerhaft für {#naSizyati#}. <ab>Partic.</ab> {#Sizwa/#} {%übrig gelassen, — geblieben, übrig%} <ls>AV. 2,29,4. 31,3. 3,5,4. 5,26,4</ls>. <ls>Chr. 66,26</ls>. {#nAlaSizwa#} {%von dem nur der Stengel übrig geblieben ist,%} {#hataSizwa#} <ab>Pl.</ab> so <ab>v. a.</ab> {%dem Gemetzel entronnen,%} {#hftasizwa#} <lex>Adj.</lex> so <ab>v. a.</ab> {%vom Raube verschont geblieben%}.
+;
+471439 new <hom>3.</hom> √{#Siz#}¦, {#Sinazwi, SiMzati#} {%übrig lassen%}. {#°Si/zyate#} (<ls>TBR. 1,1,9,3.</ls> <ls n="TBR.">3,7,6,20</ls>) und <ab>Pass.</ab> {#°Sizya/te#} (<ls>ŚAT. BR. 1,3,3,4.</ls> <ls n="ŚAT. BR.">3,8,2,5.</ls> <ls n="ŚAT. BR.">13,1,1,1</ls>) <ab>intrans.</ab> Das Simplex {%übrig bleiben%} nur in der klassischen Sprache; mit {#na#} {%mangeln, fehlen%}. {#Sizye#} <ls>MBH. 2,55,20</ls> (<ls>MBH. ed. Vardh. 2,54,20</ls>. <ls>MBH. ed. Calc. 2,1964</ls>) fehlerhaft für {#Sezye#} (von <hom>2.</hom> {#SI#}); {#na Sizyati#} <ls>MĀRK. P. 51,113</ls> fehlerhaft für {#naSizyati#}. <ab>Partic.</ab> {#Sizwa/#} {%übrig gelassen, — geblieben, übrig%} <ls>AV. 2,29,4. 31,3. 3,5,4. 5,26,4</ls>. <ls>Chr. 66,26</ls>. {#nAlaSizwa#} {%von dem nur der Stengel übrig geblieben ist,%} {#hataSizwa#} <ab>Pl.</ab> so <ab>v. a.</ab> {%dem Gemetzel entronnen,%} {#hftasizwa#} <lex>Adj.</lex> so <ab>v. a.</ab> {%vom Raube verschont geblieben%}.
+;---------------------------------------------------
+; <L>119425<pc>7-048-b<k1>saptadaSaSarAva<k2>sapta/daSaSarAva
+499004 old {#sapta/daSaSarAva#}¦ <lex>Adj.</lex> {%von siebzehn%} <is>Śarāva</is> ({%ein <ab>best.</ab> Kornmaass%}) <ls>TBR. 1,3,4,5. 6,8</ls>. <ls>ŚAT. BR. 5,1,4,12</ls>.
+;
+499004 new {#sapta/daSaSarAva#}¦ <lex>Adj.</lex> {%von siebzehn%} <is>Śarāva</is> ({%ein <ab>best.</ab> Kornmaass%}) <ls>TBR. 1,3,4,5.</ls> <ls n="TBR. 1,3,">6,8</ls>. <ls>ŚAT. BR. 5,1,4,12</ls>.
+;---------------------------------------------------
+; <L>119647<pc>7-050-c<k1>sapraTa<k2>sapraTa
+499793 old {#sapraTa#}¦ <lex>Adj.</lex> <ls>TBR. 1,1,10,3. 5</ls> nach dem <ab>Comm.</ab> = {#saBya#}.
+;
+499793 new {#sapraTa#}¦ <lex>Adj.</lex> <ls>TBR. 1,1,10,3.</ls> <ls n="TBR. 1,1,10,">5</ls> nach dem <ab>Comm.</ab> = {#saBya#}.
+;---------------------------------------------------
+; <L>127815<pc>7-166-a<k1>suvarjana<k2>suvarja/na
+532833 old {#suvarja/na#}¦ <lex>Adj.</lex> {%im Himmel entstanden%} (nach dem <ab>Comm.</ab>) <ls>TBR. 1,4,8,1. 2,6,3,4</ls>.
+;
+532833 new {#suvarja/na#}¦ <lex>Adj.</lex> {%im Himmel entstanden%} (nach dem <ab>Comm.</ab>) <ls>TBR. 1,4,8,1.</ls> <ls n="TBR.">2,6,3,4</ls>.
+;---------------------------------------------------

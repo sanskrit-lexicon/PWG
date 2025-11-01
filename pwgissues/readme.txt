@@ -79,6 +79,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue143 BHAṬṬIKĀVYA link target
 * issue143fix BHAṬṬIKĀVYA split ls
 * issue144 TAITTIRĪYABRĀHMAṆA link target
+* issue144fix TAITTIRĪYABRĀHMAṆA split ls
 * issue145 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI, 2 parameter references 
 * issue146 KUMĀRASAM̃BHAVA 
 * issue146fix KUMĀRASAM̃BHAVA  split ls
