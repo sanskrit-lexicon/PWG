@@ -69,6 +69,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue129fix BHAGAVADGITA split ls 'BHAG. N,N'
 * issue130 ŚĀKUNTALA link target for MW
 * issue134 TAITTIRĪYASAM̃HITĀ link target
+* issue134fix TAITTIRĪYASAM̃HITĀ split ls
 * issue135 RĀJATARAṄGIṆĪ link target
 * issue135fix RĀJATARAṄGIṆĪ split ls
 * issue136 KĀTYĀYANA'S ŚRAUTASŪTRĀṆI link target
@@ -104,4 +105,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue167 NIRUKTA
 * issue168 PANCHATANTRA KOSEGARTEN ed. orn.
 * issue169 RĀJATARAṄGIṆĪ ed. Calc.
+* issue170 References inconsistent with link target 
 
