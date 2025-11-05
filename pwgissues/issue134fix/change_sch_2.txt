@@ -1,0 +1,15 @@
+; <L>2216<pc>030-3<k1>anavakxpta<k2>a/navakxpta
+6849 old {%ánavakḷpta%}¦ auch: nicht geeignet zu (Lok.), <ls>TS. 7,1,1,3. 6.</ls> {part=,seq=2250,type=,n=2}
+;
+6849 new {%ánavakḷpta%}¦ auch: nicht geeignet zu (Lok.), <ls>TS. 7,1,1,3.</ls> <ls n="TS. 7,1,1,">6.</ls> {part=,seq=2250,type=,n=2}
+;---------------------------------------------------
+; <L>6385<pc>087-3<k1>asTUri<k2>a/sTUri
+19706 old {%ásthūri%}¦ , so akzentuiert <ls>TS. 7,1,1,1. 2.</ls> {part=,seq=6471,type=,n=1}
+;
+19706 new {%ásthūri%}¦ , so akzentuiert <ls>TS. 7,1,1,1.</ls> <ls n="TS. 7,1,1,">2.</ls> {part=,seq=6471,type=,n=1}
+;---------------------------------------------------
+; <L>7568<pc>103-3<k1>Ahalam<k2>Aha/lam
+23369 old {%āhálam%}¦ Interj. = {%āhálak%}, <ls>TS. 7,4,19,3. 1.</ls> {%āhava%}, <ls>Daśak. 31,12.</ls> {part=,seq=7675,type=,n=3}
+;
+23369 new {%āhálam%}¦ Interj. = {%āhálak%}, <ls>TS. 7,4,19,3.</ls> <ls n="TS. 7,4,19,">1.</ls> {%āhava%}, <ls>Daśak. 31,12.</ls> {part=,seq=7675,type=,n=3}
+;---------------------------------------------------

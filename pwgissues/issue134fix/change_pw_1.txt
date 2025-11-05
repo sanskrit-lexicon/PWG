@@ -1,0 +1,95 @@
+; <L>18860<pc>1-230-b<k1>udAvarta<k2>udAvarta/
+72719 old <div n="1">— 1〉 <lex>m.</lex> <ab>Bez.</ab> {%einer Klasse von Krankheiten, wobei die natürlichen Ausscheidungen zurückgehalten werden%} <ls>TS. 6,1,1</ls>.
+;
+72719 new <div n="1">— 1〉 <lex>m.</lex> <ab>Bez.</ab> {%einer Klasse von Krankheiten, wobei die natürlichen Ausscheidungen zurückgehalten werden%} <ls>TS. 6,4,1,1</ls>.
+;---------------------------------------------------
+; <L>40608<pc>2-236-c<k1>cettar<k2>ce/ttar
+164702 old {#ce/ttar#} und {#cetta/r#}¦ <ab>Nom. ag.</ab> {%Aufmerker, Wächter%} <ls>TS. 1,4,255,1</ls>.
+;
+164702 new {#ce/ttar#} und {#cetta/r#}¦ <ab>Nom. ag.</ab> {%Aufmerker, Wächter%} <ls>TS. 1,4,25,1</ls>.
+;---------------------------------------------------
+; <L>41763<pc>2-254-b<k1>jaya<k2>jaya
+169918 old <div n="2">— b〉 <ab>parox.</ab> <ab>Pl.</ab> {%<ab>best.</ab> zum Sieg verhelfende Sprüche%} (als Gottheiten personificirt <ls>Verz. d. Oxf. H. 56,b</ls>) <ls>NYĀYAM. 3,4,24</ls>. <ls>MAITR. S. 1,4,14</ls>. <ls>TS. 3,4,4,1. 6,1,2</ls>. <ab>Nom. abstr.</ab> {#jayatva/#} <lex>n.</lex> <ls>ebend.</ls>
+;
+169918 new <div n="2">— b〉 <ab>parox.</ab> <ab>Pl.</ab> {%<ab>best.</ab> zum Sieg verhelfende Sprüche%} (als Gottheiten personificirt <ls>Verz. d. Oxf. H. 56,b</ls>) <ls>NYĀYAM. 3,4,24</ls>. <ls>MAITR. S. 1,4,14</ls>. <ls>TS. 3,4,4,1. 6,1. 2</ls>. <ab>Nom. abstr.</ab> {#jayatva/#} <lex>n.</lex> <ls>ebend.</ls>
+;---------------------------------------------------
+; <L>44677<pc>3-012-b<k1>tapyatu<k2>tapyatu/
+182822 old <div n="1">— 2〉 <lex>f.</lex> {%Glut%} <ls>TS. (ed. WEBER) 1,4,35,1</ls>. <ab>v. l.</ab> {#tapyati/#}.
+;
+182822 new <div n="1">— 2〉 <lex>f.</lex> {%Glut%} <ls>TS. 1,4,35,1</ls>. <ab>v. l.</ab> {#tapyati/#}.
+;---------------------------------------------------
+; <L>48165<pc>3-058-c<k1>tryudDi<k2>tryu^dDi
+197457 old {#tryu^dDi#}¦ {%ein Gestell mit drei Aufsätzen%} <ls>TS. 3,1. 6,4</ls>. <ls>MAITR. S. 1,6,8</ls>.
+;
+197457 new {#tryu^dDi#}¦ {%ein Gestell mit drei Aufsätzen%} <ls>TS. 5,1,6,4</ls>. <ls>MAITR. S. 1,6,8</ls>.
+;---------------------------------------------------
+; <L>48306<pc>3-060-b<k1>tvI<k2>tvI/
+198038 old {#tvI/#}¦ <lex>Adv.</lex> {%gut! ja!%} <ls>TS. 25,12,6</ls>.
+;
+198038 new {#tvI/#}¦ <lex>Adv.</lex> {%gut! ja!%} <ls>TS. 2,4,12,6</ls>.
+;---------------------------------------------------
+; <L>58379<pc>3-202-a<k1>nicaNkuRa<k2>nicaNkuRa
+240083 old {#nicaNkuRa#}¦ <lex>m.</lex> <ab>v. l.</ab> für {#nicumpuRa#} 1〉 <ls>TS. 1,4,15,2</ls>.
+;
+240083 new {#nicaNkuRa#}¦ <lex>m.</lex> <ab>v. l.</ab> für {#nicumpuRa#} 1〉 <ls>TS. 1,4,45,2</ls>.
+;---------------------------------------------------
+; <L>69705<pc>4-120-c<k1>pfzva<k2>pf/zva
+287372 old {#pf/zva#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%aus Reif (pruina) entstehend%} (<ab>Comm.</ab>) <ls>TS. 7,413,1</ls>.
+;
+287372 new {#pf/zva#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%aus Reif (pruina) entstehend%} (<ab>Comm.</ab>) <ls>TS. 7,4,13,1</ls>.
+;---------------------------------------------------
+; <L>72890<pc>4-166-a<k1>prayAjavant<k2>prayAja/vant
+300194 old {#prayAja/vant#}¦ <lex>Adj.</lex> {%von%} <is>Prayāja</is> {%begleitet%} <ls>TS. 6,15,3,5</ls>.
+;
+300194 new {#prayAja/vant#}¦ <lex>Adj.</lex> {%von%} <is>Prayāja</is> {%begleitet%} <ls>TS. 6,1,5,3. 5</ls>.
+;---------------------------------------------------
+; <L>77508<pc>4-231-c<k1>bfhadarkI<k2>bfhadarkI/
+319234 old {#bfhadarkI/#}¦ <lex>f.</lex> <ls>AV. 8,9,14</ls> fehlerhaft; <ab>vgl.</ab> <ls>TS. 4,3,22,2</ls>.
+;
+319234 new {#bfhadarkI/#}¦ <lex>f.</lex> <ls>AV. 8,9,14</ls> fehlerhaft; <ab>vgl.</ab> <ls>TS. 4,3,11,2</ls>.
+;---------------------------------------------------
+; <L>81268<pc>4-289-c<k1>BrAtfvyaloka<k2>BrAtfvyaloka/
+335808 old {#BrAtfvyaloka/#}¦ <lex>m.</lex> {%die Welt des Nebenbuhlers%} <ls>ŚAT. BR. 4,3,2,6</ls>. {#BrA/tfvyaloka/#} (!) <ls>TS. 6,2,3. 3</ls>.
+;
+335808 new {#BrAtfvyaloka/#}¦ <lex>m.</lex> {%die Welt des Nebenbuhlers%} <ls>ŚAT. BR. 4,3,2,6</ls>. {#BrA/tfvyaloka/#} (!) <ls>TS. 6,2,3,3</ls>.
+;---------------------------------------------------
+; <L>86232<pc>5-069-b<k1>mAnDuka<k2>mAnDuka/
+356559 old {#mAnDuka/#}¦ <lex>Adj.</lex> <ls>TS. 3,4,6,3</ls>. <ls>ĀPAST. ŚR. 17,14</ls> <ab>st.</ab> {#bAnDuka#} des <ls>KĀṬH.</ls>
+;
+356559 new {#mAnDuka/#}¦ <lex>Adj.</lex> <ls>TS. 3,4,8,3</ls>. <ls>ĀPAST. ŚR. 17,14</ls> <ab>st.</ab> {#bAnDuka#} des <ls>KĀṬH.</ls>
+;---------------------------------------------------
+; <L>91021<pc>5-143-a<k1>yuktvAya<k2>yuktvA/ya
+376878 old {#yuktvA/ya#}¦ <ab>Absol.</ab> von <hom>1.</hom> {#yuj#} <ls>TS. 4,1,1</ls>.
+;
+376878 new {#yuktvA/ya#}¦ <ab>Absol.</ab> von <hom>1.</hom> {#yuj#} <ls>TS. 4,1,1,1</ls>.
+;---------------------------------------------------
+; <L>124818<pc>7-126-c<k1>sAhna<k2>sAhna/
+520419 old <div n="1">— 2〉 <lex>m.</lex> = {#ekAha#} <ls>TS. 2,5,1</ls>. <ls>TĀṆḌYA-BR. 18,11,10</ls>. <ls>ĀPAST. ŚR. 11,4,7</ls>.
+;
+520419 new <div n="1">— 2〉 <lex>m.</lex> = {#ekAha#} <ls>TS. 6,2,5,1</ls>. <ls>TĀṆḌYA-BR. 18,11,10</ls>. <ls>ĀPAST. ŚR. 11,4,7</ls>.
+;---------------------------------------------------
+; <L>204923<pc>3-264-c<k1>DUmra<k2>DUmra/
+583901 old {#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,31?, 1</ls>.<info n="sup_3"/>
+;
+583901 new {#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,21,1</ls>.<info n="sup_3"/>
+;---------------------------------------------------
+; <L>205245<pc>4-294-b<k1>aBivarta<k2>aBivarta/
+584890 old {#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,2,4</ls>.<info n="sup_4"/>
+;
+584890 new {#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,7,4</ls>.<info n="sup_4"/>
+;---------------------------------------------------
+; <L>205334<pc>4-295-b<k1>avaruDam<k2>avaru/Dam
+585164 old {#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1. 2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.<info n="sup_4"/>
+;
+585164 new {#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1,2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.<info n="sup_4"/>
+;---------------------------------------------------
+; <L>205528<pc>4-297-c<k1>kavy<k2>kavy
+585766 old √{#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20</ls>. <ls n="TS. 7,1,">1</ls>.<info n="sup_4"/>
+;
+585766 new √{#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20,1</ls>.<info n="sup_4"/>
+;---------------------------------------------------
+; <L>206704<pc>5-248-b<k1>asmaddAtra<k2>asma/ddAtra
+589354 old {#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,42,2</ls>.<info n="sup_5"/>
+;
+589354 new {#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,43,2</ls>.<info n="sup_5"/>
+;---------------------------------------------------

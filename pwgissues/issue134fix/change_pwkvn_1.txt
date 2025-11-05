@@ -1,0 +1,25 @@
+; <L>4923<pc>3-264-c<k1>DUmra<k2>DUmra/
+16313 old {#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,31?, 1</ls>.
+;
+16313 new {#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,21,1</ls>.
+;---------------------------------------------------
+; <L>5245<pc>4-294-b<k1>aBivarta<k2>aBivarta/
+17300 old {#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,2,4</ls>.
+;
+17300 new {#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,7,4</ls>.
+;---------------------------------------------------
+; <L>5334<pc>4-295-b<k1>avaruDam<k2>avaru/Dam
+17573 old {#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1. 2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.
+;
+17573 new {#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1,2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.
+;---------------------------------------------------
+; <L>5528<pc>4-297-c<k1>kavy<k2>kavy
+18167 old {#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20</ls>. <ls n="TS. 7,1,">1</ls>.
+;
+18167 new {#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20,1</ls>. 
+;---------------------------------------------------
+; <L>6704<pc>5-248-b<k1>asmaddAtra<k2>asma/ddAtra
+21737 old {#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,42,2</ls>.
+;
+21737 new {#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,43,2</ls>.
+;---------------------------------------------------

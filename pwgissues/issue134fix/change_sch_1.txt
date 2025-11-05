@@ -1,0 +1,45 @@
+; <L>2734<pc>037-3<k1>anuparihAram<k2>anuparihA/ram
+8437 old {%anuparihā́ram%}¦ Absol. umkreisend, <ls>TS. 5,3,1,3; 10,1.</ls> {part=,seq=2771,type=,n=2}
+;
+8437 new {%anuparihā́ram%}¦ Absol. umkreisend, <ls>TS. 5,3,1,3</ls>; <ls n="TS. 5,3,">10,1.</ls> {part=,seq=2771,type=,n=2}
+;---------------------------------------------------
+; <L>2859<pc>039-2<k1>anuvA<k2>anuvA/
+8817 old {%anuvā́%}¦ f. das Nachwehen, <ls>TS. 3,5,2,3; 4,4,1,1.</ls> Vgl. {%anvā%}. {part=,seq=2896,type=,n=2}
+;
+8817 new {%anuvā́%}¦ f. das Nachwehen, <ls>TS. 3,5,2,3</ls>; <ls n="TS.">4,4,1,1.</ls> Vgl. {%anvā%}. {part=,seq=2896,type=,n=2}
+;---------------------------------------------------
+; <L>5355<pc>073-2<k1>avaruDam<k2>avaru/Dam
+16520 old {%avarúdham%}¦ <ls>TS. 2,3,7,1; 5,4,1,2</ls>) und {%avarúndham%} (<ls>Maitr. S. 1,10,12</ls>) Akk. Inf. von 2. {%rudh%} mit {%ava%}. {part=,seq=5429,type=,n=3}
+;
+16520 new {%avarúdham%}¦ <ls>TS. 2,3,7,1</ls>; <ls n="TS.">5,4,1,2</ls>) und {%avarúndham%} (<ls>Maitr. S. 1,10,12</ls>) Akk. Inf. von 2. {%rudh%} mit {%ava%}. {part=,seq=5429,type=,n=3}
+;---------------------------------------------------
+; <L>7473<pc>102-1<k1>ASya<k2>ASya^
+23070 old {%āśyà%}¦ n. impers. zu essen von (Gen.), <ls>TS. 2,5,1,4; 6,1,11,6.</ls> {part=,seq=7577,type=,n=2}
+;
+23070 new {%āśyà%}¦ n. impers. zu essen von (Gen.), <ls>TS. 2,5,1,4</ls>; <ls n="TS.">6,1,11,6.</ls> {part=,seq=7577,type=,n=2}
+;---------------------------------------------------
+; <L>17496<pc>241-2<k1>paYcadaSavartani<k2>paYcadaSavartani
+54079 old {%pañcadaśavartani%}¦ Adj. die Bahn für einen pañcadaśastoma bildend, <ls>TS. 4,3; 3,1.</ls> {part=,seq=17752,type=,n=3}
+;
+54079 new {%pañcadaśavartani%}¦ Adj. die Bahn für einen pañcadaśastoma bildend, <ls>TS. 4,3,3,1.</ls> {part=,seq=17752,type=,n=3}
+;---------------------------------------------------
+; <L>19722<pc>272-2<k1>prAjApatya<k2>prAjApatya
+60910 old {%prājāpatya%}¦ 3. f. {%ā%} der an Prajāpati gerichtete Vers <ls>TS. 1,8,14,2,</ls> <ls>Āpast. Gṛhy. 2,7.</ls> {part=,seq=19997,type=,n=3}
+;
+60910 new {%prājāpatya%}¦ 3. f. {%ā%} der an Prajāpati gerichtete Vers <ls>TS. 1,8,14,2</ls>, <ls>Āpast. Gṛhy. 2,7.</ls> {part=,seq=19997,type=,n=3}
+;---------------------------------------------------
+; <L>20823<pc>287-3<k1>BrAtfvyApanutti<k2>BrAtfvyApanutti
+64300 old {%bhrātṛvyāpanutti%}¦ f. Verscheuchung des Gegners, <ls>TS. 6,3,8,4; 6,4,4.</ls> {part=,seq=21110,type=,n=2}
+;
+64300 new {%bhrātṛvyāpanutti%}¦ f. Verscheuchung des Gegners, <ls>TS. 6,3,8,4</ls>; <ls n="TS. 6,">6,4,4.</ls> {part=,seq=21110,type=,n=2}
+;---------------------------------------------------
+; <L>20824<pc>287-3<k1>BrAtfvyABiBUti<k2>BrA/tfvyABiBUti
+64303 old {%bhrā́tṛvyābhibhūti%}¦ f. Abwendung des Gegners, <ls>TS. 2,6,1,5; 5,6,2,1.</ls> {part=,seq=21111,type=,n=2}
+;
+64303 new {%bhrā́tṛvyābhibhūti%}¦ f. Abwendung des Gegners, <ls>TS. 2,6,1,5</ls>; <ls n="TS.">5,6,2,1.</ls> {part=,seq=21111,type=,n=2}
+;---------------------------------------------------
+; <L>22653<pc>312-3<k1>rAzwraBft<k2>rAzwraBft
+69961 old {%rāṣṭrabhṛt%}¦ 2. a) Bez. der Sprüche <ls>TS. 3,4,7,</ls> <ls>Āpast. Gṛhy. 2,7.</ls> {part=,seq=22968,type=,n=2}
+;
+69961 new {%rāṣṭrabhṛt%}¦ 2. a) Bez. der Sprüche <ls>TS. 3,4,7</ls>, <ls>Āpast. Gṛhy. 2,7.</ls> {part=,seq=22968,type=,n=2}
+;---------------------------------------------------
