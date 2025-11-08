@@ -63,6 +63,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue123fix  ANEKĀRTHASAM̃GRAHA split ls 'H. an.'
 * issue123fixa ANEKĀRTHASAM̃GRAHA split ls 'an.' 
 * issue124 VĀJASANEYISAM̃HITĀ link target
+* issue124fix VĀJASANEYISAM̃HITĀ split ls
 * issue125 ŚĀKUNTALA link target
 * issue125fix ŚĀKUNTALA link splitting
 * issue129 BHAGAVADGITA link target

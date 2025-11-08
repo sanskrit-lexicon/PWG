@@ -1,0 +1,40 @@
+; <L>10338<pc>1-121-c<k1>avatAna<k2>avatAna/
+38891 old <div n="1">— 2〉 {%Abspannung des Bogens als%} <ab>Bez.</ab> {%der Verse%} <ls>VS. 16,54-63</ls>. <ls>ŚAT. BR. 9,1,1,21.</ls> <ls n="ŚAT. BR. 9,1,1,">27</ls>.
+;
+38891 new <div n="1">— 2〉 {%Abspannung des Bogens als%} <ab>Bez.</ab> {%der Verse%} <ls>VS. 16,54</ls> — <ls n="VS. 16,">63</ls>. <ls>ŚAT. BR. 9,1,1,21.</ls> <ls n="ŚAT. BR. 9,1,1,">27</ls>.
+;---------------------------------------------------
+; <L>18492<pc>1-226-a<k1>utsarga<k2>utsarga/
+71314 old <div n="1">— 11〉 <ab>Bez.</ab> {%der Sprüche%} <ls>VS. 13,47-51</ls>.
+;
+71314 new <div n="1">— 11〉 <ab>Bez.</ab> {%der Sprüche%} <ls>VS. 13,47</ls> — <ls n="VS. 13,">51</ls>.
+;---------------------------------------------------
+; <L>39165<pc>2-215-b<k1>camakasUkta<k2>camakasUkta
+158230 old {#camakasUkta#}¦ <lex>n.</lex> <ab>Bez.</ab> {%der Sprüche%} <ls>VS. 18,1—27</ls>.
+;
+158230 new {#camakasUkta#}¦ <lex>n.</lex> <ab>Bez.</ab> {%der Sprüche%} <ls>VS. 18,1</ls> — <ls n="VS. 18,">27</ls>.
+;---------------------------------------------------
+; <L>90410<pc>5-131-c<k1>yava<k2>ya/va<h>1
+374083 old <div n="1">— 1〉 {%Getraide,%} in ältester Zeit vermuthlich {%mehlgebende Körnerfrucht%} <ab>überh.</ab>; in der Folge {%Gerste,%} <ab>Pl.</ab> {%Gerstenkörner%}. Zum Spruch {#yavo 'si#} (<ls>YĀJÑ. 1,230</ls>) und {#yavo 'si DanyarAjo 'si#} (<ls>MIT. 1,35,a,16</ls>) <ab>vgl.</ab> <ls>VS. 5,26,d. 6,1,d.</ls> (= <ls>GOBH. ŚRĀDDHAK. 2,9</ls>) und <ls>VIṢṆUS. 48,17</ls> (= <ls>BAUDH. 3,6,5</ls>. <ls>ĀŚV. GṚHY. PARIŚ. 2,14</ls>).
+;
+374083 new <div n="1">— 1〉 {%Getraide,%} in ältester Zeit vermuthlich {%mehlgebende Körnerfrucht%} <ab>überh.</ab>; in der Folge {%Gerste,%} <ab>Pl.</ab> {%Gerstenkörner%}. Zum Spruch {#yavo 'si#} (<ls>YĀJÑ. 1,230</ls>) und {#yavo 'si DanyarAjo 'si#} (<ls>MIT. 1,35,a,16</ls>) <ab>vgl.</ab> <ls>VS. 5,26</ls>,d. <ls n="VS.">6,1</ls>,d. (= <ls>GOBH. ŚRĀDDHAK. 2,9</ls>) und <ls>VIṢṆUS. 48,17</ls> (= <ls>BAUDH. 3,6,5</ls>. <ls>ĀŚV. GṚHY. PARIŚ. 2,14</ls>).
+;---------------------------------------------------
+; <L>91512<pc>5-153-a<k1>yoni<k2>yo/ni
+379252 old <div n="1">— 8〉 <ab>Bez.</ab> {%des Spruches%} {#eza/ te#} {#yo/niH#} (<ls>VS. 7,12,c. 23,2,b</ls>) <ls>KĀTY. ŚR. 19,2,14</ls>.
+;
+379252 new <div n="1">— 8〉 <ab>Bez.</ab> {%des Spruches%} {#eza/ te#} {#yo/niH#} (<ls>VS. 7,12</ls>,c. <ls n="VS.">23,2</ls>,b) <ls>KĀTY. ŚR. 19,2,14</ls>.
+;---------------------------------------------------
+; <L>91528<pc>5-153-b<k1>yonimantra<k2>yonimantra
+379312 old {#yonimantra#}¦ <lex>m.</lex> {%der Spruch%} <ls>VS. 8. 29</ls> <ls>HEMĀDRI 1,628,22. 629,5</ls>.
+;
+379312 new {#yonimantra#}¦ <lex>m.</lex> {%der Spruch%} <ls>VS. 8,29</ls> <ls>HEMĀDRI 1,628,22. 629,5</ls>.
+;---------------------------------------------------
+; <L>113282<pc>6-246-c<k1>Sukriya<k2>Su/kriya
+473386 old <div n="2">— c〉 <ab>Bez.</ab> {%des%} <is>Pravargya</is>-{%Abschnittes%} <ls>VS. 36-40</ls>. {#SukriyakARqa#} <ls>WEBER, Lit. 115</ls>.
+;
+473386 new <div n="2">— c〉 <ab>Bez.</ab> {%des%} <is>Pravargya</is>-{%Abschnittes%} <ls>VS. 36</ls> — <ls n="VS.">40</ls>. {#SukriyakARqa#} <ls>WEBER, Lit. 115</ls>.
+;---------------------------------------------------
+; <L>119709<pc>7-051-c<k1>sabva<k2>sabva^
+500015 old {#sabva^#}¦ <lex>Adj.</lex> {#sabva^m#} <ls>VS. 10,84</ls>. Nach <ls>MAHĪDH.</ls> <lex>n.</lex> = {#pakkASayagatamannam#}. Es ist wohl {#sabU/#} <lex>f.</lex> anzunehmen, etwa in der <ab>Bed.</ab> von {%Speisebrei%}. {#sabu/vam#} <ls>TBR.</ls>
+;
+500015 new {#sabva^#}¦ <lex>Adj.</lex> {#sabva^m#} <ls>VS. 19,84</ls>. Nach <ls>MAHĪDH.</ls> <lex>n.</lex> = {#pakkASayagatamannam#}. Es ist wohl {#sabU/#} <lex>f.</lex> anzunehmen, etwa in der <ab>Bed.</ab> von {%Speisebrei%}. {#sabu/vam#} <ls>TBR.</ls>
+;---------------------------------------------------

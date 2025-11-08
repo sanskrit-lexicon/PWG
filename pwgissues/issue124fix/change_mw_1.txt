@@ -1,0 +1,25 @@
+; <L>82582<pc>436,3<k1>tandr<k2>tandr<e>2
+278057 old <s>tandr</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>°drati</s>, = √ <s>sad</s>, <ls>VS. xv., 5</ls>; <ls>Mahīdh.</ls>;
+;
+278057 new <s>tandr</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>°drati</s>, = √ <s>sad</s>, <ls>VS. xv, 5</ls>; <ls>Mahīdh.</ls>;
+;---------------------------------------------------
+; <L>84753<pc>446,1<k1>tij<k2>tij<e>1
+285051 old <div n="to"/>to sharpen, <ls n="VS.">x, 138, 5</ls> :
+;
+285051 new <div n="to"/>to sharpen, <ls n="RV.">x, 138, 5</ls> :
+;---------------------------------------------------
+; <L>91592<pc>475,2<k1>dAtyOha<k2>dAtyOha/<e>3
+307752 old <s>dA°tyOha/</s> ¦ <lex>m.</lex> a gallinule, <ls>VS. xxiv, 25, 39</ls>; <ls>MaitrS. iii, 14, 6</ls> (<ab>accord.</ab> to <ls>Pāṇ. vii, 3, 1</ls> <ab>fr.</ab> <s>ditya-vah</s>). <info lex="m"/>
+;
+307752 new <s>dA°tyOha/</s> ¦ <lex>m.</lex> a gallinule, <ls>VS. xxiv, 25</ls>; <ls n="VS. xxiv,">39</ls>; <ls>MaitrS. iii, 14, 6</ls> (<ab>accord.</ab> to <ls>Pāṇ. vii, 3, 1</ls> <ab>fr.</ab> <s>ditya-vah</s>). <info lex="m"/>
+;---------------------------------------------------
+; <L>151108<pc>758,2<k1>BImala<k2>BImala/<e>2
+506033 old <s>BImala/</s> ¦ <lex>mfn.</lex> fearful, dreadful, <ls>VS. 30, 6.</ls><info lex="m:f:n"/>
+;
+506033 new <s>BImala/</s> ¦ <lex>mfn.</lex> fearful, dreadful, <ls>VS. xxx, 6.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>219021<pc>1080,2<k1>Sukriya<k2>Su/kriya<e>2B
+727210 old ¦ <ab>N.</ab> of the <s1>Pravargya</s1> section or <ls>VS. 36</ls>-<ls n="VS.">40</ls> (also <s>-kARqa</s>), <ls>Yājñ.</ls>; <ls>Caraṇ.</ls><info lex="inh"/>
+;
+727210 new ¦ <ab>N.</ab> of the <s1>Pravargya</s1> section or <ls>VS. xxxvi</ls> — <ls n="VS.">xxxx</ls> (also <s>-kARqa</s>), <ls>Yājñ.</ls>; <ls>Caraṇ.</ls><info lex="inh"/>
+;---------------------------------------------------
