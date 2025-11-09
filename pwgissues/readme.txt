@@ -39,12 +39,13 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue93fix/nala  ls split N. n,n
 * issue93fix/vid   ls split VID. N
 * issue93fix/dash  ls split DAŚ. N,N
-* issue93fix/fushv ls split VIŚV. N,N
+* issue93fix/vishv ls split VIŚV. N,N
 * issue94 PWG link target admin
 * issue95 00370	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
 * issue96 DAŚARATHA'S Tod target link
 * issue97 VID.	Geschichte des VIDŪṢAKA in BÖHTLINGK'S C
 * issue98 YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch link target
+* issue98fix YĀJÑAVALKYA ls split
 * issue100 RAGH. RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13)
 * issue100fix  RAGH. ls splitting
 * issue101 SĀH. D. SĀHITYADARPAṆA

@@ -1,0 +1,10 @@
+; <L>9627<pc>1-113-b<k1>arDatrayodaSa<k2>arDatrayodaSa
+36154 old {#arDatrayodaSa#}¦ <lex>Adj.</lex> <ab>Pl.</ab> (<lex>f.</lex> {#A#}) {%12 ¹⁄₂%} <ls>AIT. ĀR. 415,6</ls>. <ab>v. u.</ab> <ls>BHĀVAPR. 2,115</ls>. <ls>YĀJÑ. 2,165. 204</ls> ({#°daSAn#} <ab>v. l.</ab> besser). <ab>v. l.</ab> {#°daSan#}.
+;
+36154 new {#arDatrayodaSa#}¦ <lex>Adj.</lex> <ab>Pl.</ab> (<lex>f.</lex> {#A#}) {%12 ¹⁄₂%} <ls>AIT. ĀR. 415,6</ls>. <ab>v. u.</ab> <ls>BHĀVAPR. 2,115</ls>. <ls>YĀJÑ. 2,165.</ls> <ls n="YĀJÑ. 2,">204</ls> ({#°daSAn#} <ab>v. l.</ab> besser). <ab>v. l.</ab> {#°daSan#}.
+;---------------------------------------------------
+; <L>101815<pc>6-080-a<k1>vikruzwa<k2>vikruzwa
+425289 old <div n="1">— 1〉 {%Geschrei, Hülferuf%} <ls>M. 4,176</ls>. <ls>YĀJÑ. 2,234. 300</ls>. <ls>R. 3,30,29.</ls> <ls n="R. 3,">59,6.</ls> <ls n="R. 3,">64,7</ls>.
+;
+425289 new <div n="1">— 1〉 {%Geschrei, Hülferuf%} <ls>M. 4,176</ls>. <ls>YĀJÑ. 2,234.</ls> <ls n="YĀJÑ. 2,">300</ls>. <ls>R. 3,30,29.</ls> <ls n="R. 3,">59,6.</ls> <ls n="R. 3,">64,7</ls>.
+;---------------------------------------------------
