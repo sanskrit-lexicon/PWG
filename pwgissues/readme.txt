@@ -104,6 +104,7 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue159 AITAREYABRĀHMAṆA Haug ed. link target
 * issue159 auf AITAREYABRĀHMAṆA Aufrecht ed. link target
 * issue160 split combined multiple links to separate links
+* issue161 clearer images for pwg
 * issue167 NIRUKTA
 * issue168 PANCHATANTRA KOSEGARTEN ed. orn.
 * issue169 RĀJATARAṄGIṆĪ ed. Calc.
