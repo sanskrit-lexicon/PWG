@@ -245,3 +245,5 @@ git push
 
 ---------------------------
 THE END
+--------------------------
+see replacements/readme.txt for 55 page replacements of volume 6 images.
