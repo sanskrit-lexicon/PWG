@@ -1,0 +1,1297 @@
+; case 001 adas ---
+; <L>1694<pc>1-0123<k1>adas<k2>ada/s<h>1
+14154 old <ls>ŚAT. BR. 3,2,1,18.</ls> <ls n="ŚAT. BR.">6,4,1,19.</ls> {#ayamagniH#} ist {%das Feuer auf Erden%}, {#asAvagniH#} {%das in der Luft und im Himmel%}
+; (01)  <ls n="ŚAT. BR.">6,4,1,19.</ls>
+;       6,4,1,19
+;       6,3,1,19 (print error)
+14154 new <ls>ŚAT. BR. 3,2,1,18.</ls> <ls n="ŚAT. BR.">6,3,1,19.</ls> {#ayamagniH#} ist {%das Feuer auf Erden%}, {#asAvagniH#} {%das in der Luft und im Himmel%}
+; pc: 1694 : adas : (ŚAT. BR.)6,4,1,19. : (ŚAT. BR.)6,3,1,19. : p
+;
+; case 002 aDidevatam ---
+; <L>1967<pc>1-0149<k1>aDidevatam<k2>aDidevata/m
+16638 old <ls>ŚAT. BR. 6,5,3,3.</ls> <ls n="ŚAT. BR. 6,">6,1,8.</ls> <ls n="ŚAT. BR. 6,">7,1,19.</ls> <ls n="ŚAT. BR.">13,6,1,7.</ls> <ls n="ŚAT. BR. 13,6,1,">10.</ls> <ls n="ŚAT. BR.">14,6,1,12.</ls> <ls n="ŚAT. BR. 14,6,">7,76.</ls>
+; (01)  <ls n="ŚAT. BR. 14,6,">7,76.</ls>
+;       14,6,7,76
+;       14,6,7,16 (print error)
+16638 new <ls>ŚAT. BR. 6,5,3,3.</ls> <ls n="ŚAT. BR. 6,">6,1,8.</ls> <ls n="ŚAT. BR. 6,">7,1,19.</ls> <ls n="ŚAT. BR.">13,6,1,7.</ls> <ls n="ŚAT. BR. 13,6,1,">10.</ls> <ls n="ŚAT. BR.">14,6,1,12.</ls> <ls n="ŚAT. BR. 14,6,">7,16.</ls>
+; pc: 1967 : aDidevatam : (ŚAT. BR. 14,6,)7,76. : (ŚAT. BR. 14,6,)7,16. : p
+;
+; case 003 aDipati ---
+; <L>1976<pc>1-0149<k1>aDipati<k2>a/Dipati
+16708 old <ls n="ŚAT. BR. 14,">5,5,15.</ls> (= <ls>BṚH. ĀR. UP. 2,5,15.</ls>) <ls n="ŚAT. BR. 14,">7,1,32.</ls> (= <ls>BṚH. ĀR. UP. 4,3,33.</ls>) <ls n="ŚAT. BR. 14,7,">2,34.</ls> (= <ls>BṚH. ĀR. UP. 4,4,4.</ls>) <ls n="ŚAT. BR.">13,4,1,14.</ls> {#vidarBarAjADipatiH#} (<ab>d. i.</ab> {#vidarBarAjA aDipatiH#})
+; (01)  <ls n="ŚAT. BR. 14,7,">2,34.</ls>
+;       14,7,2,34
+;       14,7,2,24 (print error)
+16708 new <ls n="ŚAT. BR. 14,">5,5,15.</ls> (= <ls>BṚH. ĀR. UP. 2,5,15.</ls>) <ls n="ŚAT. BR. 14,">7,1,32.</ls> (= <ls>BṚH. ĀR. UP. 4,3,33.</ls>) <ls n="ŚAT. BR. 14,7,">2,24.</ls> (= <ls>BṚH. ĀR. UP. 4,4,4.</ls>) <ls n="ŚAT. BR.">13,4,1,14.</ls> {#vidarBarAjADipatiH#} (<ab>d. i.</ab> {#vidarBarAjA aDipatiH#})
+; pc: 1976 : aDipati : (ŚAT. BR. 14,7,)2,34. : (ŚAT. BR. 14,7,)2,24. : p
+;
+; case 004 anirukta ---
+; <L>2645<pc>1-0192<k1>anirukta<k2>anirukta
+21665 old <ls n="ŚAT. BR.">3,8,2,6.</ls> <ls n="ŚAT. BR.">14,3,2,75.</ls>
+; (01)  <ls n="ŚAT. BR.">14,3,2,75.</ls>
+;       14,3,2,75
+;       14,3,2,15 (print error)
+21665 new <ls n="ŚAT. BR.">3,8,2,6.</ls> <ls n="ŚAT. BR.">14,3,2,15.</ls>
+; pc: 2645 : anirukta : (ŚAT. BR.)14,3,2,75. : (ŚAT. BR.)14,3,2,15. : p
+;
+; case 005 anudita ---
+; <L>2801<pc>1-0205<k1>anudita<k2>a/nudita<h>2
+23159 old <ls>ŚAT. BR. 2,1,4,8.</ls> <ls n="ŚAT. BR. 2,">3,7,2.</ls> <ls n="ŚAT. BR.">4,1,2,11.</ls> <ls n="ŚAT. BR.">13,2,1,7.</ls>
+; (01)  <ls n="ŚAT. BR. 2,">3,7,2.</ls>
+;       2,3,7,2
+;       2,3,1,2 (print error)
+23159 new <ls>ŚAT. BR. 2,1,4,8.</ls> <ls n="ŚAT. BR. 2,">3,1,2.</ls> <ls n="ŚAT. BR.">4,1,2,11.</ls> <ls n="ŚAT. BR.">13,2,1,7.</ls>
+; pc: 2801 : anudita : (ŚAT. BR. 2,)3,7,2. : (ŚAT. BR. 2,)3,1,2. : p
+;
+; case 006 anDa ---
+; <L>3453<pc>1-0256<k1>anDa<k2>anDa/
+28745 old <ls>ṚV. 8,68,2.</ls> <ls n="ṚV.">1,112,8.</ls> <ls n="ṚV.">4,4,13.</ls> <ls n="ṚV.">10,25,11.</ls> u.s.w. <ls>ŚAT. BR. 1,4,3,17.</ls> <ls n="ŚAT. BR.">19,9,2,9.</ls> (= <ls>BṚH. ĀR. UP. 6,1,9.</ls>) <ls>M. 3,141.</ls> <ls n="M. 3,">161.</ls> <ls n="M. 3,">177.</ls> <ls n="M.">7,149.</ls> <ls n="M.">8,93.</ls> <ls n="M. 8,">95.</ls> <ls n="M. 8,">394.</ls> <ls n="M.">9,201.</ls> <ls n="M.">11,52.</ls> <ls>DAŚ. 1,37.</ls> <ls n="DAŚ.">2,34.</ls> <ls>ŚĀK. 183.</ls> {#kroDAnDalocana#}
+; (01)  <ls n="ŚAT. BR.">19,9,2,9.</ls>
+;       19,9,2,9
+;       14,9,2,9 (print error)
+28745 new <ls>ṚV. 8,68,2.</ls> <ls n="ṚV.">1,112,8.</ls> <ls n="ṚV.">4,4,13.</ls> <ls n="ṚV.">10,25,11.</ls> u.s.w. <ls>ŚAT. BR. 1,4,3,17.</ls> <ls n="ŚAT. BR.">14,9,2,9.</ls> (= <ls>BṚH. ĀR. UP. 6,1,9.</ls>) <ls>M. 3,141.</ls> <ls n="M. 3,">161.</ls> <ls n="M. 3,">177.</ls> <ls n="M.">7,149.</ls> <ls n="M.">8,93.</ls> <ls n="M. 8,">95.</ls> <ls n="M. 8,">394.</ls> <ls n="M.">9,201.</ls> <ls n="M.">11,52.</ls> <ls>DAŚ. 1,37.</ls> <ls n="DAŚ.">2,34.</ls> <ls>ŚĀK. 183.</ls> {#kroDAnDalocana#}
+; pc: 3453 : anDa : (ŚAT. BR.)19,9,2,9. : (ŚAT. BR.)14,9,2,9. : p
+;
+; case 007 annapeya ---  Jim annapeya does not occur at 5,1,5,24 ???
+; <L>3503<pc>1-0260<k1>annapeya<k2>annape/ya
+29167 old <ls>ŚAT. BR. 5,1,3,3.</ls> <ls n="ŚAT. BR. 5,1,">4,12.</ls> <ls n="ŚAT. BR. 5,1,4,">25.</ls> u. s. w. zur Erklärung von {#vAjapeya#} .
+; (01)  <ls n="ŚAT. BR. 5,1,4,">25.</ls>
+;       5,1,4,25
+;       5,1,5,24 (print error)
+;  Jim annapeya does not occur at 5,1,5,24 or at 5,1,4,12
+29167 new <ls>ŚAT. BR. 5,1,3,3.</ls> <ls n="ŚAT. BR. 5,1,">4,12.</ls> <ls n="ŚAT. BR. 5,1,5,">24.</ls> u. s. w. zur Erklärung von {#vAjapeya#} .
+; scan: ŚAT. BR. 5,1,3,3. 4,12. 25.
+; pc: 3503 : annapeya : (ŚAT. BR. 5,1,4,)25. : (ŚAT. BR. 5,1,5,)24. : ?? p
+;
+; case 008 apabarhis ---
+; <L>3801<pc>1-0284<k1>apabarhis<k2>a/pabarhis
+31648 old <ls>ŚAT. BR. 3,6,1,23.</ls> {#so 'pabarhizO dvAvanuyAjO yajati#}
+31648 new <ls>ŚAT. BR. 2,6,1,23.</ls> {#so 'pabarhizO dvAvanuyAjO yajati#}
+;
+31649 old <ls n="ŚAT. BR. 3,6,1,">44.</ls> <ls n="ŚAT. BR.">4,4,5,14.</ls> <ls n="ŚAT. BR. 4,4,5,">19.</ls> <ls>KĀTY. ŚR. 5,8,37.</ls>
+; (01)  <ls n="ŚAT. BR. 3,6,1,">44.</ls>
+;       3,6,1,44
+;       2,6,1,44 (print error); so also the prev. one 2,6,1,23
+31649 new <ls n="ŚAT. BR. 2,6,1,">44.</ls> <ls n="ŚAT. BR.">4,4,5,14.</ls> <ls n="ŚAT. BR. 4,4,5,">19.</ls> <ls>KĀTY. ŚR. 5,8,37.</ls>
+; pc: 3801 : apabarhis : ŚAT. BR. 3,6,1,23. : ŚAT. BR. 2,6,1,23. : p
+;
+; case 009 aBijit ---
+; <L>4526<pc>1-0333<k1>aBijit<k2>aBiji/t
+37281 old <ls>ŚAT. BR. 13,5,4,4.</ls> <ls n="ŚAT. BR.">12,1,2,2.</ls> <ls n="ŚAT. BR. 12,1,2,">12.</ls> <ls n="ŚAT. BR. 12,1,">4,2.</ls> <ls n="ŚAT. BR. 12,">2,1,3.</ls> <ls n="ŚAT. BR. 12,2,">2,21.</ls> <ls n="ŚAT. BR. 12,2,">3,2.</ls> <ls n="ŚAT. BR. 12,2,3,">10.</ls> <ls n="ŚAT. BR. 12,2,3,">11.</ls> <ls n="ŚAT. BR. 12,2,">4,15.</ls> <ls n="ŚAT. BR. 12,">3,1,4.</ls> <ls n="ŚAT. BR. 12,3,1,">8.</ls>
+; (01)  <ls n="ŚAT. BR. 12,1,2,">12.</ls>
+;       12,1,2,12
+;       12,1,3,12 (print error 12 for 3,12)
+37281 new <ls>ŚAT. BR. 13,5,4,4.</ls> <ls n="ŚAT. BR.">12,1,2,2.</ls> <ls n="ŚAT. BR. 12,1,">3,12.</ls> <ls n="ŚAT. BR. 12,1,">4,2.</ls> <ls n="ŚAT. BR. 12,">2,1,3.</ls> <ls n="ŚAT. BR. 12,2,">2,21.</ls> <ls n="ŚAT. BR. 12,2,">3,2.</ls> <ls n="ŚAT. BR. 12,2,3,">10.</ls> <ls n="ŚAT. BR. 12,2,3,">11.</ls> <ls n="ŚAT. BR. 12,2,">4,15.</ls> <ls n="ŚAT. BR. 12,">3,1,4.</ls> <ls n="ŚAT. BR. 12,3,1,">8.</ls>
+; pc: 4526 : aBijit : (ŚAT. BR. 12,1,2,)12. : (ŚAT. BR. 12,1,)3,12. : p
+;
+; case 010 aBiplava ---
+; <L>4611<pc>1-0340<k1>aBiplava<k2>aBiplava
+38030 old <ls>ŚAT. BR. 12,2,2,10.</ls> <ls n="ŚAT. BR. 12,">1,2,2.</ls> <ls n="ŚAT. BR. 12,1,2,">10.</ls> <ls n="ŚAT. BR. 12,1,">4,1.</ls> <ls n="ŚAT. BR. 12,">2,1,2.</ls> <ls n="ŚAT. BR. 12,2,">2,1.</ls> <ls n="ŚAT. BR. 12,2,2,">10.</ls> <ls n="ŚAT. BR. 12,2,2,">12.</ls> <ls n="ŚAT. BR. 12,2,">3,2</ls>-<ls n="ŚAT. BR. 12,2,3,">11.</ls> <ls n="ŚAT. BR. 12,2,">4,2.</ls> <ls n="ŚAT. BR. 12,2,4,">7.</ls> <ls n="ŚAT. BR. 12,2,4,">8.</ls> <ls n="ŚAT. BR. 12,">3,1,3.</ls> <ls n="ŚAT. BR. 12,3,1,">7.</ls> {#pariyadvA etaddevacakraM yadaBiplavaH zaLahaH#}
+; (01)  <ls n="ŚAT. BR. 12,1,2,">10.</ls>
+;       12,1,2,10
+;       12,1,3,10 (print error)
+38030 new <ls>ŚAT. BR. 12,2,2,10.</ls> <ls n="ŚAT. BR. 12,">1,2,2.</ls> <ls n="ŚAT. BR. 12,1,3,">10.</ls> <ls n="ŚAT. BR. 12,1,">4,1.</ls> <ls n="ŚAT. BR. 12,">2,1,2.</ls> <ls n="ŚAT. BR. 12,2,">2,1.</ls> <ls n="ŚAT. BR. 12,2,2,">10.</ls> <ls n="ŚAT. BR. 12,2,2,">12.</ls> <ls n="ŚAT. BR. 12,2,">3,2</ls>-<ls n="ŚAT. BR. 12,2,3,">11.</ls> <ls n="ŚAT. BR. 12,2,">4,2.</ls> <ls n="ŚAT. BR. 12,2,4,">7.</ls> <ls n="ŚAT. BR. 12,2,4,">8.</ls> <ls n="ŚAT. BR. 12,">3,1,3.</ls> <ls n="ŚAT. BR. 12,3,1,">7.</ls> {#pariyadvA etaddevacakraM yadaBiplavaH zaLahaH#}
+; pc: 4611 : aBiplava : (ŚAT. BR. 12,1,2,)10. : (ŚAT. BR. 12,1,3,)10. : p
+;
+; case 011 aBva ---
+; <L>5032<pc>1-0366<k1>aBva<k2>a/Bva
+41301 old <ls n="ŚAT. BR. 3,">4,17,5.</ls> <ls n="ŚAT. BR.">13,4,3,4.</ls>
+; (01)  <ls n="ŚAT. BR. 3,">4,17,5.</ls>
+;       3,4,17,5
+;       <ls n="AV.">4,17,5.</ls> (tag error)
+41301 new <ls n="AV.">4,17,5.</ls> <ls n="ŚAT. BR.">13,4,3,4.</ls>
+; pc: 5032 : aBva : (ŚAT. BR. 3,)4,17,5. : (AV.)4,17,5. : p
+;
+; case 012 amAvAsya ---
+; <L>5131<pc>1-0373<k1>amAvAsya<k2>amAvAsya^<h>1
+42160 old <ls n="AV.">15,2,2.</ls> <ls n="AV. 15,">16,3.</ls> <ls n="AV. 15,">17,9.</ls> <ls>ŚAT. BR. 1,6,3,35.</ls> <ls n="ŚAT. BR. 1,6,">4,5.</ls> <ls n="ŚAT. BR. 1,6,">8,32.</ls> <ls n="ŚAT. BR.">2,4,4,6.</ls> u.s.w. <ls n="ŚAT. BR.">14,4,3,22.</ls> = <ls>BṚH. ĀR. UP. 1,5,14.</ls> <ls>AIT. BR. 7,11.</ls> <ls>CHĀND. UP. 5,2,4.</ls> <ls>ĀŚV. ŚR. 12,6.</ls> <ls>KĀTY. ŚR. 3,3,25.</ls> u.s.w. <ls>NIR. 11,31.</ls> <ls>P. 4,3,30.</ls> <ls>M. 4,113.</ls> <ls n="M. 4,">114.</ls> <ls n="M. 4,">128.</ls> <ls>YĀJÑ. 1,217.</ls> <ls>PAÑCAT. 169,8.</ls>
+; (01)  <ls n="ŚAT. BR. 1,6,">8,32.</ls>
+;       1,6,8,32
+;       8,3,3. (print error); i.e. 1,8,3,3.
+42160 new <ls n="AV.">15,2,2.</ls> <ls n="AV. 15,">16,3.</ls> <ls n="AV. 15,">17,9.</ls> <ls>ŚAT. BR. 1,6,3,35.</ls> <ls n="ŚAT. BR. 1,6,">4,5.</ls> <ls n="ŚAT. BR. 1,8,">3,3.</ls> <ls n="ŚAT. BR.">2,4,4,6.</ls> u.s.w. <ls n="ŚAT. BR.">14,4,3,22.</ls> = <ls>BṚH. ĀR. UP. 1,5,14.</ls> <ls>AIT. BR. 7,11.</ls> <ls>CHĀND. UP. 5,2,4.</ls> <ls>ĀŚV. ŚR. 12,6.</ls> <ls>KĀTY. ŚR. 3,3,25.</ls> u.s.w. <ls>NIR. 11,31.</ls> <ls>P. 4,3,30.</ls> <ls>M. 4,113.</ls> <ls n="M. 4,">114.</ls> <ls n="M. 4,">128.</ls> <ls>YĀJÑ. 1,217.</ls> <ls>PAÑCAT. 169,8.</ls>
+; pc: 5131 : amAvAsya : (ŚAT. BR. 1,6,)8,32. : (ŚAT. BR. 1,)8,3,3. : p
+;
+; case 013 amutas ---
+; <L>5182<pc>1-0376<k1>amutas<k2>amu/tas
+42508 old <ls n="ŚAT. BR.">4,3,1,16.</ls> <ls n="ŚAT. BR.">6,7,3,5.</ls> <ls n="ŚAT. BR.">7,4,2,22.</ls> <ls n="ŚAT. BR.">8,3,4,7.</ls> <ls n="ŚAT. BR. 8,3,">7,1.</ls> <ls n="ŚAT. BR. 8,3,7,">13.</ls> u. s. w. {#ita imamA daDAtyamuto 'muzya raSmayaH prAdurBavanti#}
+; (01)  <ls n="ŚAT. BR. 8,3,7,">13.</ls>
+;       8,3,7,13
+;       8,7,1,13 (print error); merge with the prev. one
+; (02)  <ls n="ŚAT. BR. 8,3,">7,1.</ls>
+;       8,3,7,1
+;       8,7,1,13 (print error); merge with the next one
+42508 new <ls n="ŚAT. BR.">4,3,1,16.</ls> <ls n="ŚAT. BR.">6,7,3,5.</ls> <ls n="ŚAT. BR.">7,4,2,22.</ls> <ls n="ŚAT. BR.">8,3,4,7.</ls> <ls n="ŚAT. BR. 8,">7,1,13.</ls> u. s. w. {#ita imamA daDAtyamuto 'muzya raSmayaH prAdurBavanti#}
+; pc: 5182 : amutas : (ŚAT. BR. 8,)7,1. 13. : (ŚAT. BR. 8)7,1,13 : p
+;
+; case 014 amfta ---
+; <L>5200<pc>1-0378<k1>amfta<k2>amf/ta
+42739 old <ls>ŚAT. BR. 7,3,1,46.</ls> u.s.w. <ls n="ŚAT. BR.">14,9,1,30</ls> (= <ls>BṚH. ĀR. UP. 1,3,28</ls>). <ls>ĪŚOP. 11.</ls> {#prajAtiramftamAnanda ityupasTe#}
+; (01)  <ls n="ŚAT. BR.">14,9,1,30</ls>
+;       14,9,1,30
+;       14,4,1,30 (print error)
+42739 new <ls>ŚAT. BR. 7,3,1,46.</ls> u.s.w. <ls n="ŚAT. BR.">14,4,1,30</ls> (= <ls>BṚH. ĀR. UP. 1,3,28</ls>). <ls>ĪŚOP. 11.</ls> {#prajAtiramftamAnanda ityupasTe#}
+; pc: 5200 : amfta : (ŚAT. BR.)14,9,1,30 : (ŚAT. BR.)14,4,1,30 : p
+;
+; case 015 amftezwakA ---
+; <L>5249<pc>1-0382<k1>amftezwakA<k2>amftezwakA/
+43108 old <ls>ŚAT. BR. 6,2,1,38.</ls> <ls n="ŚAT. BR.">11,1,2,43.</ls>
+; (01)  <ls n="ŚAT. BR.">11,1,2,43.</ls>
+;       11,1,2,43
+;       9,1,2,43 (print error)
+43108 new <ls>ŚAT. BR. 6,2,1,38.</ls> <ls n="ŚAT. BR.">9,1,2,43.</ls>
+; pc: 5249 : amftezwakA : (ŚAT. BR.)11,1,2,43. : (ŚAT. BR.)9,1,2,43. : p
+;
+; case 016 ayana ---  AB to check
+; <L>5431<pc>1-0392<k1>ayana<k2>a/yana
+44589 old <ls>ŚAT. BR. 2,2,1,22.</ls> <ls n="ŚAT. BR. 2,2,1,">23.</ls> <ls n="ŚAT. BR. 2,">5,3,10.</ls> <ls n="ŚAT. BR.">4,6,8,7.</ls> <ls n="ŚAT. BR. 4,6,8,">8.</ls> <ls n="ŚAT. BR. 4,6,8,">12.</ls> <ls n="ŚAT. BR. 4,6,8,">13.</ls> <ls n="ŚAT. BR.">5,3,10,11.</ls> <ls n="ŚAT. BR.">11,1,7,3.</ls> {#samena ha vA asyAyanenetaM Batati ya evametadveda#}
+; (01)  <ls n="ŚAT. BR. 2,2,1,">23.</ls>
+;       2,2,1,23
+;       print error;
+;         <ls>ŚAT. BR. 2,2,1,22.</ls> <ls n="ŚAT. BR. 2,2,1,">23.</ls> <ls n="ŚAT. BR. 2,">5,3,10.</ls> 
+;   -->   <ls>ŚAT. BR. 2,1,4,25.</ls> <ls n="ŚAT. BR. 2,">5,3,10.</ls>
+; Jim: prev. line ends '{#etannvekamayanam .. aTedaM dvitIyam#}'
+;      2,1,4,25 is similar but but doesn't have 'ayanam' !
+44589 new <ls>ŚAT. BR. 2,1,4,25.</ls> <ls n="ŚAT. BR. 2,">5,3,10.</ls> <ls n="ŚAT. BR.">4,6,8,7.</ls> <ls n="ŚAT. BR. 4,6,8,">8.</ls> <ls n="ŚAT. BR. 4,6,8,">12.</ls> <ls n="ŚAT. BR. 4,6,8,">13.</ls> <ls n="ŚAT. BR.">5,3,10,11.</ls> <ls n="ŚAT. BR.">11,1,7,3.</ls> {#samena ha vA asyAyanenetaM Batati ya evametadveda#}
+; scan   ŚAT. BR. 2,2,1,22.   23.   5,3,10.   4,6,8,7.   8. 12. 13.   5,3,10,11. 11,1,7,3
+; pc: 5431 : ayana : ŚAT. BR. 2,2,1,22. 23. 5,3,10 : ŚAT. BR. 2,1,4,25.  5,3,10 : p
+;
+; case 017 ayasmaya ---
+; <L>5462<pc>1-0395<k1>ayasmaya<k2>ayasma/ya
+44789 old <ls n="ŚAT. BR.">13,3,5,5.</ls> <ls n="ŚAT. BR.">14,2,2,54.</ls> <ls>ŚĀṄKH. BR.</ls> in <ls>Ind. St. 2,310.</ls> <ls>KĀTY. ŚR. 20,8,2.</ls> <ls n="KĀTY. ŚR. 20,8,">11.</ls> <ls n="KĀTY. ŚR.">25,7,33.</ls> <ls>ARJ. 10,31.</ls>
+; (01)  <ls n="ŚAT. BR.">13,3,5,5.</ls>
+;       13,3,5,5
+;       13,3,4,5 (print error)
+44789 new <ls n="ŚAT. BR.">13,3,4,5.</ls> <ls n="ŚAT. BR.">14,2,2,54.</ls> <ls>ŚĀṄKH. BR.</ls> in <ls>Ind. St. 2,310.</ls> <ls>KĀTY. ŚR. 20,8,2.</ls> <ls n="KĀTY. ŚR. 20,8,">11.</ls> <ls n="KĀTY. ŚR.">25,7,33.</ls> <ls>ARJ. 10,31.</ls>
+; pc: 5462 : ayasmaya : (ŚAT. BR.)13,3,5,5. : (ŚAT. BR.)13,3,4,5. : p
+;
+; case 018 arDamAsa ---
+; <L>5981<pc>1-0444<k1>arDamAsa<k2>arDamAsa/
+50298 old <ls>ŚAT. BR. 1,3,5,8.</ls> <ls n="ŚAT. BR. 1,3,">4,19.</ls> u.s.w. <ls n="ŚAT. BR.">10,6,4,1</ls> (= <ls>BṚH. ĀR. UP. 1,1,1</ls>). <ls>M. 4,25.</ls> <ls>SUŚR. 2,134,7.</ls> {#arDamAsaSa/s#} adv. {%halbmonatlich%}
+; (01)  <ls n="ŚAT. BR. 1,3,">4,19.</ls>
+;       1,3,4,19
+;       4,1,9. (print error); i.e. 1,4,1,9.
+50298 new <ls>ŚAT. BR. 1,3,5,8.</ls> <ls n="ŚAT. BR. 1,">4,1,9.</ls> u.s.w. <ls n="ŚAT. BR.">10,6,4,1</ls> (= <ls>BṚH. ĀR. UP. 1,1,1</ls>). <ls>M. 4,25.</ls> <ls>SUŚR. 2,134,7.</ls> {#arDamAsaSa/s#} adv. {%halbmonatlich%}
+; pc: 5981 : arDamAsa : (ŚAT. BR. 1,3,)4,19. : (ŚAT. BR. 1,)4,1,9. : p
+;
+; case 019 avatAna ---  case solved in change_pwg_3a.txt
+; <L>6351<pc>1-0474<k1>avatAna<k2>avatAna
+;53795 old <ls>VS. 16,54</ls> — <ls n="VS. 16,">63.</ls> <ls>ŚAT. BR. 9,1,1,31.</ls> <ls n="ŚAT. BR. 9,1,1,">27.</ls>
+; WARNING: lsref not in koshaline
+; (01)  <ls n="ŚAT. BR. 11,1,1,">27.</ls>
+;       11,1,1,27
+;       9,1,1,27 (print error); also the prev. one (9,1,1,21)
+;53795 new <ls>VS. 16,54</ls> — <ls n="VS. 16,">63.</ls> <ls>ŚAT. BR. 9,1,1,31.</ls> <ls n="ŚAT. BR. 9,1,1,">27.</ls>
+; pc: 6351 : avatAna : (ŚAT. BR. 11,1,1,)27. : (ŚAT. BR. 9,1,1,)27. : x
+;
+; case 020 aS ---
+; <L>6879<pc>1-0508<k1>aS<k2>aS<h>2
+58056 old <ls>ŚAT. BR. 10,5,2,9.</ls> <ls n="ŚAT. BR.">2,4,2,4.</ls> <ls n="ŚAT. BR. 2,4,">3,22.</ls> <ls n="ŚAT. BR. 2,">6,1,40.</ls> <ls n="ŚAT. BR.">3,1,2,21.</ls> u.s.w. praes. <ls>BṚH. ĀR. UP. 3,8,8.</ls> <ls>M. 1,95.</ls> <ls n="M.">3,18.</ls> <ls n="M. 3,">237.</ls> <ls n="M.">4,249.</ls> <ls n="M.">5,15.</ls> <ls n="M.">8,95.</ls> <ls>R. 1,19,22.</ls> <ls>MBH. 1,711.</ls> <ls n="MBH.">2,232.</ls> <ls n="MBH. 2,">1733.</ls> <ls n="MBH.">3,12672.</ls> <ls n="MBH. 3,">13353.</ls> <ls>KATHĀS. 24,216.</ls> potent. <ls>M. 2,51.</ls> <ls n="M. 2,">189.</ls> <ls n="M.">3,106.</ls> <ls n="M.">5,73.</ls> u.s.w. <ls>MBH. 3,104.</ls> {#pAyasamaSnIyAt#}
+; (01)  <ls n="ŚAT. BR. 2,4,">3,22.</ls>
+;       2,4,3,22
+;       2,4,3,13 (print error) ; and so is the next one 2,6,1,48
+58056 new <ls>ŚAT. BR. 10,5,2,9.</ls> <ls n="ŚAT. BR.">2,4,2,4.</ls> <ls n="ŚAT. BR. 2,4,">3,13.</ls> <ls n="ŚAT. BR. 2,">6,1,48.</ls> <ls n="ŚAT. BR.">3,1,2,21.</ls> u.s.w. praes. <ls>BṚH. ĀR. UP. 3,8,8.</ls> <ls>M. 1,95.</ls> <ls n="M.">3,18.</ls> <ls n="M. 3,">237.</ls> <ls n="M.">4,249.</ls> <ls n="M.">5,15.</ls> <ls n="M.">8,95.</ls> <ls>R. 1,19,22.</ls> <ls>MBH. 1,711.</ls> <ls n="MBH.">2,232.</ls> <ls n="MBH. 2,">1733.</ls> <ls n="MBH.">3,12672.</ls> <ls n="MBH. 3,">13353.</ls> <ls>KATHĀS. 24,216.</ls> potent. <ls>M. 2,51.</ls> <ls n="M. 2,">189.</ls> <ls n="M.">3,106.</ls> <ls n="M.">5,73.</ls> u.s.w. <ls>MBH. 3,104.</ls> {#pAyasamaSnIyAt#}
+; pc: 6879 : aS : (ŚAT. BR. 2,4,)3,22. : (ŚAT. BR. 2,4,)3,13. : p
+; pc: 6879 : aS : (ŚAT. BR. 2,)6,1,40 : (ŚAT. BR. 2,)6,1,48. : p
+;
+; case 021 aSana --- ; aSana in 1,6,3,5. & 1,6,3,12  AB TO CHECK
+; <L>6884<pc>1-0510<k1>aSana<k2>a/Sana<h>2
+58216 old <ls>ŚAT. BR. 1,3,1,10.</ls> <ls n="ŚAT. BR. 1,3,1,">11.</ls> <ls n="ŚAT. BR.">6,3,2,5.</ls> <ls n="ŚAT. BR. 6,3,2,">12.</ls> <ls n="ŚAT. BR. 6,">7,2,5.</ls> u.s.w. <ls>BṚH. ĀR. UP. 1,4,16.</ls> <ls>NIR. 6,9.</ls> <ls>M. 2,54.</ls> <ls n="M. 2,">55.</ls> <ls n="M.">3,59.</ls> <ls n="M.">4,29.</ls> <ls>YĀJÑ. 1,82.</ls> <ls n="YĀJÑ.">3,16.</ls> <ls>R. 2,61,5.</ls> <ls>SUŚR. 1,241,10. 246,2. 3. 2,79,7.</ls> <ls>BHARTṚ. 3,55.</ls> <ls n="BHARTṚ. 3,">92.</ls> <ls>ŚĀNTIŚ. 2,20.</ls> <ls>PAÑCAT. 192,12.</ls> <ls>KATHĀS. 14,39.</ls> {#PalamUlEH kftASanAH#}
+; (01)  <ls n="ŚAT. BR. 6,3,2,">12.</ls>
+;       6,3,2,12
+;       6,3,5. 12. (print error) -->  1,6,3,5. & 1,6,3,12. & the next one is 7,1,1,25. (not 7,2,5.)
+58216 new <ls>ŚAT. BR. 1,3,1,10.</ls> <ls n="ŚAT. BR. 1,3,1,">11.</ls> <ls n="ŚAT. BR. 1,">6,3,5</ls> <ls n="ŚAT. BR. 1,6,3,">12.</ls> <ls n="ŚAT. BR.">7,1,1,25.</ls> u.s.w. <ls>BṚH. ĀR. UP. 1,4,16.</ls> <ls>NIR. 6,9.</ls> <ls>M. 2,54.</ls> <ls n="M. 2,">55.</ls> <ls n="M.">3,59.</ls> <ls n="M.">4,29.</ls> <ls>YĀJÑ. 1,82.</ls> <ls n="YĀJÑ.">3,16.</ls> <ls>R. 2,61,5.</ls> <ls>SUŚR. 1,241,10. 246,2. 3. 2,79,7.</ls> <ls>BHARTṚ. 3,55.</ls> <ls n="BHARTṚ. 3,">92.</ls> <ls>ŚĀNTIŚ. 2,20.</ls> <ls>PAÑCAT. 192,12.</ls> <ls>KATHĀS. 14,39.</ls> {#PalamUlEH kftASanAH#}
+; pc: 6884 : aSana : (ŚAT. BR.)6,3,2,5. 12. : (ŚAT. BR.)1,6,3,5. 12. : p
+; pc: 6884 : aSana : (ŚAT. BR.)7,2,5. : (ŚAT. BR.)7,1,1,25. : p
+;
+; case 022 aSAnta ---
+; <L>6906<pc>1-0512<k1>aSAnta<k2>a/SAnta
+58400 old <ls n="ŚAT. BR.">11,1,1,20.</ls> <ls n="ŚAT. BR.">12,5,1,15.</ls> Davon {#aSAntatA#} {%Mangel an Ruhe, Leidenschaftlichkeit%}: {#fzIRAmapi#}
+; (01)  <ls n="ŚAT. BR.">11,1,1,20.</ls>
+;       11,1,1,20
+;       9,1,1,20 (print error)
+58400 new <ls n="ŚAT. BR.">9,1,1,20.</ls> <ls n="ŚAT. BR.">12,5,1,15.</ls> Davon {#aSAntatA#} {%Mangel an Ruhe, Leidenschaftlichkeit%}: {#fzIRAmapi#}
+; pc: 6906 : aSAnta : (ŚAT. BR.)11,1,1,20. : (ŚAT. BR.)9,1,1,20. : p
+;
+; case 023 azwan ---
+; <L>7211<pc>1-0530<k1>azwan<k2>azwa/n
+60827 old <ls>ŚAT. BR. 1,6,2,5.</ls> <ls n="ŚAT. BR.">2,2,1,27.</ls> <ls n="ŚAT. BR. 2,">5,1,8.</ls> <ls n="ŚAT. BR. 2,5,">4,3.</ls>
+; (01)  <ls n="ŚAT. BR.">2,2,1,27.</ls>
+;       2,2,1,27
+;       2,2,1,17 (print error)
+60827 new <ls>ŚAT. BR. 1,6,2,5.</ls> <ls n="ŚAT. BR.">2,2,1,17.</ls> <ls n="ŚAT. BR. 2,">5,1,8.</ls> <ls n="ŚAT. BR. 2,5,">4,3.</ls>
+; pc: 7211 : azwan : (ŚAT. BR.)2,2,1,27. : (ŚAT. BR.)2,2,1,17. : p
+;
+; case 024 asaMKyAta ---
+; <L>7280<pc>1-0545<k1>asaMKyAta<k2>a/saMKyAta
+62046 old <ls>ŚAT. BR. 7,3,1,42.</ls> <ls n="ŚAT. BR. 7,">9,11,6.</ls> <ls n="ŚAT. BR. 7,9,11,">18.</ls>
+; (01)  <ls n="ŚAT. BR. 7,">9,11,6.</ls>
+;       7,9,11,6
+;       9,1,1,6 (print error)
+; (02)  <ls n="ŚAT. BR. 7,9,11,">18.</ls>
+;       7,9,11,18
+;       9,1,1,18 (print error)
+62046 new <ls>ŚAT. BR. 7,3,1,42.</ls> <ls n="ŚAT. BR.">9,1,1,6.</ls> <ls n="ŚAT. BR. 9,1,1,">18.</ls>
+; pc: 7280 : asaMKyAta : (ŚAT. BR. 7,)9,11,6. 18. : (ŚAT. BR.)9,1,1,6. 18. : p
+;
+; case 025 asapatna ---
+; <L>7320<pc>1-0548<k1>asapatna<k2>asapatna/<h>1
+62349 old <ls n="ŚAT. BR.">8,5,1,4.</ls> <ls n="ŚAT. BR.">0,2,5,13.</ls> <ls>KĀTY. ŚR. 17,4,1.</ls> <ls n="KĀTY. ŚR. 17,4,">6.</ls> <ls n="KĀTY. ŚR. 17,">7,15.</ls> {#gARapatyaM ca vindati . samfdDamasapatnaM ca SriyA yuktam#}
+; (01)  <ls n="ŚAT. BR.">0,2,5,13.</ls>
+;       0,2,5,13
+;       10,2,5,13 (typo)
+62349 new <ls n="ŚAT. BR.">8,5,1,4.</ls> <ls n="ŚAT. BR.">10,2,5,13.</ls> <ls>KĀTY. ŚR. 17,4,1.</ls> <ls n="KĀTY. ŚR. 17,4,">6.</ls> <ls n="KĀTY. ŚR. 17,">7,15.</ls> {#gARapatyaM ca vindati . samfdDamasapatnaM ca SriyA yuktam#}
+; pc: 7320 : asapatna : (ŚAT. BR.)0,2,5,13. : (ŚAT. BR.)0,2,5,13. : t
+;
+; case 026 ah ---
+; <L>7607<pc>1-0567<k1>ah<k2>ah<h>2
+64642 old <ls>ŚAT. BR. 1,5,3,8.</ls> <ls n="ŚAT. BR. 1,5,3,">9.</ls> <ls n="ŚAT. BR. 1,5,">2,33.</ls> <ls n="ŚAT. BR.">4,2,2,12.</ls> {#antatastadagnerASizo nirAha#}
+; (01)  <ls n="ŚAT. BR. 1,5,">2,33.</ls>
+;       1,5,2,33
+;       9,2,33.  (print error); merge with the prev. one, to make 1,9,2,33.
+64642 new <ls>ŚAT. BR. 1,5,3,8.</ls> <ls n="ŚAT. BR. 1,">9,2,33.</ls>  <ls n="ŚAT. BR.">4,2,2,12.</ls> {#antatastadagnerASizo nirAha#}
+; pc: 7607 : ah : (ŚAT. BR. 1,5,)2,33. : (ŚAT. BR. 1,)9,2,33. : p
+;
+; case 027 ahorAtra ---
+; <L>7747<pc>1-0578<k1>ahorAtra<k2>ahorAtra/
+65880 old <ls n="ŚAT. BR. 1,">13,3,8.</ls> <ls>N. 12,64.</ls> <ls>R. 1,12,32.</ls> {#ahorAtreByaH#}
+; (01)  <ls n="ŚAT. BR. 1,">13,3,8.</ls>
+;       1,13,3,8
+;       <ls>AV. 13,3,8.</ls> (typo)
+65880 new <ls>AV. 13,3,8.</ls> <ls>N. 12,64.</ls> <ls>R. 1,12,32.</ls> {#ahorAtreByaH#}
+; pc: 7747 : ahorAtra : (ŚAT. BR. 1,)13,3,8. : (ŚAT. BR. 1,)13,3,8. : t
+;
+; case 028 AkASa ---
+; <L>7809<pc>1-0586<k1>AkASa<k2>AkASa/
+66579 old <ls n="ŚAT. BR.">14,3,5,6</ls> (= <ls>BṚH. ĀR. UP. 2,3,4</ls>). <ls>BṚH. ĀR. UP. 1,4,3.</ls> {#AkASanIkASatawAm#} ({#sarasvatIm#})
+; (01)  <ls n="ŚAT. BR.">14,3,5,6</ls>
+;       14,3,5,6
+;       14,5,3,6 (print error)
+66579 new <ls n="ŚAT. BR.">14,5,3,6</ls> (= <ls>BṚH. ĀR. UP. 2,3,4</ls>). <ls>BṚH. ĀR. UP. 1,4,3.</ls> {#AkASanIkASatawAm#} ({#sarasvatIm#})
+; pc: 7809 : AkASa : (ŚAT. BR.)14,3,5,6 : (ŚAT. BR.)14,5,3,6 : p
+;
+; case 029 Adya ---
+; <L>8481<pc>1-0636<k1>Adya<k2>Adya^<h>1
+72316 old <ls n="ŚAT. BR.">13,2,9,8.</ls> <ls n="ŚAT. BR.">1,3,2,11.</ls> <ls n="ŚAT. BR. 1,3,">3,18.</ls> <ls n="ŚAT. BR. 1,3,">5,22.</ls> <ls n="ŚAT. BR.">4,2,1,17.</ls> <ls n="ŚAT. BR.">13,4,4,8.</ls> {#vayamAdyasya dAtAraH#}
+; (01)  <ls n="ŚAT. BR. 1,3,">5,22.</ls>
+;       1,3,5,22
+;       1,5,2,2 (print error)
+72316 new <ls n="ŚAT. BR.">13,2,9,8.</ls> <ls n="ŚAT. BR.">1,3,2,11.</ls> <ls n="ŚAT. BR. 1,3,">3,18.</ls> <ls n="ŚAT. BR. 1,">5,2,2.</ls> <ls n="ŚAT. BR.">4,2,1,17.</ls> <ls n="ŚAT. BR.">13,4,4,8.</ls> {#vayamAdyasya dAtAraH#}
+; pc: 8481 : Adya : (ŚAT. BR. 1,3,)5,22. : (ŚAT. BR. 1,)5,2,2. : p
+;
+; case 030 Arzeya ---
+; <L>9341<pc>1-0699<k1>Arzeya<k2>Arzeya/
+79860 old <ls>ŚAT. BR. 1,4,2,3.</ls> <ls n="ŚAT. BR. 1,4,">5,19.</ls> <ls n="ŚAT. BR.">12,4,4,7.</ls>
+; (01)  <ls n="ŚAT. BR. 1,4,">5,19.</ls>
+;       1,4,5,19
+;       1,5,1,9 (print error)
+79860 new <ls>ŚAT. BR. 1,4,2,3.</ls> <ls n="ŚAT. BR. 1,">5,1,9.</ls> <ls n="ŚAT. BR.">12,4,4,7.</ls>
+; pc: 9341 : Arzeya : (ŚAT. BR. 1,4,)5,19. : (ŚAT. BR. 1,)5,1,9. : p
+;
+; case 031 As ---
+; <L>9721<pc>1-0729<k1>As<k2>As<h>2
+83635 old <ls n="ŚAT. BR.">6,7,1,39.</ls> {#svayaMhomyaSaktA upAsIta#}
+; (01)  <ls n="ŚAT. BR.">6,7,1,39.</ls>
+;       6,7,1,39
+;       6,7,1,19 (print error)
+83635 new <ls n="ŚAT. BR.">6,7,1,19.</ls> {#svayaMhomyaSaktA upAsIta#}
+; pc: 9721 : As : (ŚAT. BR.)6,7,1,39. : (ŚAT. BR.)6,7,1,19. : p
+;
+; case 032 Asuri ---
+; <L>9782<pc>1-0740<k1>Asuri<k2>A/suri
+84334 old <ls>ŚAT. BR. 1,6,3,26.</ls> <ls n="ŚAT. BR.">2,1,4,27.</ls> <ls n="ŚAT. BR. 2,">3,1,9.</ls> <ls n="ŚAT. BR. 2,">4,1,2.</ls> <ls n="ŚAT. BR. 2,">6,1,25.</ls> <ls n="ŚAT. BR. 2,6,1,">33.</ls> <ls n="ŚAT. BR. 2,6,">3,17.</ls> <ls n="ŚAT. BR.">4,5,8,14.</ls> <ls n="ŚAT. BR.">14,1,1,33.</ls> <ls n="ŚAT. BR. 14,">5,5,21.</ls> <ls n="ŚAT. BR. 14,">7,3,37.</ls> <ls n="ŚAT. BR. 14,">9,4,33</ls> (= <ls>BṚH. ĀR. UP. 2,6,3. 4,6,3. 6,5,2).</ls> <ls>SĀṂKHYAK. 70.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 1.</ls> <ls>WEBER, Lit. 124</ls> u.s.w. <ls>Ind. St. 1,430. 433. 434.</ls>
+; (01)  <ls n="ŚAT. BR. 14,">7,3,37.</ls>
+;       14,7,3,37
+;       14,7,3,27 (print error)
+84334 new <ls>ŚAT. BR. 1,6,3,26.</ls> <ls n="ŚAT. BR.">2,1,4,27.</ls> <ls n="ŚAT. BR. 2,">3,1,9.</ls> <ls n="ŚAT. BR. 2,">4,1,2.</ls> <ls n="ŚAT. BR. 2,">6,1,25.</ls> <ls n="ŚAT. BR. 2,6,1,">33.</ls> <ls n="ŚAT. BR. 2,6,">3,17.</ls> <ls n="ŚAT. BR.">4,5,8,14.</ls> <ls n="ŚAT. BR.">14,1,1,33.</ls> <ls n="ŚAT. BR. 14,">5,5,21.</ls> <ls n="ŚAT. BR. 14,">7,3,27.</ls> <ls n="ŚAT. BR. 14,">9,4,33</ls> (= <ls>BṚH. ĀR. UP. 2,6,3. 4,6,3. 6,5,2).</ls> <ls>SĀṂKHYAK. 70.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 1.</ls> <ls>WEBER, Lit. 124</ls> u.s.w. <ls>Ind. St. 1,430. 433. 434.</ls>
+; pc: 9782 : Asuri : (ŚAT. BR. 14,)7,3,37. : (ŚAT. BR. 14,)7,3,27. : p
+;
+; case 033 i ---
+; <L>9940<pc>1-0753<k1>i<k2>i<h>3
+85925 old <ls n="ŚAT. BR.">12,2,3,16.</ls> <ls n="ŚAT. BR.">10,1,2,8.</ls> <ls n="ŚAT. BR. 10,">2,3,5.</ls>
+; (01)  <ls n="ŚAT. BR.">12,2,3,16.</ls>
+;       12,2,3,16
+;       12,2,3,6 (print error)
+85925 new <ls n="ŚAT. BR.">12,2,3,6.</ls> <ls n="ŚAT. BR.">10,1,2,8.</ls> <ls n="ŚAT. BR. 10,">2,3,5.</ls>
+; pc: 9940 : i : (ŚAT. BR.)12,2,3,16. : (ŚAT. BR.)12,2,3,6. : p
+;
+; case 034 i ---
+; <L>9940<pc>1-0753<k1>i<k2>i<h>3
+85938 old <ls n="ŚAT. BR. 11,">7,1,13.</ls>
+; (01)  <ls n="ŚAT. BR. 11,">7,1,13.</ls>
+;       11,7,1,13
+;       11,7,1,3 (print error)
+85938 new <ls n="ŚAT. BR. 11,">7,1,3.</ls>
+; pc: 9940 : i : (ŚAT. BR. 11,)7,1,13. : (ŚAT. BR. 11,)7,1,3. : p
+;
+; case 035 i ---
+; <L>9940<pc>1-0753<k1>i<k2>i<h>3
+85963 old <ls>ŚAT. BR. 1,8,1,8.</ls> <ls n="ŚAT. BR. 1,8,1,">13.</ls> <ls n="ŚAT. BR.">3,6,2,20.</ls> <ls n="ŚAT. BR. 2,">8,2,19.</ls> {#yaTA viByadAmozamatIyAt#}
+; (01)  <ls n="ŚAT. BR. 2,">8,2,19.</ls>
+;       2,8,2,19
+;       3,8,2,19 (padding error)
+85963 new <ls>ŚAT. BR. 1,8,1,8.</ls> <ls n="ŚAT. BR. 1,8,1,">13.</ls> <ls n="ŚAT. BR.">3,6,2,20.</ls> <ls n="ŚAT. BR. 3,">8,2,19.</ls> {#yaTA viByadAmozamatIyAt#}
+; pc: 9940 : i : (ŚAT. BR. 2,)8,2,19. : (ŚAT. BR. 3,)8,2,19. : t
+;
+; case 036 iDma ---
+; <L>10090<pc>1-0798<k1>iDma<k2>iDma/
+89455 old <ls>ŚAT. BR. 3,5,2,1.</ls> <ls n="ŚAT. BR.">6,2,1,20.</ls> <ls n="ŚAT. BR.">11,2,6,20.</ls> <ls n="ŚAT. BR.">14,9,3,21</ls> (= <ls>BṚH. ĀR. UP. 6,3,13.</ls>) <ls>KĀTY. ŚR. 22,3,10.</ls> <ls n="KĀTY. ŚR.">1,3,16.</ls> {#azwAdaSeDmaM pariDivfkzARAm#}
+; (01)  <ls n="ŚAT. BR.">11,2,6,20.</ls>
+;       11,2,6,20
+;       11,2,6,2 (print error)
+89455 new <ls>ŚAT. BR. 3,5,2,1.</ls> <ls n="ŚAT. BR.">6,2,1,20.</ls> <ls n="ŚAT. BR.">11,2,6,2.</ls> <ls n="ŚAT. BR.">14,9,3,21</ls> (= <ls>BṚH. ĀR. UP. 6,3,13.</ls>) <ls>KĀTY. ŚR. 22,3,10.</ls> <ls n="KĀTY. ŚR.">1,3,16.</ls> {#azwAdaSeDmaM pariDivfkzARAm#}
+; pc: 10090 : iDma : (ŚAT. BR.)11,2,6,20. : (ŚAT. BR.)11,2,6,2. : p
+;
+; case 037 ukTya ---
+; <L>10604<pc>1-0863<k1>ukTya<k2>ukTya^
+95610 old <ls n="ŚAT. BR. 12,">2,6,7.</ls> {#caturRAmukTyAnAM dvAdaSa stotrARi dvAdaSa SastrARyatiyanti sa saptamo 'gnizwomaH#}
+; (01)  <ls n="ŚAT. BR. 12,">2,6,7.</ls>
+;       12,2,6,7
+;       12,2,2,6 (print error)
+95610 new <ls n="ŚAT. BR. 12,">2,2,6.</ls> {#caturRAmukTyAnAM dvAdaSa stotrARi dvAdaSa SastrARyatiyanti sa saptamo 'gnizwomaH#}
+; pc: 10604 : ukTya : (ŚAT. BR. 12,)2,6,7. : (ŚAT. BR. 12,)2,2,6. : p
+;
+; case 038 ukTya ---
+; <L>10604<pc>1-0863<k1>ukTya<k2>ukTya^
+95611 old <ls n="ŚAT. BR. 12,2,6,">12.</ls> <ls n="ŚAT. BR.">13,7,1,5.</ls> <ls>KĀTY. ŚR. 21,1,3.</ls> <ls n="KĀTY. ŚR.">10,9,26. fgg.</ls> <ls n="KĀTY. ŚR.">12,3,1.</ls> <ls n="KĀTY. ŚR. 12,3,">18.</ls> <ls>ĀŚV. ŚR. 5,10. 9,3.</ls> ein <is>Somayajña</is>
+; (01)  <ls n="ŚAT. BR. 12,2,6,">12.</ls>
+;       12,2,6,12
+;       12,2,2,12 (print error)
+95611 new <ls n="ŚAT. BR. 12,2,">2,12.</ls> <ls n="ŚAT. BR.">13,7,1,5.</ls> <ls>KĀTY. ŚR. 21,1,3.</ls> <ls n="KĀTY. ŚR.">10,9,26. fgg.</ls> <ls n="KĀTY. ŚR.">12,3,1.</ls> <ls n="KĀTY. ŚR. 12,3,">18.</ls> <ls>ĀŚV. ŚR. 5,10. 9,3.</ls> ein <is>Somayajña</is>
+; pc: 10604 : ukTya : (ŚAT. BR. 12,2,6,)12. : (ŚAT. BR. 12,2,)2,12. : p
+;
+; case 039 uttara ---
+; <L>10888<pc>1-0888<k1>uttara<k2>u/ttara<h>1
+98523 old <ls n="ŚAT. BR.">6,4,2,22.</ls> {#uttarAmuttarAM SAKAm#}
+; (01)  <ls n="ŚAT. BR.">6,4,2,22.</ls>
+;       6,4,2,22
+;       6,5,2,22 (print error)
+98523 new <ls n="ŚAT. BR.">6,5,2,22.</ls> {#uttarAmuttarAM SAKAm#}
+; pc: 10888 : uttara : (ŚAT. BR.)6,4,2,22. : (ŚAT. BR.)6,5,2,22. : p
+;
+; case 040 upala ---
+; <L>12025<pc>1-0969<k1>upala<k2>u/pala
+108279 old <ls>ŚAT. BR. 1,1,1,22.</ls> <ls n="ŚAT. BR. 1,">2,1,14.</ls> <ls n="ŚAT. BR. 1,2,1,">17.</ls> <ls n="ŚAT. BR.">2,2,2,1.</ls> <ls n="ŚAT. BR. 2,">4,3,41.</ls>
+; (01)  <ls n="ŚAT. BR. 2,">4,3,41.</ls>
+;       2,4,3,41
+;       4,3,4,1 (print error)
+108279 new <ls>ŚAT. BR. 1,1,1,22.</ls> <ls n="ŚAT. BR. 1,">2,1,14.</ls> <ls n="ŚAT. BR. 1,2,1,">17.</ls> <ls n="ŚAT. BR.">2,2,2,1.</ls> <ls n="ŚAT. BR.">4,3,4,1.</ls>
+; pc: 12025 : upala : (ŚAT. BR. 2,)4,3,41. : (ŚAT. BR.)4,3,4,1. : p
+;
+; case 041 fta ---
+; <L>13003<pc>1-1046<k1>fta<k2>fta/
+117247 old <ls n="AV.">12,1,1.</ls> <ls>VS. 11,47.</ls> <ls>AV. 7,1,1.</ls> <ls>TS. 3,2,7,1.</ls> <ls>ŚAT. BR. 11,2,7,9.</ls> <ls n="ŚAT. BR.">13,3,1,18.</ls> <ls>KAUŚ. 90.</ls> {#ftasatye/#}
+; (01)  <ls n="ŚAT. BR.">13,3,1,18.</ls>
+;       13,3,1,18
+;       13,5,1,18 (print error)
+117247 new <ls n="AV.">12,1,1.</ls> <ls>VS. 11,47.</ls> <ls>AV. 7,1,1.</ls> <ls>TS. 3,2,7,1.</ls> <ls>ŚAT. BR. 11,2,7,9.</ls> <ls n="ŚAT. BR.">13,5,1,18.</ls> <ls>KAUŚ. 90.</ls> {#ftasatye/#}
+; pc: 13003 : fta : (ŚAT. BR.)13,3,1,18. : (ŚAT. BR.)13,5x,1,18. : p
+;
+; case 042 ftu ---
+; <L>13055<pc>1-1052<k1>ftu<k2>ftu/
+117709 old <ls>ŚAT. BR. 1,3,5,11.</ls> <ls n="ŚAT. BR.">6,2,2,3.</ls> <ls n="ŚAT. BR.">11,1,1,26</ls> u.s.w. <ls>TS. 4,3,3,1.</ls> <ls n="TS. 4,3,3,">2.</ls> <ls n="TS.">5,3,1,2.</ls> {#paYcartavo hemantaSiSirayoH samAsena#}
+; (01)  <ls n="ŚAT. BR.">11,1,1,26</ls>
+;       11,1,1,26
+;       9,1,1,26 (print error)
+117709 new <ls>ŚAT. BR. 1,3,5,11.</ls> <ls n="ŚAT. BR.">6,2,2,3.</ls> <ls n="ŚAT. BR.">9,1,1,26</ls> u.s.w. <ls>TS. 4,3,3,1.</ls> <ls n="TS. 4,3,3,">2.</ls> <ls n="TS.">5,3,1,2.</ls> {#paYcartavo hemantaSiSirayoH samAsena#}
+; pc: 13055 : ftu : (ŚAT. BR.)11,1,1,26 : (ŚAT. BR.)9,1,1,26 : p
+;
+; case 043 ftu ---
+; <L>13055<pc>1-1052<k1>ftu<k2>ftu/
+117717 old <ls>ŚAT. BR. 4,5,5,12.</ls> <ls n="ŚAT. BR.">8,5,1,14.</ls> <ls n="ŚAT. BR. 8,5,1,">21.</ls> <ls n="ŚAT. BR. 8,5,1,">22.</ls>
+; (01)  <ls n="ŚAT. BR. 8,5,1,">22.</ls>
+;       8,5,1,22
+;       8,4,1,22 (print error)
+; (02)  <ls n="ŚAT. BR. 8,5,1,">21.</ls>
+;       8,5,1,21
+;       8,4,1,21 (print error); so does the prev. one (8,4,1,14)
+117717 new <ls>ŚAT. BR. 4,5,5,12.</ls> <ls n="ŚAT. BR.">8,4,1,14.</ls> <ls n="ŚAT. BR. 8,4,1,">21.</ls> <ls n="ŚAT. BR. 8,4,1,">22.</ls>
+; pc: 13055 : ftu : (ŚAT. BR.)8,5,1,14. 21. 22. : (ŚAT. BR.)8,4,1,14. 21. 22. : p
+;
+; case 044 ftupAtra ---
+; <L>13065<pc>1-1054<k1>ftupAtra<k2>ftupAtra/
+117862 old <ls>ŚAT. BR. 4,3,3,6.</ls> <ls n="ŚAT. BR. 4,">4,1,2.</ls> <ls n="ŚAT. BR.">5,5,8,12.</ls>
+; (01)  <ls n="ŚAT. BR.">5,5,8,12.</ls>
+;       5,5,8,12
+;       5,5,8. 12. (print error) --><ls n="ŚAT. BR. 4,">5,5,8.</ls> <ls n="ŚAT. BR. 4,5,5">12.</ls>
+117862 new <ls>ŚAT. BR. 4,3,3,6.</ls> <ls n="ŚAT. BR. 4,">4,1,2.</ls> <ls n="ŚAT. BR. 4,">5,5,8.</ls> <ls n="ŚAT. BR. 4,5,5,">12.</ls>
+; pc: 13065 : ftupAtra : (ŚAT. BR.)5,5,8,12. : (ŚAT. BR. 4,)5,5,8. 12. : p
+;
+; case 045 ekaSata ---
+; <L>13375<pc>1-1081<k1>ekaSata<k2>e/kaSata
+120562 old <ls>ŚAT. BR. 10,2,3,7.</ls> <ls n="ŚAT. BR. 10,">17,6,1.</ls> Davon {#ekaSata#} <lex>adj.</lex> {%der 101ste%}
+; (01)  <ls n="ŚAT. BR. 10,">17,6,1.</ls>
+;       10,17,6,1
+;       18. 6,1 (print error) --> <ls n="ŚAT. BR. 10,2,3,">18.</ls>  <ls n="ŚAT. BR. 10,2,">6,1.</ls>
+120562 new <ls>ŚAT. BR. 10,2,3,7.</ls> <ls n="ŚAT. BR. 10,2,3,">18.</ls> <ls n="ŚAT. BR. 10,2,">6,1.</ls> Davon {#ekaSata#} <lex>adj.</lex> {%der 101ste%}
+; pc: 13375 : ekaSata : (ŚAT. BR. 10,)17,6,1. : (ŚAT. BR. 10,2)18. 6,1. : p
+;
+; case 046 etAvant ---
+; <L>13509<pc>1-1094<k1>etAvant<k2>etA/vant
+121875 old <ls>ŚAT. BR. 13,3,6,6.</ls> <ls n="ŚAT. BR.">14,5,7,14.</ls> <ls n="ŚAT. BR. 14,">8,15,9.</ls> {#etAvadvAnarEH SakyaM gantum#}
+; (01)  <ls n="ŚAT. BR.">14,5,7,14.</ls>
+;       14,5,7,14
+;       14,5,1,14 (print error)
+121875 new <ls>ŚAT. BR. 13,3,6,6.</ls> <ls n="ŚAT. BR.">14,5,1,14.</ls> <ls n="ŚAT. BR. 14,">8,15,9.</ls> {#etAvadvAnarEH SakyaM gantum#}
+; pc: 13509 : etAvant : (ŚAT. BR.)14,5,7,14. : (ŚAT. BR.)14,5,1,14. : p
+;
+; case 047 kUrca ---
+; <L>18501<pc>2-0384<k1>kUrca<k2>kUrca/
+171298 old <ls>ŚAT. BR. 11,5,3,4.</ls> <ls n="ŚAT. BR. 11,5,3,">7.</ls> <ls n="ŚAT. BR. 11,5,">14,6.</ls> <ls n="ŚAT. BR. 11,5,">11,1.</ls> {#hiraRmaye kUrce#}
+; (01)  <ls n="ŚAT. BR. 11,5,">11,1.</ls>
+;       11,5,11,1
+;       14,6,11,1 (typo); merge with the prev. one
+; (02)  <ls n="ŚAT. BR. 11,5,">14,6.</ls>
+;       11,5,14,6
+;       14,6,11,1 (typo); merge with the next one
+171298 new <ls>ŚAT. BR. 11,5,3,4.</ls> <ls n="ŚAT. BR. 11,5,3,">7.</ls> <ls n="ŚAT. BR.">14,6,11,1</ls> {#hiraRmaye kUrce#}
+; pc: 18501 : kUrca : (ŚAT. BR.) 14,6. 11,1. : (ŚAT. BR.) 14,6,11,1. : t
+;
+; case 048 gam ---
+; <L>21814<pc>2-0666<k1>gam<k2>gam<h>1
+204365 old <ls>ŚAT. BR. 12,4,1,9.</ls> <ls n="ŚAT. BR. 12,4,1,">21.</ls> {#tamaByAgacCAma#}
+; (01)  <ls n="ŚAT. BR. 12,4,1,">21.</ls>
+;       12,4,1,21
+;       12,4,2,1 (print error 21. for 2,1.)
+204365 new <ls>ŚAT. BR. 12,4,1,9.</ls> <ls n="ŚAT. BR. 12,4,">2,1.</ls> {#tamaByAgacCAma#}
+; pc: 21814 : gam : (ŚAT. BR. 12,4,1,)21. : (ŚAT. BR. 12,4,)2,1. : p
+;
+; case 049 gA ---
+; <L>22171<pc>2-0723<k1>gA<k2>gA<h>2
+209189 old <ls>ŚAT. BR. 3,2,4,6.</ls> <ls n="ŚAT. BR. 3,2,">6,1.</ls> <ls n="ŚAT. BR. 3,2,">1,15.</ls>
+; (01)  <ls n="ŚAT. BR. 3,2,">6,1.</ls>
+;       3,2,6,1
+;       6,1,1,15 (typo); merge the next one with this
+209189 new <ls>ŚAT. BR. 3,2,4,6.</ls> <ls n="ŚAT. BR.">6,1,1,15.</ls>
+; pc: 22171 : gA : (ŚAT. BR.)6,1. 1,15. : (ŚAT. BR.)6,1,1,15 : t
+;
+; case 050 gA ---
+; <L>22171<pc>2-0723<k1>gA<k2>gA<h>2
+209335 old <ls>ŚAT. BR. 10,1,5,3.</ls> <ls n="ŚAT. BR. 10,1,">9,1.</ls> <ls n="ŚAT. BR. 10,1,">2,32.</ls>
+; (01)  <ls n="ŚAT. BR. 10,1,">9,1.</ls>
+;       10,1,9,1
+;       9,1,2,32. (typo); merge with the next one
+; (02)  <ls n="ŚAT. BR. 10,1,">2,32.</ls>
+;       10,1,2,32
+;       9,1,2,32 (typo); merge with the prev. one
+209335 new <ls>ŚAT. BR. 10,1,5,3.</ls> <ls n="ŚAT. BR.">9,1,2,32.</ls>
+; pc: 22171 : gA : (ŚAT. BR.)9,1. 2,32. : (ŚAT. BR.)9,1,2,32. : t
+;
+; case 051 caturDA ---
+; <L>24586<pc>2-0930<k1>caturDA<k2>caturDA/
+233275 old <ls n="ŚAT. BR.">1,2,3,1.</ls> <ls n="ŚAT. BR. 1,">2,3,1.</ls> <ls n="ŚAT. BR. 1,2,3,">17.</ls> {#BU#} {%sich in 4 theilen%}
+; (01)  <ls n="ŚAT. BR. 1,2,3,">17.</ls>
+;       1,2,3,17
+;       2,3,1,17 (typo); merge with the prev. one
+233275 new <ls n="ŚAT. BR.">1,2,3,1.</ls> <ls n="ŚAT. BR.">2,3,1,17.</ls> {#BU#} {%sich in 4 theilen%}
+; pc: 24586 : caturDA : (ŚAT. BR.)2,3,1. 17. : (ŚAT. BR.)2,3,1,17. : t
+;
+; case 052 catuzpAda ---
+; <L>24649<pc>2-0935<k1>catuzpAda<k2>ca/tuzpAda
+233889 old <ls>ŚAT. BR. 3,7,3,2.</ls> <ls n="ŚAT. BR.">6,8,2,17.</ls>
+; (01)  <ls n="ŚAT. BR.">6,8,2,17.</ls>
+;       6,8,2,17
+;       6,8,2,7 (print error)
+233889 new <ls>ŚAT. BR. 3,7,3,2.</ls> <ls n="ŚAT. BR.">6,8,2,7.</ls>
+; pc: 24649 : catuzpAda : (ŚAT. BR.)6,8,2,17. : (ŚAT. BR.)6,8,2,7. : p
+;
+; case 053 camasa ---
+; <L>24861<pc>2-0949<k1>camasa<k2>camasa/
+235740 old <ls n="ŚAT. BR.">7,2,11,2.</ls> zehn an der Zahl
+; (01)  <ls n="ŚAT. BR.">7,2,11,2.</ls>
+;       7,2,11,2
+;       7,2,4,2 (print error)
+235740 new <ls n="ŚAT. BR.">7,2,4,2.</ls> zehn an der Zahl
+; pc: 24861 : camasa : (ŚAT. BR.)7,2,11,2. : (ŚAT. BR.)7,2,4,2. : p
+;
+; case 054 car ---
+; <L>24902<pc>2-0952<k1>car<k2>car
+236428 old <ls n="TBR.">2,2,1,7.</ls> <ls>TS. 2,2,3,2.</ls> <ls>ŚAT. BR. 1,2,1,7.</ls> <ls n="ŚAT. BR.">5,5,5,14.</ls> <ls n="ŚAT. BR.">12,6,2,1.</ls> <ls>KĀTY. ŚR. 2,4,28.</ls> <ls n="KĀTY. ŚR.">3,5,14.</ls> <ls n="KĀTY. ŚR.">22,3,1.</ls> <ls n="KĀTY. ŚR. 22,">11,24.</ls> <ls n="KĀTY. ŚR. 22,11,">27.</ls> <ls n="KĀTY. ŚR. 22,11,">33.</ls> <ls n="KĀTY. ŚR.">23,5,24.</ls> <ls>LĀṬY. 3,5,23.</ls> {#aBicaran#}
+; (01)  <ls n="ŚAT. BR.">12,6,2,1.</ls>
+;       12,6,2,1
+;       11,1,6,12 (print error)
+236428 new <ls n="TBR.">2,2,1,7.</ls> <ls>TS. 2,2,3,2.</ls> <ls>ŚAT. BR. 1,2,1,7.</ls> <ls n="ŚAT. BR.">5,5,5,14.</ls> <ls n="ŚAT. BR.">11,1,6,12.</ls> <ls>KĀTY. ŚR. 2,4,28.</ls> <ls n="KĀTY. ŚR.">3,5,14.</ls> <ls n="KĀTY. ŚR.">22,3,1.</ls> <ls n="KĀTY. ŚR. 22,">11,24.</ls> <ls n="KĀTY. ŚR. 22,11,">27.</ls> <ls n="KĀTY. ŚR. 22,11,">33.</ls> <ls n="KĀTY. ŚR.">23,5,24.</ls> <ls>LĀṬY. 3,5,23.</ls> {#aBicaran#}
+; pc: 24902 : car : (ŚAT. BR.)12,6,2,1. : (ŚAT. BR.)11,1,6,12. : p
+;
+; case 055 car ---
+; <L>24902<pc>2-0952<k1>car<k2>car
+237118 old <ls>ŚAT. BR. 1,3,2,3.</ls> <ls n="ŚAT. BR.">13,7,3,22.</ls> {#(puruzaH) kasya kAmAya SarIramanu saMcaret#}
+; (01)  <ls n="ŚAT. BR.">13,7,3,22.</ls>
+;       13,7,3,22
+;       12,7,3,22 (print error)
+237118 new <ls>ŚAT. BR. 1,3,2,3.</ls> <ls n="ŚAT. BR.">12,7,3,22.</ls> {#(puruzaH) kasya kAmAya SarIramanu saMcaret#}
+; pc: 24902 : car : (ŚAT. BR.)13,7,3,22. : (ŚAT. BR.)12,7,3,22. : p
+;
+; case 056 ci ---
+; <L>25297<pc>2-0997<k1>ci<k2>ci<h>1
+241022 old <ls>ŚAT. BR. 4,6,8,3.</ls> <ls n="ŚAT. BR.">9,5,5,15.</ls> <ls n="ŚAT. BR.">10,5,5,1.</ls> u.s.w. <ls>AK. 2,7,11.</ls> {#(uvAca) putramagniM cikivAMsamacEragnI3mityacEzaM hIti#}
+; (01)  <ls n="ŚAT. BR.">9,5,5,15.</ls>
+;       9,5,5,15
+;       9,5,2,15 (print error)
+241022 new <ls>ŚAT. BR. 4,6,8,3.</ls> <ls n="ŚAT. BR.">9,5,2,15.</ls> <ls n="ŚAT. BR.">10,5,5,1.</ls> u.s.w. <ls>AK. 2,7,11.</ls> {#(uvAca) putramagniM cikivAMsamacEragnI3mityacEzaM hIti#}
+; pc: 25297 : ci : (ŚAT. BR.)9,5,5,15. : (ŚAT. BR.)9,5,2,15. : p
+;
+; case 057 cit ---
+; <L>25359<pc>2-1008<k1>cit<k2>cit<h>1
+242073 old <ls>ŚAT. BR. 9,5,1,57.</ls> <ls n="ŚAT. BR.">19,1,4,9.</ls> <ls n="ŚAT. BR. 19,1,">5,4</ls> u.s.w. Vgl. {#UrDvacit#} .
+; (01)  <ls n="ŚAT. BR. 19,1,">5,4</ls>
+;       19,1,5,4
+;       10,1,5,4 (typo)
+; (02)  <ls n="ŚAT. BR.">19,1,4,9.</ls>
+;       19,1,4,9
+;       10,1,4,9 (typo)
+242073 new <ls>ŚAT. BR. 9,5,1,57.</ls> <ls n="ŚAT. BR.">10,1,4,9.</ls> <ls n="ŚAT. BR. 10,1,">5,4</ls> u.s.w. Vgl. {#UrDvacit#} .
+; pc: 25359 : cit : (ŚAT. BR. 19,1,)5,4 : (ŚAT. BR. 10,1,)5,4 : p
+; pc: 25359 : cit : (ŚAT. BR.)19,1,4,9. : (ŚAT. BR.)10,1,4,9. : p
+;
+; case 058 juzARa ---
+; <L>27705<pc>3-0126<k1>juzARa<k2>juzARa/
+267397 old <ls>ŚAT. BR. 1,6,3,27.</ls> <ls n="ŚAT. BR. 1,6,3,">43</ls> (vgl.
+; (01)  <ls n="ŚAT. BR. 1,6,3,">43</ls>
+;       1,6,3,43
+;       1,6,3,40 (print error)
+267397 new <ls>ŚAT. BR. 1,6,3,27.</ls> <ls n="ŚAT. BR. 1,6,3,">40</ls> (vgl.
+; pc: 27705 : juzARa : (ŚAT. BR. 1,6,3,)43 : (ŚAT. BR. 1,6,3,)40 : p
+;
+; case 059 tAdfS ---
+; <L>29194<pc>3-0294<k1>tAdfS<k2>tAdf/S
+284858 old <ls>ŚAT. BR. 1,3,5,12.</ls> <ls n="ŚAT. BR.">7,4,1,1.</ls> <ls n="ŚAT. BR. 7,">9,2,3.</ls> <ls n="ŚAT. BR.">10,5,5,2.</ls> <ls n="ŚAT. BR.">13,1,2,2.</ls> <ls n="ŚAT. BR. 13,">2,3,2.</ls> {#yaTemAnprARAnAlupya SIrzanDitsettAdfktat#}
+; (01)  <ls n="ŚAT. BR. 7,">9,2,3.</ls>
+;       7,9,2,3
+;       9,2,2,3 (print error)
+284858 new <ls>ŚAT. BR. 1,3,5,12.</ls> <ls n="ŚAT. BR.">7,4,1,1.</ls> <ls n="ŚAT. BR.">9,2,2,3.</ls> <ls n="ŚAT. BR.">10,5,5,2.</ls> <ls n="ŚAT. BR.">13,1,2,2.</ls> <ls n="ŚAT. BR. 13,">2,3,2.</ls> {#yaTemAnprARAnAlupya SIrzanDitsettAdfktat#}
+; pc: 29194 : tAdfS : (ŚAT. BR. 7,)9,2,3. : (ŚAT. BR.)9,2,2,3. : p
+;
+; case 060 tejas ---
+; <L>30476<pc>3-0391<k1>tejas<k2>te/jas
+296483 old <ls n="AV.">7,13,1.</ls> <ls>ŚAT. BR. 11,6,2,3.</ls> <ls n="ŚAT. BR.">14,6,2,27.</ls> <ls n="ŚAT. BR. 14,6,">9,15.</ls> {#tejoBirApUrya jagatsamagraM BAsastavogrAH pratapanti vizRo#}
+; (01)  <ls n="ŚAT. BR.">14,6,2,27.</ls>
+;       14,6,2,27
+;       14,6,7,27 (print error)
+296483 new <ls n="AV.">7,13,1.</ls> <ls>ŚAT. BR. 11,6,2,3.</ls> <ls n="ŚAT. BR.">14,6,7,27.</ls> <ls n="ŚAT. BR. 14,6,">9,15.</ls> {#tejoBirApUrya jagatsamagraM BAsastavogrAH pratapanti vizRo#}
+; pc: 30476 : tejas : (ŚAT. BR.)14,6,2,27. : (ŚAT. BR.)14,6,7,27. : p
+;
+; case 061 trEvaRi ---
+; <L>31328<pc>3-0455<k1>trEvaRi<k2>trE/vaRi
+303908 old <ls>ŚAT. BR. 14,5,5,21.</ls> <ls n="ŚAT. BR. 14,">7,4,27.</ls>
+; (01)  <ls n="ŚAT. BR. 14,">7,4,27.</ls>
+;       14,7,4,27
+;       14,7,3,27 (print error)
+303908 new <ls>ŚAT. BR. 14,5,5,21.</ls> <ls n="ŚAT. BR. 14,">7,3,27.</ls>
+; pc: 31328 : trEvaRi : (ŚAT. BR. 14,)7,4,27. : (ŚAT. BR. 14,)7,3,27. : p
+;
+; case 062 tvac ---
+; <L>31455<pc>3-0463<k1>tvac<k2>tvac<h>1
+304845 old <ls n="ŚAT. BR.">14,5,4,11.</ls> <ls n="ŚAT. BR. 14,">6,7,26.</ls> <ls n="ŚAT. BR. 14,">9,30,31.</ls> {#indriyaM sparSagrAhakaM tvaksarvaSarIravarti#}
+; (01)  <ls n="ŚAT. BR. 14,">9,30,31.</ls>
+;       14,9,30,31
+;       9,30. 31. (print error)
+304845 new <ls n="ŚAT. BR.">14,5,4,11.</ls> <ls n="ŚAT. BR. 14,">6,7,26.</ls> <ls n="ŚAT. BR. 14,6,">9,30.</ls> <ls n="ŚAT. BR. 14,6,9,">31.</ls> {#indriyaM sparSagrAhakaM tvaksarvaSarIravarti#}
+; pc: 31455 : tvac : (ŚAT. BR. 14,)6,7,26. 9,30,31. : (ŚAT. BR.14,)6,7,26. 9,30. 31. : p
+;
+; case 063 daGna ---
+; <L>31699<pc>3-0491<k1>daGna<k2>daGna/
+307595 old <ls n="ŚAT. BR.">12,2,1,12.</ls> {#Uru°, jAnu°, kulPa°#} 3. {#muKa°#}
+; (01)  <ls n="ŚAT. BR.">12,2,1,12.</ls>
+;       12,2,1,12
+;       12,2,1,2 (print error)
+307595 new <ls n="ŚAT. BR.">12,2,1,2.</ls> {#Uru°, jAnu°, kulPa°#} 3. {#muKa°#}
+; pc: 31699 : daGna : (ŚAT. BR.)12,2,1,12. : (ŚAT. BR.)12,2,1,2. : p
+;
+; case 064 darS ---
+; <L>32146<pc>3-0530<k1>darS<k2>darS
+311971 old <ls n="ŚAT. BR.">13,2,3,14.</ls> {#aYjaHsavam#}
+; (01)  <ls n="ŚAT. BR.">13,2,3,14.</ls>
+;       13,2,3,14
+;       13,2,2,14 (print error)
+311971 new <ls n="ŚAT. BR.">13,2,2,14.</ls> {#aYjaHsavam#}
+; pc: 32146 : darS : (ŚAT. BR.)13,2,3,14. : (ŚAT. BR.)13,2,2,14. : p
+;
+; case 065 dIp ---
+; <L>33120<pc>3-0646<k1>dIp<k2>dIp
+323484 old <ls>ŚAT. BR. 14,6,1,10.</ls> <ls n="ŚAT. BR. 14,">4,11,3.</ls> <ls n="ŚAT. BR.">10,6,2,11.</ls> <ls n="ŚAT. BR.">11,4,3,1.</ls> — {#yaScAyaM mama lANgUle dIpyate havyavAhanaH#}
+; (01)  <ls n="ŚAT. BR. 14,">4,11,3.</ls>
+;       14,4,11,3
+;       14,4,1,13 (print error)
+323484 new <ls>ŚAT. BR. 14,6,1,10.</ls> <ls n="ŚAT. BR. 14,">4,1,13.</ls> <ls n="ŚAT. BR.">10,6,2,11.</ls> <ls n="ŚAT. BR.">11,4,3,1.</ls> — {#yaScAyaM mama lANgUle dIpyate havyavAhanaH#}
+; pc: 33120 : dIp : (ŚAT. BR. 14,)4,11,3. : (ŚAT. BR. 14,)4,1,13. : p
+;
+; case 066 dru ---
+; <L>35359<pc>3-0804<k1>dru<k2>dru<h>1
+342244 old <ls n="ŚAT. BR.">13,2,7,1.</ls> <ls n="ŚAT. BR. 13,">4,3,3.</ls> <ls n="ŚAT. BR. 13,4,">5,3.</ls> <ls n="ŚAT. BR. 13,4,5,">4.</ls> {#daSa^hotAramapaSya\ttaM mana^sAnu\drutya^ darBasta\mbe^ 'juhot#}
+; (01)  <ls n="ŚAT. BR. 13,4,5,">4.</ls>
+;       13,4,5,4
+;       13,5,3,4 (typo); merge with the prev. one
+; (02)  <ls n="ŚAT. BR. 13,4,">5,3.</ls>
+;       13,4,5,3
+;       13,5,3,4 (typo); merge with the next one
+342244 new <ls n="ŚAT. BR.">13,2,7,1.</ls> <ls n="ŚAT. BR. 13,">4,3,3.</ls> <ls n="ŚAT. BR. 13,">5,3,4.</ls> {#daSa^hotAramapaSya\ttaM mana^sAnu\drutya^ darBasta\mbe^ 'juhot#}
+; pc: 35359 : dru : (ŚAT. BR. 13,4,)5,3. 4. : (ŚAT. BR. 13,)5,3,4 : t
+;
+; case 067 dvitIya ---
+; <L>35697<pc>3-0832<k1>dvitIya<k2>dvitI/ya<h>1
+345330 old <ls>ŚAT. BR. 9,2,3,3.</ls> <ls n="ŚAT. BR.">1,7,1,3.</ls> <ls n="ŚAT. BR.">3,17,3,9.</ls> {#yo me vane vasato 'BUddvitIyaH#}
+; (01)  <ls n="ŚAT. BR.">3,17,3,9.</ls>
+;       3,17,3,9
+;       17. 9,3,9. (print error) --><ls n="ŚAT. BR. 1,7,1,">17.</ls> <ls n="ŚAT. BR. 1,">9,3,9.</ls>
+345330 new <ls>ŚAT. BR. 9,2,3,3.</ls> <ls n="ŚAT. BR.">1,7,1,3.</ls> <ls n="ŚAT. BR. 1,7,1,">17.</ls> <ls n="ŚAT. BR. 1,">9,3,9.</ls> {#yo me vane vasato 'BUddvitIyaH#}
+; pc: 35697 : dvitIya : (ŚAT. BR.)3,17,3,9. : (ŚAT. BR. 1,)17. 9,3,9. : p
+;
+; case 068 dvidevatya ---
+; <L>35718<pc>3-0834<k1>dvidevatya<k2>dvideva/tya
+345498 old <ls>ŚAT. BR. 3,3,4,23.</ls> <ls n="ŚAT. BR. 3,3,">4,1.</ls> <ls n="ŚAT. BR. 3,3,">5,19.</ls>
+; (01)  <ls n="ŚAT. BR. 3,3,">5,19.</ls>
+;       3,3,5,19
+;       4,1,5,19 (print error); merge with the prev. one
+345498 new <ls>ŚAT. BR. 3,3,4,23.</ls> <ls n="ŚAT. BR.">4,1,5,19.</ls>
+; pc: 35718 : dvidevatya : (ŚAT. BR. 3,3,)4,1. 5,19. : (ŚAT. BR.)4,1,5,19. : p
+;
+; case 069 DA ---
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+353659 old <ls>ŚAT. BR. 2,6,1,4.</ls> <ls n="ŚAT. BR. 2,">3,5,4.</ls> <ls n="ŚAT. BR. 2,3,5,">22.</ls> {#pAtrI skyopahitA#} {%auf den%} <ab n="Süd">S.</ab> {%gesetzt%}
+; (01)  <ls n="ŚAT. BR. 2,3,5,">22.</ls>
+;       2,3,5,22
+;       3,5,4,22 (typo); merge with the prev. one
+; (02)  <ls n="ŚAT. BR. 2,">3,5,4.</ls>
+;       2,3,5,4
+;       3,5,4,22 (typo); merge with the next one
+353659 new <ls>ŚAT. BR. 2,6,1,4.</ls> <ls n="ŚAT. BR.">3,5,4,22.</ls> {#pAtrI skyopahitA#} {%auf den%} <ab n="Süd">S.</ab> {%gesetzt%}
+; pc: 36484 : DA : (ŚAT. BR. 2,)3,5,4. 22. : (ŚAT. BR.)3,5,4,22. : t
+;
+; case 070 DA ---
+; <L>36484<pc>3-0901<k1>DA<k2>DA<h>1
+354695 old <ls>ŚAT. BR. 13,6,1,2.</ls> <ls n="ŚAT. BR. 13,6,1,">37.</ls> {#yadyAtmAnameva pratisaMDatte#} wohl {%sich sammeln%}
+; (01)  <ls n="ŚAT. BR. 13,6,1,">37.</ls>
+;       13,6,1,37
+;       12,6,1,37 (print error); so does the prev. one (12,6,1,2)
+354695 new <ls>ŚAT. BR. 12,6,1,2.</ls> <ls n="ŚAT. BR. 12,6,1,">37.</ls> {#yadyAtmAnameva pratisaMDatte#} wohl {%sich sammeln%}
+; pc: 36484 : DA : (ŚAT. BR.)13,6,1,2. 37. : (ŚAT. BR.)12,6,1,2. 37. : p
+;
+; case 071 DU ---
+; <L>36831<pc>3-0972<k1>DU<k2>DU<h>1
+358869 old <ls n="ṚV.">3,12,6.</ls> <ls n="ṚV.">1,37,6.</ls> <ls>AV. 9,4,13.</ls> <ls>ŚAT. BR. 3,6,2,4.</ls> <ls n="ŚAT. BR.">13,1,3,31.</ls> {#kfzRAjinAni DunvAnAH#} {%schüttelnd%}
+; (01)  <ls n="ŚAT. BR.">13,1,3,31.</ls>
+;       13,1,3,31
+;       14,1,3,31 (print error)
+358869 new <ls n="ṚV.">3,12,6.</ls> <ls n="ṚV.">1,37,6.</ls> <ls>AV. 9,4,13.</ls> <ls>ŚAT. BR. 3,6,2,4.</ls> <ls n="ŚAT. BR.">14,1,3,31.</ls> {#kfzRAjinAni DunvAnAH#} {%schüttelnd%}
+; pc: 36831 : DU : (ŚAT. BR.)13,1,3,31. : (ŚAT. BR.)14,1,3,31. : p
+;
+; case 072 nI ---
+; <L>40379<pc>4-0265<k1>nI<k2>nI<h>1
+393866 old <ls>ŚAT. BR. 1,9,2,32.</ls> <ls n="ŚAT. BR. 1,">11,26,1.</ls> <ls n="ŚAT. BR.">14,2,2,50.</ls>
+; (01)  <ls n="ŚAT. BR. 1,">11,26,1.</ls>
+;       1,11,26,1
+;       11,2,6,1 (print error)
+393866 new <ls>ŚAT. BR. 1,9,2,32.</ls> <ls n="ŚAT. BR.">11,2,6,1.</ls> <ls n="ŚAT. BR.">14,2,2,50.</ls>
+; pc: 40379 : nI : (ŚAT. BR. 1,)11,26,1. : (ŚAT. BR.)11,2,6,1. : p
+;
+; case 073 pacana ---
+; <L>41320<pc>4-0357<k1>pacana<k2>pacana
+402648 old <ls>ŚAT. BR. 14,1,2,21.</ls> <ls n="ŚAT. BR.">6,5,43,3.</ls> <ls n="ŚAT. BR. 6,5,43,">4.</ls> {#pizwa°#} {%Pfanne zum Rösten des Mehls%}
+; (01)  <ls n="ŚAT. BR. 6,5,43,">4.</ls>
+;       6,5,43,4
+;       6,5,4,4 (print error); merge with the prev. one
+; (02)  <ls n="ŚAT. BR.">6,5,43,3.</ls>
+;       6,5,43,3
+;       6,5,4,4 (print error); merge with the next one
+402648 new <ls>ŚAT. BR. 14,1,2,21.</ls> <ls n="ŚAT. BR.">6,5,4,4.</ls> {#pizwa°#} {%Pfanne zum Rösten des Mehls%}
+; pc: 41320 : pacana : (ŚAT. BR.)6,5,43,3. 4. : (ŚAT. BR.)6,5,4,4. : p
+;
+; case 074 pad ---
+; <L>42000<pc>4-0423<k1>pad<k2>pad<h>1
+410389 old <ls n="ŚAT. BR.">6,4,3,7.</ls> <ls n="ŚAT. BR. 6,4,3,">10.</ls> <ls n="ŚAT. BR. 6,">2,3,18.</ls>
+; (01)  <ls n="ŚAT. BR. 6,">2,3,18.</ls>
+;       6,2,3,18
+;       10,2,3,18 (typo); merge the next one with this
+410389 new <ls n="ŚAT. BR.">6,4,3,7.</ls> <ls n="ŚAT. BR.">10,2,3,18.</ls>
+; pc: 42000 : pad : (ŚAT. BR.)10. 2,3,18. : (ŚAT. BR.)10,2,3,18. : t
+;
+; case 075 parama ---
+; <L>42384<pc>4-0486<k1>parama<k2>parama/
+415552 old <ls n="ŚAT. BR.">9,2,2,12.</ls> {#dEvata#}
+; (01)  <ls n="ŚAT. BR.">9,2,2,12.</ls>
+;       9,2,2,12
+;       9,2,1,12 (print error)
+415552 new <ls n="ŚAT. BR.">9,2,1,12.</ls> {#dEvata#}
+; pc: 42384 : parama : (ŚAT. BR.)9,2,2,12. : (ŚAT. BR.)9,2,1,12. : p
+;
+; case 076 parastAt ---
+; <L>42486<pc>4-0495<k1>parastAt<k2>para/stAt
+416511 old <ls n="ŚAT. BR.">11,4,3,7.</ls> <ls n="ŚAT. BR. 11,4,">12,4.</ls> <ls n="ŚAT. BR. 11,4,">4,2.</ls> <ls>AIT. BR. 1,25.</ls> {#tAmAptvA parastAnniruDyAtizWat#} {%vorn den Weg vertretend%}
+; (01)  <ls n="ŚAT. BR. 11,4,">12,4.</ls>
+;       11,4,12,4
+;       12,4,4,2 (typo); merge with the next one
+416511 new <ls n="ŚAT. BR.">11,4,3,7.</ls> <ls n="ŚAT. BR.">12,4,4,2.</ls> <ls>AIT. BR. 1,25.</ls> {#tAmAptvA parastAnniruDyAtizWat#} {%vorn den Weg vertretend%}
+; pc: 42486 : parastAt : (ŚAT. BR.)11,4,3,7. 12,4. 4,2. : (ŚAT. BR.)11,4,3,7. 12,4,4,2. : t
+;
+; case 077 parjanya ---
+; <L>43415<pc>4-0570<k1>parjanya<k2>parja/nya
+424781 old <ls n="TS. 3,">5,8,1.</ls> <ls n="TS.">5,2,7,2.</ls> — <ls>ŚAT. BR. 3,3,4,11.</ls> <ls n="ŚAT. BR.">6,1,3,15.</ls> <ls n="ŚAT. BR. 6,">7,3,1.</ls> <ls n="ŚAT. BR. 6,7,3,">2.</ls> <ls n="ŚAT. BR. 6,">5,2,37.</ls> <ls n="ŚAT. BR.">8,6,1,20.</ls> <ls n="ŚAT. BR.">14,5,2,3.</ls> <ls n="ŚAT. BR. 14,">9,1,14.</ls> <ls>ŚĀṄKH. BR. 28,2.</ls> <ls>ṢAḌV. BR. 1,2.</ls> <ls>KĀTY. ŚR. 25,12,9.</ls> <ls>PĀR. GṚHY. 2,13.</ls>
+; (01)  <ls n="ŚAT. BR. 6,">5,2,37.</ls>
+;       6,5,2,37
+;       7,5,2,37 (print error)
+424781 new <ls n="TS. 3,">5,8,1.</ls> <ls n="TS.">5,2,7,2.</ls> — <ls>ŚAT. BR. 3,3,4,11.</ls> <ls n="ŚAT. BR.">6,1,3,15.</ls> <ls n="ŚAT. BR. 6,">7,3,1.</ls> <ls n="ŚAT. BR. 6,7,3,">2.</ls> <ls n="ŚAT. BR.">7,5,2,37.</ls> <ls n="ŚAT. BR.">8,6,1,20.</ls> <ls n="ŚAT. BR.">14,5,2,3.</ls> <ls n="ŚAT. BR. 14,">9,1,14.</ls> <ls>ŚĀṄKH. BR. 28,2.</ls> <ls>ṢAḌV. BR. 1,2.</ls> <ls>KĀTY. ŚR. 25,12,9.</ls> <ls>PĀR. GṚHY. 2,13.</ls>
+; pc: 43415 : parjanya : (ŚAT. BR. 6,)5,2,37. : (ŚAT. BR.)7,5,2,37. : p
+;
+; case 078 paS ---
+; <L>43801<pc>4-0600<k1>paS<k2>paS<h>1
+428498 old <ls>ŚAT. BR. 6,3,3,6.</ls> <ls n="ŚAT. BR. 6,">9,5,19.</ls> {#nadyE pAram#}
+; (01)  <ls n="ŚAT. BR. 6,">9,5,19.</ls>
+;       6,9,5,19
+;       9,5,1,9 (print error)
+428498 new <ls>ŚAT. BR. 6,3,3,6.</ls> <ls n="ŚAT. BR.">9,5,1,9.</ls> {#nadyE pAram#}
+; pc: 43801 : paS : (ŚAT. BR. 6,)9,5,19. : (ŚAT. BR.)9,5,1,9. : p
+;
+; case 079 pARqara ---  this case handled in change_pwg_3a.txt
+; <L>44168<pc>4-0636<k1>pARqara<k2>pARqara
+;432137 old <ls>ŚAT. BR. 14,5,1,3.</ls> <ls n="ŚAT. BR. 14,5,1,">15.</ls> {#°vAsinI (SrI)#}
+; WARNING: lsref not in koshaline
+; (01)  <ls n="ŚAT. BR. 15,5,1,">15.</ls>
+;       15,5,1,15
+;       14,5,1,15 (print error)
+;432137 new <ls>ŚAT. BR. 14,5,1,3.</ls> <ls n="ŚAT. BR. 14,5,1,">15.</ls> {#°vAsinI (SrI)#}
+; pc: 44168 : pARqara : (ŚAT. BR. 15,5,1,)15. : (ŚAT. BR. 15,5,1,)15. : x
+;
+; case 080 pitar ---
+; <L>45213<pc>4-0714<k1>pitar<k2>pita/r
+441724 old <ls n="TBR.">1,4,9,1.</ls> <ls>AIT. BR. 3,15.</ls> <ls n="AIT. BR.">7,23.</ls> <ls n="AIT. BR. 7,">34.</ls> <ls>ŚAT. BR. 1,7,2,1.</ls> <ls n="ŚAT. BR. 1,">2,6,1.</ls> <ls n="ŚAT. BR. 1,2,6,">9.</ls> <ls n="ŚAT. BR.">3,6,2,25.</ls> {#pARimuKAH pitaraH#}
+; (01)  <ls n="ŚAT. BR. 1,">2,6,1.</ls>
+;       1,2,6,1
+;       2,6,1,9 (typo); merge with the next one
+; (02)  <ls n="ŚAT. BR. 1,2,6,">9.</ls>
+;       1,2,6,9
+;       2,6,1,9 (typo); merge with the prev. one
+441724 new <ls n="TBR.">1,4,9,1.</ls> <ls>AIT. BR. 3,15.</ls> <ls n="AIT. BR.">7,23.</ls> <ls n="AIT. BR. 7,">34.</ls> <ls>ŚAT. BR. 1,7,2,1.</ls> <ls n="ŚAT. BR.">2,6,1,9.</ls> <ls n="ŚAT. BR.">3,6,2,25.</ls> {#pARimuKAH pitaraH#}
+; pc: 45213 : pitar : ŚAT. BR. 1,7,2,1. 2,6,1. 9. : ŚAT. BR. 1,7,2,1. 2,6,1,9. : t
+;
+; case 081 pItudAru ---
+; <L>45547<pc>4-0746<k1>pItudAru<k2>pItudAru
+445195 old <ls>SĀY.</ls> zu <ls>AIT. BR. 1,28.</ls> <ls>MAHĪDH.</ls> zu <ls>VS. 5,14.</ls> <ls>ŚAT. BR. 3,5,2,15.</ls> <ls n="ŚAT. BR.">13,4,4,17.</ls> <ls>PAÑCAV. BR. 24,13,5.</ls> <ls>KĀṬH. 25,6.</ls> <ls>KĀTY. ŚR. 24,3,12.</ls>
+; (01)  <ls n="ŚAT. BR.">13,4,4,17.</ls>
+;       13,4,4,17
+;       13,4,4,7 (print error)
+445195 new <ls>SĀY.</ls> zu <ls>AIT. BR. 1,28.</ls> <ls>MAHĪDH.</ls> zu <ls>VS. 5,14.</ls> <ls>ŚAT. BR. 3,5,2,15.</ls> <ls n="ŚAT. BR.">13,4,4,7.</ls> <ls>PAÑCAV. BR. 24,13,5.</ls> <ls>KĀṬH. 25,6.</ls> <ls>KĀTY. ŚR. 24,3,12.</ls>
+; pc: 45547 : pItudAru : (ŚAT. BR.)13,4,4,17. : (ŚAT. BR.)13,4,4,7. : p
+;
+; case 082 pucCa ---
+; <L>45657<pc>4-0752<k1>pucCa<k2>pu/cCa
+446136 old <ls>ŚAT. BR. 6,1,1,6.</ls> <ls n="ŚAT. BR.">7,2,2,8.</ls> <ls n="ŚAT. BR. 7,">3,2,20.</ls> <ls n="ŚAT. BR.">8,2,4,17.</ls> {#paScAdagnipucCasyopaviSati#} (u. {#agnipucCa#} falsch erklärt)
+; (01)  <ls n="ŚAT. BR. 7,">3,2,20.</ls>
+;       7,3,2,20
+;       7,3,2,10 (print error)
+446136 new <ls>ŚAT. BR. 6,1,1,6.</ls> <ls n="ŚAT. BR.">7,2,2,8.</ls> <ls n="ŚAT. BR. 7,">3,2,10.</ls> <ls n="ŚAT. BR.">8,2,4,17.</ls> {#paScAdagnipucCasyopaviSati#} (u. {#agnipucCa#} falsch erklärt)
+; pc: 45657 : pucCa : (ŚAT. BR. 7,)3,2,20. : (ŚAT. BR. 7,)3,2,10. : p
+;
+; case 083 puruza ---  Andhrabharati review
+; <L>46157<pc>4-0793<k1>puruza<k2>pu/ruza
+450933 old <ls n="ŚAT. BR.">10,5,2,1. fgg.</ls> <ls n="ŚAT. BR.">14,5,2,1.</ls> <ls n="ŚAT. BR. 14,5,2,">12.</ls> <ls n="ŚAT. BR. 14,5,2,">13.</ls> <ls n="ŚAT. BR. 14,5,">5,1. fgg.</ls> — {#tataH satyavataH kAyAtpASabadDaM vaSaM gatam . aNguzWamAtraM puruzaM niScakarza yamo balAt ..#}
+; (01)  <ls n="ŚAT. BR. 14,5,2,">13.</ls>
+;       14,5,2,13
+;       14,5,1,13 (print error)
+; (02)  <ls n="ŚAT. BR. 14,5,2,">12.</ls>
+;       14,5,2,12
+;       14,5,1,12 (print error); so is the prev. one (14,5,1,1)
+450933 new <ls n="ŚAT. BR.">10,5,2,1. fgg.</ls> <ls n="ŚAT. BR.">14,5,1,12.</ls> <ls n="ŚAT. BR. 14,5,1,">13.</ls> <ls n="ŚAT. BR. 14,5,">5,1. fgg.</ls> — {#tataH satyavataH kAyAtpASabadDaM vaSaM gatam . aNguzWamAtraM puruzaM niScakarza yamo balAt ..#}
+; pc: 46157 : puruza : (ŚAT. BR.)14,5,2,1. 12. 13. 5,1 : (ŚAT. BR.)14,5,1,12. 13. 5,1 : p
+; notes
+; page 4-0793 bottom 4 up:   10,5,2,1. fgg. 14,5,2,1. 12. 13. 5,1
+;  
+; 10,5,2,1 puruza FOUND
+; 14,5,1,12 FOUND
+; 14,5,1,13 FOUND
+; 14,5,5,1  FOUND
+; 14,5,1,1  puruza not found  <<<<
+; 14,5,2,1 puruza not found
+; 14,5,2,12 invalid
+; 14,5,2,13 invalid
+; case 084 pfzWya ---
+; <L>47202<pc>4-0873<k1>pfzWya<k2>pfzWya/<h>3
+460265 old <ls>ŚAT. BR. 4,5,4,13.</ls> <ls n="ŚAT. BR.">12,1,2,2.</ls> <ls n="ŚAT. BR. 12,1,">4,1.</ls> <ls n="ŚAT. BR. 12,1,4,">3.</ls> <ls n="ŚAT. BR. 12,1,4,">11.</ls> <ls n="ŚAT. BR. 12,">3,3,6.</ls> <ls n="ŚAT. BR. 12,3,3,">7.</ls> {#aBiplavaM pUrvaM purastAdvizavata upayanti pfzWyamuttaram#}
+; (01)  <ls n="ŚAT. BR. 12,1,4,">11.</ls>
+;       12,1,4,11
+;       12,2,3,11 (typo) & (print error); merge with the prev. one 
+; <ls n="ŚAT. BR. 12,1,4,">3.</ls> <ls n="ŚAT. BR. 12,1,4,">11.</ls> 
+; as <ls n="ŚAT. BR. 12,1,">3,11</ls>
+;
+460265 new <ls>ŚAT. BR. 4,5,4,13.</ls> <ls n="ŚAT. BR.">12,1,2,2.</ls> <ls n="ŚAT. BR. 12,1,">4,1.</ls> <ls n="ŚAT. BR. 12,1,">3,11.</ls> <ls n="ŚAT. BR. 12,">3,3,6.</ls> <ls n="ŚAT. BR. 12,3,3,">7.</ls> {#aBiplavaM pUrvaM purastAdvizavata upayanti pfzWyamuttaram#}
+; pc: 47202 : pfzWya : (ŚAT. BR. 12,1,4,)11. : (ŚAT. BR. 12,1,4,)11. : t
+; scan ŚAT. BR. 4,5,4,13. 12,1,2,2. 4,1. 3,11. 3,3,6. 7.
+;                 ok         ok
+; case 085 prasalavi ---
+; <L>50072<pc>4-1094<k1>prasalavi<k2>prasalavi/
+486172 old <ls n="ŚAT. BR.">7,5,1,37.</ls> <ls n="ŚAT. BR. 7,5,">14,1.</ls> <ls n="ŚAT. BR. 7,5,">3,32.</ls> <ls>ŚĀṄKH. ŚR. 17,14,16. 15,4.</ls> Dagegen wird {#prasavi#} gelesen
+; (01)  <ls n="ŚAT. BR. 7,5,">14,1.</ls>
+;       7,5,14,1
+;       14,1,3,32 (typo); merge with the next one
+; (02)  <ls n="ŚAT. BR. 7,5,">3,32.</ls>
+;       7,5,3,32
+;       14,1,3,32 (typo); merge with the prev. one
+486172 new <ls n="ŚAT. BR.">7,5,1,37.</ls> <ls n="ŚAT. BR.">14,1,3,32.</ls> <ls>ŚĀṄKH. ŚR. 17,14,16. 15,4.</ls> Dagegen wird {#prasavi#} gelesen
+; pc: 50072 : prasalavi : (ŚAT. BR. 7,5,)14,1. 3,32. : (ŚAT. BR.)14,1,3,32. : t
+;
+; case 086 banDutA ---
+; <L>51779<pc>5-0020<k1>banDutA<k2>banDutA/
+502510 old <ls>ŚAT. BR. 3,1,3,12.</ls> <ls n="ŚAT. BR.">12,6,1,38.</ls> <ls n="ŚAT. BR. 12,6,">8,2.</ls> <ls n="ŚAT. BR. 12,6,8,">18.</ls>
+; (01)  <ls n="ŚAT. BR. 12,6,">8,2.</ls>
+;       12,6,8,2
+;       12,8,2,18 (typo); merge the two as above
+; (02)  <ls n="ŚAT. BR. 12,6,8,">18.</ls>
+;       12,6,8,18
+;       12,8,2,18 (typo); merge with the prev. one 
+;       <ls n="ŚAT. BR. 12,6,">8,2.</ls> <ls n="ŚAT. BR. 12,6,8,">18.</ls>
+;       as <ls n="ŚAT. BR. 12,">8,2,18.</ls>
+502510 new <ls>ŚAT. BR. 3,1,3,12.</ls> <ls n="ŚAT. BR.">12,6,1,38.</ls> <ls n="ŚAT. BR. 12,6,">8,2,18.</ls>
+; pc: 51779 : banDutA : ŚAT. BR. 3,1,3,12. 12,6,1,38. 8,2,18. : t
+;
+; case 087 brAhmaRa ---
+; <L>53632<pc>5-0153<k1>brAhmaRa<k2>brAhmaRa
+518407 old <ls n="AIT. BR.">6,25.</ls> <ls n="AIT. BR.">7,12.</ls> <ls n="AIT. BR.">8,2.</ls> <ls n="AIT. BR. 8,">17.</ls> <ls>TS. 3,1,9,5.</ls> <ls n="TS. 3,">5,2,1.</ls> <ls>ŚAT. BR. 3,2,4,1.</ls> <ls n="ŚAT. BR. 3,2,">4,1.</ls> <ls n="ŚAT. BR. 3,2,">5,15.</ls> <ls n="ŚAT. BR. 3,2,5,">6.</ls> <ls n="ŚAT. BR. 3,2,5,">2.</ls> <ls n="ŚAT. BR. 3,2,">1,39.</ls> <ls n="ŚAT. BR.">13,4,1,5.</ls> <ls n="ŚAT. BR. 13,4,1,">6.</ls> <ls n="ŚAT. BR. 13,4,">2,8.</ls> Daher Bez. {%einer bekannten Klasse vedischer Schriften, welche diese Erläuterungen enthalten%}, z. B. <is>Aitareya-</is>, <is>Taittirīya-</is>, <is>Śatapatha-Brāhmaṇa</is>
+; (01)  <ls n="ŚAT. BR. 3,2,5,">6.</ls>
+;       3,2,5,6
+;       6,2,1,39 (typo); merge the next two ones, i.e. 
+;       <ls n="ŚAT. BR. 3,2,5,">6.</ls> <ls n="ŚAT. BR. 3,2,5,">2.</ls> <ls n="ŚAT. BR. 3,2,">1,39.</ls> 
+;        --><ls n="ŚAT. BR. 3,2,">6,2,1,39.</ls>
+; (02)  <ls n="ŚAT. BR. 3,2,">5,15.</ls>
+;       3,2,5,15
+;       4,1,5,15 (typo); merge with the prev. one, i.e. <ls n="ŚAT. BR. 3,2,">4,1.</ls> <ls n="ŚAT. BR. 3,2,">5,15.</ls> --> <ls n="ŚAT. BR. 3,2,">4,1,5,15.</ls>
+; (03)  <ls n="ŚAT. BR. 3,2,5,">2.</ls>
+;       3,2,5,2
+;       6,2,1,39 (typo); see next
+518407 new <ls n="AIT. BR.">6,25.</ls> <ls n="AIT. BR.">7,12.</ls> <ls n="AIT. BR.">8,2.</ls> <ls n="AIT. BR. 8,">17.</ls> <ls>TS. 3,1,9,5.</ls> <ls n="TS. 3,">5,2,1.</ls> <ls>ŚAT. BR. 3,2,4,1.</ls> <ls n="ŚAT. BR.">4,1,5,15.</ls> <ls n="ŚAT. BR.">6,2,1,39.</ls> <ls n="ŚAT. BR.">13,4,1,5.</ls> <ls n="ŚAT. BR. 13,4,1,">6.</ls> <ls n="ŚAT. BR. 13,4,">2,8.</ls> Daher Bez. {%einer bekannten Klasse vedischer Schriften, welche diese Erläuterungen enthalten%}, z. B. <is>Aitareya-</is>, <is>Taittirīya-</is>, <is>Śatapatha-Brāhmaṇa</is>
+; scan: ŚAT. BR. 3,2,4,1. 4,1,5,15. 6,2,1,39. 13,4,1,5. 6. 2,8.
+;                  ok        ok       ok         ok     ok  ok
+; pc: 53632 : brAhmaRa :  :  : t
+;
+; case 088 Bagavant ---
+; <L>53804<pc>5-0173<k1>Bagavant<k2>Ba/gavant
+520292 old <ls n="ŚAT. BR.">14,6,1,2.</ls> <ls n="ŚAT. BR. 14,">8,1,12.</ls> <ls n="ŚAT. BR. 14,8,">9,29.</ls> <ls n="ŚAT. BR. 14,">7,1,16.</ls> <ls>MUṆḌ. UP. 1,1,3.</ls> <ls>M. 1,2.</ls> <ls n="M. 1,">6.</ls> <ls n="M. 1,">12.</ls> <ls n="M. 1,">8.</ls> <ls n="M. 1,">16.</ls> <ls n="M.">12,117.</ls> <ls>SUND. 3,24. 4,23.</ls> <ls>N. 12,50.</ls> <ls>R. 1,2,29.</ls> <ls n="R. 1,">8,6.</ls> <ls n="R. 1,">52,16.</ls> <ls n="R.">2,54,5.</ls> <ls n="R.">3,3,1.</ls> <ls>SUŚR. 1,128,18. 2,394,9. 12. 15. 19.</ls> <ls>ŚĀK. 14,12.</ls> <ls n="ŚĀK.">31,10.</ls> <ls n="ŚĀK.">32,5.</ls> <ls n="ŚĀK.">62,15.</ls> <ls n="ŚĀK.">64,21</ls> (von seinem subst. getrennt). {#Bagavati vasuDe#}
+; (01)  <ls n="ŚAT. BR. 14,">8,1,12.</ls>
+;       14,8,1,12
+;       8,1. 12. (print error)
+; (02)  <ls n="ŚAT. BR. 14,8,">9,29.</ls>
+;       14,8,9,29
+;       14,6,9,29 (typo)
+520292 new <ls n="ŚAT. BR.">14,6,1,2.</ls> <ls n="ŚAT. BR. 14,6,">8,1.</ls> <ls n="ŚAT. BR. 14,6,8,">12.</ls> <ls n="ŚAT. BR. 14,6,">9,29.</ls> <ls n="ŚAT. BR. 14,">7,1,16.</ls> <ls>MUṆḌ. UP. 1,1,3.</ls> <ls>M. 1,2.</ls> <ls n="M. 1,">6.</ls> <ls n="M. 1,">12.</ls> <ls n="M. 1,">8.</ls> <ls n="M. 1,">16.</ls> <ls n="M.">12,117.</ls> <ls>SUND. 3,24. 4,23.</ls> <ls>N. 12,50.</ls> <ls>R. 1,2,29.</ls> <ls n="R. 1,">8,6.</ls> <ls n="R. 1,">52,16.</ls> <ls n="R.">2,54,5.</ls> <ls n="R.">3,3,1.</ls> <ls>SUŚR. 1,128,18. 2,394,9. 12. 15. 19.</ls> <ls>ŚĀK. 14,12.</ls> <ls n="ŚĀK.">31,10.</ls> <ls n="ŚĀK.">32,5.</ls> <ls n="ŚĀK.">62,15.</ls> <ls n="ŚĀK.">64,21</ls> (von seinem subst. getrennt). {#Bagavati vasuDe#}
+; pc: 53804 : Bagavant : (ŚAT. BR. 14,)8,1,12 : (ŚAT. BR. 14,6)8,1. 12. : p
+; scan: ŚAT. BR. 1,8,1,9. 3,2,1,20. 8,3,4. 12,9,3,7.  [text]
+;                14,6,1,2.   8,1,12.    9,29.    7,1,16.
+;   correction      ok      8,1. 12. 
+; case 089 Bar ---
+; <L>54144<pc>5-0204<k1>Bar<k2>Bar<h>1
+523815 old <ls n="ṚV.">5,64,6.</ls> <ls>ŚAT. BR. 3,8,2,1.</ls> <ls n="ŚAT. BR.">9,5,1,62.</ls> <ls n="ŚAT. BR.">7,1,2,42. fg.</ls> {#brAhmIM vAcaM biBarzi#}
+; (01)  <ls n="ŚAT. BR.">7,1,2,42. fg.</ls>
+;       7,1,2,42
+;       14,1,2,14 (print error)
+523815 new <ls n="ṚV.">5,64,6.</ls> <ls>ŚAT. BR. 3,8,2,1.</ls> <ls n="ŚAT. BR.">9,5,1,62.</ls> <ls n="ŚAT. BR.">14,1,2,14. fg.</ls> {#brAhmIM vAcaM biBarzi#}
+; pc: 54144 : Bar : (ŚAT. BR.)7,1,2,42. fg. : (ŚAT. BR.)14,1,2,14. fg. : p
+;
+; case 090 BAgin ---
+; <L>54447<pc>5-0238<k1>BAgin<k2>BAgi/n
+527349 old <ls>ŚAT. BR. 1,7,4,18.</ls> <ls n="ŚAT. BR. 1,7,">9,2.</ls> <ls n="ŚAT. BR. 1,7,9,">35.</ls> <ls n="ŚAT. BR. 1,7,9,">11.</ls> <ls n="ŚAT. BR. 1,">7,4,2.</ls> {#agniH sarvezu havizzu BAgI Bavati#}
+; (01)  <ls n="ŚAT. BR. 1,7,9,">35.</ls>
+;       1,7,9,35
+;       9,2,35 (typo)
+; (02)  <ls n="ŚAT. BR. 1,7,">9,2.</ls>
+;       1,7,9,2
+;       9,2,35 (typo)
+; (03)  <ls n="ŚAT. BR. 1,7,9,">11.</ls>
+;       1,7,9,11
+;       11,7,4,2 (typo); merge with the next item
+527349 new <ls>ŚAT. BR. 1,7,4,18.</ls> <ls n="ŚAT. BR. 1,">9,2,35.</ls> <ls n="ŚAT. BR.">11,7,4,2.</ls> {#agniH sarvezu havizzu BAgI Bavati#}
+; scan  1,7,4,18. 9,2,35.  11,7,4,2.
+; pc: 54447 : BAgin :  :  : t
+;
+; case 091 BAjana ---
+; <L>54466<pc>5-0241<k1>BAjana<k2>BAjana
+527651 old <ls n="ŚAT. BR.">3,4,2,15.</ls> <ls n="ŚAT. BR. 3,4,2,">3.</ls> <ls n="ŚAT. BR. 3,4,2,">22.</ls> <ls>AIT. BR. 1,22.</ls> {#patnIBAjanaM vE nezwA#} {%der%} <is>Neṣṭar</is> {%stellt das Weib vor%}
+; (01)  <ls n="ŚAT. BR. 3,4,2,">22.</ls>
+;       3,4,2,22
+;       3,4,3,22 (typo); merge with the prev. one
+527651 new <ls n="ŚAT. BR.">3,4,2,15.</ls> <ls n="ŚAT. BR. 3,4,">3,22.</ls> <ls>AIT. BR. 1,22.</ls> {#patnIBAjanaM vE nezwA#} {%der%} <is>Neṣṭar</is> {%stellt das Weib vor%}
+; scan:   3,4,2,15.    3,22. 
+; pc: 54466 : BAjana : (ŚAT. BR. 3,4,2,)22. : (ŚAT. BR. 3,4,2,)22. : t
+;
+; case 092 man ---
+; <L>57252<pc>5-0508<k1>man<k2>man
+557188 old <ls n="ŚAT. BR.">12,4,1,19.</ls> <ls n="ŚAT. BR.">14,4,2,20.</ls> <ls n="ŚAT. BR. 14,4,">3,25.</ls> <ls n="ŚAT. BR. 14,">9,2,15.</ls> {#sa\rpA jIrya^nto 'manyanta#}
+; (01)  <ls n="ŚAT. BR.">12,4,1,19.</ls>
+;       12,4,1,19
+;       12,4,1,9 (print error)
+557188 new <ls n="ŚAT. BR.">12,4,1,9.</ls> <ls n="ŚAT. BR.">14,4,2,20.</ls> <ls n="ŚAT. BR. 14,4,">3,25.</ls> <ls n="ŚAT. BR. 14,">9,2,15.</ls> {#sa\rpA jIrya^nto 'manyanta#}
+; pc: 57252 : man : (ŚAT. BR.)12,4,1,19. : (ŚAT. BR.)12,4,1,9. : p
+;
+; case 093 mftyu ---
+; <L>61654<pc>5-0881<k1>mftyu<k2>mftyu/
+599418 old <ls n="ŚAT. BR. 12,">6,5,1.</ls> <ls n="ŚAT. BR.">14,6,1,5.</ls> {#miTo BindAnA upayantu mftyum#}
+; (01)  <ls n="ŚAT. BR. 12,">6,5,1.</ls>
+;       12,6,5,1
+;       10,6,5,1 (typo)
+599418 new <ls n="ŚAT. BR. 10,">6,5,1.</ls> <ls n="ŚAT. BR.">14,6,1,5.</ls> {#miTo BindAnA upayantu mftyum#}
+; pc: 61654 : mftyu : (ŚAT. BR. 12,)6,5,1. : (ŚAT. BR. 10,)6,5,1. : t
+;
+; case 094 yajYaveSasa ---
+; <L>81021<pc>6-0020<k1>yajYaveSasa<k2>yajYaveSasa/
+726375 old <ls>ŚAT. BR. 1,6,3,8.</ls> <ls n="ŚAT. BR.">12,7,1,1.</ls> <ls n="ŚAT. BR. 12,">8,3,1.</ls> <ls n="ŚAT. BR.">13,2,3,3.</ls>
+; (01)  <ls n="ŚAT. BR.">13,2,3,3.</ls>
+;       13,2,3,3
+;       13,2,4,3 (print error)
+726375 new <ls>ŚAT. BR. 1,6,3,8.</ls> <ls n="ŚAT. BR.">12,7,1,1.</ls> <ls n="ŚAT. BR. 12,">8,3,1.</ls> <ls n="ŚAT. BR.">13,2,4,3.</ls>
+; pc: 81021 : yajYaveSasa : (ŚAT. BR.)13,2,3,3. : (ŚAT. BR.)13,2,4,3. : p
+;
+; case 095 rakz ---
+; <L>82848<pc>6-0214<k1>rakz<k2>rakz<h>1
+747436 old <ls n="ŚAT. BR.">13,7,6,3.</ls> {#somam#}
+; (01)  <ls n="ŚAT. BR.">13,7,6,3.</ls>
+;       13,7,6,3
+;       13,1,6,3 (print error)
+747436 new <ls n="ŚAT. BR.">13,1,6,3.</ls> {#somam#}
+; pc: 82848 : rakz : (ŚAT. BR.)13,7,6,3. : (ŚAT. BR.)13,1,6,3. : p
+;
+; case 096 raTacakra ---
+; <L>83366<pc>6-0255<k1>raTacakra<k2>raTacakra/
+752404 old <ls>ŚAT. BR. 2,3,3,12.</ls> <ls n="ŚAT. BR.">5,1,5,2.</ls> <ls n="ŚAT. BR.">11,8,1,11.</ls>
+; (01)  <ls n="ŚAT. BR.">11,8,1,11.</ls>
+;       11,8,1,11
+;       11,8,1,1 (print eror)
+752404 new <ls>ŚAT. BR. 2,3,3,12.</ls> <ls n="ŚAT. BR.">5,1,5,2.</ls> <ls n="ŚAT. BR.">11,8,1,1.</ls>
+; pc: 83366 : raTacakra : (ŚAT. BR.)11,8,1,11. : (ŚAT. BR.)11,8,1,1. : p
+;
+; case 097 ruh ---
+; <L>85093<pc>6-0406<k1>ruh<k2>ruh<h>1
+770486 old <ls>ŚAT. BR. 4,6,8,3.</ls> <ls n="ŚAT. BR.">12,4,3,10.</ls> <ls n="ŚAT. BR. 12,4,3,">41.</ls> <ls n="ŚAT. BR.">13,6,2,20.</ls>
+; (01)  <ls n="ŚAT. BR. 12,4,3,">41.</ls>
+;       12,4,3,41
+;       12,4,4,1 (print error 41. for 4,1.)
+770486 new <ls>ŚAT. BR. 4,6,8,3.</ls> <ls n="ŚAT. BR.">12,4,3,10.</ls> <ls n="ŚAT. BR. 12,4,">4,1.</ls> <ls n="ŚAT. BR.">13,6,2,20.</ls>
+; pc: 85093 : ruh : (ŚAT. BR. 12,4,3,)41. : (ŚAT. BR. 12,4,)4,11. : p
+;
+; case 098 lokaMpfRa ---
+; <L>86698<pc>6-0583<k1>lokaMpfRa<k2>lokaMpfRa/
+789087 old <ls>ŚAT. BR. 6,1,2,25.</ls> <ls n="ŚAT. BR. 6,">2,3,6.</ls> <ls n="ŚAT. BR.">7,1,1,83.</ls> <ls n="ŚAT. BR.">10,4,2,18.</ls> <ls n="ŚAT. BR. 10,4,">3,8.</ls>
+; (01)  <ls n="ŚAT. BR.">7,1,1,83.</ls>
+;       7,1,1,83
+;       7,1,1,13 (print error)
+789087 new <ls>ŚAT. BR. 6,1,2,25.</ls> <ls n="ŚAT. BR. 6,">2,3,6.</ls> <ls n="ŚAT. BR.">7,1,1,13.</ls> <ls n="ŚAT. BR.">10,4,2,18.</ls> <ls n="ŚAT. BR. 10,4,">3,8.</ls>
+; pc: 86698 : lokaMpfRa : (ŚAT. BR.)7,1,1,83. : (ŚAT. BR.)7,1,1,13. : p
+;
+; case 099 valh   Jim: upavalhante 12,4,2,28 -> 12,4,2,8   print change 
+; <L>88834<pc>6-0817<k1>valh<k2>valh
+815161 old <ls>VS. 23,51.</ls> med. <ls>ŚAT. BR. 11,4,1,9.</ls> <ls n="ŚAT. BR.">12,4,2,28.</ls>
+; (01)  <ls n="ŚAT. BR.">12,4,2,28.</ls>
+;       12,4,2,28
+;       11,4,1,1 (print error);  this is the only other occurance apart from 11,4,1,9.
+815161 new <ls>VS. 23,51.</ls> med. <ls>ŚAT. BR. 11,4,1,9.</ls> <ls n="ŚAT. BR.">12,4,2,8.</ls>
+; pc: 88834 : valh : (ŚAT. BR.)12,4,2,28. : (ŚAT. BR.)12,4,2,8. : p
+;
+; case 100 vasIyaMs ---
+; <L>88998<pc>6-0844<k1>vasIyaMs<k2>va/sIyaMs
+817799 old <ls>ŚAT. BR. 3,4,4,27.</ls> <ls n="ŚAT. BR. 3,4,">9,14.</ls> {#upatApI vasIyAnBUtvAnnamicCati#} {%wenn er wohler geworden ist%}
+; (01)  <ls n="ŚAT. BR. 3,4,">9,14.</ls>
+;       3,4,9,14
+;       3,9,1,4 (print error)
+817799 new <ls>ŚAT. BR. 3,4,4,27.</ls> <ls n="ŚAT. BR. 3,">9,1,4.</ls> {#upatApI vasIyAnBUtvAnnamicCati#} {%wenn er wohler geworden ist%}
+; pc: 88998 : vasIyaMs : (ŚAT. BR. 3,4,)9,14. : (ŚAT. BR. 3,)9,1,4. : p
+;
+; case 101 vaha ---
+; <L>89201<pc>6-0869<k1>vaha<k2>vaha
+820464 old <ls>AK. 2,9,63.</ls> <ls>TRIK. 3,3,459.</ls> <ls>H. 1264.</ls> <ls>an. 2,602.</ls> <ls>MED. h. 8.</ls> <ls>HALĀY. 2 ,112.</ls> <ls>AV. 4,11,7</ls> (oder zu b). <ls n="AV.">9,7,3.</ls> <ls>VS. 25,3.</ls> <ls>TS. 7,3,16,1.</ls> <ls>ŚAT. BR. 1,1,2,9.</ls> <ls n="ŚAT. BR. 1,">2,3,28.</ls> <ls n="ŚAT. BR.">4,5,1,15.</ls> {#Uhuzo vahaM pratyanakti#}
+; (01)  <ls n="ŚAT. BR. 1,">2,3,28.</ls>
+;       1,2,3,28
+;       2,2,3,28 (typo)
+820464 new <ls>AK. 2,9,63.</ls> <ls>TRIK. 3,3,459.</ls> <ls>H. 1264.</ls> <ls>an. 2,602.</ls> <ls>MED. h. 8.</ls> <ls>HALĀY. 2 ,112.</ls> <ls>AV. 4,11,7</ls> (oder zu b). <ls n="AV.">9,7,3.</ls> <ls>VS. 25,3.</ls> <ls>TS. 7,3,16,1.</ls> <ls>ŚAT. BR. 1,1,2,9.</ls> <ls n="ŚAT. BR.">2,2,3,28.</ls> <ls n="ŚAT. BR.">4,5,1,15.</ls> {#Uhuzo vahaM pratyanakti#}
+; pc: 89201 : vaha : (ŚAT. BR. 1,)2,3,28. : (ŚAT. BR.)2,2,3,28. : p
+;
+; case 102 vAtsya ---
+; <L>89842<pc>6-0915<k1>vAtsya<k2>vAtsya
+826061 old Schol. zu, <ls n="P. 4,">1,102.</ls> <ls n="P. 4,1,">117.</ls> <ls n="P.">6,1,197.</ls> <ls n="P.">8,4,66.</ls> <ls>VOP. 7,1.</ls> <ls n="VOP. 7,">8.</ls> <ls>ŚAT. BR. 9,5,1,62.</ls> <ls n="ŚAT. BR.">10,6,5,9.</ls> <ls n="ŚAT. BR.">14,5,4,22.</ls> <ls>KĀTY. ŚR. 1,1,11.</ls> <ls n="KĀTY. ŚR. 1,">3,6.</ls> <ls n="KĀTY. ŚR. 1,">5,13.</ls> <ls n="KĀTY. ŚR.">4,3,18.</ls> <ls>MBH. 1,2049.</ls> <ls>VARĀH. BṚH. S. 21,2.</ls> <ls>VP. 277.</ls> <ls>BHĀG. P. 12,6,57.</ls> <ls>Verz. d. Oxf. H. 54,b, N. 5.</ls> <ls n="Verz. d. Oxf. H.">55,a,34.</ls> Schol. zu <ls>AV. PRĀT. 2,6.</ls> pl. Bez. einer Völkerschaft
+; (01)  <ls n="ŚAT. BR.">14,5,4,22.</ls>
+;       14,5,4,22
+;       14,5,5,22 (print error)
+826061 new Schol. zu, <ls n="P. 4,">1,102.</ls> <ls n="P. 4,1,">117.</ls> <ls n="P.">6,1,197.</ls> <ls n="P.">8,4,66.</ls> <ls>VOP. 7,1.</ls> <ls n="VOP. 7,">8.</ls> <ls>ŚAT. BR. 9,5,1,62.</ls> <ls n="ŚAT. BR.">10,6,5,9.</ls> <ls n="ŚAT. BR.">14,5,5,22.</ls> <ls>KĀTY. ŚR. 1,1,11.</ls> <ls n="KĀTY. ŚR. 1,">3,6.</ls> <ls n="KĀTY. ŚR. 1,">5,13.</ls> <ls n="KĀTY. ŚR.">4,3,18.</ls> <ls>MBH. 1,2049.</ls> <ls>VARĀH. BṚH. S. 21,2.</ls> <ls>VP. 277.</ls> <ls>BHĀG. P. 12,6,57.</ls> <ls>Verz. d. Oxf. H. 54,b, N. 5.</ls> <ls n="Verz. d. Oxf. H.">55,a,34.</ls> Schol. zu <ls>AV. PRĀT. 2,6.</ls> pl. Bez. einer Völkerschaft
+; pc: 89842 : vAtsya : (ŚAT. BR.)14,5,4,22. : (ŚAT. BR.)14,5,5,22. : p
+;
+; case 103 vAva ---
+; <L>90511<pc>6-0957<k1>vAva<k2>vA/va/
+831662 old <ls n="ŚAT. BR.">12,4,1,14.</ls>
+; (01)  <ls n="ŚAT. BR.">12,4,1,14.</ls>
+;       12,4,1,14
+;       12,4,1,4 (print error)
+831662 new <ls n="ŚAT. BR.">12,4,1,4.</ls>
+; pc: 90511 : vAva : (ŚAT. BR.)12,4,1,14. : (ŚAT. BR.)12,4,1,4. : p
+;
+; case 104 vid ---
+; <L>91583<pc>6-1048<k1>vid<k2>vid<h>3
+842303 old <ls n="ŚAT. BR. 11,">3,32,4.</ls> <ls n="ŚAT. BR. 11,">5,32,5.</ls> {#tfzRA^vidajjari\tAra^m#}
+; (01)  <ls n="ŚAT. BR. 11,">3,32,4.</ls>
+;       11,3,32,4
+;       <ls>ṚV. 3,32,4.</ls> (print error)
+; (02)  <ls n="ŚAT. BR. 11,">5,32,5.</ls>
+;       11,5,32,5
+;       <ls>ṚV. 5,32,5.</ls> (print error)
+842303 new <ls>ṚV. 3,32,4.</ls> <ls>ṚV. 5,32,5.</ls> {#tfzRA^vidajjari\tAra^m#}
+; pc: 91583 : vid : (ŚAT. BR. 11,)3,32,4. : ṚV. 3,32,4. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,)5,32,5. : ṚV. 5,32,5. : p
+;
+; case 105 vid ---
+; <L>91583<pc>6-1048<k1>vid<k2>vid<h>3
+842304 old <ls n="ŚAT. BR. 11,">7,89,4.</ls> <ls n="ŚAT. BR. 11,7,">50,1.</ls> <ls>AV. 1,20,1.</ls> <ls n="AV.">12,4,4.</ls> <ls n="AV. 12,4,">5.</ls> <ls n="AV. 12,4,">8.</ls> {#taM yadi darpa eva vindet#}
+; (01)  <ls n="ŚAT. BR. 11,">7,89,4.</ls>
+;       11,7,89,4
+;       <ls>ṚV. 7,89,4.</ls> (print error)
+; (02)  <ls n="ŚAT. BR. 11,7,">50,1.</ls>
+;       11,7,50,1
+;       <ls n="ṚV. 7,">50,1.</ls> (print error)
+842304 new <ls>ṚV. 7,89,4.</ls> <ls n="ṚV. 7,">50,1.</ls> <ls>AV. 1,20,1.</ls> <ls n="AV.">12,4,4.</ls> <ls n="AV. 12,4,">5.</ls> <ls n="AV. 12,4,">8.</ls> {#taM yadi darpa eva vindet#}
+; pc: 91583 : vid : (ŚAT. BR. 11,)7,89,4. :  ṚV. 7,89,4. : p
+; pc: 91583 : vid : (ŚAT. BR. 11,7,)50,1. : (ṚV. 7,)50,1. : p
+;
+; case 106 vizuvant ---
+; <L>93931<pc>6-1257<k1>vizuvant<k2>vizuva/nt
+866273 old <ls>ŚAT. BR. 10,1,2,2.</ls> <ls n="ŚAT. BR. 10,1,">3,14.</ls> <ls n="ŚAT. BR. 10,1,3,">23.</ls> <ls n="ŚAT. BR. 10,1,">4,2.</ls> <ls n="ŚAT. BR.">2,1,1,8.</ls>
+; (01)  <ls n="ŚAT. BR. 10,1,">3,14.</ls>
+;       10,1,3,14
+;       12,1,3,14 (print error); also the preceding one (12,1,2,2)
+; (02)  <ls n="ŚAT. BR. 10,1,3,">23.</ls>
+;       10,1,3,23
+;       12,1,3,23 (print error); also the next two (12,1,4,1) & (12,2,1,8)
+866273 new <ls>ŚAT. BR. 12,1,2,2.</ls> <ls n="ŚAT. BR. 12,1,">3,14.</ls> <ls n="ŚAT. BR. 12,1,3,">23.</ls> <ls n="ŚAT. BR. 12,1,">4,2.</ls> <ls n="ŚAT. BR. 12,">2,1,8.</ls>
+; scan: ŚAT. BR. 10,1,2,2.   3,14.     23.      4,2.      2,1,8.
+; vizuvant:      12,1,2,2.  (12,1,) (12,1,3,)  (12,1,)   (12,)
+; pc: 93931 : vizuvant : ŚAT. BR. 10,1,2,2. : ŚAT. BR. 12,1,2,2. : p
+;
+; case 107 vEyAGrapadya ---  solved in change_pwg_3a.txt
+; <L>95892<pc>6-1407<k1>vEyAGrapadya<k2>vE/yAGrapadya
+;884419 old <ls>ŚAT. BR. 10,6,1,7.</ls> <ls n="ŚAT. BR. 10,6,1,">8.</ls>
+; WARNING: lsref not in koshaline
+; (01)  <ls n="ŚAT. BR. 10,6,7,">8.</ls>
+;       10,6,7,8
+;       10,6,1,8 (print error)
+;884419 new <ls>ŚAT. BR. 10,6,1,7.</ls> <ls n="ŚAT. BR. 10,6,1,">8.</ls>
+; pc: 95892 : vEyAGrapadya : (ŚAT. BR. 10,6,7,)8. : (ŚAT. BR. 10,6,7,)8. : x
+;
+; case 108 vOk ---
+; <L>96184<pc>6-1427<k1>vOk<k2>vOk
+886878 old <ls>ŚAT. BR. 1,7,2,21.</ls> <ls n="ŚAT. BR.">16,4,1,3.</ls> <ls n="ŚAT. BR. 16,4,1,">8.</ls>
+; (01)  <ls n="ŚAT. BR. 16,4,1,">8.</ls>
+;       16,4,1,8
+;       10,4,1,8 (typo)
+; (02)  <ls n="ŚAT. BR.">16,4,1,3.</ls>
+;       16,4,1,3
+;       10,4,1,3 (typo)
+886878 new <ls>ŚAT. BR. 1,7,2,21.</ls> <ls n="ŚAT. BR.">10,4,1,3.</ls> <ls n="ŚAT. BR. 10,4,1,">8.</ls>
+; pc: 96184 : vOk : (ŚAT. BR.)16,4,1,3. : (ŚAT. BR.)10,4,1,3. : p
+;
+; case 109 SaMyos ---
+; <L>96994<pc>7-0001<k1>SaMyos<k2>SaMyo/s
+895876 old <ls>ŚAT. BR. 1,9,1,24.</ls> <ls n="ŚAT. BR. 1,9,">2,18.</ls> <ls n="ŚAT. BR. 1,">6,1,47.</ls>
+; (01)  <ls n="ŚAT. BR. 1,">6,1,47.</ls>
+;       1,6,1,47
+;       2,6,1,47 (print error)
+895876 new <ls>ŚAT. BR. 1,9,1,24.</ls> <ls n="ŚAT. BR. 1,9,">2,18.</ls> <ls n="ŚAT. BR.">2,6,1,47.</ls>
+; pc: 96994 : SaMyos : (ŚAT. BR. 1,)6,1,47. : (ŚAT. BR.)2,6,1,47. : p
+;
+; case 110 Satarudriya ---  AB to check
+; <L>97586<pc>7-0049<k1>Satarudriya<k2>Satarudri/ya
+901713 old <ls>ŚAT. BR. 9,1,1,1.</ls> <ls n="ŚAT. BR. 9,1,">2,1.</ls> <ls n="ŚAT. BR.">10,1,5,3.</ls> <ls n="ŚAT. BR. 10,1,5,">15.</ls>
+; (01)  <ls n="ŚAT. BR. 10,1,5,">15.</ls>
+;       10,1,5,15
+;       10,2,5,15 (print error);  also the prev. one to split as (9,1,2,10.) & (9,1,2,13) [i.e. 10,1,5,3. --> 10. 13.]
+901713 new <ls>ŚAT. BR. 9,1,1,1.</ls> <ls n="ŚAT. BR. 9,1,">2,1.</ls> <ls n="ŚAT. BR. 9,1,2,">10.</ls> <ls n="ŚAT. BR. 9,1,2,">13.</ls> <ls n="ŚAT. BR.">10,2,5,15.</ls> 
+;; <ls n="ŚAT. BR.">10,1,5,3.</ls> <ls n="ŚAT. BR. 10,1,5,">15.</ls>
+; scan            ŚAT. BR. 9,1,1,1.     2,1.        10,1,5,3.      15.
+; Satarudriya                ok       (9,1,)2,1.      xxx
+; change AB                                       (9,1,2,)10.  (9,1,2,)13.     10,2,5,15
+; pc: 97586 : Satarudriya : (ŚAT. BR.)10,1,5,3. 15. : (ŚAT. BR.)10. 13. 10,2,5,15.  : p
+;
+; case 111 SAsa ---
+; <L>99148<pc>7-0168<k1>SAsa<k2>SAsa/<h>3
+916397 old <ls>ŚAT. BR. 3,8,1,4.</ls> <ls n="ŚAT. BR. 3,8,1,">5.</ls> <ls n="ŚAT. BR.">13,2,3,16.</ls>
+; (01)  <ls n="ŚAT. BR.">13,2,3,16.</ls>
+;       13,2,3,16
+;       13,2,2,16 (print error)
+916397 new <ls>ŚAT. BR. 3,8,1,4.</ls> <ls n="ŚAT. BR. 3,8,1,">5.</ls> <ls n="ŚAT. BR.">13,2,2,16.</ls>
+; pc: 99148 : SAsa : (ŚAT. BR.)13,2,3,16. : (ŚAT. BR.)13,2,2,16. : p
+;
+; case 112 Sukra ---
+; <L>100127<pc>7-0238<k1>Sukra<k2>Sukra/
+925685 old <ls n="ŚAT. BR.">5,9,4,6.</ls> <ls n="ŚAT. BR. 5,9,4,">13.</ls> <ls>KĀTY. ŚR. 9,2,9.</ls> <ls n="KĀTY. ŚR. 9,">6,11.</ls> Vgl. 1) {%b%}).
+; (01)  <ls n="ŚAT. BR. 5,9,4,">13.</ls>
+;       5,9,4,13
+;       4,5,9,13 (print error)
+; (02)  <ls n="ŚAT. BR.">5,9,4,6.</ls>
+;       5,9,4,6
+;       4,5,9,6 (print error)
+925685 new <ls n="ŚAT. BR.">4,5,9,6.</ls> <ls n="ŚAT. BR. 4,5,9,">13.</ls> <ls>KĀTY. ŚR. 9,2,9.</ls> <ls n="KĀTY. ŚR. 9,">6,11.</ls> Vgl. 1) {%b%}).
+; pc: 100127 : Sukra : (ŚAT. BR.)5,9,4,6.  : (ŚAT. BR.)4,5,9,6. : p
+;
+; case 113 SyAparRa ---
+; <L>101313<pc>7-0325<k1>SyAparRa<k2>SyA/parRa
+936933 old <ls>ŚAT. BR. 6,2,1,39.</ls> <ls n="ŚAT. BR.">9,5,2,1.</ls> <ls n="ŚAT. BR.">10,4,1,40.</ls>
+; (01)  <ls n="ŚAT. BR.">10,4,1,40.</ls>
+;       10,4,1,40
+;       10,4,1,10 (typo)
+936933 new <ls>ŚAT. BR. 6,2,1,39.</ls> <ls n="ŚAT. BR.">9,5,2,1.</ls> <ls n="ŚAT. BR.">10,4,1,10.</ls>
+; pc: 101313 : SyAparRa : (ŚAT. BR.)10,4,1,40. : (ŚAT. BR.)10,4,1,10. : p
+;
+; case 114 Svan ---
+; <L>102112<pc>7-0410<k1>Svan<k2>Sva/n<h>1
+946556 old <ls>ŚAT. BR. 11,5,1,8.</ls> <ls n="ŚAT. BR.">19,9,2,14.</ls>
+; (01)  <ls n="ŚAT. BR.">19,9,2,14.</ls>
+;       19,9,2,14
+;       14,9,2,14 (print error)
+946556 new <ls>ŚAT. BR. 11,5,1,8.</ls> <ls n="ŚAT. BR.">14,9,2,14.</ls>
+; pc: 102112 : Svan : (ŚAT. BR.)19,9,2,14. : (ŚAT. BR.)14,9,2,14. : p
+;
+; case 115 SvApada ---
+; <L>102199<pc>7-0420<k1>SvApada<k2>SvA/pada
+947697 old <ls>ŚAT. BR. 5,5,4,10.</ls> <ls n="ŚAT. BR.">14,2,4,16.</ls> <ls n="ŚAT. BR. 14,">4,2,29.</ls>
+; (01)  <ls n="ŚAT. BR.">14,2,4,16.</ls>
+;       14,2,4,16
+;       4,2,4,16 (print error); also the next one (14,4,2,29) 
+947697 new <ls>ŚAT. BR. 5,5,4,10.</ls> <ls n="ŚAT. BR.">4,2,4,16.</ls> <ls n="ŚAT. BR. 14,">4,2,29.</ls>
+; pc: 102199 : SvApada : (ŚAT. BR.)14,2,4,16. : (ŚAT. BR.)4,2,4,16. : p
+;
+; case 116 saMsTa ---
+; <L>103162<pc>7-0493<k1>saMsTa<k2>saMsTa
+956337 old <ls>ŚAT. BR. 3,1,3,6.</ls> <ls n="ŚAT. BR. 3,">2,1,7.</ls> <ls n="ŚAT. BR.">1,1,1,3.</ls> <ls n="ŚAT. BR. 1,">9,1,4.</ls> <ls n="ŚAT. BR.">7,2,3,7.</ls> <ls n="ŚAT. BR.">8,1,3,3.</ls> <ls n="ŚAT. BR. 8,1,">9,4.</ls> <ls n="ŚAT. BR. 8,1,">4,15.</ls> <ls n="ŚAT. BR.">13,4,4,3.</ls>
+; (01)  <ls n="ŚAT. BR. 8,1,">9,4.</ls>
+;       8,1,9,4
+;       9,4,4,15 (typo); merge with the next one
+; (02)  <ls n="ŚAT. BR. 8,1,">4,15.</ls>
+;       8,1,4,15
+;       9,4,4,15 (typo); merge with the prev. one
+956337 new <ls>ŚAT. BR. 3,1,3,6.</ls> <ls n="ŚAT. BR. 3,">2,1,7.</ls> <ls n="ŚAT. BR.">1,1,1,3.</ls> <ls n="ŚAT. BR. 1,">9,1,4.</ls> <ls n="ŚAT. BR.">7,2,3,7.</ls> <ls n="ŚAT. BR.">8,1,3,3.</ls> <ls n="ŚAT. BR.">9,4,4,15.</ls> <ls n="ŚAT. BR.">13,4,4,3.</ls>
+; scan  ŚAT. BR. 3,1,3,6.   2,1,7.  1,1,1,3.  9,1,4.  7,2,3.7. 8,1,3,3. *9,4,4,15. 13,4,4,3.
+; pc: 103162 : saMsTa : :  : t
+;
+; case 117 saptaviDa ---
+; <L>105069<pc>7-0666<k1>saptaviDa<k2>sapta/viDa
+976289 old <ls>ŚAT. BR. 9,5,2,8.</ls> <ls n="ŚAT. BR. 9,5,">10,2.</ls> <ls n="ŚAT. BR. 9,5,">3,1.</ls> <ls n="ŚAT. BR. 9,5,">4,8.</ls> <ls n="ŚAT. BR. 9,5,">6,2.</ls>
+; (01)  <ls n="ŚAT. BR. 9,5,">6,2.</ls>
+;       9,5,6,2
+;       10,2,6,2 (typo)
+; (02)  <ls n="ŚAT. BR. 9,5,">10,2.</ls>
+;       9,5,10,2
+;       10,2,3,1 (typo); merge with the next one
+; (03)  <ls n="ŚAT. BR. 9,5,">3,1.</ls>
+;       9,5,3,1
+;       10,2,3,1 (typo); merge with the prev. one
+; (04)  <ls n="ŚAT. BR. 9,5,">4,8.</ls>
+;       9,5,4,8
+;       10,2,4,8 (typo)
+976289 new <ls>ŚAT. BR. 9,5,2,8.</ls> <ls n="ŚAT. BR.">10,2,3,1.</ls> <ls n="ŚAT. BR. 10,2,">4,8.</ls> <ls n="ŚAT. BR. 10,2,">6,2.</ls>
+; scan ŚAT. BR. 9,5,2,8. 10,2,3,1.  4,8.  6,2.
+; pc: 105069 : saptaviDa :  :  : t
+;
+; case 118 samyaYc ---
+; <L>106385<pc>7-0766<k1>samyaYc<k2>samya/Yc
+988623 old <ls n="ŚAT. BR. 7,">3,30,11.</ls> <ls n="ŚAT. BR. 7,">8,6,17</ls>), als mit den Vorderseiten {%sich gegenseitig zugekehrt%},
+; (01)  <ls n="ŚAT. BR. 7,">3,30,11.</ls>
+;       7,3,30,11
+;       <ls n="ṚV.">3,30,11.</ls> (padding error)
+; (02)  <ls n="ŚAT. BR. 7,">8,6,17</ls>
+;       7,8,6,17
+;       <ls n="ṚV.">8,6,17.</ls> (padding error)
+988623 new <ls n="ṚV.">3,30,11.</ls> <ls n="ṚV.">8,6,17</ls>), als mit den Vorderseiten {%sich gegenseitig zugekehrt%},
+; pc: 106385 : samyaYc :  :  : t
+;
+; case 119 sarj ---
+; <L>106569<pc>7-0791<k1>sarj<k2>sarj<h>3
+992264 old <ls>ŚAT. BR. 1,7,3,21.</ls> <ls n="ŚAT. BR. 1,">3,6,1.</ls> <ls n="ŚAT. BR. 1,3,6,">7.</ls> <ls n="ŚAT. BR. 1,">9,3,30.</ls> {#jyotiSca tamaSca#}
+; (01)  <ls n="ŚAT. BR. 1,3,6,">7.</ls>
+;       1,3,6,7
+;       3,6,1,7 (print error); merge with the prev. one
+; (02)  <ls n="ŚAT. BR. 1,">3,6,1.</ls>
+;       1,3,6,1
+;       3,6,1,7 (print error); merge with the next one
+; (03)  <ls n="ŚAT. BR. 1,">9,3,30.</ls>
+;       1,9,3,30
+;       3,9,3,30 (print error)
+992264 new <ls>ŚAT. BR. 1,7,3,21.</ls> <ls n="ŚAT. BR.">3,6,1,7.</ls> <ls n="ŚAT. BR. 3,">9,3,30.</ls> {#jyotiSca tamaSca#}
+; scan:  ŚAT. BR. 1,7,3,21. 3,6,1. 7. 9,3,30.
+; pc: 106569 : sarj : ŚAT. BR. 1,7,3,21. 3,6,1. 7. : ŚAT. BR. 1,7,3,21. 3,6,1,7. : p
+;
+; case 120 savanIya ---
+; <L>107311<pc>7-0843<k1>savanIya<k2>savanI/ya
+997942 old <ls>ŚAT. BR. 9,5,1,26.</ls> <ls n="ŚAT. BR. 9,">13,5,1.</ls> <ls n="ŚAT. BR. 9,13,5,">3.</ls>
+; (01)  <ls n="ŚAT. BR. 9,">13,5,1.</ls>
+;       9,13,5,1
+;       13,5,1,3 (typo); merge with the next one
+; (02)  <ls n="ŚAT. BR. 9,13,5,">3.</ls>
+;       9,13,5,3
+;       13,5,1,3 (typo); merge with the prev. one
+997942 new <ls>ŚAT. BR. 9,5,1,26.</ls> <ls n="ŚAT. BR.">13,5,1,3.</ls>
+; scan  ŚAT. BR. 9,5,1,26. 13,5,1,3. 
+; pc: 107311 : savanIya :  :  : t
+;
+; case 121 sADu ---
+; <L>108217<pc>7-0913<k1>sADu<k2>sADu/
+1006513 old <ls>ŚAT. BR. 1,8,3,10.</ls> <ls n="ŚAT. BR.">5,4,4,5.</ls> <ls n="ŚAT. BR.">11,2,7,53.</ls> <ls n="ŚAT. BR.">14,8,13,2.</ls>
+; (01)  <ls n="ŚAT. BR.">11,2,7,53.</ls>
+;       11,2,7,53
+;       11,2,7,33 (print error)
+1006513 new <ls>ŚAT. BR. 1,8,3,10.</ls> <ls n="ŚAT. BR.">5,4,4,5.</ls> <ls n="ŚAT. BR.">11,2,7,33.</ls> <ls n="ŚAT. BR.">14,8,13,2.</ls>
+; pc: 108217 : sADu : (ŚAT. BR.)11,2,7,53. : (ŚAT. BR.)11,2,7,33. : p
+;
+; case 122 sukanyA ---
+; <L>109696<pc>7-1026<k1>sukanyA<k2>sukanyA/
+1020337 old <ls>ŚAT. BR. 4,1,5,6.</ls> <ls n="ŚAT. BR. 4,1,">10,13.</ls>
+; (01)  <ls n="ŚAT. BR. 4,1,">10,13.</ls>
+;       4,1,10,13
+;       10. 13. (print error) --><ls n="ŚAT. BR. 4,1,5,">10.</ls> <ls n="ŚAT. BR. 4,1,5">13.</ls>
+1020337 new <ls>ŚAT. BR. 4,1,5,6.</ls> <ls n="ŚAT. BR. 4,1,5,">10.</ls> <ls n="ŚAT. BR. 4,1,5,">13.</ls>
+; pc: 109696 : sukanyA : ŚAT. BR. 4,1,5,6. 10,13. : ŚAT. BR. 4,1,5,6. 10. 13. : p
+; scan:  ŚAT. BR. 4,1,5,6.  10,13.
+; case 123 sukfta ---
+; <L>109753<pc>7-1029<k1>sukfta<k2>sukfta/<h>1
+1020815 old <ls n="ŚAT. BR.">2,3,3,11.</ls> <ls n="ŚAT. BR.">4,1,4,5.</ls> <ls n="ŚAT. BR. 4,">5,1,17.</ls> <ls>ṢAḌV. BR. 1,6.</ls> {#e\tEH su^kf\tEranu^ gacCema ya\jYam#}
+; (01)  <ls n="ŚAT. BR. 4,">5,1,17.</ls>
+;       4,5,1,17
+;       4,5,1,7 (print error)
+1020815 new <ls n="ŚAT. BR.">2,3,3,11.</ls> <ls n="ŚAT. BR.">4,1,4,5.</ls> <ls n="ŚAT. BR. 4,">5,1,7.</ls> <ls>ṢAḌV. BR. 1,6.</ls> {#e\tEH su^kf\tEranu^ gacCema ya\jYam#}
+; pc: 109753 : sukfta : (ŚAT. BR. 4,)5,1,17. : (ŚAT. BR. 4,)5,1,7. : p
+;
+; case 124 sUta ---
+; <L>112139<pc>7-1159<k1>sUta<k2>sUta/<h>3
+1039832 old <ls>MED. t. 72.</ls> <ls>HALĀY. 2,280. 294.</ls> <ls>AV. 3,5,7.</ls> <ls>VS. 16,18.</ls> <ls n="VS.">30,6.</ls> <ls>TBR. 1,7,3,4.</ls> <ls n="TBR.">2,7,18,4.</ls> <ls>ŚAT. BR. 5,3,1,5.</ls> <ls n="ŚAT. BR. 5,">4,4,17.</ls> <ls n="ŚAT. BR.">13,4,2,5.</ls> <ls n="ŚAT. BR. 13,">7,1,43.</ls> <ls>KĀTH. 28,3.</ls> <ls>PAÑCAV. BR. 19,1,4.</ls> <ls>KĀTY. ŚR. 15,7,12.</ls> <ls n="KĀTY. ŚR.">20,1,15.</ls>
+; (01)  <ls n="ŚAT. BR. 13,">7,1,43.</ls>
+;       13,7,1,43
+;       14,7,1,43 (print error)
+1039832 new <ls>MED. t. 72.</ls> <ls>HALĀY. 2,280. 294.</ls> <ls>AV. 3,5,7.</ls> <ls>VS. 16,18.</ls> <ls n="VS.">30,6.</ls> <ls>TBR. 1,7,3,4.</ls> <ls n="TBR.">2,7,18,4.</ls> <ls>ŚAT. BR. 5,3,1,5.</ls> <ls n="ŚAT. BR. 5,">4,4,17.</ls> <ls n="ŚAT. BR.">13,4,2,5.</ls> <ls n="ŚAT. BR.">14,7,1,43.</ls> <ls>KĀTH. 28,3.</ls> <ls>PAÑCAV. BR. 19,1,4.</ls> <ls>KĀTY. ŚR. 15,7,12.</ls> <ls n="KĀTY. ŚR.">20,1,15.</ls>
+; pc: 112139 : sUta : (ŚAT. BR. 13,)7,1,43. : (ŚAT. BR.)14,7,1,43. : p
+;
+; case 125 sUdadohas ---
+; <L>112239<pc>7-1166<k1>sUdadohas<k2>sU/dadohas
+1040695 old <ls>ŚAT. BR. 7,1,2,16.</ls> <ls n="ŚAT. BR. 7,">3,1,24.</ls> <ls n="ŚAT. BR. 7,3,1,">8.</ls> <ls n="ŚAT. BR. 7,">7,3,21.</ls> <ls>ŚĀṄKH. ŚR. 18,21,1.</ls>
+; (01)  <ls n="ŚAT. BR. 7,">7,3,21.</ls>
+;       7,7,3,21
+;       8,7,3,21 (typo); merge with the prev. one, i.e. <ls n="ŚAT. BR. 7,3,1,">8.</ls> <ls n="ŚAT. BR. 7,">7,3,21.</ls> --> <ls n="ŚAT. BR.">8,7,3,21.</ls>
+1040695 new <ls>ŚAT. BR. 7,1,2,16.</ls> <ls n="ŚAT. BR. 7,">3,1,24.</ls> <ls n="ŚAT. BR.">8,7,3,21.</ls> <ls>ŚĀṄKH. ŚR. 18,21,1.</ls>
+; pc: 112239 : sUdadohas :  :  : t
+; scan:  ŚAT. BR. 7,1,2,16.   3,1,24.    8,7,3,21
+; case 126 sma ---
+; <L>114549<pc>7-1381<k1>sma<k2>sma<h>1
+1066250 old u.s.w. <ls>AIT. BR. 2,3.</ls> <ls n="AIT. BR.">3,6.</ls> <ls>TS. 5,4,7,5.</ls> <ls n="TS.">6,1,9,2.</ls> <ls>ŚAT. BR. 1,6,2,3.</ls> <ls n="ŚAT. BR. 1,">2,3,44.</ls> <ls n="ŚAT. BR.">14,8,1,1.</ls> {#tadu ha smAha#}
+; (01)  <ls n="ŚAT. BR. 1,">2,3,44.</ls>
+;       1,2,3,44
+;       2,3,4,4 (print error)
+1066250 new u.s.w. <ls>AIT. BR. 2,3.</ls> <ls n="AIT. BR.">3,6.</ls> <ls>TS. 5,4,7,5.</ls> <ls n="TS.">6,1,9,2.</ls> <ls>ŚAT. BR. 1,6,2,3.</ls> <ls n="ŚAT. BR.">2,3,4,4.</ls> <ls n="ŚAT. BR.">14,8,1,1.</ls> {#tadu ha smAha#}
+; pc: 114549 : sma : (ŚAT. BR. 1,)2,3,44. : (ŚAT. BR.)2,3,4,4. : p
+;
+; case 127 izwi --- from lsfix3_todo_ab.txt subcase 02
+; <L>10437<pc>1-0832<k1>izwi<k2>i/zwi<h>2
+;  line 92873 has '{# BakzayedizwirvEva syAtpaSubanDo vA#}' which is at (ŚAT. BR.)12,8,2,21
+92874 old <ls n="ŚAT. BR.">12,8,2,11.</ls> {#pOrRamAsenezwipaSusomA upadizwAH#}
+92874 new <ls n="ŚAT. BR.">12,8,2,21.</ls> {#pOrRamAsenezwipaSusomA upadizwAH#}
+; pc: 10437 : izwi : (ŚAT. BR.)12,8,2,11. : (ŚAT. BR.)12,8,2,21. : p
+;
+; case 128 izwi --- from lsfix3_todo_ab.txt subcase 01
+; <L>10437<pc>1-0832<k1>izwi<k2>i/zwi<h>2
+; previous line
+; 92870 <ls n="ŚAT. BR.">11,1,5,11.</ls> <ls n="ŚAT. BR. 11,">7,2,2.</ls> <ls n="ŚAT. BR. 11,7,2,">10.</ls> <ls n="ŚAT. BR. 11,">4,3,5.</ls> <ls n="ŚAT. BR. 11,4,3,">20.</ls> {#taM yadyekAkI yajamAno #}
+92871 old <ls n="ŚAT. BR.">11,1,5,11.</ls> <ls n="ŚAT. BR. 11,">7,2,2.</ls> <ls n="ŚAT. BR. 11,7,2,">10.</ls> <ls n="ŚAT. BR. 11,">4,3,5.</ls> <ls n="ŚAT. BR. 11,4,3,">20.</ls> {#taM yadyekAkI yajamAno #}
+; solution from AB
+92871 new <ls n="ŚAT. BR.">11,1,5,11.</ls> <ls n="ŚAT. BR. 11,">2,6,7.</ls> <ls n="ŚAT. BR.">11,4,3,5.</ls> <ls n="ŚAT. BR. 11,4,3,">20.</ls>
+; last line of page 1-0831
+; scan   11,1,5,11. 7,2,2.10. 4,3,5.20.
+; pc: 10437 : izwi : (ŚAT. BR.)11,1,5,11. 7,2,2.10. 4,3,5.20. : (ŚAT. BR.)11,1,5,11. 2,6,7. 4,3,5. 20. : p
+;

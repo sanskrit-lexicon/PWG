@@ -109,4 +109,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue168 PANCHATANTRA KOSEGARTEN ed. orn.
 * issue169 RĀJATARAṄGIṆĪ ed. Calc.
 * issue170 References inconsistent with link target 
-
+* issue170/issue84pw   ŚATAPATHABRĀHMAṆA pw
+* issue170/issue84pwg  ŚATAPATHABRĀHMAṆA pwg
