@@ -246,4 +246,6 @@ git push
 ---------------------------
 THE END
 --------------------------
-see replacements/readme.txt for 55 page replacements of volume 6 images.
+Additional changes.
+1. replacements/readme.txt for 55 page replacements of volume 6 images.
+2. issue161/vol6changes/readme.txt  for 5 additional page changes.
