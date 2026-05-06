@@ -83,6 +83,47 @@ Supports `new` (replace), `ins` (insert after), and `del` (delete). All files mu
 - **PHP** — HTML display generation (`displayhtml.php`)
 - **pwg.xml** — in sibling directory `../pwgxml/pwg.xml`
 
+## GitHub Issue Conventions
+
+### Milestones and projects
+
+Every issue belongs to exactly one milestone, which mirrors an org-level kanban project:
+
+| Milestone | Project | Scope |
+|---|---|---|
+| Dictionary to Book (1) | Project 5 | Link targets and link splitting |
+| Digitization Quality (2) | Project 6 | Scan quality, encoding, bug fixes, text corrections |
+| Structured Data (3) | Project 7 | Markup normalisation, structured data, editorial questions |
+| Major Enhancements (4) | Project 8 | Large new content: verb markup, bibliography, Cologne material |
+
+Issues #89 and #99 are administrative noise — skip them in any triage or audit.
+
+### Type labels
+
+Every issue has exactly one type label:
+
+| Label | When to use |
+|---|---|
+| `link-target` | Building a click-through from a `<ls>` abbreviation to scanned PDF pages |
+| `link-splitting` | Splitting combined `SOURCE N,N` refs into individual per-page links |
+| `markup` | Normalising XML tag content or structure (`<ls>`, `<lex>`, etc.) |
+| `text-correction` | Corrections to German definitions or Sanskrit headwords |
+| `content-enhancement` | New material, display upgrades, or structural additions beyond correction |
+| `encoding` | SLP1/AS/IAST transcoding, character rendering, hyphen/dash normalisation |
+| `scan-quality` | Replacing blurry, skewed, or missing scan pages |
+| `bug` | Broken links, XML structure errors, or broken download files |
+| `question` | Scholarly or editorial questions requiring research before any code change |
+
+### Severity labels
+
+Every issue also has exactly one severity label:
+
+| Label | When to use |
+|---|---|
+| `minor` | Targeted, self-contained fix — a handful of lines or a single file |
+| `medium` | Standard unit of work — one link-target index, a batch of markup corrections |
+| `hard` | Large effort spanning many sources, files, or dictionaries |
+
 ## Conventions
 
 - Scripts are run from the directory containing them (relative paths assumed).
