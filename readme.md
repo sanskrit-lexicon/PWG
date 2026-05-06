@@ -128,7 +128,7 @@ Issues track two broad concerns: **enriching the XML** (adding links, fixing mar
 ### Contributors
 
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — project lead
-- **Mārcis Gasūns** ([@marcis-gasuns](https://github.com/marcis-gasuns)) — Russian etymologies, accents, tooling
+- **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — Russian etymologies, accents, tooling, issue and project organisation
 - **Dhaval Patel** ([@drdhaval2785](https://github.com/drdhaval2785)) — automation of link-splitting and index checking
 - **Andhrabharati** — VN text corrections and index data
 - **Thomas Malten** — original bibliography digitization (`pwgbib_orig.txt`)
