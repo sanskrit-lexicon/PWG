@@ -54,7 +54,7 @@ flowchart LR
 
     PDF -->|"research"| IDX
     IDX -->|"make_js_index.py\nvalidate + build"| JS
-    JS -->|"lsfix2.py\nrewrite &lt;ls&gt; tags"| DICTS
+    JS -->|"lsfix2.py\ninstall links"| DICTS
 ```
 
 #### Literary source (`<ls>`) analysis pipeline
