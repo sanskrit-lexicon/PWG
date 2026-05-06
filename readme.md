@@ -45,6 +45,18 @@ For sources that need clickable page links:
 2. Run `make_js_index.py` to validate the index and produce `index.js`.
 3. Run `lsfix2.py` to rewrite `<ls>` tags across all related dictionaries (PWG, PW, MW, etc.) with the link targets.
 
+```mermaid
+flowchart LR
+    PDF["Source PDF"]
+    IDX["index file\nTSV: section → page"]
+    JS["index.js"]
+    DICTS["PWG · PW · MW\nKVN · SCH · …"]
+
+    PDF -->|"research"| IDX
+    IDX -->|"make_js_index.py\nvalidate + build"| JS
+    JS -->|"lsfix2.py\nrewrite &lt;ls&gt; tags"| DICTS
+```
+
 #### Literary source (`<ls>`) analysis pipeline
 
 Run from `pwg_ls/pwg_dhaval/abbrvwork/`:
@@ -89,11 +101,34 @@ Work is organised into four GitHub Projects (org-level kanban boards), each mirr
 | [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/6) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/2) | 12 | 22 | Fixing errors from the original digitization: scan quality, encoding, text corrections, bugs |
 | [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/4) | 12 | 6 | Large new content additions: Cologne/Andhrabharati material, Weber's Nachlass, verb markup, bibliography |
 
+Bars = closed issues · line = open issues:
+
+```mermaid
+xychart-beta
+    x-axis ["Dict→Book", "Dig. Quality", "Struct. Data", "Major Enh."]
+    y-axis "Issues" 0 --> 65
+    bar [57, 22, 19, 6]
+    line [23, 12, 16, 12]
+```
+
 ---
 
 ### Issue Typology
 
 Issues track two broad concerns: **enriching the XML** (adding links, fixing markup) and **improving the digitization** (scan quality, encoding, text errors).
+
+```mermaid
+pie title Issues by type label (some issues carry two types)
+    "link-target" : 72
+    "content-enhancement" : 35
+    "markup" : 32
+    "question" : 14
+    "encoding" : 11
+    "text-correction" : 10
+    "bug" : 10
+    "link-splitting" : 8
+    "scan-quality" : 5
+```
 
 #### Solved (closed issues)
 
