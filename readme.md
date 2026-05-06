@@ -125,6 +125,34 @@ Issues track two broad concerns: **enriching the XML** (adding links, fixing mar
 
 ---
 
+### Labels
+
+Every issue carries one **type** label and one **severity** label.
+
+#### Type
+
+| Label | Meaning |
+|---|---|
+| `link-target` | Building a click-through from a `<ls>` abbreviation to scanned PDF pages: researching the source, constructing a tab-separated index, and installing links across all related dictionaries |
+| `link-splitting` | Combined references like `SOURCE N,N` that resolve to a single target need to be split into individual per-page links |
+| `markup` | Normalising the content or structure of XML tags: `<ls>`, `<lex>`, and other elements |
+| `text-correction` | Corrections to the German definitions or Sanskrit headwords in the dictionary text |
+| `content-enhancement` | Additions that go beyond correction — new material, display upgrades, or structural improvements |
+| `encoding` | SLP1/AS/IAST transcoding issues, character rendering (Greek, accents), hyphen/dash normalisation |
+| `scan-quality` | Replacing blurry, skewed, or missing scan pages with clearer images |
+| `bug` | Broken behaviour in links, XML structure, or download files |
+| `question` | Scholarly or editorial questions requiring research before any code change |
+
+#### Severity
+
+| Label | Meaning |
+|---|---|
+| `minor` | Targeted, self-contained fix — typically a handful of lines or a single file |
+| `medium` | Standard unit of work — building one link-target index, a batch of markup corrections, or a moderate content addition |
+| `hard` | Large or complex effort spanning many sources, files, or dictionaries |
+
+---
+
 ### Contributors
 
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — project lead
