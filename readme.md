@@ -74,7 +74,7 @@ This runs: `abbrv.py` → AS→IAST transliteration → `php displayhtml.php` �
 | 2023 | Unknown and numeric `<ls>` cleanup |
 | 2024 | Link target work: KATHAS, MANU, VN, and many more sources |
 | 2025 | Link-splitting (#160) completed for 30+ sources: RAGH., MBH, M., KATHĀS., ŚĀK., TAITTIRĪYA texts, ŚAT. BR., MEGH., MĀLAV., and more; image quality improvements for vol. 6 (#161); additional link targets (#168, #169); automated index checking by Dhaval Patel |
-| 2026 | Repository organisation: CLAUDE.md, issue labelling, milestone and project triage |
+| 2026 | Repository organisation: CLAUDE.md, issue labelling, severity labels, milestone and project triage; full audit of all 167 issues for label/milestone/project consistency |
 
 ---
 
