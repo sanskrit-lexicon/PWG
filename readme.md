@@ -59,6 +59,19 @@ This extracts all `<ls>` tags from pwg.xml, converts Anglicized Sanskrit to IAST
 
 ---
 
+### Milestones
+
+Work is tracked across four milestones:
+
+| Milestone | Open | Closed | Scope |
+|---|---|---|---|
+| [**Dictionary to Book**](https://github.com/sanskrit-lexicon/PWG/milestone/1) | 23 | 34 | Making all literary source abbreviations click-through to scanned source pages — link targets and link splitting |
+| [**Structured Data**](https://github.com/sanskrit-lexicon/PWG/milestone/3) | 16 | 1 | XML markup normalization, structured data improvements, and resolving interpretation questions |
+| [**Digitization Quality**](https://github.com/sanskrit-lexicon/PWG/milestone/2) | 12 | 0 | Fixing errors from the original digitization: scan quality, encoding, text corrections, bugs |
+| [**Major Enhancements**](https://github.com/sanskrit-lexicon/PWG/milestone/4) | 12 | 0 | Large new content additions: Cologne/Andhrabharati material, Weber's Nachlass, verb markup, bibliography |
+
+---
+
 ### Issue Typology
 
 Issues track two broad concerns: **enriching the XML** (adding links, fixing markup) and **improving the digitization** (scan quality, encoding, text errors).
