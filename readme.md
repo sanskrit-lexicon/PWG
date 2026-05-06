@@ -1,7 +1,7 @@
 
 ## PWG Sanskrit Dictionary Processing
 
-Scripts and data for digitizing, correcting, and enriching the **PWG** (*Petersburger Wörterbuch*, Sanskrit-Wörterbuch, Böhtlingk & Roth, 1855–1875) as part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project. The primary input is `pwg.xml`, maintained in the sibling [pwgxml](https://github.com/sanskrit-lexicon/pwgxml) repository.
+Scripts and data for correcting and enriching the **PWG** (*Petersburger Wörterbuch*, Sanskrit-Wörterbuch, Böhtlingk & Roth, 1855–1875) as part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project. The primary focus is building clickable link targets from `<ls>` literary-source abbreviations to scanned PDF pages, along with link-splitting, XML markup normalisation, and digitisation quality improvements. The primary input is `pwg.xml`, maintained in the sibling [pwgxml](https://github.com/sanskrit-lexicon/pwgxml) repository; corrections are applied across related dictionaries (PW, MW, PWKVN, SCH).
 
 ---
 
