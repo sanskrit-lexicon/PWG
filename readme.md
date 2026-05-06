@@ -13,6 +13,7 @@ Scripts and data for digitizing, correcting, and enriching the **PWG** (*Petersb
 | `pwg_ls1/` | Round 2 — authority/bibliography record refinement (begun Dec 2017) |
 | `pwg_ls2/` | Round 3 — per-source corrections; subfolders named by abbreviation (`RV/`, `ak/`, `mbh1/`, …) |
 | `pwgissues/` | One folder per GitHub issue (`issueNNN/` for analysis, `issueNNNfix/` for correction scripts) |
+| `verbs01/` | Early verb and upasarga analysis against PWG headwords |
 | `verbs01a/` | Verb identification correlated with Monier-Williams (MW) dictionary (begun Mar 2020) |
 | `RussianWords/` | Russian etymologies in PWG |
 | `pwgheader/` | Volume and header metadata |
