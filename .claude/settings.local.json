@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(awk '{print $1}')",
+      "Bash(gh api *)",
+      "Bash(gh issue *)",
+      "Bash(gh label *)",
+      "Bash(python3 -c ' *)",
+      "Bash(gh project *)",
+      "Bash(gh auth *)",
+      "PowerShell(gh project *)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(d['title']\\); print\\(d['body'][:300]\\)\")",
+      "Bash(python -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(d['title']\\); print\\(d['body'][:200]\\)\")"
+    ]
+  }
+}
