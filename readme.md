@@ -30,13 +30,30 @@ Corrections to `pwg.xml` are never made directly. Instead, scripts produce **cha
 1234 new replacement line text
 ```
 
-The literary source (`<ls>`) pipeline in `pwg_ls/pwg_dhaval/abbrvwork/` runs as:
+Three operations are supported: `new` (replace), `ins` (insert after), and `del` (delete). All files must be UTF-8.
+
+#### Issue workflow
+
+Each GitHub issue gets a folder under `pwgissues/`:
+- `issueNNN/` — analysis scripts, index files, and a `readme.txt` that serves as a running log of commands executed and results observed.
+- `issueNNNfix/` — correction scripts applied to `pwg.xml` and sibling dictionaries (PW, MW, PWKVN, SCH, …). Newer issues may keep everything in `issueNNN/`.
+
+#### Link-target workflow
+
+For sources that need clickable page links:
+1. Build a tab-separated index file mapping book sections (volume, chapter, verse) to PDF page numbers.
+2. Run `make_js_index.py` to validate the index and produce `index.js`.
+3. Run `lsfix2.py` to rewrite `<ls>` tags across all related dictionaries (PWG, PW, MW, etc.) with the link targets.
+
+#### Literary source (`<ls>`) analysis pipeline
+
+Run from `pwg_ls/pwg_dhaval/abbrvwork/`:
 
 ```sh
 sh makeabbrv.sh
 ```
 
-This extracts all `<ls>` tags from pwg.xml, converts Anglicized Sanskrit to IAST, and generates `abbrvoutput/display.html` for human review.
+This runs: `abbrv.py` → AS→IAST transliteration → `php displayhtml.php` → `abbrvoutput/display.html` for human review.
 
 **Dependencies:** Python 3, [lxml](https://lxml.de/), PHP
 
