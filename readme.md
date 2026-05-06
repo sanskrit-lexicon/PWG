@@ -55,7 +55,8 @@ This extracts all `<ls>` tags from pwg.xml, converts Anglicized Sanskrit to IAST
 | 2022 | Per-source markup improvements: Spr. (II), AV, P., MBH, Ramayana, AmaraKosha |
 | 2023 | Unknown and numeric `<ls>` cleanup |
 | 2024 | Link target work: KATHAS, MANU, VN, and many more sources |
-| 2025 | Large-scale link-splitting corrections (#160); image quality improvements (#161); automated index checking by Dhaval Patel |
+| 2025 | Link-splitting (#160) completed for 30+ sources: RAGH., MBH, M., KATHĀS., ŚĀK., TAITTIRĪYA texts, ŚAT. BR., MEGH., MĀLAV., and more; image quality improvements for vol. 6 (#161); additional link targets (#168, #169); automated index checking by Dhaval Patel |
+| 2026 | Repository organisation: CLAUDE.md, issue labelling, milestone and project triage |
 
 ---
 
