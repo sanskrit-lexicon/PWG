@@ -101,14 +101,20 @@ Work is organised into four GitHub Projects (org-level kanban boards), each mirr
 | [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/6) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/2) | 12 | 22 | Fixing errors from the original digitization: scan quality, encoding, text corrections, bugs |
 | [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/4) | 12 | 6 | Large new content additions: Cologne/Andhrabharati material, Weber's Nachlass, verb markup, bibliography |
 
-Bars = closed issues · line = open issues:
+```mermaid
+pie title Closed issues by milestone
+    "Dictionary to Book" : 57
+    "Digitization Quality" : 22
+    "Structured Data" : 19
+    "Major Enhancements" : 6
+```
 
 ```mermaid
-xychart-beta
-    x-axis ["Dict→Book", "Dig. Quality", "Struct. Data", "Major Enh."]
-    y-axis "Issues" 0 --> 65
-    bar [57, 22, 19, 6]
-    line [23, 12, 16, 12]
+pie title Open issues by milestone
+    "Dictionary to Book" : 23
+    "Structured Data" : 16
+    "Digitization Quality" : 12
+    "Major Enhancements" : 12
 ```
 
 ---
