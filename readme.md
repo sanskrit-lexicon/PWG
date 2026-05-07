@@ -81,7 +81,7 @@ This runs: `abbrv.py` → AS→IAST transliteration → `php displayhtml.php` �
 | 2017 | Abbreviation extraction pipeline (`abbrvwork`); AS→IAST transcoding; `pwg_ls1` begun |
 | 2018 | Russian work expanded |
 | 2020 | Verb identification (`verbs01a`) correlated with MW verbs |
-| 2021 | `pwg_ls2` begun; Rig-Veda `<ls>` markup; VN corrections from Andhrabharati |
+| 2021 | `pwg_ls2` begun; Rig-Veda `<ls>` markup; VN corrections from Nagabhushana Rao (@Andhrabharati) |
 | 2022 | Per-source markup improvements: Spr. (II), AV, P., MBH, Ramayana, AmaraKosha |
 | 2023 | Unknown and numeric `<ls>` cleanup |
 | 2024 | Link target work: KATHAS, MANU, VN, and many more sources |
@@ -199,5 +199,5 @@ Every issue carries one **type** label and one **severity** label.
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — project lead
 - **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — Russian etymologies, accents, tooling, issue and project organisation
 - **Dhaval Patel** ([@drdhaval2785](https://github.com/drdhaval2785)) — automation of link-splitting and index checking
-- **Andhrabharati** — VN text corrections and index data
+- **Nagabhushana Rao** (@Andhrabharati) — VN text corrections and index data
 - **Thomas Malten** — original bibliography digitization (`pwgbib_orig.txt`)
