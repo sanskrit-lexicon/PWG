@@ -1,0 +1,10 @@
+# Ambiguous abbreviation: S. u.
+# Occurrences in bare narrative: 5
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+amsa	188	/lex> {#aMSikA#} am Ende eines <lex>adj.</lex> Compositums. S. u. 1. {#aMSa#} .
+arma	129582	<ls>P. 6,2,91.</ls> S. u. {#arma#} .
+d	66056	<ls n="ṚV.">1,9,3.</ls> S. u. d. Ww.
+ena	89142	u.s.w. <ls>P. 2,4,34.</ls> S. u. {#ena#} . — {%Dieser (er, sie, es%}), auf etwas dem Spreche
+odana	102492	<ls>ŚAT. BR. 14,9,4,15.</ls> — S. u. {#odana#} .

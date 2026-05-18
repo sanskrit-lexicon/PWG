@@ -1,0 +1,65 @@
+PWG global-abbreviation audit (refined: tag-content stripped)
+============================================================
+abbreviations in list:               787
+  ambiguous (<=3 chars):             31
+  with zero bare-narrative occurr.:  20
+
+total raw occurrences in pwg.txt:    534,137
+  already in <ab></ab>:              1,731
+  in other tags (<ls>,<lex>,...):    333,895
+  bare in narrative (wrap targets):  198,511
+
+Top 30 by BARE NARRATIVE occurrence (the real wrap targets):
+  N.                        bare= 23218  in_other_tags= 15201  marked=     2
+  N. pr.                    bare= 17783  in_other_tags=     1  marked=     7
+  vgl.                      bare= 11475  in_other_tags=    49  marked=    83
+  d.                        bare=  9737  in_other_tags= 39024  marked=     0
+  c.                        bare=  7694  in_other_tags=  4078  marked=     0
+  v. a.                     bare=  6563  in_other_tags=     3  marked=     1
+  z.                        bare=  4838  in_other_tags= 22347  marked=     0
+  st.                       bare=  4713  in_other_tags=  6334  marked=     0
+  ed.                       bare=  4610  in_other_tags=  5254  marked=     0
+  Bez.                      bare=  4265  in_other_tags=     1  marked=     0
+  p.                        bare=  4172  in_other_tags=   629  marked=     0
+  pl.                       bare=  4171  in_other_tags=    59  marked=     2
+  w.                        bare=  3961  in_other_tags=  1217  marked=     0
+  dass.                     bare=  3823  in_other_tags=     1  marked=     3
+  nom.                      bare=  3715  in_other_tags=     6  marked=     1
+  caus.                     bare=  3639  in_other_tags=     0  marked=     7
+  comp.                     bare=  3496  in_other_tags=     3  marked=     0
+  s. u.                     bare=  3410  in_other_tags=     2  marked=     6
+  Schol.                    bare=  3226  in_other_tags=  3061  marked=     0
+  Bein.                     bare=  2626  in_other_tags=     1  marked=     0
+  acc.                      bare=  2619  in_other_tags=     3  marked=     2
+  sg.                       bare=  2538  in_other_tags=    66  marked=     0
+  partic.                   bare=  2329  in_other_tags=     1  marked=     1
+  patron.                   bare=  2095  in_other_tags=     0  marked=     0
+  Comm.                     bare=  2063  in_other_tags=   134  marked=     1
+  Bed.                      bare=  1934  in_other_tags=    13  marked=    37
+  med.                      bare=  1933  in_other_tags=     2  marked=     0
+  u. s. w.                  bare=  1912  in_other_tags=     0  marked=    12
+  v. l.                     bare=  1856  in_other_tags=  2336  marked=     3
+  Ausg.                     bare=  1598  in_other_tags=    60  marked=     0
+
+Abbreviations in list with ZERO bare narrative occurrences
+(safe to skip — either always tagged already, or list-only):
+  ANUKR.
+  Dec.
+  Jmd.
+  Kat.
+  MBH.
+  N. abstr.
+  Nom. ag.
+  Nov.
+  Z. B.
+  adj. Comp.
+  astrolog.
+  betr.
+  d. f. W.
+  d. i.
+  femm.
+  mineral.
+  niedrig.
+  personific.
+  umwendend.
+  v. Chr.

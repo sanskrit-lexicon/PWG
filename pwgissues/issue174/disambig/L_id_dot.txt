@@ -1,0 +1,31 @@
+# Ambiguous abbreviation: id.
+# Occurrences in bare narrative: 26
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+	2154	<div n="1">— 2) <lex>n.</lex> {%Meersalz%} id.
+	30464	{#anvAramBaRa#}¦ <lex>n.</lex> id.
+	42684	 einer Pflanze, {%Phaseolus trilobus Ait.%} ({#vanamudga#}) id.
+	42719	v n="3">— η) {%Halicacabum cardiospermum%} ({#jyotizmatI#}) id.
+	42720	<div n="3">— θ) = {#gorakzadugDA#} id.
+	42721	<div n="3">— ι) = {#ativizA#} id.
+	42722	<div n="3">— κ) = {#raktatrivft#} id.
+	42723	<div n="3">— λ) {%Panicum dactylon%} ({#dUrvA#}) id.
+	42823	<div n="2">— o) {%gekochter Reis%} ({#anna#}) id.
+	42824	<div n="2">— p) {%Süssigkeit%} ({#svAdu#}) id.
+	42825	<div n="2">— q) {%Liebliches%} ({#hfdya#}) id.
+	42826	<div n="2">— r) {%Eigenthum%} ({#sva#}) id.
+	42829	<div n="2">— t) {%Quecksilber%} id.
+	42923	iv n="2">— b) {%Emblica officinalis Gaertn.%} ({#AmalakI#}) id.
+	47158	<div n="3">— ε) {%die Koloquinthe%} ({#indravAruRI#}) id.
+	47159	<div n="3">— ζ) = {#muRqitikA#} id.
+	54501	{#avantin#}¦ id.
+	62393	{#asamaYjas#}¦ (3. {#a + sa˚#}) <lex>m.</lex> id.
+bei	9177	ls>MAHĪDH.</ls> zu <ls>VS. 18,45.</ls> {#apo 'YjalinAdAya#} id. bei id. zu <ls n="VS.">20,19.</ls>
+ibid	25310	{#anusaMvaraRa#}¦ (1. {#anu + saMvaraRa#}) id. ibid.
+ibid	116094	M vEdikapadasADutvajYAnenohAdikaM vyAkaraRasya prayojanam#} id. ibid.
+lex	29282	{#annA/dya#}¦ ({#anna#} {%Speise%} + {#adya#} id.) <lex>n.</lex> {%Nahrung%}
+nach	140518	<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> {%Lotusknolle%} id. Nach der
+zu	103	PAT.</ls> zu <ls>P. 7,3,70.</ls> {#anyataracCakyamakartum#} id. zu <ls n="P.">1,1,62.</ls>
+zu	9177	H.</ls> zu <ls>VS. 18,45.</ls> {#apo 'YjalinAdAya#} id. bei id. zu <ls n="VS.">20,19.</ls>
+zu	47663	>VS. 18,22.</ls> {#arkASvameDasaMtatisaMjYAH paYcAhutayaH#} id. zu <ls n="VS. 18,">50.</ls>

@@ -1,0 +1,787 @@
+<ab>ANUKR.</ab>
+<ab>Abl.</ab>
+<ab>Ableitt.</ab>
+<ab>Abschn.</ab>
+<ab>Acc.</ab>
+<ab>Adhy.</ab>
+<ab>Adj. compp.</ab>
+<ab>Adnn.</ab>
+<ab>Adnott.</ab>
+<ab>Allgem.</ab>
+<ab>Anf.</ab>
+<ab>Ang.</ab>
+<ab>Anm.</ab>
+<ab>Anmm.</ab>
+<ab>Annott.</ab>
+<ab>Ant.</ab>
+<ab>Aor.</ab>
+<ab>Appell.</ab>
+<ab>Appos.</ab>
+<ab>Arithm.</ab>
+<ab>Art.</ab>
+<ab>Assimil.</ab>
+<ab>Astrol.</ab>
+<ab>Astron.</ab>
+<ab>Aufl.</ab>
+<ab>Augm.</ab>
+<ab>Ausdr.</ab>
+<ab>Ausg.</ab>
+<ab>Ausgg.</ab>
+<ab>Ausl.</ab>
+<ab>Ausn.</ab>
+<ab>Aut.</ab>
+<ab>Autor.</ab>
+<ab>Autorr.</ab>
+<ab>Autt.</ab>
+<ab>Bde.</ab>
+<ab>Bed.</ab>
+<ab>Bedd.</ab>
+<ab>Bedeut.</ab>
+<ab>Bedeutt.</ab>
+<ab>Beim.</ab>
+<ab>Bein.</ab>
+<ab>Beinn.</ab>
+<ab>Beis.</ab>
+<ab>Beisatz.</ab>
+<ab>Beisp.</ab>
+<ab>Beispp.</ab>
+<ab>Beiw.</ab>
+<ab>Beiww.</ab>
+<ab>Bemerk.</ab>
+<ab>Berl. Mpt</ab>
+<ab>Berl.</ab>
+<ab>Bes.</ab>
+<ab>Besond.</ab>
+<ab>Bez.</ab>
+<ab>Bezz.</ab>
+<ab>Bild.</ab>
+<ab>Bildl.</ab>
+<ab>Buddh.</ab>
+<ab>Calc. Ausg.</ab>
+<ab>Capp.</ab>
+<ab>Casusverh.</ab>
+<ab>Caus.</ab>
+<ab>Char.</ab>
+<ab>Chr.</ab>
+<ab>Cit.</ab>
+<ab>Comm.</ab>
+<ab>Comment.</ab>
+<ab>Commentat.</ab>
+<ab>Commentatt.</ab>
+<ab>Commentt.</ab>
+<ab>Comp.</ab>
+<ab>Compar.</ab>
+<ab>Compp.</ab>
+<ab>Condit.</ab>
+<ab>Conj.</ab>
+<ab>Conjj.</ab>
+<ab>Conjug.</ab>
+<ab>Constr.</ab>
+<ab>Corigg.</ab>
+<ab>Corr.</ab>
+<ab>Correl.</ab>
+<ab>Correlat.</ab>
+<ab>Corrig.</ab>
+<ab>Corrigg.</ab>
+<ab>Cultus.</ab>
+<ab>D.</ab>
+<ab>Das.</ab>
+<ab>Dat.</ab>
+<ab>Dec.</ab>
+<ab>Decl.</ab>
+<ab>Declin.</ab>
+<ab>Denom.</ab>
+<ab>Derivv.</ab>
+<ab>Ders.</ab>
+<ab>Desid.</ab>
+<ab>Dioscor.</ab>
+<ab>Dist.</ab>
+<ab>Dramat.</ab>
+<ab>Du.</ab>
+<ab>Eig.</ab>
+<ab>Eigenn.</ab>
+<ab>Einl.</ab>
+<ab>Einsch.</ab>
+<ab>Einschieb.</ab>
+<ab>Emend.</ab>
+<ab>End.</ab>
+<ab>Epith.</ab>
+<ab>Erg.</ab>
+<ab>Ergänz.</ab>
+<ab>Erkl.</ab>
+<ab>Erkll.</ab>
+<ab>Erklär.</ab>
+<ab>Erklärr.</ab>
+<ab>Erll.</ab>
+<ab>Erläutt.</ab>
+<ab>Es.</ab>
+<ab>Etym.</ab>
+<ab>Euphem.</ab>
+<ab>Fem.</ab>
+<ab>Folg.</ab>
+<ab>Fut.</ab>
+<ab>Gegend.</ab>
+<ab>Gegens.</ab>
+<ab>Gegenss.</ab>
+<ab>Gegenst.</ab>
+<ab>Gen.</ab>
+<ab>Geom.</ab>
+<ab>Gerichtsspr.</ab>
+<ab>Geschl.</ab>
+<ab>Gr.</ab>
+<ab>Gramm.</ab>
+<ab>Grammat.</ab>
+<ab>Hamb. Hdschrr.</ab>
+<ab>Handschr.</ab>
+<ab>Handschrr.</ab>
+<ab>Hdchr.</ab>
+<ab>Hdschr.</ab>
+<ab>Hdschrr.</ab>
+<ab>Hdsichr.</ab>
+<ab>Hem.</ab>
+<ab>Hypokor.</ab>
+<ab>Hypokorr.</ab>
+<ab>Identif.</ab>
+<ab>Imacc.</ab>
+<ab>Imperf.</ab>
+<ab>Impl.</ab>
+<ab>Incomp.</ab>
+<ab>Ind.</ab>
+<ab>Indecll.</ab>
+<ab>Inf.</ab>
+<ab>Infin.</ab>
+<ab>Inhaltsv.</ab>
+<ab>Inhaltsverz.</ab>
+<ab>Insbes.</ab>
+<ab>Inschr.</ab>
+<ab>Inschrr.</ab>
+<ab>Instr.</ab>
+<ab>Intens.</ab>
+<ab>Interj.</ab>
+<ab>Interpol.</ab>
+<ab>Interpr.</ab>
+<ab>Jahrh.</ab>
+<ab>Jmd.</ab>
+<ab>Kap.</ab>
+<ab>Kat.</ab>
+<ab>Kl.</ab>
+<ab>Lexicc.</ab>
+<ab>Lexicogr.</ab>
+<ab>Lexicogrr.</ab>
+<ab>Lexx.</ab>
+<ab>Lit.</ab>
+<ab>Litt.</ab>
+<ab>Loc.</ab>
+<ab>MBH.</ab>
+<ab>Mannsn.</ab>
+<ab>Math.</ab>
+<ab>Mathem.</ab>
+<ab>Mathemm.</ab>
+<ab>Medic.</ab>
+<ab>Mpt.</ab>
+<ab>Mspt.</ab>
+<ab>Mss.</ab>
+<ab>Myth.</ab>
+<ab>Mythol.</ab>
+<ab>N. Pr.</ab>
+<ab>N. abstr.</ab>
+<ab>N. appell.</ab>
+<ab>N. pr.</ab>
+<ab>N.</ab>
+<ab>Nachk.</ab>
+<ab>Nachtr.</ab>
+<ab>Nachtrr.</ab>
+<ab>Nebenf.</ab>
+<ab>Neg.</ab>
+<ab>Negat.</ab>
+<ab>Nn. prr.</ab>
+<ab>Nn.</ab>
+<ab>Nom. abstr.</ab>
+<ab>Nom. act.</ab>
+<ab>Nom. ag.</ab>
+<ab>Nom. appell.</ab>
+<ab>Nom. pr.</ab>
+<ab>Nom.</ab>
+<ab>Nomen pr.</ab>
+<ab>Nomina ag.</ab>
+<ab>Nov.</ab>
+<ab>Obj.</ab>
+<ab>Ort.</ab>
+<ab>Ortsadv.</ab>
+<ab>Ortsadvv.</ab>
+<ab>Padap.</ab>
+<ab>Par. Mpt</ab>
+<ab>Parenth.</ab>
+<ab>Part.</ab>
+<ab>Partic.</ab>
+<ab>Participialfut.</ab>
+<ab>Patron.</ab>
+<ab>Pers.</ab>
+<ab>Person.</ab>
+<ab>Personif.</ab>
+<ab>Phil.</ab>
+<ab>Philos.</ab>
+<ab>Pl.</ab>
+<ab>Praep.</ab>
+<ab>Pron.</ab>
+<ab>Pronomm.</ab>
+<ab>Pros.</ab>
+<ab>Präp.</ab>
+<ab>Präpp.</ab>
+<ab>Randgl.</ab>
+<ab>Rec.</ab>
+<ab>Rechtsspr.</ab>
+<ab>Redupl.</ab>
+<ab>Reduplicat.</ab>
+<ab>Rel.</ab>
+<ab>Rell.</ab>
+<ab>Rhet.</ab>
+<ab>S. u.</ab>
+<ab>Sch.</ab>
+<ab>Schol.</ab>
+<ab>Scholl.</ab>
+<ab>Schreib.</ab>
+<ab>Sg.</ab>
+<ab>Spr.</ab>
+<ab>St.</ab>
+<ab>Subj.</ab>
+<ab>Subst.</ab>
+<ab>Suff.</ab>
+<ab>Superl.</ab>
+<ab>Suppl.</ab>
+<ab>Syn.</ab>
+<ab>Synonn.</ab>
+<ab>Th.</ab>
+<ab>Tit.</ab>
+<ab>Titelbl.</ab>
+<ab>Trigl.</ab>
+<ab>Ueberh.</ab>
+<ab>Uebers.</ab>
+<ab>Ueberschr.</ab>
+<ab>Uebertr.</ab>
+<ab>Uneig.</ab>
+<ab>Unterrschrr.</ab>
+<ab>Untersch.</ab>
+<ab>Unterschr.</ab>
+<ab>Unterschrr.</ab>
+<ab>Urspr.</ab>
+<ab>V. l.</ab>
+<ab>Var. l.</ab>
+<ab>Var.</ab>
+<ab>Varr.</ab>
+<ab>Verb. fin.</ab>
+<ab>Verb.</ab>
+<ab>Verbind.</ab>
+<ab>Verbindd.</ab>
+<ab>Verf.</ab>
+<ab>Verff.</ab>
+<ab>Vergl.</ab>
+<ab>Vern.</ab>
+<ab>Verz.</ab>
+<ab>Viell.</ab>
+<ab>Voc.</ab>
+<ab>Volksn.</ab>
+<ab>Vollst.</ab>
+<ab>Vulg.</ab>
+<ab>W.</ab>
+<ab>Weg.</ab>
+<ab>Wortm.</ab>
+<ab>Ww.</ab>
+<ab>Wörterb.</ab>
+<ab>Z. B.</ab>
+<ab>Zahladvv.</ab>
+<ab>Zahlw.</ab>
+<ab>Zeitww.</ab>
+<ab>Zus.</ab>
+<ab>Zusamm.</ab>
+<ab>Zusammeng.</ab>
+<ab>Zusammenh.</ab>
+<ab>Zusammens.</ab>
+<ab>Zusammenss.</ab>
+<ab>a. O.</ab>
+<ab>a. St.</ab>
+<ab>a. a. O.</ab>
+<ab>aa.</ab>
+<ab>abgedr.</ab>
+<ab>abgel.</ab>
+<ab>abgiebt.</ab>
+<ab>abl.</ab>
+<ab>ablat.</ab>
+<ab>absol.</ab>
+<ab>absolut.</ab>
+<ab>abstr.</ab>
+<ab>abw.</ab>
+<ab>acc. ag.</ab>
+<ab>acc.</ab>
+<ab>accusat.</ab>
+<ab>act.</ab>
+<ab>adj. Comp.</ab>
+<ab>adj. comp.</ab>
+<ab>adj.</ab>
+<ab>adject.</ab>
+<ab>adjj.</ab>
+<ab>adv. compp.</ab>
+<ab>adverb. comp.</ab>
+<ab>adverb.</ab>
+<ab>adverbb.</ab>
+<ab>advv.</ab>
+<ab>alleg.</ab>
+<ab>allg.</ab>
+<ab>allgem.</ab>
+<ab>alphab.</ab>
+<ab>an.</ab>
+<ab>anderndemonstrr.</ab>
+<ab>aneig.</ab>
+<ab>angebl.</ab>
+<ab>angef.</ab>
+<ab>anl.</ab>
+<ab>anom.</ab>
+<ab>anomal.</ab>
+<ab>aor.</ab>
+<ab>appell.</ab>
+<ab>appellat.</ab>
+<ab>appos.</ab>
+<ab>arch.</ab>
+<ab>astr.</ab>
+<ab>astrol.</ab>
+<ab>astrolog.</ab>
+<ab>astron.</ab>
+<ab>astronom.</ab>
+<ab>attribut.</ab>
+<ab>aufgef.</ab>
+<ab>ausg.</ab>
+<ab>ausgeh.</ab>
+<ab>ausgez.</ab>
+<ab>auslaut.</ab>
+<ab>ausnahmsw.</ab>
+<ab>bed.</ab>
+<ab>beg.</ab>
+<ab>beim.</ab>
+<ab>bes.</ab>
+<ab>beschr.</ab>
+<ab>besond.</ab>
+<ab>bespr.</ab>
+<ab>best.</ab>
+<ab>betr.</ab>
+<ab>bez.</ab>
+<ab>bildl.</ab>
+<ab>bisw.</ab>
+<ab>buddh.</ab>
+<ab>buddhist.</ab>
+<ab>c.</ab>
+<ab>card.</ab>
+<ab>cas.</ab>
+<ab>cass.</ab>
+<ab>caus.</ab>
+<ab>causat.</ab>
+<ab>causs.</ab>
+<ab>cfr.</ab>
+<ab>cit.</ab>
+<ab>class.</ab>
+<ab>coll.</ab>
+<ab>collect.</ab>
+<ab>comp.</ab>
+<ab>compar.</ab>
+<ab>comparat.</ab>
+<ab>compon.</ab>
+<ab>compos.</ab>
+<ab>compp.</ab>
+<ab>concr.</ab>
+<ab>condit.</ab>
+<ab>conj.</ab>
+<ab>conjunct.</ab>
+<ab>constr.</ab>
+<ab>coord.</ab>
+<ab>cop.</ab>
+<ab>copul. comp.</ab>
+<ab>copul.</ab>
+<ab>copulat.</ab>
+<ab>correl.</ab>
+<ab>correlat.</ab>
+<ab>corrigg.</ab>
+<ab>d. St.</ab>
+<ab>d. W.</ab>
+<ab>d. Ww.</ab>
+<ab>d. f. W.</ab>
+<ab>d. fg. W.</ab>
+<ab>d. folg. W.</ab>
+<ab>d. h.</ab>
+<ab>d. i.</ab>
+<ab>d. l. W.</ab>
+<ab>d. vorherg. W.</ab>
+<ab>d.</ab>
+<ab>da.</ab>
+<ab>dag.</ab>
+<ab>danom. abstr.</ab>
+<ab>das.</ab>
+<ab>dass.</ab>
+<ab>dat.</ab>
+<ab>datt.</ab>
+<ab>dazw.</ab>
+<ab>dd. Ww.</ab>
+<ab>dd.</ab>
+<ab>decl.</ab>
+<ab>declin.</ab>
+<ab>defect.</ab>
+<ab>defin.</ab>
+<ab>dem.</ab>
+<ab>demin.</ab>
+<ab>deminn.</ab>
+<ab>demonstr.</ab>
+<ab>demonstratt.</ab>
+<ab>demonstrr.</ab>
+<ab>dems.</ab>
+<ab>denom.</ab>
+<ab>denomin.</ab>
+<ab>denominn.</ab>
+<ab>denomm.</ab>
+<ab>dergen.</ab>
+<ab>dergl.</ab>
+<ab>deriv.</ab>
+<ab>derivv.</ab>
+<ab>ders.</ab>
+<ab>derselb.</ab>
+<ab>des.</ab>
+<ab>desgl.</ab>
+<ab>desid.</ab>
+<ab>desider.</ab>
+<ab>dess.</ab>
+<ab>desselb.</ab>
+<ab>dgl.</ab>
+<ab>dies. St.</ab>
+<ab>dies.</ab>
+<ab>diesem.</ab>
+<ab>diess.</ab>
+<ab>dist.</ab>
+<ab>distr.</ab>
+<ab>distrib.</ab>
+<ab>dopp.</ab>
+<ab>du.</ab>
+<ab>ebd.</ab>
+<ab>eben.</ab>
+<ab>ed.</ab>
+<ab>edend.</ab>
+<ab>eig.</ab>
+<ab>eigentl.</ab>
+<ab>einf.</ab>
+<ab>einschl.</ab>
+<ab>einz.</ab>
+<ab>elid.</ab>
+<ab>ellipt.</ab>
+<ab>encl.</ab>
+<ab>enclit.</ab>
+<ab>engl.</ab>
+<ab>enklit.</ab>
+<ab>entspr.</ab>
+<ab>erg.</ab>
+<ab>erkl.</ab>
+<ab>etc.</ab>
+<ab>etym.</ab>
+<ab>etymol.</ab>
+<ab>euph.</ab>
+<ab>euphem.</ab>
+<ab>excl.</ab>
+<ab>explet.</ab>
+<ab>fehlerh.</ab>
+<ab>femm.</ab>
+<ab>fg.</ab>
+<ab>fgg. Ww.</ab>
+<ab>fgg.</ab>
+<ab>fig.</ab>
+<ab>fin.</ab>
+<ab>folg. W.</ab>
+<ab>folg. Ww.</ab>
+<ab>folg.</ab>
+<ab>folgend.</ab>
+<ab>folgg. Ww.</ab>
+<ab>folgg.</ab>
+<ab>franz.</ab>
+<ab>fut.</ab>
+<ab>futt.</ab>
+<ab>geb.</ab>
+<ab>gebr.</ab>
+<ab>geder.</ab>
+<ab>gedr.</ab>
+<ab>gehör.</ab>
+<ab>gen.</ab>
+<ab>genit.</ab>
+<ab>genitt.</ab>
+<ab>genn.</ab>
+<ab>geogr.</ab>
+<ab>ger.</ab>
+<ab>gerund.</ab>
+<ab>geschr.</ab>
+<ab>gespr.</ab>
+<ab>gew.</ab>
+<ab>gezwung.</ab>
+<ab>gramm.</ab>
+<ab>grammat.</ab>
+<ab>herausg.</ab>
+<ab>i. e.</ab>
+<ab>ibid.</ab>
+<ab>id.</ab>
+<ab>ident.</ab>
+<ab>identif.</ab>
+<ab>imp.</ab>
+<ab>imper.</ab>
+<ab>imperat.</ab>
+<ab>imperf.</ab>
+<ab>impers.</ab>
+<ab>imperson.</ab>
+<ab>incl.</ab>
+<ab>incomp.</ab>
+<ab>ind.</ab>
+<ab>indecl.</ab>
+<ab>indecll.</ab>
+<ab>indef.</ab>
+<ab>indefin.</ab>
+<ab>indic.</ab>
+<ab>inf.</ab>
+<ab>infin.</ab>
+<ab>infinit.</ab>
+<ab>insb.</ab>
+<ab>insbes.</ab>
+<ab>insens.</ab>
+<ab>instr.</ab>
+<ab>instrans.</ab>
+<ab>instrr.</ab>
+<ab>intens.</ab>
+<ab>interr.</ab>
+<ab>interrog.</ab>
+<ab>interrogatt.</ab>
+<ab>interrogg.</ab>
+<ab>intr.</ab>
+<ab>intrans.</ab>
+<ab>intransit.</ab>
+<ab>jur.</ab>
+<ab>körperl.</ab>
+<ab>lang.</ab>
+<ab>lith.</ab>
+<ab>liturg.</ab>
+<ab>loc.</ab>
+<ab>locc.</ab>
+<ab>log.</ab>
+<ab>mannigf.</ab>
+<ab>masc.</ab>
+<ab>math.</ab>
+<ab>mathem.</ab>
+<ab>med.</ab>
+<ab>medic.</ab>
+<ab>met.</ab>
+<ab>meton.</ab>
+<ab>metonym.</ab>
+<ab>metr.</ab>
+<ab>metron.</ab>
+<ab>metronn.</ab>
+<ab>mineral.</ab>
+<ab>mitact.</ab>
+<ab>mitfolg.</ab>
+<ab>moral.</ab>
+<ab>musik.</ab>
+<ab>myst.</ab>
+<ab>myth.</ab>
+<ab>mythol.</ab>
+<ab>n. Chr.</ab>
+<ab>n. abstr.</ab>
+<ab>n. pr.</ab>
+<ab>nachf.</ab>
+<ab>nachfolg.</ab>
+<ab>nam.</ab>
+<ab>namentl.</ab>
+<ab>neg.</ab>
+<ab>negat.</ab>
+<ab>neutr.</ab>
+<ab>niedrig.</ab>
+<ab>nom. abst.</ab>
+<ab>nom. abstr.</ab>
+<ab>nom. abstract.</ab>
+<ab>nom. act.</ab>
+<ab>nom. ag.</ab>
+<ab>nom. card.</ab>
+<ab>nom. gent.</ab>
+<ab>nom. ord.</ab>
+<ab>nom. ordin.</ab>
+<ab>nom. pr.</ab>
+<ab>nom.</ab>
+<ab>nomin.</ab>
+<ab>nomm. antret.</ab>
+<ab>nomm.</ab>
+<ab>num. ordin.</ab>
+<ab>num.</ab>
+<ab>näml.</ab>
+<ab>obj.</ab>
+<ab>obl.</ab>
+<ab>od.</ab>
+<ab>omin.</ab>
+<ab>onomat.</ab>
+<ab>onomatop.</ab>
+<ab>opt.</ab>
+<ab>ord.</ab>
+<ab>oxyt.</ab>
+<ab>oxyton.</ab>
+<ab>p.</ab>
+<ab>parall.</ab>
+<ab>parox.</ab>
+<ab>paroxyt.</ab>
+<ab>part. fut. pass.</ab>
+<ab>part.</ab>
+<ab>partic.</ab>
+<ab>particc.</ab>
+<ab>partit.</ab>
+<ab>pass.</ab>
+<ab>patr.</ab>
+<ab>patron.</ab>
+<ab>patronn.</ab>
+<ab>perf.</ab>
+<ab>periphr.</ab>
+<ab>perisp.</ab>
+<ab>pers.</ab>
+<ab>person.</ab>
+<ab>personif.</ab>
+<ab>personific.</ab>
+<ab>philos.</ab>
+<ab>pl.</ab>
+<ab>pleon.</ab>
+<ab>plur.</ab>
+<ab>poet.</ab>
+<ab>porox.</ab>
+<ab>pos.</ab>
+<ab>posit.</ab>
+<ab>poss.</ab>
+<ab>postp.</ab>
+<ab>pot.</ab>
+<ab>potent.</ab>
+<ab>praed.</ab>
+<ab>praep.</ab>
+<ab>praepos.</ab>
+<ab>praeposs.</ab>
+<ab>praepp.</ab>
+<ab>praes.</ab>
+<ab>praet.</ab>
+<ab>prec.</ab>
+<ab>precat.</ab>
+<ab>prim.</ab>
+<ab>priv.</ab>
+<ab>prohib.</ab>
+<ab>pron. rel.</ab>
+<ab>pron. subst.</ab>
+<ab>pron.</ab>
+<ab>pronn.</ab>
+<ab>pronom.</ab>
+<ab>pronomm.</ab>
+<ab>propar.</ab>
+<ab>proparax.</ab>
+<ab>proparox.</ab>
+<ab>proparoxyt.</ab>
+<ab>properisp.</ab>
+<ab>propr.</ab>
+<ab>prädic.</ab>
+<ab>präpp.</ab>
+<ab>rathsam.</ab>
+<ab>recipr.</ab>
+<ab>redupl.</ab>
+<ab>reduplic.</ab>
+<ab>refl.</ab>
+<ab>reflex.</ab>
+<ab>reg.</ab>
+<ab>rel.</ab>
+<ab>relat.</ab>
+<ab>relig.</ab>
+<ab>resp.</ab>
+<ab>rever.</ab>
+<ab>rhet.</ab>
+<ab>s. a.</ab>
+<ab>s. d.</ab>
+<ab>s. u.</ab>
+<ab>s. v.</ab>
+<ab>sc.</ab>
+<ab>sg.</ab>
+<ab>sic.</ab>
+<ab>simpl.</ab>
+<ab>sing.</ab>
+<ab>sog.</ab>
+<ab>spec.</ab>
+<ab>spiel.</ab>
+<ab>sprüchw.</ab>
+<ab>st.</ab>
+<ab>subj.</ab>
+<ab>subst.</ab>
+<ab>substt.</ab>
+<ab>suff.</ab>
+<ab>superl.</ab>
+<ab>superlat.</ab>
+<ab>symb.</ab>
+<ab>syn.</ab>
+<ab>synekd.</ab>
+<ab>tautol.</ab>
+<ab>techn.</ab>
+<ab>term. techn.</ab>
+<ab>term.</ab>
+<ab>trans.</ab>
+<ab>transit.</ab>
+<ab>trop.</ab>
+<ab>u. d.</ab>
+<ab>u. s. w.</ab>
+<ab>uberh.</ab>
+<ab>umwendend.</ab>
+<ab>unbel.</ab>
+<ab>unbest.</ab>
+<ab>uneig.</ab>
+<ab>ungedr.</ab>
+<ab>ungramm.</ab>
+<ab>ungrammat.</ab>
+<ab>unpers.</ab>
+<ab>unreg.</ab>
+<ab>unregelm.</ab>
+<ab>unricht.</ab>
+<ab>urpsr.</ab>
+<ab>urspr.</ab>
+<ab>ursprüngl.</ab>
+<ab>v. Chr.</ab>
+<ab>v. a.</ab>
+<ab>v. l.</ab>
+<ab>v. u.</ab>
+<ab>var. l.</ab>
+<ab>var.</ab>
+<ab>verb. fin.</ab>
+<ab>verb.</ab>
+<ab>verbb.</ab>
+<ab>verdopp.</ab>
+<ab>vergl.</ab>
+<ab>versch.</ab>
+<ab>verschied.</ab>
+<ab>vgl.</ab>
+<ab>viell.</ab>
+<ab>viz.</ab>
+<ab>voc.</ab>
+<ab>vollst.</ab>
+<ab>vom.</ab>
+<ab>vor. W.</ab>
+<ab>vor.</ab>
+<ab>voran.</ab>
+<ab>vorang.</ab>
+<ab>vorangeh.</ab>
+<ab>vorherg. W.</ab>
+<ab>vorherg.</ab>
+<ab>vorhergeh. Ww.</ab>
+<ab>vorhergeh.</ab>
+<ab>vulg.</ab>
+<ab>vv. ll.</ab>
+<ab>w.</ab>
+<ab>weibl.</ab>
+<ab>z. B.</ab>
+<ab>z.</ab>
+<ab>zugl.</ab>
+<ab>zus.</ab>
+<ab>zusammen.</ab>
+<ab>zusammeng.</ab>
+<ab>zusammengef.</ab>
+<ab>zusammenges.</ab>
+<ab>zusammengez.</ab>
+<ab>zusammengezog.</ab>
+<ab>ähnl.</ab>
+<ab>ält.</ab>
+<ab>überh.</ab>
+<ab>übers.</ab>
+<ab>überth.</ab>
+<ab>übertr.</ab>

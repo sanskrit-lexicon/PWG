@@ -1,0 +1,11 @@
+# Ambiguous abbreviation: Gr.
+# Occurrences in bare narrative: 4
+# Known LOCAL expansions for this abbreviation (from AB's local list):
+#   - Grenzpunktes
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+das	213039	<div n="1">— 2) in der Gr. {%das entferntere Object%}
+eine	199965	<div n="1">— 8) in der Gr. {%eine Reihe von Wurzeln oder Wörtern, welche unter eine un
+soll	711150	Z. 2, nach M. <ls>MÜLLER</ls> (Gr. §. 212) soll der loc. pl. {#punsu#} sein, wobei auf
+umbeugung	365710	<div n="1">— 3) in der Gr. {%Umbeugung des dentalen Lauts in den cerebralen%}

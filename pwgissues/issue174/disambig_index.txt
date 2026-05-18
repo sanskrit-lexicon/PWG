@@ -1,0 +1,53 @@
+Disambiguation worklists
+==================================================
+48 ambiguous abbreviations from global list.
+Files in disambig/  (sorted by occurrence count, desc):
+
+  N.           23218  disambig/U_N_dot.txt   [4 local expansions in AB's list]
+  v. a.         6563  disambig/L_v_dot_spa_dot.txt
+  pl.           3853  disambig/L_pl_dot.txt
+  s. u.         3410  disambig/L_s_dot_spu_dot.txt
+  w.            3215  disambig/L_w_dot.txt
+  st.           2400  disambig/L_st_dot.txt
+  v. l.         1856  disambig/L_v_dot_spl_dot.txt
+  v. u.         1380  disambig/L_v_dot_spu_dot.txt
+  d.            1074  disambig/L_d_dot.txt   [4 local expansions in AB's list]
+  sg.            930  disambig/L_sg_dot.txt
+  fg.            753  disambig/L_fg_dot.txt
+  sc.            630  disambig/L_sc_dot.txt
+  z.             528  disambig/L_z_dot.txt   [1 local expansions in AB's list]
+  z. B.          507  disambig/U_z_dot_spB_dot.txt
+  du.            476  disambig/L_du_dot.txt
+  d. h.          381  disambig/L_d_dot_sph_dot.txt
+  s. d.          228  disambig/L_s_dot_spd_dot.txt
+  u. d.          214  disambig/L_u_dot_spd_dot.txt
+  W.             178  disambig/U_W_dot.txt   [8 local expansions in AB's list]
+  ed.            108  disambig/L_ed_dot.txt
+  St.            107  disambig/U_St_dot.txt   [2 local expansions in AB's list]
+  c.             107  disambig/L_c_dot.txt
+  d. W.          103  disambig/U_d_dot_spW_dot.txt
+  a. O.           77  disambig/U_a_dot_spO_dot.txt
+  p.              61  disambig/L_p_dot.txt
+  Th.             46  disambig/U_Th_dot.txt   [1 local expansions in AB's list]
+  an.             36  disambig/L_an_dot.txt
+  s. v.           34  disambig/L_s_dot_spv_dot.txt
+  id.             26  disambig/L_id_dot.txt
+  Ww.             22  disambig/U_Ww_dot.txt
+  D.              20  disambig/U_D_dot.txt   [1 local expansions in AB's list]
+  Nn.             12  disambig/U_Nn_dot.txt
+  Kl.             11  disambig/U_Kl_dot.txt
+  Pl.              6  disambig/U_Pl_dot.txt
+  S. u.            5  disambig/U_S_dot_spu_dot.txt
+  Du.              5  disambig/U_Du_dot.txt
+  Sg.              5  disambig/U_Sg_dot.txt
+  dd.              5  disambig/L_dd_dot.txt
+  i. e.            4  disambig/L_i_dot_spe_dot.txt
+  Gr.              4  disambig/U_Gr_dot.txt   [1 local expansions in AB's list]
+  od.              4  disambig/L_od_dot.txt
+  s. a.            3  disambig/L_s_dot_spa_dot.txt
+  da.              3  disambig/L_da_dot.txt
+  Es.              2  disambig/U_Es_dot.txt
+  V. l.            1  disambig/U_V_dot_spl_dot.txt
+  aa.              1  disambig/L_aa_dot.txt
+  Z. B.            0  disambig/U_Z_dot_spB_dot.txt
+  d. i.            0  disambig/L_d_dot_spi_dot.txt

@@ -1,0 +1,49 @@
+PWG vs MW differ only by capitalization: 45
+==================================================
+Format: <PWG form>\t<MW form>\t<MW disp>
+
+Arithm.	arithm.	arithmetic
+Astrol.	astrol.	astrology
+Astron.	astron.	astronomy
+Comp.	comp.	compound or Comparative degree
+Corr.	corr.	correct(ly)
+Correl.	correl.	correlative
+Du.	du.	dual number
+Etym.	etym.	etymology
+Fem.	fem.	feminine
+Geom.	geom.	geometry
+Instr.	instr.	instrumental case
+Interj.	interj.	interjection
+Interpol.	interpol.	interpolation
+Math.	math.	mathematics
+Mathem.	mathem.	mathematics
+Medic.	medic.	medicine
+Mss.	MSS.	manuscripts
+Myth.	myth.	mythology
+Mythol.	mythol.	mythology
+Neg.	neg.	negative
+Negat.	negat.	negative
+Part.	part.	participle
+Partic.	partic.	particular
+Patron.	patron.	patronymic
+Philos.	philos.	philosophy
+Pl.	pl.	plural number
+Pron.	pron.	pronoun
+Pros.	pros.	prosody
+Redupl.	redupl.	reduplicated
+Rel.	rel.	relative
+Rhet.	rhet.	rhetoric
+Sg.	sg.	singular number
+Subst.	subst.	substantive
+Suff.	suff.	suffix
+buddh.	Buddh.	Buddhist
+des.	Des.	Desiderative
+desid.	Desid.	Desiderative
+engl.	Engl.	English
+imper.	Imper.	imperative
+indic.	Indic.	indicative (= optative)
+lith.	Lith.	Lithuanian
+opt.	Opt.	optative
+pot.	Pot.	Potential
+w.	W.	Welsh, or Cambro-Briton
+z.	Z.	Zend

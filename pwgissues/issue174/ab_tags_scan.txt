@@ -1,0 +1,188 @@
+AB-tags scan (issue #174, AB_tags_PWG.txt)
+==================================================
+Source: C:\Users\user\Documents\GitHub\csl-orig\v02\pwg\pwg.txt
+
+## <div n="1">
+  current occurrences in pwg.txt: 64,356
+  samples:
+    L34: <div n="1"> 1) mit Substantiven aller Art:
+    L78: <div n="1"> 1) {#keSarahita#} {%haarlos%},
+    L79: <div n="1"> 2) {#alpakeSayukta#} {%mit wenig Haar versehen%},
+
+## <div n="2">
+  current occurrences in pwg.txt: 23,966
+  samples:
+    L14: <div n="2"> a) der 1sten Person, enthalten in {#aha/m, AvA/m, AvA/ByAm, Ava/yos, asmA/n, asmA/Bis, asma/Byam, asma/t, asmA/kam, asmA/su#} un
+    L15: <div n="2">— b) der 3ten Person; <lex>f.</lex> {#A#} . Davon folgende Casusformen: {#aya/m#} ({#a#} wird nach {#e#} und {#o#} im
+    L35: <div n="2"> a) der nachfolgende Begriff wird einfach negirt: {#akarman#} {%das Nichthandeln%}
+
+## <div n="3">
+  current occurrences in pwg.txt: 1,498
+  samples:
+    L1753: <div n="3"> α) {%Wort%}
+    L1761: <div n="3">— β) {%Silbe%}: {#gA\ya\treRa\ prati^ mimIte a\rkama\rkeRa\ sAma\ trEzwu^Bena vA\kam . vA\kena^ vA\kaM dvi\padA\ catu^zpadA\kzare
+    L1766: <div n="3">— γ) {%die heilige Silbe%} om
+
+## <div n="conj">
+  current occurrences in pwg.txt: 0
+
+## <div n="p">
+  current occurrences in pwg.txt: 9,227
+  samples:
+    L429: <div n="p">— {#vi#} {%theilen, brechen, unschädlich machen, abwehren%}: {#SaktiM vyaMsitAM mADavena#}
+    L1334: <div n="p">— {#nis#} {%zerstreuen, aus einander jagen%}: {#i\mami^ndra varDaya kza\triya^M ma i\maM vi\SAme^kavf\zaM kf^Ru\ tvam . nira\mitr
+    L1336: <div n="p">— {#sam#} {%durchgehen, durchwandern%}: {#tvaM devi brahmalokaM samakzase#} (Med.)
+
+## <div n="pW">
+  current occurrences in pwg.txt: 0
+
+## <div n="pp">
+  current occurrences in pwg.txt: 0
+
+## <div n="v">
+  current occurrences in pwg.txt: 14,624
+  samples:
+    L169: <div n="v">— Vgl. {#aMsa#}, das durch das Gewicht der Autoritäten und durch das goth. <is>amsa</is> sich als die ältere Form erweist.
+    L205: <div n="v">— Vgl. {#aMsala#} .
+    L318: <div n="v">— Vgl. {#BAnuPalA#} und {#anaMSumatPalA#} .
+
+## <div n="yy">
+  current occurrences in pwg.txt: 0
+
+## <div n="zz">
+  current occurrences in pwg.txt: 0
+
+## <bot></bot>
+  current open tags <bot…>: 0
+  current close tags </bot>: 0
+  candidate via abbreviation 'bot.': 1 occurrences in text
+    L622202: <div n="1">— 10) lies {%das Aufhören, Unterbleiben%} st. {%Verbot.%} Als Beispiel führt
+
+## <abot></abot>
+  current open tags <abot…>: 0
+  current close tags </abot>: 0
+
+## <zoo></zoo>
+  current open tags <zoo…>: 0
+  current close tags </zoo>: 0
+  candidate via abbreviation 'zool.': 0 occurrences in text
+  candidate via abbreviation 'Zool.': 0 occurrences in text
+
+## <azoo></azoo>
+  current open tags <azoo…>: 0
+  current close tags </azoo>: 0
+
+## <is></is>
+  current open tags <is…>: 53,947
+  current close tags </is>: 53,947
+  samples:
+    <is>gaṇa</is>
+    <is>avy</is>
+    <is>avy</is>
+
+## <ns></ns>
+  current open tags <ns…>: 0
+  current close tags </ns>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <iw></iw>
+  current open tags <iw…>: 0
+  current close tags </iw>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <mng></mng>
+  current open tags <mng…>: 0
+  current close tags </mng>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <ed></ed>
+  current open tags <ed…>: 0
+  current close tags </ed>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <ms></ms>
+  current open tags <ms…>: 0
+  current close tags </ms>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <num></num>
+  current open tags <num…>: 0
+  current close tags </num>: 0
+  heuristic — bare 'n.' followed by digits, or {#…#} containing only digits.
+
+## <pe></pe>
+  current open tags <pe…>: 0
+  current close tags </pe>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <per></per>
+  current open tags <per…>: 0
+  current close tags </per>: 0
+  no existing occurrences; semantic intent from AB needed before scanning.
+
+## <lang></lang>
+  current open tags <lang…>: 550
+  current close tags </lang>: 550
+  samples:
+    <lang n="greek">ἀ, ἀν</lang>
+    <lang n="greek">ἀγχ-ω</lang>
+    <lang n="Old-Church-Slavonic">ѫз-ъкъ</lang>
+
+## <arab></arab>
+  current open tags <arab…>: 0
+  current close tags </arab>: 0
+  candidate via Unicode block (Arabic): 644 chars
+    L5126: <lang n="arabic">انك</lang>
+    L9383: <lang n="arabic">انجير</lang>
+    L34202: <lang n="arabic">ف</lang>
+
+## <fr></fr>
+  current open tags <fr…>: 1
+  current close tags </fr>: 1
+  samples:
+    <fr>ascertainement</fr>
+
+## <gk></gk>
+  current open tags <gk…>: 0
+  current close tags </gk>: 0
+  candidate via Unicode block (Greek): 3,882 chars
+    L23: <lang n="greek">ἀ, ἀν</lang> priv., das lat. {%in%} und deutsche {%un%} nur in Verbindung mit andern Worten erscheint,
+    L493: <lang n="greek">ἀγχ-ω</lang>, lat. {%ang-o%}, goth. {%aggv-us%},
+    L1753: <div n="3"> α) {%Wort%}
+
+## <heb></heb>
+  current open tags <heb…>: 0
+  current close tags </heb>: 0
+  candidate via Unicode block (Hebrew): 21 chars
+    L6192: <lang n="oldhebrew">מלאכים</lang> in den frühern alttest. Büchern findet. Wie diese
+    L6193: <lang n="oldhebrew">בני אלים</lang>,
+    L6194: <lang n="oldhebrew">בני אלהים</lang>, so heissen die <is>Angiras</is> {%Söhne des Himmels, Söhne der Götter%}
+
+## <mong></mong>
+  current open tags <mong…>: 0
+  current close tags </mong>: 0
+  candidate via Unicode block (Mongolian): 12 chars
+    L272725: <lang n="mongolian">ᠲᠠᠮᠭᠠ</lang> <lang n="arabic">تمغا</lang> {%Stempel.%}
+    L509592: <lang n="mongolian">ᠪᠠᠭᠠᠶᠤᠷ</lang>
+
+## <ocs></ocs>
+  current open tags <ocs…>: 0
+  current close tags </ocs>: 0
+  no dedicated marker; look for 'ksl.'/'altslav.'
+
+## <rus></rus>
+  current open tags <rus…>: 0
+  current close tags </rus>: 0
+  candidate via Unicode block (Cyrillic): 561 chars
+    L494: <lang n="Old-Church-Slavonic">ѫз-ъкъ</lang> Vgl. über diese ganze Wortsippe
+    L554: <lang n="Old-Church-Slavonic">къ</lang> in der Form und in der Bedeutung übereinstimmende
+    L555: <lang n="Old-Church-Slavonic">ѫзъкъ</lang> (dieselbe Verstärkung
+
+## <zen></zen>
+  current open tags <zen…>: 0
+  current close tags </zen>: 0
+  no dedicated block; look for the literal abbreviation 'Zend'/'Av.'
+    L58944: <div n="1">— 4) vielleicht {%Himmel%} (wie im Zend): {#sva1^\ryadaSma^nnaDi\pA u\ anDo\ 'Bi mA\ vapu^rdf\Saye^ ninIyAt#}
+    L92516: <ls n="ṚV.">8,58,2.</ls> Vgl. im Zend
+    L116489: <ls n="ṚV. 1,">61,13.</ls> — Denom. von einem nicht erhaltenen nom. {#fGa#}, von dem auch {#fGAvant#} stammt. Vgl. im Zend {%ereghata%}, per
+

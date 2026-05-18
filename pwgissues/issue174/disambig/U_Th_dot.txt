@@ -1,0 +1,53 @@
+# Ambiguous abbreviation: Th.
+# Occurrences in bare narrative: 46
+# Known LOCAL expansions for this abbreviation (from AB's local list):
+#   - Theil
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+	527718	<ls>Spr.</ls> {#ekaH sa eva#} im 4ten Th.
+	528082	<ls>Spr. 5001</ls> und {#kzuDitastfzitaH#} im 4ten Th.
+	530792	DHA-CĀṆ. 3,2. 15,19.</ls> <ls>Spr.</ls> {#anurAgo#} im 4ten Th.
+	531270	<ls>Spr.</ls> {#AhAro#} im 4ten Th.
+	531835	<ls>Spr.</ls> {#kzatriyARAM#} im 4ten Th.
+	556708	<ls>Spr. 576</ls>, v.l. im 4ten Th.
+	566485	<ls>Spr.</ls> {#AhAro#} im 4ten Th.
+	612387	<ls>Spr.</ls> {#a nAvartI#} im 4ten Th.
+	652087	<ls>Spr.</ls> {#gataprAyaH#} im 4ten Th.
+i	228561	Th. I, S. 820. {#hima, GfRi#}
+i	603769	<ls>Spr. 608, v. l.</ls> (Th. I, S. 320).
+ii	287308	(welches Th. II, S. 247, Z. 2 v. u. fälschlich durch {%Cajanus indicus S
+ii	433713	; vgl. oben Th. II, <ls>Sp. 835</ls> in der Mitte.
+ii	530958	ĀJA-TAR. 4,635.</ls> <ls>Schol.</ls> zu <ls>P. 1,2,32</ls> (Th. II). <ls>Verz. d. B. H. No. 757.</ls> <ls>UJJVAL.</ls> zu <
+ii	616136	<ls>Spr. 1753, v. l.</ls> (<span>Th. II, S. 340</span>)
+ii	677541	<ls>Schol.</ls> zu <ls>P. 8,3,5</ls> (Th. II, S. 377).
+ii	679089	<ls>Spr. 620, v. l.</ls> (Th. II, S. 328). {#cAwAH kArpawikAH krUrAH#}
+iii	585211	<ls>Spr. 1445, v. l.</ls> (<span>Th. III, S. 371</span>).
+iii	603766	mokzaRa#} <ls>Spr. 660.</ls> <ls n="Spr.">1678, v. l.</ls> (Th. III, S. 372). <ls n="Spr.">2042, v. l.</ls> <ls n="Spr.">29
+iii	613995	Th. III, S. 366). <ls n="Spr.">1012, v. l.</ls> <ls>KATHĀS. 22,
+iii	615859	<ls>Spr. 4362</ls> fehlerhaft für {#duHKasyopacitim#}; vgl. Th. III, S. 400.
+iii	629975	<ls>Spr. 2636, v. l.</ls> (Th. III, S. 378).
+iii	786557	<ls>Spr. 271, v. l.</ls> Th. III, S. 359.
+iii	793182	Th. III, S. 409). {#apaBrazwavakrayA . girA#}
+iii	839798	>). <ls>Spr. 660.</ls> <ls n="Spr.">1678, v. l.</ls> (<span>Th. III, S. 372</span>). <ls n="Spr.">2042, v. l.</ls> <ls n="S
+ls	531640	im 4ten Th. <ls>PAÑCAT. 7,8.</ls> <ls>ŚUK. in LA. (II) 34,13.</ls>
+mit	652458	<ls>Spr.</ls> {#anAvartI#} im 4ten Th. mit dem acc.: {#taM tu BImaBawaM jyezWaM sarvahAramapAkarot
+s	604370	<ls>Spr. 59, v. l.</ls> (Th. 2, S. 323). {%das Unterschlagen%}: {#Sulka˚#}
+s	608781	<ls>SCHÜTZ</ls>'sche Auffassung (vgl. Th. 3, S. 357) spricht
+s	632370	Th. 2, S. 327.
+s	682146	<ls>Spr. 814, v. l.</ls> (Th. 2, S. 330).
+s	682800	<ls>Spr. 814, v. l.</ls> (Th. 2, S. 330). <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀD
+s	687952	<ls>Spr. 2876, v. l.</ls>; s. Th. 3, S. 380.
+s	691418	<ls>Schol.</ls> Th. 3, S. 371.
+s	691525	(vgl. Th. 3, S. 398). eines <is>Bhoja</is>, v.l. für {#dARqaka#}
+s	693613	<ls>Spr. 1260</ls> und die v. l. Th. 3. S. 369.
+s	695281	, Th. 3, S. 380.
+s	699159	<ls>Spr. 2808</ls>, v. l. : s. Th. 3, S. 380. Z. 12 lies {#˚Saraccandra#} {%der Vollmond im He
+s	705292	(vgl. Th. 2, S. 342). {#pakziRI#}
+s	708273	<ls>Spr. 499, v. l.</ls> (Th. 3, S. 362).
+s	714318	, Th. 3, S. 401.
+s	716301	Th. 3, S. 384.
+s	739990	<ls>Spr. 999, v. l.</ls>; s. Th. 3, S. 367.
+s	975845	<ls>MBH.</ls> Th. 1, S. 685.
+s	975877	<ls>MBH.</ls> Th. 1, S. 223.
+wieder	539643	ScAt — BUyaH#} <ls>Spr.</ls> {#AdAvAdipitAmahasya#} im 4ten Th. {%wieder, von Neuem%}

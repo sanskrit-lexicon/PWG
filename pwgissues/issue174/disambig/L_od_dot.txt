@@ -1,0 +1,9 @@
+# Ambiguous abbreviation: od.
+# Occurrences in bare narrative: 4
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+anat	18439	<ls>DHĀTUP. 26,66.</ls> imperf. {#AnIt#} od. {#Anat#}
+des	159471	induvilla, kenduvilla, tinduvilla#}) N. pr. des Geschlechts od. des Geburtsortes von <is>Jayadeva</is>
+gaccati	261489	#jA/NgalapaTika#}¦ <lex>adj.</lex> = {#jaNgalapaTenAhftam#} od. {#gacCati#}
+kräftig	306521	{%verständig%} (weil er die geistigen Fähigkeiten steigert) od. {%kräftig, geistig%}: {#rasa#}

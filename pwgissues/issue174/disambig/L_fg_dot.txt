@@ -1,0 +1,758 @@
+# Ambiguous abbreviation: fg.
+# Occurrences in bare narrative: 753
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+	48109	. 3,77,13.</ls> <ls n="R.">4,44,33.</ls> Vgl. {#aByarcana#} fg.
+	51720	<ls>H. 649.</ls> <ls n="H.">508.</ls> fg.
+	86324	<div n="v">— Vgl. {#anapeta, apAya#} fg.
+	86832	<div n="v">— Vgl. {#aByudaya#} fg.
+	113047	"MBH.">2,325.</ls> <ls n="MBH.">3,10557</ls> ({#uzInara#}). fg.
+	116070	<div n="p">— {#apa#} s. {#apoha#} fg.
+	116085	<ls>SUŚR. 1,66,21.</ls> Vgl. {#aByUha#} fg.
+	147363	ls> Nach <ls>MBH. 13,4123.</ls> <ls n="MBH. 13,">4142.</ls> fg.
+	149599	<div n="v">— Vgl. {#aBikANkzA#} fg.
+	151401	ls>PRAB. 53,5. fgg.</ls> (vgl. die deutsche Uebers. S. 172. fg.).
+	159472	<ls>GĪT. 3,10</ls>; vgl. Prolegg. I. fg.
+	183653	fg.
+	185010	<div n="v">— Vgl. {#AkroSa#} fg.
+	186078	<div n="p">— {#ud#} s. {#utkleda#} fg.
+	189722	<div n="v">— Vgl. {#avakzepa#} fg.
+	189857	<div n="v">— Vgl. {#upakzepa#} fg.
+	196178	<ls>TRIK. 2,4,42.</ls> <ls n="TRIK.">3,3,342.</ls> fg.
+	204574	<div n="v">— Vgl. {#aByudgama#} fg.
+	223086	<div n="v">— Vgl. {#aBigraha#} fg.
+	226136	<div n="p">— {#A#} vgl. {#AGAwa#} fg.
+	226572	<div n="v">— Vgl. {#Gaw#} mit {#ud#} und {#udGawwaka#} fg.
+	227296	<div n="v">— Vgl. {#aBiGAra#} fg.
+	228307	<div n="v">— Vgl. {#AGoza#} fg.
+	230275	="TRIK.">3,3,349.</ls> <ls>H. 755.</ls> <ls>an. 2,415.</ls> fg.
+	231278	<div n="v">— Vgl. {#aBicakzaRa#} fg.
+	231286	<div n="v">— Vgl. {#avacakzaRa#} fg.
+	236416	<div n="v">— Vgl. {#apacarita, apacAra#} fg.
+	236582	<div n="v">— Vgl. {#upAcarita#} fg.
+	254877	<div n="v">— Vgl. u. {#pra#} und {#aDija#} fg.
+	254934	<div n="v">— Vgl. {#aBijana, aBijanitu, aBijAta#} fg.
+	254963	{#AjAti, AjAna#} fg.
+	256743	<div n="v">— Vgl. {#upajapya, upajApa#} fg.
+	264169	<div n="v">— Vgl. {#ujjayana#} fgg., {#ujjiti, ujjeza#} fg.
+	268927	<div n="v">— Vgl. {#aBijYa#} fg.
+	280962	<div n="v">— Vgl. {#atitArin#} fg.
+	288624	<div n="v">— Vgl. {#uttejana#} fg.
+	292387	<div n="v">— Vgl. {#Atodin#} fg.
+	313731	 l. 781. fgg.</ls> <ls>KÖPPEN</ls>, Die Rel. d. Buddha 438. fg.
+	323615	<div n="v">— Vgl. {#uddIpana#} fg.
+	342924	<div n="v">— Vgl. {#aBidruh#} fg.
+	345754	<ls>VIKR. 51,5</ls>; vgl. S. 514. fg.
+	393714	div n="v">— Vgl. {#upanaya#} fg., {#˚nAya#} fg., {#˚netar#} fg. —
+	393782	<div n="v">— Vgl. {#nirRaya, nirRayana, nirRetar#} fg.
+	406066	{#pad#} {%Fuss%} in {#paqBis#} (instr. pl.) und {#paqgfBi#} fg.
+	444373	<div n="v">— Vgl. {#avapIqa#} fg.
+	444392	<div n="v">— Vgl. {#utpIqa#} fg.
+	444477	<div n="v">— Vgl. {#paripIqana#} fg.
+	444528	<div n="v">— Vgl. {#saMpIqana#} fg.
+	462565	V.">5799.</ls> <ls n="HARIV.">7922</ls> (lies {#pOrARaM#}). fg.
+	487318	RĀT. 16,39.</ls> <ls>NID. 1,3.</ls> <ls>Ind. St. 8,98.</ls> fg. 249.
+	501736	<div n="v">— Vgl. {#AbadDa, AbanDa#} fg.
+	508112	<div n="v">— Vgl. {#pratibADaka#} fg.
+	508138	<div n="v">— Vgl. {#saMbADa#} fg.
+	512612	<div n="v">— Vgl. {#buButsA#} fg.
+	512658	<div n="v">— Vgl. {#avaboDa#} fg.
+	512669	<div n="v">— Vgl. {#udboDa#} fg.
+	512699	<div n="v">— Vgl. {#nibodDavya#} fg.
+	523985	<div n="v">— Vgl. {#ABaraRa#} fg.
+	524106	<div n="v">— Vgl. {#praBartar#} fgg. und {#praBfti#} fg.
+	526653	<div n="v">— Vgl. {#ABA#} fg.
+	530692	<div n="v">— Vgl. {#praBAzaRa#} fg.
+	531127	<div n="v">— Vgl. {#praBAsa#} fg.
+	531135	<div n="v">— Vgl. {#pratiBAsa#} fg.
+	532238	<div n="v">— Vgl. {#biBitsA#} fg.
+	532288	<div n="v">— Vgl. {#udBid#} fg., {#udBeda#} fg.
+	532342	<div n="v">— Vgl. {#nirBeda#} fg.
+	532419	<div n="v">— Vgl. {#pratiBeda#} fg.
+	536057	<div n="v">— Vgl. {#anuBava#} fgg., {#anuBU#} fg.
+	536170	<div n="v">— Vgl. {#ABU#}.{# ABUti#} fg.
+	536224	<div n="v">— Vgl. {#udBAvana#} fg.
+	542325	gl. <ls>KULL.</ls> zu <ls>M. 1,1</ls> und {#Bezaja#} Z. 14. fg.).
+	544327	<div n="p">— {#apa#} s. {#apaBraMSa#} fg.
+	544364	<div n="v">— Vgl. {#pariBraMSa#} fg.
+	544876	<div n="v">— Vgl. {#pariBrama#} fg.
+	551702	<div n="v">— Vgl. {#aDimanTa#} fg.
+	551766	<div n="v">— Vgl. {#upamanTanI#} fg.
+	552266	<div n="p">— {#pari#} s. {#parimAd#} fg.
+	556344	<ls>Verz. d. Oxf. H. 208,a,35.</ls> fg.
+	557503	<div n="v">— Vgl. {#apamAna#} fg.
+	560466	<div n="v">— Vgl. {#upamantraRa#} fg.
+	563122	<div n="p">— {#A#} s. {#AmarItar, Amur#} fg.
+	564578	<div n="p">— {#apA#} s. {#apAmArga#} fg.
+	564644	<div n="v">— Vgl. 1. {#nirmArga, nirmArguka#} fg.
+	564739	<div n="v">— Vgl. {#pramArjaka#} fg.
+	565163	<div n="v">— Vgl. {#Amarda#} fg.
+	565860	<div n="v">— Vgl. {#pratyavamarSa#} fg.
+	586652	<div n="v">— Vgl. {#pramApaRa#} fg.
+	588899	<div n="v">— Vgl. {#unmiza, unmeza#} fg.
+	589621	<div n="v">— Vgl. {#pramIlA#} fg.
+	594238	<div n="v">— Vgl. {#Amoza#} fg.
+	594998	,">15687.</ls> <ls n="MBH.">6,2535.</ls> Vgl. {#pramohana#} fg.
+	605877	<ls>ŚAT. BR. 14,4,3,33.</ls> — intens. s. {#malimluc#} fg.
+	605894	 {%niedergehen%}, s. unter {#anu#} und vgl. {#pramlocantI#} fg.
+	608169	he am Ende {#udAca#} und setze st. dessen {#udaNka, udaYc#} fg.
+	608762	<div n="v">— Vgl. {#aBivyakti#} fg.
+	621216	<div n="v">— Vgl. {#upAra#} fg.
+	621223	<div n="v">— Vgl. {#pratyarpaRa#} fg.
+	629310	 No. 27.</ls> <ls>SĀY.</ls> zu <ls>ṚV.</ls> Bd. I, S. 44,5. fg.
+	637917	<div n="v">— Vgl. {#nyokas, nyocanI#} fg.
+	643735	 <ls n="VS. PRĀT.">8,52.</ls> <ls n="VS. PRĀT. 8,">56.</ls> fg.
+	647275	<ls>AV. PRĀT. 4,55.</ls> fg.
+	652575	<ls>ṚV. 10,95,12.</ls> fg.
+	657971	<ls>Schol.</ls> zu <ls>AV. PRĀT. 4,123.</ls> fg.
+	666375	<div n="v">— Vgl. {#triparikrAnta#} und {#parikrama#} fg.
+	666776	<div n="v">— Vgl. {#prakrIqa#} fg.
+	667831	<div n="v">— Vgl. {#pAyukzAlanaBUmi#} fg.
+	667882	<div n="v">— Vgl. {#prakzaya#} fg.
+	671732	<div n="p">— {#prati#} vgl. {#pratigara#} fg.
+	687398	nAmBasA . pratyekaM vAyubIjena tAqanaM tadudAhftam ..#} 16. fg.
+	690398	Z. 4. fg.
+	690915	<div n="p">— {#pravi#} vgl. {#pravidAra#} fg.
+	691247	<ls>HALL</ls> in der Einl. S. 4. fg.
+	694138	<div n="p">— {#pra#} vgl. {#pradoha#} fg.
+	695488	Z. 3. fg.
+	696947	Z. 2. fg.
+	699300	<ls>ṚV. 6,35.</ls> fg.
+	699737	<div n="p">— {#nis#} vgl. {#nirnASana#} fg.
+	705928	<div n="v">— Vgl. {#paripAWa#} fg.
+	710070	<div n="p">— {#pra#} vgl. {#prapAlana#} fg.
+	711809	1. {#pU#}¦ mit {#pra#} vgl. {#prapavaRa#} fg.
+	715126	</ls> <ls>SARVADARŚANAS. 133,5. fgg.</ls> {#apramAtva#} 12. fg.
+	721199	>KATHĀS. 52,324.</ls> — caus. 288. — des. vgl. {#mimaNkzA#} fg.
+	736435	<div n="v">— Vgl. {#prayAcaka#} fg.
+	737646	<ls>TRIK. 2,8,48.</ls> <ls n="TRIK.">3,3,254.</ls> fg.
+	742203	. BṚH. S. 15,23.</ls> <ls>KATHĀS. 49,25</ls>), {#niyodDar#} fg.
+	746143	R.">2,71,24.</ls> <ls>RAGH. 16,64.</ls> Vgl. {#raktakaRWa#} fg.
+	747659	<div n="v">— Vgl. {#prarakza#} fg.
+	749313	<div n="v">— Vgl. {#anuraYjaka#} fg.
+	749363	<div n="v">— Vgl. {#uparaYjaka#} fg.
+	750372	<div n="p">— {#pari#} vgl. {#parirAwaka#} fg.
+	752741	<ls>ṚV. 5,61,18.</ls> fg.
+	765354	<div n="v">— Vgl. {#virecaka#} fg.
+	772412	<ls>ṚV. PRĀT. 1,20.</ls> <ls n="ṚV. PRĀT.">4,9.</ls> fg.
+	772808	<ls>VS. PRĀT. 2,42.</ls> fg.
+	778807	<div n="v">— Vgl. {#ullaNGana#} fg.
+	780514	<div n="v">— Vgl. {#upalipsA#} fg.
+	784435	<div n="v">— Vgl. {#avaleKa#} fg.
+	785157	<div n="v">— Vgl. {#avalepa#} fg.
+	785422	<ls>ṚV. 10,10,13.</ls> fg.
+	785581	<div n="v">— Vgl. {#praleha#} fg.
+	786828	<div n="v">— Vgl. {#avalumpana, avalopa#} fg.
+	787260	<ls>ṚV. 10,35.</ls> fg.
+	789687	<div n="v">— Vgl. {#Alocaka#} fg.
+	794245	<div n="v">— Vgl. {#vivakzA#} fg.
+	794527	>— Vgl. {#uktapratyukta, prativaktavya#} fg., {#pratyukta#} fg.
+	797287	<ls>ṚV. 9,68.</ls> <ls n="ṚV.">10,45.</ls> fg.
+	798072	<div n="v">— Vgl. {#upavAda#} fg.
+	798265	<ls>KAUṢ. UP. 4,3. fgg.</ls>; vgl. S. 136. fg.
+	802304	<div n="v">— Vgl. {#udvamana, udvAnta#} fg.
+	803328	<div n="v">— Vgl. unter {#apa, apAvfta#} fg.
+	803500	<div n="v">— Vgl. {#vinivAraRa#} fg.
+	803506	<div n="v">— Vgl. {#saMnivAraRa#} fg.
+	808067	<div n="v">— Vgl. {#nirvarRana#} fg.
+	811817	<div n="v">— Vgl. {#parivarDana#} fg.
+	811911	<div n="v">— Vgl. {#pravarDaka#} fg.
+	812265	<ls>ṚV. PRĀT. 16,15.</ls> fg.
+	815166	<div n="v">— Vgl. {#pravalha#} fg.
+	815680	<div n="v">— Vgl. {#mArgavaSAnuga#} fg.
+	818054	<ls>ṚV. 10,65.</ls> fg.
+	818900	<ls>ṚV. 5,25.</ls> fg.
+	820228	<div n="v">— Vgl. {#upavaha, upavAhin#} fg.
+	820278	<div n="v">— Vgl. {#nirvAhaka#} fg.
+	821299	<div n="v">— Vgl. 2. {#nirvApaRa#} fg.
+	821512	<div n="v">— Vgl. 1. {#pravayaRa, pravARa#} fg.
+	834730	<ls>ṚV. PRĀT. 17,30.</ls> fg.
+	835152	<ls n="VS. PRĀT.">4,22.</ls> <ls n="VS. PRĀT. 4,">169.</ls> fg.
+	838740	<div n="v">— Vgl. {#udvejana#} fg.
+	842060	<div n="v">— Vgl. {#nivedaka#} fg., {#nivedin#} fg.
+	864415	="v">— Vgl. {#parivizwi, pariveza#} fgg. und {#parivezwar#} fg.
+	874774	ṚH. S.">48,2</ls>; vgl. <ls>KERN</ls> in der Vorrede S. 33. fg.
+	880774	<div n="v">— Vgl. 5. {#vI#} und {#Avevyaka#} fg.
+	881386	<div n="v">— Vgl. {#nivezwa#} fg.
+	888364	iv n="v">— Vgl. {#anAvidDa, AvidDa, AveDa, AveDya, AvyADa#} fg.
+	888401	<div n="v">— Vgl. {#nivyADa#} fg.
+	890074	<div n="v">— Vgl. {#vEyaSva#} fg.
+	895067	<div n="v">— Vgl. {#AvraScana#} fg.
+	895082	<div n="v">— Vgl. {#pravraScana#} fg.
+	896689	<ls>Verz. d. Oxf. H. 217,a,15.</ls> fg.
+	898656	<div n="v">— Vgl. {#ASaNkA#} fg.
+	898684	<div n="v">— Vgl. {#pariSaNkanIya#} fg.
+	899799	<div n="v">— Vgl. {#SANKamitra#} fg.
+	904626	<div n="v">— Vgl. {#upaSamana#} fg.
+	904764	<ls n="MBH.">5,5780.</ls> Vgl. {#saMSamana#} fg.
+	915722	<ls>Verz. d. Oxf. H. 338,b,6.</ls> {#˚dvIpa#} 41, {%a%},36. fg.
+	919831	<ls>MBH. 12,13943</ls>; vgl. unter {#uYCa#} und {#SiloYCa#} fg.
+	920256	<div n="v">— Vgl. {#SElina#} fg.
+	922885	<div n="v">— Vgl. {#SiSayizA#} fg.
+	923002	<div n="v">— Vgl. {#upaSaya, upaSAya#} fg.
+	929738	<div n="v">— Vgl. {#ucCozaRa#} fg.
+	929770	<ls>Verz. d. Oxf. H. 68,b,32.</ls> Vgl. {#pariSozaRa#} fg.
+	929773	<div n="v">— Vgl. {#praSoza#} fg.
+	929787	<ls>SUŚR. 2,356,2.</ls> Vgl. {#viSozaRa#} fg.
+	932626	#SaSi˚, Siva˚, SfNgAra˚, SEvasidDAnta˚, SmaSru˚, SEKarika#} fg.
+	938043	<div n="p">— {#pra#} vgl. {#praSraTa#} fg.
+	939985	<ls>Verz. d. Oxf. H. 216,b,18.</ls> fg.
+	945852	<div n="v">— Vgl. {#praSlizwa#} fg.
+	946738	<div n="v">— Vgl. {#SvAPalka#} fg.
+	947981	<ls>SĀY.</ls> zu <ls>ṚV. 1,33,14.</ls> fg.
+	951627	<ls>ṚV. PRĀT. 2,33.</ls> fg.
+	952303	<ls n="ṚV. PRĀT.">17,14.</ls> <ls n="ṚV. PRĀT.">18,18.</ls> fg.
+	960658	 beiden letzten Stellen unter 1. {#gam#} mit {#sam#} Z. 19. fg.).
+	966618	<div n="v">— Vgl. {#sAtyamugra#} fg.
+	967761	<ls>R. 5,51,2.</ls> Vgl. {#avasAdaka#} fg.
+	968317	<div n="v">— Vgl. {#upanizad#} fg.
+	969191	<ls>GILD.</ls> Bibl. 421. fg.
+	978086	<div n="v">— Vgl. {#samakakza#} fg.
+	981407	<ls>ṚV. PRĀT. 13,11.</ls> fg.
+	988935	">1521.</ls> {%Gang%} in {#BujagaSiSu˚#} . — vgl. {#sasra#} fg.
+	989209	<ls>NIR. 3,2</ls>), {#upasaryA#} fg.
+	989260	<div n="v">— Vgl. {#niHsAraRa#} fg.
+	991396	<div n="v">— Vgl. {#sisfkzA#} fg.
+	992200	<div n="v">— Vgl. {#visarjayativya#} fg.
+	992529	<div n="v">— Vgl. {#sarIsfp#} fg.
+	998525	<ls>ṚV. 2,27,11</ls>; vgl. {#savyAprazwi#} fg.
+	998955	<ls n="ṚV. PRĀT.">14,9.</ls> <ls n="ṚV. PRĀT. 14,">20.</ls> fg.
+	1000237	<div n="v">— Vgl. {#sAhadeva#} fg.
+	1002995	<ls>BHĀG. P. 4,7,56.</ls> {#udavasAnIya#} fg.
+	1008273	<ls>Ind. St. 3,276</ls> (neutr. fehlerhaft). fg.
+	1014980	<div n="v">— Vgl. {#upasektar#} fg.
+	1017271	<div n="v">— Vgl. {#AsedDar#} fg.
+	1027839	<div n="v">— Vgl. {#sOpizwa#} fg.
+	1030938	<div n="v">— Vgl. {#sOmitra#} fg.
+	1040615	<div n="v">— Vgl. {#nisUdaka#} (lies {#nizU˚#}) fg.
+	1044155	<div n="v">— Vgl. {#Asevana#} fg.
+	1050489	<div n="v">— Vgl. {#aByavaskanda#} fg.
+	1051116	<div n="p">— {#ni#} s. {#nizkamBa#} fg.
+	1052182	<div n="v">— Vgl. {#pratyuttabDi#} fg.
+	1052997	<div n="p">— {#pravi#} s. {#pravistara#} fg.
+	1053682	<div n="p">— {#prati#} s. {#pratizwuti#} fg.
+	1053738	<div n="v">— Vgl. {#saMstava#} fgg., {#saMstAva, saMstuta#} fg.
+	1056146	s. <ls>AV. PRĀT. 2,92.</ls> fg.
+	1058187	<div n="v">— Vgl. {#upasTApana#} fg.
+	1058516	<div n="p">— {#pratipra#} s. {#pratiprasTAtar#} fg.
+	1063442	<div n="v">— Vgl. {#parispanda#} fg.
+	1063640	<div n="p">— {#pari#} s. {#parisparDin#} fg.
+	1063646	<div n="v">— Vgl. {#pratisparDA#} fg.
+	1063652	<div n="v">— Vgl. {#vizparDas, visparDA#} fg.
+	1063655	<div n="v">— Vgl. {#saMsparDA#} fg.
+	1064454	<div n="p">— {#prati#} s. {#pratispaSa#} fg.
+	1065027	<div n="v">— Vgl. {#AsPAla#} fg.
+	1066608	<div n="v">— Vgl. {#apasmAra#} fg.
+	1066676	<div n="v">— Vgl. {#vismAraka#} fg.
+	1066698	<div n="v">— Vgl. {#saMsmAraka#} fg.
+	1067681	<div n="v">— Vgl. {#aBizyanda#} fg.
+	1067704	<div n="v">— Vgl. {#nisyanda#} fg.
+	1067714	<div n="v">— Vgl. {#parizyanda#} fg.
+	1068125	<ls>ṚV. 10,77.</ls> fg.
+	1068267	<div n="v">— Vgl. {#prasraMsa#} fg.
+	1069157	<ls n="SUŚR.">2,485,1.</ls> Vgl. {#visrAvaRa#} fg.
+	1069167	<div n="v">— Vgl. {#saMsrava#} fg. und {#saMsrAva#} fg.
+	1070760	<div n="v">— Vgl. {#AsvAda#} fgg. und {#nirAsvAda#} fg.
+	1071578	<div n="v">— Vgl. {#suzupsA#} fg.
+	1071635	<div n="v">— Vgl. {#prasvApana#} fg.
+	1073072	<ls>VS. PRĀT. 1,166.</ls> fg.
+	1073321	<ls>AV. PRĀT. 1,101.</ls> fg.
+	1077897	<div n="v">— Vgl. {#prasveda#} fg.
+	1080206	<div n="v">— Vgl. {#antarGaRa#} fgg. und {#antarhaRana#} fg.
+	1080524	<div n="v">— Vgl. {#aByAGAta#} fg.
+	1081092	ita#}, wie die <ls>ed. Bomb.</ls> liest. Vgl. {#saMnihatI#} fg.
+	1083127	<div n="v">— Vgl. {#aDyAharaRa#} fg.
+	1086018	<ls>ṚV. 1,50,11.</ls> fg.
+	1088142	<div n="v">— Vgl. {#hAvirDAna#} fg.
+	1088210	<div n="v">— Vgl. {#hAviryajYika#} fg.
+	1088813	v">— Vgl. {#avahasana#} (in den Nachträgen) und {#avahAsa#} fg.
+	1090574	<div n="v">— Vgl. {#jihAsA#} fg.
+	1092682	<ls>VS. PRĀT. 6,15.</ls> fg.
+	1093347	<div n="v">— Vgl. {#hEqimba#} fg.
+	1095559	<div n="p">— {#ava#} s. {#avahela#} fg.
+	1098795	<ls>UJJVAL.</ls> Vgl. {#su˚#} und {#hEmanta#} fg.
+	1100683	<div n="v">— Vgl. {#apahnava#} fg.
+	1101158	<div n="v">— Vgl. {#nirhrAda#} fg.
+	1101490	<div n="p">— {#aBi#} s. {#aBihrut#} fg.
+	1117801	<div n="v">— Vgl. {#paryavapAda#} fg.
+	1118785	<ls>ṚV. 9,67,31.</ls> fg.
+a	1011294	<ls>Verz. d. Oxf. H. 65,b,37.</ls> fg. 66, {%a%},5; vgl. {#sArasvate tIrTe#}
+a	1028030	<div n="1"> 1) <lex>adj.</lex> (fg. {#A#}) {%leicht zu füllen%}: {#kunAdikA, mUzikAYjali#}
+abibavin	536149	<div n="v">— Vgl. {#aBiBava#} fg., {#aBiBAvin, aBiBu#} fg., {#aBiBUya#} fg. — caus. {%überwäl
+abibuya	536149	<div n="v">— Vgl. {#aBiBava#} fg., {#aBiBAvin, aBiBu#} fg., {#aBiBUya#} fg. — caus. {%überwältigen%}: {#vikrAntA balav
+abisartar	989095	<div n="v">— Vgl. {#aBisara#} fg., {#aBisartar, aBisAra#} fgg. — caus.
+abyaya	86414	<div n="v">— Vgl. {#aBIti#} fg., {#aByaya#} . — intens. {%anflehen%}: {#a\Bi tvA^ deva savi
+act	1123809	Z. 11. fg. act. auch <ls>Spr. (II) 6939.</ls>
+adara	311099	<div n="v">— Vgl. {#Adara, AdaraRa#} fg., {#AdAra#} fg., {#Aduri, Adftya, anAdfta#} .
+aduri	311099	<div n="v">— Vgl. {#Adara, AdaraRa#} fg., {#AdAra#} fg., {#Aduri, Adftya, anAdfta#} .
+aham	886059	44.</ls> <ls>BHĀG. P. 2,2,24.</ls> <ls>PAÑCAT. 224,20.</ls> fg. {#ahaM#} (<is>Kṛṣṇa</is> spricht) {#vESvAnaro BUtvA prARinA
+aharya	1083092	enfalls fehlerhaft. Vgl. {#Ahara, AharaRa, Ahartar, AhAra#} fg., {#AhArya, DvajAhfta, SakunAhfta, svayamAhfta#} . — caus.
+ahata	1080497	<ls>PAÑCAR. 1,3,70</ls>), {#AGAta#} fg., {#Ahata#} fgg., {#svAhata#} . — intens. {%schlagen auf%}: 
+ahva	1102109	ger Fehler für {#yAvadABUta˚#} . Vgl. {#Ahava, AhAva, AhU#} fg., {#Ahva#} fgg., {#AhvA#} fg. und {#AhvAya#} . — caus. {%her
+ajyayin	268988	<div n="v">— Vgl. {#AjYA, AjYAta, AjYAna#} fg., {#AjYAyin, anAjYAta#} . — caus.
+akarzin	143535	<div n="v">— Vgl. {#Akarza#} fg., {#Akarzin, Akfzwi#} .
+an	274083	<ls>LIA. I, Anh.</ls> xx. fg. An einigen Orten heisst er {#taMsuroDa#}, so
+anak	699744	Z. 2. fg. {#Anak#} wird vom
+anizpanda	703582	<ls>KATHĀS. 60,59.</ls> Z. 5. fg. {#anizpanda#}
+antaraya	86275	<div n="v">— Vgl. {#antarita, antaraya#} fg., {#antarAya#} . — intens. {%zwischen%} (zweien) {%gehen, hi
+anubandin	501679	<div n="v">— Vgl. {#anubanDa#} fg., {#anubanDin, anUbanDya#} .
+anucana	794298	anuvaktavya, anuvacana, anuvAka, anuvAkyA#} fg., {#anUkta#} fg., {#anUcAna#}, 1. {#anUcya#} . — caus.
+anukta	794298	Vgl. {#anuvaktavya, anuvacana, anuvAka, anuvAkyA#} fg., {#anUkta#} fg., {#anUcAna#}, 1. {#anUcya#} . — caus.
+anuroda	768662	<div n="v">— Vgl. {#anurudDa#} fg., {#anuroDa#} fgg.
+anusara	989015	<div n="v">— Vgl. {#anusara#} fg., {#anusAra#} fg., und {#anusfti#} . — caus.
+anuvartin	808898	<div n="v">— Vgl. {#anuvartana#} fg., {#anuvartin, anuvftti, kAntAnuvftta#} . — caus.
+apahara	1082825	ls>KATHĀS. 49,28</ls> für {#apahatya#} . Vgl. {#apaharaRa#} fg., {#apahAra#} fgg., {#anapahftapApman#} . — caus. partic. {#
+aparivfta	803566	<div n="v">— Vgl. {#parivAra, parivfta#} fg., {#aparivfta, nityaparivfta#} . — caus. {%umgeben, umfassen
+apata	407031	<div n="v">— Vgl. {#Apatana, Apati#} fg., {#ApAta#} fgg. — 1. caus. ({#patayati#}) {%hinzufliegen zu
+aplava	497606	<div n="v">— Vgl. {#Aplava#} fg., {#AplAva#} fgg., {#KawvApluta#} . — caus. {%waschen, abwas
+aroha	770198	<div n="v">— Vgl. {#Aruh#} fg., {#ArUQi, AroQar#} fg., {#Aroha#} fgg. — caus.
+aruqi	770198	<div n="v">— Vgl. {#Aruh#} fg., {#ArUQi, AroQar#} fg., {#Aroha#} fgg. — caus.
+avaha	820049	<div n="v">— Vgl. {#Avaha#} fg., {#AvAha#} . — caus. {%herbeirufen%}: {#fzim#}
+avamsapatita	406807	ŚARA</ls> bei <ls>KULL.</ls> zu <ls>M. 3,45</ls> (S. 193,1. fg.). {#avaMSapatita#} so v. a. {%aus niedrigem Geschlecht stam
+avarodana	768744	<div n="v">— Vgl. 2. {#avaroDa#} fg., 2. {#avaroDana#} . — caus. {#vegAvaroDita#} wohl {%verstop
+avasana	1002912	<div n="v">— Vgl. {#anavasyant, avasA#} fg., {#avasAna, avasAya#} fgg. und {#duravasita#} . — caus.
+b	1033877	<span>N. 4. 257,a,29. fg. b,3. 24. 279,b,44. 390,b, No. 37. fgg. 392,a, No. 68. fg.</
+bara	522023	<div n="v">— Vgl. {#BaRana#} fg., {#BARa#} und {#Ban#} .
+bei	380078	S. 321. fg. Bei Blumen ist {%Schlaf%} so v. a. {%Knospenzustand%}: {#ni
+besser	1116074	Z. 6. fg. besser wohl {%hundert werth.%}
+bfhadvata	824795	ma˚, durvAta#},1. {#ni˚, paScAdvAta, puro˚, pUti˚, prati˚#} fg., {#bfhadvAta, mahA˚#} (auch
+bikza	713238	Z. 3. fg. {#BikzA˚#} bedeutet {%das Ausgehen auf den Bettel%}; vgl. u
+caus	204048	<div n="v">— Vgl. {#anuga, anugata#} fgg., {#anugAmin#} fg. — caus.
+caus	268841	<div n="v">— Vgl. {#aByanujYA#} fg. — caus. {%sich beurlauben%}
+caus	271703	<div n="v">— Vgl. {#ujjvala#} fg. — caus. {%in Flammen setzen, anzünden, erglänzen machen, er
+caus	393434	fg. — caus. {%herbeiführen —, kommen —, bringen lassen%}: {#tay
+caus	411120	<div n="v">— Vgl. {#aBisaMpatti#} fg. — caus. {%gleich machen, umbilden in%}: {#virAjameva tanmAs
+caus	443812	<ls n="MBH.">5,5594.</ls> Vgl. {#nizpeza#} fg. — caus. {%vernichten%}: {#AgarBaMyAvadezAM kulmidamaKilaM n
+caus	536149	 Vgl. {#aBiBava#} fg., {#aBiBAvin, aBiBu#} fg., {#aBiBUya#} fg. — caus. {%überwältigen%}: {#vikrAntA balavantaSca rAGaveRa 
+caus	536218	<div n="v">— Vgl. {#udBava, udBU#} fg. — caus. {%hervorbringen, erzeugen%}: {#mAyAM mayodBAvya par
+caus	536363	henden Worte zu trennen. Vgl. {#pariBava#} fgg., {#pariBU#} fg. — caus.
+caus	551749	<div n="v">— Vgl. {#unmaTana, unmanTa, unmATa#} fg. — caus. {%in heftige Bewegung versetzen, erregen%}: {#vanak
+caus	551826	<div n="v">— Vgl. {#pramaTa#} fg., {#pramanTa, pramATa#} fg. — caus. {%Jmd stark zusetzen, Jmd hart mitnehmen%}: {#tESca
+caus	565179	<div n="v">— Vgl. {#upamarda#} fg. — caus. {%zerstören, verwüsten%}: {#(purI) kAlakanyopamardi
+caus	735373	<div n="v">— Vgl. {#apayAtavya#} fg. — caus. {%entführen, rauben%}
+caus	736120	<div n="v">— Vgl. {#pratiyAna#} fg. — caus. {%heimkehren lassen nach%} (acc.)
+caus	740930	<div n="v">— Vgl. {#udyoga#} fg. — caus. {%aufregen, anfeuern, zur That antreiben%}: {#yudDA
+caus	741201	<div n="v">— Vgl. {#viniyoga#} fg. — caus.
+caus	765339	<div n="v">— Vgl. {#prarikvan, prareka#} fg. — caus. {%übriglassen%}: {#pi\tvo nAri^recI\tkiM ca\na pra#
+caus	780539	<div n="v">— Vgl. {#pralabDavya, pralamBa#} fg. — caus. {%Jmd anführen, foppen, zum Narren halten%}
+caus	785174	<div n="v">— Vgl. {#Alepa#} fg. — caus. {%bestreichen, beschmieren, salben%}: {#Alimpayati#
+caus	785890	<div n="v">— Vgl. {#vilaya#} fg. — caus.
+caus	797926	<div n="v">— Vgl. {#anuvAda#} fg. — caus. {%ertönen —, erklingen lassen%}: {#AtodyAn#}
+caus	797948	<div n="v">— Vgl. {#apavAda#} fg. — caus.
+caus	803999	 n="v">— Vgl. 1. {#pravara#}, 1. {#pravaraRa, pravftahoma#} fg. — caus. I. {#pravarayati#} {%erwählen%}
+caus	807310	<div n="v">— Vgl. {#parivarga, ˚vargya, ˚vfkta#} fg. — caus.
+caus	808957	<ls>MALLIN.</ls> zu <ls>KIR. 12,50.</ls> Vgl. {#apavarta#} fg. — caus.
+caus	809294	<div n="v">— Vgl. {#paryAvarta#} fg. — caus. {%umwenden, umdrehen%}
+caus	810088	<div n="v">— Vgl. {#parAvarta#} fgg. und {#parAvft#} fg. — caus. {%bei Seite wenden%}: {#parA^ ha\ yatsTi\raM ha\Ta 
+caus	811805	<div n="v">— Vgl. {#parivfdDa#} fg. — caus.
+caus	812868	<div n="v">— Vgl. {#aBivarzaRa#} fg. — caus. {%beregnen, beschütten%}: {#SarEH#}
+caus	812921	S. 25,3.</ls> Vgl. {#pravarza#} fgg., {#prAvarzin, prAvfz#} fg. — caus. {%regnen machen%}
+caus	816781	— Vgl. {#upavasaTa, upavastar, upavAsa, upavAsin, upozaRa#} fg. — caus.
+caus	858578	<div n="v">— Vgl. {#AveSa#} fg. — caus. {%eingehen machen, hineinbringen, hineinlassen; Jmd
+caus	859612	<div n="v">— Vgl. {#anupraveSa#} fg. — caus. {%eingehen machen%}: {#yonim#}
+caus	922416	<ls>P. 1,2,32</ls>, Schol. Vgl. {#pariSizwa, ˚Seza#} fg. — caus.
+caus	938494	<div n="v">— Vgl. {#viSrama#} fg. und {#viSrAnti#} fg. — caus.
+caus	947217	<div n="v">— Vgl. {#ucCvAsa#} fg. — caus.
+caus	947316	<ls>MBH. 14,573.</ls> Vgl. {#praSvasitavya#} fg. — caus.
+caus	963947	<div n="v">— Vgl. {#vizaNga#} fg. — caus. partic. {#vizajjita#} {%hängend —, haftend an%}
+caus	991423	<div n="v">— Vgl. {#atisarga#} fg. — caus. med. {%sich Erlaubniss (Urlaub) erbitten bei%} (acc
+caus	991873	<div n="v">— Vgl. {#upasarga#} fg. — caus. {%aussenden, entsenden%}: {#takzakAt — dvijaputropa
+caus	992680	<div n="v">— Vgl. {#upasarpaRa#} fg. — caus.: {#sadvidyo hyupasarpyatAm#}
+caus	1052140	<div n="v">— Vgl. {#avazwamBa#} fg. — caus. aor. {#avAtastamBat#}
+caus	1057263	<div n="v">— Vgl. {#samavasTA#} fg. — caus.
+caus	1062956	<div n="v">— Vgl. {#upasnihiti#} fg. — caus. {%zugethan machen, für sich gewinnen%}: {#BUtAnAmAn
+caus	1069061	<ls>SUŚR. 2,69,3.</ls> Vgl. {#niHsrava#} fg. — caus. {%abfliessen lassen%}: {#vApIm#}
+caus	1083414	zu <ls>P. 3,2,188.</ls> Vgl. {#aBivyAhAra#} fg. — caus.
+caus	1083638	araRa, udDartar#} fg., {#udDAra#} fg., {#udDfti, anudDfta#} fg. — caus.
+caus	1084077	<div n="v">— Vgl. {#pratiharaRa#} fg. und {#˚hAra#} fg. — caus. {%zurücknehmen lassen%}
+caus	1087264	<div n="v">— Vgl. {#saMpraharza#} fg. — caus. {%in eine freudige Stimmung versezzen, erfreuen%}
+caus	1088832	<div n="v">— Vgl. {#upahasita, upahasvan#} und {#upahAsa#} fg. — caus. {%verlachen, verspotten%}: {#upahAsita#} (durch das
+caus	1090679	<div n="v">— Vgl. {#parihARa#} fg. — caus.
+caus	1090741	<div n="v">— Vgl. {#prAjahita#} und {#prahARa#} fg. — caus. {%verscheuchen, entfernen%}: {#lokaBayam#}
+da	1008294	<ls>MIT. 3,32,b,16.</ls> fg. Da {#gAyam#} als {#viSezaRa#} bezeichnet wird, so vermuthen
+das	985915	<ls>VS. PRĀT. 8,41.</ls> fg. {%das Uebergeben%}: {#svAtmavyApAra˚#}
+das	1108936	Z. 18 zu lesen 6, 75, 18. — Z. 21. fg. das Beispiel
+das	1116663	Z. 13. fg. {%das Costum eines Schauspielers%} auch
+desid	94481	<ls>P.</ls>, <ls>Sch.</ls> Vgl. {#Irzita#} fg. — desid. {#Irzyizizati#} oder {#Irzyiyizati#}
+desid	508068	<div n="v">— Vgl. {#paribAD#} fg. — desid. {#paribibADizate#} {%abzuhalten —, fernzuhalten be
+desid	534509	am#} (<ab>d. i.</ab> {#˚Bfjjyantam)#} . Vgl. {#pariBoktar#} fg. — desid. partic. {#paribuBukzita#} {%überaus hungrig%}
+desid	943120	<div n="v">— Vgl. {#upaSruti#} fg. — desid. med. {%zuhören, aufmerken%}
+desid	991961	<div n="v">— Vgl. {#prasarga#} fg. — desid. {%entsenden wollen%}
+desid	1056858	<ls>DAŚAK. 66,7</ls>), {#duranuzWita#} fg. — desid. {%obzuliegen wünschen%}: {#kulastrIvfttamevAnutizW
+desid	1058490	<div n="v">— Vgl. {#prasTApana#} fg. — desid. {%aufbrechen —, sich aufmachen wollen%}
+desid	1058985	<div n="v">— Vgl. {#saMsTApaka, saMsTApana#} fg. — desid. vom caus. {#saMsTApayizati#} (ohne Redupl.) {%been
+desid	1081187	<div n="v">— Vgl. {#prahaRana, prahan, prahantar#} fg. — desid.: {#etenAsmAllokAtprajiGAMsanyajeta#}
+desid	1084137	vihara#} fgg., {#vihAra, vihAraRa, vihArin#} und {#vihfta#} fg. — desid. s. {#vijihIrzu#} .
+desid	1084269	<div n="v">— Vgl. {#upasaMhAra#} fg. — desid. {%zu Nichte machen wollen%}
+die	645332	Z. 3. fg. die aus
+die	649283	Z. 5. fg. die Stelle
+die	676917	Z. 2. fg. die Stelle {#aNgArakasya cakroktaH#} zu streichen, da hier 
+die	683794	Z. 3. fg. die Stelle
+die	690950	Z. 3. fg. die Stelle
+die	691708	Z. 6. fg. die Stelle
+die	701658	<ls>R. 7,39,4.</ls> Z. 6. fg. die <ls>ed. Bomb.</ls> des
+die	1112372	Z. 14. fg. Die Stelle <ls>N. 12,20</ls> zu streichen, da hier {#saMgat
+die	1112921	Z. 7. fg. die Stelle
+duhitar	990404	<ls>Verz. d. Oxf. H. 125,a,13.</ls> fg. {#˚duhitar#} als Dichterin ebend.
+duranvaya	692991	Z. 4. fg. {#duranvaya = durGawa#}
+durapura	414378	<div n="v">— Vgl. {#ApUra#} fg., {#durApUra#} .
+ein	928153	<ls>ṚV. 6,33.</ls> fg. ein Sohn <is>Kṣatravṛddha's</is>
+eines	906505	<ls>ṚV. 1,116,22.</ls> <ls n="ṚV.">8,59,13.</ls> fg. eines <is>Asura</is>
+faser	686510	Z. 21. fg.) {%Faser%}
+füge	692503	 <ls>Verz. d. Oxf. H. 240,b,3.</ls> <ls>Sp. 638, Z. 3.</ls> fg. füge <ls>ṚV. 9,114,3</ls> hinzu.
+füge	709887	Z. 4. fg. füge <ls>SĀH. D. 287</ls> hinzu.
+füge	710085	Z. 3. fg. füge ({#tena kziptAH#}) nach {#˚pAlizu#} hinzu und übersetz
+für	407264	<div n="v">— Vgl. {#upanipAta#} fg. — Für das caus.
+ganz	740876	<div n="v">— Vgl. {#Ayukta#} fg. ({%ganz bei einer Sache seiend%}
+gariyasi	673631	Z. 5. fg. {#garIyasI#} so v. a. {%sehr ehrenvoll%}
+gebogen	534116	<ls>VOP. 26,88.</ls> fg. {%gebogen, gekrümmt, krumm%}
+genauer	647667	<ls>Spr. 3847.</ls> Z. 13. fg. genauer: {%der ganze Mann besteht, wie die Weisen sagen, au
+gftahavana	1096143	n="v">— Vgl. {#Ahava#} 2), {#Ahavana, AhAva#} 1), {#Ahuta#} fg., {#GftAhavana#} fgg., {#somAhuta#} fgg. und {#svAhuta#} .
+griva	1051063	t. 8,91. 94.</ls> fgg. <ls n="Ind. St.">130. 147. 243.</ls> fg. {#˚grIvA#} fehlerhaft
+hfti	1082963	<div n="v">— Vgl. {#vyavaharaRa#} fgg., {#˚hArin#} fg., {#˚hfti, vyAvahArI#} . — caus.
+hfti	1083903	<div n="v">— Vgl. {#parihara#} fgg., {#˚hAra, ˚hArin#} fg., {#˚hfti#} . — desid. {%Etwas fern von sich halten —, bemän
+hinzu	644897	6,7</ls> und füge <ls>Ind. St. 8,91. 94. 96. 147. 243.</ls> fg. hinzu.
+ii	666711	<ls>AV. PRĀT.</ls> S. 261. fg. (II,3. 18).
+ii	671117	S. 261. fg. (II,3. 10. 13. 15. 16. 18).
+ije	724928	62. fg.</ls> <ls>VOP. 8,124.</ls> <ls n="VOP. 8,">133.</ls> fg. {#Ije, Ijire; yakzyati, ˚te; ayakzyata; yazwA#}
+im	715197	S. 37,10.</ls> {#paYcasamitiguptizvanutsAhaH pramAdaH#} 18. fg. im <is>Yoga</is>: {#samADisADanAnAmaBAvanaM pramAdaH#}
+in	671762	Z. 2. fg. in anderen Hdschrr. auch {#jAgriyAt#}
+in	715563	<ls>BHĀG. P. 10,52,10.</ls> — Z. 3. fg. in der neueren Ausg.
+in	721603	Z. 4. fg. in Verbindung mit {#tanU#} wohl {%süss.%}
+in	1110011	Z. 12. fg. in der Stelle aus
+intens	508093	<div n="v">— Vgl. {#prabADaka#} fg. — intens.: {#pra\bAba^DAnA ra\Tye^va yAti\ viSvA^ a\po ma^h
+intens	785549	<ls>SUŚR. 1,125,7</ls> ? Vgl. {#avaleha#} fg. — intens. {%beständig lecken, züngeln%}: {#jvalana ivAvalel
+intens	798187	<div n="v">— Vgl. {#prativAda#} fg. — intens. partic. {#prativAvadat#} {%widerredend%}
+is	719020	<ls>ṚV. 10,71.</ls> fg. <is>Laukya</is> — von
+is	1038655	<ls>ṚV. 6,31.</ls> fg. <is>Bārhaspatya</is>
+ist	701409	<ls>MBH. 12,12864.</ls> Z. 2. fg. ist {%eine gelegentliche Pflicht%} st. {%ein kleines Gelübd
+ist	717197	<ls>UTTARARĀMAC. 91,9 (117,12).</ls> Z. 3. fg. ist die Stelle
+iti	657419	</ls> <ls>VS. PRĀT. 1,37.</ls> <ls n="VS. PRĀT.">4,57.</ls> fg. {#iti˚#}
+karah	957289	(vgl. <ls>KERN</ls> in der Vorrede 21. fg.). {#˚kArAH#}
+karwakapravfta	803372	<div n="v">— Vgl. {#prAvara#} fgg., {#prAvAra#} fg., {#kaRwakaprAvftA, kuprAvfta#} .
+katabirdesanam	694994	Z. 8. fg. {#kaTABirdeSAnAm#} bedeutet {%mit Erzählungen über die%} (b
+kulodgata	204567	<div n="v">— Vgl. {#udgata#} fgg., {#udgama#} fg., {#kulodgata#} .
+lies	631147	Z. 5. fg. lies 1, 13, 5. 52, 14.
+lies	635114	Z. 2. fg. lies 2, 23. 33. 38, streiche {#vyAhAvam#} bis
+lies	640656	Z. 2. fg. lies 10, 14, 12 st. 10, 14, 2, {#u\pe˚#} st. {#u\pE˚#} und 
+lies	641837	<ls>SARVADARŚANAS. 113,11.</ls> Z. 2. fg. lies {#jYAnonmeza#} und vgl.
+lies	646153	Z. 3. fg. lies: {#sa (bfhaspatiH) su^zwuBA\ sa fkva^tA ga\Rena^#} .
+lies	646521	Z. 3. fg. lies 12, 3, 29.
+lies	647668	<ls>Spr. 3846.</ls> Z. 16. fg. lies {#etAvAnpuruzastAta kftaM#}.{# etAvanmAtra#} {%so weni
+lies	654719	="1"> 2) {#supakvakalika#} (sic); s. u. {#peSI#} 10). Z. 3. fg. lies {#sakalikA#} .
+lies	680153	Z. 3. fg. lies 36, 10 st. 36, 3.
+lies	688369	<ls>Spr. 3391.</ls> Z. 7. fg. lies {%Spitze%}: {#SUlErayastuRqEH#}
+lies	701291	<ls>NĪLAK. 15.</ls> Z. 1. fg. lies {%Veranlassung.%}
+lies	706081	Z. 3. fg. lies {#paripatitorasi#} (<ab>d. i.</ab> {#paripatitA u˚#}).
+lies	713699	Z. 14. fg. lies {#miTyApratijYa#} (s. auch bes.).
+lies	713700	Z. 27. fg. lies im <is>Nyāya</is> {%Verkündigung einer best. Thesis in
+lies	714474	Z. 1. fg. lies {%westlich.%}
+lies	717219	Z. 1. fg. lies {#plavaM ni˚#} .
+loka	976158	s>Verz. d. Oxf. H. 279,b,37.</ls> {#˚saMvAda#} 5, {%b%},18. fg. {#˚loka#}
+ls	347798	s>TRIK. 3,3,314.</ls> <ls>H. 1097.</ls> <ls>an. 4,223.</ls> fg. <ls>MED. y. 119.</ls>
+ls	431684	18.</ls> <ls>TRIK. 1,2,16.</ls> <ls n="TRIK.">3,3,247.</ls> fg. <ls>H. 1345.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 
+ls	458928	ls> <ls n="R.">2,110,11</ls> (<ls n="GORR. 2,">119,11.</ls> fg. <ls>GORR.</ls>). eines Sohnes des <is>Pāra</is>
+ls	472786	<ls n="R.">1,10,2.</ls> <ls n="R.">2,109,16.</ls> fg. (<ls n="GORR. 2,">118,16.</ls> fg. <ls>GORR.</ls>). <ls n="
+ls	472786	ls n="R.">2,109,16.</ls> fg. (<ls n="GORR. 2,">118,16.</ls> fg. <ls>GORR.</ls>). <ls n="R.">6,10,12.</ls> <ls>MĀRK. P. 22,8
+ls	507650	<ls>H. 778.</ls> fg. <ls n="H.">229.</ls>
+ls	514443	<ls>MED. t. 136.</ls> fg. <ls>ṚV. PRĀT. 16,1.</ls> <ls n="ṚV. PRĀT. 16,">30.</ls> fgg
+ls	518264	<ls>AK. 1,1,1,31.</ls> <ls>H. 201.</ls> <ls>an. 2,329.</ls> fg. <ls>MED. m. 20.</ls> <ls>MIT. 142,9.</ls> <ls>Verz. d. Oxf.
+ls	525674	<ls>VOP. 3,9.</ls> <ls n="VOP. 3,">148.</ls> fg. <ls n="VOP.">4,12.</ls>
+ls	528778	1,6.</ls> <ls>TRIK. 2,1,2.</ls> <ls n="TRIK.">3,3,175.</ls> fg. <ls>H. 691.</ls> <ls n="H.">947</ls>, <ls>Sch.</ls> <ls>H. 
+ls	564412	<ls>VOP. 3,77.</ls> fg. <ls n="VOP.">9,25.</ls> {#mfzwas, mArjanti, mfjanti#} ebend
+ls	565785	<ls>VOP. 8,76.</ls> fg. <ls n="VOP.">13,4.</ls> {#mamarSa; markzyati#} <is>Kār.</is
+ls	570343	6.</ls> <ls n="R. 1,">55,12.</ls> <ls n="R. 1,55,">15.</ls> fg. <ls n="R. 1,">75,17</ls> (<ls n="GORR. 1,">77,20</ls> <ls>G
+ls	663425	<ls>MBH. 3,13240.</ls> Z. 8. fg. <ls>HIT. I,127</ls> gehört zu {%b)%}; vgl.
+ls	667338	Z. 1. fg. <ls>MEGH. 87.</ls> <ls n="MEGH.">107</ls> liest <ls>MALLIN.
+ls	667630	<ls n="VARĀH. BṚH. S.">28,20.</ls> Z. 6. fg. <ls>VET. 21,18</ls> ist {#Danakzaya#} N. pr.
+ls	676913	<ls>SARVADARŚANAS. 120,3.</ls> Z. 5. fg. <ls>PAÑCAT. 235,14</ls> gehört zu 1), da {#cakra#} hier als
+ls	679124	<ls n="Verz. d. Oxf. H. 21,b,">28. fg.</ls> Z. 5. fg. <ls>VET. 10,8</ls> wird {%ein Frauenzimmer am ersten Tage d
+ls	682256	<ls>SARVADARŚANAS. 2,7. 3,20.</ls> Z. 9. fg. <ls>MBH. 9,3482</ls> ist zu streichen, da daselbst mit der 
+ls	685245	<ls>Spr. 3451.</ls> Z. 6. fg. <ls>BHARTṚ. 3,4</ls> stände besser bei 1);
+ls	697352	<ls>Spr. 2519.</ls> <ls>Sp. 904.</ls> Z. 12. fg. <ls>BHARTṚ. 3,82</ls> bedeutet {#Datte#} bei der richtigen 
+ls	697942	? Z. 4. fg. <ls>ṚV. 2,15,5</ls> gehört nach
+ls	697997	Z. 5. fg. <ls>NĪLAK.</ls> : {#vyavaDUtA dArAdizvanAsaktAH#} .
+ls	700836	Z. 7. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 11,140</ls> : {#niketAH saMDigf
+ls	703093	Z. 18. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 14,1234</ls> : {#niveSapariveSa
+ls	703956	Z. 3. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 5,1339</ls> : {#asato duzwasya 
+ls	709316	Z. 2. fg. <ls>MBH. 6,422</ls> bedeutet das Wort {%braun%} (die Farbe 
+ls	712067	Z. 9. fg. <ls>NĪLAK.</ls> : {#pUrvaM saKA iti saKipUrvaM jIrRaM saKya
+ls	713124	Z. 6. fg. <ls>MBH. 4,1977</ls> erklärt
+ls	713166	Z. 3. fg. <ls>ed. Bomb.</ls>: {#taTAByuditaSAyinA . prage niSAmASu ta
+ls	713670	Z. 4. fg. <ls>NĪLAK.</ls> zu <ls>HARIV. 13115</ls> : {#sucAruByo 'pi 
+ls	713907	<ls>Verz. d. Oxf. H. 207,a, N. 3.</ls> Z. 3. fg. <ls>HARIV. 11750</ls> liest die neuere Ausg. {#pratiBAtESca
+ls	714270	Z. 5. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 12,7505</ls> : {#pratisaMDiH pr
+ls	714528	05,b,18.</ls> <ls n="Verz. d. Oxf. H.">312,a,18.</ls> Z. 4. fg. <ls>SARVADARŚANAS. 20,21. fg.</ls>
+ls	718586	Z. 3. fg. <ls>Ind. St. 5,297, N. 2</ls> ist nicht vom Monde die Rede,
+ls	724062	Z. 3. fg. <ls>COLEBR. Misc. Ess. 1,384.</ls> <ls>WILSON, Sel. Works 1
+ls	727112	(<ls n="GORR. 1,">54,15.</ls> fg. <ls>GORR.</ls>). <ls n="R.">2,45,28.</ls> <ls>MEGH. 16.</ls
+ls	728735	3,">2896.</ls> <ls>R. 1,52,3.</ls> <ls n="R.">2,56,13</ls>, fg. <ls n="R. 2,">58,18.</ls> <ls n="R. 2,">82,2.</ls> <ls>BHĀG
+ls	732031	="M.">8,41.</ls> <ls n="M.">11,59. fgg.</ls> S. 358. Z. 13. fg. <ls>KUSUM. 9,16. 18,20.</ls> <ls>SARVADARŚANAS. 131,14. fg.
+ls	734942	<ls>RAGH. 2,16.</ls> fg. <ls n="RAGH.">3,25.</ls> {#agrato lakzmaRaH yAtaH#}
+ls	742639	<ls>R. 1,70,24.</ls> fg. (<ls n="GORR. 1,">72,22</ls> <ls>GORR.</ls>). <ls n="SCHL."
+ls	743579	/ls> <ls>GORR.</ls>). <ls>ŚĀK. 47.</ls> <ls>KAP. 1,12.</ls> fg. <ls n="KAP.">3,52.</ls> <ls>SĀṂKHYAK. 42.</ls> <ls>RAGH. 7,
+ls	745039	8.</ls> <ls n="R. 2,">81,12.</ls> <ls n="R. 2,">82,24.</ls> fg. (<ls n="GORR. 2,">89,6</ls> fg. <ls>GORR.</ls>). <ls>R. GOR
+ls	745039	> <ls n="R. 2,">82,24.</ls> fg. (<ls n="GORR. 2,">89,6</ls> fg. <ls>GORR.</ls>). <ls>R. GORR. 2,100,56.</ls> <ls n="R. GORR
+ls	745152	6.</ls> <ls>HALĀY. 2,359. 5,76.</ls> <ls>ṚV. 1,164,32.</ls> fg. <ls n="ṚV.">2,9,3.</ls> {#a\yaM te\ yoni^rf\tviyo\ yato^ jA
+ls	758977	<ls>VOP. 3,77.</ls>  fg. <ls n="VOP. 3,">134.</ls>
+ls	763779	<ls>WILSON</ls> in der Einl. zur 1ten Ausg. d. Wört. XXIII. fg. <ls>Verz. d. Oxf. H. 38,a, No. 93.</ls> <ls n="Verz. d. Oxf
+ls	772378	> <ls n="VS. PRĀT.">4,2.</ls> <ls n="VS. PRĀT. 4,">34.</ls> fg. <ls n="VS. PRĀT. 4,">98.</ls> <ls n="VS. PRĀT. 4,">145.</ls
+ls	795542	<ls>ṚV. 1,165,8.</ls> <ls n="ṚV.">2,12,12.</ls> fg. <ls n="ṚV.">4,20,1.</ls> <is>Indra-Agnī</is>
+ls	798202	<ls>R. 3,67,10.</ls> fg. <ls>Spr. 3068.</ls> <ls>KATHĀS. 24,183.</ls> <ls n="KATHĀS.
+ls	807639	146.</ls> <ls>AV. PRĀT. 1,92.</ls> <ls>TS. PRĀT. 2,10.</ls> fg. <ls>P. 1,1,9</ls>, Schol. <ls>VOP. 1,1.</ls> {#svaravyaYjan
+ls	807647	<ls>AV. PRĀT. 1,37.</ls> <ls n="AV. PRĀT.">3,44.</ls> fg. <ls n="AV. PRĀT.">4,56.</ls>
+ls	815119	s>MED. r. 212.</ls> n. <ls>H. 624.</ls> <ls>an. 3,598.</ls> fg. <ls>M. 5,13.</ls> <ls>YĀJÑ. 1,175.</ls> <ls>SUŚR. 1,41,16. 
+ls	820260	<ls>ṚV. 1,117,14.</ls> fg. <ls n="ṚV.">6,62,6.</ls> {#du\ri\tAt#}
+ls	828037	<ls>ṚV. 1,134.</ls> fg. <ls n="ṚV.">2,41.</ls> <ls n="ṚV.">7,90.</ls> <ls n="ṚV. 7,
+ls	831899	<ls>H. ś. 176.</ls> <ls>an. 3,295.</ls> fg. <ls>MED. t. 152.</ls> <ls>HĀR. 52</ls>) <ls>MBH. 1,4109.</l
+ls	837240	 2,">105,5</ls> <ls>GORR.</ls>). <ls>R. GORR. 2,18,11.</ls> fg. <ls n="R. GORR.">5,81,48.</ls> {#tava viSrAmahetorhi taTEva
+ls	842024	> (med.). <ls n="R.">4,27,23.</ls> <ls n="R.">5,15,37.</ls> fg. <ls n="R.">6,84,31.</ls> <ls>RAGH. 1,95.</ls> <ls n="RAGH."
+ls	844055	9,87,8.</ls> <ls n="ṚV.">10,99,2.</ls> <ls>AV. 9,2,14.</ls> fg. <ls n="AV. 9,2,">10</ls>, <ls n="AV. 9,">1,23.</ls> <ls n="
+ls	850630	<ls n="VS. PRĀT.">8,41.</ls> fg. <ls>AV. PRĀT. 2,51.</ls> <ls n="AV. PRĀT.">3,78.</ls> <ls>Ś
+ls	853391	<ls>ṚV. 8,4,15.</ls> fg. — <ls>TBR. 3,7,14,1.</ls> {#gopImAnagranTervimocanI#}
+ls	860129	 2,63,43</ls> (<ls n="GORR. 2,">65,41</ls> <ls>GORR.</ls>). fg. <ls n="R.">6,36,120.</ls> <ls n="R. 6,">71,21.</ls> <ls n="
+ls	864067	89.</ls> Schol. zu <ls n="H.">183.</ls> <ls>an. 4,332.</ls> fg. <ls>ṚV. 10,85,21. fg.</ls> <ls n="ṚV. 10,">139,4.</ls> <ls 
+ls	868021	s> <ls>R. GORR. 1,3,31.</ls> <ls n="R. GORR. 1,3,">34.</ls> fg. <ls n="R. GORR. 1,">4,47.</ls> <ls n="R. GORR. 1,">2,51</ls
+ls	868047	 <ls n="AV. PRĀT. 1,">42.</ls> <ls n="AV. PRĀT.">2,25.</ls> fg. <ls n="AV. PRĀT. 2,">40.</ls> <ls n="AV. PRĀT.">3,29.</ls>
+ls	872484	<ls>ṚV. 1,116,16.</ls> <ls n="ṚV. 1,">117,17.</ls> fg. <ls n="ṚV. 1,">183,4.</ls> <ls n="ṚV.">6,51,6.</ls> <ls n="
+ls	876188	</ls>-6. <ls n="ṚV.">5,36,5.</ls> <ls n="ṚV.">6,44,19.</ls> fg. <ls n="ṚV.">8,13,31</ls>-33. <ls n="ṚV. 8,">33,10</ls>-12. 
+ls	886059	</ls>. <ls n="ṚV. 7,">49,4.</ls> <ls n="ṚV.">10,88,12.</ls> fg. <ls>VS. 4,15.</ls> <ls n="VS.">33,60.</ls> <ls>AV. 3,21,3.<
+ls	889193	<ls n="MĀRK. P.">134,38.</ls> fg. <ls>SĀH. D. 45,10.</ls> <ls>RĀJA-TAR. 1,323.</ls> <ls n="RĀ
+ls	891379	Verz. d. Oxf. H.">189,b,13.</ls> Schol. zu <ls>H. 103.</ls> fg. <ls n="H.">183.</ls> <ls n="H.">201.</ls> <ls n="H.">210.</
+ls	893757	R. 2,">44,9</ls> <ls>GORR.</ls>). <ls>R. GORR. 1,1,28.</ls> fg. <ls n="R. GORR.">2,13,19.</ls> {#yo mAM drutamanuvrajet#}
+ls	895317	7.</ls> <ls n="R. 2,">37,13.</ls> <ls n="R. 2,">98,20.</ls> fg. (<ls n="GORR. 2,">107,10.</ls> fg. <ls>GORR.</ls>). <ls n="
+ls	895317	ls n="R. 2,">98,20.</ls> fg. (<ls n="GORR. 2,">107,10.</ls> fg. <ls>GORR.</ls>). <ls n="R.">3,68,48.</ls> <ls n="R.">5,18,6
+ls	903659	. 1,7.</ls> <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9,24.</ls> fg. <ls>M. 1,75.</ls> <ls n="M.">12,98.</ls> <ls>SUŚR. 1,35,20.
+ls	903714	</ls> <ls>ṚV. PRĀT. 4,7.</ls> <ls n="ṚV. PRĀT. 4,">15.</ls> fg. <ls n="ṚV. PRĀT. 4,">20.</ls> fg. <ls n="ṚV. PRĀT. 4,">37.<
+ls	903714	n="ṚV. PRĀT. 4,">15.</ls> fg. <ls n="ṚV. PRĀT. 4,">20.</ls> fg. <ls n="ṚV. PRĀT. 4,">37.</ls> <ls>AV. PRĀT. 4,107.</ls> <ls
+ls	905161	<ls>ṚV. 1,162,9.</ls> fg. <ls n="ṚV.">2,3,10.</ls> {#a\gnirha\viH Sa^mi\tA sU^dayAti#
+ls	906402	<ls n="HARIV.">13512.</ls> fg. <ls n="HARIV.">13521.</ls> <ls>R. 3,32,20.</ls> <ls n="R. 3
+ls	910979	. 4,1. 30.</ls> <ls>NIR. 1,3.</ls> <ls n="NIR. 1,">12.</ls> fg. <ls>P. 3,4,111.</ls> <ls n="P.">8,3,18.</ls> <ls n="P. 8,">
+ls	917300	 St. 1,13. 16. 2,211.</ls> fg. <ls n="Ind. St.">3,260.</ls> fg. <ls n="Ind. St.">4,118. 125. 345.</ls> fgg. <ls n="Ind. St.
+ls	917300	<ls n="P. 4,">3,73.</ls> <ls>Ind. St. 1,13. 16. 2,211.</ls> fg. <ls n="Ind. St.">3,260.</ls> fg. <ls n="Ind. St.">4,118. 12
+ls	928129	">9574.</ls> <ls>R. 1,61,19.</ls> <ls n="R. 1,61,">21.</ls> fg. (<ls n="GORR. 1,">63,22.</ls> fgg. <ls>GORR.</ls>). <ls>VAR
+ls	928129	zu <ls>P. 6,2,40.</ls> <ls>ṚV. 1,24,12.</ls> fg. <ls n="ṚV.">5,2,7.</ls> <ls>TS. 5,2,1,3.</ls> <ls>AIT. BR. 
+ls	929408	7836.</ls> <ls n="MBH.">3,11048</ls> (S. 571). 13,114. 209. fg. 2422. 2431. 4530. <ls>R. 2,107,3</ls> (<ls n="GORR. 2,">115
+ls	939381	<ls>VOP. 7,32.</ls> fg. <ls n="VOP.">23,22.</ls>
+ls	941068	,">84,5.</ls> <ls>RAGH. 3,36.</ls> <ls n="RAGH.">8,13.</ls> fg. <ls n="RAGH.">12,2.</ls> <ls n="RAGH. 12,">6.</ls> <ls n="R
+ls	946483	<ls>ṚV. 10,18,11.</ls> fg. <ls n="ṚV. 10,">142,6.</ls>
+ls	957259	</ls> <ls>AV. PRĀT. 2,1.</ls> <ls n="AV. PRĀT.">4,108.</ls> fg. <ls n="AV. PRĀT. 4,">124.</ls> <ls>TS. PRĀT. 5,1.</ls> <ls 
+ls	958592	<ls n="R. 1,">70,36.</ls> fg. (<ls n="GORR. 1,">72,25.</ls> fg. <ls>GORR.</ls>). <ls n="R.">2,36,16.</ls> <ls n="R. 2,">64,
+ls	958592	>40,2.</ls> fgg. <ls>GORR.</ls>). <ls n="R. 1,">70,36.</ls> fg. (<ls n="GORR. 1,">72,25.</ls> fg. <ls>GORR.</ls>). <ls n="R
+ls	962765	8.</ls> <ls n="R. 2,26,">22.</ls> <ls n="R. 2,">82,25.</ls> fg. (<ls n="GORR. 2,">89,7.</ls> <ls n="GORR. 2,89,">8</ls> <ls
+ls	973308	ls n="TS. PRĀT.">10,15.</ls> <ls n="TS. PRĀT. 10,">24.</ls> fg. <ls>Ind. St. 8,120. 464. 10,407.</ls> <ls>WEBER, PRATIJÑĀS.
+ls	973674	ls n="ṚV. PRĀT. 11,">20.</ls> <ls n="ṚV. PRĀT.">13,15.</ls> fg. <ls n="ṚV. PRĀT.">14,26.</ls>
+ls	973762	m. zu <ls>TS. PRĀT. 1,33.</ls> <ls n="TS. PRĀT.">2,47.</ls> fg. <ls n="TS. PRĀT.">18,1.</ls> <ls>P. 5,3,83</ls>, <is>Vārtt<
+ls	977486	<ls>TS. PRĀT. 1,42.</ls> <ls n="TS. PRĀT. 1,">45</ls>. fg. <ls>ŚVETĀŚV. UP. 6,8.</ls> <ls>M. 1,9.</ls> <ls n="M.">2,18
+ls	982057	.</ls> <ls n="VS. PRĀT.">5,1.</ls> <ls>AV. PRĀT. 2,62.</ls> fg. <ls n="AV. PRĀT.">4,9.</ls> <ls n="AV. PRĀT. 4,">27.</ls> <
+ls	990517	5.</ls> <ls n="ṚV. 7,">40,3.</ls> <ls n="ṚV.">8,21,17.</ls> fg. <ls n="ṚV.">10,17,7.</ls> <ls n="ṚV. 10,">30,12.</ls> <ls n
+ls	992488	<ls>VOP. 8,76.</ls> fg. <ls n="VOP. 8,">97.</ls> {#sarpsyati#} und {#srapsyati#} (v
+ls	994484	> <ls n="Spr. (II)">6916.</ls> <ls n="Spr. (II)">6918.</ls> fg. <ls n="Spr. (II)">7453.</ls> <ls>VARĀH. BṚH. S. 11,18.</ls>
+ls	997845	fg. <ls>R. 1,13,6.</ls> <ls n="R. 1,13,">7</ls> Comm. zu <ls>TS
+ls	998957	="AV. PRĀT.">1,10</ls> und S. 261. <ls>TS. PRĀT. 2,47.</ls> fg. <ls n="TS. PRĀT.">5,27.</ls> <ls n="TS. PRĀT. 5,">38.</ls> 
+ls	1008748	ls n="P.">7,1,36.</ls> <ls>SARVADARŚANAS. 17,4. 98,20.</ls> fg. <ls n="SARVADARŚANAS.">123,22.</ls>
+ls	1016985	.</ls> in <ls>Ind. St. 9,162.</ls> <ls>KAP. 1,89. 103.</ls> fg. <ls>SĀṂKHYAK. 4.</ls> <ls>NĪLAK. 64.</ls> <ls>VEDĀNTAS. (Al
+ls	1016985	0. 30,2. 62,19.</ls> fg. <ls n="SARVADARŚANAS.">72,20.</ls> fg. <ls n="SARVADARŚANAS.">112,19. 125,18.</ls> <ls>BHĀṢĀP. 15.
+ls	1016985	DĀNTAS. (Allah.) No. 4.</ls> <ls>SARVADARŚANAS. 25,20.</ls> fg. <ls n="SARVADARŚANAS.">26,2. 28,14. 29,20. 30,2. 62,19.</ls
+ls	1016985	GOLĀDHY.</ls> <ls>GOLAB. 24.</ls> <ls>ṚV. PRĀT. 11,34.</ls> fg. <ls>KAUṢ. UP. 3,3.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. 
+ls	1016985	ls n="SARVADARŚANAS.">26,2. 28,14. 29,20. 30,2. 62,19.</ls> fg. <ls n="SARVADARŚANAS.">72,20.</ls> fg. <ls n="SARVADARŚANAS
+ls	1017724	 <ls n="TS. PRĀT.">2,47.</ls> <ls n="TS. PRĀT.">13,14.</ls> fg. <ls n="TS. PRĀT.">19,3.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1,11,
+ls	1020277	<ls>ṚV. 8,81.</ls> fg. <ls>ṚV. ANUKR.</ls> <ls>Ind. St. 3,244,a.</ls>
+ls	1024531	ls>H. 172.</ls> <ls>HALĀY. 1,53.</ls> <ls>ṚV. 6,47,12.</ls> fg. <ls n="ṚV.">10,131,6.</ls> <ls>VS. 10,31. fg.</ls> <ls n="V
+ls	1027288	zu <ls>P. 5,4,139.</ls> <ls>VOP. 3,145.</ls> fg. <ls n="VOP.">6,31.</ls> {%schön —, schnellfüssig%}: <is>Sar
+ls	1029105	<ls>R. 7,108,10.</ls> fg. <ls>VP. 385. 386, N. 17.</ls> <ls>Verz. d. Oxf. H. 13,b,14.
+ls	1030076	.</ls> <ls n="AV.">14,1,60.</ls> <ls n="AV. 14,">2,25.</ls> fg. <ls>KAUŚ. 24. 39. 76.</ls> {#ASIrvAdAH#}
+ls	1038913	<ls>ṚV. PRĀT. 15,14.</ls> fg. <ls n="ṚV. PRĀT.">17,20.</ls> <ls n="ṚV. PRĀT.">18,30.</ls>
+ls	1053890	<ls>P. 3,1,109.</ls> <ls>VOP. 26,17.</ls> fg. <ls n="VOP. 26,">25.</ls> <ls>MBH. 8,1373.</ls> <ls n="MBH.
+ls	1063721	<ls>VOP. 8,76.</ls> fg. <ls n="VOP.">13,4.</ls> {#sprakzyati#} (vgl.
+ls	1073624	<ls>AV. PRĀT. 1,16.</ls> fg. <ls n="AV. PRĀT.">3,57.</ls>
+ls	1075314	<ls>ṚV. 6,47,12.</ls> fg. <ls n="ṚV.">10,47,2.</ls> <ls n="ṚV. 10,">131,6.</ls> {#su\
+ls	1117794	Z. 12. fg. <ls>MBH. 12,8202</ls> gehört zu 6), wo {%hängen an Etwas%} 
+lässt	251948	<div n="p">— {#ava#} s. {#avacCurita#} fg. Lässt sich begrifflich wohl schwerlich mit dem Vorhergehend
+madamnata	605492	<div n="v">— Vgl. {#AmnAna#} fg., {#madAmnAta#} .
+maduccizwa	922394	<ls>PAÑCAR. 1,2,75</ls>), {#ucCizya, ucCeza#} fg., {#maDUcCizwa, rAhUcCizwa#} . — caus. {%abküssen%} (!): {#v
+mahamayuri	562767	<div n="v">— Vgl. {#mattamUyara#} fg., {#mahAmayUrI, mAyUra, mAyUrika#} .
+mamsa	936478	<ls>VOP. 7,4.</ls> <ls n="VOP. 7,">18.</ls> fg. {#mAMsa#}
+megamedurandakara	723941	<ls n="KATHĀS.">95,13.</ls> Z. 3. fg. {#˚meGamedurAnDakAra#}
+nach	856642	<ls>ṚV. 10,24.</ls> fg. nach <ls>NIR. 3,13</ls> von {#vac#} oder {#vah#}, nach
+nach	998914	<ls>ṚV. 3,53,15.</ls> fg. nach <ls>BṚHADD.</ls> (<ls>Ind. St. 1,119. fg.</ls>) ein N.
+nanya	671111	Z. 5. fg. {#nAnyA gatirBavati — cAtakasya#}
+naya	393714	<div n="v">— Vgl. {#upanaya#} fg., {#˚nAya#} fg., {#˚netar#} fg. —
+nayvadaviveka	698816	em Werke ebend. {#naYvAdawippaRI#} <lex>f.</lex> desgl. 61. fg. {#naYvAdaviveka#} <lex>m.</lex> desgl. 62.
+netar	393714	<div n="v">— Vgl. {#upanaya#} fg., {#˚nAya#} fg., {#˚netar#} fg. —
+nigfzva	676458	<div n="p">— {#ni#} vgl. {#niGarza#} fg., {#niGfzva; — nis#} vgl. {#nirGarzaRa#} .
+nimeza	588913	<ls>DAŚAK. 8,2.</ls> Vgl. {#animizant#} fg., {#nimiz#} fg., {#nimeza#} fg., {#nimezaRa#} . — caus. {%das Augenlid schl
+nimezara	588913	8,2.</ls> Vgl. {#animizant#} fg., {#nimiz#} fg., {#nimeza#} fg., {#nimezaRa#} . — caus. {%das Augenlid schliessen%}: {#nyam
+nimiz	588913	<ls>DAŚAK. 8,2.</ls> Vgl. {#animizant#} fg., {#nimiz#} fg., {#nimeza#} fg., {#nimezaRa#} . — caus. {%da
+nirmocana	591917	<div n="v">— Vgl. {#nirmukti, nirmoka#} fg., {#nirmocana#} . — caus. {%Jmd befreien%}: {#pApAt#}
+niroddavya	768937	<div n="v">— Vgl. {#nirudDa#} fg., {#nirodDavya#} fgg. — caus.
+nirvacaniya	794388	<ls>BHĀG. P. 12,6,58</ls>), {#nirukti, nirvaktavya#} fg., {#nirvacanIya, nirvAka, nirvAcya#} .
+nirvaha	820272	<div n="v">— Vgl. {#nirUQi, nirvahaRa#} fg., {#nirvAha, nirvAhin, nirvAhya, nirvoQar#} . — caus. {%zu E
+nirvapara	801679	<div n="v">— Vgl. {#nirupti#} fg., {#nirvapaRa, nirvApa, nirvApya, yaTAniruptam#} . — caus. {
+nirvezwavya	859331	<div n="v">— Vgl. {#nirveSa#} fg., {#nirvezwavya#} (statt der zweiten Bed. ist zu setzen {%wo
+nivedin	842060	<div n="v">— Vgl. {#nivedaka#} fg., {#nivedin#} fg.
+niyamya	732003	<div n="v">— Vgl. {#aniyata, niyati#} fgg., {#niyama#} fg., {#niyamya, niyAmaka#} fgg. — caus.
+opya	801542	<div n="v">— Vgl. {#Avapana#} fgg., {#AvApa#} fg., {#opya#} . — caus.
+p	352265	,10</ls>). <ls>HARIV. 9929.</ls> <ls n="HARIV.">11005.</ls> fg. p. 790. <ls>R. 1,49,6.</ls> {#Arjavena naraM yuktam — aSakt
+pararta	704871	Z. 5. fg. {#parArTa˚#}
+parasparasraya	707283	Z. 7. fg. {#parasparASraya#} <lex>m.</lex> {%gegenseitiges Stützen%},
+parimfj	564682	 {#parimfdyante#} zu lesen. Vgl. {#parimArkzRu, parimArja#} fg., {#parimfj#} fgg. — intens. {%umherstreichen an%}: {#ka\vir
+parisara	989299	iv n="v">— Vgl. {#parisara#} fg., {#parisaryA, parisAraka#} fg., {#parIsAra#} .
+parisarya	989299	<div n="v">— Vgl. {#parisara#} fg., {#parisaryA, parisAraka#} fg., {#parIsAra#} .
+paryaya	635476	<div n="v">— Vgl. {#paryaya#} fg., {#paryAya, paryAyin#} .
+patina	706145	Z. 7. fg. {#patinA#}
+pfzadra	712393	Z. 5. fg. {#pfzaDra#} die <ls>ed. Bomb.</ls>
+prabavya	536520	<div n="v">— Vgl. {#praBava#} fgg., {#praBavitar#} fg., {#praBavya, praBAva, praBu, praBUti, praBUvan, praBUzRu#}.
+pracidigvadumukamarqala	716343	Z. 6. fg. {#prAcIdigvaDUmuKamaRqala#}
+prahara	1084010	n="v">— Vgl. {#prahara, praharaRa, praharaRIya, prahartar#} fg., {#prahAra#} fg. und {#prahArin#} fgg. — desid.
+pramada	552323	<div n="v">— Vgl. 1. {#pramada, pramadaka, pramaditavya#} fg., {#pramAda, pramAdikA#} fg., {#pramanda#} . — caus.
+pramanda	552323	mada, pramadaka, pramaditavya#} fg., {#pramAda, pramAdikA#} fg., {#pramanda#} . — caus.
+pramanta	551826	<div n="v">— Vgl. {#pramaTa#} fg., {#pramanTa, pramATa#} fg. — caus. {%Jmd stark zusetzen, Jm
+pramatavya	586643	<div n="v">— Vgl. {#pramaya#} fg., {#pramAtavya, pramAyu#} fg., {#pramIti, apramIya#} {%(der 
+pramiti	586643	<div n="v">— Vgl. {#pramaya#} fg., {#pramAtavya, pramAyu#} fg., {#pramIti, apramIya#} {%(der nicht zu Grunde gehen dürfte)
+pramoktavya	592018	<div n="v">— Vgl. {#pramukti, pramuca#} fg., {#pramoktavya, pramocana#} . — caus. {%auflösen%}: {#veRIm
+prasasta	896228	<div n="v">— Vgl. {#praSaMsaka#} fgg., {#praSaMstavya#} fg., {#praSasta, apraSasta, purupraSasta, praSastavya, praSasti
+prastita	1058462	">— Vgl. {#prazWa, prasTa, prasTAna, prasTAyin, prasTAvan#} fg., {#prasTita#} fgg. — caus.
+prastotar	1053676	gl. {#prastava, prastAva, prastAvanA, prastAvya, prastuta#} fg., {#prastotar#} und {#aprastutapraSaMsA#} unter {#praSaMsA#}
+prati	696859	<div n="p">— {#pari#} vgl. {#pariDAraRa#} fg.; — {#prati#} vgl. {#pratiDartar#} .
+pratyukta	794527	<div n="v">— Vgl. {#uktapratyukta, prativaktavya#} fg., {#pratyukta#} fg.
+pravacana	794468	<div n="v">— Vgl. {#pravaktar#} fg., {#pravacana#} fg., {#pravAka, pravAcya#} (in der Bed.
+pravaha	820334	<div n="v">— Vgl. {#pravaha#} fg., {#pravAha, pravAhin, pravoQar, prOQa#} . — caus.
+pravaka	794468	<div n="v">— Vgl. {#pravaktar#} fg., {#pravacana#} fg., {#pravAka, pravAcya#} (in der Bed.
+pravayaka	870043	<ls n="ṚV.">10,49,1.</ls> — Vgl. 2. {#pravayaRa#} fg., {#pravAyaka, pravetar#} und {#praveya#} .
+prayaga	725207	<div n="v">— Vgl. {#prayaj#}, fg., {#prayAga, prayAja#} .
+s	1083204	fg. S. 261,4, II,7. 14. zu <ls>TS. PRĀT. 12,3.</ls> <ls n="TS. 
+sahizyate	999268	<ls>VOP. 8,79.</ls> <ls n="VOP. 8,">125.</ls> fg. {#sahizyate#}, ({#saMpra#}) {#sakzyati; sahitum#} und {#soQ
+sakapota	712618	<ls>BHĀG. P. 12,9,20.</ls> Z. 2. fg. {#SAkapota#} {%junges Gemüse%} als N. eines Volkes
+samaye	943815	<ls>VS. PRĀT. 8,41.</ls> fg. {#samaye#}
+samharin	1084219	<div n="v">— Vgl. {#saMhara#} fgg., {#saMhAra#} fg., {#saMhArin#} fg., {#saMhfti, saMhriyamARabusam#} und {#˚ya
+samhfti	1084219	="v">— Vgl. {#saMhara#} fgg., {#saMhAra#} fg., {#saMhArin#} fg., {#saMhfti, saMhriyamARabusam#} und {#˚yavam#} . — caus. {%
+samsfzwajit	992317	b.</ls> an der ersten Stelle). Vgl. {#saMsarga, saMsargin#} fg., {#saMsfzwajit#} fgg. und {#saMsrazwar#} . — caus. {%an sic
+samstara	1053023	<div n="v">— Vgl. {#saMstara#} fg., {#saMstAra, saMstir#} .
+saret	906339	<ls>ṚV. 7,104,1.</ls> <ls n="ṚV.">10,87,14.</ls> fg. {#˚SarEt#}
+satro	912758	ls>TRIK. 3,3,387.</ls> <ls>H. 728.</ls> <ls>an. 3,713.</ls> fg. ({#SatrO#} zu lesen).
+sayika	1010029	<div n="1">— 6) fg. {#sAyikA#}
+sich	678628	Z. 4. fg. {%sich Wege bahnen%} falsch; vgl. u. 2. {#mArga#} 2) {%f).%
+sindusovirapati	757967	<ls>ṚV. 9,37.</ls> fg. {#sinDusOvIrapati#}
+span	1033877	. fg. b,3. 24. 279,b,44. 390,b, No. 37. fgg. 392,a, No. 68. fg.</span> <ls>WILSON, Sel. Works 1,202.</ls> {#sureSvarAcArya#
+srit	940638	<div n="v">— Vgl. {#pariSraya#} fg., {#˚Srit, ˚Srita#} (n. auch
+srozwiya	944209	<div n="v">— Vgl. {#eka˚, SrOzwa#} fg., {#SrOzwIya#} .
+st	617388	*Z. 2 lies 21. fg. st. 23.
+st	710964	Z. 5. fg. st. {#puttrastrARAt#} liest die <ls>ed. Bomb.</ls> {#puMsas
+sta	1040791	<ls n="M. 4,">85</ls> (<ls>MBH. 13,5927</ls>). fg. {#˚sTa#}
+stana	1110402	Z. 12. fg. {#˚sTAna#}
+statt	654887	<ls>VARĀH. BṚH. 4,4.</ls> Z. 4. fg. statt {#putratvaM#} liest die <ls>ed. Bomb.</ls> richtig {#
+streiche	608725	*Z. 1. fg. streiche «vgl. auch unten u. {#ni»#} .
+streiche	626113	H. S.">17,15.</ls> <ls n="VARĀH. BṚH. S.">32,15.</ls> Z. 1. fg. streiche die Worte propar. bis {#AkarzAdi#} .
+streiche	633120	Z. 12. fg. streiche die Stelle aus
+streiche	637085	Z. 2. fg. streiche pass.: und (sic), trenne {#tu#} von {#'Bisa#}.{# m
+streiche	659731	<ls>WEBER, JYOT. 101.</ls> Z. 4 fg. streiche Eher bedeutet {#kuprada#} {%freigebig.%}
+streiche	668703	Z. 2. fg. streiche eines Sohnes
+streiche	687914	Z. 3. fg. streiche das Eingeklammerte.
+streiche	691446	Z. 8. fg. streiche die Stelle
+streiche	696519	Z. 2. fg. streiche
+streiche	700137	<ls>KATHĀS. 60,30.</ls> Z. 8. fg. streiche {#pravfttA#} bis {#taTA .#} .
+streiche	706375	Z. 5. fg. streiche {%über Jmd%} bis zum Schluss.
+suktam	1038913	<ls n="ṚV. PRĀT.">17,20.</ls> <ls n="ṚV. PRĀT.">18,30.</ls> fg. {#sUktaM vAbdadEvataM japet#}
+suma	992239	<ls>ṚV. 1,23,23.</ls> fg. {#suma\tyA#}
+sunyanam	703110	Z. 5. fg. {#SUnyAnAM niveSanam#}
+supratizwita	1058654	iv n="v">— Vgl. {#pratizWa#} fg., {#˚zWAtar, ˚zWAna, ˚zWi#} fg., {#supratizWita#} . — caus.
+suragarba	672018	Z. 22. fg. {#suragarBa#} und {#devagarBa#} (s. auch bes.) bedeuten {%G
+svagata	204321	v">— Vgl. {#anAgata, anAgamizyant, Agati#} fgg., {#AgAmin#} fg., {#svAgata#} . — caus.
+tadviramyatamatiprasangat	715821	<ls>KATHĀS. 63,110.</ls> Z. 23. fg. {#tadviramyatAmatiprasaNgAt#} so v. a. {%gehe nicht zu weit
+tejiyasam	688987	<ls>BHĀG. P. 10,64,32.</ls> Z. 2. fg. {#tejIyasAM na dozAya vahneH sarvaBujo yaTA#} auch
+tisro	671109	Z. 4. fg. {#tisro gatayo Bavanti vittasya#}
+titel	1013456	<ls>Verz. d. Oxf. H. 139,a,13.</ls> fg. Titel eines Commentars, = {#kAvyasuDA#}
+trinkstube	631527	Z. 2. fg. {%Trinkstube, Trinkhaus.%}
+udbeda	532288	<div n="v">— Vgl. {#udBid#} fg., {#udBeda#} fg.
+uddara	1083638	s> fehlerhaft für {#udDatya#} . Vgl. {#udDaraRa, udDartar#} fg., {#udDAra#} fg., {#udDfti, anudDfta#} fg. — caus.
+uddati	1080704	<div n="v">— Vgl. {#udGa, udGana, udGAta#} fg., {#udDati, madodData, raTodDatA, siMhodDatA#} .
+uddfti	1083638	r {#udDatya#} . Vgl. {#udDaraRa, udDartar#} fg., {#udDAra#} fg., {#udDfti, anudDfta#} fg. — caus.
+und	236363	<div n="v">— Vgl. {#aticAra#} fg. und u. {#aBi#} .
+und	553915	(<ls>H. ś. 98.</ls> <ls>an. 2,244.</ls> fg.) und {%Erzeugnisse von Milch, Butter, Schmalz%}
+und	586675	<div n="v">— Vgl. {#mimikza#} fg. und {#mekzaRa#} . — caus. {#mekzayati#} {%umrühren, mengen%
+und	608173	an {#(nyakna#} gehört zu {#aYj)#} und vgl. {#nIka, nyaNka#} fg. und {#nyaYc#} .
+und	727184	<div n="v">— Vgl. {#niryAtaka#} fg. und {#niryAtya#} .
+und	731858	<div n="v">— Vgl. {#upayantar, upayama#} fg. und {#upayAma#} .
+und	735835	<div n="v">— Vgl. {#niryA#} fg. und {#niryAti#} . — caus.
+und	779780	<div n="v">— Vgl. {#apalApa#} fg. und caus. von {#lI#} .
+und	779811	ägen, wo zu verbessern ist: {%das Liebkosen%}), {#ullApin#} fg. und caus. von {#lI#} .
+und	780313	<div n="v">— Vgl. {#lipsA#} fg. und {#lIpsitavya#} .
+und	784546	<div n="v">— Vgl. {#parileKa#} fg. und {#pariliKana#} <lex>n.</lex> {%das Glattmachen, Poliren
+und	785789	<div n="v">— Vgl. {#nilaya#} fg. und {#nilAyana#} in den Nachträgen.
+und	803616	<div n="v">— Vgl. {#prativAra#} fg. und {#prativArya#} .
+und	809191	<div n="v">— Vgl. {#apAvftta#} (auch in den Nachträgen) fg. und {#anapAvft#} .
+und	809537	<div n="v">— Vgl. {#upavarta#} fg. und {#upavftti#} . — caus.
+und	820178	<div n="v">— Vgl. {#udvaha#} fg. und {#udvAha#} . — caus.
+und	896072	<div n="v">— Vgl. {#anaBiSasta#} fgg., {#aBiSaMsana#} fg. und {#aBiSas#} fgg.
+und	904620	<ls>R. 4,17,2.</ls> Vgl. {#upaSama#} fg. und {#upaSAnti#} . — caus. {%beruhigen, stillen, beschwicht
+und	904704	<ls>VARĀH. BṚH. S. 86,52.</ls> Vgl. {#praSama#} fg. und {#praSAn#} fgg.; zu {#praSA/m#} hinzuzufügen die Stelle
+und	938494	<div n="v">— Vgl. {#viSrama#} fg. und {#viSrAnti#} fg. — caus.
+und	939309	<ls>MBH. 1,6392.</ls> Vgl. {#SrapaRa#} fg. und {#SrApin#} .
+und	989015	<div n="v">— Vgl. {#anusara#} fg., {#anusAra#} fg., und {#anusfti#} . — caus.
+und	989057	<div n="v">— Vgl. {#apasara#} fg. und {#apasAra#} . — caus. {%Jmd%} oder {%Etwas fortschaffen
+und	989519	<div n="v">— Vgl. {#pratisara#} fg. und {#pratisArin#} . — caus.
+und	991524	<div n="v">— Vgl. {#avasarga#} fg. und {#rudrAvasfzwa#} . — caus. partic. {#avasarjitA#} nach 
+und	992568	<div n="v">— Vgl. {#apasarpa#} fg. und {#apasfpti#} . — caus. {%fortjagen%}: {#˚sarpya#} parti
+und	992792	<ls>MBH. 12,10681</ls> (med.). Vgl. {#saMsarpa#} fg. und {#saMsfp#} .
+und	999518	. {#prasakzin, prasaBam, prasah#} fgg., {#prasAha, prAsah#} fg. und {#prAsAha#} .
+und	1019619	<div n="v">— Vgl. {#praseva#} fg. und {#prAseva#} .
+und	1063966	<div n="v">— Vgl. {#upasparSa#} fg. und {#upaspfS#} . — caus. zu 2): {#apaH#}
+und	1066689	<div n="v">— Vgl. {#saMsmaraRa#} fg. und {#saMsmfti#} . — caus. {#saMsmArayati#} {%Jmd%} (acc.) 
+und	1069153	4,9</ls> gehört zu 1. {#Sru#} mit {#vi#} . Vgl. {#visrava#} fg. und {#visruti#} . — caus. {%ablaufen lassen%}: {#jalam#}
+und	1069167	<div n="v">— Vgl. {#saMsrava#} fg. und {#saMsrAva#} fg.
+und	1071285	<div n="v">— Vgl. {#vizvaRa#} fg. und {#vizvARa#} .
+und	1083749	<ls>MED. t. 222.</ls> Vgl. {#samudDaraRa#} fg. und {#samudDAra#} . — desid. s. {#samujjihIrzu#} .
+und	1083785	en Formen haben wir zu {#upA#} gestellt. Vgl. {#upaharaRa#} fg. und {#upahAra#} . — caus. {%darreichen, vorsetzen%}: Speise
+und	1084010	ahara, praharaRa, praharaRIya, prahartar#} fg., {#prahAra#} fg. und {#prahArin#} fgg. — desid.
+und	1084077	<div n="v">— Vgl. {#pratiharaRa#} fg. und {#˚hAra#} fg. — caus. {%zurücknehmen lassen%}
+und	1101821	<div n="p">— {#pari#} s. {#parihvft#} fg. und {#aparihvfta#} .
+und	1102109	} . Vgl. {#Ahava, AhAva, AhU#} fg., {#Ahva#} fgg., {#AhvA#} fg. und {#AhvAya#} . — caus. {%herbeirufen lassen%}
+unnaya	393616	<div n="v">— Vgl. {#unnaya#} fg., {#unnAya, unnI#} fgg. — desid. {%herauszuführen beabsichti
+upacarya	236751	<div n="v">— Vgl. {#upacara#} fg., {#upacarya, upacAra#} fg., {#upacArya#} .
+upacarya	236751	<div n="v">— Vgl. {#upacara#} fg., {#upacarya, upacAra#} fg., {#upacArya#} .
+upahita	697407	Z. 10. fg. {#upahita#}
+upahvana	1102214	<div n="v">— Vgl. {#upahava#} fg., {#upahvAna#} und {#anupahUta#} . — desid. {%herbeirufen%} 
+upapadya	410341	<div n="v">— Vgl. {#upapAdaka#} fg., {#upapAdya#} .
+uparama	754702	<div n="v">— Vgl. {#uparama#} fg., {#uparAma#} . — caus. {#˚ramayati#} {%zur Ruhe bringen, be
+upasartavya	989208	<div n="v">— Vgl. {#upasara#} fg., {#upasartavya#} ({%womit man sich befassen soll%}
+upasitar	634569	<div n="v">— Vgl. {#upAsaka, upAsana#} fg., {#upAsitar#} fg., {#upAsti, upAsya#} .
+upasti	634569	<div n="v">— Vgl. {#upAsaka, upAsana#} fg., {#upAsitar#} fg., {#upAsti, upAsya#} .
+upavesin	858783	<div n="v">— Vgl. {#upaveSa#} fg., {#upaveSin, prAyopavizwa#} fgg. — caus.
+upayin	635428	<div n="v">— Vgl. {#upAya#} fg., {#upAyin#} fg., {#upetar#} fg., {#upeya#} .
+upetar	635428	<div n="v">— Vgl. {#upAya#} fg., {#upAyin#} fg., {#upetar#} fg., {#upeya#} .
+upeya	635428	<div n="v">— Vgl. {#upAya#} fg., {#upAyin#} fg., {#upetar#} fg., {#upeya#} .
+urukrama	866853	<ls>ṚV. 1,154.</ls> fgg. <ls n="ṚV.">7,99.</ls> fg. {#urukrama#}
+utpava	454636	<div n="v">— Vgl. {#utpavana#} fg., {#utpAva#} .
+vadaniya	798013	<div n="v">— Vgl. {#aBivAdaka#} fg., {#˚vAdanIya#} .
+vastavya	816925	<div n="v">— Vgl. {#pravasaTa#} fg., {#˚vastavya, ˚vAsa, ˚vAsin, aprozivaMs#} . — caus. etwa {%
+veda	888213	<div n="v">— Vgl. {#viDya, vedDar#} fg., {#veDa#} fgg., {#veDin#} fg., {#vyaDa#} fg., {#vyaDya, vya
+versehren	765775	<ls>ṚV. PRĀT. 9,25.</ls> <ls n="ṚV. PRĀT. 9,">27.</ls> fg. {%versehren, Schaden thun, beschädigen, versagen —, fehlen 
+vgl	695990	Z. 3. fg. vgl. <ls>Verz. d. Oxf. H. 80,a,16.</ls>
+vgl	697889	Z. 17. fg. vgl.
+vgl	705686	Z. 3. fg. vgl.
+vgl	981349	<ls>AV. PRĀT. 4,73.</ls> fg.; vgl. {#samApAdya#} .
+vgl	1004125	 k) (abgekürzter) Titel eines Werkes ebend. 292, {%b%}, 31. fg.; vgl. {#adButa˚, tattva˚, dAna˚, smfti˚#} .
+vgl	1009674	<ls n="Verz. d. Oxf. H.">33,a,27.</ls> fg.; vgl. {#puraM yacCAmbasaMjYitam#}
+vielleicht	639351	fg. Vielleicht fehlerhaft für {#utpitsu#} .
+vielleicht	918020	s> <ls n="VARĀH. BṚH. S. 47,">14</ls> (<ls>Spr. 2649</ls>). fg. vielleicht {%der niedersteigende Knoten%}
+visarman	989574	<div n="v">— Vgl. {#visara#} fg. {#visarman, visAra, visArin, visftvara, visfmara#} . — caus
+visfjya	992140	<div n="v">— Vgl. {#visarga, visarjana#} fg., {#visfjya, visfzwi#} . — caus.
+vismfti	1066669	<div n="v">— Vgl. {#vismaraRa#} fg., {#vismfti#} und {#Srutavismfta#} . — caus. {#vismArayati#}
+vismita	1067222	<div n="v">— Vgl. 1. {#vismaya, vismayana#} fg., {#vismita, vismera#} und {#suvismita#} . — caus. {#vismApa
+vyada	888213	="v">— Vgl. {#viDya, vedDar#} fg., {#veDa#} fgg., {#veDin#} fg., {#vyaDa#} fg., {#vyaDya, vyaDvara, vyADa#} und {#apApavidD
+vyadya	888213	iDya, vedDar#} fg., {#veDa#} fgg., {#veDin#} fg., {#vyaDa#} fg., {#vyaDya, vyaDvara, vyADa#} und {#apApavidDa#} .
+vyakarara	234488	<ls>WEST.</ls> in der praef. zu den Radd. III. fg. {#˚vyAkaraRa#}
+w	52331	<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Vgl. d. fg. W.
+w	52477	<div n="v">— Vgl. d. fg. W.
+w	62389	<div n="v">— Vgl. d. fg. W.
+wort	117315	{#ftajA/#}¦ ({#fta + jA#}) <lex>adj.</lex> so. v. a. d. fg. Wort
+zeugen	1019986	(<ls>P. 8,2,45.</ls> <ls>VOP. 26,88.</ls> fg.). {%zeugen, gebären%}
+zu	685272	<ls>BHĀG. P. 10,63,22. fg.</ls> Z. 14. fg. zu der Stelle
+zu	715326	<ls>KATHĀS. 63,86.</ls> Z. 1. fg. zu <ls>VS. 39,11</ls>
+zu	718937	Z. 2. fg. zu <ls>MBH. 12,9667</ls>
+zu	786747	<ls n="TS. PRĀT. 4,">60.</ls> <ls n="TS. PRĀT. 4,">64.</ls> fg. zu <ls>P. 1,2,64.</ls>
+zu	889388	ls> zu <ls>ṚV. PRĀT. 3,15.</ls> zu <ls>AV. PRĀT. 1,99</ls>. fg. zu <ls>P. 8,1,38.</ls> <ls n="P. 8,">2,36.</ls> <ls n="P. 8
+zuta	1019799	<div n="v">— Vgl. {#aBizava#} fg., {#˚zuta, ˚zotar, ˚susUs#} .
+zwatar	1058654	<div n="v">— Vgl. {#pratizWa#} fg., {#˚zWAtar, ˚zWAna, ˚zWi#} fg., {#supratizWita#} . — caus.

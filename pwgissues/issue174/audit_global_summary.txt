@@ -1,0 +1,55 @@
+PWG global-abbreviation audit
+==================================================
+abbreviations in list:        787
+  ambiguous (<=3 chars):      31
+  with zero occurrences:      5
+  already fully marked:       1
+  never marked anywhere:      730
+
+total occurrences:            534,137
+  already inside <ab></ab>:   1,731
+  bare text (need wrapping):  532,406
+
+Top 20 by raw frequency:
+  MBH.                      raw= 67257  marked=     0  unmarked= 67257
+  d.                        raw= 48761  marked=     0  unmarked= 48761
+  N.                        raw= 38421  marked=     2  unmarked= 38419
+  adj.                      raw= 36087  marked=     7  unmarked= 36080
+  z.                        raw= 27185  marked=     0  unmarked= 27185
+  D.                        raw= 22975  marked=     0  unmarked= 22975
+  Verz.                     raw= 22243  marked=     0  unmarked= 22243
+  Spr.                      raw= 21943  marked=     0  unmarked= 21943
+  N. pr.                    raw= 17791  marked=     7  unmarked= 17784
+  an.                       raw= 11920  marked=     0  unmarked= 11920
+  c.                        raw= 11772  marked=     0  unmarked= 11772
+  vgl.                      raw= 11607  marked=    83  unmarked= 11524
+  st.                       raw= 11047  marked=     0  unmarked= 11047
+  ed.                       raw=  9864  marked=     0  unmarked=  9864
+  fg.                       raw=  7693  marked=     1  unmarked=  7692
+  Sch.                      raw=  7086  marked=     2  unmarked=  7084
+  best.                     raw=  6614  marked=     0  unmarked=  6614
+  v. a.                     raw=  6567  marked=     1  unmarked=  6566
+  Ind.                      raw=  6536  marked=     0  unmarked=  6536
+  St.                       raw=  6472  marked=     0  unmarked=  6472
+
+Top 20 unmarked (need wrapping most):
+  MBH.                      unmarked= 67257  marked=     0
+  d.                        unmarked= 48761  marked=     0
+  N.                        unmarked= 38419  marked=     2
+  adj.                      unmarked= 36080  marked=     7
+  z.                        unmarked= 27185  marked=     0
+  D.                        unmarked= 22975  marked=     0
+  Verz.                     unmarked= 22243  marked=     0
+  Spr.                      unmarked= 21943  marked=     0
+  N. pr.                    unmarked= 17784  marked=     7
+  an.                       unmarked= 11920  marked=     0
+  c.                        unmarked= 11772  marked=     0
+  vgl.                      unmarked= 11524  marked=    83
+  st.                       unmarked= 11047  marked=     0
+  ed.                       unmarked=  9864  marked=     0
+  fg.                       unmarked=  7692  marked=     1
+  Sch.                      unmarked=  7084  marked=     2
+  best.                     unmarked=  6614  marked=     0
+  v. a.                     unmarked=  6566  marked=     1
+  Ind.                      unmarked=  6536  marked=     0
+  St.                       unmarked=  6472  marked=     0

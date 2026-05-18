@@ -1,0 +1,13 @@
+; markup_fix log
+; nested <ab>:    0
+; whitespace:     4
+; changed lines:  4
+;
+116245 old <lang n="greek"> ἄρκτος</lang>, {%ursa%}; nachmals {%die sieben%} <is>Ṛṣi</is>: {#a\mI ya fkzA\ nihi^tAsa u\ccA#}
+116245 new <lang n="greek">ἄρκτος</lang>, {%ursa%}; nachmals {%die sieben%} <is>Ṛṣi</is>: {#a\mI ya fkzA\ nihi^tAsa u\ccA#}
+414260 old ({#pUrayitum#} <ls>GORR. 1,69,9 </ls>). {#pUrayasva (DanuH) SareREva#}
+414260 new ({#pUrayitum#} <ls>GORR. 1,69,9</ls>). {#pUrayasva (DanuH) SareREva#}
+450255 old <lang n="greek"> ἔπιπλα</lang>, d. h. {%mit Geräthe, beweglicher Habe versehen, reich ausgestattet%}: {#a\hame\taM ga\vyama\Svya^M pa\SuM pu^rI\ziRa\M sAya^kenA hira\Ryaya^m . pu\rU sa\hasrA\ ni Si^SAmi dA\Suze^#}
+450255 new <lang n="greek">ἔπιπλα</lang>, d. h. {%mit Geräthe, beweglicher Habe versehen, reich ausgestattet%}: {#a\hame\taM ga\vyama\Svya^M pa\SuM pu^rI\ziRa\M sAya^kenA hira\Ryaya^m . pu\rU sa\hasrA\ ni Si^SAmi dA\Suze^#}
+1010059 old zu <ls>P. 4,1,99.</ls> <ls>ŚAT. BR. 10,4,1,10.</ls> <ls n="ŚAT. BR."> 9,5,2,1.</ls> <ls>BṚH. ĀR. UP. 4,6,2.</ls> <ls>Ind. St. 3,471. 8,136.</ls> pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 61,4.</ls>
+1010059 new zu <ls>P. 4,1,99.</ls> <ls>ŚAT. BR. 10,4,1,10.</ls> <ls n="ŚAT. BR.">9,5,2,1.</ls> <ls>BṚH. ĀR. UP. 4,6,2.</ls> <ls>Ind. St. 3,471. 8,136.</ls> pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 61,4.</ls>

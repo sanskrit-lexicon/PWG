@@ -1,0 +1,1385 @@
+# Ambiguous abbreviation: v. u.
+# Occurrences in bare narrative: 1380
+# Format: <next-word>\t<line>\t<context>
+# Rows are sorted by next-word so similar contexts cluster.
+
+	3186	<ls>HARIV. S. 927, Z. 5</ls>, v. u.
+	5906	s>VARĀH. BṚH.</ls> in <ls>Verz. d. B. H. S. 244, Z. 3</ls>, v. u.
+	7523	<ls>HARIV. S. 927, Z. 4</ls>, v. u.
+	7895	<ls>HARIV. S. 927, Z. 4</ls>, v. u.
+	13757	<ls>MBH. Bd. III, S. 818, Z. 5. u. 4</ls>, v. u.
+	34973	<ls>Verz. d. B. H. 54,2.</ls> v. u.
+	43565	<ls>ŚAṂK.</ls> in <ls>Verz. d. B. H. 362, Z. 3</ls>, v. u.
+	48194	<ls>Verz. d. B. H. 58,2</ls>, v. u.
+	56168	<ls>MIT. 267,4</ls> v. u.
+	74928	<ls>Verz. d. B. H. 54,7</ls> v. u.
+	75676	<ls>Verz. d. B. H. 57,2</ls> v. u.
+	77426	<ls>MIT. 267,2</ls> v. u.
+	84292	<ls>DAŚAK. 64,3</ls> v. u.
+	84646	<ls>DAŚAK. 117,3</ls> v. u.
+	90325	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,2.</ls> v. u.
+	113700	<ls>SIDDH. K. 247,b,5</ls> v. u.
+	120950	<ls>Verz. d. B. H. 71,12</ls> v. u.
+	123446	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,2</ls> v. u.
+	125480	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,3</ls> v. u.
+	126219	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,14</ls> v. u.
+	128337	<ls>HARIV. S. 927, Z. 4.</ls> v. u.
+	131882	<ls>SIDDH. K. 251,a,4</ls> v. u.
+	132423	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,2</ls> v. u.
+	136702	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 60,11</ls> v. u.
+	147502	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,3.</ls> v. u.
+	147765	<ls>SIDDH. K. 248,b,4</ls> v. u.
+	154589	vgl. <ls n="Verz. d. B. H.">93,16</ls> v. u.
+	157128	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,9</ls> v. u.
+	157970	<ls>Verz. d. B. H. 93,10</ls> v. u.
+	161907	<ls>Verz. d. B. H. 93,16</ls> v. u.
+	167955	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,12</ls> v. u.
+	169921	<ls>SIDDH. K. 249,a,3.</ls> v. u.
+	173210	<ls>Verz. d. B. H. 146,b,14</ls> v. u.
+	173582	<ls>Ind. St. 3,458,4</ls> v. u.
+	173868	<ls>SIDDH. K. 249,b,3</ls> v. u.
+	178507	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,9</ls> v. u.
+	180114	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,3</ls> v. u.
+	191140	<ls>Verz. d. B. H. 71,7</ls> v. u.
+	196299	s n="KĀTY. ŚR.">4,1,1</ls> (<ls n="KĀTY. ŚR. 4,">288,3</ls> v. u.).
+	199383	<ls>KṢITĪŚAV. 6,3</ls> v. u.
+	200061	<ls>MĀLAV. 6,1</ls> v. u.
+	207063	<ls>MĀLAT. 13,3</ls> v. u.
+	222402	1.</ls> m. <ls>TRIK. 3,5,2.</ls> <ls>SIDDH. K. 249,b,3</ls> v. u.
+	227242	KĀTY. ŚR. 7,4,28</ls> (<ls n="KĀTY. ŚR.">S. 648, Z. 3.</ls> v. u.).
+	247807	ls>SĀṂKHYAK. S. 75.</ls> <ls>WIND. Sancara 94,1. 124,3</ls> v. u.
+	248078	pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,5</ls> v. u.
+	248685	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,9</ls> v. u.
+	248776	<ls>Verz. d. B. H. 54,5</ls> v. u.
+	267789	<ls>SIDDH. K. 249,a,4</ls> v. u.
+	281667	<ls>SIDDH. K. 249,b,4</ls> v. u.
+	283648	<ls>SIDDH. K. 249,a,5</ls> v. u.
+	283826	<ls>SIDDH. K. 249,a,6</ls> v. u.
+	284754	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,10</ls> v. u.
+	292698	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 971,2</ls> v. u.
+	293152	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,9</ls> v. u.
+	297053	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,9</ls> v. u.
+	297080	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,3</ls> v. u.
+	298888	Schol. p. 208,2. 394,3</ls> v. u. <ls n="Schol.">423,1</ls> v. u.
+	300215	ls> <ls n="MBH.">13,6956.</ls> <ls>HARIV. S. 927, Z. 4</ls> v. u.
+	300759	<ls>MBH. 12,12864</ls> (Bd. III, S. 818, Z. 6 v. u.)
+	303295	<ls n="MBH. 12,">12864</ls> (S. 818, Z. 5 v. u.)
+	309223	Schol. zu <ls>KĀTY. ŚR. 648,2</ls> v. u.
+	317787	<ls>Verz. d. Oxf. H. 58,b,5</ls> v. u.
+	318189	<ls>TRIK. 3,5,9.</ls> n. <ls>SIDDH. K. 248,b,4</ls> v. u.
+	319398	pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,3</ls> v. u.
+	319406	<ls>MIT. 268,6</ls> v. u.
+	319827	<ls>KĀTY. ŚR. 21,3,28.</ls> <ls>Schol. 511,2</ls> v. u.
+	320072	<ls>Verz. d. Oxf. H. 181,b,4</ls> v. u.
+	322647	.</ls> <ls n="VOP. 3,">164.</ls> <ls>SIDDH. K. 247,b,5</ls> v. u.
+	333231	2,19.</ls> <ls>TRIK. 3,5,2.</ls> <ls>SIDDH. K. 249,b,3</ls> v. u.
+	335603	<ls>KĀṬH.</ls> in <ls>Ind. St. 3,459,3</ls> v. u.
+	336599	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,6</ls> v. u.
+	337388	<ls>SĀH. D. 202,2</ls> v. u.
+	337442	<ls>Verz. d. Oxf. H. 72,a,4</ls> v. u.
+	337469	<ls>Z. d. d. m. G. 6,96,4</ls> v. u.
+	339931	<ls>Verz. d. B. H. 117,4</ls> v. u.
+	341766	<ls>SIDDH. K. 152,b,3</ls> v. u.
+	341925	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,14</ls> v. u.
+	346479	<ls>PAÑCAV. BR. 17,1</ls> in <ls>Ind. St. 1,33,1</ls> v. u.
+	347569	v. u. <ls n="MIT.">145,3</ls> v. u. <ls n="MIT.">145,3</ls> v. u.
+	352136	<ls>SKANDA-P.</ls> in <ls>Verz. d. B. H. 146,b,2</ls> v. u.
+	362744	<ls>LALIT. ed. Calc. 75,7</ls> v. u.
+	362937	<ls>UṆĀDIS. 4,139.</ls> m. <ls>SIDDH. K. 249,b,3</ls> v. u.
+	366224	<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 11,b,14</ls> v. u.
+	369053	<ls>Journ. of the Am. Or. S. 6,518, Z. 7</ls> v. u.
+	371936	<ls>DAŚAK. 112,3</ls> v. u.
+	373009	COLEBR. Misc. Ess.">I,5</ls>). <ls>Verz. d. B. H. 99,3</ls> v. u.
+	375625	. d. B. H. No. 736.</ls> <ls>Verz. d. Oxf. H. 171,b,10</ls> v. u.
+	375877	<ls>MBH. 12,12864</ls> (S. 818, Z. 8 v. u.).
+	379588	<ls>TANTRASĀRA</ls> in <ls>Verz. d. Oxf. H. 95,b,1</ls> v. u.
+	379846	m. n. <ls>TRIK. 3,5,14.</ls> <ls>SIDDH. K. 251,a,1</ls> v. u.
+	379952	. S. 137.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,22,5</ls> v. u.
+	380420	<ls>DAŚAK. 159,2</ls> v. u.
+	384836	<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u.
+	386645	<ls>Verz. d. Oxf. H. 102,b,3</ls> v. u.
+	388141	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,1</ls> v. u.
+	391780	<ls>DAŚAK. 92,1</ls> v. u.
+	393617	<ls>KAUṢ. UP.</ls> bei <ls>WIND. Sancara 113,1</ls> v. u.
+	394422	<ls>SIDDH. K. 162,b,5.</ls> v. u.
+	396000	ls>BHĀG. P. 5,24,10.</ls> <ls>Verz. d. Oxf. H. 183,b,6</ls> v. u.
+	396206	<ls>DAŚAK. 7,3</ls> v. u.
+	396550	<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 47,a,5</ls> v. u.
+	398936	s> pl. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 60,3</ls> v. u.
+	401696	<ls>Ind. St. 1,59,5</ls> v. u.
+	404534	. St. 3,201,a</ls>; vgl. auch <ls n="Ind. St.">237,a,3</ls> v. u.
+	405542	<ls>DAŚAK. 182,1</ls> v. u.
+	405808	No. 339.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. — 872,2</ls> v. u.
+	405955	<ls>HAEB. Anth. 3,2</ls> v. u.
+	418887	<ls>Verz. d. B. H. 193,17</ls> v. u.
+	419507	<ls>DĀYABH. 166,7</ls> v. u.
+	420644	s>. <ls n="P. 3,1,">3</ls>; vgl. <ls>SIDDH. K. 161,a,3</ls> v. u.
+	422654	<ls>Verz. d. Oxf. H. 173,b,4</ls> v. u.
+	425491	<ls>MIT. III,76,b,3</ls> v. u.
+	425632	<ls>Schol.</ls> zu <ls>VEDĀNTAS. 13,6</ls> v. u.
+	428980	<ls>MADHUS.</ls> in <ls>Ind. St. 1,22,3</ls> v. u.
+	431377	<ls>AK. 3,6,5,38, v. l.</ls> <ls>SIDDH. K. 251,a,5</ls> v. u.
+	431653	<ls>DĀYABH. 127,4</ls> v. u.
+	432789	H. 160. No. 626. 823.</ls> <ls>Verz. d. Oxf. H. 86,b,4</ls> v. u.
+	437323	<ls>Ind. St. 3,259,2</ls> v. u.
+	437858	<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 71,b,4</ls> v. u.
+	439610	<ls>Verz. d. Oxf. H. 44,a,5</ls> v. u.
+	439664	<ls>SIDDH. K. 249,b,1</ls> v. u.
+	440472	<ls>DAŚAK. 46,1.</ls> v. u.
+	442012	<ls n="KĀTY. ŚR.">380,20.</ls> <ls n="KĀTY. ŚR.">413,1</ls> v. u.
+	445779	<ls>BRAHMA-P.</ls> in <ls>Verz. d. Oxf. H. 63,b,3.</ls> v. u.
+	448127	BR. 123,9.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 354,4</ls> v. u.
+	448151	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 387,4,5.</ls> v. u.
+	456245	<ls>BHAVIṢYOTT. P.</ls> in <ls>Verz. d. B. H. 135,b,8</ls> v. u.
+	461078	<ls>ĀHN. 273,11</ls> v. u.
+	462834	<ls>Verz. d. B. H. 54,2</ls> v. u.
+	465131	<ls>MIT. 267,5</ls> v. u.
+	465377	<ls>Verz. d. Oxf. H. 17,b,10</ls> v. u.
+	465726	<ls>TRIK. 1,1,7.</ls> <ls>Verz. d. Oxf. H. 190,a,4</ls> v. u.
+	467963	<ls>MAHĪDH.</ls> zu <ls>VS. 163,2</ls> v. u.
+	468466	<ls>Verz. d. Oxf. H. 210,b,8.</ls> v. u.
+	468645	<ls>ŚKDR.</ls> <ls>Verz. d. Oxf. H. 90,b,7</ls> v. u.
+	468662	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 976,3</ls> v. u.
+	470530	 <ls n="KĀTY. ŚR.">324,9.</ls> <ls n="KĀTY. ŚR.">777,1</ls> v. u.
+	472601	<ls>SĀH. D. 61,1.</ls> <ls n="SĀH. D.">103,4</ls> v. u.
+	473346	<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 48,b,2</ls> v. u.
+	477994	<ls>Verz. d. Oxf. H. 1,a,4</ls> v. u.
+	478405	<ls>Verz. d. Oxf. H. 129,a,2</ls> v. u.
+	479548	<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,39,1</ls> v. u.
+	482697	<ls>BṚHADD.</ls> in <ls>Ind. St. 1,113,3</ls> v. u.
+	483416	<ls>Ind. St. 3,201,a,10</ls> v. u.
+	486312	<ls>MAHĀNĀṬAKA 98,2</ls> v. u.
+	487477	,1,136</ls>, <ls>Sch.</ls> m. n. <ls>SIDDH. K. 251,a,1</ls> v. u.
+	489002	<ls>Verz. d. Oxf. H. 161,a,4</ls> v. u.
+	489172	xf. H. 162,a,25.</ls> <ls n="Verz. d. Oxf. H.">164,a,3</ls> v. u.
+	489294	xf. H. 162,a,25.</ls> <ls n="Verz. d. Oxf. H.">164,a,3</ls> v. u.
+	489299	xf. H. 162,a,20.</ls> <ls n="Verz. d. Oxf. H.">164,a,8</ls> v. u.
+	491577	<ls>ĀRYABHAṬṬA</ls> bei <ls>MUIR, ST. IV,97, N. 96,3</ls> v. u.
+	492357	,1,6. 7</ls>). <ls>MADHUS.</ls> in <ls>Ind. St. 1,14,1</ls> v. u.
+	493908	<ls>HÖFER, Leseb. 85,1</ls> v. u.
+	497972	<ls>MĀLATĪM. 1,1</ls> v. u.
+	498399	<ls>Verz. d. Oxf. H. 189,b,1.</ls> v. u.
+	502237	<ls>Verz. d. Oxf. H. 321,b,3</ls> v. u.
+	502612	<ls>MIT. 244,6</ls> v. u.
+	502724	<ls>Verz. d. Oxf. H. 250,b,2</ls> v. u.
+	502929	<ls>Verz. d. B. H. 114,1</ls> v. u.
+	504570	<ls>SIDDH. K. 249,b,3</ls> v. u.
+	504715	. 1054. 1061. 1254.</ls> <ls>Verz. d. Oxf. H. 102,a,10</ls> v. u.
+	504926	xf. H. 277,a,2.</ls> <ls n="Verz. d. Oxf. H.">286,a,10</ls> v. u.
+	505593	<ls>Verz. d. Oxf. H. 269,a,3</ls> v. u.
+	508267	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 77,2</ls> v. u.
+	510074	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,3</ls> v. u.
+	511221	<ls>Verz. d. Oxf. H. 217,b,5</ls> v. u.
+	511349	<ls>Verz. d. B. H. 278,7</ls> v. u.
+	511559	<ls>Verz. d. Oxf. H. 101,b,1</ls> v. u.
+	514599	56,a.</ls> <ls>Ind. St. 1,234. fg.</ls> <ls>MIT. 218,4</ls> v. u.
+	515024	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,11</ls> v. u.
+	515567	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,10</ls> v. u.
+	516900	<ls>Verz. d. Oxf. H. 183,b,3</ls> v. u.
+	516951	<ls n="Verz. d. Oxf. H.">246,b,2.</ls> v. u.
+	517412	<ls>Ind. St. 3,397,6</ls> v. u.
+	518124	<ls n="MBH.">12,12864</ls> (S. 518, Z. 7 v. u.).
+	520436	<ls>Ind. St. 3,459,3</ls> v. u.
+	529345	<ls>Verz. d. B. H. 54,7</ls> v. u.
+	529506	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55. 7</ls> v. u.
+	530999	<ls>SIDDH. K. 247,b,5</ls> v. u.
+	541459	<ls>SIDDH. K. 250,b,1</ls> v. u.
+	545591	Oxf. H. 87,a,41.</ls> <ls n="Verz. d. Oxf. H.">284,a,2</ls> v. u.
+	547628	<ls>Verz. d. Oxf. H. 20,a,3</ls> v. u.
+	549295	<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,40. 3</ls> v. u.
+	552971	<ls>ŚĀK. CH. 43,5</ls> v. u.
+	560153	<ls>MADHUS.</ls> in <ls>Ind. St. 1,21,3</ls> v. u.
+	562191	<ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. IV,325,2</ls> v. u.
+	564071	<ls>Verz. d. Oxf. H. 352,b,2</ls> v. u.
+	566418	parox. <ls>ŚĀNT. 3,4.</ls> m. n. <ls>SIDDH. K. 249,a,1</ls> v. u.
+	566455	<ls>MUDRĀR. 7,3</ls> v. u.
+	567357	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 875,3</ls> v. u.
+	568271	<ls>DAŚAK. 23,1</ls> v. u.
+	568842	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,5</ls> v. u.
+	569751	 338,b,39.</ls> <ls n="Verz. d. Oxf. H.">339,a,32. b,1</ls> v. u.
+	576196	<ls>DAŚAK. 27,4</ls> v. u. <ls n="DAŚAK.">31,3</ls> v. u.
+	578056	<ls>UTTARARĀMAC. 113,1</ls> v. u.
+	578837	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,4</ls> v. u.
+	579369	<ls>Verz. d. Oxf. H. 284,a,6</ls> v. u.
+	583637	<ls>Verz. d. Oxf. H. 123,a,1</ls> v. u.
+	586393	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 60,4</ls> v. u.
+	589730	<ls>Verz. d. Oxf. H. 338,b,2</ls> v. u.
+	592388	<ls>SIDDH. K. 249,b,2</ls> v. u.
+	604848	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,3</ls> v. u.
+	607360	<ls>Verz. d. Oxf. H. 17,b,3</ls> v. u.
+	607403	<ls>Verz. d. Oxf. H. 282,b,1</ls> v. u.
+	610381	<ls>Verz. d. Oxf. H. 247,b,2</ls> v. u.
+	610714	>272,b, No. 644.</ls> <ls n="Verz. d. Oxf. H.">277,a,2</ls> v. u.
+	610987	<ls>WEBER, Nakṣ. 2,281, N. 1, Z. 1</ls> v. u.
+	612016	<ls>Verz. d. Oxf. H. 377,a,2</ls> v. u.
+	613818	="MBH.">5,4464.</ls> <ls n="MBH.">12,277</ls> (S. 375, Z. 2 v. u.).
+	614345	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 43,2</ls> v. u.
+	614577	<ls>SĀH. D. 271,2</ls> v. u.
+	618174	<ls>Verz. d. Oxf. H. 163,b,4</ls> v. u.
+	619640	<ls>SĀṂKHYAPR. S. 5,1</ls> v. u.
+	619699	<ls>Verz. d. Oxf. H. 321,b,2</ls> v. u.
+	620926	<ls>Verz. d. Oxf. H. 215,b,1</ls> v. u.
+	621891	ON, Sel. Works 2,215.</ls> <ls>Verz. d. Oxf. H. 85,a,3</ls> v. u.
+	627316	<ls>ĀPASTAMBA</ls> im Comm. zu <ls>TS. 1,50,4</ls> v. u.
+	627859	<ls>KĀṬH. ANUKR.</ls> in <ls>Ind. St. 3,459,6</ls> v. u.
+	629236	 283,b, No. 662.</ls> <ls n="Verz. d. Oxf. H.">291,b,7</ls> v. u.
+	629250	<ls n="Verz. d. Oxf. H.">291,b,7</ls> v. u.
+	629274	xf. H. 277,b,37.</ls> <ls n="Verz. d. Oxf. H.">291,b,6</ls> v. u.
+	629289	<ls>WEBER, Nakṣ. 2,281,2</ls> v. u.
+	632066	">316,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">357,b,17</ls> v. u.
+	632881	<ls n="Verz. d. Oxf. H.">284,a,10</ls> v. u.
+	634256	<ls>Verz. d. Oxf. H. 322,b,1</ls> v. u.
+	634261	<ls>Verz. d. Oxf. H. 304,b,3</ls> v. u.
+	634532	<ls n="SARVADARŚANAS.">135,2</ls> v. u.
+	635241	<ls>UTTARARĀMAC. 93,1</ls> v. u.
+	637513	EBER, JYOT. 98. 101.</ls> <ls>Verz. d. Oxf. H. 331,b,5</ls> v. u.
+	638326	<ls>Verz. d. Oxf. H. 338,b,1</ls> v. u.
+	638433	rijA#}¦ desgl. ebend. <ls n="Verz. d. Oxf. H.">338,b,1</ls> v. u.
+	641141	<ls>Verz. d. Oxf. H. 290,b,4</ls> v. u.
+	641969	<ls>KĀTY. ŚR. 175,3</ls> v. u.
+	642357	<ls>Verz. d. Oxf. H. 71,b,1</ls> v. u.
+	642489	rz. d. Oxf. H.">316,b,4</ls> und <span>N. 1. 357,a,6</span> v. u.
+	642681	>ŚĀRṄG. SAṂH. 1,5,6.</ls> <ls>Verz. d. Oxf. H. 311,a,6</ls> v. u.
+	644052	<ls>KUSUM. 5,2</ls> v. u.
+	644703	<ls>Verz. d. Oxf. H. 173,b,3</ls> v. u.
+	644807	<ls>Verz. d. Oxf. H. 316,a,3</ls> v. u.
+	647282	n. <ls>Ind. St. 8,463,2</ls> v. u.
+	648257	<ls>Ind. St. 3,459,2</ls> v. u.
+	648576	<ls>Verz. d. Oxf. H. 398,a,7</ls> v. u.
+	651552	<ls>Verz. d. Oxf. H. 277,b,5</ls> v. u.
+	651757	<ls>Verz. d. Oxf. H. 291,b,5</ls> v. u.
+	652004	EBER, RĀMAT. UP. 297.</ls> <ls>Verz. d. Oxf. H. 13,a,5</ls> v. u.
+	652768	<ls>Verz. d. Oxf. H. 339,b,4</ls> v. u.
+	652820	<ls>Verz. d. Oxf. H. 22,a,1</ls> v. u.
+	653139	<ls>Verz. d. Oxf. H. 71,b,1</ls> v. u.
+	653150	<ls>Verz. d. Oxf. H. 339,b,3</ls> v. u.
+	653236	<ls>Verz. d. Oxf. H. 152,b,1</ls> v. u.
+	653462	f. H.">316,b,12.</ls> <ls n="Verz. d. Oxf. H.">357,a,2</ls> v. u.
+	654272	<ls>SĀH. D. 258,3</ls> v. u.
+	654768	<ls>Verz. d. Oxf. H. 38,a,1</ls> v. u.
+	655019	<ls>Verz. d. Oxf. H. 155,a,2</ls> v. u.
+	655497	<ls>Verz. d. Oxf. H. 135,a,8</ls> v. u.
+	655988	<ls>SĀH. D. 258,3</ls> v. u.
+	656096	<ls>Ind. St. 3,459,2</ls> v. u.
+	656915	<ls>Verz. d. Oxf. H. 85,b,1</ls> v. u.
+	657023	<ls>DAŚAK. 16,3</ls> v. u.
+	657105	<ls>Verz. d. Oxf. H. 291,b,1</ls> v. u.
+	657130	<ls>Verz. d. Oxf. H. 85,b,2</ls> v. u.
+	657703	xf. H. 311,b,29.</ls> <ls n="Verz. d. Oxf. H.">314,b,6</ls> v. u.
+	658715	<ls>Verz. d. Oxf. H. 135,a,8</ls> v. u.
+	659414	<ls>Verz. d. Oxf. H. 339,b,3</ls> v. u.
+	660562	<ls>WEBER, RĀMAT. UP. 335,1</ls> v. u.
+	661735	<ls>DAŚAK.</ls> in <ls>BENF. Chr. 188,1</ls> v. u.
+	662766	<ls>Verz. d. Oxf. H. 311,a,2</ls> v. u.
+	663535	<ls>Verz. d. Oxf. H. 316,a,3</ls> v. u.
+	663829	<ls n="Verz. d. Oxf. H.">74,b,3</ls> v. u.
+	664039	<ls n="Verz. d. Oxf. H.">346,a,3</ls> v. u.
+	664274	<ls n="Verz. d. Oxf. H.">276,a,2</ls> v. u.
+	664277	<ls>Verz. d. Oxf. H. 165,b,3</ls> v. u.
+	666343	<ls>VARĀH. BṚH. S. 89,1</ls> (S. 445,1 v. u.).
+	666371	<ls>SARVADARŚANAS. 8,1</ls> v. u.
+	666749	<ls>Verz. d. Oxf. H. 379,a,2</ls> v. u.
+	667226	<ls>Verz. d. Oxf. H. 225,a,9</ls> v. u.
+	667527	<ls>VARĀH. BṚH. S. 104,61</ls> (S. 499, Z. 3 v. u.).
+	668390	f. H.">316,b,11.</ls> <ls n="Verz. d. Oxf. H.">357,a,3</ls> v. u.
+	669213	<ls>Verz. d. Oxf. H. 346,a,1</ls> v. u.
+	669544	<ls>TS. Comm. 1,598,4</ls> v. u.
+	669600	<ls>Verz. d. Oxf. H. 252,b,5</ls> v. u.
+	670545	<ls>Verz. d. Oxf. H. 125,b,1</ls> v. u.
+	670776	<ls n="Verz. d. Oxf. H.">283,a,3</ls> v. u.
+	671701	<ls>Verz. d. Oxf. H. 314,b,5</ls> v. u.
+	672261	f. H. 313,b,34.</ls> <ls n="Verz. d. Oxf. H.">357,a,10</ls> v. u.
+	674301	<ls>Verz. d. Oxf. H. 52,b,1</ls> v. u.
+	674329	Oxf. H. 145,b,2.</ls> <ls n="Verz. d. Oxf. H.">300,a,8</ls> v. u.
+	674365	<ls>Verz. d. Oxf. H. 282,a,5</ls> v. u.
+	674796	<ls>Verz. d. Oxf. H. 44,a,6</ls> v. u.
+	674866	<ls>Verz. d. Oxf. H. 44,a,5</ls> v. u.
+	677501	<ls>Verz. d. Oxf. H. 44,a,4</ls> v. u.
+	679097	<ls>Verz. d. Oxf. H. 189,b,2</ls> v. u.
+	679672	<ls>Verz. d. Oxf. H. 318,b,1</ls> v. u.
+	679750	<ls>Verz. d. Oxf. H. 208,a,5</ls> v. u.
+	679782	<ls>Verz. d. Oxf. H. 86,b,1</ls> v. u.
+	679955	H. 217,a,7</ls> (sg. u. {#kalA#} 11. <ls>Sp. 158, Z. 8</ls> v. u.).
+	681010	<ls>SUŚR. 2,91,2</ls> v. u.
+	681948	<ls>Verz. d. Oxf. H. 314,b,5</ls> v. u.
+	682559	<ls>Verz. d. Oxf. H. 44,a,5</ls> v. u.
+	682762	<ls>Verz. d. Oxf. H. 8,a,1</ls> v. u.
+	684512	xf. H. 311,b,31.</ls> <ls n="Verz. d. Oxf. H.">314,b,5</ls> v. u.
+	685007	<ls>Verz. d. Oxf. H. 44,a,5</ls> v. u.
+	685509	<ls n="Verz. d. Oxf. H.">275,a,1. b,5</ls> v. u.
+	685574	<ls>MĀLATĪM. 145,2</ls> v. u.
+	685651	BHĀG. P. 10,">60,58.</ls> <ls>Verz. d. Oxf. H. 111,b,1</ls> v. u.
+	686784	<ls>Verz. d. Oxf. H. 348,a,4</ls> v. u.
+	687052	<ls>MĀLATĪM. 75,1</ls> v. u.
+	687704	<ls>Verz. d. Oxf. H. 130,b,2</ls> v. u.
+	689504	<ls>TS. Comm. 2,252,2</ls> v. u.
+	689882	<ls>Verz. d. Oxf. H. 44,a,4</ls> v. u.
+	690278	<ls>Verz. d. Oxf. H. 311,a,1</ls> v. u.
+	691631	<ls n="Verz. d. Oxf. H.">272,a,3</ls>, v. u.
+	692177	>175. 177. 181. 183.</ls> <ls>Verz. d. Oxf. H. 239,b,1</ls> v. u.
+	692453	<ls>Verz. d. Oxf. H. 231,a,9</ls> v. u.
+	693509	<ls>Verz. d. Oxf. H. 215,b,5</ls> v. u.
+	693674	<ls>Verz. d. Oxf. H. 331,b,1</ls> v. u.
+	694300	<ls>Verz. d. Oxf. H. 314,b,4</ls> v. u.
+	695669	#} die ältere Ausg. <ls n="UTTARARĀMAC. ed. Cow.">77,1</ls> v. u.).
+	697529	<ls>Verz. d. Oxf. H. 331,b,6</ls> v. u.
+	698118	<ls>MĀLATĪM. 75,2</ls> v. u.
+	698592	<ls>Verz. d. Oxf. H. 22,a,2</ls> v. u.
+	698732	<ls>Verz. d. Oxf. H. 339,a,3</ls> v. u.
+	698952	<ls>WEBER, JYOT. 99.</ls> <ls>Verz. d. Oxf. H. 331,b,2</ls> v. u.
+	699680	<ls>Verz. d. Oxf. H. 277,a,1</ls> v. u.
+	704067	<ls>Verz. d. Oxf. H. 299,b,1</ls> v. u.
+	704145	<ls>Verz. d. Oxf. H. 282,b,2</ls> v. u.
+	705420	<ls>Verz. d. Oxf. H. 225,a,8</ls> v. u.
+	706643	<ls>DAŚAR. Comm. 96,4</ls> v. u.
+	706694	<ls>Verz. d. Oxf. H. 125,b,4</ls> v. u.
+	708263	<ls>Or. und Occ. 2,694,9</ls> v. u.
+	709433	<ls>Verz. d. Oxf. H. 277,a,1</ls> v. u.
+	709843	<ls n="Verz. d. Oxf. H.">339,b,2</ls> v. u.
+	709979	<ls>Verz. d. Oxf. H. 331,b,3</ls> v. u.
+	710450	<ls>Verz. d. Oxf. H. 225,a,9</ls> v. u.
+	710538	<ls>Verz. d. Oxf. H. 398,a,1</ls> v. u.
+	710574	<ls>Verz. d. Oxf. H. 339,a,3</ls> v. u.
+	711127	<ls>Verz. d. Oxf. H. 343,b,6</ls> v. u.
+	713225	<ls>Verz. d. Oxf. H. 386,b,1</ls> v. u.
+	713433	<ls>MUDRĀR. 58,3</ls> v. u.
+	713614	<ls>SĀH. D. 325,6</ls> v. u.
+	714610	<ls n="MĀLATĪM.">146,2</ls> v. u.
+	714967	<ls>Verz. d. Oxf. H. 331,b,7</ls> v. u.
+	715275	<ls>Verz. d. Oxf. H. 331,b,7</ls> v. u.
+	715983	<ls>Verz. d. Oxf. H. 321,b,1</ls> v. u.
+	734364	<ls>HARIV. 989.</ls> <ls>Verz. d. Oxf. H. 39,b,1</ls> v. u.
+	737360	5.</ls> <ls>Schol.</ls> zu <ls>KĀṬY.</ls> <ls>ŚR. 30,1</ls> v. u.
+	741964	. H. 7,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">292,a,1</ls> v. u.
+	749029	<ls>MADHUS.</ls> in <ls>Ind. St. 1,16,1</ls> v. u.
+	750196	R. 1,337,12. 338,15.</ls> <ls>Verz. d. Oxf. H. 311,a,2</ls> v. u.
+	757221	<ls>Verz. d. Oxf. H. 320,b,2</ls> v. u.
+	758274	<ls>Verz. d. Oxf. H. 398,a,1</ls> v. u.
+	763438	<ls>Verz. d. Oxf. H. 100,a,4</ls> v. u.
+	765036	<ls>DĀYABH. 125,3</ls> v. u.
+	765464	<ls>Verz. d. Oxf. H. 330,a,2</ls> v. u.
+	766511	 319,b, No. 758.</ls> <ls n="Verz. d. Oxf. H.">318,b,1</ls> v. u.
+	766921	<ls>SIDDH. K. 247,b,1</ls> v. u.
+	767908	<ls>Verz. d. Oxf. H. 182,b,4</ls> v. u.
+	773520	<ls>Verz. d. Oxf. H. 284,a,7</ls> v. u.
+	774018	<ls>Verz. d. Oxf. H. 338,b,1</ls> v. u.
+	775345	<ls>SIDDH. K. 235,b,1</ls> v. u.
+	775438	<ls>Verz. d. Oxf. H. 44,a,6</ls> v. u.
+	782811	, <ls>Verz. d. Oxf. H. 129,a,5</ls> v. u.
+	783945	<ls>PAÑCAT. ed. BÜHLER 41,2.</ls> v. u.
+	784767	 fg.</ls> <ls n="Verz. d. Oxf. H.">79,b, No. 136, Z. 1</ls> v. u.
+	784790	DAC.</ls> in <ls>Verz. d. Oxf. H. 195,b, No. 453, Z. 3</ls> v. u.
+	784905	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,3</ls> v. u.
+	784959	<ls>H. 19.</ls> <ls>Verz. d. Oxf. H. 182,b,4</ls> v. u.
+	788036	<ls>H. 1304.</ls> <ls>Verz. d. Oxf. H. 117,a,1</ls> v. u. (?).
+	788265	<ls>LIṄGAP.</ls> bei <ls>MUIR, ST. IV,325,10</ls> v. u.
+	788784	<ls>Verz. d. Oxf. H. 183,b,3</ls> v. u.
+	790246	v. u.
+	792205	<ls>SIDDH. K. 249,b,1</ls> v. u.
+	792800	<ls>Verz. d. Oxf. H. 338,b,4</ls> v. u.
+	812428	<ls>Verz. d. Oxf. H. 357,a,10</ls> v. u.
+	813845	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 702,2</ls> v. u.
+	817741	<ls>Verz. d. Oxf. H. 101,b,2</ls> v. u.
+	822495	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,4.</ls> v. u.
+	823704	<ls>Verz. d. Oxf. H. 262,a,2</ls> v. u.
+	823712	<ls>Verz. d. Oxf. H. 262,a,8</ls> v. u.
+	825083	<ls>Verz. d. Oxf. H. 318,b,4</ls> v. u.
+	825437	<ls>Verz. d. Oxf. H. 318,b,3</ls> v. u.
+	825938	<ls>Verz. d. B. H. 54,2</ls> v. u.
+	835628	VARĀH. BṚH. S. 8,37.</ls> <ls>Verz. d. Oxf. H. 331,b,2</ls> v. u.
+	835874	H. BṚH. S. 8,33. fg.</ls> <ls>Verz. d. Oxf. H. 331,b,5</ls> v. u.
+	837570	<ls>MĀRK. P. S. 658, Z. 6</ls> v. u.
+	843649	<ls>KĀD.</ls> in <ls>Z. d. d. m. G. 7,583,1</ls> v. u.
+	845912	<ls>Verz. d. Oxf. H. 116,b,1</ls> v. u.
+	846127	<ls>Verz. d. Oxf. H. 129,a,5</ls> v. u.
+	846738	z. d. Oxf. H. 34,a,34</ls> (<ls>Verz. d. B. H. 134,b,1</ls> v. u.).
+	849596	<ls>KĀṬH. 27,5</ls> in <ls>Ind. St. 3,477,2</ls> v. u.
+	850801	VARĀH. BṚH. S. 8,29.</ls> <ls>Verz. d. Oxf. H. 331,b,7</ls> v. u.
+	852473	<ls>LALIT. ed. Calc. 139,2</ls> v. u.
+	855432	VARĀH. BṚH. S. 8,37.</ls> <ls>Verz. d. Oxf. H. 331,b,2</ls> v. u.
+	855657	<ls>Verz. d. Oxf. H. 331,b,1</ls> v. u.
+	857375	<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,40,8</ls> v. u.
+	858192	<ls>Verz. d. Oxf. H. 200,a,3</ls> v. u.
+	863048	. Oxf. H. 71,b,11. fg.</ls> <ls>Verz. d. B. H. 146,b,1</ls> v. u.
+	863217	<ls>Verz. d. Oxf. H. 279,a,2</ls> v. u.
+	863485	<ls>Verz. d. Oxf. H. 11,b,3</ls> v. u.
+	868886	<ls>VARĀH. BṚH. S. 2, S. 5, Z. 2</ls> v. u.
+	875865	H. BṚH. S. 8,33. fg.</ls> <ls>Verz. d. Oxf. H. 331,b,5</ls> v. u.
+	877192	<ls>SIDDH. K. 247,a,1</ls> v. u.
+	878730	<ls>Verz. d. Oxf. H. 27,b,4</ls> v. u.
+	880785	<ls>VS. S. 58,1</ls> v. u.
+	880916	.</ls> f. ohne Angabe einer Bed. <ls>SIDDH. K. 247,b,1</ls> v. u.
+	881180	<ls>VS. S. 58,2</ls> v. u.
+	882219	. zu <ls>BHĀG. P. 10,85,9.</ls> <ls>MAHĀBHĀṢYA S. 26,1</ls> v. u.
+	882271	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,3</ls> v. u.
+	883458	<ls>Verz. d. Oxf. H. 182,b,1</ls> v. u.
+	885764	<ls>TBR. II,753,3</ls> v. u.
+	889087	VARĀH. BṚH. S. 8,36.</ls> <ls>Verz. d. Oxf. H. 331,b,3</ls> v. u.
+	889607	<ls>TRIK.</ls> <ls>Ind. St. 10,a,4</ls> v. u.
+	893915	<ls>TBR. Comm. 1,89,2</ls> v. u.
+	898395	<ls>Verz. d. Cambr. H. 64,8</ls> v. u.
+	905249	it. bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1,108 (S. 25,2</ls> v. u.).
+	905969	<ls>Ind. St. 3,240,b,5.</ls> v. u.
+	909651	<ls>Verz. d. Oxf. H. 327,a,1</ls> v. u.
+	909795	<ls>Verz. d. Oxf. H. 327,a,5</ls> v. u.
+	912041	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,4</ls> v. u.
+	912127	<ls>Verz. d. B. H. 57,4</ls> v. u.
+	913335	<ls>Verz. d. Oxf. H. 211,b,1</ls> v. u.
+	915639	<ls>UṆĀDIS. 4,42.</ls> n. <ls>SIDDH. K. 248,b,1</ls> v. u.
+	915947	<ls>Verz. d. Oxf. H. 17,b, No. 63, Z. 4</ls> v. u.
+	916221	<ls>MBH. 12,11818.</ls> <ls>Verz. d. Oxf. H. 11,b,18</ls> v. u.
+	917404	<ls>SIDDH. K. 249,b,1</ls> v. u.
+	919178	<ls>MṚCCH. 65,12.</ls> <ls>Verz. d. Oxf. H. 142,a,6</ls> v. u.
+	919628	<ls>KĀVYAPR. 105,2</ls> v. u.
+	931794	,31.</ls> <ls>TRIK. 3,5,12.</ls> <ls>SIDDH. K. 251,a,1</ls> v. u.
+	931936	<ls>Verz. d. Oxf. H. 327,a,1.</ls> v. u.
+	934902	z. d. B. H. No. 958.</ls> <ls>Verz. d. Oxf. H. 315,a,4</ls> v. u.
+	937049	<ls>Verz. d. Cambr. H. 8,1</ls> v. u.
+	941288	<ls>Verz. d. B. H. No. 1403.</ls> <ls>DĀYABH. 2,1</ls> v. u.
+	941696	erz. d. B. H. No. 487.</ls> <ls>Verz. d. Oxf. H. 2,a,4</ls> v. u.
+	941803	<ls>Verz. d. Cambr. H. 64,3</ls> v. u.
+	941915	<ls n="Verz. d. Oxf. H. 339,">b,2</ls> v. u.
+	942900	<ls>Verz. d. Oxf. H. 47,a,2</ls> v. u.
+	946054	<ls>Verz. d. Oxf. H. 211,a,11.</ls> v. u.).
+	946132	<ls>Verz. d. Oxf. H. 318,b,4.</ls> v. u.
+	949250	<ls>Verz. d. Oxf. H. 11,b,19</ls> v. u.
+	949285	<ls n="Verz. d. Oxf. H.">236,a,7</ls> v. u.
+	950336	m. (<ls>SIDDH. K. 249,b,1</ls> v. u.)
+	952690	<ls>Verz. d. Oxf. H. 277,b,1</ls> v. u.
+	953238	<ls n="Verz. d. Oxf. H.">292,a,2</ls> v. u.
+	959890	<ls>Verz. d. Oxf. H. 11,b,17</ls> v. u.
+	967160	t. dessen {#satyaga#} <ls n="Verz. d. Oxf. H.">11,b,17</ls> v. u.
+	968879	<ls>MĀRK. P. 130,15.</ls> <ls>Verz. d. Oxf. H. 14,b,6</ls> v. u.
+	969205	Oxf. H. 68,b,27.</ls> <ls n="Verz. d. Oxf. H.">192,b,2</ls> v. u.
+	972392	<ls>DĀYABH. 330,4.</ls> v. u. <ls n="DĀYABH.">331,3.</ls> v. u.
+	972957	<ls>MĀRK. P. S. 658, Z. 8</ls> v. u.
+	973438	<ls>Verz. d. Oxf. H. 318,b,2</ls> v. u.
+	973715	<ls>Verz. d. Oxf. H. 93,a,4</ls> v. u.
+	974404	v. u.
+	977160	v. u. <ls n="Verz. d. Oxf. H.">173,b,3</ls> v. u.
+	979880	<ls>Ind. St. 1,18,1</ls> v. u.
+	981029	<ls>Spr. (II) 5441.</ls> <ls>Verz. d. Oxf. H. 127,b,2</ls> v. u.
+	981437	<ls>LALIT. ed. Calc. 168,2.</ls> v. u.
+	982003	<ls>Verz. d. Oxf. H. 13,a,4.</ls> v. u.
+	982145	<ls n="Verz. d. Oxf. H.">165,a,1</ls> v. u.
+	986424	<ls>Verz. d. Oxf. H. 215,a,8.</ls> v. u.
+	987132	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,4</ls> v. u.
+	988968	> <ls>BHĀG. P. 9,2,5.</ls> <ls>Verz. d. Oxf. H. 49,b,1</ls> v. u.
+	989011	<ls>Verz. d. Oxf. H. 170,b,5</ls> v. u.
+	992288	<ls>Verz. d. Oxf. H. 216,b,1.</ls> v. u.
+	993626	<ls>Verz. d. Oxf. H. 54,a,5.</ls> v. u.
+	994025	VARĀH. BṚH. S. 8,37.</ls> <ls>Verz. d. Oxf. H. 331,b,3</ls> v. u.
+	994141	<ls>Verz. d. Oxf. H. 109,a,1</ls> v. u.
+	994400	H. No. 914. 920. 922.</ls> <ls>Verz. d. Oxf. H. 93,a,6</ls> v. u.
+	994403	RqaladevatA mantrAH#} <ls n="Verz. d. Oxf. H.">398,a,3</ls> v. u.
+	994834	VARĀH. BṚH. S. 8,37.</ls> <ls>Verz. d. Oxf. H. 331,b,3</ls> v. u.
+	996293	0,4,15.</ls> <ls>MAŚAKA</ls> im<ls>Verz. d. B. H. 72,1</ls> v. u.
+	999864	<ls>TS. I,74,5</ls> v. u.
+	1002150	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 5</ls> v. u.
+	1006148	Oxf. H. 47,b,15.</ls> <ls n="Verz. d. Oxf. H.">240,a,1</ls> v. u.
+	1007654	Oxf. H. 28,b,27.</ls> <ls n="Verz. d. Oxf. H.">187,b,5</ls> v. u.
+	1008902	<ls>Verz. d. Oxf. H. 377,b,1</ls> v. u.
+	1009150	m. <ls n="Verz. d. Oxf. H.">211,a,9</ls> v. u.
+	1009204	<ls>Verz. d. Oxf. H. 213,b,5</ls> v. u.
+	1009647	<ls n="Verz. d. Oxf. H.">61,b,3</ls> v. u.
+	1016151	<ls>Verz. d. Oxf. H. 233,b,2</ls> v. u.
+	1016387	 <lex>f.</lex> desgl. <ls n="Verz. d. Oxf. H.">110,a,2</ls> v. u.
+	1016964	<ls>PAÑCAT. 241,3.</ls> <ls>Verz. d. Oxf. H. 92,b,1</ls> v. u.
+	1017096	<ls>Verz. d. Oxf. H. 88,a,1</ls> v. u.
+	1017338	<ls n="Verz. d. Oxf. H.">277,a,18</ls> v. u.
+	1018856	<ls>Verz. d. Oxf. H. 200,a,3. 2.</ls> v. u.
+	1018933	<ls>Journ. of the Am. Or. S. 6,512,1</ls> v. u.
+	1019249	8,21. 351,6. 357,11.</ls> <ls>Verz. d. Oxf. H. 311,a,2</ls> v. u.
+	1023598	<ls>Verz. d. Oxf. H. 252,b,4</ls> v. u.
+	1023621	<ls><is>Nakṣ</is>. 2,281, N., Z. 3</ls> v. u.
+	1023846	<ls>Verz. d. Oxf. H. 339,b,3</ls> v. u.
+	1024494	<ls>AUFRECHT</ls>) <ls>Verz. d. Oxf. H. 7,b,9</ls> v. u.
+	1024996	<ls>DĀYABH. 124,2</ls> v. u.
+	1025980	<ls>Verz. d. Oxf. H. 399,b,1</ls> v. u.
+	1026534	<ls n="Verz. d. Oxf. H.">11,b,17</ls> v. u.
+	1027360	<ls>Verz. d. Oxf. H. 47,a,11</ls> v. u.
+	1027802	<ls>Verz. d. Oxf. H. 132,b,4</ls> v. u.
+	1029484	<ls>Verz. d. Oxf. H. 108,a,7</ls> v. u.
+	1029673	VARĀH. BṚH. S. 8,35.</ls> <ls>Verz. d. Oxf. H. 331,b,4</ls> v. u.
+	1030391	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,4</ls> v. u.
+	1032716	 <ls>KATHĀS. 121,120.</ls> <ls>Verz. d. Oxf. H. 64,b,6</ls> v. u.
+	1033201	<ls>Verz. d. Oxf. H. 233,b,1</ls> v. u.
+	1043754	<ls>MĀRK. P. 656,3</ls> v. u.
+	1046586	<ls n="Verz. d. Oxf. H.">142,a,5</ls> v. u.
+	1047873	 <ls>BHĀG. P. 3,20,1.</ls> <ls>Verz. d. Oxf. H. 20,a,8</ls> v. u.
+	1048171	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,3</ls> v. u.
+	1048793	<ls>MIT. III,71,a,3</ls> v. u.
+	1051215	.</ls> <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,4</ls> v. u.
+	1060048	<ls>Verz. d. Oxf. H. 398,a,5</ls> v. u.
+	1066147	<ls>MĀRK. P. S. 658, Z. 8</ls> v. u.
+	1066464	> <ls>PAÑCAR. 1,2,9.</ls> <ls>Verz. d. Oxf. H. 161,b,2</ls> v. u.
+	1067417	xf. H. 277,a,13.</ls> <ls n="Verz. d. Oxf. H.">279,b,1</ls> v. u.
+	1067435	<ls>Verz. d. Oxf. H. 279,b,1</ls> v. u.
+	1070283	<ls n="Verz. d. Oxf. H.">108,a,6</ls> v. u.
+	1071672	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,1</ls> v. u.
+	1073792	<ls>Verz. d. B. H. 180,9</ls> v. u.
+	1075025	<ls>Verz. d. Oxf. H. 44,a,6</ls> v. u.
+	1079315	<ls>SĀH. D. 171,2</ls> v. u.
+	1079696	<ls>KĀVYAPR. 66,4</ls> v. u. = {#apakarza#} 2 v. u.
+	1081954	xf. H. 338,b,32.</ls> <ls n="Verz. d. Oxf. H.">339,b,3</ls> v. u.
+	1082228	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,7</ls> v. u.
+	1082381	<ls>MĀRK. P. 21,49.</ls> <ls n="MĀRK. P.">S. 656, Z. 8</ls> v. u.
+	1085355	<ls>Verz. d. Oxf. H. 93,a,1</ls> v. u.
+	1086700	<ls>Verz. d. Oxf. H. 339,b,6</ls> v. u.
+	1087142	<ls>Verz. d. Oxf. H. 47,a,16</ls> v. u.
+	1087156	<ls>Verz. d. Oxf. H. 7,b,11</ls> v. u.
+	1088347	s> <ls>VP. 321, N. 1.</ls> <ls>Verz. d. Oxf. H. 39,b,1</ls> v. u.
+	1088629	<ls>Verz. d. Oxf. H. 51,b,1</ls> v. u.
+	1089035	zu <ls>P. 2,4,31.</ls> m. <ls>SIDDH. K. 249,b,2</ls> v. u.
+	1089697	<ls>Verz. d. Oxf. H. 236,a,1</ls> v. u.
+	1089738	<ls>MĀRK. P. S. 656, Z. 8</ls> v. u.
+	1091546	<ls>Verz. d. Oxf. H. 133,a,4</ls> v. u.
+	1094267	<ls>Verz. d. Oxf. H. 283,a,4</ls> v. u.
+	1098805	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,4</ls> v. u.
+	1098952	<ls>Verz. d. Oxf. H. 331,b,1</ls> v. u.
+	1098989	<ls>Verz. d. Oxf. H. 175,b,1</ls> v. u.
+	1102152	<ls>DAŚAK. 79,2</ls> v. u.
+	1104148	<ls>VEṆĪS. 41,4</ls> v. u.
+	1111183	pr. (II) 4100.</ls> <ls>PISCHEL, de Gramm. prācr. 38,1</ls> v. u.
+	1118079	<ls>VEṆĪS. 44,4</ls> v. u.
+	1118446	<ls>VEṆĪS. 52,6</ls> v. u.
+a	330480	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,2</ls> v. u. {#a˚#}
+a	481489	<ls>Verz. d. Oxf. H. 173,b,1</ls> v. u. {#a˚#} (s. auch bes.)
+a	625869	*Z. 7 lies 3,11 st. 3,22. <ls>Sp. 508, Z. 8</ls> v. u. {#a/nASvAn#} nom. sg.
+a	1066504	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 49,1</ls> v. u. {#a˚#}
+abirabyuttita	670898	<ls>Verz. d. Oxf. H. 216,b,6</ls> v. u. {#ABiraByutTitA (ABiH#} <ab>d. i.</ab> durch die 64 <is>Kal
+abizeka	549993	<ls n="KĀTY. ŚR.">694,3</ls> v. u. {#aBizeka˚#}
+abjanalalilayita	1064646	<ls>Verz. d. Oxf. H. 200,a,8</ls> v. u. {#abjanAlalIlAyita˚#}
+acara	420590	/ls> <ls>VP.</ls> bei <ls>MUIR, Sanskrit Texts I,181,1</ls> v. u. {#AcAra˚#}
+acc	776806	ls> <ls>TBR.</ls> <ls>Verz. d. Oxf. H. 97,a,1, No. 151</ls> v. u. acc. {#lakzmyam#}
+adara	1007641	v. u. {#Adara#}
+adarqanamadarqyanam	308086	<ls>KULĀRṆAVAT.</ls> in <ls>Verz. d. Oxf. H. 90,b,7</ls> v. u. {#adaRqanamadaRqyAnAM daRqyAnAM cApi daRqanam#}
+agnidagdasya	868732	f. H.">316,b,10.</ls> <ls n="Verz. d. Oxf. H.">357,a,4</ls> v. u. {#agnidagDasya visPowaSAntiH syAdagninA Druvam#}
+agnih	811956	v. u. {#agniH, dEvam#}
+akrurasya	606511	Oxf. H. 27,a,19.</ls> <ls n="Verz. d. Oxf. H.">301,a,7</ls> v. u. {#akrUrasya tIrTakam#}
+als	42804	<ls n="HARIV.">S. 927, Z. 4</ls>, v. u. als ein Beiname <is>Viṣṇu's</is>. Die Lexicographen führen 
+als	977357	3.</ls> <ls>BHAṬṬ. 1,13.</ls> <ls>Verz. d. B. H. 288,9</ls> v. u. als Anrede
+am	371212	<ls>Verz. d. Oxf. H. 183,b,6</ls> v. u. — Am Anfange ist vielleicht {#navan#}, nicht 1. {#nava#}, z
+am	434965	<ls>SIDDH. K. 249,a,6</ls> v. u. Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+am	446119	<ls>TRIK. 2,5,13.</ls> <ls>SIDDH. K. 251,a,1</ls> v. u. am Ende eines <lex>adj.</lex> comp. bald {#A#} . bald {#I/#
+am	481488	M. 1,111.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u. Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+am	807913	<ls>KUSUM. 5,1</ls> v. u. Am Ende eines <lex>adj.</lex> comp.: {#svayaMvaravarRano nA
+am	986927	<ls>MUIR, ST. 4,299,3</ls> v. u. am Ende eines comp. {%sich nährend von%}: {#PalamUlAmbu˚#}
+am	1011112	v. u. am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#A#}
+ambu	648068	<ls>Verz. d. Oxf. H. 12,b,3</ls> v. u. {#ambu#} {%Regenwasser%}
+an	489222	xf. H. 162,a,21.</ls> <ls n="Verz. d. Oxf. H.">164,a,7</ls> v. u. An beiden Stellen fälschlich {#prAgGitIya#} .
+anaya	692505	<ls>DAŚAK. 109,2</ls> v. u. {#anayA diSA SizwAnAM lakzaRAni drazwavyAni#}
+angabe	807908	.">78,b,15. fgg.</ls> <ls n="Verz. d. Oxf. H.">210,b,1</ls> v. u. {%Angabe%}: {#anukrama˚#}
+apakarza	1079696	<ls>KĀVYAPR. 66,4</ls> v. u. = {#apakarza#} 2 v. u.
+apsyati	969647	v. u. ({#Apsyati#} zu lesen).
+asparagus	902422	,5. 2,119,1</ls> (masc.). <ls>Verz. d. Oxf. H. 323,b,1</ls> v. u. {%Asparagus racemosus%}
+asti	961973	v. u. {#asTi˚#}
+astisara	64013	<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,40,4</ls> v. u. {#asTisAra#}
+asuraramupadyayah	925676	. zu <ls>KĀTY. ŚR. 345,2.</ls> <ls n="KĀTY. ŚR.">348,4</ls> v. u. {#asurARAmupADyAyaH#}
+atmasabda	465115	<ls>Verz. d. Oxf. H. 161,a,3</ls> v. u. {#AtmaSabda˚#}
+atrayam	282563	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,5</ls> v. u. {#atrAyaM tarko boDyaH#}
+atyaktva	298623	v. u. {#atyaktvA#} {%ohne förmliche Hingabe%} (durch einen Spruch
+auch	364388	<ls>VĀMANA-P.</ls> in <ls>Verz. der Oxf. H. 46,b,5</ls> v. u. Auch {#˚puruzaka#} in der ersten Bed.
+auch	475573	<ls>BṚHASP.</ls> in <ls>VYAVAHĀRAT. 19,3</ls> v. u. Auch {#˚skanda#} <lex>m.</lex> nach
+auch	893934	<ls>P. 3,13,119.</ls> m. (nach <ls>SIDDH. K. 251,a,1</ls> v. u. auch neutr., das aber nicht zu belegen ist).
+auch	932079	<ls>Journ. of the Am. Or. S. 6,339,2</ls> v. u. Auch {#SfNgAwI#} <lex>f.</lex> {%die Pflanze%}
+avadutaveza	697992	Z. 5 und 4 v. u. {#avaDUtaveza#} vom
+avantikah	633644	<ls>Verz. d. Oxf. H. 328,b,3</ls> v. u. {#AvantikAH striyaH#}
+b	461350	s> <ls>BRAHMAVAIV.</ls> in <ls>Verz. d. Oxf. H. 22,a,1</ls> v. u. b,9. <ls>VĀYU-P. ebend. 54,b,3. fg.</ls> pl. <ls>SAṂSK. K. 
+b	789516	="BHĀG. P.">10,89,48.</ls> <ls>Verz. d. Oxf. H. 48,a,1</ls> v. u. b,7. <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 571.</ls> <ls>SĀ
+ba	508600	<ls>WEBER, Nakṣ. 2,281,1</ls> v. u. {#Ba#} oder {#nakzatra#} {%das Sternbild%} <is>Puṣya</is>
+badrapada	927282	<ls n="Journ. of the Am. Or. S. 6,">512,2.</ls> v. u. {#BAdrapada˚#}
+baj	714567	<ls>SĀY.</ls> zu <ls>ṚV.</ls> I, S. 43, Z. 4 v. u. {#˚BAj#}
+bakapaycaka	1120535	<ls>Sp. 1640, Z. 4</ls> v. u. {#bakapaYcaka#} <lex>n.</lex> nach dem
+baskara	791876	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 59,38. 60,1</ls> v. u. {#˚BAskara#} <is>Bhāskara</is> {%aus%} <is>Laugākṣi's</is> 
+bavah	1063825	<ls>VIṢṆU</ls> in <ls>DĀYABH. 272,3</ls> v. u. {#BAvAH#}
+bavatadabasadayah	75742	ĀṢĀP. 70.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,4</ls> v. u. {#BAvatadABAsAdayaH#}
+bedah	822554	<ls>Verz. d. Oxf. H. 198,b,2</ls> v. u. {#˚BedAH#}
+begründung	642835	<ls>Verz. d. Oxf. H. 142,a,3</ls> v. u. {%Begründung%}: {#upapattikfto yo 'rTa upanyAsaH sa kIrtita
+bez	901703	<ls>Verz. d. Oxf. H. 193,3</ls> v. u. Bez. {%best. erlöster Seelen%} (bei den <is>Śaiva</is>)
+bildlich	683633	<ls>Verz. d. Oxf. H. 311,a,2</ls> v. u. Bildlich: {#jagajjAla#}
+brahma	386586	rz. d. Oxf. H. 90,a,10.</ls> <ls>Verz. d. B. H. 193,10</ls> v. u. {#brahma˚#} {%das Erlöschen im%} <is>Brahman</is>, {%das Ei
+brahmacaryasrama	515764	 Oxf. H. 8,a,37.</ls> <ls n="Verz. d. Oxf. H.">275,a,3</ls> v. u. {#brahmacaryASrama#}
+brüste	1081535	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 10</ls> v. u. Brüste
+carita	976155	<ls n="VARĀH. BṚH. S.">2, S. 6, Z. 4</ls> v. u. {#˚carita#}
+caus	668047	<ls>Verz. d. Oxf. H. 229,a,5</ls> v. u. — caus.
+ccidrarajas	825691	<ls>LALIT. ed. Calc. 169,1</ls> v. u. {#˚cCidrarajas#}
+citrone	1028935	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,4</ls> v. u. {%Citrone%}
+comm	828609	2,a,13.</ls> <ls n="Verz. d. Oxf. H.">337,a,18. fgg. 4</ls> v. u. Comm. zu <ls>SŪRYAS. 1,52.</ls> <ls>SAṂSK. K. 1,b.</ls> {#g
+comm	989907	<ls>ĀNANDAD. 18.</ls> <ls>Verz. d. Oxf. H. 170,b,5</ls> v. u. Comm. zu <ls>JAIM. 1,17.</ls> {#saMsAra˚#}
+comm	1083900	3,3</ls> v. u. <ls>MADHUS.</ls> in <ls>Ind. St. 1,19,2</ls> v. u. Comm. zu <ls>JAIM. 1,11.</ls> zu <ls>KAP. 1,25.</ls> zu <ls
+compar	905185	it. bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1,108 (S. 25,2</ls> v. u.). compar. <lex>f.</lex> {#SaminItarA#} und {#SaminitarA#}
+daher	788542	 Oxf. H. 49,b,11.</ls> <ls n="Verz. d. Oxf. H.">57,a,3</ls> v. u. (daher Bez. {%der Zahl sieben%}
+damilla	349348	/ls> <ls n="SĀH. D.">105,9.</ls> <ls n="SĀH. D.">215,5</ls> v. u. {#Damilla#} gegen das Versmaass
+dana	1125577	<ls>Sp. 1104, Z. 2. 1</ls> v. u. {#Dana˚ = arTa˚#}
+danus	1026501	<ls n="MBH.">10,625.</ls> <ls>Verz. d. Oxf. H. 11,b,17</ls> v. u. {#Danus#} {%mit einem schönen Mitteltheil —, mit einer schö
+danyotpatti	348714	<ls>VĀRĀHA-P.</ls> in <ls>Verz. d. B. H. 142, Z. 18</ls> v. u. {#Danyotpatti#} in einer Inschr. in
+daravaram	274384	<ls>MADHUS.</ls> in <ls>Ind. St. 1,14,3</ls> v. u. {#dAravARAM ca takzaRam#} {%das Abschaben%}
+darma	485371	<ls>Or. u. Occ. 2,694,8</ls> v. u. {#Darma#}
+darmasya	421028	<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 47,a,11.</ls> v. u. {#Darmasya svarUpaM pramARaM pariBAzAM coktvA idAnIM DarmAn
+darmasya	575462	<ls n="Spr.">3933.</ls> <ls>UTTARARĀMAC. 31,2</ls> v. u. {#Darmasya#}
+darzwi	865554	<ls>Journ. of the Am. Or. S. 7,45,3</ls> v. u. {#dArzwi˚#} (adj. von {#dfzwivizaya#}) {%im Bereich der Aug
+das	362620	<ls>TRIK. 3,5,12.</ls> m. <ls>SIDDH. K. 249,b,2</ls> v. u. Das <lex>n.</lex> nur durch
+das	465130	<ls>SUŚR. 1,171,1</ls> v. u. {#udaka˚#} 2 v. u. {%das Hineinwerfen%}: {#ucCizwaprakzepaRArTaM gartAdikam#}
+das	483502	<ls>MIT. 244,6</ls> v. u. {%das Gehen, Wandeln%}: {#kApaTena#}
+das	1002276	v. u. Das masc. in der Bed. von {#sahAya#} nur
+das	1122830	<ls>Sp. 810, Z. 8</ls> v. u. das Beispiel
+datu	436543	<ls>Ind. St. 3,253,10</ls> v. u. {#DAtu˚, nAma˚#} {%eine vollständige Sammlung der Wurzeln, 
+davi	623086	<ls>Verz. d. Oxf. H. 110,a,1</ls> v. u. {#˚davI#} im Ind.
+davon	125293	<ls>MADHUS.</ls> in <ls>Ind. St. 1,15,5</ls> v. u. Davon nom. abstr. {#Otsargikatva#} <lex>n.</lex>
+davon	782971	 <ls n="P. 7,">3,51.</ls> <ls>Verz. d. Oxf. H. 210,b,2</ls> v. u. Davon nom. abstr. {#˚tva#} <lex>n.</lex>
+den	374471	/ls> <ls>DATTAKA-M. 34,3. 4.</ls> Vgl. <ls>MṚCCH. 10,3</ls> v. u., den Schol. z. d. St. <ls>LIA. II,575, N. 5</ls> und <ls>MÜ
+der	390878	<ls>Verz. d. B. H. 142,3</ls> v. u. {%der erste Ausgang mit einem Kinde%} (im 4ten Monate nach 
+der	697652	ol.</ls>) <ls>BHĀG. P. 10,76,8.</ls> <ls>Sp. 941, Z. 6</ls> v. u. der Schol zu <ls>BHĀG. P. 2,9,16</ls> und <ls n="BHĀG. P.">
+der	1085812	<ls>Notices of Skt. Mss. 1,227,5</ls> v. u. der Herausgeber fasst {#harinadI#} als N. des Dorfes.
+des	972956	v. u. des Versmaasses wegen voranstehend: {#nazwasaMdohasaSaMyasP
+devam	762471	<ls>BṚHASPATI</ls> in <ls>VIVĀDAC. 49,2</ls> v. u. {#dEvaM tatrAparADyati#}
+devameva	462684	<ls>Ind. St. 3,299,1</ls> v. u. {#dEvameva paraM manye pOruzaM tu nirarTakam#}
+devi	971578	<ls>Verz. d. Oxf. H. 164,b,1</ls> v. u. ({#˚devI#}).
+devya	322258	<ls>DAŚAK. 123,2</ls> v. u. {#devyA vizRuBaktyA samAdizwaM yaTA saMkalpayonayo devatA B
+die	315673	 13,10.</ls> <ls>NALOD. 3,19.</ls> <ls>KĀVYA-PR. 185,7</ls> v. u. Die Form {#Adatta#} wohl in der Bed. {%angezogen%}: {#te 'N
+die	407980	<ls n="Ind. St.">39,2</ls> v. u. die Form {#patAkA#} erscheint.
+die	537892	<ls>LA. (II) 100,7</ls> v. u. {%die Gesammtheit der Elemente%}
+die	635609	<ls n="VARĀH. BṚH. S.">11,58.</ls> <ls>Sp. 778, Z. 3</ls> v. u. die aus dem
+die	666367	<ls>H. 839.</ls> <ls>Sp. 486, Z. 1</ls> v. u. die <ls>ed. Bomb.</ls> des <ls>MBH.</ls> liest <ls n="MBH."
+die	685870	<ls>Sp. 189, Z. 10</ls> v. u. die Stelle
+die	754404	<ls>Verz. d. Oxf. H. 9,a,3</ls> v. u. Die Erscheinung mit {#rata#} componirt: {#vedavAdarata#}
+dieselben	489521	<ls>VYAVAHĀRAT. 19,2</ls> v. u. Dieselben Worte mit der einzigen Variante {#prANnyAyaSca#} 
+disi	692501	<ls>Sp. 637, Z. 3</ls> v. u. {#diSi diSi#} auch
+divyastra	844520	<ls>Verz. d. Oxf. H. 11,b,3</ls> v. u. {#divyAstra˚#}
+du	1030474	<ls>Verz. d. B. H. 142,10</ls> v. u. du. <ls>P. 2,4,78</ls>, Schol. pl. (oder im comp.) {%Blumen
+dukula	193425	>BHĀG. P. 7,13,39.</ls> — m. n. (<ls>SIDDH. K. 249,a,3</ls> v. u.) = {#dukUla#} (vgl. {#kzoma#}) {%gewobene Seide%}
+dunkel	241649	<ls>DAŚAK. 174,5. 175,3</ls> v. u. Dunkel ist der Zusammenhang der Stelle
+duzwo	733884	H. 2,6,42.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 946,1</ls> v. u. = {#duzwo yavaH#}
+dvaya	535296	<ls n="Verz. d. Oxf. H.">349,a,6</ls> v. u. {#˚dvaya#} {%Himmel und Erde%}
+dyutametatpurakalpe	568423	<ls>UTTARARĀMAC. 31,1</ls> v. u. {#dyUtametatpurAkalpe dfzwaM vErakaraM mahat#}
+ein	286449	v. u. ein <is>Mantra</is> der {#devapaTIyAnAM tArakARAmanvArohARA
+ein	653730	<ls>Verz. d. Oxf. H. 125,b,3</ls> v. u. ein Dichter
+ein	666095	xf. H. 258,b,27.</ls> <ls n="Verz. d. Oxf. H.">339,b,4</ls> v. u. (ein Land). einer Dynastie
+ein	744618	> (<ls>ed. orn. 31,1</ls>). <ls>Verz. d. Oxf. H. 8,a,1</ls> v. u. ein <is>Vetāla</is> als {%Meister in der Zauberei%} so ange
+ein	772913	. d. Oxf. H.">345,a,30.</ls> <ls>Verz. d. B. H. 125,2.</ls> v. u. ein Sohn <is>Sumati's</is> und Vater <is>Duṣyanta's</is>
+eine	609644	<ls>TBR. Comm. II,389,2</ls> v. u. — {%eine best. rhetorische Figur%}
+eine	789496	>WIND. Sancara 94,1.</ls> <ls>Verz. d. Oxf. H. 216,a,3</ls> v. u. Eine andere Bed. wird vielleicht das Wort
+einer	546483	. 193.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 184,a,5</ls> v. u. {%einer der acht Schätze, die zur Zauberkunst%} <is>Padminī
+einer	571139	/ls> <ls>MED. m. 62.</ls> <ls>Verz. d. Oxf. H. 184,a,5</ls> v. u. einer der Schätze bei den <is>Jaina</is>, in dem ein gleich
+eines	157781	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,7</ls> v. u. eines Sohnes von <is>Brahman</is> <is>Kavi</is>
+eines	656758	<ls>Verz. d. Oxf. H. 328,b,3</ls> v. u. eines Dorfes (nach
+ekavarraka	647281	<ls n="Verz. d. Oxf. H.">299,a,1</ls> v. u. = {#ekavarRaka#}; davon nom. abstr. {#˚tva#}
+es	463431	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,11</ls> v. u. Es ist zu lesen: {#cApyAya˚#} <ab>d. i.</ab> {#cApi Aya˚#} 
+faeces	864433	<ls>SIDDH. K. 247,b,2</ls> v. u. {%faeces%}
+falsche	517106	, ST. III,34,9</ls>). <ls n="Verz. d. Oxf. H.">262,a,1</ls> v. u. Falsche Form für {#brAhmarAti#}; vgl. {#brahmarAtri#} .
+fehlerhaft	380021	<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93, Z. 3</ls> v. u. fehlerhaft für {#nirGAta#} .
+fehlerhaft	433848	6,12.</ls> <ls>CHANDAS</ls> in <ls>Verz. d. B. H. 99,7</ls> v. u. fehlerhaft {#˚nivft#}
+fehlerhaft	478430	<ls>Verz. d. Oxf. H. 7,b,4</ls> v. u. fehlerhaft für {#praRASin#} .
+fehlerhaft	910004	<ls>Verz. d. Oxf. H. 327,a,7</ls> v. u. fehlerhaft für {#SaSANkaparvan#}; vgl.
+fehlerhaft	1072756	<ls>Verz. d. Oxf. H. 11,b,18</ls> v. u. fehlerhaft: vgl.
+fehlerhaft	1076411	<ls>MĀRK. P. 657, Z. 5</ls> v. u. fehlerhaft für {#svAnta˚#} .
+fehlerhaft	1113425	<ls>DAŚAK. 16,1</ls> v. u. fehlerhaft für {#cAYcava#}, wie die <ls>ed. Calc.</ls> lies
+feindselig	769043	<ls>Verz. d. Oxf. H. 86,a,1</ls> v. u. {%feindselig%} so v. a. {%unerwünscht, widerwärtig, gehässi
+feldzeichen	783457	<ls>Verz. d. Oxf. H. 183,b,1</ls> v. u. {%Feldzeichen%}
+fem	1016037	<ls>DAŚAK. 21,1</ls> v. u. fem. {#I#}
+fgg	308710	<ls>MIT. 258,3</ls> v. u. fgg.
+fgg	384213	<ls>MÜLLER, SL. 280</ls>) <ls>MIT. 47,2</ls> v. u. fgg. {#grahenduBaniroDe#} so v. a. {%wenn sie von einem Hof
+fgg	689509	<ls>Sp. 429, Z. 1</ls> v. u. fgg.), N. pr. eines <is>Tīrtha</is>
+fistel	374437	<ls>SIDDH. K. 249,b,4</ls> v. u. {%Fistel%}
+flügel	206054	m. <ls>TRIK. 3,5,3.</ls> <ls>SIDDH. K. 249,b,4</ls> v. u. {%Flügel eines Vogels%}
+fram	691531	<ls>KATHĀS. 54,153.</ls> <ls>Sp. 583, Z. 2</ls> v. u. {#fRaM dA#} bedeutet zwar {%eine Schuld abtragen%}, aber {#
+fälschlich	287308	(welches Th. II, S. 247, Z. 2 v. u. fälschlich durch {%Cajanus indicus Spreng.%} wiedergegeben 
+fälschlich	579885	n="BHĀG. P. 4,">4,8.</ls> <ls>Verz. d. Oxf. H. 216,b,1</ls> v. u. Fälschlich {#˚svasar#}
+füge	671034	xf. H. 304,b,41.</ls> <ls n="Verz. d. Oxf. H.">315,a,5</ls> v. u. Füge noch {%Schluck%} hinzu.
+füge	675658	<ls>SARVADARŚANAS. 118,12.</ls> <ls>Sp. 849, Z. 3</ls> v. u. füge hinzu: {#ityAdidUzaRagrahagrastatvAt#} so v. a. {%weil
+füge	1122931	<ls>Sp. 857, Z. 1</ls> v. u. füge bei: oder {%einen Ausgangspunkt habend.%}
+galarandra	753721	SAṂH. 1,5,20. 3,8,7.</ls> <ls>Verz. d. Oxf. H. 311,a,3</ls> v. u. {#galaranDra#} {%Luftröhre%}
+garbavatarara	672158	<ls>Verz. d. Oxf. H. 311,a,10</ls> v. u. {#garBAvatAraRa#} im Ind.
+garitasastra	670823	 325,b, No. 769.</ls> <ls n="Verz. d. Oxf. H.">339,a,2</ls> v. u. {#gaRitaSAstra#}
+gaumen	287696	v. u. {%Gaumen%}
+gegens	479618	<ls>Ind. St. 1,113,3</ls> v. u. Gegens. {#apyaya#}
+getrennt	1072520	="BHĀG. P.">10,70,5.</ls> <ls>Verz. d. Oxf. H. 90,b,13</ls> v. u. (getrennt gedr.).
+gewordenes	537272	<ls>SIDDH. K. 251,a,1</ls> v. u. {%Gewordenes%} so v. a. {%Wesen im weitesten Sinne%}, von {
+gopavaduwidukulacoraya	798965	<ls>MAHĀVĪRAC. 76,2</ls> v. u. {#gopavaDUwIdukUlacOrAya — kfzRAya#}
+gos	216962	<ls>SIDDH. K. 251,a,5</ls> v. u. {#gOs, gAm, ga/vA, ga/ve, gos, ga/vi; gA/vO; gA/vas, gAs#} 
+gowakakartfsabde	772727	<ls>SIDDH. K. 120,b,1</ls> v. u. {#GowakakartfSabde#} {%Gewieher des Pferdes%}
+grivopanizad	1082110	<ls>Verz. d. Oxf. H. 341,a,1</ls> v. u. {#˚grIvopanizad#}
+hat	422284	<ls>DAŚAK. 46,1</ls> v. u. hat das Wort vielleicht die Bed. {%Eigenthümer%} (die Stell
+haufe	446203	<ls>SIDDH. K. 249,b,2</ls> v. u. {%Haufe, Klumpen, Masse%}
+hauspfosten	216398	<ls>AK. 3,6,3,30.</ls> <ls>SIDDH. K. 247,b,3</ls> v. u. {%Hauspfosten.%}
+havirdana	549992	T. 129,17.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 696,2</ls> v. u. {#havirDAna˚#}
+herr	524392	<ls>UṆĀDIS. 1,128.</ls> m. <ls>SIDDH. K. 249,b,1</ls> v. u. {%Herr%}
+hintala	1018631	<ls>ŚABDAC.</ls> in <ls>Verz. d. Oxf. H. 195,b,6</ls> v. u. = {#hintAla#}
+hri	731033	<ls>Ind. St. 3,372,4</ls> v. u. {#hrI˚#}
+hypokoristikon	334186	<ls>Verz. d. B. H. 420,3</ls> v. u. Hypokoristikon oder voller Name
+häufig	361541	<ls>KATHĀS. 22,147.</ls> <ls>Verz. d. Oxf. H. 161,b,2</ls> v. u. Häufig ohne obj. {%denken, bei sich denken, nachdenken%}: {
+häufig	1048004	s> <ls>DAŚAK. 91,10.</ls> <ls>Verz. d. Oxf. H. 260,b,1</ls> v. u. häufig ist die Verbindung {#vidyutsOdAmanI yaTA#} am Ende e
+in	192724	<ls>AK. 3,6,4,34.</ls> <ls>SIDDH. K. 249,a,3</ls> v. u. In der <is>Veda</is>-Literatur stets <lex>m.</lex>
+in	464481	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 865,5</ls> v. u. {%in Rede stehend%}
+in	844516	<ls>Verz. d. Oxf. H. 11,b,1</ls> v. u. in comp. mit dem obj.: {#vedatattvArTa˚#}
+in	968679	v. u. In <is>Veda</is>
+in	1066644	<ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 4,325,9</ls> v. u. in comp. mit dem obj.: {#indropasTAna˚#}
+indivarasreri	937216	<ls>DAŚAR. 190,2</ls> v. u. {#indIvaraSreRI˚#}
+insel	346751	<ls>SIDDH. K. 249,a,5</ls> v. u. {%Insel, Sandbank im Flusse%}
+is	461077	28. 1166.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,20,6</ls> v. u. <is>Raghunandana</is>
+ist	454444	<ls>SIDDH. K. 249,a,1</ls> (<ls n="SIDDH. K.">251,a,2</ls> v. u. ist demnach {#pusta#} st. {#pustaka#} zu lesen). <lex>m.</l
+iti	960669	UM. 32,4.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,20,2</ls> v. u. {#iti ˚labDaH pAWaH#}
+ja	853768	<ls>Verz. d. B. H. 142,10</ls> v. u. {#˚ja#} {%ein Thier%}
+jalavahinyah	1018618	<ls>MĀRK. P. 37,40.</ls> <ls>Verz. d. Oxf. H. 311,a,4</ls> v. u. {#jalavAhinyaH#} im Auge
+jana	411929	A. 28,18.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,21,7</ls> v. u. {#˚jana#}
+jana	750278	xf. H. 141,b,21.</ls> <ls n="Verz. d. Oxf. H.">200,a,5</ls> v. u. {#jana˚#}
+janumatra	262633	<ls>BRAHMA-P.</ls> in <ls>Verz. d. Oxf. H. 17,b,4</ls> v. u. {#jAnumAtra/#}
+jaranmimamsaka	589384	>BṚH. ĀR. UP. S. 8.</ls> Schol. zu <ls>KĀTY. ŚR. 124,1</ls> v. u. {#jaranmImAMsaka#}
+jawaravalmikasrayeroragera	682152	<ls>Spr. 1163.</ls> <ls>Sp. 12, Z. 2</ls> v. u. {#jaWaravalmIkASrayeRorageRa#} bedeutet {%von einer Schlang
+judendorn	140647	,29.</ls> <ls>AK. 3,6,5,38.</ls> <ls>SIDDH. K. 251,a,4</ls> v. u. {%Judendorn, Zizyphus Jujuba Lam., die Species mit grössere
+jyana	439597	<ls n="Verz. d. Oxf. H.">58,b,3</ls> v. u. {#jYAna, SAstra#} oder <lex>n.</lex> mit Ergänzung eines di
+ka	1009149	<ls>MBH. 12,7374.</ls> <ls>Verz. d. Oxf. H. 210,b,5</ls> v. u. {#˚ka#}
+kalaya	937221	<ls>KĀD. (ed. Calc. 1862) 32,6</ls> v. u. {#kalAya˚#}
+kamyavrata	1020533	<ls>Verz. d. B. H. 142,17</ls> v. u. {#kAmyavrata#} st. dessen
+kann	692800	<ls>HIT. I,152</ls> (<ls>Sp. 662, Z. 2</ls> v. u.) kann {#duHKena#} auch anders gefasst werden; vgl.
+karascandanabaravahi	529057	<ls>MIT. 267,2</ls> v. u. {#KaraScandanaBAravAhI#}
+karjurakakarrasucyo	141491	<ls>Verz. d. B. H. 268,4</ls> v. u. ({#KarjUrakakarRaSUcyO#}).
+karmaram	377484	<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,2</ls> v. u. {#karmaRAm#} {%der Nichtglaube an die Folgen der Werke%}
+karya	973703	v. u. {#˚kArya#}
+karzaparastu	406181	<ls>NĀRADA</ls> in <ls>MIT. 246,5.</ls> v. u. {#kArzApaRastu vijYeyastAmrikaH kArpikaH paRaH#}
+kasa	746670	">316,a,7</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a,25</ls> v. u. {#˚kAsa#}
+kaufen	957812	v. u. kaufen <ls>KATHĀS. 19,37.</ls> <ls n="KATHĀS. 19,">42.</ls>
+kavaca	1041545	<ls n="Verz. d. Oxf. H.">329,b,7</ls> v. u. {#˚kavaca#}
+kawwanga	669139	s n="KATHĀS. 124,">13</ls> (neutr.). <ls>MĀLATĪM. 74,3</ls> v. u. ({#KawwANga#}).{# ˚Dara (SaMkara)#}
+kfta	946134	<ls n="Verz. d. Oxf. H. 318,b,">3</ls> v. u. {#˚kftA rogAH#}
+kftva	387837	<ls>MIT. 244,5</ls> v. u. {#kftvA mftyunivartanam#} {%machend, dass der Tod aufhört%}
+kim	425644	<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,5</ls> v. u. {#kiM mama vacanaM paryavasAnaparyantamavagataM yuzmABiH#}
+knie	262610	.</ls> <ls>RĀJA-TAR. 3,345</ls>) <ls>SIDDH. K. 248,b,5</ls> v. u. {%Knie%}
+knochen	697535	<ls>Sp. 933, Z. 4</ls> v. u. {%Knochen%} auch
+kopf	592612	m. n. <ls>AK. 3,6,4,34</ls> (m. <ls>SIDDH. K. 249,b,1</ls> v. u.). {%Kopf%}
+kotumarayogah	665504	<ls>Sp. 158, Z. 8</ls> v. u. {#kOtumArayogAH#}
+kruste	513240	<ls>AK. 3,6,4,34.</ls> <ls>SIDDH. K. 251,a,2</ls> v. u. {%Kruste bei gebratenem Fleische; Schale bei Früchten%}
+kumbermaheyescanumantriteh	560360	<ls>UTTARARĀMAC. 29,1</ls> v. u. {#kumBErmAheyEScAnumantritEH (aBimantritEH#} <ls>ed. Bomb.<
+kziptadvisizwam	668140	<ls>Verz. d. Oxf. H. 229,a,5</ls> v. u. {#kziptAdviSizwaM cittaM vikziptamiti gIyate#}
+kziteh	311166	<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,39,3</ls> v. u. {#kziteH#}
+könnte	1120457	<ls>ŚĀK. ed. PREM. 86,1</ls> v. u. Könnte ein verlesenes {#prozya#} sein.
+lex	125765	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,12</ls> v. u. <lex>f.</lex> {#OpagavI#}
+lex	160600	<ls>SIDDH. K. 249,a,2</ls> v. u. <lex>m.</lex> <lex>n.</lex>
+lex	316683	<ls>SIDDH. K. 249,a,3</ls> v. u. <lex>m.</lex> <lex>f.</lex> ({#I#}, nicht zu belegen) <lex>
+lex	562244	<ls>UṆĀDIS. 3,20.</ls> m. f. <ls>SIDDH. K. 251,a,4</ls> v. u. <lex>m.</lex>
+lex	764121	<ls>UṆĀDIS. 4,132.</ls> m. <ls>SIDDH. K. 249,b,3</ls> v. u. <lex>m.</lex> <lex>f.</lex> (das <lex>f.</lex> nicht zu bel
+lex	796550	<ls>BHAVIṢYA-P.</ls> bei <ls>GOLD. I,421,a,2</ls> v. u. <lex>adj.</lex> {%stringed, having a string; circular, glob
+lies	616597	Z. 1 v. u. lies 19, 2, 3 st. 19, 3, 3.
+lies	626772	Z. 3 v. u. lies {#azWIva#} st. {#azWIvan#} und vgl. u. {#Uru#} 1).
+lies	627858	Sp. 571, Z. 6 v. u. lies 1, 13, 43 st. 1, 13, 42. — N. pr.: {#ahna ANgirasasya#
+lies	633429	<ls n="Spr.">2727.</ls> Sp. 701, Z. 3 v. u. lies 10,17 st. 11,17. Bei den Buddhisten Bez. {%der Seele%}
+lies	635926	<ls>Spr. 3495.</ls> <ls>Sp. 795, Z. 7</ls> v. u. lies {#paYcaBiretaccakAra#};
+lies	635927	<ls>Z. 9</ls> v. u. lies {#evamAha#} st. {#evAmAha#} .
+lies	646309	<ls>Sp. 1044, Z. 6</ls> v. u. lies {#trIRyapAkftya#}.{# paYcarRAni manuzyeRa sADvi deyAni
+lies	649281	<ls>Spr. 1406.</ls> Sp. 1, Z. 2 v. u. lies 83,7 st. 83,17.
+lies	649293	<ls n="Spr.">4766.</ls> <ls>Sp. 4, Z. 8</ls> v. u. lies {#kaMcitkAlam#} . Vgl. {#kiMcid#} .
+lies	654875	<ls n="Spr.">4330.</ls> <ls>Sp. 166, Z. 3</ls> v. u. lies ({#kriyAyogAH#}) .
+lies	669546	Sp. 600, Z. 1 v. u. lies 23, 39 st. 23, 89.
+lies	675941	<ls>Sp. 860, Z. 1</ls> v. u. lies {#vAtiraktatA#} .
+lies	691035	<ls>Sp. 531, Z. 8</ls> v. u. lies {#me#} st. {#Be#} . — desid. {#didfkzita#} {%was man z
+lies	697716	<ls>Sp. 947, Z. 2</ls> v. u. lies {#DArAvigalitaM#} .
+lies	697748	<ls>KATHĀS. 58,123.</ls> <ls>Sp. 950, Z. 4</ls> v. u. lies {#mantra˚#} st. {#manta˚#} .
+lies	701081	<ls>Sp. 147, Z. 7</ls> v. u. lies {#nindantI svAni BAgyAni#} .
+lies	708057	<ls n="SĀH. D.">396.</ls> <ls>Sp. 545, Z. 1</ls> v. u. lies {#gurO#} st. {#guroH#} .
+lies	723257	<ls>KATHĀS. 88,56.</ls> <ls>Sp. 742, Z. 3</ls> v. u. lies 166,20 st. 186,20.
+lies	1112671	<ls>Sp. 772, Z. 9</ls> v. u. lies {#sugUQamapi#} st. {#suguptamapi#} .
+lies	1114386	<ls>Sp. 214, Z. 3</ls> v. u. lies {#tamo^#} st. {#tato^#} .
+lies	1123412	<ls>Sp. 143, Z. 2</ls> v. u. lies {#vAcoyukti˚#} und vgl. {#vAcoyukti#} .
+lies	1123546	<ls>Sp. 215, Z. 2</ls> v. u. lies <ls>Spr. 208</ls> (<ls n="Spr. (II)">567</ls> der 2ten
+lies	1123693	Z. 2 lies 5, 83, 6 st. 5, 83, 7. — Sp. 303, Z. 4 v. u. lies 10, 49, 3.
+lies	1124565	Sp. 696, Z. 1 v. u. lies 7, 32, 16. — partic. {#vrARa/#} {%eingesperrt%}
+lies	1124585	<ls>Sp. 706, Z. 3</ls> v. u. lies {#dEvya\M#} .
+lies	1124780	<ls>Sp. 798, Z. 6</ls> v. u. lies {#pravfzwe#} st. {#pravfzwe-#} .
+lies	1125557	<ls>Sp. 1098, Z. 1</ls> v. u. lies {#ma\ruta^H#} .
+lies	1126025	<ls>Sp. 1321, Z. 2</ls> v. u. lies {#sAtvatI#} .
+lies	1126697	<ls>Sp. 94, Z. 1</ls> v. u. lies <ls>VYĀḌI.</ls>
+lies	1126941	<ls>Sp. 179, Z. 4</ls> v. u. lies {#mUha#} st. {#muccaya#} .
+lipta	317680	<ls>DAŚAK. 141,2</ls> v. u. {#˚liptA#}
+lolakzi	1085094	<ls>PAÑCAT. 140,23.</ls> <ls>Verz. d. Oxf. H. 123,a,1.</ls> v. u. {#˚lolAkzI#}
+ls	29019	. I,178, N. 1. 820.</ls> <ls>Verz. d. B. H. 240, Z. 6.</ls> v. u. <ls>HIOUEN-THSANG 361. fg.</ls> N. einer Dynastie
+ls	72141	<ls>DAŚAK. 109,2.</ls> v. u. <ls>WILSON</ls> zu d. St.: {#AdiS#} {%indication of doubt o
+ls	72472	s n="Verz. d. B. H.">258,17</ls>). <ls>Ind. St. 1,59,3</ls> v. u. <ls n="Ind. St.">2,287, N. 2.</ls> {#ketakADAnahetoH#}
+ls	74982	0. Comm. 13,13. 25,2</ls> v. u. <ls n="VEDĀNTAS.">26,3</ls> v. u. <ls>Sch.</ls> in der Einl. zu <ls>NYĀYA-S. 4,71.</ls> <ls>S
+ls	74982	<ls>VEDĀNTAS. 1,10. Comm. 13,13. 25,2</ls> v. u. <ls n="VEDĀNTAS.">26,3</ls> v. u. <ls>Sch.</ls> in der Einl
+ls	77245	2,25,1.</ls> <ls>ADBH. BR.</ls> in <ls>Ind. St. 1,39,3</ls> v. u. <ls>Sch.</ls> = {#cittapIqA#} .
+ls	82589	<ls>SIDDH. K. 249,a,3</ls> v. u. <ls>TRIK. 3,5,10.</ls>
+ls	89448	v. u. <ls>VOP. 26,174.</ls> m. n. nach <ls>VAIJ.</ls> zu <ls>H. 8
+ls	103032	<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,3</ls> v. u. <ls>COLEBR. Misc. Ess. I,264.</ls> <ls>Z. d. d. m. G. VII,3
+ls	135162	<ls n="HARIV.">12439.</ls> <ls n="HARIV.">S. 927, Z. 5</ls> v. u. <ls>R. 1,41,25.</ls> <ls>RAGH. 3,50.</ls> <ls>BHĀG. P. 1,3,
+ls	136107	v. u. <ls>TRIK. 3,5,9.</ls>
+ls	152433	> <ls>LIA. I,66. II,953.</ls> <ls>Verz. d. B. H. 93,8.</ls> v. u. <ls>RAGH. 4,83.</ls> <ls n="RAGH. 4,">84.</ls> <ls>KATHĀS. 
+ls	152475	. 466,16. 467,4. 469,2.</ls> <ls>Verz. d. B. H. 295,12</ls> v. u. <ls n="Verz. d. B. H.">303,2.</ls> Nirgends entschieden <le
+ls	153031	<ls>Verz. d. B. H. 92,6</ls> v. u. <ls n="Verz. d. B. H.">241,18. 242,16.</ls>
+ls	153408	<ls>NĀRADA</ls> in <ls>DĀY. 270,2</ls> v. u. <ls>MṚCCH. 131,15.</ls> {#SilpakArikA#} {%Handwerkerin%}
+ls	202674	<ls>Ind. St. 1,40,1</ls> v. u. <ls n="Ind. St.">2,38, N.</ls>
+ls	208316	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 59,4. 60,5.</ls> v. u. <ls>Ind. St. 3,214. 460.</ls>
+ls	219465	<ls>SIDDH. K. 249,a,1</ls> v. u. <ls>TRIK. 3,5,10.</ls> {%Kuhmist%}
+ls	262748	<ls>BRAHMAVAIV.-P.</ls> in <ls>Verz. d. Oxf. H. 22,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">22,b,8.</ls> pl. <ls>PRAVARĀDHY.</
+ls	291103	,103. fgg.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 291,5</ls> v. u. <ls n="KĀTY. ŚR.">380,20.</ls> <ls n="KĀTY. ŚR. 380,">413</
+ls	291650	2.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92,3</ls> v. u. <ls>MBH. 2,1850.</ls> {#ye cAnye vinDyanilayAstuKArAstumbur
+ls	298888	n="KĀTY. ŚR. 1,">7,21.</ls> <ls>Schol. p. 208,2. 394,3</ls> v. u. <ls n="Schol.">423,1</ls> v. u.
+ls	301894	AR. 5,170.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 445,1</ls> v. u. <ls n="KĀTY. ŚR.">915,4.</ls> <ls>VARĀH. BṚH. S. 11,32.</ls
+ls	312298	 79. 113.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,16,6</ls> v. u. <ls>SĀH. D. 2,17.</ls> — desid. {%sehen wollen%}: {#prAdidf
+ls	319184	<ls>Verz. d. B. H. 192,10</ls> v. u. <ls n="Verz. d. B. H.">193,1.</ls>
+ls	319866	rz. d. B. H. No. 626.</ls> <ls>Verz. d. Oxf. H. 90,b,5</ls> v. u. <ls>VET. 2,4.</ls>
+ls	327455	f. H.">175,a,33.</ls> <ls n="Verz. d. Oxf. H.">175,b,6</ls> v. u. <ls n="Verz. d. Oxf. H.">No. 375. 376.</ls> <ls>COLEBR. Mis
+ls	327455	z. d. B. H. No. 777.</ls> <ls>Verz. d. Oxf. H. 112,a,5</ls> v. u. <ls n="Verz. d. Oxf. H.">164,a,2.</ls> <ls n="Verz. d. Oxf.
+ls	333708	. 38. 41.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u. <ls>KUVALAY. 51,b.</ls> {#˚Sataka#}
+ls	335104	.</ls> <ls>KŪRMA-P.</ls> in <ls>Verz. d. Oxf. H. 8,a,3</ls> v. u. <ls>MATSYAP. ebend. 39,b,27.</ls> <ls>LIṄGA-P. ebend. 44,b<
+ls	336146	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,5</ls> v. u. (?). <ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 74,b</ls>, 
+ls	336269	<ls>MADHUS.</ls> in <ls>Ind. St. 1,20,6</ls> v. u. <ls>KULL.</ls> zu <ls>M. 3,152.</ls> <ls n="M. 3,">158.</ls
+ls	347569	<ls>MIT. 140,1</ls> v. u. <ls n="MIT.">145,3</ls> v. u. <ls n="MIT.">145,3</ls> v. u.
+ls	347569	<ls>MIT. 140,1</ls> v. u. <ls n="MIT.">145,3</ls> v. u. <ls n="MIT.">145,3</ls> v. u.
+ls	352141	<ls>SKANDAP.</ls> in <ls>Verz. d. B. H. 146,b,1</ls> v. u. <ls n="Verz. d. B. H.">147,a,3.</ls> {#˚tIrTa#} <lex>n.</le
+ls	359612	79, Z. 8</ls> v. u. <ls n="Verz. d. B. H.">284, Z. 14</ls>, v. u. <ls n="Verz. d. B. H.">No. 941</ls> am Ende und
+ls	359612	<ls>Verz. d. B. H. 279, Z. 8</ls> v. u. <ls n="Verz. d. B. H.">284, Z. 14</ls>, v. u. <ls n="Verz. 
+ls	369577	<ls n="Journ. of the Am. Or. S.">7,25,2</ls> v. u. <ls n="Journ. of the Am. Or. S. 7,25,">37.</ls>
+ls	376057	<ls>Journ. of the Am. Or. S. 6,512,1</ls> v. u. <ls n="Journ. of the Am. Or. S. 6,">548,4.</ls> Am Ende ein
+ls	376288	Oxf. H.">40,b,32.</ls> <ls n="Verz. d. Oxf. H.">82,a,6</ls> v. u. <ls n="Verz. d. Oxf. H.">113,b.</ls> <ls>MADHUS.</ls> in <l
+ls	398288	<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93,8</ls> v. u. <ls>VARĀH. BṚH. S. 4,22.</ls> <ls n="VARĀH. BṚH. S.">5,65.<
+ls	399124	</ls> <ls>LIṄGA-P.</ls> in <ls>Verz. d. Oxf. H. 44,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">44,b,3.</ls> Vgl. u. {#nEmizIya#} 
+ls	400477	<ls n="Ind. St.">18,6</ls> v. u. <ls>MUṆḌ. UP.</ls> in <ls>Ind. St. 1,301, N.</ls> <ls>ĀTMOP
+ls	404824	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 465,2</ls> v. u. <ls n="KĀTY. ŚR.">553,24.</ls>
+ls	405091	 zu <ls>JAIM. 1,21.</ls> Schol. zu <ls>KĀTY. ŚR. 660,1</ls> v. u. <ls>LALIT. ed. Calc. 297,8.</ls> {#kawI˚#}
+ls	405757	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 660,1.</ls> v. u. <ls>UPAG. AV. 20.</ls> neutr. <ls>SUŚR. 1,68,2.</ls>
+ls	407759	L. 239,1.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,16,1</ls> v. u. <ls>Verz. d. B. H. No. 764.</ls> ein Mediciner ebend.
+ls	409804	<ls n="SUŚR. 2,">312,1</ls> v. u. <ls n="SUŚR. 2,">313,2. 4. 6.</ls> {#dfzwirdozABipannA#}
+ls	410846	M. 2,">7.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,19,2</ls> v. u. <ls>Schol.</ls> zu <ls>KAP. 1,56.</ls> zu <ls>JAIM. 1,17.</
+ls	411370	<ls>Journ. of the Am. Or. S. 6,543,1</ls> v. u. <ls n="Journ. of the Am. Or. S. 6,">544,1. fgg.</ls> {#grAm
+ls	412315	<ls>AK. 1,1,1,67.</ls> <ls>Verz. d. Oxf. H. 184,a,5</ls> v. u. <ls>H. 193.</ls> <ls>H. an.</ls> m. n. <ls>TRIK. 1,1,79.</l
+ls	412588	 B. H. No. 680. 830.</ls> <ls>Verz. d. Oxf. H. 110,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">148,a (No. 318).</ls> Inschr. in <
+ls	413142	<ls>MBH. 12,12864</ls> (S. 518, Z. 7 v. u.). <ls>HARIV. 14119.</ls>
+ls	416623	<ls>RAGH. 3,24.</ls> <ls>MÜLLER, SL. 196,1</ls> v. u. <ls>SUŚR. 1,153,14. 15.</ls> <ls>SĀṂKHYAK. 31.</ls> {#˚prIt
+ls	416692	<ls>UTTARARĀMAC. 7,13.</ls> <ls>MAHĀVĪRAC. 76,3.</ls> v. u. <ls>NAIṢ. 8,94.</ls>
+ls	419533	<ls>VP.</ls> bei <ls>MUIR, Sanskrit Texts I,62, Z. 3.</ls> v. u. <ls>BHĀG. P. 2,5,22.</ls> <ls n="BHĀG. P. 2,">8,14.</ls> <l
+ls	421618	<ls>HALĀY. 2,413.</ls> <ls>Verz. d. Oxf. H. 171,b,3</ls> v. u. <ls>GĪT. 1,33.</ls> <ls n="GĪT.">7,14.</ls> <ls n="GĪT.">12
+ls	422759	<ls>Verz. d. Oxf. H. 164,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">No. 107, Śl. 4.</ls> <ls>KIR. 4,17
+ls	423634	 No. 105.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,19,5</ls> v. u. <ls>Schol.</ls> zu <ls>VĀSAVAD. S. 16. 17.</ls>
+ls	423801	.">187,4.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,3</ls> v. u. <ls>Verz. d. Oxf. H. 86,a,4. fgg.</ls> <ls>H. 740.</ls> <ls
+ls	433978	<ls>KĀVYAPR. 113,4</ls> v. u. <ls>Spr.</ls> {#mOnI pAdaprahAre 'pi#} .
+ls	435950	<ls>VARĀH. BṚH. S. 2,e.</ls> <ls>Ind. St. 3,259,1</ls> v. u. <ls>BHĀG. P. 4,1,63.</ls> <ls>PAÑCAT. 155,4.</ls> ohne Ergä
+ls	439594	0.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91,8</ls> v. u. <ls>PRAB. 79,18.</ls> <ls>Verz. d. Oxf. H. 75,b,9</ls> v. u
+ls	439596	<ls>Verz. d. Oxf. H. 58,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">50,a,8.</ls> {#dIkzA#}
+ls	439598	>46,a,5.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,22. 3</ls> v. u. <ls n="Ind. St.">23,20.</ls> <lex>m.</lex> {%ein Verehrer d
+ls	442012	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 291,1</ls> v. u. <ls n="KĀTY. ŚR.">380,20.</ls> <ls n="KĀTY. ŚR.">413,1</ls>
+ls	443110	</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91,10.</ls> v. u. <ls>Ind. St. 2,55.</ls> <ls>MBH. 12,1596.</ls> <ls>VP. 283.
+ls	452203	<ls>AV. PARIŚ.</ls> ebend. <ls n="Verz. d. B. H.">91,2</ls> v. u. <ls>M. 1,35.</ls> <ls n="M.">3,198.</ls> <ls>MBH. 1,2518.</
+ls	452211	<ls>AV. PARIŚ.</ls> ebend. <ls n="Verz. d. B. H.">91,1</ls> v. u. <ls>M. 1,35.</ls> <ls>MBH. 1,2518.</ls> <ls>HARIV. 41.</ls>
+ls	457914	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 221,1</ls> v. u. <ls n="KĀTY. ŚR.">226,16.</ls> <ls n="KĀTY. ŚR. 226,">20.</
+ls	461428	<ls>Verz. d. Oxf. H. 180,a,5</ls> v. u. <ls n="Verz. d. Oxf. H. 180,">b,5.</ls> u.s.w.
+ls	462575	<ls>KŪRMA-P.</ls> in <ls>Verz. d. Oxf. H. 7,b,9</ls> und 5 v. u. <ls>Z. d. d. m. G. 6,95,6</ls> v. u. {#˚sAMKya#}
+ls	462577	d. B. H. 160. No. 616.</ls> <ls>Verz. d. Oxf. H. 7,b,6</ls> v. u. <ls n="Verz. d. Oxf. H.">9,b,11.</ls> <ls>COLEBR. Misc. Ess
+ls	464695	<ls>TRIK. 3,3,455.</ls> <ls>Verz. d. Oxf. H. 171,a,1</ls> v. u. <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 2,27.</ls> zu <ls>VS. PRĀT
+ls	467962	s> zu <ls>KĀTY. ŚR. 52,4.</ls> <ls n="KĀTY. ŚR.">408,6</ls> v. u. <ls n="KĀTY. ŚR.">586,13.</ls> {#praRAlikayA#} so v. a. {%m
+ls	470743	<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,5</ls> v. u. <ls>VEDĀNTAS. (Allah.) No. 116.</ls> <ls>KĀŚ.</ls> zu <ls>P
+ls	475290	<ls n="Verz. d. B. H. 287,">6</ls> v. u. <ls>BHĀG. P. 5,3,13.</ls> {#utpanna˚#} <lex>adj.</lex>
+ls	475310	AP. 1,45.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,22,5</ls> v. u. <ls>KULL.</ls> zu <ls>M. 6,72.</ls> <ls>TATTVAS. 44.</ls> {
+ls	480963	B. 27,19.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,6</ls> v. u. <ls>SĀH. D. 35.</ls> <ls n="SĀH. D.">57.</ls> <ls>P. 8,2,97
+ls	481186	67.</ls> <ls>CAURAP. 1.</ls> <ls>Verz. d. B. H. 288,11</ls> v. u. <ls>Verz. d. Oxf. H. 163,b, N.</ls> {#rAme pramAdaM mA kArz
+ls	483011	<ls>Ind. St. 1,47. 50.</ls> <ls>MÜLLER, SL. 53,1</ls> v. u. <ls n="Ind. St. 1,">109. 320.</ls> {#samastapravacanavaMSaH
+ls	487393	. 4,1.</ls> <ls>UTTARARĀM. 3,13.</ls> <ls>MĀLATĪM. 4,4</ls> v. u. <ls>PRAB. 6,9.</ls> <ls>DHŪRTAS. 70,15</ls> (<ls n="DHŪRTAS
+ls	487981	ARKAS. 51.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 969,2</ls> v. u. <ls>PAÑCAT. ed. orn. 49,14.</ls> {#pAScAtyaprahare divasasy
+ls	488797	. B. H. 154,3</ls> v. u. <ls n="Verz. d. B. H.">292,10</ls> v. u. <ls>Ind. St. 8,295.</ls> Eine der 7 Strecken der Planetenba
+ls	488797	l.</ls> zu <ls>ŚĀK. 9,6.</ls> <ls>Verz. d. B. H. 154,3</ls> v. u. <ls n="Verz. d. B. H.">292,10</ls> v. u. <ls>Ind. St. 8,295
+ls	489117	<ls>MĀLATĪM.</ls> beim Schol. zu <ls>DAŚAR. 88,5</ls> v. u. <ls>Spr. 3739.</ls> <ls>BHĀG. P. 1,16,29.</ls> <ls>H. 509.<
+ls	491701	16. fgg.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,16. 7</ls> v. u. <ls>ṢAḌGURUŚ. ebend. 102.</ls> Schol. zu <ls>P. 1,1,9.</ls>
+ls	492534	<ls>UTTARARĀMAC. 112,2</ls> v. u. (<ls n="COWELL">152,8</ls> bei <ls>COWELL</ls>).
+ls	493754	 <ls n="KĀTY. ŚR.">605,3.</ls> <ls n="KĀTY. ŚR.">614,5</ls> v. u. <ls n="KĀTY. ŚR.">620,4</ls> v. u. <ls>MAHĪDH.</ls> bei <ls
+ls	493754	n="KĀTY. ŚR.">614,5</ls> v. u. <ls n="KĀTY. ŚR.">620,4</ls> v. u. <ls>MAHĪDH.</ls> bei <ls>MÜLLER, SL. 355.</ls> {#˚kI kaTA#}
+ls	493754	s> <ls n="M.">8,43.</ls> Schol. zu <ls>KĀTY. ŚR. 604,3</ls> v. u. <ls n="KĀTY. ŚR.">605,3.</ls> <ls n="KĀTY. ŚR.">614,5</ls> 
+ls	501064	xf. H. 60,a,39.</ls> <ls n="Verz. d. Oxf. H.">259,b,12</ls> v. u. <ls>Schol.</ls> zu <ls>ŚĀṄKH. BR. 7,6.</ls> {#dakziRabadari
+ls	506313	VARĀH. BṚH. S. 8,33.</ls> <ls>Verz. d. Oxf. H. 331,b,5</ls> v. u. <ls>Journ. of the Am. Or. S. 6,180</ls> ({#˚Danya#}).
+ls	509453	5.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92,3</ls> v. u. <ls>MBH. 2,1030.</ls> {#malaM pfTivyA vAhlIkAH#}
+ls	512921	Oxf. H.">39,a,24.</ls> <ls n="Verz. d. Oxf. H.">40,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">80,a,36.</ls> Verfasser eines Gese
+ls	513141	<ls>Verz. d. Oxf. H. 207,b,1</ls> v. u. <ls>Schol.</ls> zu <ls>PRAB. S. 98, Z. 5. 21.</ls> <ls>BHAṬ
+ls	515383	<ls>Ind. St. 1,18,2.</ls> <ls>Verz. d. Oxf. H. 267,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">268,b,3</ls> v. u. <ls n="Verz. d.
+ls	515383	H. 267,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">268,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">269,a,29. b,4.</ls> <ls n="Verz. d
+ls	515552	4. 18. 170,1</ls> v. u. <ls n="LALIT. ed. Calc.">332,1</ls> v. u. <ls n="LALIT. ed. Calc.">460,11.</ls> <ls>BURN. Intr. 202. 
+ls	515552	<ls>LALIT. ed. Calc. 43,19. 79,4. 18. 170,1</ls> v. u. <ls n="LALIT. ed. Calc.">332,1</ls> v. u. <ls n="LALIT. ed.
+ls	516721	<ls>LALIT. ed. Calc. 170,1</ls> v. u. <ls n="LALIT. ed. Calc.">354,2.</ls>
+ls	520017	(nach <ls>SIDDH. K. 248,a,4</ls> v. u. <ls>AK.</ls> <ls>TRIK.</ls> und <ls>MED.</ls> neutr. [vgl. 
+ls	524967	xf. H. 124,a,36.</ls> <ls n="Verz. d. Oxf. H.">140,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">209,a,8.</ls>
+ls	525739	xf. H. 124,a,39.</ls> <ls n="Verz. d. Oxf. H.">140,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">150,b,30.</ls> <ls n="Verz. d. Oxf
+ls	527399	AR. 3,117.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 422,1</ls> v. u. <ls>PAÑCAT. 231,20</ls> (wo der Schakal den Wolf so nennt).
+ls	527660	<ls>MIT. 3,3,a,2</ls> v. u.) <ls>YĀJÑ. 3,6.</ls> {#tAM yaSoBajanAM DanyAm#}
+ls	528194	s n="RĀJA-TAR.">6,114.</ls> <ls>Verz. d. B. H. 134,b,7</ls> v. u. <ls>Verz. d. Oxf. H. 284,b,11. 34. 40. 42.</ls> <ls n="Verz
+ls	528774	> <ls>Z. d. d. m. G. 8,537,22.</ls> <ls>LA. (II) 100,6</ls> v. u. <ls>Ind. St. 8,413, N. 1.</ls> <ls>Verz. d. B. H. No. 1025.
+ls	529263	<ls>Verz. d. B. H. 54,3</ls> v. u. <ls n="Verz. d. B. H.">55,1. 90 (21). 93 (54).</ls> <ls>Ver
+ls	543332	xf. H. 311,b,33.</ls> <ls n="Verz. d. Oxf. H.">314,b,4</ls> v. u. <ls n="Verz. d. Oxf. H.">317,b, N. 2.</ls> <ls n="Verz. d. 
+ls	543589	. 150,b, No. 320.</ls> <ls n="Verz. d. Oxf. H.">84,a,2</ls> v. u. <ls>MACK. Coll. I,112. fg.</ls> {#BojarAjaprabanDa#}
+ls	543613	f. H.">209,a,16.</ls> <ls n="Verz. d. Oxf. H.">237,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">247,a,28.</ls> <ls n="Verz. d. Oxf
+ls	544969	ŚĀRṄG. SAṂH. 1,7,25.</ls> <ls>Verz. d. Oxf. H. 316,a,5</ls> v. u. <ls>Verz. d. B. H. No. 955.</ls> <ls>Spr. 1365.</ls>
+ls	547818	<ls>Verz. d. Oxf. H. 20,a,4</ls> v. u. <ls>PAÑCAR. 2,1,8.</ls> {#˚SrutaM SaNKaM ca SfRvan#}
+ls	550219	<ls>Verz. d. B. H. 159,4</ls> v. u. <ls>Verz. d. Oxf. H. 241,a, No. 591.</ls> —
+ls	551980	xf. H.">149,b,5.</ls> <ls n="Verz. d. Oxf. H.">301,a,7</ls> v. u. <ls n="Verz. d. Oxf. H.">339,b,1.</ls> <ls n="Verz. d. Oxf.
+ls	551983	<ls n="Verz. d. B. H.">142,1</ls> v. u. <ls>Verz. d. Oxf. H. 61,b, No. 108.</ls> <ls>Verz. d. Pet. 
+ls	553191	. No. 934. 955. 966.</ls> <ls>Verz. d. Oxf. H. 305,b,6</ls> v. u. <ls n="Verz. d. Oxf. H.">306,b,29.</ls> <ls n="Verz. d. Oxf
+ls	558101	AS. (Allah.) No. 47.</ls> <ls>Verz. d. Oxf. H. 225,a,2</ls> v. u. <ls>SUŚR. 1,310,12. 311,5.</ls>
+ls	559813	BṚH. ĀR. UP. S. 300.</ls> <ls>Verz. d. Oxf. H. 11,b,15</ls> v. u. <ls>SĀH. D. 70,10.</ls> <ls>PAÑCAT. 146,18.</ls> <ls>ed. or
+ls	562382	WEBER, RĀMAT. UP. 344.</ls> <ls>Verz. d. Oxf. H. 7,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">8,a,15. 31</ls> (<ls>Verz. d. B. H
+ls	563402	D.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91,1</ls> v. u. <ls>M. 1,35.</ls> <ls n="M. 1,">58.</ls> <ls n="M.">3,194.<
+ls	565423	<ls>Verz. d. Oxf. H. 305,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">311,a,5</ls> v. u. {#marmasaMDizu#
+ls	571754	<ls>Verz. d. Oxf. H. 184,a,1</ls> v. u. <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> {%a water jar; the heart
+ls	571892	1,323,3.</ls> <ls>ŚĀK. 107.</ls> <ls>UTTARARĀMAC. 28,1</ls> v. u. <ls>VID. 120.</ls> <ls n="VID.">292.</ls> <ls>KATHĀS. 10,75
+ls	571955	B. 86,10.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,16,1</ls> v. u. <ls>Verz. d. B. H. 14,4. No. 721. 789.</ls> <ls>Verz. d. Ox
+ls	576196	<ls>DAŚAK. 27,4</ls> v. u. <ls n="DAŚAK.">31,3</ls> v. u.
+ls	576240	<ls>DAŚAK. 23,2</ls> v. u. <ls n="DAŚAK.">24,4.</ls>
+ls	576454	 d. Oxf. H.">103,a,31.</ls> <ls>LALIT. ed. Calc. 340,1</ls> v. u. <ls>WASSILJEW 198. 214.</ls> <ls>HIOUEN-THSANG 1,124. 237. 
+ls	591028	f. H.">314,a,40.</ls> <ls n="Verz. d. Oxf. H.">357,a,2</ls> v. u. <ls>VARĀH. BṚH. S. 5,83.</ls> <ls n="VARĀH. BṚH. S.">6,4.</
+ls	591307	>HALĀY. 2,334.</ls> <ls>WEBER, RĀMAT. UP. 327,2. 343,2</ls> v. u. <ls>VOP. S. 176.</ls> {#sarga#}
+ls	591936	.</ls> <ls>NĪLAK. 40.</ls> <ls>Verz. d. Oxf. H. 20,a,8</ls> v. u. <ls>P. 3,4,77</ls>, <ls>Sch.</ls>
+ls	597449	 n="KATHĀS.">65,159. fg.</ls> <ls>Verz. d. B. H. 278,8</ls> v. u. <ls>PAÑCAT. 211,13.</ls> {#˚nayana#} <lex>adj.</lex>
+ls	598438	<ls>TBR. Comm. 1,204,6</ls> v. u. <ls>BHĀG. P. 5,23,6.</ls> Nach <ls>BHAR.</ls> zu <ls>AK.</l
+ls	600799	<ls>Verz. d. Oxf. H. 184,a,1</ls> v. u. <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls>
+ls	601077	<ls>Verz. d. B. H. 112,7</ls> v. u. <ls>Verz. d. Oxf. H. 4,b,12.</ls>
+ls	602185	/ls> <ls>KĀM. NĪTIS. 19,32.</ls> <ls>UTTARARĀMAC. 29,1</ls> v. u. <ls>BHĀG. P. 3,1,19.</ls> <ls>BRAHMA-P. in LA. (II) 49,8.</
+ls	602428	de 340.</ls> <ls>LALIT. ed. Calc. 137,15. 138,1. 147,2</ls> v. u. <ls n="LALIT. ed. Calc.">175,3. 318,11. 340,6. 352,6.</ls> 
+ls	603443	. l.). <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93,10</ls> v. u. <ls>MBH. 2,59.</ls> <ls n="MBH. 2,">66.</ls> <ls n="MBH.">3
+ls	605554	<ls n="KĀTY. ŚR. 578,">9.</ls> <ls n="KĀTY. ŚR.">583,2</ls> v. u. <ls n="KĀTY. ŚR.">591,13.</ls> <ls n="KĀTY. ŚR.">640,1.</ls
+ls	614290	<ls>Verz. d. Oxf. H. 323,2</ls> v. u. <ls n="Verz. d. Oxf. H.">324,a,22.</ls>
+ls	614595	<ls>Verz. d. Oxf. H. 318,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">319,b, No. 758.</ls>
+ls	619809	<ls>KĀVYAPR. 82,1</ls> v. u. <ls n="KĀVYAPR.">83,1. 95,8.</ls> {#˚parArTatA#}
+ls	620804	<ls>UTTARARĀMAC. 33,1</ls> v. u. (<ls n="UTTARARĀMAC.">45,2</ls>) = <ls>MĀLATĪM. 145,15.</ls
+ls	626466	<ls>Verz. d. Oxf. H. 22,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">309,b,25.</ls> Ueber das <is>Nakṣa
+ls	631792	<ls>WILSON, SĀṂKHYAK. 10,1</ls> v. u. <ls>Verz. d. Oxf. H. 246,b, N. 4.</ls>
+ls	631891	f. H.">338,b,35.</ls> <ls n="Verz. d. Oxf. H.">339,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">339,b,13. 45.</ls> {#˚deSa#}
+ls	632066	<ls>Verz. d. Oxf. H. 313,a,6</ls> v. u. <ls n="Verz. d. Oxf. H.">316,a,2</ls> v. u. <ls n="Verz. d.
+ls	632066	H. 313,a,6</ls> v. u. <ls n="Verz. d. Oxf. H.">316,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">357,b,17</ls> v. u.
+ls	634394	<ls n="Verz. d. Oxf. H.">291,b,5</ls> v. u. <ls n="Verz. d. Oxf. H.">292,a,20.</ls> {#˚SAKA#}
+ls	634430	<ls>Verz. d. Oxf. H. 284,a,7</ls> v. u. <ls n="Verz. d. Oxf. H. 284,">b,12. 25. 27. 35. 47.</ls> <l
+ls	635190	. H.">276,b,39.</ls> <ls n="Verz. d. Oxf. H.">277,a,15</ls> v. u. <ls n="Verz. d. Oxf. H.">285,b, No. 669.</ls> <ls n="Verz. 
+ls	635190	Oxf. H. 22,b,24.</ls> <ls n="Verz. d. Oxf. H.">275,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">276,b,39.</ls> <ls n="Verz. d. Oxf
+ls	637714	<ls>Sp. 862, Z. 1</ls> v. u. <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2,7</ls> liest {#sAmavedaH#
+ls	637979	.">98,a,1. 5. 6.</ls> <ls n="Verz. d. Oxf. H.">109,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">322,a, No. 764.</ls> <lex>adj.</le
+ls	640531	Oxf. H. 313,b,3.</ls> <ls n="Verz. d. Oxf. H.">316,a,1</ls> v. u. <ls>Schol.</ls> zu <ls>PAÑCAV. BR. 2,15,3. 5,10,2.</ls>
+ls	641369	<ls>TS. Comm. 1,539,1</ls> v. u. <ls n="TS. Comm. 1,">540,3.</ls> {#˚homa#}
+ls	644057	 d. B. H. No. 1346.</ls> <ls>Verz. d. Oxf. H. 200,a,12</ls> v. u. <ls>BHĀG. P. 11,4,7.</ls>
+ls	649142	<ls>Verz. d. Oxf. H. 277,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">277,b,4.</ls> {#tayornirvartayAmAs
+ls	649964	n="KATHĀS. 103,">103.</ls> <ls>Verz. d. Oxf. H. 37,b,4</ls> v. u. <ls n="Verz. d. Oxf. H.">38,a,8.</ls> Hierher gehören auch 
+ls	653462	<ls>Verz. d. Oxf. H. 308,a,1</ls> v. u. <ls n="Verz. d. Oxf. H. 308,">b,3.</ls> <ls n="Verz. d. Oxf
+ls	653462	f. H. 308,">b,3.</ls> <ls n="Verz. d. Oxf. H.">314,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">316,b,12.</ls> <ls n="Verz. d. Oxf
+ls	654989	, No. 647. b,39.</ls> <ls n="Verz. d. Oxf. H.">277,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">283,a,29.</ls> <ls n="Verz. d. Oxf
+ls	654989	>295,a, No. 713.</ls> <ls n="Verz. d. Oxf. H.">291,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">292,b,7.</ls> <ls n="Verz. d. Oxf.
+ls	655401	<ls>Verz. d. Oxf. H. 315,a,5</ls> v. u. <ls n="Verz. d. Oxf. H.">357,b,6.</ls>
+ls	655663	Oxf. H. 266,b,3.</ls> <ls n="Verz. d. Oxf. H.">277,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">356,a,12.</ls> {#˚saMhitA#}
+ls	657112	xf. H. 312,b,16.</ls> <ls n="Verz. d. Oxf. H.">316,a,8</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a, No. 849. fg.</ls> Vgl. {#ku
+ls	658140	<ls>Verz. d. Oxf. H. 336,b,5</ls> v. u. <ls n="Verz. d. Oxf. H.">337,a,7.</ls>
+ls	658673	<ls n="Verz. d. Oxf. H.">86,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">211,b,32.</ls> {#˚BedAH#}
+ls	663530	<ls>Verz. d. Oxf. H. 316,a,8</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a, No. 849. fg.</ls>
+ls	663852	<ls>Verz. d. Oxf. 121,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">122,a,2. 4.</ls>
+ls	664433	<ls>Sp. 158, Z. 2</ls> v. u. <ls>Schol.</ls> zu <ls>BHĀG. P. 10,45,36</ls> ({#kalA#}
+ls	666738	<ls>Verz. d. Oxf. H. 225,a,1</ls> v. u. <ls n="Verz. d. Oxf. H. 225,">b,2.</ls> {%eine in Handlunge
+ls	668390	<ls>Verz. d. Oxf. H. 308,b,3</ls> und 1 v. u. <ls n="Verz. d. Oxf. H.">314,a,37.</ls> <ls n="Verz. d. Oxf
+ls	669548	VARĀH. BṚH. S. 8,37.</ls> <ls>Verz. d. Oxf. H. 331,b,2</ls> v. u. <ls>WEBER, JYOT. 99.</ls>
+ls	671198	ls>KĀVYĀD. 1,11. 23.</ls> <ls>Verz. d. Oxf. H. 198,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">199,a,1. fgg.</ls> <ls n="Verz. d.
+ls	672734	<ls>Verz. d. Oxf. H. 236,a,1</ls> v. u. <ls n="Verz. d. Oxf. H. 236,">b,6.</ls>
+ls	673403	<ls n="Verz. d. Oxf. H.">322,b,7</ls> v. u. <ls>WILSON, Sel. Works 1,23.</ls>
+ls	675733	xf. H. 306,a,14.</ls> <ls n="Verz. d. Oxf. H.">316,a,9</ls> v. u. <ls n="Verz. d. Oxf. H.">318,a,1.</ls> <ls n="Verz. d. Oxf.
+ls	678877	<ls>Verz. d. Oxf. H. 233,b,4</ls> v. u. <ls>HALL 16.</ls> {#curpatI#}
+ls	685424	<ls>MĀLATĪM. ed. LASS. 19,1</ls> v. u. <ls n="MĀLATĪM. ed. LASS.">20,1.</ls>
+ls	686018	<ls>Verz. d. Oxf. H. 338,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">340,a,5.</ls>
+ls	692610	<ls>Verz. d. Oxf. H. 278,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">287,a, No. 675.</ls> <ls n="Verz. 
+ls	693078	<ls>TBR. Comm. 1,114,3</ls> v. u. <ls>Schol.</ls> zu <ls>BHĀG. P. 4,19,35.</ls>
+ls	697689	<ls>Verz. d. Oxf. H. 225,a,9</ls> v. u. <ls>Spr. 4918.</ls>
+ls	697990	s>WILSON, Sel. Works 1,55. fg. 185. 238.</ls> <ls>Z. 6</ls> v. u. <ls>BHĀG. P. 3,1,19</ls> vom Schol. durch {#asaMskftadeha#}
+ls	698291	<ls>Verz. d. Oxf. H. 270,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">278,b,10.</ls> <ls n="Verz. d. Oxf
+ls	699129	<ls>Spr. 1115.</ls> <ls>Sp. 43, Z. 7</ls> v. u. <ls>NĪLAK.</ls> zu <ls>MBH. 4,253</ls> : {#zaqunnatA zawsu 
+ls	699130	Z. 6 v. u. <ls>NĪLAK.</ls> zu <ls>MBH. 5,3939</ls> : {#zawsu karapfzWa
+ls	702115	f. H.">311,b,20.</ls> <ls n="Verz. d. Oxf. H.">315,b,7</ls> v. u. <ls n="Verz. d. Oxf. H.">357,b,5.</ls>
+ls	704726	EBER, RĀMAT. UP. 327.</ls> <ls>Verz. d. Oxf. H. 85,a,2</ls> v. u. <ls n="Verz. d. Oxf. H. 85,">b,25.</ls> <ls n="Verz. d. Oxf
+ls	706683	 221,b, No. 538.</ls> <ls n="Verz. d. Oxf. H.">247,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">253,a,36.</ls> <ls n="Verz. d. Oxf
+ls	710266	<ls>Verz. d. Oxf. H. 236,a,2</ls> v. u. <ls n="Verz. d. Oxf. H. 236,">b,4.</ls> <ls n="Verz. d. Oxf
+ls	712250	<ls>Verz. d. Oxf. H. 236,a,1</ls> v. u. <ls n="Verz. d. Oxf. H. 236,">b,7.</ls>
+ls	712541	AŚCITTENDUŚ. 30,a,4.</ls> <ls>Verz. d. Oxf. H. 266,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">270,b,10.</ls> <ls n="Verz. d. Oxf
+ls	713777	<ls>Verz. d. Oxf. H. 350,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">351,b,1.</ls>
+ls	715177	<ls>UTTARARĀMAC. 92,1</ls> v. u. (<ls n="UTTARARĀMAC.">120,8</ls>).
+ls	715188	<ls>Verz. d. Oxf. H. 331,b,5</ls> v. u. <ls n="Verz. d. Oxf. H.">332,a,4.</ls>
+ls	725991	<ls>MUIR, ST. 2,181,1</ls> v. u. <ls n="MUIR, ST.">3,41,7.</ls> {#˚sUtrARi#}
+ls	726862	 B. H. No. 1021. fg.</ls> <ls>Verz. d. Oxf. H. 269,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">281,b,1</ls> v. u. <ls n="Verz. d.
+ls	726862	H. 269,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">281,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">286,a, No. 670.</ls> {#kejYopavIta
+ls	728153	<ls>MUDRĀR. 1,3</ls> v. u. <ls n="MUDRĀR.">141,6.</ls> {#vfdDeByaH SrUyate yaTA#}
+ls	733588	<ls>Verz. d. Oxf. H. 121,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">122,a,5.</ls>
+ls	734336	<ls>Verz. d. Oxf. H. 236,a,2</ls> v. u. <ls n="Verz. d. Oxf. H. 236,">b,8.</ls>
+ls	739927	ls> <ls n="BHĀG. P.">4,10,8.</ls> <ls>Ind. St. 8,311,1</ls> v. u. <ls>Schol.</ls> zu <ls>JAIM. 1,1,15.</ls> zu <ls>NAIṢ. 22,4
+ls	741964	<ls>Verz. d. Oxf. H. 7,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">292,a,1</ls> v. u.
+ls	744255	>Verz. d. B. H. 14,5.</ls> <ls>Verz. d. Oxf. H. 17,a,4</ls> v. u. <ls n="Verz. d. Oxf. H.">71,a,35.</ls> <ls n="Verz. d. Oxf.
+ls	746670	f. H.">312,b,17.</ls> <ls n="Verz. d. Oxf. H.">316,a,7</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a,25</ls> v. u. {#˚kAsa#}
+ls	749050	<ls>MADHUS.</ls> in <ls>Ind. St. 1,16,2</ls> v. u. <ls>Verz. d. Oxf. H. 138,b, No. 273.</ls> {#vyarIracat#}
+ls	758332	 199,b, No. 471.</ls> <ls n="Verz. d. Oxf. H.">200,a,4</ls> v. u. <ls n="Verz. d. Oxf. H. 200,">b,14. fg.</ls> <ls n="Verz. d
+ls	759188	<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,40,1</ls> v. u. <ls>MBH. 4,93.</ls> <ls n="MBH.">5,7426.</ls> <ls>R. 2,65,5
+ls	760692	Oxf. H.">80,a,25.</ls> <ls n="Verz. d. Oxf. H.">81,a,1</ls> v. u. <ls>WILSON, Sel. Works 1,12. fg. 252.</ls> <ls>SARVADARŚANA
+ls	763819	<ls>Verz. d. Oxf. H. 72,a,4</ls> v. u. <ls>Verz. d. B. H. No. 489.</ls>
+ls	772912	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,30. 60,3</ls> v. u. <ls n="Verz. d. B. H.">62,29</ls> (sg. und pl.). <ls>MBH. 2
+ls	782971	>BṚH. ĀR. UP. S. 117.</ls> Schol. zu <ls>KĀTY. ŚR. 4,4</ls> v. u. <ls n="KĀTY. ŚR.">32,7</ls> v. u. Schol. zu <ls>P. 7,1,100.
+ls	783539	 5,437. fgg. 446. fg.</ls> <ls>Verz. d. B. H. 71, Z. 4</ls> v. u. <ls n="Verz. d. B. H.">No. 309. fg. 312. 327.</ls> <ls>Verz
+ls	785266	Oxf. H. 105,a,4.</ls> <ls n="Verz. d. Oxf. H.">339,a,2</ls> v. u. <ls>PAÑCAR. 3,4,13.</ls> <ls n="PAÑCAR. 3,">6,21</ls> ({#az
+ls	789664	n <ls>ŚATAKĀV. S. 29.</ls> Comm. zu <ls>KĀTY. ŚR. 85,3</ls> v. u. <ls n="KĀTY. ŚR.">86,1.</ls> {#Alocayanto vistAramamBasAM d
+ls	790957	s>BHĀG. P. 4,11,17.</ls> <ls>Verz. d. Oxf. H. 320,b,10</ls> v. u. <ls>PAÑCAT. 99,25.</ls> <ls n="PAÑCAT.">100,23.</ls> <ls>Sp
+ls	791378	<ls>SIDDH. K. 251,a,2</ls> v. u.). <ls>AK. 2,6,2,15.</ls> <ls>H. 621.</ls> <ls>H. an.</ls> <
+ls	791840	<ls>KUSUM. 4,1</ls> v. u. <ls>BHĀṢĀP. 62.</ls> <ls>Schol.</ls> zu <ls>P. 2,1,3.</ls> 
+ls	792676	<ls>Verz. d. Oxf. H. 7,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">8,a,15.</ls> <ls>Ind. St. 1,18,6.<
+ls	792846	<ls>VARĀH. BṚH. S. 2, S. 4, Z. 2</ls> v. u. <ls n="VARĀH. BṚH. S.">101,14.</ls> <ls>SARVADARŚANAS. 158,
+ls	797144	<ls>Verz. d. Oxf. H. 100,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">370,a, No. 213.</ls> <ls>COLEBR. M
+ls	804915	>178,b, No. 405.</ls> <ls n="Verz. d. Oxf. H.">182,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">185,a, No. 421.</ls> <ls>GILD. Bib
+ls	808389	<ls>SĀH. D. 426.</ls> <ls>Verz. d. Oxf. H. 210,b,4</ls> v. u. <ls n="Verz. d. Oxf. H.">211,a,8</ls> und 2 v. u. {#varRyas
+ls	814709	s>KATHĀS. 33,43. fgg.</ls> <ls>Verz. d. Oxf. H. 90,b,6</ls> v. u. <ls>PAÑCAT. 170,23.</ls>
+ls	822831	UP. S. 83. 100. 292.</ls> Schol. zu <ls>KĀTY. ŚR. 72,5</ls> v. u. <ls n="KĀTY. ŚR.">88,13.</ls> <ls n="KĀTY. ŚR.">107,12.</ls
+ls	822887	xf. H. 162,b,23.</ls> <ls n="Verz. d. Oxf. H.">182,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">188,a,27. fg.</ls> <ls n="Verz. d.
+ls	824977	<ls>Verz. d. Oxf. H. 318,b,5</ls> v. u. <ls>Verz. d. B. H. No. 949.</ls>
+ls	825289	ŚĀRṄG. SAṂH. 1,7,70.</ls> <ls>Verz. d. Oxf. H. 316,a,3</ls> v. u. <ls>Verz. d. B. H. No. 965.</ls>
+ls	827358	Oxf. H.">74,b,17.</ls> <ls n="Verz. d. Oxf. H.">75,a,1</ls> v. u. <ls>WILSON, Sel. Works II,215.</ls>
+ls	827443	Oxf. H.">59,a,40.</ls> <ls n="Verz. d. Oxf. H.">65,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">79,b,36.</ls> <ls>MADHUS.</ls> in 
+ls	828279	H.">84, No. 142.</ls> <ls n="Verz. d. Oxf. H.">182,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">270,b,41.</ls> <ls>Verz. d. B. H. 
+ls	836015	</ls> ein Lexicograph <ls n="Verz. d. Oxf. H.">182,b,2</ls> v. u. <ls>MED. Anh. 4.</ls> <ls>HĀR. 273.</ls> <ls>UJJVAL.</ls> z
+ls	838924	VARĀH. BṚH. S. 8,38.</ls> <ls>Verz. d. Oxf. H. 331,b,2</ls> v. u. <ls>WEBER, JYOT. 24. 99.</ls> <ls>Journ. of the Am. Or. S. 
+ls	840430	>M. 3,148.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 422,1</ls> v. u. <ls n="KĀTY. ŚR.">423,1.</ls>
+ls	846274	<ls n="Verz. d. Oxf. H.">116,b,3</ls> v. u. <ls>KATHĀS. 28,40.</ls> <ls n="KATHĀS.">63,85.</ls> {%unter
+ls	847893	. Oxf. H. 19,a,7.</ls> <ls n="Verz. d. Oxf. H.">97,a,2</ls> v. u. <ls>DAŚAK. 142,6. 197,11</ls>; vgl. {#vinDyakElAsavAsinI#}
+ls	849656	<ls>WINDISCHMANN, <is>Sancara</is> 93,1</ls> v. u. <ls>SARVADARŚANAS. 116,20. 129,7.</ls> {#kAryakAraRaBAve ca
+ls	849729	<ls>YĀJÑ. 2,304.</ls> <ls>Verz. d. Oxf. H. 276,a,4</ls> v. u. <ls>BHĀG. P. 5,9,2.</ls> {%eines gelehrten Brahmanen%} Cit.
+ls	849883	2,12</ls>). <ls>DAŚAK. 69,4.</ls> <ls>KUVALAY. 151,b,1</ls> v. u. <ls>KUSUM. 8,16.</ls> {#upADyAyAt#} {%das Getäuschtwerden%}
+ls	850630	n="P.">8,4,11.</ls> <ls>Verz. d. Oxf. H. 165,a,21. b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">350,b,16.</ls> <ls>SARVADARŚANAS. 
+ls	856315	<ls>Verz. d. Oxf. H. 161,a,6</ls> v. u. <ls>ŚIŚ. 1,29.</ls> {#adaBrakaruRa#}
+ls	856686	RK. P. S. 657, Z. 4.</ls> <ls>Verz. d. Oxf. H. 200,a,1</ls> v. u. <ls>SARVADARŚANAS. 19,5.</ls> mit acc. der Sache: {#priyamu
+ls	856879	>176,b, No. 401.</ls> <ls n="Verz. d. Oxf. H.">207,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">219,b, No. 525.</ls> <ls>KUSUM. 57
+ls	858222	, No. 489. b,26.</ls> <ls n="Verz. d. Oxf. H.">209,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">210,b, No. 497.</ls> <ls n="Verz. 
+ls	863055	<ls>LALIT. ed. Calc. 5,1</ls> v. u. <ls>BURN. Intr. 222.</ls> <ls>Lot. de la b. l. 504.</ls> <l
+ls	866911	f. H.">268,a,42.</ls> <ls n="Verz. d. Oxf. H.">269,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">270,b,44.</ls> <ls n="Verz. d. Oxf
+ls	867212	f. H.">125,a,41.</ls> <ls n="Verz. d. Oxf. H.">182,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">185,b,16. 42.</ls> <ls n="Verz. d.
+ls	868070	f. H.">316,b,10.</ls> <ls n="Verz. d. Oxf. H.">357,a,4</ls> v. u. <ls>Verz. d. B. H. No. 975.</ls> {#˚klinnavigraha#}
+ls	871273	. 95,b,16.</ls> <ls n="Verz. d. Oxf. H.">101,a,27. b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">292,b,16.</ls>
+ls	874618	<ls>MIT. I,23,a,3</ls> v. u. <ls>SUŚR. 1,129,1. 10.</ls> {%über 80 Jahre alt%}
+ls	874774	<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93,1</ls> v. u. <ls>Verz. d. Oxf. H. 278,a,15.</ls> <ls>Verz. d. Cambr. H. 
+ls	875598	> <ls>MĀRK. P. 16,85.</ls> <ls>Verz. d. Oxf. H. 11,b,7</ls> v. u. <ls n="Verz. d. Oxf. H.">146,b,1.</ls> <ls n="Verz. d. Oxf.
+ls	877703	/ls> <ls n="M.">9,66.</ls> <ls>Verz. d. Oxf. H. 12,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">13,a,1.</ls> <ls n="Verz. d. Oxf. 
+ls	878339	 GORR.">3,53,41.</ls> <ls>VARĀH. BṚH. S. 2, S. 3, Z. 1</ls> v. u. <ls n="VARĀH. BṚH. S.">69,14.</ls> <ls>BṚH. 14,5.</ls> <ls>
+ls	883160	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,3</ls> v. u. <ls>MBH. 13,6255.</ls>
+ls	886813	</ls> <ls>HALĀY. 1,2</ls> <ls>Verz. d. Oxf. H. 182,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">188,a,7.</ls> <ls n="Verz. d. Oxf.
+ls	889777	 4.</ls> <ls>NĪLAK. 53. 64.</ls> <ls>MUIR, ST. 2,217,4</ls> v. u. <ls>SĀH. D. 5,15.</ls> <ls n="SĀH. D.">6,12.</ls> <ls n="SĀ
+ls	890292	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 4</ls> v. u. <ls>KĀM. NĪTIS. 14,2.</ls> <ls>Spr. 2007.</ls> <ls n="Spr."
+ls	891210	<ls>Verz. d. Oxf. H. 44,a,5</ls> v. u. <ls n="Verz. d. Oxf. H.">71,a,45.</ls>
+ls	891379	xf. H. 160,a,29.</ls> <ls n="Verz. d. Oxf. H.">182,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">188,a,28.</ls> <ls n="Verz. d. Oxf
+ls	893235	n <ls>Ind. St. 2,66.</ls> <ls>Verz. d. Oxf. H. 225,a,8</ls> v. u. <ls>BHĀG. P. 3,26,37</ls> (= {#melanaM tfRAdeH#} Comm.). vo
+ls	895170	<ls>SIDDH. K. 249,b,2</ls> v. u. <ls>Verz. d. Oxf. H. 167,a,29.</ls> {%Schaar, Haufen, Trupp
+ls	895253	ls n="MBH.">13,2621.</ls> <ls>Verz. d. Oxf. H. 282,a,3</ls> v. u. <ls>VARĀH. BṚH. S. 87,39.</ls> <ls>PRĀYAŚCITTEND. 32,b,7.</
+ls	896396	1,1,10,2.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 385,3.</ls> v. u. <ls n="KĀTY. ŚR.">394,2.</ls>
+ls	906153	<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1,39,2</ls> v. u. <ls>M. 3,107.</ls> <ls n="M.">4,29.</ls> <ls n="M. 4,">202.
+ls	909457	<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,40,2.</ls> v. u. <ls>MBH. 8,1800.</ls> <ls n="MBH. 8,">1814.</ls> <ls>R. 4,1
+ls	912245	<ls>Verz. d. Oxf. H. 270,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">279,b,14.</ls>
+ls	912448	> <ls>TAITT. ĀR. 1,22,10.</ls> <ls>Verz. d. B. H. 60,3</ls> v. u. <ls n="Verz. d. B. H.">62,30.</ls> <ls>Verz. d. Oxf. H. 58,
+ls	912976	v. u. <ls n="Verz. d. Oxf. H.">379,a,14.</ls>
+ls	914561	v. u. <ls n="Verz. d. Oxf. H.">190,b,17.</ls>
+ls	923618	v. u. <ls>WISE 269.</ls>
+ls	924371	ls n="VARĀH. BṚH. S.">77,3.</ls> <ls>MUIR, ST. 4,298,1</ls> v. u. <ls>BHĀG. P. 10,63,35.</ls> <ls>LALIT. ed. Calc. 377,15.</l
+ls	925964	<ls>Verz. d. Oxf. H. 44,a,4</ls> v. u. <ls>HALL 154.</ls>
+ls	929089	<ls>Verz. d. B. H. 288,3.</ls> v. u. <ls>Verz. d. Oxf. H. 34,a,18.</ls> {#vAcaH#}
+ls	931374	v. u. <ls n="Verz. d. Oxf. H.">316,a,2.</ls>
+ls	931375	v. u. <ls n="Verz. d. Oxf. H.">357,a, No. 849. fg.</ls>
+ls	933077	v. u. <ls n="Verz. d. Oxf. H.">46,a,35.</ls>
+ls	933079	v. u. <ls n="Verz. d. Oxf. H.">81,a,14.</ls>
+ls	934109	v. u. <ls n="Verz. d. Oxf. H.">248,a,7.</ls>
+ls	937364	<ls>KĀD. (ed. Calc. 1862) 9,7. 10,2</ls> v. u. <ls n="KĀD. (ed. Calc. 1862)">17,4.</ls> {#SyAmAyita#} ({#d
+ls	937566	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,2</ls> v. u. <ls>Verz. d. Oxf. H. 53,a,19. fg.</ls>
+ls	942207	<ls>Verz. d. B. H. 124,8</ls> v. u. <ls>Verz. d. Oxf. H. 264,a,13.</ls>
+ls	942357	v. u. <ls>MBH. 1,2507.</ls> <ls n="MBH.">3,10960</ls> (hier neutr
+ls	946044	v. u. <ls n="Verz. d. Oxf. H. 208,">b,24.</ls>
+ls	947855	v. u. <ls>Verz. d. B. H. No. 955. 965. fgg. 972. 975. 993. 996.</
+ls	947979	v. u. <ls>Verz. d. B. H. No. 996.</ls>
+ls	949801	"KĀTY. ŚR. 3,">216,21.</ls> <ls n="KĀTY. ŚR. 3,">255,4</ls> v. u. <ls n="KĀTY. ŚR. 3,">256,11.</ls>
+ls	949889	v. u. <ls n="KĀTY. ŚR.">487,6.</ls>
+ls	950354	v. u. <ls>MĀRK. P. 60,2</ls> ({#plakzazaRqaH#} zu lesen).
+ls	954472	s>GOTAMA</ls>) <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u. <ls>COLEBR. Misc. Ess. 1,291.</ls> in der <is>Pūrvamīmāṃsā<
+ls	955184	v. u. <ls>PRĀYAŚCITTEND. 72,a,7.</ls> {#DImatAm#} {%Verkehr mit%}
+ls	955853	v. u. <ls n="Verz. d. Oxf. H.">230,a,26. fgg.</ls>
+ls	956435	Calc. 122,21.</ls> <ls>WEBER</ls>, <ls>VAJRASŪCI 224,4</ls> v. u. <ls>SĀH. D. 4,15.</ls> <ls n="SĀH. D.">8,5.</ls> <ls>SARVAD
+ls	957722	<ls>VIṢṆU</ls> in <ls>DĀYABH. 272,2</ls> v. u. <ls>M. 8,364.</ls> <ls n="M. 8,">368.</ls> <ls>YĀJÑ. 2,288.
+ls	959438	v. u. <ls n="Verz. d. Oxf. H. 181,">b,4</ls>
+ls	959439	v. u. <ls n="Verz. d. Oxf. H.">183,a,21.</ls>
+ls	960838	v. u. <ls>WILSON, Sel. WORKS 2,226. 228. fg.</ls> {#˚svAmin#} <le
+ls	960875	v. u. <ls>RĀJA-TAR. 1,69.</ls> {#dakziRAnAm#} {%um%}
+ls	964299	v. u. <ls>RĀJA-TAR. 4,43.</ls> <ls>BHĀG. P. 5,26,14.</ls> <ls>PAÑ
+ls	964400	v. u. <ls n="Verz. d. Oxf. H.">162,a,1.</ls>
+ls	966818	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 10.</ls> v. u. <ls>RĀJA-TAR. 6,59.</ls> <ls>MĀRK. P. 23,115.</ls> <ls>BHĀG
+ls	969729	/ls> <ls n="TS. PRĀT.">16,29.</ls> zu <ls>TBR. 1,129,1</ls> v. u. <ls n="TBR.">3,564,11.</ls> <ls>KULL.</ls> zu <ls>M. 9,153.
+ls	970077	<ls>VARĀH. BṚH. S. 2, S. 5, Z. 1</ls> v. u. <ls>BṚH. 28 (26),1.</ls>
+ls	972067	s>MĀLATĪM. 17,9.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 3</ls> v. u. <ls>KATHĀS. 11,57</ls> (zugleich {%Schmerz%}). {#jvara˚#}
+ls	972392	<ls>DĀYABH. 330,4.</ls> v. u. <ls n="DĀYABH.">331,3.</ls> v. u.
+ls	972890	<ls>MĀRK. P. 62,24.</ls> <ls n="MĀRK. P.">S. 659, Z. 1</ls> v. u. <ls>BHĀG. P. 1,12,17.</ls> <ls>VET. in LA. (III) 17,7.</ls>
+ls	973349	 Schol. <ls>ṚT. 1,7.</ls> <ls>Verz. d. Oxf. H. 311,a,5</ls> v. u. <ls>Spr. (II) 6044.</ls> <ls>VARĀH. BṚH. S. 51,8.</ls> <ls 
+ls	975303	<ls>DATTAC. 73,1</ls> v. u. <ls n="DATTAC.">74,1.</ls>
+ls	977160	v. u. <ls n="Verz. d. Oxf. H.">173,b,3</ls> v. u.
+ls	979879	v. u. <ls n="Verz. d. Oxf. H.">259,a, N. 4.</ls>
+ls	989191	<ls>DAŚAK. 80,1</ls> v. u. <ls n="DAŚAK.">86,5.</ls>
+ls	991335	> in <ls>Ind. St. 9,93. 98.</ls> <ls>MUIR, ST. 4,299,3</ls> v. u. <ls>M. 1,8.</ls> <ls n="M. 1,">22.</ls> <ls n="M. 1,">25.</
+ls	992138	<ls>MUIR, ST. 4,299,3</ls> v. u. <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9,93.</ls> {#prajAvi
+ls	993519	xf. H. 120,a,34.</ls> <ls n="Verz. d. Oxf. H.">170,b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">264,a,2.</ls> <ls>KATHĀS. 15,83.</
+ls	998000	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 61,6</ls> v. u. <ls>M. 2,132.</ls> <ls n="M. 2,">210.</ls> <ls n="M.">3,4.<
+ls	1000200	<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91,2</ls> v. u. <ls>MBH. 1,6988.</ls> <ls n="MBH.">2,297.</ls> <is>Sārñjaya
+ls	1005115	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 5</ls> v. u. <ls>KATHĀS. 35,39.</ls>
+ls	1005123	v. u. <ls>AK. 1,1,7,16.</ls> <ls>H. 283.</ls> <ls n="H.">295.</ls
+ls	1011426	 Oxf. H. 86,b,37.</ls> <ls n="Verz. d. Oxf. H.">92,b,2</ls> v. u. <ls>HALL</ls> in der Einl.
+ls	1012061	s> <ls>RĀJA-TAR. 4,126.</ls> <ls>Z. d. d. m. G. 6,95,4</ls> v. u. <ls>BHĀG. P. 1,17,36.</ls> <ls n="BHĀG. P.">4,13,6.</ls> <l
+ls	1013187	f. H.">183,a,3.</ls> <ls n="Verz. d. Oxf. H.">187,b,18</ls> v. u. <ls n="Verz. d. Oxf. H.">188,a,20. 25. 27.</ls> <ls n="Verz
+ls	1016421	v. u. <ls>HALL 166.</ls> {#˚divAkft#} ebend. {#˚vAkyakAra#}
+ls	1018993	<ls>Verz. d. Oxf. H. 150,b,6</ls> v. u. <ls n="Verz. d. Oxf. H.">151,a,17.</ls>
+ls	1025899	<ls>Spr. (II) 5913.</ls> <ls>Verz. d. Oxf. H. 121,b,12</ls> v. u. <ls n="Verz. d. Oxf. H.">141,b, No. 289, Z. 16.</ls> <ls n=
+ls	1029699	 <ls>KATHĀS. 55,180.</ls> <ls>Verz. d. Oxf. H. 47,a,15</ls> v. u. <ls n="Verz. d. Oxf. H.">123,a,46.</ls> <ls>PAÑCAT. 31,4.</
+ls	1032530	<ls>ṚT. 2,22. 4,11.</ls> <ls>Verz. d. Oxf. H. 17,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">130,b,6.</ls> <ls>PAÑCAR. 1,6,39.<
+ls	1037172	H.">235,a,6. 18.</ls> <ls n="Verz. d. Oxf. H.">236,a,2</ls> v. u. <ls n="Verz. d. Oxf. H. 236,">b,4. 6.</ls> <ls>BHĀG. P. 2,2
+ls	1038759	s n="PAÑCAR.">2,2,68.</ls> <ls>Verz. d. Oxf. H. 92,b,7</ls> v. u. <ls>PAÑCAT. 120,12.</ls> <ls>HIT. 34,20.</ls> {#daMzwrA sUk
+ls	1038888	ls> <ls>HARIV. 8616.</ls> <ls>Verz. d. Oxf. H. 47,a,11</ls> v. u. <ls>BHĀG. P. 4,1,26.</ls> <ls n="BHĀG. P.">12,10,34.</ls>
+ls	1039069	ss. 1,245. 372. 418.</ls> <ls>Verz. d. Oxf. H. 226,a,2</ls> v. u. <ls>BHĀG. P. 2,10,34</ls> ({#˚tama#}).
+ls	1040373	ls> <ls>SĀH. D. 287.</ls> <ls>Verz. d. Oxf. H. 135,a,6</ls> v. u. <ls>ŚĀK. 3,6. fgg.</ls> <ls>VIKR. 3,6. fgg.</ls> <ls>MĀLAV.
+ls	1043463	 Oxf. H. 29,b,6.</ls> <ls n="Verz. d. Oxf. H.">139,a,3</ls> v. u. <ls n="Verz. d. Oxf. H.">143,a,5.</ls> <ls n="Verz. d. Oxf.
+ls	1044387	<ls>BHĀVAPR.</ls> in <ls>Verz. d. Oxf. H. 311,a,2</ls> v. u. <ls>SUŚR. 1,35,1. 86,14. 262,3. 337,12. 338,17.</ls> <ls>AI
+ls	1046971	<ls>Verz. d. B. H. 840. 939 (287,4</ls> v. u.). <ls>Verz. d. Cambr. H. 30. fg. 43. 50.</ls>
+ls	1047478	<ls>Verz. d. B. H. 142,6</ls> v. u. <ls>Verz. d. Oxf. H. 60,a,28.</ls> <ls n="Verz. d. Oxf. H."
+ls	1048537	<ls n="Verz. d. B. H.">113,2</ls> v. u. <ls>Verz. d. Oxf. H. 341,b, No. 799.</ls> <ls>VP. 363. fgg.
+ls	1055216	z. d. B. H. No. 737.</ls> <ls>Verz. d. Oxf. H. 174,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">175,a,2.</ls> Comm. zu <ls>TS. PRĀ
+ls	1058833	<ls>MBH. 1,2030.</ls> <ls>Verz. d. Oxf. H. 267,b,1</ls> v. u. <ls>BHĀG. P. 12,6,27.</ls> {#sahAyavatisarvArTAH saMtizWant
+ls	1059683	ls>KĀTY. ŚR. 4,11,8.</ls> <ls>Verz. d. Oxf. H. 216,b,1</ls> v. u. <ls>ŚAṂK.</ls> zu <ls>KAṬHOP. 5,1.</ls> zu <ls>BṚH. ĀR. UP.
+ls	1059759	<ls n="Verz. d. Oxf. H.">277,a,19</ls> v. u. <ls n="Verz. d. Oxf. H.">332,b, No. 783.</ls> Inschr. in <l
+ls	1061494	226,a, No. 554.</ls> <ls n="Verz. d. Oxf. H.">229,a,18</ls> v. u. <ls n="Verz. d. Oxf. H.">231,b,2. 5.</ls> <ls>Verz. d. B. H
+ls	1061494	RĀMAT. UP. 338. 342.</ls> <ls>Verz. d. Oxf. H. 225,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">226,a, No. 554.</ls> <ls n="Verz. 
+ls	1062533	Spr. (II)">7239.</ls> <ls>VARĀH. BṚH. S. 2, S. 3, Z. 3</ls> v. u. <ls n="VARĀH. BṚH. S.">43,56.</ls> <ls n="VARĀH. BṚH. S.">4
+ls	1062618	Oxf. H.">41,a,29.</ls> <ls n="Verz. d. Oxf. H.">93,a,4</ls> v. u. <ls n="Verz. d. Oxf. H.">286,a, No. 670.</ls> Titel einer S
+ls	1062716	<ls>KATHĀS. 26,169.</ls> <ls>Verz. d. Oxf. H. 311,a,4</ls> v. u. <ls>PAÑCAT. 182,17.</ls> {#˚nirmitAH pASA#}
+ls	1064746	s n="Spr. (II)">7250.</ls> <ls>Verz. d. Oxf. H. 61,b,5</ls> v. u. <ls>KATHĀS. 56,252.</ls>
+ls	1065474	"BHĀG. P. 5,">20,29.</ls> <ls>Verz. d. Oxf. H. 110,a,5</ls> v. u. <ls n="Verz. d. Oxf. H.">173,b, No. 389.</ls> <ls n="Verz. 
+ls	1065605	<ls>Verz. d. Oxf. H. 173,b,1</ls> v. u. <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 289.</ls>
+ls	1065612	<ls>NAIṢ. 12,86.</ls> <ls>Verz. d. Oxf. H. 222,a,9</ls> v. u. <ls>SARVADARŚANAS. 141,4.</ls>
+ls	1067060	<ls n="KĀTY. ŚR. 402,">8.</ls> <ls n="KĀTY. ŚR.">622,3</ls> v. u. <ls n="KĀTY. ŚR.">1055,6.</ls> <ls>Schol.</ls> zu <ls>KAP. 
+ls	1067513	,34.</ls> <ls n="Verz. d. Oxf. H.">273,a, No. 647. b,2</ls> v. u. <ls n="Verz. d. Oxf. H.">278,b,3.</ls> <ls n="Verz. d. Oxf.
+ls	1068695	<ls>MĀRK. P. 46,20.</ls> <ls>Verz. d. Oxf. H. 47,b,1.</ls> v. u. <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 268.</ls>
+ls	1068790	ls n="SUŚR.">277,17.</ls> <ls>Verz. d. Oxf. H. 315,a,4</ls> v. u. <ls>Verz. d. B. H. No. 958.</ls> {#jalasrAva#}
+ls	1074960	s n="Spr. (II)">3567.</ls> <ls>Verz. d. Oxf. H. 49,b,2</ls> v. u. <ls>VP. 147.</ls> <ls>MĀRK. P. 109,64.</ls> <ls>BHĀG. P. 5,
+ls	1076210	<ls>R. ed. SCHL. II,147, Z. 3</ls> v. u. <ls>Ind. St. 8,376,1.</ls>
+ls	1076818	<ls>Verz. d. Oxf. H. 88,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">89,a,34. fg.</ls> <ls n="Verz. d. 
+ls	1077347	 n="BHĀG. P. 6,">4,1.</ls> <ls>Verz. d. Oxf. H. 48,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">85,a,2.</ls> {#sarga#}
+ls	1079480	<ls n="Verz. d. Oxf. H.">89,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">123,a,2</ls> v. u. <ls n="Verz. d.
+ls	1079480	H.">89,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">123,a,2</ls> v. u. <ls n="Verz. d. Oxf. H.">224,b,10.</ls> <ls n="Verz. d. Oxf
+ls	1079579	<ls>SĀH. D. 171,3</ls> v. u. <ls>AK. 1,1,7,15.</ls> <ls>H. 334.</ls>
+ls	1081970	<ls>Verz. d. Oxf. H. 1,a,13</ls> v. u. = <ls>Verz. d. B. H. 104.</ls>
+ls	1083507	="RĀJA-TAR. 5,">121.</ls> <ls>Verz. d. Oxf. H. 57,a,19</ls> v. u. <ls n="Verz. d. Oxf. H.">160,b,9</ls> (med.). <ls>LA. (III)
+ls	1083900	ls>Verz. d. Oxf. H. 251,a,4.</ls> <ls>MUIR, ST. 4,43,3</ls> v. u. <ls>MADHUS.</ls> in <ls>Ind. St. 1,19,2</ls> v. u. Comm. zu
+ls	1085535	 d. Oxf. H. 284,b,12.</ls> <ls>Verz. d. Cambr. H. 64,8</ls> v. u. <ls>Verz. d. B. H. No. 1216. fg.</ls>
+ls	1086421	648.</ls> <ls n="RĀJA-TAR.">7,798.</ls> <ls>DAŚAK. 8,1</ls> v. u. <ls>WILSON, Sel. Works 1,181. 362.</ls> <ls>Verz. d. B. H. 
+ls	1086590	f. H.">223,a,10.</ls> <ls n="Verz. d. Oxf. H.">273,b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">280,a,7.</ls> <ls n="Verz. d. Oxf.
+ls	1087731	. 8.</ls> <ls n="Verz. d. Oxf. H.">273,a, No. 647. b,1</ls> v. u. <ls n="Verz. d. Oxf. H.">274,a, No. 649.</ls> <ls n="Verz. 
+ls	1089812	z. d. Oxf. H.">251,b,16.</ls> <ls>Verz. d. B. H. 112,6</ls> v. u. <ls>HIT. ed. JOHNS. 1704.</ls> <ls>ŚATR. 10,400.</ls> <ls>L
+ls	1093116	. 312,b,29. fgg.</ls> <ls n="Verz. d. Oxf. H.">316,a,6</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a, No. 849. fg.</ls> <ls>HARIV
+ls	1093729	s n="R. 6,">108,20.</ls> <ls>Verz. d. Oxf. H. 17,b,11.</ls> v. u. <ls n="Verz. d. Oxf. H.">72,a,21.</ls> <ls n="Verz. d. Oxf.
+ls	1097774	xf. H. 306,b,27.</ls> <ls n="Verz. d. Oxf. H.">316,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">357,a, No. 849. fg.</ls> <ls>VARĀH
+ls	1098413	 1,2,45.</ls> <ls>TARKAS. 40.</ls> <ls>Ind. St. 1,18,4</ls> v. u. <ls>Verz. d. Oxf. H. 240,b, No. 586.</ls> <ls>Verz. d. B. H
+ls	1099046	xf. H. 161,b,10.</ls> <ls n="Verz. d. Oxf. H.">175,b,1</ls> v. u. <ls>Verz. d. Cambr. H. 14.</ls>
+ls	1099105	70. 1176. 1178. 1403.</ls> <ls>Verz. d. Oxf. H. 37,b,3</ls> v. u. <ls n="Verz. d. Oxf. H.">38,a,8. b,15.</ls> <ls n="Verz. d.
+ls	1099105	f. H.">309,a,37.</ls> <ls n="Verz. d. Oxf. H.">341,a,1</ls> v. u. <ls>HALL 18. 174. 176. 183.</ls> <ls>BURNOUF</ls> in <ls>BH
+ls	1100454	<ls>MED. r. 103.</ls> <ls>VARĀH. BṚH. S. 2, S. 5, Z. 5</ls> v. u. <ls>BṚH. 1,3. 9. 11.</ls> <ls>LAGHUJ. 1,9. 23.</ls> <ls>YOG
+ls	1100478	<ls>VARĀH. BṚH. S. 2, S. 5, Z. 5</ls> v. u. <ls>Verz. d. B. H. No. 858.</ls> <ls>Verz. d. Oxf. H. 329,a
+ls	1107026	(vgl. Z. 3 v. u.) <ls>CARAKA 3,8.</ls>
+ls	1107803	Z. 4 v. u. <ls>M. 12,37</ls> ist der infin. passivisch aufzufassen; ma
+ls	1114919	<ls>LALIT. ed. Calc. 169,2</ls> v. u. <ls>HIOUEN-THSANG 1,60</ls> (hier fälschlich {#Sruti#}).
+ls	1124158	<ls>Sp. 543, Z. 13</ls> v. u. <ls>MBH. 8,2059</ls> ist zu {#avalipta#} zu stellen.
+längenparallaxe	1085039	> <ls>UTPALA</ls> zu <ls n="VARĀH. BṚH.">2, S. 4, Z. 6</ls> v. u. {%Längenparallaxe%}
+m	549836	s> zu <ls>UṆĀDIS. 1,113.</ls> m. <ls>SIDDH. K. 249,b,1</ls> v. u. m. n. <ls n="SIDDH. K.">251,b,1.</ls> <is>gaṇa</is> {#arDar
+m	870196	<ls>UṆĀDIS. 4,72.</ls> f. <ls>SIDDH. K. 247,b,1</ls> v. u. m. f. <ls>AK.</ls> <ls>MED.</ls>
+mahaparinirvarasutra	420306	<ls>KÖPPEN a. a. O.</ls> <ls>LALIT. ed. Calc. 39,4</ls> v. u. {#mahAparinirvARasUtra#}
+mangalyam	547430	ls n="PAÑCAR.">2,1,8.</ls> <ls>Verz. d. Oxf. H. 20,a,4</ls> v. u. {#maNgalyaM maNgalaM vizRuM vareRyamanaGaM Sucim#}
+marmasamdizu	565423	H. 305,a,1</ls> v. u. <ls n="Verz. d. Oxf. H.">311,a,5</ls> v. u. {#marmasaMDizu#} (<is>Dvaṃdva</is>)
+marqalah	927918	<ls>VARĀH. BṚH. S. 4, Z. 3</ls> v. u. {#˚maRqalaH SaSI#}
+marqavyah	578941	<ls>Schol.</ls> zu <ls>VEDĀNTAS. 97,2</ls> v. u. {#mARqavyAH#} {%die Nachkommen des%} <is>Māṇḍavya</is>
+matra	491935	<ls>Ind. St. 3,280,1</ls> v. u. {#˚mAtra#} <lex>adj.</lex> (f. {#I): AsandyAH prAdeSamAtrAH
+mayaya	810451	v. u. {#mAyayA#}
+med	1063745	eib <ls>KATHĀS. 34,9.</ls> <ls>Verz. d. Oxf. H. 59,b,1</ls> v. u. (med.). {#mAmakANgAni mA sprAkzIH#}
+mine	195551	<ls>SIDDH. K. 247,b,2</ls> v. u. {%Mine, Fundgrube für Edelsteine%}
+mit	407736	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,1</ls> v. u. mit dem patron. {#kApya#}
+mit	407901	<ls>VP.</ls> bei <ls>MUIR, Sanscrit Texts I,146,1</ls> v. u. Mit Ergänzung von {#garBasya#} so v. a. {%Fehlgeburt%}
+mowakam	604061	<ls>Verz. d. B. H. 283,13</ls> v. u. {#mowakaM netrarogARAm#} {%eine Pille gegen Augenübel%}
+muktastato	335033	<ls>PADDH.</ls> zu <ls>KĀTY. ŚR. 286,4</ls> v. u. {#muktastato yadi banDAddevadatta upAcCinatti tasmAdapi viz
+mukyah	401388	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,1</ls> v. u. {#muKyaH pakzaH#} {%eine vorzügliche Idee%}
+n	125439	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,7</ls> v. u. — N. eines <is>Sāman</is>
+n	250732	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,4</ls> v. u. N. pr. eines Fürsten (vgl. {#Cagala#} 1,c)
+n	335048	<ls>Verz. d. B. H. 420,a,3</ls> v. u. — N. pr. eines <is>Nāga</is>
+nach	372278	<ls>MIT. II,91,b,3</ls> v. u. (nach
+nach	386681	<ls>VARĀH. BṚH. S.</ls> in <ls>Verz. d. B. H. 243,4</ls> v. u. Nach dem
+nach	667257	<ls>TBR. Comm. 2,671,2</ls> v. u. Nach den mahrattischen Erklärungen zu <ls>ŚĀRṄG. SAṂH. 1,5,
+nach	698598	<ls>SARVADARŚANAS. 77,3</ls> v. u. Nach ihm benannt die Secte {#nakulISapASupata#} ebend. 74. 
+nagaram	407994	<ls>ADBH. BR.</ls> in <ls>Ind. St. 1,39,2</ls> v. u. {#nagaraM patAkADvajamAlinam#}
+nahyavijyataya	477385	s> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 32,a,1</ls> v. u. {#nahyavijYAtAya pradAtavyaH pratiSrayaH#}
+naqi	376818	<ls>SIDDH. K. 247,b,1</ls> v. u. = {#nAqI#} {%ein röhrenartiges Gefäss im Leibe%}
+nasya	1123823	<ls>Sp. 366, Z. 3</ls> v. u. {#nAsya kiMcidrujati#} {%es schmerzt —, fehlt ihm Nichts%}
+navamivrata	942500	v. u. {#˚navamIvrata#}
+netandava	50671	<ls>Ind. St. 1,54,8</ls>, v. u. {#nEtanDavA nAmArmAH#} (durch {#hradAH#} erklärt)
+neutr	257033	<ls>Schol.</ls> zu <ls>TS. 483,3</ls> v. u. neutr. {%Citrone%}
+nicht	813850	<ls>BHĀG. P. 8,11,28.</ls> <ls>Verz. d. Oxf. H. 12,b,3</ls> v. u. Nicht nur die Calc., sondern auch die Bomb. Ausgg. schreibe
+nidana	640286	<ls n="Verz. d. Oxf. H.">306,b,2</ls> v. u. {#˚nidAna#}
+nitamba	1055736	 d. d. m. G. 27,30.</ls> <ls>Verz. d. Oxf. H. 139,a,5.</ls> v. u. {#nitamba˚#}
+nizevita	1044217	<ls>Verz. d. Oxf. H. 61,b,1</ls> v. u. {#nizevita#} {%bewohnt, besucht, besetzt%}
+nominalthema	491609	<ls>SIDDH. K. 248,b,1</ls> v. u. {%Nominalthema, die Form eines Nomens, an welche die Casuse
+nyayeh	378709	G. 6,4,6</ls> (<ls>MADHUS.</ls> in <ls>Ind. St. 1,18,4</ls> v. u.). {#(nyAyEH) sacCalajAtinigrahamayEH#}
+padam	794204	ls>PRAB. 33,11. 49,8.</ls> <ls>Verz. d. Oxf. H. 12,a,2</ls> v. u. {#padaM miTyA vAcayati#}
+papa	959448	v. u. {#˚pApa#}
+paresesa	424381	<ls>BHĀG. P. 3,5,44.</ls> <ls>Verz. d. Oxf. H. 9,a,3</ls> v. u. {#pareSeSa#} gleichfalls von <is>Viṣṇu</is>
+parivesastata	422432	.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93,2.</ls> v. u. {#pariveSastaTA GoraScandraBAskarayoraBUt#}
+parvatasya	679429	<ls>Verz. d. Oxf. H. 225,a,8</ls> v. u. {#parvatasya#}
+patron	180994	<ls>SIDDH. K. 249,b,3</ls> v. u. patron. <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57.</ls>
+pawwisa	405894	<ls>DAŚAK. 56,1</ls> v. u. {#pawwisa#}
+paycadyayi	611387	<ls>Z. 2</ls> v. u. {#paYcADyAyI#} ist subst. und bedeutet {%eine aus fünf%} <i
+personificirt	797345	<ls>KṚṢIS. 1,2</ls> v. u. Personificirt
+pl	509185	/ls> <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 55,b,6</ls> v. u. pl. <ls>P. 2,4,66</ls>, <ls>Sch.</ls> <ls>SAṂSK. K. 184,a,6
+porandaka	712734	<ls>Verz. d. Oxf. H. 233,b,1</ls> v. u. {#pOrandaka#}
+praba	849208	 Oxf. H. 21,a,32.</ls> <ls n="Verz. d. Oxf. H.">79,b,2</ls> v. u. {#praBA#} {%intensiv%}
+praccannavezera	881172	<ls>TBR. Comm. 1,124,3</ls> v. u. {#pracCannavezeRa#} dass.
+prakasatman	464310	. 612.</ls> <ls>SĀY.</ls> in der Einl. zu <ls>ṚV. 24,2</ls> v. u. {#prakASAtman, prakASAtmapati#} oder {#prakASAtmasvAmin#} N
+prara	481883	<ls>MIT. 47,5</ls> v. u. {#prARa˚#} {%der Abzug der Lebensgeister%}
+pratigrahasamarto	485861	<ls>VAJRAS. 222,15. 223,1. 4</ls> v. u. {#pratigrahasamarTo 'pi prasaNgaM tatra varjayet#} {%er ver
+pratyakzapratyayavaha	475289	<ls>Verz. d. B. H. 287,1. 2</ls> v. u. {#pratyakzapratyayAvaha#} ebend.
+prayo	538838	<ls>MĀLATĪM. 2,4</ls> v. u. {#prAyo BUmni#}
+prekzyarta	717016	<ls>Verz. d. Oxf. H. 208,a,1</ls> v. u. {#prekzyArTa#}
+premaprasaravihvala	715852	<ls>MUDRĀR. 58,1</ls> v. u. {#premaprasaravihvala#}
+proktam	1082114	<ls>Verz. d. Oxf. H. 84,a,3</ls> v. u. {#˚proktaM jawApawalam#}
+purramayjalim	621867	</ls> <ls n="Verz. d. Oxf. H.">103,b,20.</ls> <ls>Z. 3</ls> v. u. {#pUrRamaYjalim#} zu lesen.
+purvam	454326	<ls>MĀLATĪM. 153,5</ls> v. u. {#pUrvaM pUrvaM puzpati#}
+purye	550612	<ls>MAHĀVĪRAC. 92,1</ls> v. u. {#puRye mataNgayajYAgnO saKyaM nirvfttamAvayoH#}
+pustaka	454427	<ls>SIDDH. K. 251,a,2.</ls> v. u. ({#pustaka#} gedruckt).
+rajakulanumantavya	759185	<ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 39,3</ls> v. u. {#rAjakulAnumantavya#} Inschr. in
+regenzeit	493407	<ls>SIDDH. K. 247,b,2</ls> v. u. {%Regenzeit, die nasse Jahreszeit%}; in der Jahresreseinthe
+roganutpadaniya	773102	<ls n="Verz. d. Oxf. H.">334,a,1</ls> v. u. {#rogAnutpAdanIya#}
+rupa	707105	<ls>LALIT. ed. Calc. 169,2</ls> v. u. {#˚rUpa#} <lex>adj.</lex>
+s	957285	<ls>VARĀH. BṚH. S. 2, S. 3, Z. 1</ls> v. u. S. 6, Z. 14. {#horAgaRitasaMhitAH#}
+safran	161912	<ls>TRIK. 3,5,7.</ls> <ls>SIDDH. K. 249,a,3</ls> v. u. {%Safran, Crocus sativus%} (sowohl {%die Pflanze%} als auch
+sakari	1125614	<ls>Sp. 1126, Z. 1</ls> v. u. {#SAkArI#} zu lesen.
+sam	601531	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 185,3</ls> v. u. {#SaM me\TirBa^vatu\ SaM yu\gasya\ tardma^#}
+samadi	1059781	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,1</ls> v. u. = {#samADi#}
+samdimapnoti	973312	v. u. {#saMDimApnoti#} Comm. zu <ls>VOP. 2,20.</ls>
+samgraha	653945	281,a, No. 659.</ls> <ls n="Verz. d. Oxf. H.">291,b,3.</ls> v. u. {#˚saMgraha#} und {#˚sAra#}
+samkya	462575	f. H. 7,b,9</ls> und 5 v. u. <ls>Z. d. d. m. G. 6,95,6</ls> v. u. {#˚sAMKya#}
+sapratyasam	475993	0.</ls> <ls>MĀLATĪM. 146,7.</ls> {#vigalitapratyASatva#} 2, v. u. {#sapratyASam#} adv. {%erwartungsvoll%}
+saptadvijakata	488930	s>) <ls>PAÑCAT. III,160.</ls> <ls>Verz. d. B. H. 288,2</ls> v. u. {#saptadvijakaTA#}
+sastra	672705	n="KATHĀS. 106,">15.</ls> <ls>Verz. d. Oxf. H. 339,a,1</ls> v. u. {#˚SAstra#}
+sattva	479174	<ls>Verz. d. Oxf. H. 80,a,2</ls> v. u. {#sattva#}
+sattva	1061191	<ls>Verz. d. Oxf. H. 321,a,2</ls> v. u. {#sattva˚#}
+schalte	611878	<ls>Z. 2</ls> v. u. schalte
+schalte	654080	<ls n="Ind. St.">271.</ls> <ls>Sp. 142, Z. 3</ls> v. u. schalte
+scheint	496508	<ls>Verz. d. Oxf. H. 215,a,11</ls> v. u. scheint nicht richtig zu sein; man hätte eher {#prodBinna#}
+schol	584852	<ls>Journ. of the Am. Or. S. 6,512,1</ls> v. u. Schol. zu <ls>KĀTY. ŚR. 8,4,5.</ls>
+schol	782971	zu <ls>KĀTY. ŚR. 4,4</ls> v. u. <ls n="KĀTY. ŚR.">32,7</ls> v. u. Schol. zu <ls>P. 7,1,100.</ls> <ls n="P. 7,">3,51.</ls> <ls
+senyam	396386	<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 72,a,2</ls> v. u. {#sEnyaM nIlaM nunAva ca#}
+senyopavesana	1045100	Oxf. H.">98,a,3.</ls> <ls n="Verz. d. Oxf. H.">343,b,1</ls> v. u. {#sEnyopaveSana#}
+sete	206378	<ls>MIT. 267,5</ls> v. u. {#Sete viRmUtrayorgarte#} (vom Fötus)
+setsyati	1017485	<ls>HIT. 84,7.</ls> <ls>Verz. d. Oxf. H. 68,a,3</ls> v. u. ({#setsyati#} st. {#sepsati#} zu lesen).
+sfnga	930259	<ls>CARAKA 2,5.</ls> <ls>SAṂSKṚTAPĀṬHOP. 38,1</ls> v. u. = {#SfNga#} (wohl kein Fehler für {#SuNga#}, da diese Bed. 
+sie	384159	<ls>MIT. 141,3</ls> v. u. Sie ist Regentin des Gestirns <is>Mūla</is>
+smfti	655664	<ls n="Verz. d. Oxf. H.">277,b,2</ls> v. u. {#˚smfti#}
+snanena	1062386	<ls>DAŚAK. 92,1</ls> v. u. {#snAnena#}
+so	1019913	<ls>ĀPAST.</ls> in <ls>TS. Comm. 1,53,3</ls> v. u. so v. a. {%zusammenraffen.%}
+spiel	193710	<ls>SIDDH. K. 251,a,2</ls> v. u. {%Spiel, Tändelei%}; pl.
+sravara	927281	<ls>Journ. of the Am. Or. S. 6,508,1</ls> v. u. {#SrAvaRa˚#}
+sri	588636	1.</ls> <ls>HALL 83.</ls> <ls>Verz. d. Oxf. H. 291,b,3</ls> v. u. {#SrI˚#}
+srotomarga	1069450	/ls> <ls>BHĀVAPR.</ls> in <ls>Verz. d. Oxf. H. 311,a,3</ls> v. u. {#srotomArga#}
+stane	1059300	. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6,512,1</ls> v. u. {#sTAne sTAne#} {%an verschiedenen Orten, hier und da%}
+stotra	301595	<ls>TANTRAS.</ls> in <ls>Verz. d. Oxf. H. 93,a,2</ls> v. u. {#˚stotra#}
+streiche	650807	(Sp. 42, Z. 8 v. u.) streiche 104, 2.
+su	767124	<ls>Verz. d. Oxf. H. 139,b,8</ls> v. u. {#su˚#}
+sukta	885895	xf. H. 85,b,28.</ls> <ls n="Verz. d. Oxf. H.">276,b,1.</ls> v. u. {#sUkta#}
+surkzet	1041420	<ls>NYĀYAMĀLĀV. 248, Z. 4</ls> v. u. {#sUrkzet#}
+sutra	857912	123,a,8. 39. 49.</ls> <ls n="Verz. d. Oxf. H.">136,b,8</ls> v. u. {#sUtra˚#}
+svadita	1103458	<ls>Sp. 120, Z. 3</ls> v. u. {#svadita#} gehört zu 1. {#svad#} .
+svatta	1076997	P. 44.</ls> <ls>KATHĀS. 37,27.</ls> <ls>MĀRK. P. 657,5</ls> v. u. ({#svAtta#} gedr.).
+svetasvataropanizad	949023	v. u. {#SvetASvataropanizad#} (herausgegeben in der Bibl. ind.)
+syanda	766007	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 916,1</ls> v. u. = {#syanda#}
+syate	1003050	v. u. {#˚syate#} so v. a. {#˚sIyate#} pass. impers.
+tamasamavakasaya	623780	<ls>Verz. d. Oxf. H. 225,a,8</ls> v. u. {#tamasAmavakASAya#} {%damit die Finsterniss Platz greifen 
+tantra	432787	<ls>Verz. d. Oxf. H. 164,b,2</ls> v. u. {#˚tantra#}
+tanu	518229	<ls n="Ind. St.">3,397,6</ls> v. u. {#tanu#}
+tatpravarikfto	483094	>M. 2,99.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,23,3</ls> v. u. {#tatpravaRIkfto haraH#}
+te	444491	</ls> <ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 14,b,1</ls> v. u. {#te SrameRa ca — tfzRayA ca prapIqitAH#}
+tejasa	723638	<ls>Sp. 836, Z. 1</ls> v. u. {#tejasA muzwadfzwayaH#}
+thräne	59301	.</ls> <ls n="Uṇ.">,105.</ls> n. <ls>SIDDH. K. 248,b,5</ls> v. u. {%Thräne%}
+tirta	440139	<ls>Verz. d. Oxf. H. 70,b,2</ls> v. u. {#˚tIrTa#}
+tisfbirvacabih	822916	<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 207,2</ls> v. u. {#tisfBirvAcABiH#}
+tridarqam	474445	<ls>DAŚAK. 74,1</ls> v. u. {#tridaRqaM vajrasUcyagraM pratodaM tatra cAdaDat#}
+tropfen	850103	<ls>SIDDH. K. 247,b,2</ls> v. u. {%Tropfen%} (
+truwi	292093	<ls>SIDDH. K. 251,a,5</ls> v. u. {#truwi#} kann nicht gemeint sein, da dieses
+tvaya	953476	<ls>Verz. d. Oxf. H. 61,b,7</ls> v. u. {#tvayA#}
+tvayi	501833	<ls>SĀH. D. 300,2</ls> v. u. {#tvayi nibadDarateH#}
+tyajedasvayuje	298624	<ls n="KĀTY. ŚR.">207,1</ls> v. u. {#tyajedASvayuje mAsi munyannaM pUrvasaMcitam . jIrRAni cEv
+u	943358	<ls>Verz. d. Oxf. H. 233,b,2</ls> v. u. u.
+udaka	465130	<ls>SUŚR. 1,171,1</ls> v. u. {#udaka˚#} 2 v. u. {%das Hineinwerfen%}: {#ucCizwaprakzepaR
+ueberall	468001	<ls>Verz. d. Oxf. H. 7,b,4</ls> v. u. Ueberall <lex>f.</lex> und am Ende eines Halbverses.
+und	196299	 <ls>KĀTY. ŚR. 2,1,17</ls> (<ls n="KĀTY. ŚR. 2,">173,5</ls> v. u.) und <ls n="KĀTY. ŚR.">4,1,1</ls> (<ls n="KĀTY. ŚR. 4,">288
+und	499789	Z. 1 v. u. und AVIC. ebend. 177, N. 7), pers.
+und	633700	<ls>Verz. d. Oxf. H. 231,a,1</ls> v. u. und fgg. <ls>SARVADARŚANAS. 117,9. 11.</ls> fünf <is>Āvaraṇ
+und	676304	<ls>Sp. 874,1</ls> v. u. und <ls n="Sp.">875,1</ls> {#SiroBiScAva˚#} die neuere Ausg
+und	678623	<ls>Sp. 962, Z. 1</ls> v. u. und <ls>Sp. 963, Z. 1</ls> <ls>ARJ. 7,8. 10,37</ls> gehören
+und	1059972	<ls>YĀJÑ. 3,85</ls>; vgl. <ls>MIT. III</ls>,30, {%a%},1 v. u. und {#sTAlaka#} .
+unter	403919	<ls>MBH. 12,12864</ls> (S. 818, Z. 9 v. u.). unter den Beiww. von <is>Viṣṇu</is>; vgl. 2. {#paYcarAtra
+upapurara	376287	f. H. 25,b, N. 5.</ls> <ls n="Verz. d. Oxf. H.">81,a,4</ls> v. u. {#upapurARa, purARa#}
+urram	114661	v. u. {#UrRaM ca rANkavaM cEva kIwajaM pawwajaM taTA#}
+utsannasamcayatfra	963032	v. u. {#utsannasaMcayatfRa#} so v. a. {#utsannatfRasaMcaya#}
+v	1094411	<ls>Verz. d. B. H. 254,2</ls> v. u. v. l. für {#hemna#} .
+vadi	849647	L.</ls> zu <ls>M. 8,73.</ls> Comm. zu <ls>TBR. 1,168,2</ls> v. u. {#vAdi˚#}
+vahayamasa	819857	AR. 4,227.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 626,2</ls> v. u. {#vAhayAmAsa tAnfzIn#} {%liess sie%} (wie Zugthiere) {%zieh
+vahuvi	509586	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58,3</ls> v. u. ({#vAhuvi#}) .
+varianten	1016121	v. u. Varianten: {#SudDapAda#} und {#SrIpAda#} .
+varrasramavyabastasca	889539	ls>SIDDH. K.</ls> zu <ls>P. 1,2,36.</ls> <ls>MIT. 47,4</ls> v. u. {#varRASramavyabasTASca na tadAsanna saMkaraH#}
+varryasama	808389	,b,4</ls> v. u. <ls n="Verz. d. Oxf. H.">211,a,8</ls> und 2 v. u. {#varRyasama#} und {#avarRyasama#} <lex>m.</lex> (sc. {#pra
+vati	691022	<ls>Verz. d. Oxf. H. 339,b,2</ls> v. u. ({#˚vati#}).
+veda	282570	<ls>MADHUS.</ls> in <ls>Ind. St. 1,19,5</ls> v. u. {#veda — tarka#}
+vgl	307466	<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 71,b,5</ls> v. u.; vgl. {#dakzeSvaraprAdurBAva#}
+vgl	377433	<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93,16</ls> v. u. Vgl. <ls n="Verz. d. B. H.">3,b</ls>, {#nAsika#} und
+vgl	415831	<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,8</ls> v. u. Vgl. {#etatparamamAnandaM yattacCASvatameva ca#}
+vgl	621735	<ls>Verz. d. Oxf. H. 22,a,2</ls> v. u. : vgl. {#arkacikitsA#} .
+vgl	626142	<ls>MĀLATĪM. 145,1</ls> v. u. (vgl.
+vgl	649629	II,301,14.</ls> in <ls>Journ. of the Am. Or. S. 7,27,2</ls> v. u.; vgl. <ls>HALL ebend. S. 42 (41).</ls>
+vgl	655074	<ls n="Verz. d. Oxf. H.">291,b,2</ls> v. u. (vgl. {#kftya˚#}). {#˚tantra#} <lex>n.</lex> Titel eines <i
+vgl	663588	n. pr. <ls>UTTARARĀMAC. 96,2</ls> v. u. (vgl. <ls>R. 1,23,12.</ls> <ls n="R. 1,23,">13.</ls> <ls n=
+vgl	693627	<ls>Verz. d. Oxf. H. 277,a,2</ls> v. u.; vgl. u. {#durmarAyu#} .
+vgl	697990	<ls>Sp. 974, Z. 7</ls> v. u. vgl. <ls>WILSON, Sel. Works 1,55. fg. 185. 238.</ls> <ls>Z.
+vgl	711929	<ls>MĀLATĪM. 145,1</ls> v. u.; vgl.
+vgl	712065	<ls>Sp. 843, Z. 3</ls> v. u. vgl. {#janOGaM vipramuKyAnAM vittapUrvaM#} ({%reich beschen
+vgl	769759	<ls>Verz. d. Oxf. H. 210,b,4</ls> v. u.; vgl. {#yogarUQa#} und {#yOgikarUQa#} unter {#yOgika#} . —
+vgl	847891	z. d. B. H. No. 974.</ls> <ls>Verz. d. Oxf. H. 182,b,2</ls> v. u. Vgl. {#vinDyasTa#} .
+vgl	955264	<ls>DĀYABH. 321,6</ls> v. u. vgl. {#saMsarga#} 2) {%d%}).
+vgl	982241	<ls>Verz. d. Oxf. H. 11,b,13</ls> v. u. vgl. {#gaNgAgarBasamAhAraM#} 49, {%b%},38. Nach den Lexicog
+vgl	1125518	<ls>Z. 3</ls> v. u. vgl. {#hasti˚#} {%Elephantenfutter%}
+vi	1015094	<ls>TBR. Comm. 3,557,6</ls> v. u. {#vi/zikta#} {%vergossen%}: Samen
+vibaktaprapata	478582	<ls>KĀṬH. 37,14</ls> in <ls>Ind. St. 3,466,4</ls> v. u. {#viBaktaprapaTA (indrapurI)#}
+vibramadiviyuktata	851876	<ls>DAM̃PATĪŚ. 31,8</ls> v. u. {#viBramAdiviyuktatA vAcaH#}
+vicarapatita	706035	<ls>Spr. 2506.</ls> <ls>Sp. 394, Z. 4</ls> v. u. {#vicArapatita#} auch
+vidasta	314536	<ls>KĀṬH. 10,6</ls> in <ls>Ind. St. 3,469, Z. 2</ls> v. u. {#vidasta#} (= {#upakzIRa#}
+vidi	710401	<ls>Verz. d. B. H. 283,12</ls> v. u. {#˚viDi#}
+vidivadaditavedavedangatven	74981	<ls>MADHUS.</ls> in <ls>Ind. St. 1,23,3.</ls> v. u. {#viDivadaDItavedavedANgatvenApAtato 'DigatAKilavedArTaH#}
+vidyamanvikzikim	631290	SARVADARŚANAS. 115,3.</ls> <ls>Verz. d. Oxf. H. 86,b,5</ls> v. u. {#vidyAmAnvIkzikIm#}
+vileya	516790	<ls>Verz. d. B. H. 57,10</ls> v. u. ({#˚vileya#}) .
+vinata	441180	<ls>VIVĀDAC. 147,9. 148,4</ls> v. u. {#vinatA cAbravItskandaM mama tvaM piRqadaH sutaH#}
+vivfti	653886	<ls>Verz. d. Oxf. H. 291,b,4</ls> v. u. {#˚vivfti#} <lex>f.</lex> Titel eines Commentars zu <is>Kāt
+vizayasyanupadanadvizayyupa	501849	u <ls>KĀTY. ŚR. 1056,6.</ls> <ls n="KĀTY. ŚR.">1059,2</ls>, v. u. {#vizayasyAnupAdAnAdvizayyupanibaDyate . yatra sAtiSayoktiH
+volksgemeinde	255580	<ls>TRIK. 3,5,5.</ls> <ls>SIDDH. K. 249,b,4</ls> v. u. {%Volksgemeinde, Völkerschaft, das Volk im Gegens. zum Fürs
+vollkommen	1030179	<ls>Verz. d. Oxf. H. 148,a,4</ls> v. u. {%vollkommen vertraut mit%} (gen.): {#vidyAnAM kalAnAM ca s
+von	656994	xf. H.">278,a,1.</ls> <ls n="Verz. d. Oxf. H.">291,b,1</ls> v. u. von <is>Śaṃbhu</is> verfasst
+vorderarm	160549	<ls>TRIK. 3,5,17.</ls> <ls>SIDDH. K. 251,a,4</ls> v. u. {%Vorderarm%}
+vrativesa	439594	. u. <ls>PRAB. 79,18.</ls> <ls>Verz. d. Oxf. H. 75,b,9</ls> v. u. {#˚vrativeSa#}
+vyaduyante	548457	<ls>Ind. St. 8,349,4</ls> v. u. {#vyADUyante niculataruBirmaYjarIcAmarARi#}
+vyakaronnamarupe	652496	v. u. {#vyAkaronnAmarUpe#}
+vyasiryata	906367	<ls>Verz. d. Oxf. H. 11,b,13</ls> v. u. ({#vyaSIryata#} zu lesen). {#(SaktiH) vyaSIryata medinIm#} 
+wie	261125	<ls n="SĀH. D.">1828, S. 14, Z. 2</ls> v. u. wie wir); vgl. {#ajahatsvArTA#} ebend.
+wieder	410791	<ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 11,b,9</ls> v. u. {%wieder abgeben%}: {#sa yadi pratipadyeta yaTAnyastaM yaTA
+wirklich	345696	(<ls n="VS.">S. XLI,8</ls> v. u.) wirklich liest. {#˚padI#} <lex>f.</lex> {%ein best.%} <is>
+wo	545400	fg.</ls> <ls>ṢAḌGURUŚ.</ls> in <ls>Verz. d. B. H. 13,4</ls> v. u., wo {#BrAjanAmnAM#} für {#BrA- jamAnAM#} zu lesen ist.
+wo	628005	<ls>Verz. d. Oxf. H. 100,a,1</ls> v. u. (wo {#ahicCattre#} zu lesen ist). {%b%}, N.
+wo	632329	<ls>PRAVARĀDHY.</ls> im <ls>Verz. d. B. H. 57,11</ls> v. u., wo {#cApyAya#} zu lesen ist.
+wohl	524365	<ls>SIDDH. K. 247,a,2</ls> v. u. wohl = {#BaraRI#} {%a.%}
+wohl	582640	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57,9</ls> v. u. Wohl fehlerhaft.
+wohl	597819	<ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56,6</ls> v. u. Wohl fehlerhaft.
+wohl	966251	v. u. wohl fehlerhaft für {#satyANga#}, wie <ls n="Verz. d. Oxf. 
+yah	766964	<ls>YĀJÑ. 2,96.</ls> <ls>Verz. d. Oxf. H. 200,a,6</ls> v. u. {#yaH kaScidarTo nizRAtaH svarucyA tu parasparam#}
+yam	514385	v. u. {#yaM bfhantaM bfhatyukTe (gAyanti)#}
+yantra	717321	/ls> in <ls>BENF. Chr. 199,13.</ls> <ls>Sp. 1201, Z. 1</ls> v. u. {#˚yantra#} bezeichnet {%ein best. von%} <is>Bhāskara</is> 
+yasah	465260	<ls>Schol.</ls> zu <ls>DAŚAR. 1,41</ls> (S. 37,6 v. u.). {#yaSaH˚#}
+yita	550349	<ls>RATNĀV. 11,3</ls> v. u. {#˚yita#} partic. = {#vartula#}
+yo	518914	<ls>KŪRMA-P.</ls> in <ls>Verz. d. Oxf. H. 7,b,2</ls> v. u. {#yo vedamanubrUte (SizyeByaH)#}
+yoga	929083	v. u. {#˚yoga#}
+yoga	1077334	<ls>Verz. d. Oxf. H. 7,b,9</ls> v. u. {#yoga#}
+yogikaruqa	745599	xf. H. 177,a,36.</ls> <ls n="Verz. d. Oxf. H.">210,b,4</ls> v. u. {#yOgikarUQa#} heisst ein Wort. {%welches eine etymologisch
+yuktipurvakasadakatarkervic	282578	M̃GR. 52.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1,18,5</ls> v. u. {#yuktipUrvakasADakatarkErvicAraH#}
+zange	730919	f. H.">311,b,18.</ls> <ls n="Verz. d. Oxf. H.">321,b,1</ls> v. u. {%Zange, Zwinge%} u. s. w.: {#so 'pyeva yantrapIqABiH pIqya
+zinn	299102	s>P. 6,1,177</ls>, <ls>Sch.</ls> <ls>SIDDH. K. 248,b,5</ls> v. u. {%Zinn%}
+zu	705873	<ls>MĀLAV. 31,21</ls> hinzu. <ls>Sp. 383, Z. 4</ls> v. u. zu {#nijaBAlapawwaliKita#} vgl. {#lalAwapattraliKita#}
+über	228602	<ls>AK. 3,6,4,36.</ls> <ls>SIDDH. K. 251,a,2</ls> v. u.) {%über dem Feuer zerlassene und wieder gestandene Butter, 

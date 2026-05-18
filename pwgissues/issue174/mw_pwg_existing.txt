@@ -1,0 +1,57 @@
+PWG abbreviations already in csl-pywork pwgab_input.txt: 54
+==================================================
+Of these, also in our global list:
+  Y  Abl.
+  N  Absol.
+  Y  Acc.
+  N  Act.
+  N  Adj.
+  N  Adv.
+  Y  Aor.
+  Y  Bed.
+  Y  Bein.
+  Y  Beinn.
+  Y  Caus.
+  Y  Comm.
+  Y  Conj.
+  Y  Dat.
+  Y  Denom.
+  Y  Desid.
+  Y  Du.
+  Y  Gen.
+  N  Indecl.
+  Y  Inf.
+  Y  Infin.
+  Y  Instr.
+  Y  Intens.
+  Y  Interj.
+  Y  Loc.
+  N  Med.
+  N  Metron.
+  Y  N.
+  N  N.ag.
+  N  N.pr.
+  Y  Nom.
+  N  Nom.abstr.
+  N  Nom.ag.
+  N  Nomin.
+  Y  Partic.
+  N  Pass.
+  Y  Patron.
+  N  Patronn.
+  Y  Pl.
+  N  Potent.
+  Y  Präp.
+  Y  Sg.
+  Y  Subst.
+  N  Vgl.
+  Y  Voc.
+  Y  adj.
+  N  adv.
+  Y  d. i.
+  Y  dass.
+  N  f.
+  N  m.
+  N  n.
+  N  s.u.
+  N  v.l.
