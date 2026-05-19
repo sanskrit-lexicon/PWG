@@ -1,94 +1,147 @@
-PWG issue #174 — enhance markup for common abbreviations
-=========================================================
 
-Working files for https://github.com/sanskrit-lexicon/PWG/issues/174.
-Generated automatically as the "Phase A–F" first pass; everything here
-is meant to *reduce* the human review surface, not replace it.
+05-14-2026 begun ejf
 
-Inputs (from AB, attached to the issue)
----------------------------------------
-  PWG_abbr_global.txt   787 global abbreviation forms (context-free)
-  PWG_abbr_local.txt    164 context-dependent abbreviations (AB will overlay)
-  AB_tags_PWG.txt       ~32 proposed new tag types
+enhance PWG markup for common abbreviations
 
-Scripts (run in order)
-----------------------
-  01_audit_global.py    crude first-pass audit (kept for reference)
-  02_audit_refined.py   audit that excludes already-tagged content
-                          → audit_refined.tsv
-                          → audit_refined_summary.txt
-  03_safewrap.py        per-line wrap of unambiguous abbreviations
-                          (alpha≥3, not in DENYLIST)
-                          → changes_safe.txt              (updateByLine format)
-                          → changes_safe_stats.txt
-                          → changes_safe_skipped.txt
-  04_disambig.py        per-abbreviation worklists for the 48 deferred shorts
-                          → disambig/<abbr>.txt           (one file each)
-                          → disambig_index.txt
-  05_make_pwgab.py      draft expansion table in MW format
-                          → pwgab_input_draft.txt        (787 lines, 58 INFER)
-  06_ab_tags_scan.py    occurrence count + candidates for AB's proposed tags
-                          → ab_tags_scan.txt
-  07_mw_crosscheck.py   identifies abbreviations shared with MW
-                          → mw_overlap.txt               (136 exact)
-                          → mw_diff_case.txt             (45 case-only)
-                          → mw_pwg_existing.txt
-                          → pwgab_with_mw_hints.txt
+Ref: https://github.com/sanskrit-lexicon/PWG/tree/master/pwgissues/issues/174
 
-Headline numbers
-----------------
-  abbreviations in AB's global list:        787
-  ambiguous (alpha < 3):                     48   → Phase C worklist
-  raw occurrences in pwg.txt:               534,137
-    already inside <ab>:                     1,731
-    inside other tags (<ls>,<lex>,…):      333,895
-    bare narrative (real wrap targets):    198,511
-  Phase B applied:                          102,565 wraps over 88,854 lines
-  remaining bare for review (Phase C):       ~96,000 in 48 abbreviations
-  Phase D: pwgab_input_draft.txt:            787 lines, 58 flagged <INFER/>
-  Phase F: identical to MW abbreviations:    136
 
-Apply Phase B changes
----------------------
-The change file is in the updateByLine.py format. To apply:
+this directory in local file system:
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue174
 
-  cd <some scratch>/
-  python /path/to/updateByLine.py \\
-      ../../csl-orig/v02/pwg/pwg.txt \\
-      changes_safe.txt \\
-      pwg_with_abs.txt
+-------------------------------------
+# get temporary local copy of kosha
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt temp_pwg_0.txt
 
-The diff between pwg.txt and pwg_with_abs.txt will show every wrap.
+# local copy of pwgab_input.txt
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgab/pwgab_input.txt pwgab_input.txt
+pwgab_input.txt 54 
+-------------------------------------
+# Files from Andhrabharati
+PWG_abbr_global.txt   787
+PWG_abbr_local.txt
 
-Open items for human review
----------------------------
-1. False positives in Phase B:
-   - Currently only `vor.` is denylisted. Reviewers should grep
-     `changes_safe.txt` for `<ab>X</ab>$` at end-of-line for any X that
-     is also a common German word in narrative.
+Ref: https://github.com/sanskrit-lexicon/PWG/issues/174#issuecomment-4462624587
+-------------------------------------
+xml tags
+python xmltag.py temp_pwg_0.txt xmltag_pwg_0.txt
+12 distinct tags written to xmltag_pwg_0.txt
 
-2. Local-abbreviation collision:
-   - AB plans to overlay local abbreviations (e.g. `<ab n="dem und dem Ort">
-     u. d. O.</ab>`) after globals are marked. Phase B will have wrapped
-     parts of these (e.g. `<ab>u. d.</ab> O.`). AB's local pass overrides.
+-------------------------------------
+# stats on <ab>X</ab>
+python count_ab.py temp_pwg_0.txt count_ab_0.txt
+1129105 read from temp_pwg_0.txt
+59 lines written to count_ab_0.txt
+1755 = total number of <ab>X</ab>
 
-3. <INFER/> entries in pwgab_input_draft.txt:
-   - 58 entries whose German expansion is uncertain. Filter with
-     `grep '<INFER/>' pwgab_input_draft.txt`.
+# stats on <ab n="Y">X</ab>
+python count_ab_local.py temp_pwg_0.txt count_ab_local_0.txt
+1129105 read from temp_pwg_0.txt
+27 lines written to count_ab_local_0.txt
 
-4. AB-tags semantics:
-   - Several proposed tags (`<ns>`, `<iw>`, `<mng>`, `<ed>`, `<ms>`,
-     `<pe>`, `<per>`) have zero current usage and no obvious heuristic.
-     AB needs to specify intent before they can be applied.
+-------------------------------------
+# temp_pwg_2.txt
+# remove all 'ab' markup in pwg, for both local and global
+python remove_ab.py temp_pwg_0.txt temp_pwg_1.txt
+# manual changes to temp_pwg_1.txt
+v.l. -> v. l.   (782)
+s.u. -> s. u.   (2)
+<lex>n</lex> -> <lex>n.</lex>  (1)
 
-5. Merging with csl-pywork:
-   - The existing pwgab_input.txt at csl-pywork has 54 entries with a few
-     formatting inconsistencies (e.g. `v.l.` vs `v. l.`). The draft uses
-     the spelling from AB's global list. Merge decision is up to Jim.
+-------------------------------------
+pwgab_input_1.txt
+ cp pwgab_input.txt pwgab_input_1.txt
+# manual changes
+ in particular, lower case versions added for many abbreviations.
+Question re 'Mpt'
+-------------------------------------
+temp_pwg_2.txt
+python mark_ab.py temp_pwg_1.txt pwgab_input_1.txt temp_pwg_2.txt markcount_a_2.txt
 
-Conventions followed
---------------------
-- pwgissues/issueNNN/ folder structure (per CLAUDE.md)
-- updateByLine.py paired-line change format (per pwg_ls2/*/)
-- MW mwab_input.txt format for the expansion table
-- All scripts: sys.stdout.reconfigure(encoding='utf-8'), `python -u`
+86 lines read from pwgab_input_1.txt
+1129105 lines read from temp_pwg_1.txt
+99485 lines changed
+1129105 lines written to temp_pwg_2.txt
+86 lines written to markcount_a_2.txt
+111590 = total number of <ab>X</ab>
+
+-------------------------------------
+pwgab_input_2.txt
+  Reformatting of Andhrabharati's file PWG_abbr_global.txt
+-------------------------------------
+python mark_ab.py temp_pwg_1.txt pwgab_input_2.txt temp_pwg_3.txt markcount_a_3.txt
+
+787 lines read from pwgab_input_2.txt
+1129105 lines read from temp_pwg_1.txt
+119390 lines changed
+1129105 lines written to temp_pwg_3.txt
+787 lines written to markcount_a_3.txt
+143949 = total number of <ab>X</ab>
+
+
+-------------------------------------
+comparison of version 2 (cdsl) and version 3 (AB)
+cdsl:
+AB  : 
+
+-------------------------------------
+# abdiff.py  NOT USED
+# python abdiff.py pwgab_input_1.txt count_ab_2.txt abdiff_cdsl_2.txt
+******************************************************
+NOTES FROM ANOTHER PROJECT FOLLOW
+******************************************************
+# Andhrabharati's solution files
+
+=======================================================================
+
+================================================
+INSTALLATION
+sync to github:
+
+------------------
+# csl-orig 
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue174/
+diff temp_pwg_3b.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt | wc -l
+#0  as expected
+cd /c/xampp/htdocs/cologne/csl-orig/
+git pull
+git add .
+git commit -m "issue84pwg  #170  pwg refs inconsistent with index"
+
+git push
+#    3d3d805..14553c5  master -> master
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue174/
+------------------------
+
+# csl-corrections
+# use printchange_pwg_3a.txt  printchange_pwg_3b.txt to modify
+# dictionaries/pwg/pwg_printchange.txt
+
+cd /c/xampp/htdocs/cologne/csl-corrections
+git pull
+git add .
+git commit -m "Ref: https://github.com/sanskrit-lexicon/PWG/issues/170 (issue84pwg)"
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue174/
+
+---------------------------------------------------
+# sync to Cologne, pull changed repos, redo display
+---------------
+csl-orig #pull
+csl-corrections #pull
+
+---------------
+# update displays for pwg
+cd csl-pywork/v02
+sh generate_dict.sh pwg  ../../PWGScan/2020/
+
+-----------------------------------------------------
+# sync issue174/ to github.
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue174/
+git pull
+git add .
+git commit -m "#170 issue84pwg"
+git push
+
+------------------------------------------------------------
+THE END

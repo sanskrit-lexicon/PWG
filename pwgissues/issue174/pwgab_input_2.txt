@@ -1,0 +1,787 @@
+ANUKR.	?
+Abl.	?
+Ableitt.	?
+Abschn.	?
+Acc.	?
+Adhy.	?
+Adj. compp.	?
+Adnn.	?
+Adnott.	?
+Allgem.	?
+Anf.	?
+Ang.	?
+Anm.	?
+Anmm.	?
+Annott.	?
+Ant.	?
+Aor.	?
+Appell.	?
+Appos.	?
+Arithm.	?
+Art.	?
+Assimil.	?
+Astrol.	?
+Astron.	?
+Aufl.	?
+Augm.	?
+Ausdr.	?
+Ausg.	?
+Ausgg.	?
+Ausl.	?
+Ausn.	?
+Aut.	?
+Autor.	?
+Autorr.	?
+Autt.	?
+Bde.	?
+Bed.	?
+Bedd.	?
+Bedeut.	?
+Bedeutt.	?
+Beim.	?
+Bein.	?
+Beinn.	?
+Beis.	?
+Beisatz.	?
+Beisp.	?
+Beispp.	?
+Beiw.	?
+Beiww.	?
+Bemerk.	?
+Berl. Mpt	?
+Berl.	?
+Bes.	?
+Besond.	?
+Bez.	?
+Bezz.	?
+Bild.	?
+Bildl.	?
+Buddh.	?
+Calc. Ausg.	?
+Capp.	?
+Casusverh.	?
+Caus.	?
+Char.	?
+Chr.	?
+Cit.	?
+Comm.	?
+Comment.	?
+Commentat.	?
+Commentatt.	?
+Commentt.	?
+Comp.	?
+Compar.	?
+Compp.	?
+Condit.	?
+Conj.	?
+Conjj.	?
+Conjug.	?
+Constr.	?
+Corigg.	?
+Corr.	?
+Correl.	?
+Correlat.	?
+Corrig.	?
+Corrigg.	?
+Cultus.	?
+D.	?
+Das.	?
+Dat.	?
+Dec.	?
+Decl.	?
+Declin.	?
+Denom.	?
+Derivv.	?
+Ders.	?
+Desid.	?
+Dioscor.	?
+Dist.	?
+Dramat.	?
+Du.	?
+Eig.	?
+Eigenn.	?
+Einl.	?
+Einsch.	?
+Einschieb.	?
+Emend.	?
+End.	?
+Epith.	?
+Erg.	?
+Ergänz.	?
+Erkl.	?
+Erkll.	?
+Erklär.	?
+Erklärr.	?
+Erll.	?
+Erläutt.	?
+Es.	?
+Etym.	?
+Euphem.	?
+Fem.	?
+Folg.	?
+Fut.	?
+Gegend.	?
+Gegens.	?
+Gegenss.	?
+Gegenst.	?
+Gen.	?
+Geom.	?
+Gerichtsspr.	?
+Geschl.	?
+Gr.	?
+Gramm.	?
+Grammat.	?
+Hamb. Hdschrr.	?
+Handschr.	?
+Handschrr.	?
+Hdchr.	?
+Hdschr.	?
+Hdschrr.	?
+Hdsichr.	?
+Hem.	?
+Hypokor.	?
+Hypokorr.	?
+Identif.	?
+Imacc.	?
+Imperf.	?
+Impl.	?
+Incomp.	?
+Ind.	?
+Indecll.	?
+Inf.	?
+Infin.	?
+Inhaltsv.	?
+Inhaltsverz.	?
+Insbes.	?
+Inschr.	?
+Inschrr.	?
+Instr.	?
+Intens.	?
+Interj.	?
+Interpol.	?
+Interpr.	?
+Jahrh.	?
+Jmd.	?
+Kap.	?
+Kat.	?
+Kl.	?
+Lexicc.	?
+Lexicogr.	?
+Lexicogrr.	?
+Lexx.	?
+Lit.	?
+Litt.	?
+Loc.	?
+MBH.	?
+Mannsn.	?
+Math.	?
+Mathem.	?
+Mathemm.	?
+Medic.	?
+Mpt.	?
+Mspt.	?
+Mss.	?
+Myth.	?
+Mythol.	?
+N. Pr.	?
+N. abstr.	?
+N. appell.	?
+N. pr.	?
+N.	?
+Nachk.	?
+Nachtr.	?
+Nachtrr.	?
+Nebenf.	?
+Neg.	?
+Negat.	?
+Nn. prr.	?
+Nn.	?
+Nom. abstr.	?
+Nom. act.	?
+Nom. ag.	?
+Nom. appell.	?
+Nom. pr.	?
+Nom.	?
+Nomen pr.	?
+Nomina ag.	?
+Nov.	?
+Obj.	?
+Ort.	?
+Ortsadv.	?
+Ortsadvv.	?
+Padap.	?
+Par. Mpt	?
+Parenth.	?
+Part.	?
+Partic.	?
+Participialfut.	?
+Patron.	?
+Pers.	?
+Person.	?
+Personif.	?
+Phil.	?
+Philos.	?
+Pl.	?
+Praep.	?
+Pron.	?
+Pronomm.	?
+Pros.	?
+Präp.	?
+Präpp.	?
+Randgl.	?
+Rec.	?
+Rechtsspr.	?
+Redupl.	?
+Reduplicat.	?
+Rel.	?
+Rell.	?
+Rhet.	?
+S. u.	?
+Sch.	?
+Schol.	?
+Scholl.	?
+Schreib.	?
+Sg.	?
+Spr.	?
+St.	?
+Subj.	?
+Subst.	?
+Suff.	?
+Superl.	?
+Suppl.	?
+Syn.	?
+Synonn.	?
+Th.	?
+Tit.	?
+Titelbl.	?
+Trigl.	?
+Ueberh.	?
+Uebers.	?
+Ueberschr.	?
+Uebertr.	?
+Uneig.	?
+Unterrschrr.	?
+Untersch.	?
+Unterschr.	?
+Unterschrr.	?
+Urspr.	?
+V. l.	?
+Var. l.	?
+Var.	?
+Varr.	?
+Verb. fin.	?
+Verb.	?
+Verbind.	?
+Verbindd.	?
+Verf.	?
+Verff.	?
+Vergl.	?
+Vern.	?
+Verz.	?
+Viell.	?
+Voc.	?
+Volksn.	?
+Vollst.	?
+Vulg.	?
+W.	?
+Weg.	?
+Wortm.	?
+Ww.	?
+Wörterb.	?
+Z. B.	?
+Zahladvv.	?
+Zahlw.	?
+Zeitww.	?
+Zus.	?
+Zusamm.	?
+Zusammeng.	?
+Zusammenh.	?
+Zusammens.	?
+Zusammenss.	?
+a. O.	?
+a. St.	?
+a. a. O.	?
+aa.	?
+abgedr.	?
+abgel.	?
+abgiebt.	?
+abl.	?
+ablat.	?
+absol.	?
+absolut.	?
+abstr.	?
+abw.	?
+acc. ag.	?
+acc.	?
+accusat.	?
+act.	?
+adj. Comp.	?
+adj. comp.	?
+adj.	?
+adject.	?
+adjj.	?
+adv. compp.	?
+adverb. comp.	?
+adverb.	?
+adverbb.	?
+advv.	?
+alleg.	?
+allg.	?
+allgem.	?
+alphab.	?
+an.	?
+anderndemonstrr.	?
+aneig.	?
+angebl.	?
+angef.	?
+anl.	?
+anom.	?
+anomal.	?
+aor.	?
+appell.	?
+appellat.	?
+appos.	?
+arch.	?
+astr.	?
+astrol.	?
+astrolog.	?
+astron.	?
+astronom.	?
+attribut.	?
+aufgef.	?
+ausg.	?
+ausgeh.	?
+ausgez.	?
+auslaut.	?
+ausnahmsw.	?
+bed.	?
+beg.	?
+beim.	?
+bes.	?
+beschr.	?
+besond.	?
+bespr.	?
+best.	?
+betr.	?
+bez.	?
+bildl.	?
+bisw.	?
+buddh.	?
+buddhist.	?
+c.	?
+card.	?
+cas.	?
+cass.	?
+caus.	?
+causat.	?
+causs.	?
+cfr.	?
+cit.	?
+class.	?
+coll.	?
+collect.	?
+comp.	?
+compar.	?
+comparat.	?
+compon.	?
+compos.	?
+compp.	?
+concr.	?
+condit.	?
+conj.	?
+conjunct.	?
+constr.	?
+coord.	?
+cop.	?
+copul. comp.	?
+copul.	?
+copulat.	?
+correl.	?
+correlat.	?
+corrigg.	?
+d. St.	?
+d. W.	?
+d. Ww.	?
+d. f. W.	?
+d. fg. W.	?
+d. folg. W.	?
+d. h.	?
+d. i.	?
+d. l. W.	?
+d. vorherg. W.	?
+d.	?
+da.	?
+dag.	?
+danom. abstr.	?
+das.	?
+dass.	?
+dat.	?
+datt.	?
+dazw.	?
+dd. Ww.	?
+dd.	?
+decl.	?
+declin.	?
+defect.	?
+defin.	?
+dem.	?
+demin.	?
+deminn.	?
+demonstr.	?
+demonstratt.	?
+demonstrr.	?
+dems.	?
+denom.	?
+denomin.	?
+denominn.	?
+denomm.	?
+dergen.	?
+dergl.	?
+deriv.	?
+derivv.	?
+ders.	?
+derselb.	?
+des.	?
+desgl.	?
+desid.	?
+desider.	?
+dess.	?
+desselb.	?
+dgl.	?
+dies. St.	?
+dies.	?
+diesem.	?
+diess.	?
+dist.	?
+distr.	?
+distrib.	?
+dopp.	?
+du.	?
+ebd.	?
+eben.	?
+ed.	?
+edend.	?
+eig.	?
+eigentl.	?
+einf.	?
+einschl.	?
+einz.	?
+elid.	?
+ellipt.	?
+encl.	?
+enclit.	?
+engl.	?
+enklit.	?
+entspr.	?
+erg.	?
+erkl.	?
+etc.	?
+etym.	?
+etymol.	?
+euph.	?
+euphem.	?
+excl.	?
+explet.	?
+fehlerh.	?
+femm.	?
+fg.	?
+fgg. Ww.	?
+fgg.	?
+fig.	?
+fin.	?
+folg. W.	?
+folg. Ww.	?
+folg.	?
+folgend.	?
+folgg. Ww.	?
+folgg.	?
+franz.	?
+fut.	?
+futt.	?
+geb.	?
+gebr.	?
+geder.	?
+gedr.	?
+gehör.	?
+gen.	?
+genit.	?
+genitt.	?
+genn.	?
+geogr.	?
+ger.	?
+gerund.	?
+geschr.	?
+gespr.	?
+gew.	?
+gezwung.	?
+gramm.	?
+grammat.	?
+herausg.	?
+i. e.	?
+ibid.	?
+id.	?
+ident.	?
+identif.	?
+imp.	?
+imper.	?
+imperat.	?
+imperf.	?
+impers.	?
+imperson.	?
+incl.	?
+incomp.	?
+ind.	?
+indecl.	?
+indecll.	?
+indef.	?
+indefin.	?
+indic.	?
+inf.	?
+infin.	?
+infinit.	?
+insb.	?
+insbes.	?
+insens.	?
+instr.	?
+instrans.	?
+instrr.	?
+intens.	?
+interr.	?
+interrog.	?
+interrogatt.	?
+interrogg.	?
+intr.	?
+intrans.	?
+intransit.	?
+jur.	?
+körperl.	?
+lang.	?
+lith.	?
+liturg.	?
+loc.	?
+locc.	?
+log.	?
+mannigf.	?
+masc.	?
+math.	?
+mathem.	?
+med.	?
+medic.	?
+met.	?
+meton.	?
+metonym.	?
+metr.	?
+metron.	?
+metronn.	?
+mineral.	?
+mitact.	?
+mitfolg.	?
+moral.	?
+musik.	?
+myst.	?
+myth.	?
+mythol.	?
+n. Chr.	?
+n. abstr.	?
+n. pr.	?
+nachf.	?
+nachfolg.	?
+nam.	?
+namentl.	?
+neg.	?
+negat.	?
+neutr.	?
+niedrig.	?
+nom. abst.	?
+nom. abstr.	?
+nom. abstract.	?
+nom. act.	?
+nom. ag.	?
+nom. card.	?
+nom. gent.	?
+nom. ord.	?
+nom. ordin.	?
+nom. pr.	?
+nom.	?
+nomin.	?
+nomm. antret.	?
+nomm.	?
+num. ordin.	?
+num.	?
+näml.	?
+obj.	?
+obl.	?
+od.	?
+omin.	?
+onomat.	?
+onomatop.	?
+opt.	?
+ord.	?
+oxyt.	?
+oxyton.	?
+p.	?
+parall.	?
+parox.	?
+paroxyt.	?
+part. fut. pass.	?
+part.	?
+partic.	?
+particc.	?
+partit.	?
+pass.	?
+patr.	?
+patron.	?
+patronn.	?
+perf.	?
+periphr.	?
+perisp.	?
+pers.	?
+person.	?
+personif.	?
+personific.	?
+philos.	?
+pl.	?
+pleon.	?
+plur.	?
+poet.	?
+porox.	?
+pos.	?
+posit.	?
+poss.	?
+postp.	?
+pot.	?
+potent.	?
+praed.	?
+praep.	?
+praepos.	?
+praeposs.	?
+praepp.	?
+praes.	?
+praet.	?
+prec.	?
+precat.	?
+prim.	?
+priv.	?
+prohib.	?
+pron. rel.	?
+pron. subst.	?
+pron.	?
+pronn.	?
+pronom.	?
+pronomm.	?
+propar.	?
+proparax.	?
+proparox.	?
+proparoxyt.	?
+properisp.	?
+propr.	?
+prädic.	?
+präpp.	?
+rathsam.	?
+recipr.	?
+redupl.	?
+reduplic.	?
+refl.	?
+reflex.	?
+reg.	?
+rel.	?
+relat.	?
+relig.	?
+resp.	?
+rever.	?
+rhet.	?
+s. a.	?
+s. d.	?
+s. u.	?
+s. v.	?
+sc.	?
+sg.	?
+sic.	?
+simpl.	?
+sing.	?
+sog.	?
+spec.	?
+spiel.	?
+sprüchw.	?
+st.	?
+subj.	?
+subst.	?
+substt.	?
+suff.	?
+superl.	?
+superlat.	?
+symb.	?
+syn.	?
+synekd.	?
+tautol.	?
+techn.	?
+term. techn.	?
+term.	?
+trans.	?
+transit.	?
+trop.	?
+u. d.	?
+u. s. w.	?
+uberh.	?
+umwendend.	?
+unbel.	?
+unbest.	?
+uneig.	?
+ungedr.	?
+ungramm.	?
+ungrammat.	?
+unpers.	?
+unreg.	?
+unregelm.	?
+unricht.	?
+urpsr.	?
+urspr.	?
+ursprüngl.	?
+v. Chr.	?
+v. a.	?
+v. l.	?
+v. u.	?
+var. l.	?
+var.	?
+verb. fin.	?
+verb.	?
+verbb.	?
+verdopp.	?
+vergl.	?
+versch.	?
+verschied.	?
+vgl.	?
+viell.	?
+viz.	?
+voc.	?
+vollst.	?
+vom.	?
+vor. W.	?
+vor.	?
+voran.	?
+vorang.	?
+vorangeh.	?
+vorherg. W.	?
+vorherg.	?
+vorhergeh. Ww.	?
+vorhergeh.	?
+vulg.	?
+vv. ll.	?
+w.	?
+weibl.	?
+z. B.	?
+z.	?
+zugl.	?
+zus.	?
+zusammen.	?
+zusammeng.	?
+zusammengef.	?
+zusammenges.	?
+zusammengez.	?
+zusammengezog.	?
+ähnl.	?
+ält.	?
+überh.	?
+übers.	?
+überth.	?
+übertr.	?

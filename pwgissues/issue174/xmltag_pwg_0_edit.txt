@@ -1,0 +1,22 @@
+<F> 38  <F>.*?</F>  footnote
+<VN> 3  <VN>.*?</VN>  corrections src?
+<ab> 1855  Global: <ab>.*?</ab> 1755   Local: <ab n=".*?">.*?</ab> 
+<div> 113671   <div n="1"> 64356 ;  <div n="2"> 23966; <div n="3"> 1498
+               <div n="v"> 14624 ;  <div n="p"> 9227 ; 
+ (+ 64356 23966 1498 14624 9227) 113671 
+<fr> 1 <fr>.*?</fr>  French
+<hom> 82  <hom>[0-9]+\.</hom>
+<info> 628  <info n="rev"/> 672 <info n="sup"/> 
+<is> 53947  <is>.*?</is>   Sanskrit in iast
+<lang> 550  <lang n=".*?">.*?</lang> 547;    <lang>franz.</lang> 1
+<lex> 124497 <lex>[mfn+]\.</lex> 88804;  <lex>adj\.</lex> 35690;
+    <lex>masc.</lex> 2; <lex>n</lex> 1
+     (+ 88804 35690 2 1) = 124497
+<ls> 782282
+<span> 88  <span>.*?</span>  identify questionable ls ?
+
+{#.*?#}  Sanskrit text in slp1 transliteration
+{%.*?%}  italic text
+{{Lbody=.*?}}  9
+{[0-9, .]+}  270 orphan literary source details
+Note {%X%} may contain <is>

@@ -111,3 +111,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue170 References inconsistent with link target 
 * issue170/issue84pw   ŚATAPATHABRĀHMAṆA pw
 * issue170/issue84pwg  ŚATAPATHABRĀHMAṆA pwg
+* issue174  <ab> markup for pwg
+
