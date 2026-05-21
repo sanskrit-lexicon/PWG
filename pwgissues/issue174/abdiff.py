@@ -21,37 +21,50 @@ def write_lines(fileout,outarr):
    f.write("%s\n" % out)
  print(f'{len(outarr)} lines written to {fileout}')
 
-def init_col(lines,icol):
- ans = set()  # set
- for line in lines:
+class AbbrevCount:
+ def __init__(self,line):
   parts = line.split('\t')
-  part = parts[icol]
-  if part in ans:
-   print('duplicate',part)
-  ans.add(part)
- return ans
+  self.abbrev = parts[0]
+  self.count = int(parts[1])
+  
+def init_abbrev(lines):
+ recs = [] # array of AbbrevCount objects
+ d = {} # check for duplicates
+ for line in lines:
+  rec = AbbrevCount(line)
+  if rec.abbrev in d:
+   print(f'Duplicate abbrev: {line}')
+  else:
+   d[rec.abbrev] = rec
+   recs.append(rec)
+ return recs,d
 
-if __name__=="__main__":
- filein1 = sys.argv[1] # first abbreviation file
- filein2 = sys.argv[2] # 2nd abbreviation file
- fileout = sys.argv[3] # output path
- icol = 0
- lines1 = read_lines(filein1)
- s1 = init_col(lines1,icol)
- lines2 = read_lines(filein2)
- s2 = init_col(lines2,icol)
- s = s1.union(s2)
+def get_outarr(abbrevs0,d1,d2):
+ abbrevs = sorted(abbrevs0,key = lambda x: x.lower())
  outarr = []
- outarr.append(f'col1: abbreviation')
- outarr.append(f'col2: {filein1}')
- outarr.append(f'col3: {filein2}')
- print(len(s1),len(s2),len(s))
- for a in s:
-  v1 = 'NO'
-  v2 = 'NO'
-  if a in s1:
-   v1 = 'YES'
+ for a in abbrevs:
+  v1 = -1
+  v2 = -1
+  if a in d1:
+   v1 = d1[a].count
   if a in s2:
-   v2 = 'YES'
+   v2 = d2[a].count
   outarr.append(f'{a}\t{v1}\t{v2}')
+ return outarr
+if __name__=="__main__":
+ filein1 = sys.argv[1] # first abbreviation-count file
+ filein2 = sys.argv[2] # 2nd abbreviation-count file
+ fileout = sys.argv[3] # output path
+ lines1 = read_lines(filein1)
+ recs1,d1 = init_abbrev(lines1)
+ lines2 = read_lines(filein2)
+ recs2,d2 = init_abbrev(lines2)
+ # union of keys
+ s1 = set(d1.keys())
+ s2 = set(d2.keys())
+ s = s1.union(s2)
+ abbrevs = list(s)
+ print(f'{len(s)} total distinct abbreviations')
+ outarr = get_outarr(abbrevs,d1,d2)
+
  write_lines(fileout,outarr)

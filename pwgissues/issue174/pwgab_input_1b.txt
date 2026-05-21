@@ -1,0 +1,81 @@
+Abl.	<id>Abl.</id> <disp>Ablativ - ablative (case)</disp>
+abl.	<id>Abl.</id> <disp>Ablativ - ablative (case)</disp>
+absol.	<id>Absol.</id> <disp>Absolutiv - absolutive (case)</disp>
+Acc.	<id>Acc.</id> <disp>Accusativ - accusative (case)</disp>
+acc.	<id>Acc.</id> <disp>Accusativ - accusative (case)</disp>
+act.	<id>act.</id> <disp>Activ - active </disp>
+adv.	<id>adv.</id> <disp>adverbial? - adverbial</disp>
+Aor.	<id>Aor.</id> <disp>Aorist - aorist</disp>
+aor.	<id>aor.</id> <disp>Aorist - aorist</disp>
+Bein.	<id>Bein.</id> <disp>Beiname - epithet, by name</disp>
+Bed.	<id>Bed.</id> <disp>Bedeutungen(?) - meanings</disp>
+bed.	<id>Bed.</id> <disp>Bedeutungen(?) - meanings</disp>
+Beinn.	<id>Beinn.</id> <disp>Beinamen - epithets, by names</disp>
+Caus.	<id>Caus.</id> <disp>Causativ - causative</disp>
+caus.	<id>Caus.</id> <disp>Causativ - causative</disp>
+Comm.	<id>Comm.</id> <disp>Commentar? - commentary</disp>
+Conj.	<id>Conj.</id> <disp>Conjunctiv? - subjunctive (mood)</disp>
+conj.	<id>conj.</id> <disp>Conjunctiv? - subjunctive (mood)</disp>
+dass.	<id>dass.</id> <disp>dasselbe - the same</disp>
+d. i.	<id>d. i.</id> <disp>das ist - i.e. id est - that is</disp>
+Dat.	<id>Dat.</id> <disp>Dativ - dative (case)</disp>
+dat.	<id>dat.</id> <disp>Dativ - dative (case)</disp>
+Denom.	<id>Denom.</id> <disp>Denominativ? - denominative</disp>
+denom.	<id>denom.</id> <disp>Denominativ? - denominative</disp>
+Desid.	<id>Desid.</id> <disp>Desiderativ - desiderative</disp>
+desid.	<id>desid.</id> <disp>Desiderativ - desiderative</disp>
+Du.	<id>Du.</id> <disp>Dual - dual </disp>
+du.	<id>du.</id> <disp>Dual - dual </disp>
+Gen.	<id>Gen.</id> <disp>Genitiv - genitive (case)</disp>
+gen.	<id>Gen.</id> <disp>Genitiv - genitive (case)</disp>
+Inf.	<id>Inf.</id> <disp>Infinitiv - infinitive</disp>
+inf.	<id>Inf.</id> <disp>Infinitiv - infinitive</disp>
+Infin.	<id>Infin.</id> <disp>Infinitiv - infinitive</disp>
+infin.	<id>infin.</id> <disp>Infinitiv - infinitive</disp>
+Instr.	<id>Instr.</id> <disp>Instrumental - instrumental (case)</disp>
+instr.	<id>instr.</id> <disp>Instrumental - instrumental (case)</disp>
+Intens.	<id>Intens.</id> <disp>Intensiv - intensive</disp>
+intens.	<id>intens.</id> <disp>Intensiv - intensive</disp>
+Interj.	<id>Interj.</id> <disp>Interjection - interjection </disp>
+interj.	<id>interj.</id> <disp>Interjection - interjection </disp>
+Loc.	<id>Loc.</id> <disp>Locativ - locative case</disp>
+loc.	<id>loc.</id> <disp>Locativ - locative case</disp>
+Med.	<id>Med.</id> <disp>Medizin - medicine</disp>
+med.	<id>med.</id> <disp>Medizin - medicine</disp>
+metron.	<id>metron.</id> <disp>Metronym - metronym</disp>
+N.	<id>N.</id> <disp>Namen - name</disp>
+N. pr.	<id>N. pr.</id> <disp>Nomen proprium? - proper noun</disp>
+Nom.	<id>Nom.</id> <disp>Nominativ - nominative (case)</disp>
+nom.	<id>nom.</id> <disp>Nominativ - nominative (case)</disp>
+Nom. abstr.	<id>Nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+nom. abstr.	<id>nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+nom. ag.	<id>nom. ag.</id> <disp>Nomen agentis - nomen agentis</disp>
+nomin.	<id>nomin.</id> <disp>Nominativ - nominative (case)</disp>
+Partic.	<id>Partic.</id> <disp>Participium - participle</disp>
+partic.	<id>partic.</id> <disp>Participium - participle</disp>
+pass.	<id>pass.</id> <disp>Passiv - passive</disp>
+Patron.	<id>Patron.</id> <disp>Patronym - patronym</disp>
+patron.	<id>patron.</id> <disp>Patronym - patronym</disp>
+patronn.	<id>patronn.</id> <disp>Patronymen - patronyms</disp>
+Pl.	<id>Pl.</id> <disp>Plural - plural</disp>
+pl.	<id>pl.</id> <disp>Plural - plural</disp>
+potent.	<id>potent.</id> <disp>Potentialis - potential mood</disp>
+Präp.	<id>Präp.</id> <disp>Präposition - preposition</disp>
+S. u.	<id>S. u.</id> <disp>siehe unten?/unter? - see below/under</disp>
+s. u.	<id>s. u.</id> <disp>siehe unten?/unter? - see below/under</disp>
+Sg.	<id>Sg.</id> <disp>Singular - singular</disp>
+sg.	<id>sg.</id> <disp>Singular - singular</disp>
+Subst.	<id>Subst.</id> <disp>Substantiv - noun</disp>
+subst.	<id>Subst.</id> <disp>Substantiv - noun</disp>
+V. l.	<id>V. l.</id> <disp>vide licet - that us to say, namely</disp>
+v. l.	<id>v. l.</id> <disp>vide licet - that us to say, namely</disp>
+Vgl.	<id>Vgl.</id> <disp>Vergleiche - compare</disp>
+vgl.	<id>vgl.</id> <disp>Vergleiche - compare</disp>
+Voc.	<id>Voc.</id> <disp>Vocativ - vocative (case)</disp>
+voc.	<id>voc.</id> <disp>Vocativ - vocative (case)</disp>
+Adj.	<id>Adj.</id> <disp>Adjectiv - adjective</disp>
+adj.	<id>adj.</id> <disp>adjectivisch - adjective</disp>
+f.	<id>f.</id> <disp>femininum - feminine</disp>
+indecl.	<id>indecl.</id> <disp>Indeclinabilum - indeclinable</disp> 
+m.	<id>m.</id> <disp>masculinum - masculine</disp>
+n.	<id>n.</id> <disp>neutrum - neuter</disp>

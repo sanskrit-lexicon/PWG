@@ -1,5 +1,6 @@
-""" mark_ab.py
- 
+""" mark_lex.py
+   Almost the same as mark_ab.py
+   Difference is in re.sub of mark_ab_one function.
 """
 import sys,re
 import codecs
@@ -45,7 +46,7 @@ def mark_ab_one(line,abpattern,dbg):
   elif part.startswith('{'):
    newpart = part
   else:
-   newpart = re.sub(abpattern,r"<ab>\1</ab>", part)
+   newpart = re.sub(abpattern,r"<lex>\1</lex>", part)
   if dbg:
    print('  oldp=',part)
    print('  newp=',newpart)
@@ -123,7 +124,7 @@ def build_abbrev_pattern(abbrevs0):
  return pattern
 
 def update_count(lines,d):
- regex = re.compile(r'<ab>(.*?)</ab>')
+ regex = re.compile(r'<lex>(.*?)</lex>')
  metaline = None
  for line in lines:
   if line.startswith('<L>'):
@@ -175,4 +176,4 @@ if __name__=="__main__":
   update_count(newlines,dabbrevs)
   outarr,ntot = get_count_outarr(dabbrevs)
   write_lines(fileout2,outarr)
-  print(f'{ntot} = total number of <ab>X</ab>')
+ print(f'{ntot} = total number of <lex>X</lex>')
