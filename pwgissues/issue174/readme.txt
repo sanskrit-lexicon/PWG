@@ -329,4 +329,7 @@ git commit -m "issue174 folder revised. #174"
 git push
 
 ------------------------------------------------------------
+************************************************************
+* work on tooltips
+  see tips/readme.txt
 * THE END

@@ -1,0 +1,97 @@
+GAS adj. Comp.	<id>adj. Comp.</id> <disp>adjektivisches Compositum - adjectival compound</disp>
+GAS ANUKR.	<id>ANUKR.</id> <disp>Anukramaṇī - Vedic index/Anukramaṇī reference</disp> <INFER/>
+GAS Chr.	<id>Chr.</id> <disp>Christus - Christ (for AD/BC dating)</disp>
+GAS d. f. W.	<id>d. f. W.</id> <disp>das folgende Wort - the following word</disp>
+GAS excl.	<id>excl.</id> <disp>exklusiv - exclusive</disp>
+GAS MBH.	<id>MBH.</id> <disp>Mahābhārata - Mahābhārata (Sanskrit epic)</disp>
+GAS Nom. ag.	<id>Nom. ag.</id> <disp>Nomen agentis - agent noun</disp>
+GAS v. Chr.	<id>v. Chr.</id> <disp>vor Christus - before Christ (BC)</disp>
+GAS Z. B.	<id>Z. B.</id> <disp>Zum Beispiel - for example</disp>
+PWG Med.	<id>Med.</id> <disp>Medizin - medicine</disp>
+PWK 1.	<id>1.</id> <disp>1ten - first </disp>
+PWK 2.	<id>2.</id> <disp>2ten - second</disp>
+PWK 3.	<id>3.</id> <disp>3ten - third</disp>
+PWK ; Med.	<id>Med.</id> <disp>Medizin - medicine</disp> changed 12/26/2019
+PWK Absol.	<id>Absol.</id> <disp>Absolutiv - absolutive (case)</disp>
+PWK Abstr.	<id>Abstr.</id> <disp>?- abstract</disp>
+PWK Act.	<id>Act.</id> <disp>Activ - active </disp>
+PWK Adj.	<id>Adj.</id> <disp>Adjectiv - adjective</disp>
+PWK Adj. Comp.	<id>Adj. Comp.</id> <disp>Adjektivverbindung - adjective compound</disp>
+PWK adj. Comp.	<id>adj. Comp.</id> <disp>Adjektivverbindung - adjective compound</disp>
+PWK Adjj.	<id>Adjj.</id> <disp>Adjektive - adjectives</disp>
+PWK Adv.	<id>Adv.</id> <disp>Adverb - adverb</disp>
+PWK adv. Comp.	<id>adv. Comp.</id> <disp>Adverbverbindung - adverb compound</disp>
+PWK Advv.	<id>Advv.</id> <disp>Adverbien - adverbs</disp>
+PWK anat.	<id>anat.</id> <disp>Anatomie - anatomy</disp>
+PWK Astr.	<id>Astr.</id> <disp>Astronomie - astronomy</disp>
+PWK Chrest.	<id>Chrest.</id> <disp>Chrestomathie - Chrestomathy</disp>
+PWK Coll.	<id>Coll.</id> <disp>Collectiv - collective, collectively</disp>
+PWK Collect.	<id>Collect.</id> <disp>Collectiv - collective, collectively</disp>
+PWK copul. Comp.	<id>copul. Comp.</id> <disp>? - copulative compound</disp>
+PWK Dass.	<id>Dass.</id> <disp>dasselbe - the same</disp>
+PWK Demin.	<id>Demin.</id> <disp>Deminutiv - Diminutive</disp>
+PWK Demonstr.	<id>Demonstr.</id> <disp>Demonstrativ - demonstrative</disp>
+PWK Den.	<id>Den.</id> <disp>Denominativ - denominative</disp>
+PWK Denomin.	<id>Denomin.</id> <disp>Denominativ - denominative</disp>
+PWK Desgl.	<id>Desgl.</id> <disp>desgleichen - likewise</disp>
+PWK Dram.	<id>Dram.</id> <disp>Drama - drama</disp>
+PWK ep.	<id>ep.</id> <disp>?Epos - epic literature</disp> also lang tag
+PWK excl.	<id>excl.</id> <disp>? - ?</disp>
+PWK Femin.	<id>Femin.</id> <disp>femininum - feminine</disp>
+PWK Gedr.	<id>Gedr.</id> <disp>gedruckte - printed</disp>
+PWK geom.	<id>geom.</id> <disp>Geometrie - geometry</disp>
+PWK geometr.	<id>geometr.</id> <disp>Geometrie - geometry</disp>
+PWK hdschrr.	<id>hdschrr.</id> <disp>Handschrifte - manuscripts</disp>
+PWK Imper.	<id>Imper.</id> <disp>Imperativ - imperative</disp>
+PWK Imperat.	<id>Imperat.</id> <disp>Imperativ - imperative</disp>
+PWK Impers.	<id>Impers.</id> <disp>? - ?</disp>
+PWK Indecl.	<id>Indecl.</id> <disp>Indeclinabilum - indeclinable</disp>
+PWK Indefin.	<id>Indefin.</id> <disp>Indefiniter - indefinite</disp>
+PWK Indic.	<id>Indic.</id> <disp>indikativ - indicative</disp>
+PWK inter.	<id>inter.</id> <disp>Interrogativ - interrogative</disp>
+PWK Interr.	<id>Interr.</id> <disp>Interrogativ - interrogative</disp>
+PWK Intr.	<id>Intr.</id> <disp> - introduction</disp>
+PWK Intrans.	<id>Intrans.</id> <disp>intransitiv - intransitive</disp>
+PWK klass.	<id>klass.</id> <disp>klassisch - classical</disp>
+PWK Masc.	<id>Masc.</id> <disp>masculinum - masculine</disp>
+PWK Med.	<id>Med.</id> <disp>Medium – ātmanepada</disp>
+PWK Metron.	<id>Metron.</id> <disp>Metronym(Deu.)/Metronymicum(Lat.) - metronym</disp>
+PWK Metronn.	<id>Metronn.</id> <disp>Metronyme(Deu.)/Metronymica(Lat.) - metronyms</disp>
+PWK N. ag.	<id>N. ag.</id> <disp>Nomen agentis - nomen agentis</disp>
+PWK N. N.	<id>N. N.</id> <disp>Nomen Nescio (Latin) - "I do not know the name", someone</disp>
+PWK Nom. Abstr.	<id>Nom. Abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+PWK Nom. Ag.	<id>Nom. Ag.</id> <disp>Nomen agentis - agentive noun</disp>
+PWK Nom. ag.	<id>Nom. ag.</id> <disp>Nomen agentis - agentive noun</disp>
+PWK Nomin.	<id>Nomin.</id> <disp>Nominativ - nominative (case)</disp>
+PWK Onomatop.	<id>Onomatop.</id> <disp>Onomatopöie - onomatopoeia</disp>
+PWK Opt.	<id>Opt.</id> <disp>Optativ - optative</disp>
+PWK Optat.	<id>Optat.</id> <disp>Optativ - optative</disp>
+PWK optat.	<id>optat.</id> <disp>Optativ - optative</disp>
+PWK Oxyt.	<id>Oxyt.</id> <disp>Oxyton - oxytone</disp>
+PWK P.	<id>P.</id> <disp>Person</disp>
+PWK Parox.	<id>Parox.</id> <disp>Paroxyton - paroxytone</disp>
+PWK Pass.	<id>Pass.</id> <disp>Passiv - passive</disp>
+PWK Patronn.	<id>Patronn.</id> <disp>Patronyme(Deu.)/Patrnymica (Lat.) - patronyms</disp>
+PWK Perf.	<id>Perf.</id> <disp>Perfektum - perfect tense</disp>
+PWK Pot.	<id>Pot.</id> <disp>Potentialis - potential mood</disp>
+PWK Poten.	<id>Poten.</id> <disp>Potentialis - potential mood</disp>
+PWK Potent.	<id>Potent.</id> <disp>Potentialis - potential mood</disp> 
+PWK Praes.	<id>Praes.</id> <disp>Praesens - present</disp>
+PWK Praet.	<id>Praet.</id> <disp>Präteritum - preterite</disp>
+PWK Prec.	<id>Prec.</id> <disp>Precativ - precative</disp>
+PWK Prol.	<id>Prol.</id> <disp>Prolog - prologue</disp>
+PWK Pronom.	<id>Pronom.</id> <disp>Pronomen - pronoun</disp>
+PWK präd.	<id>präd.</id> <disp>prädikativ - predicative</disp>
+PWK Präs.	<id>Präs.</id> <disp>Präsentisch - present</disp>
+PWK Prākrit	<id>Prākrit</id> <disp>Prākrit language</disp>  lang tag
+PWK Relat.	<id>Relat.</id> <disp>Relativ - relative</disp>
+PWK rit.	<id>rit.</id> <disp>Ritual - ritual</disp>
+PWK Roxb.	<id>Roxb.</id> <disp> - Roxburgh</disp>
+PWK s.	<id>s.</id> <disp>siehe - please refer, see</disp>
+PWK s. u. d.	<id>s. u. d.</id> <disp>siehe unter die - see under die</disp>
+PWK Simpl.	<id>Simpl.</id> <disp>Simpel - simple</disp>
+PWK Substr.	<id>Substr.</id> <disp>? - ?</disp>
+PWK Trans.	<id>Trans.</id> <disp>transitiv - transitive</disp>
+PWK Ved.	<id>Ved.</id> <disp> - Vedic</disp>
+PWK ved.	<id>ved.</id> <disp>Vedic</disp>  lang tag
+PWK Zahladv.	<id>Zahladv.</id> <disp>Zahlenadverb - number adverb</disp>

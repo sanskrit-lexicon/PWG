@@ -1,0 +1,1902 @@
+* DONE a. a. O. : 77 : GAS=
+GAS : <id>a. a. O.</id> <disp>am angeführten Ort - in the place cited (op. cit.)</disp>
+* DONE a. O. : 3 : GAS=
+GAS : <id>a. O.</id> <disp>am Ort - at the place cited</disp>
+* TODO a. St. : 5 : GAS
+GAS : <id>a. St.</id> <disp>an der Stelle - in the passage</disp> <INFER/>
+* TODO aa. : 1 : GAS
+GAS : <id>aa.</id> <disp>? - uncertain</disp> <INFER/>
+* DONE abgedr. : 1 : GAS=
+GAS : <id>abgedr.</id> <disp>abgedruckt - printed</disp>
+* DONE abgel. : 1 : GAS=
+GAS : <id>abgel.</id> <disp>abgeleitet - derived</disp>
+* TODO abgiebt. : 2 : GAS
+GAS : <id>abgiebt.</id> <disp>abgibt - gives (older orthography)</disp>
+* DONE Abl. : 6 : GAS : PWG= : PWK
+GAS : <id>Abl.</id> <disp>Ablativ - ablative (case)</disp>
+PWG : <id>Abl.</id> <disp>Ablativ - ablative (case)</disp>
+PWK : <id>Abl.</id> <disp>Ablativ - ablative (case)</disp>
+* DONE abl. : 564 : GAS : PWG=
+GAS : <id>abl.</id> <disp>ablativ - ablative</disp>
+PWG : <id>abl.</id> <disp>Ablativ - ablative (case)</disp>
+* DONE ablat. : 41 : GAS=
+GAS : <id>ablat.</id> <disp>ablativ - ablative</disp>
+* DONE Ableitt. : 5 : GAS=
+GAS : <id>Ableitt.</id> <disp>Ableitungen - derivations</disp>
+* DONE Abschn. : 1 : GAS=
+GAS : <id>Abschn.</id> <disp>Abschnitt - section</disp>
+* DONE absol. : 263 : GAS : PWG= : PWK
+GAS : <id>absol.</id> <disp>absolut / absolutiv - absolute / absolutive</disp>
+PWG : <id>absol.</id> <disp>Absolutiv - absolutive (case)</disp>
+PWK : <id>absol.</id> <disp>Absolutiv - absolutive (case)</disp>
+* DONE absolut. : 52 : GAS : JIM=
+GAS : <id>absolut.</id> <disp>absolut - absolute</disp>
+JIM : <id>absolut.</id> <disp>Absolutiv - absolutive (case)</disp> 
+* DONE abstr. : 31 : GAS= : PWK
+GAS : <id>abstr.</id> <disp>abstrakt - abstract</disp>
+PWK : <id>abstr.</id> <disp>? - abstract</disp>
+* TODO abw. : 1 : GAS
+GAS : <id>abw.</id> <disp>abweichend - deviating</disp>
+* DONE Acc. : 18 : GAS : PWG= : PWK
+GAS : <id>Acc.</id> <disp>Accusativ - accusative (case)</disp>
+PWG : <id>Acc.</id> <disp>Accusativ - accusative (case)</disp>
+PWK : <id>Acc.</id> <disp>Accusativ - accusative (case)</disp>
+* DONE acc. : 2603 : GAS : PWG=
+GAS : <id>acc.</id> <disp>accusativ - accusative</disp>
+PWG : <id>acc.</id> <disp>Accusativ - accusative (case)</disp>
+* DONE acc. ag. : 1 : GAS=
+GAS : <id>acc. ag.</id> <disp>accusativus agentis - accusative of agent</disp>
+* DONE accusat. : 1 : GAS=
+GAS : <id>accusat.</id> <disp>Accusativ - accusative</disp>
+* DONE act. : 952 : GAS : PWG= : PWK
+GAS : <id>act.</id> <disp>activ - active</disp>
+PWG : <id>act.</id> <disp>Activ - active </disp>
+PWK : <id>act.</id> <disp>Activ - active</disp>
+* DONE Adhy. : 1 : GAS=
+GAS : <id>Adhy.</id> <disp>Adhyāya - chapter (Sanskrit text division)</disp>
+* DONE adj. : 36077 : GAS : PWG= : PWK
+GAS : <id>adj.</id> <disp>adjektivisch - adjective / adjectival</disp>
+PWG : <id>adj.</id> <disp>adjectivisch - adjective</disp>
+PWK : <id>adj.</id> <disp>adjectivisch - adjective</disp>
+* DONE adj. comp. : 1398 : GAS=
+GAS : <id>adj. comp.</id> <disp>adjektivisches Compositum - adjectival compound</disp>
+* DONE Adj. compp. : 1 : GAS=
+GAS : <id>Adj. compp.</id> <disp>Adjektivische Composita - adjectival compounds</disp>
+* DONE adject. : 3 : GAS=
+GAS : <id>adject.</id> <disp>adjektivisch - adjective</disp>
+* DONE adjj. : 53 : GAS=
+GAS : <id>adjj.</id> <disp>adjektivisch (Plural) - adjectives</disp>
+* TODO Adnn. : 2 : GAS
+GAS : <id>Adnn.</id> <disp>Adnomina - qualifying nouns/adjectives</disp> <INFER/>
+* TODO Adnott. : 1 : GAS
+GAS : <id>Adnott.</id> <disp>Adnotationen - annotations</disp>
+* DONE adv. : 2885 : PWG= : PWK
+PWG : <id>adv.</id> <disp>Adverb adverb</disp>
+PWK : <id>adv.</id> <disp>? - adverbial</disp>
+* DONE adv. compp. : 2 : GAS=
+GAS : <id>adv. compp.</id> <disp>adverbiale Composita - adverbial compounds</disp>
+* DONE adverb. : 2 : GAS=
+GAS : <id>adverb.</id> <disp>adverbial - adverbial</disp>
+* DONE adverb. comp. : 4 : GAS=
+GAS : <id>adverb. comp.</id> <disp>adverbiales Compositum - adverbial compound</disp>
+* DONE adverbb. : 1 : GAS=
+GAS : <id>adverbb.</id> <disp>adverbialia - adverbials</disp>
+* DONE advv. : 20 : GAS=
+GAS : <id>advv.</id> <disp>Adverbien - adverbs</disp>
+* DONE alleg. : 1 : GAS=
+GAS : <id>alleg.</id> <disp>allegorisch - allegorical</disp>
+* DONE allg. : 2 : GAS=
+GAS : <id>allg.</id> <disp>allgemein - in general</disp>
+* DONE allgem. : 3 : GAS=
+GAS : <id>allgem.</id> <disp>allgemein - in general</disp>
+* DONE Allgem. : 1 : GAS=
+GAS : <id>Allgem.</id> <disp>allgemein - in general</disp>
+* DONE alphab. : 1 : GAS=
+GAS : <id>alphab.</id> <disp>alphabetisch - alphabetical</disp>
+* TODO an. : 39 : GAS
+GAS : <id>an.</id> <disp>anders / anom.? - otherwise / anom.</disp> <INFER/>
+* TODO anderndemonstrr. : 1 : GAS
+GAS : <id>anderndemonstrr.</id> <disp>an anderen Demonstrativen - to other demonstratives</disp> <INFER/>
+* TODO aneig. : 1 : GAS
+GAS : <id>aneig.</id> <disp>aneignen? - appropriate (?)</disp> <INFER/>
+* DONE Anf. : 182 : GAS : PWK=
+GAS : <id>Anf.</id> <disp>Anfang - beginning</disp>
+PWK : <id>Anf.</id> <disp>Anfang - beginning</disp>
+* TODO Ang. : 13 : GAS
+GAS : <id>Ang.</id> <disp>Angabe - statement / indication</disp>
+* DONE angebl. : 15 : GAS=
+GAS : <id>angebl.</id> <disp>angeblich - allegedly</disp>
+* DONE angef. : 3 : GAS=
+GAS : <id>angef.</id> <disp>angeführt - cited</disp>
+* TODO anl. : 1 : GAS
+GAS : <id>anl.</id> <disp>anlautend - initial (phonetics)</disp>
+* DONE Anm. : 17 : GAS : PWK=
+GAS : <id>Anm.</id> <disp>Anmerkung - note</disp>
+PWK : <id>Anm.</id> <disp>Anmerkung - annotation, note</disp>
+* DONE Anmm. : 3 : GAS : PWK=
+GAS : <id>Anmm.</id> <disp>Anmerkungen - notes (pl.)</disp>
+PWK : <id>Anmm.</id> <disp>Anmerkungen - annotations, notes</disp>
+* DONE Annott. : 1 : GAS=
+GAS : <id>Annott.</id> <disp>Annotationen - annotations</disp>
+* DONE anom. : 4 : GAS=
+GAS : <id>anom.</id> <disp>anomal - anomalous</disp>
+* DONE anomal. : 1 : GAS=
+GAS : <id>anomal.</id> <disp>anomal - anomalous</disp>
+* TODO Ant. : 1 : GAS
+GAS : <id>Ant.</id> <disp>Antike? - antiquity (?)</disp> <INFER/>
+* DONE aor. : 173 : GAS : PWG=
+GAS : <id>aor.</id> <disp>Aorist - aorist</disp>
+PWG : <id>aor.</id> <disp>Aorist - aorist</disp>
+* DONE Aor. : 1 : GAS : PWG= : PWK
+GAS : <id>Aor.</id> <disp>Aorist - aorist</disp>
+PWG : <id>Aor.</id> <disp>Aorist - aorist</disp>
+PWK : <id>Aor.</id> <disp>Aorist - aorist</disp>
+* TODO Appell. : 3 : GAS
+GAS : <id>Appell.</id> <disp>Appellativum - appellative / common noun</disp>
+* TODO appell. : 13 : GAS
+GAS : <id>appell.</id> <disp>appellativ - appellative</disp>
+* TODO appellat. : 2 : GAS
+GAS : <id>appellat.</id> <disp>appellativ - appellative</disp>
+* DONE Appos. : 1 : GAS=
+GAS : <id>Appos.</id> <disp>Apposition - apposition</disp>
+* DONE appos. : 1 : GAS=
+GAS : <id>appos.</id> <disp>Apposition - apposition</disp>
+* DONE arch. : 1 : GAS=
+GAS : <id>arch.</id> <disp>archaisch - archaic</disp>
+* DONE Arithm. : 3 : GAS : PWK=
+GAS : <id>Arithm.</id> <disp>Arithmetik - arithmetic</disp>
+PWK : <id>Arithm.</id> <disp>Arithmetik - arithmetic</disp>
+* TODO Art. : 33 : GAS
+GAS : <id>Art.</id> <disp>Artikel - article (entry)</disp>
+* TODO Assimil. : 2 : GAS
+GAS : <id>Assimil.</id> <disp>Assimilation - assimilation</disp>
+* DONE astr. : 60 : GAS : PWK=
+GAS : <id>astr.</id> <disp>Astronomie / Astrologie - astronomy / astrology</disp> <INFER/>
+PWK : <id>astr.</id> <disp>Astronomie - astronomy</disp>
+* DONE astrol. : 46 : GAS : PWK=
+GAS : <id>astrol.</id> <disp>astrologisch - astrological</disp>
+PWK : <id>astrol.</id> <disp>Astrologie - astrology</disp>
+* DONE Astrol. : 75 : GAS : PWK=
+GAS : <id>Astrol.</id> <disp>Astrologie - astrology</disp>
+PWK : <id>Astrol.</id> <disp>Astrologie - astrology</disp>
+* DONE astrolog. : 1 : GAS=
+GAS : <id>astrolog.</id> <disp>astrologisch - astrological</disp>
+* DONE astron. : 16 : GAS : PWK=
+GAS : <id>astron.</id> <disp>astronomisch - astronomical</disp>
+PWK : <id>astron.</id> <disp>Astronomie - astronomy</disp>
+* DONE Astron. : 4 : GAS : PWK=
+GAS : <id>Astron.</id> <disp>Astronomie - astronomy</disp>
+PWK : <id>Astron.</id> <disp>Astronomie - astronomy</disp>
+* DONE astronom. : 2 : GAS=
+GAS : <id>astronom.</id> <disp>astronomisch - astronomical</disp>
+* TODO attribut. : 1 : GAS
+GAS : <id>attribut.</id> <disp>attributiv - attributive</disp>
+* TODO aufgef. : 2 : GAS
+GAS : <id>aufgef.</id> <disp>aufgefasst - understood (as)</disp>
+* DONE Aufl. : 59 : GAS=
+GAS : <id>Aufl.</id> <disp>Auflage - edition / printing</disp>
+* TODO Augm. : 2 : GAS
+GAS : <id>Augm.</id> <disp>Augment - augment (verbal prefix a-)</disp>
+* TODO Ausdr. : 1 : GAS
+GAS : <id>Ausdr.</id> <disp>Ausdruck - expression</disp>
+* DONE Ausg. : 1442 : GAS : PWK=
+GAS : <id>Ausg.</id> <disp>Ausgabe - edition</disp>
+PWK : <id>Ausg.</id> <disp>Ausgabe - edition</disp>
+* TODO ausg. : 4 : GAS
+GAS : <id>ausg.</id> <disp>ausgegeben / ausgesprochen - issued / pronounced</disp> <INFER/>
+* TODO ausgeh. : 5 : GAS
+GAS : <id>ausgeh.</id> <disp>ausgehend - ending in</disp>
+* TODO ausgez. : 2 : GAS
+GAS : <id>ausgez.</id> <disp>ausgezeichnet - distinguished / marked</disp>
+* DONE Ausgg. : 204 : GAS : PWK=
+GAS : <id>Ausgg.</id> <disp>Ausgaben - editions</disp>
+PWK : <id>Ausgg.</id> <disp>Ausgaben - editions</disp>
+* TODO Ausl. : 1 : GAS
+GAS : <id>Ausl.</id> <disp>Auslaut - final sound (phonetics)</disp>
+* TODO auslaut. : 1 : GAS
+GAS : <id>auslaut.</id> <disp>auslautend - final (phonetics)</disp>
+* TODO Ausn. : 1 : GAS
+GAS : <id>Ausn.</id> <disp>Ausnahme - exception</disp>
+* TODO ausnahmsw. : 1 : GAS
+GAS : <id>ausnahmsw.</id> <disp>ausnahmsweise - exceptionally</disp>
+* DONE Aut. : 383 : GAS= : PWK
+GAS : <id>Aut.</id> <disp>Autor - author</disp>
+PWK : <id>Aut.</id> <disp>? - ?</disp>
+* DONE Autor. : 13 : GAS=
+GAS : <id>Autor.</id> <disp>Autoren - authors</disp>
+* DONE Autorr. : 8 : GAS=
+GAS : <id>Autorr.</id> <disp>Autoren - authors</disp>
+* DONE Autt. : 34 : GAS= : PWK
+GAS : <id>Autt.</id> <disp>Auctores - authors (Latin)</disp>
+PWK : <id>Autt.</id> <disp>? - ?</disp>
+* DONE Bde. : 2 : GAS : JIM=
+GAS : <id>Bde.</id> <disp>Bände - volumes</disp>
+JIM : <id>Bde.</id> <disp>Bänd - volume</disp>
+* DONE Bed. : 1978 : GAS : PWG : PWK=
+GAS : <id>Bed.</id> <disp>Bedeutung - meaning</disp>
+PWG : <id>Bed.</id> <disp>Bedeutungen(?) - meanings</disp>
+PWK : <id>Bed.</id> <disp>Bedeutung - meaning</disp>
+* DONE bed. : 20 : GAS : PWG=
+GAS : <id>bed.</id> <disp>bedeutet - means</disp>
+PWG : <id>bed.</id> <disp>Bedeutung - meaning</disp>
+* DONE Bedd. : 189 : GAS=
+GAS : <id>Bedd.</id> <disp>Bedeutungen - meanings</disp>
+* DONE Bedeut. : 7 : GAS=
+GAS : <id>Bedeut.</id> <disp>Bedeutung - meaning</disp>
+* DONE Bedeutt. : 11 : GAS=
+GAS : <id>Bedeutt.</id> <disp>Bedeutungen - meanings</disp>
+* TODO beg. : 1 : GAS
+GAS : <id>beg.</id> <disp>beginnt - begins</disp>
+* TODO beim. : 5 : GAS
+GAS : <id>beim.</id> <disp>Beiname? - epithet (?) / preposition 'at the'</disp> <INFER/>
+* TODO Beim. : 1 : GAS
+GAS : <id>Beim.</id> <disp>Beiname - epithet</disp>
+* DONE Bein. : 2625 : GAS : PWG= : PWK
+GAS : <id>Bein.</id> <disp>Beiname - epithet</disp>
+PWG : <id>Bein.</id> <disp>Beiname - epithet, by name</disp>
+PWK : <id>Bein.</id> <disp>Beiname - epithet, by name</disp>
+* DONE Beinn. : 52 : GAS= : PWG : PWK
+GAS : <id>Beinn.</id> <disp>Beinamen - epithets</disp>
+PWG : <id>Beinn.</id> <disp>Beinamen - epithets, by names</disp>
+PWK : <id>Beinn.</id> <disp>Beinamen - epithets, by names</disp>
+* TODO Beis. : 1 : GAS
+GAS : <id>Beis.</id> <disp>Beisatz - apposition / addition</disp>
+* TODO Beisatz. : 1 : GAS
+GAS : <id>Beisatz.</id> <disp>Beisatz - apposition</disp>
+* DONE Beisp. : 8 : GAS=
+GAS : <id>Beisp.</id> <disp>Beispiel - example</disp>
+* DONE Beispp. : 2 : GAS=
+GAS : <id>Beispp.</id> <disp>Beispiele - examples</disp>
+* TODO Beiw. : 633 : GAS : PWK
+GAS : <id>Beiw.</id> <disp>Beiwort - adjective / attribute</disp>
+PWK : <id>Beiw.</id> <disp>beiwohnen - attendant</disp>
+* DONE Beiww. : 53 : GAS : PWK : JIM=
+GAS : <id>Beiww.</id> <disp>Beiwörter - adjectives</disp>
+PWK : <id>Beiww.</id> <disp>? - ?</disp>
+JIM : <id>Beiww.</id> <disp>beiwohner - attendants</disp>
+* TODO Bemerk. : 1 : GAS
+GAS : <id>Bemerk.</id> <disp>Bemerkung - remark</disp>
+* TODO Berl. : 8 : GAS
+GAS : <id>Berl.</id> <disp>Berliner - Berlin (manuscript / library)</disp>
+* TODO Berl. Mpt : 1 : GAS
+GAS : <id>Berl. Mpt</id> <disp>Berliner Manuskript - Berlin manuscript</disp>
+* DONE bes. : 438 : GAS : PWK=
+GAS : <id>bes.</id> <disp>besonders - especially</disp>
+PWK : <id>bes.</id> <disp>Besonders  - special, particular</disp>
+* DONE Bes. : 12 : GAS : PWK=
+GAS : <id>Bes.</id> <disp>Besonderheit - particularity</disp> <INFER/>
+PWK : <id>Bes.</id> <disp>Besonders  - special, particular</disp>
+* TODO beschr. : 1 : GAS
+GAS : <id>beschr.</id> <disp>beschrieben - described</disp>
+* TODO besond. : 2 : GAS
+GAS : <id>besond.</id> <disp>besonders - especially</disp>
+* TODO Besond. : 2 : GAS
+GAS : <id>Besond.</id> <disp>besonders - especially</disp>
+* TODO bespr. : 1 : GAS
+GAS : <id>bespr.</id> <disp>besprochen - discussed</disp>
+* DONE best. : 6591 : GAS : PWK=
+GAS : <id>best.</id> <disp>bestimmt - definite / certain</disp>
+PWK : <id>best.</id> <disp>bestimmte - a certain (kind of)</disp>
+* TODO betr. : 1 : GAS
+GAS : <id>betr.</id> <disp>betreffend - concerning</disp>
+* DONE Bez. : 4263 : GAS= : PWK
+GAS : <id>Bez.</id> <disp>Bezeichnung - designation</disp>
+PWK : <id>Bez.</id> <disp>Bezugnahme - Reference</disp>
+* DONE bez. : 4 : GAS : JIM=
+GAS : <id>bez.</id> <disp>bezeichnet / beziehungsweise - designates / respectively</disp>
+JIM :  <id>bez.</id> <disp>Bezugnahme - Reference</disp>
+* TODO Bezz. : 13 : GAS
+GAS : <id>Bezz.</id> <disp>Bezeichnungen - designations</disp>
+* TODO Bild. : 3 : GAS
+GAS : <id>Bild.</id> <disp>Bildung - formation</disp>
+* DONE Bildl. : 10 : GAS=
+GAS : <id>Bildl.</id> <disp>bildlich - figurative</disp>
+* DONE bildl. : 19 : GAS=
+GAS : <id>bildl.</id> <disp>bildlich - figurative</disp>
+* TODO bisw. : 2 : GAS
+GAS : <id>bisw.</id> <disp>bisweilen - sometimes</disp>
+* DONE buddh. : 178 : GAS : PWK=
+GAS : <id>buddh.</id> <disp>buddhistisch - Buddhist</disp>
+PWK : <id>buddh.</id> <disp>Buddhism - Buddhism</disp>
+* DONE Buddh. : 11 : GAS : PWK=
+GAS : <id>Buddh.</id> <disp>buddhistisch - Buddhist</disp>
+PWK : <id>Buddh.</id> <disp>Buddhism - Buddhism</disp>
+* DONE buddhist. : 1 : GAS=
+GAS : <id>buddhist.</id> <disp>buddhistisch - Buddhist</disp>
+* TODO c. : 136 : GASx
+GAS : <id>c.</id> <disp>cum - with (Latin)</disp>  reference to entry - not abbreviation
+* DONE Calc. Ausg. : 156 : GAS=
+GAS : <id>Calc. Ausg.</id> <disp>Calcuttaer Ausgabe - Calcutta edition</disp>
+* TODO Capp. : 1 : GAS
+GAS : <id>Capp.</id> <disp>Capita - chapters (Latin pl.)</disp>
+* TODO card. : 1 : GAS
+GAS : <id>card.</id> <disp>cardinal - cardinal (number)</disp>
+* TODO cas. : 6 : GAS
+GAS : <id>cas.</id> <disp>casus - case (Latin)</disp>
+* TODO cass. : 6 : GAS
+GAS : <id>cass.</id> <disp>casus - cases (Latin pl.)</disp>
+* TODO Casusverh. : 1 : GAS
+GAS : <id>Casusverh.</id> <disp>Casusverhältnis - case-relation</disp>
+* DONE Caus. : 10 : GAS : PWG= : PWK
+GAS : <id>Caus.</id> <disp>Causativ - causative</disp>
+PWG : <id>Caus.</id> <disp>Causativ - causative</disp>
+PWK : <id>Caus.</id> <disp>Causativ - causative</disp>
+* DONE caus. : 3646 : GAS : PWG=
+GAS : <id>caus.</id> <disp>causativ - causative</disp>
+PWG : <id>caus.</id> <disp>Causativ - causative</disp>
+* DONE causat. : 1 : GAS=
+GAS : <id>causat.</id> <disp>Causativ - causative</disp>
+* TODO causs. : 1 : GAS
+GAS : <id>causs.</id> <disp>causativa - causatives</disp>
+* DONE cfr. : 1 : GAS=
+GAS : <id>cfr.</id> <disp>confer - compare (Latin)</disp>
+* TODO Char. : 1 : GAS
+GAS : <id>Char.</id> <disp>Charakter - character</disp>
+* DONE Cit. : 243 : GAS : PWK=
+GAS : <id>Cit.</id> <disp>Citat - citation</disp>
+PWK : <id>Cit.</id> <disp>Citation - citation</disp>
+* DONE cit. : 4 : GAS=
+GAS : <id>cit.</id> <disp>citiert - cited</disp>
+* TODO class. : 1 : GAS
+GAS : <id>class.</id> <disp>klassisch - classical</disp>
+* DONE coll. : 22 : GAS : PWK=
+GAS : <id>coll.</id> <disp>kollektiv - collective</disp>
+PWK : <id>coll.</id> <disp>Collectiv - collective, collectively</disp>
+* DONE collect. : 27 : GAS : PWK : JIM=
+GAS : <id>collect.</id> <disp>kollektiv - collective</disp>
+PWK : <id>collect.</id> <disp>? - ?</disp>
+JIM : <id>collect.</id> <disp>Collectiv - collective, collectively</disp>
+* DONE Comm. : 2058 : GAS : PWG : PWK=
+GAS : <id>Comm.</id> <disp>Commentar - commentary</disp>
+PWG : <id>Comm.</id> <disp>Commentar? - commentary</disp>
+PWK : <id>Comm.</id> <disp>Commentar - commentary</disp>
+* DONE Comment. : 1 : GAS=
+GAS : <id>Comment.</id> <disp>Commentar - commentary</disp>
+* DONE Commentat. : 1 : GAS=
+GAS : <id>Commentat.</id> <disp>Commentator - commentator</disp>
+* TODO Commentatt. : 5 : GAS
+GAS : <id>Commentatt.</id> <disp>Commentatoren - commentators</disp>
+* DONE Commentt. : 13 : GAS : JIM=
+GAS : <id>Commentt.</id> <disp> - commentators (Latin)</disp>
+JIM : <id>Commentt.</id> <disp>Commentare - commentaries</disp>
+* DONE comp. : 2082 : GAS=
+GAS : <id>comp.</id> <disp>Compositum - compound</disp>
+* DONE Comp. : 32 : GAS= : PWK
+GAS : <id>Comp.</id> <disp>Compositum - compound</disp>
+PWK : <id>Comp.</id> <disp>? - compound</disp>
+* DONE compar. : 229 : GAS=
+GAS : <id>compar.</id> <disp>Comparativ - comparative</disp>
+* DONE Compar. : 2 : GAS : PWK=
+GAS : <id>Compar.</id> <disp>Comparativ - comparative</disp>
+PWK : <id>Compar.</id> <disp>Comparativ - comparative</disp>
+* DONE comparat. : 9 : GAS=
+GAS : <id>comparat.</id> <disp>Comparativ - comparative</disp>
+* DONE compon. : 75 : GAS= : PWK
+GAS : <id>compon.</id> <disp>Componente - component</disp>
+PWK : <id>compon.</id> <disp>? - ?</disp>
+* TODO compos. : 4 : GAS
+GAS : <id>compos.</id> <disp>Compositum - compound</disp>
+* DONE compp. : 128 : GAS=
+GAS : <id>compp.</id> <disp>composita - compounds</disp>
+* DONE Compp. : 8 : GAS= : PWK
+GAS : <id>Compp.</id> <disp>Composita - compounds</disp>
+PWK : <id>Compp.</id> <disp>? - compounds</disp>
+* TODO concr. : 24 : GAS : PWK
+GAS : <id>concr.</id> <disp>konkret - concrete</disp>
+PWK : <id>concr.</id> <disp>? - ?</disp>
+* TODO condit. : 14 : GAS
+GAS : <id>condit.</id> <disp>konditional / Conditionalis - conditional</disp>
+* DONE Condit. : 1 : GAS= : PWK
+GAS : <id>Condit.</id> <disp>Conditionalis - conditional</disp>
+PWK : <id>Condit.</id> <disp>? Konditional - conditional</disp>
+* DONE conj. : 45 : GAS : PWG=
+GAS : <id>conj.</id> <disp>Conjunctiv / Conjunction - subjunctive / conjunction</disp> <INFER/>
+PWG : <id>conj.</id> <disp>Conjunctiv - subjunctive (mood)</disp>
+* DONE Conj. : 160 : GAS : PWG= : PWK
+GAS : <id>Conj.</id> <disp>Conjunctiv - subjunctive</disp>
+PWG : <id>Conj.</id> <disp>Conjunctiv - subjunctive (mood)</disp>
+PWK : <id>Conj.</id> <disp>Conjunctiv - subjunctive (mood)</disp>
+* DONE Conjj. : 1 : GAS : JIM=
+GAS : <id>Conjj.</id> <disp>Conjunctive - subjunctives</disp>
+JIM : <id>Conjj.</id> <disp>Conjunctive - conjunctives</disp>
+* DONE Conjug. : 1 : GAS=
+GAS : <id>Conjug.</id> <disp>Conjugation - conjugation</disp>
+* TODO conjunct. : 1 : GAS
+GAS : <id>conjunct.</id> <disp>Conjunctiv - subjunctive</disp>
+* TODO Constr. : 3 : GAS
+GAS : <id>Constr.</id> <disp>Construction - construction</disp>
+* TODO constr. : 3 : GAS
+GAS : <id>constr.</id> <disp>construiert - construed</disp>
+* TODO coord. : 1 : GAS
+GAS : <id>coord.</id> <disp>koordiniert - coordinated</disp>
+* TODO cop. : 4 : GAS
+GAS : <id>cop.</id> <disp>Kopula - copula</disp>
+* DONE copul. : 10 : GAS : PWK=
+GAS : <id>copul.</id> <disp>kopulativ - copulative</disp>
+PWK : <id>copul.</id> <disp>Copulativ - copulative</disp>
+* DONE copul. comp. : 13 : GAS=
+GAS : <id>copul. comp.</id> <disp>kopulatives Compositum - copulative compound (dvandva)</disp>
+* DONE copulat. : 7 : GAS=
+GAS : <id>copulat.</id> <disp>kopulativ - copulative</disp>
+* TODO Corigg. : 2 : GAS
+GAS : <id>Corigg.</id> <disp>Corrigenda - corrections (Latin)</disp> <INFER/>
+* TODO Corr. : 78 : GASx
+GAS : <id>Corr.</id> <disp>Correctur - correction</disp> remove <ab> scientific name of plants
+* DONE Correl. : 12 : GAS : PWK=
+GAS : <id>Correl.</id> <disp>Correlativum - correlative</disp>
+PWK : <id>Correl.</id> <disp>Correlativ - correlative</disp>
+* DONE correl. : 9 : GAS : JIM=
+GAS : <id>correl.</id> <disp>korrelativ - correlative</disp>
+JIM : <id>correl.</id> <disp>Correlativ - correlative</disp>
+* DONE correlat. : 1 : GAS : JIM=
+GAS : <id>correlat.</id> <disp>korrelativ - correlative</disp>
+JIM : <id>correlat.</id> <disp>Correlativ - correlative</disp>
+* DONE Correlat. : 1 : GAS=
+GAS : <id>Correlat.</id> <disp>Correlativ - correlative</disp>
+* DONE Corrig. : 1 : GAS=
+GAS : <id>Corrig.</id> <disp>Corrigendum - correction (Latin)</disp>
+* DONE Corrigg. : 77 : GAS=
+GAS : <id>Corrigg.</id> <disp>Corrigenda - corrections (Latin pl.)</disp>
+* TODO corrigg. : 2 : GAS
+GAS : <id>corrigg.</id> <disp>corrigenda - corrigenda</disp>
+* TODO Cultus. : 1 : GAS
+GAS : <id>Cultus.</id> <disp>Cultus - cult / ritual practice</disp>
+* DONE D. : 38 : GAS=
+GAS : <id>D.</id> <disp>Daselbst - in the same place (ibid.)</disp> <INFER/>
+* DONE d. : 182 : GAS=
+GAS : <id>d.</id> <disp>der / die / das - the (definite article — ambiguous)</disp> <INFER/>
+* DONE d. fg. W. : 3 : GAS=
+GAS : <id>d. fg. W.</id> <disp>das folgende Wort - the following word</disp>
+* DONE d. folg. W. : 17 : GAS=
+GAS : <id>d. folg. W.</id> <disp>das folgende Wort - the following word</disp>
+* DONE d. h. : 378 : GAS : PWK=
+GAS : <id>d. h.</id> <disp>das heißt - that is (i.e.)</disp>
+PWK : <id>d. h.</id> <disp>das heisst - that means</disp>
+* DONE d. i. : 1441 : GAS : PWG= : PWK
+GAS : <id>d. i.</id> <disp>das ist - that is</disp>
+PWG : <id>d. i.</id> <disp>das ist - i.e. id est - that is</disp>
+PWK : <id>d. i.</id> <disp>das ist - i.e. id est - that is</disp>
+* DONE d. l. W. : 1 : GAS=
+GAS : <id>d. l. W.</id> <disp>das letzte Wort - the last word</disp> <INFER/>
+* TODO d. St. : 82 : GAS
+GAS : <id>d. St.</id> <disp>die Stelle - the passage</disp>
+* DONE d. vorherg. W. : 2 : GAS=
+GAS : <id>d. vorherg. W.</id> <disp>das vorhergehende Wort - the preceding word</disp>
+* DONE d. W. : 44 : GAS=
+GAS : <id>d. W.</id> <disp>das Wort - the word</disp>
+* DONE d. Ww. : 11 : GAS=
+GAS : <id>d. Ww.</id> <disp>die Wörter - the words</disp>
+* TODO da. : 3 : GAS
+GAS : <id>da.</id> <disp>daselbst - in the same place</disp>
+* TODO dag. : 1 : GAS
+GAS : <id>dag.</id> <disp>dagegen - on the other hand</disp>
+* TODO danom. abstr. : 1 : GAS
+GAS : <id>danom. abstr.</id> <disp>denominales Abstraktum - denominal abstract noun</disp> <INFER/>
+* DONE Das. : 2 : GAS : PWK=
+GAS : <id>Das.</id> <disp>daselbst - in the same place (ibid.)</disp>
+PWK : <id>Das.</id> <disp>daselbst - at that same place</disp>
+* DONE das. : 56 : GAS : PWK=
+GAS : <id>das.</id> <disp>daselbst - in the same place (ibid.)</disp>
+PWK : <id>das.</id> <disp>daselbst - at that same place</disp>
+* DONE dass. : 3827 : GAS : PWG= : PWK
+GAS : <id>dass.</id> <disp>dasselbe - the same</disp>
+PWG : <id>dass.</id> <disp>dasselbe - the same</disp>
+PWK : <id>dass.</id> <disp>dasselbe - the same</disp>
+* DONE Dat. : 1 : GAS : PWG= : PWK
+GAS : <id>Dat.</id> <disp>Dativ - dative (case)</disp>
+PWG : <id>Dat.</id> <disp>Dativ - dative (case)</disp>
+PWK : <id>Dat.</id> <disp>Dativ - dative (case)</disp>
+* DONE dat. : 466 : GAS : PWG=
+GAS : <id>dat.</id> <disp>Dativ - dative</disp>
+PWG : <id>dat.</id> <disp>Dativ - dative (case)</disp>
+* DONE datt. : 1 : GAS=
+GAS : <id>datt.</id> <disp>Dative - datives</disp>
+* DONE dazw. : 2 : GAS=
+GAS : <id>dazw.</id> <disp>dazwischen - between</disp>
+* TODO dd. : 3 : GAS
+GAS : <id>dd.</id> <disp>die beiden - the two</disp>
+* DONE dd. Ww. : 2 : GAS=
+GAS : <id>dd. Ww.</id> <disp>die beiden Wörter - the two words</disp>
+* DONE Dec. : 70 : GAS=
+GAS : <id>Dec.</id> <disp>December - December</disp>
+* DONE decl. : 3 : GAS=
+GAS : <id>decl.</id> <disp>Declination - declension</disp>
+* DONE Decl. : 30 : GAS=
+GAS : <id>Decl.</id> <disp>Declination - declension</disp>
+* DONE Declin. : 31 : GAS=
+GAS : <id>Declin.</id> <disp>Declination - declension</disp>
+* DONE declin. : 2 : GAS=
+GAS : <id>declin.</id> <disp>Declination - declension</disp>
+* TODO defect. : 1 : GAS
+GAS : <id>defect.</id> <disp>defectiv - defective</disp>
+* TODO defin. : 2 : GAS
+GAS : <id>defin.</id> <disp>definit - definite</disp>
+* TODO dem. : 6 : GAS
+GAS : <id>dem.</id> <disp>Demonstrativ - demonstrative</disp>
+* DONE demin. : 61 : GAS : JIM=
+GAS : <id>demin.</id> <disp>Diminutiv - diminutive</disp>
+JIM : <id>demin.</id> <disp>Deminutiv - diminutive</disp>
+* DONE deminn. : 1 : GAS : JIM=
+GAS : <id>deminn.</id> <disp>Diminutive - diminutives</disp>
+JIM : <id>deminn.</id> <disp>Deminutive - diminutives</disp>
+* DONE demonstr. : 14 : GAS : PWK=
+GAS : <id>demonstr.</id> <disp>Demonstrativ - demonstrative</disp>
+PWK : <id>demonstr.</id> <disp>Demonstrativ - demonstrative</disp>
+* DONE demonstratt. : 1 : GAS=
+GAS : <id>demonstratt.</id> <disp>Demonstrativa - demonstratives</disp>
+* DONE demonstrr. : 2 : GAS=
+GAS : <id>demonstrr.</id> <disp>Demonstrativa - demonstratives</disp>
+* TODO dems. : 3 : GAS
+GAS : <id>dems.</id> <disp>demselben - to the same</disp>
+* DONE Denom. : 3 : GAS : PWG : PWK=
+GAS : <id>Denom.</id> <disp>Denominativ - denominative</disp>
+PWG : <id>Denom.</id> <disp>Denominativ? - denominative</disp>
+PWK : <id>Denom.</id> <disp>Denominativ - denominative</disp>
+* DONE denom. : 268 : GAS : PWG=
+GAS : <id>denom.</id> <disp>denominativ - denominative</disp>
+PWG : <id>denom.</id> <disp>Denominativ - denominative</disp>
+* DONE denomin. : 5 : GAS=
+GAS : <id>denomin.</id> <disp>denominativ - denominative</disp>
+* DONE denominn. : 1 : GAS=
+GAS : <id>denominn.</id> <disp>denominativa - denominatives</disp>
+* DONE denomm. : 2 : GAS=
+GAS : <id>denomm.</id> <disp>denominativa - denominatives</disp>
+* TODO dergen. : 1 : GAS
+GAS : <id>dergen.</id> <disp>dergleichen (Genitiv) - of the like</disp> <INFER/>
+* DONE dergl. : 33 : GAS : PWK=
+GAS : <id>dergl.</id> <disp>dergleichen - the like</disp>
+PWK : <id>dergl.</id> <disp>dergleichen - the like, similar</disp>
+* TODO deriv. : 1 : GAS
+GAS : <id>deriv.</id> <disp>Derivat - derivative</disp>
+* TODO derivv. : 1 : GAS
+GAS : <id>derivv.</id> <disp>Derivata - derivatives</disp>
+* TODO Derivv. : 1 : GAS
+GAS : <id>Derivv.</id> <disp>Derivata - derivatives</disp>
+* DONE ders. : 312 : GAS : PWK=
+GAS : <id>ders.</id> <disp>derselbe - the same (m.)</disp>
+PWK : <id>ders.</id> <disp>derselben - the same</disp>
+* DONE Ders. : 1 : GAS=
+GAS : <id>Ders.</id> <disp>derselbe - the same (m.)</disp>
+* DONE derselb. : 3 : GAS=
+GAS : <id>derselb.</id> <disp>derselbe - the same</disp>
+* DONE des. : 10 : GAS=
+GAS : <id>des.</id> <disp>desselben - of the same</disp>
+* DONE desgl. : 876 : GAS : PWK=
+GAS : <id>desgl.</id> <disp>desgleichen - likewise</disp>
+PWK : <id>desgl.</id> <disp>desgleichen - likewise</disp>
+* DONE Desid. : 9 : GAS : PWG= : PWK
+GAS : <id>Desid.</id> <disp>Desiderativ - desiderative</disp>
+PWG : <id>Desid.</id> <disp>Desiderativ - desiderative</disp>
+PWK : <id>Desid.</id> <disp>Desiderativ - desiderative</disp>
+* DONE desid. : 748 : GAS : PWG=
+GAS : <id>desid.</id> <disp>Desiderativ - desiderative</disp>
+PWG : <id>desid.</id> <disp>Desiderativ - desiderative</disp>
+* DONE desider. : 6 : GAS=
+GAS : <id>desider.</id> <disp>Desiderativ - desiderative</disp>
+* DONE dess. : 2 : GAS=
+GAS : <id>dess.</id> <disp>desselben - of the same</disp>
+* DONE desselb. : 1 : GAS=
+GAS : <id>desselb.</id> <disp>desselben - of the same</disp>
+* DONE dgl. : 62 : GAS : PWK=
+GAS : <id>dgl.</id> <disp>dergleichen - the like</disp>
+PWK : <id>dgl.</id> <disp>desgleichen - likewise</disp>
+* DONE dies. : 34 : GAS=
+GAS : <id>dies.</id> <disp>dieser - this</disp>
+* TODO dies. St. : 1 : GAS
+GAS : <id>dies. St.</id> <disp>diese Stelle - this passage</disp>
+* DONE diesem. : 1 : GAS=
+GAS : <id>diesem.</id> <disp>diesem - to this</disp>
+* TODO diess. : 133 : GAS
+GAS : <id>diess.</id> <disp>dieses (older sp.) - this (n., older sp.)</disp>
+* TODO Dioscor. : 1 : GAS
+GAS : <id>Dioscor.</id> <disp>Dioscorides - Dioscorides (Greek pharmacologist)</disp>
+* TODO dist. : 1 : GAS
+GAS : <id>dist.</id> <disp>Distich - distich</disp>
+* TODO Dist. : 1 : GAS
+GAS : <id>Dist.</id> <disp>Distich - distich (two-line verse)</disp>
+* TODO distr. : 1 : GAS
+GAS : <id>distr.</id> <disp>distributiv - distributive</disp>
+* TODO distrib. : 1 : GAS
+GAS : <id>distrib.</id> <disp>distributiv - distributive</disp>
+* DONE dopp. : 51 : GAS : PWK=
+GAS : <id>dopp.</id> <disp>doppelt - double</disp>
+PWK : <id>dopp.</id> <disp>doppelt - double</disp>
+* TODO Dramat. : 6 : GAS
+GAS : <id>Dramat.</id> <disp>Dramatik - drama / dramatic literature</disp>
+* DONE Du. : 5 : GAS : PWG= : PWK
+GAS : <id>Du.</id> <disp>Dualis - dual (number)</disp>
+PWG : <id>Du.</id> <disp>Dual - dual </disp>
+PWK : <id>Du.</id> <disp>Dual - dual </disp>
+* DONE du. : 477 : GAS : PWG=
+GAS : <id>du.</id> <disp>Dual - dual</disp>
+PWG : <id>du.</id> <disp>Dual - dual </disp>
+* TODO ebd. : 1 : GAS : PWK
+GAS : <id>ebd.</id> <disp>ebenda - in the same place</disp>
+PWK : <id>ebd.</id> <disp>ebenda - ibid. (ibidem) - in the same source</disp>
+* TODO eben. : 5 : GAS
+GAS : <id>eben.</id> <disp>ebenso - likewise</disp>
+* DONE ebend. : 1 : PWK=
+PWK : <id>ebend.</id> <disp>ebenda - ibid. (ibidem) - in the same source</disp>
+* DONE ed. : 108 : GAS : PWK=
+GAS : <id>ed.</id> <disp>editio - edition (Latin)</disp>
+PWK : <id>ed.</id> <disp>- edition</disp>
+* TODO edend. : 1 : GAS
+GAS : <id>edend.</id> <disp>edendum - to be edited</disp>
+* DONE eig. : 214 : GAS : PWK : JIM=
+GAS : <id>eig.</id> <disp>eigentlich - properly</disp>
+JIM : <id>eig.</id> <disp>eigentlich - literally</disp>
+PWK : <id>eig.</id> <disp>? - ?</disp>
+* DONE Eig. : 2 : GAS : JIM=
+GAS : <id>Eig.</id> <disp>eigentlich - properly / strictly</disp>
+JIM : <id>Eig.</id> <disp>eigentlich - literally</disp>
+* DONE Eigenn. : 1 : GAS=
+GAS : <id>Eigenn.</id> <disp>Eigenname - proper name</disp>
+* DONE eigentl. : 5 : GAS : JIM=
+GAS : <id>eigentl.</id> <disp>eigentlich - properly</disp>
+JIM : <id>eigentl.</id> <disp>eigentlich - literally</disp>
+* TODO einf. : 3 : GAS
+GAS : <id>einf.</id> <disp>einfach - simple</disp>
+* DONE Einl. : 483 : GAS=
+GAS : <id>Einl.</id> <disp>Einleitung - introduction</disp>
+* TODO Einsch. : 1 : GAS
+GAS : <id>Einsch.</id> <disp>Einschiebsel - insertion</disp>
+* TODO Einschieb. : 9 : GAS
+GAS : <id>Einschieb.</id> <disp>Einschiebung - insertion</disp>
+* TODO einschl. : 1 : GAS
+GAS : <id>einschl.</id> <disp>einschließlich - inclusively</disp>
+* TODO einz. : 1 : GAS
+GAS : <id>einz.</id> <disp>einzeln - individual / single</disp>
+* TODO elid. : 1 : GAS
+GAS : <id>elid.</id> <disp>elidiert - elided</disp>
+* TODO ellipt. : 1 : GAS
+GAS : <id>ellipt.</id> <disp>elliptisch - elliptic</disp>
+* TODO Emend. : 1 : GAS
+GAS : <id>Emend.</id> <disp>Emendation - emendation</disp>
+* TODO encl. : 1 : GAS
+GAS : <id>encl.</id> <disp>enklitisch - enclitic</disp>
+* TODO enclit. : 3 : GAS
+GAS : <id>enclit.</id> <disp>enklitisch - enclitic</disp>
+* TODO End. : 3 : GAS
+GAS : <id>End.</id> <disp>Endung - ending</disp>
+* DONE engl. : 6 : GAS=
+GAS : <id>engl.</id> <disp>englisch - English</disp>
+* DONE enklit. : 12 : GAS= : PWK
+GAS : <id>enklit.</id> <disp>enklitisch - enclitic</disp>
+PWK : <id>enklit.</id> <disp>? - ?</disp>
+* DONE entspr. : 16 : GAS=
+GAS : <id>entspr.</id> <disp>entspricht - corresponds to</disp>
+* TODO Epith. : 1 : GAS
+GAS : <id>Epith.</id> <disp>Epitheton - epithet</disp>
+* TODO erg. : 4 : GAS
+GAS : <id>erg.</id> <disp>ergänze - supply (imperative)</disp>
+* TODO Erg. : 1 : GAS
+GAS : <id>Erg.</id> <disp>Ergänzung - supplement / completion</disp>
+* TODO Ergänz. : 3 : GAS
+GAS : <id>Ergänz.</id> <disp>Ergänzung - supplement</disp>
+* DONE Erkl. : 250 : GAS= : PWK
+GAS : <id>Erkl.</id> <disp>Erklärung - explanation</disp>
+PWK : <id>Erkl.</id> <disp>? erklären  - ? explain</disp>
+* DONE erkl. : 1 : GAS=
+GAS : <id>erkl.</id> <disp>erklärt - explained</disp>
+* DONE Erkll. : 21 : GAS=
+GAS : <id>Erkll.</id> <disp>Erklärungen - explanations</disp>
+* DONE Erklär. : 6 : GAS=
+GAS : <id>Erklär.</id> <disp>Erklärung - explanation</disp>
+* DONE Erklärr. : 1 : GAS=
+GAS : <id>Erklärr.</id> <disp>Erklärungen - explanations</disp>
+* DONE Erll. : 17 : GAS=
+GAS : <id>Erll.</id> <disp>Erklärungen - explanations (variant)</disp>
+* DONE Erläutt. : 3 : GAS=
+GAS : <id>Erläutt.</id> <disp>Erläuterungen - elucidations</disp>
+* TODO Es. : 2 : GAS
+GAS : <id>Es.</id> <disp>? - uncertain</disp> <INFER/>
+* DONE etc. : 48 : GAS : PWK=
+GAS : <id>etc.</id> <disp>et cetera - et cetera</disp>
+PWK : <id>etc.</id> <disp>et cetera - and so forth</disp>
+* DONE etym. : 42 : GAS : PWK=
+GAS : <id>etym.</id> <disp>etymologisch - etymological</disp>
+PWK : <id>etym.</id> <disp>Etymologie - etymology</disp>
+* DONE Etym. : 35 : GAS : PWK=
+GAS : <id>Etym.</id> <disp>Etymologie - etymology</disp>
+PWK : <id>Etym.</id> <disp>Etymologie - etymology</disp>
+* DONE etymol. : 2 : GAS : JIM=
+GAS : <id>etymol.</id> <disp>etymologisch - etymological</disp>
+JIM : <id>etymol.</id> <disp>Etymologie - etymology</disp>
+* DONE euph. : 1 : GAS : JIM=
+GAS : <id>euph.</id> <disp>euphemistisch / Euphemismus - euphemistic / euphemism</disp>
+JIM : <id>euph.</id> <disp>Euphemismus - euphemism</disp>
+* DONE euphem. : 18 : GAS : PWK=
+GAS : <id>euphem.</id> <disp>euphemistisch - euphemistic</disp>
+PWK : <id>euphem.</id> <disp>Euphemismus - euphemism</disp>
+* DONE Euphem. : 1 : GAS=
+GAS : <id>Euphem.</id> <disp>Euphemismus - euphemism</disp>
+* DONE explet. : 1 : GAS=
+GAS : <id>explet.</id> <disp>expletiv - expletive</disp>
+* DONE f. : 26283 : PWG= : PWK
+PWG : <id>f.</id> <disp>femininum - feminine</disp>
+PWK : <id>f.</id> <disp>femininum - feminine</disp>
+* DONE fehlerh. : 1 : GAS=
+GAS : <id>fehlerh.</id> <disp>fehlerhaft - erroneous</disp>
+* DONE Fem. : 3 : GAS : PWK=
+GAS : <id>Fem.</id> <disp>Femininum - feminine</disp>
+PWK : <id>Fem.</id> <disp>femininum - feminine</disp>
+* DONE femm. : 1 : GAS=
+GAS : <id>femm.</id> <disp>feminina - feminines</disp>
+* DONE fg. : 749 : GAS= : PWK
+GAS : <id>fg.</id> <disp>folgend - following</disp>
+PWK : <id>fg.</id> <disp> - and following</disp>
+* DONE fgg. : 724 : GAS= : PWK
+GAS : <id>fgg.</id> <disp>folgende - the following (pl.)</disp>
+PWK : <id>fgg.</id> <disp> - and following</disp>
+* DONE fgg. Ww. : 1 : GAS=
+GAS : <id>fgg. Ww.</id> <disp>folgende Wörter - following words</disp>
+* DONE fig. : 1 : GAS : PWK=
+GAS : <id>fig.</id> <disp>figürlich - figurative</disp>
+PWK : <id>fig.</id> <disp>figürlich - figurative</disp>
+* DONE fin. : 14 : GAS= : PWK
+GAS : <id>fin.</id> <disp>finit - finite</disp>
+PWK : <id>fin.</id> <disp>Finite - finite</disp>
+* DONE folg. : 264 : GAS=
+GAS : <id>folg.</id> <disp>folgend - following</disp>
+* DONE Folg. : 1 : GAS=
+GAS : <id>Folg.</id> <disp>Folgendes - the following</disp>
+* DONE folg. W. : 8 : GAS=
+GAS : <id>folg. W.</id> <disp>folgendes Wort - the following word</disp>
+* DONE folg. Ww. : 2 : GAS=
+GAS : <id>folg. Ww.</id> <disp>folgende Wörter - the following words</disp>
+* DONE folgend. : 3 : GAS=
+GAS : <id>folgend.</id> <disp>folgend - following</disp>
+* DONE folgg. : 22 : GAS=
+GAS : <id>folgg.</id> <disp>folgende - the following (pl.)</disp>
+* DONE folgg. Ww. : 2 : GAS=
+GAS : <id>folgg. Ww.</id> <disp>folgende Wörter - the following words</disp>
+* DONE franz. : 5 : GAS=
+GAS : <id>franz.</id> <disp>französisch - French</disp>
+* DONE fut. : 216 : GAS : PWK=
+GAS : <id>fut.</id> <disp>Futurum - future</disp>
+PWK : <id>fut.</id> <disp>Futurum - Future (tense)</disp>
+* DONE Fut. : 2 : GAS : PWK=
+GAS : <id>Fut.</id> <disp>Futurum - future tense</disp>
+PWK : <id>Fut.</id> <disp>Futurum - Future (tense)</disp>
+* DONE futt. : 1 : GAS=
+GAS : <id>futt.</id> <disp>Futura - futures</disp>
+* TODO geb. : 1 : GAS
+GAS : <id>geb.</id> <disp>geboren - born</disp>
+* TODO gebr. : 1 : GAS
+GAS : <id>gebr.</id> <disp>gebraucht - used</disp>
+* TODO geder. : 1 : GAS
+GAS : <id>geder.</id> <disp>gedeutet? - interpreted (?)</disp> <INFER/>
+* DONE gedr. : 572 : GAS : PWK=
+GAS : <id>gedr.</id> <disp>gedruckt - printed</disp>
+PWK : <id>gedr.</id> <disp>gedruckte - printed</disp>
+* TODO Gegend. : 6 : GAS
+GAS : <id>Gegend.</id> <disp>Gegenstände? - objects (?)</disp> <INFER/>
+* DONE Gegens. : 1235 : GAS : PWK=
+GAS : <id>Gegens.</id> <disp>Gegensatz - opposite / contrast</disp>
+PWK : <id>Gegens.</id> <disp>Gegensatz - contrast</disp>
+* DONE Gegenss. : 1 : GAS=
+GAS : <id>Gegenss.</id> <disp>Gegensätze - opposites</disp>
+* TODO Gegenst. : 1 : GAS
+GAS : <id>Gegenst.</id> <disp>Gegenstand - object</disp>
+* TODO gehör. : 1 : GAS
+GAS : <id>gehör.</id> <disp>gehörig - belonging to</disp>
+* DONE Gen. : 8 : GAS : PWG= : PWK
+GAS : <id>Gen.</id> <disp>Genitiv - genitive (case)</disp>
+PWG : <id>Gen.</id> <disp>Genitiv - genitive (case)</disp>
+PWK : <id>Gen.</id> <disp>Genitiv - genitive (case)</disp>
+* DONE gen. : 1101 : GAS : PWG= : PWK
+GAS : <id>gen.</id> <disp>Genitiv - genitive</disp>
+PWG : <id>gen.</id> <disp>Genitiv - genitive (case)</disp>
+PWK : <id>gen.</id> <disp>Genitiv - genitive (case)</disp>
+* DONE genit. : 1 : GAS=
+GAS : <id>genit.</id> <disp>Genitiv - genitive</disp>
+* DONE genitt. : 1 : GAS=
+GAS : <id>genitt.</id> <disp>Genitive - genitives</disp>
+* TODO genn. : 2 : GAS
+GAS : <id>genn.</id> <disp>genera - genders / kinds</disp> <INFER/>
+* DONE geogr. : 2 : GAS=
+GAS : <id>geogr.</id> <disp>geographisch - geographical</disp>
+* DONE Geom. : 4 : GAS : PWK=
+GAS : <id>Geom.</id> <disp>Geometrie - geometry</disp>
+PWK : <id>Geom.</id> <disp>Geometrie - geometry</disp>
+* DONE ger. : 6 : GAS=
+GAS : <id>ger.</id> <disp>Gerundium - gerund</disp>
+* DONE Gerichtsspr. : 3 : GAS=
+GAS : <id>Gerichtsspr.</id> <disp>Gerichtssprache - legal language</disp>
+* DONE gerund. : 42 : GAS=
+GAS : <id>gerund.</id> <disp>Gerundium - gerund</disp>
+* TODO Geschl. : 1 : GAS
+GAS : <id>Geschl.</id> <disp>Geschlecht - gender / lineage</disp>
+* DONE geschr. : 36 : GAS : PWK=
+GAS : <id>geschr.</id> <disp>geschrieben - written</disp>
+PWK : <id>geschr.</id> <disp>geschrieben - written</disp>
+* DONE gespr. : 1 : GAS=
+GAS : <id>gespr.</id> <disp>gesprochen - spoken</disp>
+* DONE gew. : 25 : GAS=
+GAS : <id>gew.</id> <disp>gewöhnlich - usually</disp>
+* TODO gezwung. : 1 : GAS
+GAS : <id>gezwung.</id> <disp>gezwungen - forced</disp>
+* DONE Gr. : 5 : GAS=
+GAS : <id>Gr.</id> <disp>Grammatik - grammar (?)</disp> <INFER/>
+* DONE Gramm. : 47 : GAS : PWK=
+GAS : <id>Gramm.</id> <disp>Grammatik - grammar</disp>
+PWK : <id>Gramm.</id> <disp>Grammatik - grammar</disp>
+* DONE gramm. : 57 : GAS : PWK=
+GAS : <id>gramm.</id> <disp>grammatisch - grammatical</disp>
+PWK : <id>gramm.</id> <disp>Grammatik - grammar</disp>
+* DONE grammat. : 7 : GAS=
+GAS : <id>grammat.</id> <disp>grammatisch - grammatical</disp>
+* DONE Grammat. : 1 : GAS : JIM=
+GAS : <id>Grammat.</id> <disp>Grammatiker - grammarian(s)</disp>
+JIM : <id>Grammat.</id> <disp>Grammatik - grammar</disp>
+* DONE Hamb. Hdschrr. : 1 : GAS=
+GAS : <id>Hamb. Hdschrr.</id> <disp>Hamburger Handschriften - Hamburg manuscripts</disp>
+* DONE Handschr. : 9 : GAS=
+GAS : <id>Handschr.</id> <disp>Handschrift - manuscript</disp>
+* DONE Handschrr. : 14 : GAS : PWK=
+GAS : <id>Handschrr.</id> <disp>Handschriften - manuscripts</disp>
+PWK : <id>Handschrr.</id> <disp>Handschrift - manuscript</disp>
+* TODO Hdchr. : 1 : GAS
+GAS : <id>Hdchr.</id> <disp>Handschrift - manuscript (variant spelling)</disp> <INFER/>
+* DONE Hdschr. : 169 : GAS : PWK=
+GAS : <id>Hdschr.</id> <disp>Handschrift - manuscript</disp>
+PWK : <id>Hdschr.</id> <disp>Handschrift - manuscript</disp>
+* DONE Hdschrr. : 146 : GAS : PWK=
+GAS : <id>Hdschrr.</id> <disp>Handschriften - manuscripts</disp>
+PWK : <id>Hdschrr.</id> <disp>Handschrifte - manuscripts</disp>
+* TODO Hdsichr. : 1 : GAS
+GAS : <id>Hdsichr.</id> <disp>Handschrift - manuscript (likely typo)</disp> <INFER/>
+* TODO Hem. : 2 : GAS
+GAS : <id>Hem.</id> <disp>Hemacandra - Hemacandra (Sanskrit lexicographer)</disp> <INFER/>
+* DONE herausg. : 6 : GAS=
+GAS : <id>herausg.</id> <disp>herausgegeben - edited by</disp>
+* TODO Hypokor. : 1 : GAS
+GAS : <id>Hypokor.</id> <disp>Hypokoristikum - hypocoristic (term of endearment)</disp>
+* TODO Hypokorr. : 1 : GAS
+GAS : <id>Hypokorr.</id> <disp>Hypokoristiken - hypocoristics</disp>
+* DONE i. e. : 5 : GAS=
+GAS : <id>i. e.</id> <disp>id est - that is (Latin)</disp>
+* DONE ibid. : 32 : GAS=
+GAS : <id>ibid.</id> <disp>ibidem - in the same place (Latin)</disp>
+* DONE id. : 27 : GAS=
+GAS : <id>id.</id> <disp>idem - the same (Latin)</disp>
+* TODO ident. : 2 : GAS
+GAS : <id>ident.</id> <disp>identisch - identical</disp>
+* TODO identif. : 11 : GAS
+GAS : <id>identif.</id> <disp>identifiziert - identified</disp>
+* TODO Identif. : 1 : GAS
+GAS : <id>Identif.</id> <disp>Identifikation - identification</disp>
+* TODO Imacc. : 1 : GAS
+GAS : <id>Imacc.</id> <disp>? - uncertain — possibly Imperfectum accentuiert</disp> <INFER/>
+* DONE imp. : 2 : GAS=
+GAS : <id>imp.</id> <disp>Imperativ - imperative</disp>
+* DONE imper. : 19 : GAS : PWK=
+GAS : <id>imper.</id> <disp>Imperativ - imperative</disp>
+PWK : <id>imper.</id> <disp>Imperativ - imperative</disp>
+* DONE imperat. : 87 : GAS : PWK=
+GAS : <id>imperat.</id> <disp>Imperativ - imperative</disp>
+PWK : <id>imperat.</id> <disp>Imperativ - imperative</disp>
+* DONE imperf. : 61 : GAS=
+  GAS : <id>imperf.</id> <disp>Imperfectum - imperfect</disp>
+* DONE Imperf. : 1 : GAS : PWK=
+GAS : <id>Imperf.</id> <disp>Imperfectum - imperfect (tense)</disp>
+PWK : <id>Imperf.</id> <disp>Imperfektum - imperfect tense</disp>
+* TODO impers. : 257 : GAS : PWK
+GAS : <id>impers.</id> <disp>impersonal - impersonal</disp>
+PWK : <id>impers.</id> <disp>? - ?</disp>
+* TODO imperson. : 1 : GAS
+GAS : <id>imperson.</id> <disp>impersonal - impersonal</disp>
+* TODO Impl. : 1 : GAS
+GAS : <id>Impl.</id> <disp>Implizit? - implicit (?)</disp> <INFER/>
+* TODO incl. : 2 : GAS
+GAS : <id>incl.</id> <disp>inklusive - inclusive</disp>
+* TODO incomp. : 1 : GAS
+GAS : <id>incomp.</id> <disp>incompositum - non-compound</disp>
+* TODO Incomp. : 1 : GAS
+GAS : <id>Incomp.</id> <disp>Incompositum - non-compound</disp>
+* TODO ind. : 34 : GAS
+GAS : <id>ind.</id> <disp>indisch / Indikativ - Indian / indicative</disp> <INFER/> Jim: indeclinable
+* TODO Ind. : 77 : GAS : PWK
+GAS : <id>Ind.</id> <disp>Indien / indisch - India / Indian</disp> <INFER/>
+PWK : <id>Ind.</id> <disp>Indeclinabilum - indeclinable</disp>
+* DONE indecl. : 139 : GAS : PWG=
+GAS : <id>indecl.</id> <disp>indeclinabile - indeclinable</disp>
+PWG : <id>indecl.</id> <disp>Indeclinabilum - indeclinable</disp> 
+* DONE indecll. : 4 : GAS=
+GAS : <id>indecll.</id> <disp>indeclinabilia - indeclinables</disp>
+* DONE Indecll. : 1 : GAS=
+GAS : <id>Indecll.</id> <disp>Indeclinabilia - indeclinables</disp>
+* DONE indef. : 9 : GAS : PWK=
+GAS : <id>indef.</id> <disp>indefinit - indefinite</disp>
+PWK : <id>indef.</id> <disp>Indefiniter - indefinite</disp>
+* DONE indefin. : 4 : GAS=
+GAS : <id>indefin.</id> <disp>indefinit - indefinite</disp>
+* TODO indic. : 2 : GAS
+GAS : <id>indic.</id> <disp>Indikativ - indicative</disp>
+* DONE Inf. : 1 : GAS : PWG= : PWK
+GAS : <id>Inf.</id> <disp>Infinitiv - infinitive</disp>
+PWG : <id>Inf.</id> <disp>Infinitiv - infinitive</disp>
+PWK : <id>Inf.</id> <disp>Infinitiv - infinitive</disp>
+* DONE inf. : 94 : GAS : PWG=
+GAS : <id>inf.</id> <disp>Infinitiv - infinitive</disp>
+PWG : <id>inf.</id> <disp>Infinitiv - infinitive</disp>
+* DONE infin. : 266 : GAS : PWG= : PWK
+GAS : <id>infin.</id> <disp>Infinitiv - infinitive</disp>
+PWG : <id>infin.</id> <disp>Infinitiv - infinitive</disp>
+PWK : <id>infin.</id> <disp>Infinitiv - infinitive</disp>
+* DONE Infin. : 1 : GAS : PWG= : PWK
+GAS : <id>Infin.</id> <disp>Infinitiv - infinitive</disp>
+PWG : <id>Infin.</id> <disp>Infinitiv - infinitive</disp>
+PWK : <id>Infin.</id> <disp>Infinitiv - infinitive</disp>
+* DONE infinit. : 5 : GAS=
+GAS : <id>infinit.</id> <disp>Infinitiv - infinitive</disp>
+* DONE Inhaltsv. : 1 : GAS=
+GAS : <id>Inhaltsv.</id> <disp>Inhaltsverzeichnis - table of contents</disp>
+* DONE Inhaltsverz. : 3 : GAS=
+GAS : <id>Inhaltsverz.</id> <disp>Inhaltsverzeichnis - table of contents</disp>
+* DONE insb. : 5 : GAS=
+GAS : <id>insb.</id> <disp>insbesondere - in particular</disp>
+* DONE insbes. : 427 : GAS : PWK=
+GAS : <id>insbes.</id> <disp>insbesondere - in particular</disp>
+PWK : <id>insbes.</id> <disp>insbesondere - in particular</disp>
+* DONE Insbes. : 52 : GAS : PWK=
+GAS : <id>Insbes.</id> <disp>insbesondere - in particular</disp>
+PWK : <id>Insbes.</id> <disp>insbesondere - in particular</disp>
+* DONE Inschr. : 559 : GAS= : PWK
+GAS : <id>Inschr.</id> <disp>Inschrift - inscription</disp>
+PWK : <id>Inschr.</id> <disp>inschrifte - inscription</disp>
+* DONE Inschrr. : 1 : GAS=
+GAS : <id>Inschrr.</id> <disp>Inschriften - inscriptions</disp>
+* TODO insens. : 2 : GAS
+GAS : <id>insens.</id> <disp>in sensu - in the sense (of) (Latin)</disp>
+* DONE Instr. : 11 : GAS : PWG= : PWK
+GAS : <id>Instr.</id> <disp>Instrumental - instrumental (case)</disp>
+PWG : <id>Instr.</id> <disp>Instrumental - instrumental (case)</disp>
+PWK : <id>Instr.</id> <disp>Instrumental - instrumental (case)</disp>
+* DONE instr. : 981 : GAS : PWG= : PWK
+GAS : <id>instr.</id> <disp>Instrumental - instrumental</disp>
+PWG : <id>instr.</id> <disp>Instrumental - instrumental (case)</disp>
+PWK : <id>instr.</id> <disp>Instrumental - instrumental (case)</disp>
+* TODO instrans. : 1 : GAS
+GAS : <id>instrans.</id> <disp>intransitiv (typo) - intransitive (likely typo)</disp> <INFER/>
+* DONE instrr. : 2 : GAS=
+GAS : <id>instrr.</id> <disp>Instrumentalia - instrumentals</disp>
+* DONE Intens. : 2 : GAS : PWG= : PWK
+GAS : <id>Intens.</id> <disp>Intensiv - intensive</disp>
+PWG : <id>Intens.</id> <disp>Intensiv - intensive</disp>
+PWK : <id>Intens.</id> <disp>Intensiv - intensive</disp>
+* DONE intens. : 438 : GAS : PWG= : PWK
+GAS : <id>intens.</id> <disp>Intensiv - intensive</disp>
+PWG : <id>intens.</id> <disp>Intensiv - intensive</disp>
+PWK : <id>intens.</id> <disp>Intensiv - intensive</disp>
+* DONE Interj. : 3 : GAS : PWG= : PWK
+GAS : <id>Interj.</id> <disp>Interjektion - interjection</disp>
+PWG : <id>Interj.</id> <disp>Interjection - interjection </disp>
+PWK : <id>Interj.</id> <disp>Interjection - interjection </disp>
+* DONE interj. : 90 : PWG=
+PWG : <id>interj.</id> <disp>Interjection - interjection </disp>
+* TODO Interpol. : 1 : GAS
+GAS : <id>Interpol.</id> <disp>Interpolation - interpolation</disp>
+* TODO Interpr. : 1 : GAS
+GAS : <id>Interpr.</id> <disp>Interpretation - interpretation</disp>
+* DONE interr. : 21 : GAS : PWK=
+GAS : <id>interr.</id> <disp>interrogativ - interrogative</disp>
+PWK : <id>interr.</id> <disp>Interrogativ - interrogative</disp>
+* DONE interrog. : 13 : GAS : PWK=
+GAS : <id>interrog.</id> <disp>interrogativ - interrogative</disp>
+PWK : <id>interrog.</id> <disp>Interrogativ - interrogative</disp>
+* DONE interrogatt. : 1 : GAS=
+GAS : <id>interrogatt.</id> <disp>interrogativa - interrogatives</disp>
+* DONE interrogg. : 1 : GAS=
+GAS : <id>interrogg.</id> <disp>interrogativa - interrogatives</disp>
+* TODO intr. : 7 : GAS : PWK
+GAS : <id>intr.</id> <disp>intransitiv - intransitive</disp>
+PWK : <id>intr.</id> <disp> - introduction</disp>
+* DONE intrans. : 92 : GAS : PWK=
+GAS : <id>intrans.</id> <disp>intransitiv - intransitive</disp>
+PWK : <id>intrans.</id> <disp>intransitiv - intransitive</disp>
+* DONE intransit. : 6 : GAS : PWK=
+GAS : <id>intransit.</id> <disp>intransitiv - intransitive</disp>
+PWK : <id>intransit.</id> <disp>intransitiv - intransitive</disp>
+* DONE Jahrh. : 18 : GAS : PWK=
+GAS : <id>Jahrh.</id> <disp>Jahrhundert - century</disp>
+PWK : <id>Jahrh.</id> <disp>jahrhundert - century</disp>
+* DONE Jmd. : 6 : GAS : PWK=
+GAS : <id>Jmd.</id> <disp>Jemand - someone</disp>
+PWK : <id>Jmd.</id> <disp>Jmden - someone</disp>
+* TODO jur. : 4 : GAS
+GAS : <id>jur.</id> <disp>juridisch - juridical / legal</disp>
+* TODO Kap. : 4 : GAS
+GAS : <id>Kap.</id> <disp>Kapitel - chapter</disp>
+* TODO Kat. : 3 : GAS
+GAS : <id>Kat.</id> <disp>Katalog - catalog</disp>
+* TODO Kl. : 11 : GAS
+GAS : <id>Kl.</id> <disp>Klasse - (verb) class</disp>
+* TODO körperl. : 1 : GAS
+GAS : <id>körperl.</id> <disp>körperlich - bodily</disp>
+* TODO lang. : 1 : GAS
+GAS : <id>lang.</id> <disp>langer Vocal / Sprache - long vowel / language</disp> <INFER/>
+* TODO Lexicc. : 1 : GAS
+GAS : <id>Lexicc.</id> <disp>Lexici - lexica (Latin gen.pl.)</disp>
+* DONE Lexicogr. : 2 : GAS=
+GAS : <id>Lexicogr.</id> <disp>Lexicograph - lexicographer</disp>
+* DONE Lexicogrr. : 37 : GAS=
+GAS : <id>Lexicogrr.</id> <disp>Lexicographen - lexicographers</disp>
+* TODO Lexx. : 1 : GAS
+GAS : <id>Lexx.</id> <disp>Lexica - lexica (Latin pl.)</disp>
+* TODO Lit. : 3 : GAS
+GAS : <id>Lit.</id> <disp>Literatur - literature</disp>
+* DONE lith. : 13 : GAS JIM=
+GAS : <id>lith.</id> <disp>litauisch - Lithuanian</disp>
+JIM : <id>lith.</id> <disp>lithografisch - lithographic</disp>
+* TODO Litt. : 1 : GAS
+GAS : <id>Litt.</id> <disp>literarisch - literary</disp>
+* DONE liturg. : 11 : GAS : PWK=
+GAS : <id>liturg.</id> <disp>liturgisch - liturgical</disp>
+PWK : <id>liturg.</id> <disp>liturgisch - liturgical</disp>
+* DONE Loc. : 9 : GAS : PWG= : PWK
+GAS : <id>Loc.</id> <disp>Locativ - locative (case)</disp>
+PWG : <id>Loc.</id> <disp>Locativ - locative case</disp>
+PWK : <id>Loc.</id> <disp>Locativ - locative case</disp>
+* DONE loc. : 1249 : GAS : PWG=
+GAS : <id>loc.</id> <disp>Locativ - locative</disp>
+PWG : <id>loc.</id> <disp>Locativ - locative case</disp>
+* TODO locc. : 3 : GAS
+GAS : <id>locc.</id> <disp>Locativa - locatives</disp>
+* TODO log. : 2 : GAS
+GAS : <id>log.</id> <disp>logisch - logical</disp>
+* DONE m. : 44771 : PWG= : PWK
+PWG : <id>m.</id> <disp>masculinum - masculine</disp>
+PWK : <id>m.</id> <disp>masculinum - masculine</disp>
+* TODO mannigf. : 1 : GAS
+GAS : <id>mannigf.</id> <disp>mannigfaltig - manifold / various</disp>
+* TODO Mannsn. : 1 : GAS
+GAS : <id>Mannsn.</id> <disp>Mannsname - man's name</disp>
+* DONE masc. : 207 : GAS : PWK=
+GAS : <id>masc.</id> <disp>Maskulinum - masculine</disp>
+PWK : <id>masc.</id> <disp>masculinum - masculine</disp>
+* DONE Math. : 3 : GAS : PWK=
+GAS : <id>Math.</id> <disp>Mathematik - mathematics</disp>
+PWK : <id>Math.</id> <disp>Mathematik - mathematics</disp>
+* DONE math. : 1 : GAS : PWK=
+GAS : <id>math.</id> <disp>mathematisch - mathematical</disp>
+PWK : <id>math.</id> <disp>Mathematik - mathematics</disp>
+* DONE mathem. : 7 : GAS : PWK=
+GAS : <id>mathem.</id> <disp>mathematisch - mathematical</disp>
+PWK : <id>mathem.</id> <disp>Mathematik - mathematics</disp>
+* DONE Mathem. : 3 : GAS : PWK=
+GAS : <id>Mathem.</id> <disp>Mathematik - mathematics</disp>
+PWK : <id>Mathem.</id> <disp>Mathematik - mathematics</disp>
+* DONE Mathemm. : 8 : GAS=
+GAS : <id>Mathemm.</id> <disp>Mathematiker - mathematicians</disp>
+* DONE med. : 1933 : GAS : PWG=
+GAS : <id>med.</id> <disp>medicinisch / medium - medicinal / middle voice</disp> <INFER/>
+PWG : <id>med.</id> <disp>Medizin - medicine</disp>
+* DONE medic. : 67 : GAS : PWK : JIM=
+GAS : <id>medic.</id> <disp>medicinisch - medicinal</disp>
+PWK : <id>medic.</id> <disp>medizin - medicine</disp>
+JIM : <id>medic.</id> <disp>medicinisch - medicinal / medical</disp>
+* DONE Medic. : 1 : GAS : JIM=
+GAS : <id>Medic.</id> <disp>Medicin - medicine</disp>
+JIM : <id>Medic.</id> <disp>medicinisch - medicinal / medical</disp>
+* TODO met. : 1 : GAS
+GAS : <id>met.</id> <disp>metonymisch / metaphorisch - metonymical / metaphorical</disp> <INFER/>
+* TODO meton. : 1 : GAS
+GAS : <id>meton.</id> <disp>metonymisch - metonymical</disp>
+* TODO metonym. : 1 : GAS
+GAS : <id>metonym.</id> <disp>metonymisch - metonymical</disp>
+* TODO metr. : 3 : GAS
+GAS : <id>metr.</id> <disp>metrisch - metrical</disp>
+* DONE metron. : 214 : GAS : PWG=
+GAS : <id>metron.</id> <disp>metronymisch - metronymical</disp>
+PWG : <id>metron.</id> <disp>Metronym - metronym</disp>
+* DONE metronn. : 1 : GAS : JIM=
+GAS : <id>metronn.</id> <disp>Metronymika - metronymics</disp>
+JIM : <id>metronn.</id> <disp>Metronyme - metronyms</disp>
+* TODO mineral. : 1 : GAS
+GAS : <id>mineral.</id> <disp>mineralogisch - mineralogical</disp>
+* TODO mitact. : 1 : GAS
+GAS : <id>mitact.</id> <disp>mit dem Activum - with the active voice</disp>
+* TODO mitfolg. : 1 : GAS
+GAS : <id>mitfolg.</id> <disp>mit folgendem - with following</disp>
+* TODO moral. : 3 : GAS
+GAS : <id>moral.</id> <disp>moralisch - moral</disp>
+* TODO Mpt. : 3 : GAS
+GAS : <id>Mpt.</id> <disp>Manuskript - manuscript</disp>
+* TODO Mspt. : 1 : GAS
+GAS : <id>Mspt.</id> <disp>Manuskript - manuscript</disp>
+* DONE Mss. : 2 : GAS : PWK=
+GAS : <id>Mss.</id> <disp>Manuscripta - manuscripts (Latin pl.)</disp>
+PWK : <id>Mss.</id> <disp>manuskripte - manuscripts</disp>
+* DONE musik. : 32 : GAS : PWK=
+GAS : <id>musik.</id> <disp>musikalisch - musical</disp>
+PWK : <id>musik.</id> <disp>Musikalität, musikalisch  - music, musicla</disp>
+* DONE myst. : 22 : GAS=
+GAS : <id>myst.</id> <disp>mystisch - mystical</disp>
+* DONE myth. : 2 : GAS=
+GAS : <id>myth.</id> <disp>mythologisch - mythological</disp>
+* DONE Myth. : 1 : GAS=
+GAS : <id>Myth.</id> <disp>Mythologie - mythology</disp>
+* DONE Mythol. : 3 : GAS=
+GAS : <id>Mythol.</id> <disp>Mythologie - mythology</disp>
+* DONE mythol. : 2 : GAS=
+GAS : <id>mythol.</id> <disp>mythologisch - mythological</disp>
+* DONE N. : 5373 : GAS : PWG= : PWK
+GAS : <id>N.</id> <disp>Name / Namen - name (uncertain in isolation — see local list)</disp> <INFER/>
+PWG : <id>N.</id> <disp>Namen - name</disp>
+PWK : <id>N.</id> <disp>Namen - name</disp>
+* DONE n. : 22473 : PWG= : PWK
+PWG : <id>n.</id> <disp>neutrum - neuter</disp>
+PWK : <id>n.</id> <disp>neutrum - neuter</disp>
+* DONE n. abstr. : 1 : GAS=
+GAS : <id>n. abstr.</id> <disp>nomen abstractum - abstract noun</disp>
+* DONE N. abstr. : 1 : GAS=
+GAS : <id>N. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+* TODO N. appell. : 1 : GAS
+GAS : <id>N. appell.</id> <disp>Nomen appellativum - appellative / common noun</disp>
+* DONE n. Chr. : 1 : GAS : PWK=
+GAS : <id>n. Chr.</id> <disp>nach Christus - after Christ (AD)</disp>
+PWK : <id>n. Chr.</id> <disp>nach Christus - after Christ</disp>
+* DONE N. pr. : 17791 : GAS : PWG : PWK=
+GAS : <id>N. pr.</id> <disp>Nomen proprium - proper noun</disp>
+PWG : <id>N. pr.</id> <disp>Nomen proprium? - proper noun</disp>
+PWK : <id>N. pr.</id> <disp>Nomen proprium - proper noun</disp>
+* DONE n. pr. : 40 : GAS=
+GAS : <id>n. pr.</id> <disp>nomen proprium - proper noun</disp>
+* DONE N. Pr. : 5 : GAS : PWK=
+GAS : <id>N. Pr.</id> <disp>Nomen Proprium - proper noun (capitalized form)</disp>
+PWK : <id>N. Pr.</id> <disp>Nomen proprium - proper noun</disp>
+* DONE nachf. : 2 : GAS=
+GAS : <id>nachf.</id> <disp>nachfolgend - subsequent</disp>
+* DONE nachfolg. : 1 : GAS=
+GAS : <id>nachfolg.</id> <disp>nachfolgend - subsequent</disp>
+* TODO Nachk. : 1 : GAS
+GAS : <id>Nachk.</id> <disp>Nachkomme - descendant</disp>
+* DONE Nachtr. : 1 : GAS=
+GAS : <id>Nachtr.</id> <disp>Nachtrag - addendum</disp>
+* DONE Nachtrr. : 2 : GAS=
+GAS : <id>Nachtrr.</id> <disp>Nachträge - addenda</disp>
+* DONE nam. : 8 : GAS=
+GAS : <id>nam.</id> <disp>namentlich - especially / by name</disp>
+* DONE namentl. : 11 : GAS=
+GAS : <id>namentl.</id> <disp>namentlich - especially / by name</disp>
+* DONE Nebenf. : 1 : GAS=
+GAS : <id>Nebenf.</id> <disp>Nebenform - secondary / variant form</disp>
+* DONE neg. : 8 : GAS=
+GAS : <id>neg.</id> <disp>negativ - negative</disp>
+* DONE Neg. : 17 : GAS : PWK=
+GAS : <id>Neg.</id> <disp>Negation - negation</disp>
+PWK : <id>Neg.</id> <disp>Negativ - negative</disp>
+* DONE negat. : 4 : GAS=
+GAS : <id>negat.</id> <disp>negativ - negative</disp>
+* DONE Negat. : 2 : GAS : PWK=
+GAS : <id>Negat.</id> <disp>Negation - negation</disp>
+PWK : <id>Negat.</id> <disp>Negativ - negative</disp>
+* DONE neutr. : 276 : GAS : PWK=
+GAS : <id>neutr.</id> <disp>Neutrum - neuter</disp>
+PWK : <id>neutr.</id> <disp>Neutrum - neuter</disp>
+* TODO niedrig. : 3 : GAS
+GAS : <id>niedrig.</id> <disp>niedrig - low / base (style)</disp> <INFER/>
+* DONE Nn. : 4 : GAS : JIM=
+GAS : <id>Nn.</id> <disp>Nomina - nouns (Latin pl.)</disp>
+JIM : <id>Nn.</id> <disp>Nomina - names</disp>
+* DONE Nn. prr. : 8 : GAS=
+GAS : <id>Nn. prr.</id> <disp>Nomina propria - proper nouns (Latin pl.)</disp>
+* DONE Nom. : 2 : GAS : PWG= : PWK
+GAS : <id>Nom.</id> <disp>Nominativ - nominative (case)</disp>
+PWG : <id>Nom.</id> <disp>Nominativ - nominative (case)</disp>
+PWK : <id>Nom.</id> <disp>Nomen - noun</disp>
+* DONE nom. : 619 : GAS : PWG=
+GAS : <id>nom.</id> <disp>Nominativ / nomen - nominative / noun</disp>
+PWG : <id>nom.</id> <disp>Nominativ - nominative (case)</disp>
+* DONE nom. abst. : 2 : GAS=
+GAS : <id>nom. abst.</id> <disp>nomen abstractum - abstract noun</disp>
+* DONE Nom. abstr. : 12 : GAS : PWG= : PWK
+GAS : <id>Nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+PWG : <id>Nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+PWK : <id>Nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+* DONE nom. abstr. : 1441 : GAS : PWG=
+GAS : <id>nom. abstr.</id> <disp>nomen abstractum - abstract noun</disp>
+PWG : <id>nom. abstr.</id> <disp>Nomen abstractum - abstract noun</disp>
+* DONE nom. abstract. : 1 : GAS=
+GAS : <id>nom. abstract.</id> <disp>nomen abstractum - abstract noun</disp>
+* DONE Nom. act. : 6 : GAS=
+GAS : <id>Nom. act.</id> <disp>Nomen actionis - action noun</disp>
+* DONE nom. act. : 388 : GAS=
+GAS : <id>nom. act.</id> <disp>nomen actionis - action noun</disp>
+* DONE nom. ag. : 965 : GAS= : PWG
+GAS : <id>nom. ag.</id> <disp>nomen agentis - agent noun</disp>
+PWG : <id>nom. ag.</id> <disp>Nomen agentis - nomen agentis</disp>
+* DONE Nom. appell. : 3 : GAS=
+GAS : <id>Nom. appell.</id> <disp>Nomen appellativum - common noun</disp>
+* DONE nom. card. : 2 : GAS=
+GAS : <id>nom. card.</id> <disp>nomen cardinale - cardinal number</disp>
+* DONE nom. gent. : 2 : GAS=
+GAS : <id>nom. gent.</id> <disp>nomen gentile - gentilic noun</disp>
+* TODO nom. ord. : 1 : GAS
+GAS : <id>nom. ord.</id> <disp>nomen ordinale - ordinal number</disp>
+* TODO nom. ordin. : 1 : GAS
+GAS : <id>nom. ordin.</id> <disp>nomen ordinale - ordinal number</disp>
+* DONE Nom. pr. : 13 : GAS : PWK=
+GAS : <id>Nom. pr.</id> <disp>Nomen proprium - proper noun</disp>
+PWK : <id>Nom. pr.</id> <disp>Nomen proprium - proper noun</disp>
+* DONE nom. pr. : 6 : GAS=
+GAS : <id>nom. pr.</id> <disp>nomen proprium - proper noun</disp>
+* DONE Nomen pr. : 2 : GAS=
+GAS : <id>Nomen pr.</id> <disp>Nomen proprium - proper noun</disp>
+* DONE nomin. : 1 : GAS : PWG=
+GAS : <id>nomin.</id> <disp>Nominativ - nominative</disp>
+PWG : <id>nomin.</id> <disp>Nominativ - nominative (case)</disp>
+* DONE Nomina ag. : 1 : GAS=
+GAS : <id>Nomina ag.</id> <disp>Nomina agentis - agent nouns</disp>
+* TODO nomm. : 7 : GAS
+GAS : <id>nomm.</id> <disp>nomina - nouns</disp>
+* TODO nomm. antret. : 1 : GAS
+GAS : <id>nomm. antret.</id> <disp>nominibus antretend - attaching to nouns</disp> <INFER/>
+* DONE Nov. : 1 : GAS=
+GAS : <id>Nov.</id> <disp>November - November</disp>
+* TODO num. : 2 : GAS
+GAS : <id>num.</id> <disp>Numerale - numeral</disp>
+* TODO num. ordin. : 1 : GAS
+GAS : <id>num. ordin.</id> <disp>numerale ordinale - ordinal number</disp>
+* DONE näml. : 70 : GAS=
+GAS : <id>näml.</id> <disp>nämlich - namely</disp>
+* DONE Obj. : 1 : GAS : PWK=
+GAS : <id>Obj.</id> <disp>Objekt - object</disp>
+PWK : <id>Obj.</id> <disp>Objekt - object</disp>
+* DONE obj. : 347 : GAS : PWK=
+GAS : <id>obj.</id> <disp>Objekt - object</disp>
+PWK : <id>obj.</id> <disp>Objekt - object</disp>
+* TODO obl. : 2 : GAS
+GAS : <id>obl.</id> <disp>Obliquus - oblique case</disp>
+* TODO od. : 4 : GAS
+GAS : <id>od.</id> <disp>oder - or</disp>
+* TODO omin. : 2 : GAS
+GAS : <id>omin.</id> <disp>Omen - omen</disp> <INFER/>
+* DONE onomat. : 21 : GAS : PWK=
+GAS : <id>onomat.</id> <disp>onomatopoetisch - onomatopoeic</disp>
+PWK : <id>onomat.</id> <disp>Onomatopöie - onomatopoeia</disp>
+* DONE onomatop. : 96 : GAS : PWK=
+GAS : <id>onomatop.</id> <disp>onomatopoetisch - onomatopoeic</disp>
+PWK : <id>onomatop.</id> <disp>Onomatopöie - onomatopoeia</disp>
+* TODO opt. : 2 : GAS
+GAS : <id>opt.</id> <disp>Optativ - optative</disp>
+* TODO ord. : 1 : GAS : PWK
+GAS : <id>ord.</id> <disp>Ordinalzahl - ordinal number</disp>
+PWK : <id>ord.</id> <disp>Ordinálzahl - ordinal (number)</disp>
+* DONE Ort. : 1 : GAS : JIM=
+GAS : <id>Ort.</id> <disp>Ortsname - place name</disp>
+JIM : <id>Ort.</id> <disp>ortschaft - locality</disp>
+* DONE Ortsadv. : 2 : GAS= : PWK
+GAS : <id>Ortsadv.</id> <disp>Ortsadverb - locative adverb</disp>
+PWK : <id>Ortsadv.</id> <disp>? - ?</disp>
+* DONE Ortsadvv. : 1 : GAS=
+GAS : <id>Ortsadvv.</id> <disp>Ortsadverbien - locative adverbs</disp>
+* DONE oxyt. : 425 : GAS : PWK=
+GAS : <id>oxyt.</id> <disp>oxyton - oxytone (final-stress)</disp>
+PWK : <id>oxyt.</id> <disp>Oxyton - oxytone</disp>
+* TODO oxyton. : 1 : GAS
+GAS : <id>oxyton.</id> <disp>oxytoniert - oxytone-accented</disp>
+* DONE p. : 61 : GAS=
+GAS : <id>p.</id> <disp>pagina - page (Latin)</disp>
+* DONE Padap. : 1 : GAS=
+GAS : <id>Padap.</id> <disp>Padapāṭha - Padapāṭha (Vedic word-by-word recitation)</disp>
+* TODO Par. Mpt : 1 : GAS
+GAS : <id>Par. Mpt</id> <disp>Pariser Manuskript - Paris manuscript</disp>
+* TODO parall. : 1 : GAS
+GAS : <id>parall.</id> <disp>Parallelstelle - parallel passage</disp>
+* TODO Parenth. : 1 : GAS
+GAS : <id>Parenth.</id> <disp>Parenthese - parenthesis</disp>
+* DONE parox. : 200 : GAS : PWK=
+GAS : <id>parox.</id> <disp>paroxyton - paroxytone</disp>
+PWK : <id>parox.</id> <disp>Paroxyton - paroxytone</disp>
+* DONE paroxyt. : 5 : GAS : PWK=
+GAS : <id>paroxyt.</id> <disp>paroxytoniert - paroxytone-accented</disp>
+PWK : <id>paroxyt.</id> <disp>Paroxyton - paroxytone</disp>
+* DONE part. : 144 : GAS=
+GAS : <id>part.</id> <disp>Particip - participle</disp>
+* DONE Part. : 4 : GAS : PWK=
+GAS : <id>Part.</id> <disp>Particip - participle</disp>
+PWK : <id>Part.</id> <disp>Participium - participle</disp>
+* DONE part. fut. pass. : 23 : GAS=
+GAS : <id>part. fut. pass.</id> <disp>Participium futuri passivi - future passive participle</disp>
+* DONE Partic. : 6 : GAS : PWG= : PWK
+GAS : <id>Partic.</id> <disp>Participium - participle</disp>
+PWG : <id>Partic.</id> <disp>Participium - participle</disp>
+PWK : <id>Partic.</id> <disp>Participium - participle</disp>
+* DONE partic. : 2331 : GAS : PWG=
+GAS : <id>partic.</id> <disp>Participium - participle</disp>
+PWG : <id>partic.</id> <disp>Participium - participle</disp>
+* DONE particc. : 4 : GAS=
+GAS : <id>particc.</id> <disp>Participia - participles</disp>
+* DONE Participialfut. : 3 : GAS=
+GAS : <id>Participialfut.</id> <disp>Participialfuturum - participial future</disp>
+* TODO partit. : 1 : GAS
+GAS : <id>partit.</id> <disp>Partitiv - partitive</disp>
+* DONE pass. : 1162 : GAS : PWG= : PWK
+GAS : <id>pass.</id> <disp>Passiv - passive</disp>
+PWG : <id>pass.</id> <disp>Passiv - passive</disp>
+PWK : <id>pass.</id> <disp>Passiv - passive</disp>
+* TODO patr. : 14 : GAS
+GAS : <id>patr.</id> <disp>Patronymikum - patronymic</disp>
+* DONE Patron. : 2 : GAS : PWG= : PWK
+GAS : <id>Patron.</id> <disp>Patronymikum - patronymic</disp>
+PWG : <id>Patron.</id> <disp>Patronym - patronym</disp>
+PWK : <id>Patron.</id> <disp>Patronym (Deu.)/Patronymicum(Lat.) - patronym</disp>
+* DONE patron. : 2094 : GAS : PWG=
+GAS : <id>patron.</id> <disp>Patronymikum - patronymic</disp>
+PWG : <id>patron.</id> <disp>Patronym - patronym</disp>
+* DONE patronn. : 11 : GAS : PWG=
+GAS : <id>patronn.</id> <disp>Patronymika - patronymics</disp>
+PWG : <id>patronn.</id> <disp>Patronymen - patronyms</disp>
+* DONE perf. : 106 : GAS : PWK=
+GAS : <id>perf.</id> <disp>Perfectum - perfect</disp>
+PWK : <id>perf.</id> <disp>Perfektum - perfect tense</disp>
+* TODO periphr. : 4 : GAS
+GAS : <id>periphr.</id> <disp>periphrastisch - periphrastic</disp>
+* TODO perisp. : 22 : GAS
+GAS : <id>perisp.</id> <disp>perispomeniert - perispomenon-accented</disp>
+* DONE pers. : 34 : GAS=
+GAS : <id>pers.</id> <disp>Person / persisch - person / Persian</disp> <INFER/>
+* TODO Pers. : 29 : GAS : PWK
+GAS : <id>Pers.</id> <disp>Person - person (grammatical)</disp> <INFER/> Persian (word 3 in plant names)
+PWK : <id>Pers.</id> <disp>Person - person</disp>
+* TODO person. : 10 : GAS
+GAS : <id>person.</id> <disp>Personal- - personal</disp> [personification ?]
+* TODO Person. : 4 : GAS
+GAS : <id>Person.</id> <disp>Person - person</disp>
+* DONE personif. : 130 : GAS : PWK=
+GAS : <id>personif.</id> <disp>personifiziert - personified</disp>
+PWK : <id>personif.</id> <disp>Personifikation - personification</disp>
+* DONE Personif. : 30 : GAS : PWK=
+GAS : <id>Personif.</id> <disp>Personifikation - personification</disp>
+PWK : <id>Personif.</id> <disp>Personifikation - personification</disp>
+* DONE personific. : 1 : GAS : JIM=
+GAS : <id>personific.</id> <disp>Personifizierung - personification</disp>
+JIM : <id>personific.</id> <disp>Personifikation - personification</disp>
+* TODO Phil. : 1 : GAS : PWK
+GAS : <id>Phil.</id> <disp>Philosophie - philosophy (?)</disp> <INFER/>
+PWK : <id>Phil.</id> <disp>Philosophie - philosophy</disp>
+* DONE philos. : 21 : GAS : PWK=
+GAS : <id>philos.</id> <disp>philosophisch - philosophical</disp>
+PWK : <id>philos.</id> <disp>Philosophie - philosophy</disp>
+* DONE Philos. : 4 : GAS=
+GAS : <id>Philos.</id> <disp>Philosophie - philosophy</disp>
+* DONE pl. : 3853 : GAS : PWG=
+GAS : <id>pl.</id> <disp>Plural - plural</disp>
+PWG : <id>pl.</id> <disp>Plural - plural</disp>
+* DONE Pl. : 6 : GAS : PWG= : PWK
+GAS : <id>Pl.</id> <disp>Plural - plural</disp>
+PWG : <id>Pl.</id> <disp>Plural - plural</disp>
+PWK : <id>Pl.</id> <disp>Plural - plural</disp>
+* DONE pleon. : 3 : GAS=
+GAS : <id>pleon.</id> <disp>pleonastisch - pleonastic</disp>
+* DONE plur. : 36 : GAS=
+GAS : <id>plur.</id> <disp>Plural - plural</disp>
+* TODO poet. : 2 : GAS
+GAS : <id>poet.</id> <disp>poetisch - poetic</disp>
+* TODO porox. : 1 : GAS
+GAS : <id>porox.</id> <disp>paroxyton (typo) - paroxytone (typo)</disp> <INFER/>
+* TODO pos. : 3 : GAS
+GAS : <id>pos.</id> <disp>Positiv - positive (degree)</disp>
+* TODO posit. : 1 : GAS
+GAS : <id>posit.</id> <disp>Positiv - positive (degree)</disp>
+* TODO poss. : 3 : GAS : PWK
+GAS : <id>poss.</id> <disp>Possessiv - possessive</disp>
+PWK : <id>poss.</id> <disp>Possessiv - possessive</disp>
+* TODO postp. : 1 : GAS
+GAS : <id>postp.</id> <disp>Postposition - postposition</disp>
+* DONE pot. : 12 : GAS : JIM=
+GAS : <id>pot.</id> <disp>Potential - potential mood</disp>
+JIM : <id>pot.</id> <disp>Potentialis - potential mood</disp>
+* DONE potent. : 72 : GAS : PWG=
+GAS : <id>potent.</id> <disp>Potentialis - potential mood</disp>
+PWG : <id>potent.</id> <disp>Potentialis - potential mood</disp>
+* DONE praed. : 23 : GAS=
+GAS : <id>praed.</id> <disp>Praedikat - predicate</disp>
+* DONE praep. : 94 : GAS=
+GAS : <id>praep.</id> <disp>Praeposition - preposition</disp>
+* DONE Praep. : 2 : GAS : PWK=
+GAS : <id>Praep.</id> <disp>Praeposition - preposition</disp>
+PWK : <id>Praep.</id> <disp>Praeposition - preposition</disp>
+* DONE praepos. : 1 : GAS=
+GAS : <id>praepos.</id> <disp>Praeposition - preposition</disp>
+* DONE praeposs. : 1 : GAS=
+GAS : <id>praeposs.</id> <disp>Praepositiones - prepositions</disp>
+* DONE praepp. : 25 : GAS=
+GAS : <id>praepp.</id> <disp>Praepositionen - prepositions</disp>
+* DONE praes. : 221 : GAS= : PWK
+GAS : <id>praes.</id> <disp>Praesens - present (tense)</disp>
+PWK : <id>praes.</id> <disp>Praesens - present</disp>
+* DONE praet. : 167 : GAS : PWK=
+GAS : <id>praet.</id> <disp>Praeteritum - preterite / past</disp>
+PWK : <id>praet.</id> <disp>Präteritum - preterite</disp>
+* TODO prec. : 25 : GAS
+GAS : <id>prec.</id> <disp>Precativ - precative / benedictive</disp>
+* DONE precat. : 2 : GAS=
+GAS : <id>precat.</id> <disp>Precativ - precative</disp>
+* TODO prim. : 1 : GAS
+GAS : <id>prim.</id> <disp>primär - primary</disp>
+* DONE priv. : 15 : GAS : PWK=
+GAS : <id>priv.</id> <disp>privativ - privative</disp>
+PWK : <id>priv.</id> <disp>privativ - privative</disp>
+* TODO prohib. : 1 : GAS
+GAS : <id>prohib.</id> <disp>Prohibitiv - prohibitive</disp>
+* DONE pron. : 73 : GAS : PWK=
+GAS : <id>pron.</id> <disp>Pronomen - pronoun</disp>
+PWK : <id>pron.</id> <disp>Pronomen - pronoun</disp>
+* DONE Pron. : 1 : GAS : PWK=
+GAS : <id>Pron.</id> <disp>Pronomen - pronoun</disp>
+PWK : <id>Pron.</id> <disp>Pronomen - pronoun</disp>
+* DONE pron. rel. : 6 : GAS=
+GAS : <id>pron. rel.</id> <disp>pronomen relativum - relative pronoun</disp>
+* DONE pron. subst. : 4 : GAS=
+GAS : <id>pron. subst.</id> <disp>pronomen substantivum - substantive pronoun</disp>
+* DONE pronn. : 1 : GAS=
+GAS : <id>pronn.</id> <disp>Pronomina - pronouns</disp>
+* DONE pronom. : 14 : GAS=
+GAS : <id>pronom.</id> <disp>pronominal - pronominal</disp>
+* TODO pronomm. : 9 : GAS
+GAS : <id>pronomm.</id> <disp>Pronomina - pronouns</disp>
+* DONE Pronomm. : 1 : GAS= : PWK
+GAS : <id>Pronomm.</id> <disp>Pronomina - pronouns</disp>
+PWK : <id>Pronomm.</id> <disp>Pronome - pronouns</disp>
+* TODO propar. : 1 : GAS
+GAS : <id>propar.</id> <disp>proparoxyton (variant) - proparoxytone</disp> <INFER/>
+* TODO proparax. : 1 : GAS
+GAS : <id>proparax.</id> <disp>proparoxytone (typo) - proparoxytone (typo)</disp> <INFER/>
+* DONE proparox. : 191 : GAS : PWK=
+GAS : <id>proparox.</id> <disp>proparoxytone - proparoxytone</disp>
+PWK : <id>proparox.</id> <disp>Proparoxyton - proparoxytone</disp>
+* DONE proparoxyt. : 4 : GAS : PWK=
+GAS : <id>proparoxyt.</id> <disp>proparoxytoniert - proparoxytone-accented</disp>
+PWK : <id>proparoxyt.</id> <disp>Proparoxyton - proparoxytone</disp>
+* TODO properisp. : 1 : GAS
+GAS : <id>properisp.</id> <disp>properispomeniert - properispomenon-accented</disp>
+* TODO propr. : 1 : GAS
+GAS : <id>propr.</id> <disp>proprium - proper</disp>
+* TODO Pros. : 1 : GAS
+GAS : <id>Pros.</id> <disp>Prosa - prose</disp>
+* TODO prädic. : 1 : GAS
+GAS : <id>prädic.</id> <disp>prädikativ - predicative</disp>
+* DONE Präp. : 3 : GAS : PWG= : PWK
+GAS : <id>Präp.</id> <disp>Präposition - preposition</disp>
+PWG : <id>Präp.</id> <disp>Präposition - preposition</disp>
+PWK : <id>Präp.</id> <disp>Präposition - preposition</disp>
+* DONE Präpp. : 4 : GAS : PWK=
+GAS : <id>Präpp.</id> <disp>Präpositionen - prepositions</disp>
+PWK : <id>Präpp.</id> <disp>Präpositionen - prepositions</disp>
+* DONE präpp. : 1 : GAS=
+GAS : <id>präpp.</id> <disp>Präpositionen - prepositions</disp>
+* TODO Randgl. : 8 : GAS
+GAS : <id>Randgl.</id> <disp>Randglosse - marginal gloss</disp>
+* TODO rathsam. : 1 : GAS
+GAS : <id>rathsam.</id> <disp>rathsam - advisable (older orthography)</disp>
+* DONE Rec. : 23 : GAS= : PWK
+GAS : <id>Rec.</id> <disp>Recension - recension (text version)</disp>
+PWK : <id>Rec.</id> <disp>? - recension</disp>
+* DONE Rechtsspr. : 1 : GAS=
+GAS : <id>Rechtsspr.</id> <disp>Rechtssprache - legal language</disp>
+* DONE recipr. : 5 : GAS : JIM=
+GAS : <id>recipr.</id> <disp>reziprok - reciprocal</disp>
+JIM : <id>recipr.</id> <disp>reciproc - reciprocal</disp>
+* DONE redupl. : 13 : GAS : PWK=
+GAS : <id>redupl.</id> <disp>reduplikativ / Reduplikation - reduplicative / reduplication</disp>
+PWK : <id>redupl.</id> <disp>Reduplicativ - reduplicative</disp>
+* DONE Redupl. : 17 : GAS : JIM=
+GAS : <id>Redupl.</id> <disp>Reduplikation - reduplication</disp>
+JIM : <id>Redupl.</id> <disp>Reduplicativ - reduplicative</disp>
+* DONE reduplic. : 5 : GAS : JIM=
+GAS : <id>reduplic.</id> <disp>Reduplikation - reduplication</disp>
+JIM : <id>reduplic.</id> <disp>Reduplicativ - reduplicative</disp>
+* DONE Reduplicat. : 1 : GAS=
+GAS : <id>Reduplicat.</id> <disp>Reduplikation - reduplication</disp>
+* DONE refl. : 7 : GAS : PWK=
+GAS : <id>refl.</id> <disp>reflexiv - reflexive</disp>
+PWK : <id>refl.</id> <disp>reflexiv - reflexive</disp>
+* DONE reflex. : 21 : GAS : PWK=
+GAS : <id>reflex.</id> <disp>reflexiv - reflexive</disp>
+PWK : <id>reflex.</id> <disp>reflexiv - reflexive</disp>
+* TODO reg. : 4 : GAS
+GAS : <id>reg.</id> <disp>regelmäßig - regular</disp>
+* DONE Rel. : 4 : GAS : PWK=
+GAS : <id>Rel.</id> <disp>Relativ - relative</disp>
+PWK : <id>Rel.</id> <disp>Relativ - relative</disp>
+* DONE rel. : 44 : GAS=
+GAS : <id>rel.</id> <disp>relativ - relative</disp>
+* DONE relat. : 27 : GAS : PWK=
+GAS : <id>relat.</id> <disp>relativ - relative</disp>
+PWK : <id>relat.</id> <disp>Relativ - relative</disp>
+* DONE relig. : 2 : GAS=
+GAS : <id>relig.</id> <disp>religiös - religious</disp>
+* DONE Rell. : 1 : GAS=
+GAS : <id>Rell.</id> <disp>Relativa - relatives</disp>
+* DONE resp. : 10 : GAS : PWK=
+GAS : <id>resp.</id> <disp>respective - respectively (Latin)</disp>
+PWK : <id>resp.</id> <disp>respektive - respectively</disp>
+* TODO rever. : 1 : GAS
+GAS : <id>rever.</id> <disp>reverentiell - reverential / honorific</disp>
+* DONE rhet. : 4 : GAS : PWK=
+GAS : <id>rhet.</id> <disp>rhetorisch - rhetorical</disp>
+PWK : <id>rhet.</id> <disp>Rhetorik - rhetoric</disp>
+* DONE Rhet. : 7 : GAS : PWK=
+GAS : <id>Rhet.</id> <disp>Rhetorik - rhetoric</disp>
+PWK : <id>Rhet.</id> <disp>Rhetorik - rhetoric</disp>
+* DONE S. : 422 : PWK=
+PWK : <id>S.</id> <disp>siehe - please refer, see</disp>
+* DONE s. a. : 3 : GAS=
+GAS : <id>s. a.</id> <disp>siehe auch - see also</disp>
+* DONE s. d. : 228 : GAS : PWK=
+GAS : <id>s. d.</id> <disp>siehe das Wort - see the word</disp>
+PWK : <id>s. d.</id> <disp>siehe dort - look there</disp>
+* DONE s. u. : 3417 : GAS : PWG : PWK=
+GAS : <id>s. u.</id> <disp>siehe unten / siehe unter - see below / see under</disp>
+PWG : <id>s. u.</id> <disp>siehe unten?/unter? - see below/under</disp>
+PWK : <id>s. u.</id> <disp>siehe unter - see under</disp>
+* DONE S. u. : 5 : GAS : PWG=
+GAS : <id>S. u.</id> <disp>Siehe unten - see below</disp>
+PWG : <id>S. u.</id> <disp>siehe unter - see under</disp>
+* DONE s. v. : 34 : GAS : PWK=
+GAS : <id>s. v.</id> <disp>sub voce - under the word (Latin)</disp>
+PWK : <id>s. v.</id> <disp>sub verbo (Latin) - see under the word</disp>
+* DONE sc. : 630 : GAS : PWK=
+GAS : <id>sc.</id> <disp>scilicet - namely / understand (Latin)</disp>
+PWK : <id>sc.</id> <disp>scilicet (Latin) - that is to say, namely</disp>
+* DONE Sch. : 6847 : GAS : PWK : JIM=
+GAS : <id>Sch.</id> <disp>Scholion - scholion / commentary</disp>
+PWK : <id>Sch.</id> <disp>- Scholiast or Commentator</disp>
+JIM : <id>Sch.</id> <disp>Scholion -  Scholiast or Commentator</disp>
+* TODO Schol. : 6279 : GAS : PWK
+GAS : <id>Schol.</id> <disp>Scholion - scholion</disp>
+PWK : <id>Schol.</id> <disp>- Scholiast or Commentator</disp>
+JIM : <id>Sch.</id> <disp>Scholion -  Scholiast or Commentator</disp>
+* DONE Scholl. : 38 : GAS : JIM=
+GAS : <id>Scholl.</id> <disp>Scholien - scholia</disp>
+JIM : <id>Scholl.</id> <disp>Scholiasten -  Scholiasts or Commentators</disp>
+* DONE Schreib. : 1 : GAS=
+GAS : <id>Schreib.</id> <disp>Schreibung - spelling / writing</disp>
+* DONE sg. : 936 : GAS : PWG=
+GAS : <id>sg.</id> <disp>Singular - singular</disp>
+PWG : <id>sg.</id> <disp>Singular - singular</disp>
+* DONE Sg. : 5 : GAS : PWG= : PWK
+GAS : <id>Sg.</id> <disp>Singular - singular</disp>
+PWG : <id>Sg.</id> <disp>Singular - singular</disp>
+PWK : <id>Sg.</id> <disp>Singular - singular</disp>
+* TODO sic. : 3 : GAS
+GAS : <id>sic.</id> <disp>sic - thus (in the original)</disp>
+* DONE simpl. : 243 : GAS=
+GAS : <id>simpl.</id> <disp>simplex - simple (verb form)</disp>
+* DONE sing. : 5 : GAS=
+GAS : <id>sing.</id> <disp>Singular - singular</disp>
+* DONE sog. : 24 : GAS : PWK=
+GAS : <id>sog.</id> <disp>sogenannt - so-called</disp>
+PWK : <id>sog.</id> <disp>sogenannt - so-called</disp>
+* DONE spec. : 2 : GAS=
+GAS : <id>spec.</id> <disp>speciell - specifically</disp>
+* DONE spiel. : 4 : GAS=
+GAS : <id>spiel.</id> <disp>spielend (auf) - playing on (a word)</disp>
+* TODO Spr. : 9 : GAS
+GAS : <id>Spr.</id> <disp>Spruch - saying / verse (Indische Sprüche)</disp>
+* TODO sprüchw. : 1 : GAS
+GAS : <id>sprüchw.</id> <disp>sprichwörtlich - proverbial</disp>
+* DONE st. : 2401 : GAS= : PWK
+GAS : <id>st.</id> <disp>statt - instead of</disp>
+PWK : <id>st.</id> <disp>substituiert - substituted</disp>
+* TODO St. : 22 : GAS : PWK
+GAS : <id>St.</id> <disp>Stelle - place / passage</disp> <INFER/>
+PWK : <id>St.</id> <disp>substituiert - substituted</disp>
+* DONE subj. : 117 : GAS : PWK=
+GAS : <id>subj.</id> <disp>Subjekt - subject</disp>
+PWK : <id>subj.</id> <disp>Subjekt - subject</disp>
+* DONE Subj. : 1 : GAS : PWK=
+GAS : <id>Subj.</id> <disp>Subjekt - subject</disp>
+PWK : <id>Subj.</id> <disp>Subjekt - subject</disp>
+* DONE subst. : 887 : GAS : PWG= : PWK
+GAS : <id>subst.</id> <disp>Substantiv - noun</disp>
+PWG : <id>subst.</id> <disp>Substantiv - noun</disp>
+PWK : <id>subst.</id> <disp>Substantiv - noun</disp>
+* DONE Subst. : 1 : GAS : PWG= : PWK
+GAS : <id>Subst.</id> <disp>Substantiv - substantive / noun</disp>
+PWG : <id>Subst.</id> <disp>Substantiv - noun</disp>
+PWK : <id>Subst.</id> <disp>Substantiv - noun</disp>
+* DONE substt. : 2 : GAS=
+GAS : <id>substt.</id> <disp>Substantiva - nouns</disp>
+* DONE suff. : 160 : GAS=
+GAS : <id>suff.</id> <disp>Suffix - suffix</disp>
+* DONE Suff. : 2 : GAS : PWK=
+GAS : <id>Suff.</id> <disp>Suffix - suffix</disp>
+PWK : <id>Suff.</id> <disp>Suffix - suffix</disp>
+* DONE superl. : 264 : GAS=
+GAS : <id>superl.</id> <disp>Superlativ - superlative</disp>
+* DONE Superl. : 1 : GAS : PWK=
+GAS : <id>Superl.</id> <disp>Superlativ - superlative</disp>
+PWK : <id>Superl.</id> <disp>Superlativ - superlative</disp>
+* DONE superlat. : 13 : GAS=
+GAS : <id>superlat.</id> <disp>Superlativ - superlative</disp>
+* DONE Suppl. : 44 : GAS=
+GAS : <id>Suppl.</id> <disp>Supplement - supplement</disp>
+* DONE symb. : 1 : GAS=
+GAS : <id>symb.</id> <disp>symbolisch - symbolic</disp>
+* DONE syn. : 2 : GAS : JIM=
+GAS : <id>syn.</id> <disp>Synonym - synonym</disp>
+JIM : <id>syn.</id> <disp>Synonym - synonymous</disp>
+* TODO Syn. : 6 : GAS
+GAS : <id>Syn.</id> <disp>Synonym - synonym</disp>
+* DONE synekd. : 1 : GAS=
+GAS : <id>synekd.</id> <disp>synekdochisch - synecdochic</disp>
+* DONE Synonn. : 2 : GAS=
+GAS : <id>Synonn.</id> <disp>Synonyma - synonyms</disp>
+* DONE tautol. : 2 : GAS=
+GAS : <id>tautol.</id> <disp>tautologisch - tautological</disp>
+* TODO techn. : 2 : GAS
+GAS : <id>techn.</id> <disp>technisch - technical</disp>
+* DONE term. : 1 : GAS=
+GAS : <id>term.</id> <disp>Terminus - term</disp>
+* DONE term. techn. : 1 : GAS= : PWK
+GAS : <id>term. techn.</id> <disp>terminus technicus - technical term</disp>
+PWK : <id>term. techn.</id> <disp> - technical term</disp>
+* DONE Th. : 45 : GAS=
+GAS : <id>Th.</id> <disp>Theil - part</disp>
+* DONE Tit. : 3 : GAS=
+GAS : <id>Tit.</id> <disp>Titel - title</disp>
+* DONE Titelbl. : 2 : GAS=
+GAS : <id>Titelbl.</id> <disp>Titelblatt - title page</disp>
+* DONE trans. : 89 : GAS : PWK=
+GAS : <id>trans.</id> <disp>transitiv - transitive</disp>
+PWK : <id>trans.</id> <disp>transitiv - transitive</disp>
+* DONE transit. : 23 : GAS : PWK=
+GAS : <id>transit.</id> <disp>transitiv - transitive</disp>
+PWK : <id>transit.</id> <disp>transitiv - transitive</disp>
+* TODO Trigl. : 1 : GAS
+GAS : <id>Trigl.</id> <disp>Triglotton / Trikāṇḍaśeṣa - trilingual list / Trikāṇḍaśeṣa</disp> <INFER/>
+* TODO trop. : 2 : GAS
+GAS : <id>trop.</id> <disp>tropisch - figurative (trope)</disp>
+* DONE u. : 2270 : JIM=
+JIM : <id>u.</id> <disp>unter - under </disp>
+* TODO u. d. : 162 : GAS
+GAS : <id>u. d.</id> <disp>und der/die/das - and the (ambiguous — see local list)</disp> <INFER/>
+* DONE u. s. w. : 4342 : GAS : PWK=
+GAS : <id>u. s. w.</id> <disp>und so weiter - et cetera (etc.)</disp>
+PWK : <id>u. s. w.</id> <disp>und so weiter - and so on, and so forth = etc.</disp>
+* DONE uberh. : 1 : GAS=
+GAS : <id>uberh.</id> <disp>überhaupt (older sp.) - in general (older spelling)</disp>
+* DONE Ueberh. : 4 : GAS= : PWK
+GAS : <id>Ueberh.</id> <disp>überhaupt - in general (older spelling)</disp>
+PWK : <id>Ueberh.</id> <disp>? - ?</disp>
+* DONE Uebers. : 17 : GAS : PWK=
+GAS : <id>Uebers.</id> <disp>Übersetzung - translation (older spelling)</disp>
+PWK : <id>Uebers.</id> <disp>uebersetzung - translation</disp>
+* DONE Ueberschr. : 1 : GAS=
+GAS : <id>Ueberschr.</id> <disp>Überschrift - heading</disp>
+* DONE Uebertr. : 58 : GAS : PWK : JIM=
+GAS : <id>Uebertr.</id> <disp>Übertragung - transmission / translation </disp>
+PWK : <id>Uebertr.</id> <disp>? - ?</disp>
+JIM : <id>Uebertr.</id> <disp>Übertragung - figurative sense </disp>
+* DONE umwendend. : 1 : GAS=
+GAS : <id>umwendend.</id> <disp>umwendend - turning (towards)</disp> <INFER/>
+* TODO unbel. : 1 : GAS
+GAS : <id>unbel.</id> <disp>unbelegt - not attested</disp>
+* DONE unbest. : 6 : GAS : PWK=
+GAS : <id>unbest.</id> <disp>unbestimmt - indefinite</disp>
+PWK : <id>unbest.</id> <disp>unbestimmt - indefinite, uncertain</disp>
+* DONE uneig. : 74 : GAS : PWK=
+GAS : <id>uneig.</id> <disp>uneigentlich - figuratively / improperly</disp>
+PWK : <id>uneig.</id> <disp>uneigentlich - unreal</disp>
+* DONE Uneig. : 25 : GAS : PWK=
+GAS : <id>Uneig.</id> <disp>uneigentlich - improperly / figuratively</disp>
+PWK : <id>Uneig.</id> <disp>uneigentlich - unreal</disp>
+* DONE ungedr. : 2 : GAS : PWK=
+GAS : <id>ungedr.</id> <disp>ungedruckt - unprinted</disp>
+PWK : <id>ungedr.</id> <disp>ungedrukte - unprinted</disp>
+* DONE ungramm. : 1 : GAS=
+GAS : <id>ungramm.</id> <disp>ungrammatisch - ungrammatical</disp>
+* DONE ungrammat. : 2 : GAS=
+GAS : <id>ungrammat.</id> <disp>ungrammatisch - ungrammatical</disp>
+* DONE unpers. : 2 : GAS=
+GAS : <id>unpers.</id> <disp>unpersönlich - impersonal</disp>
+* DONE unreg. : 3 : GAS=
+  GAS : <id>unreg.</id> <disp>unregelmäßig - irregular</disp>
+* DONE unregelm. : 5 : GAS=
+GAS : <id>unregelm.</id> <disp>unregelmäßig - irregular</disp>
+* DONE unricht. : 1 : GAS=
+GAS : <id>unricht.</id> <disp>unrichtig - incorrect</disp>
+* TODO Unterrschrr. : 1 : GAS
+GAS : <id>Unterrschrr.</id> <disp>Unterschriften - signatures (likely typo)</disp> <INFER/>
+* TODO Untersch. : 1 : GAS
+GAS : <id>Untersch.</id> <disp>Unterscheidung - distinction</disp>
+* DONE Unterschr. : 268 : GAS : PWK=
+GAS : <id>Unterschr.</id> <disp>Unterschrift - signature / colophon</disp>
+PWK : <id>Unterschr.</id> <disp>unterschrift  - caption, signature</disp>
+* DONE Unterschrr. : 144 : GAS : JIM=
+GAS : <id>Unterschrr.</id> <disp>Unterschriften - signatures / colophons</disp>
+JIM : <id>Unterschrr.</id> <disp>Unterschriften - captions, signatures</disp>
+* TODO urpsr. : 1 : GAS
+GAS : <id>urpsr.</id> <disp>ursprünglich (typo) - originally (typo of urspr.)</disp> <INFER/>
+* DONE urspr. : 87 : GAS : PWK=
+GAS : <id>urspr.</id> <disp>ursprünglich - originally</disp>
+PWK : <id>urspr.</id> <disp>ursprünglich - originally</disp>
+* DONE Urspr. : 4 : GAS=
+GAS : <id>Urspr.</id> <disp>ursprünglich - originally</disp>
+* DONE ursprüngl. : 3 : GAS=
+GAS : <id>ursprüngl.</id> <disp>ursprünglich - originally</disp>
+* DONE v. a. : 6520 : GAS : PWK=
+GAS : <id>v. a.</id> <disp>verbum activum - active verb</disp>
+PWK : <id>v. a.</id> <disp>vor allem - above all, especially</disp>
+* DONE v. l. : 4965 : GAS= : PWG : PWK
+GAS : <id>v. l.</id> <disp>varia lectio - variant reading</disp>
+PWG : <id>v. l.</id> <disp>vide licet - that us to say, namely</disp>
+PWK : <id>v. l.</id> <disp>vide licet - that us to say, namely</disp>
+* DONE V. l. : 1 : GAS= : PWG
+GAS : <id>V. l.</id> <disp>varia lectio - variant reading</disp>
+PWG : <id>V. l.</id> <disp>vide licet - that us to say, namely</disp>
+* DONE v. u. : 1434 : GAS : PWK=
+GAS : <id>v. u.</id> <disp>von unten - from below</disp>
+PWK : <id>v. u.</id> <disp>von unten - line number counted from below, from the last line up</disp>
+* DONE Var. : 74 : GAS=
+GAS : <id>Var.</id> <disp>Variante - variant</disp>
+* DONE var. : 1 : GAS=
+GAS : <id>var.</id> <disp>Variante - variant</disp>
+* DONE var. l. : 23 : GAS=
+GAS : <id>var. l.</id> <disp>varia lectio - variant reading</disp>
+* DONE Var. l. : 2 : GAS=
+GAS : <id>Var. l.</id> <disp>varia lectio - variant reading</disp>
+* DONE Varr. : 6 : GAS=
+GAS : <id>Varr.</id> <disp>Varianten - variants</disp>
+* DONE verb. : 10 : GAS=
+GAS : <id>verb.</id> <disp>Verbum - verb</disp>
+* DONE Verb. : 50 : GAS : PWK=
+GAS : <id>Verb.</id> <disp>Verbum - verb</disp>
+PWK : <id>Verb.</id> <disp>Verbum - verb</disp>
+* DONE verb. fin. : 30 : GAS=
+GAS : <id>verb. fin.</id> <disp>verbum finitum - finite verb</disp>
+* DONE Verb. fin. : 1 : GAS=
+GAS : <id>Verb. fin.</id> <disp>Verbum finitum - finite verb</disp>
+* DONE verbb. : 2 : GAS=
+GAS : <id>verbb.</id> <disp>Verba - verbs</disp>
+* DONE Verbind. : 30 : GAS=
+GAS : <id>Verbind.</id> <disp>Verbindung - connection / combination</disp>
+* DONE Verbindd. : 1 : GAS=
+GAS : <id>Verbindd.</id> <disp>Verbindungen - connections</disp>
+* DONE verdopp. : 1 : GAS : JIM=
+GAS : <id>verdopp.</id> <disp>verdoppelt - doubled</disp>
+JIM : <id>verdopp.</id> <disp>verdoppelung - doubling</disp>
+* DONE Verf. : 2 : GAS=
+GAS : <id>Verf.</id> <disp>Verfasser - author</disp>
+* DONE Verff. : 1 : GAS=
+GAS : <id>Verff.</id> <disp>Verfasser - authors (plural)</disp>
+* DONE vergl. : 5 : GAS=
+GAS : <id>vergl.</id> <disp>vergleiche - compare</disp>
+* DONE Vergl. : 3 : GAS : PWK=
+GAS : <id>Vergl.</id> <disp>vergleiche - compare</disp>
+PWK : <id>Vergl.</id> <disp>Vergleiche - compare</disp>
+* TODO Vern. : 1 : GAS
+GAS : <id>Vern.</id> <disp>Vernachlässigung - neglect / omission</disp> <INFER/>
+* DONE versch. : 15 : GAS=
+GAS : <id>versch.</id> <disp>verschieden - different</disp>
+* DONE verschied. : 8 : GAS=
+GAS : <id>verschied.</id> <disp>verschieden - different</disp>
+* DONE Verz. : 3 : GAS=
+GAS : <id>Verz.</id> <disp>Verzeichnis - register / list</disp>
+* DONE vgl. : 11538 : GAS : PWG= : PWK
+GAS : <id>vgl.</id> <disp>vergleiche - compare</disp>
+PWG : <id>vgl.</id> <disp>Vergleiche - compare</disp>
+PWK : <id>vgl.</id> <disp>vergleiche - compare</disp>
+* DONE Vgl. : 18304 : PWG= : PWK
+PWG : <id>Vgl.</id> <disp>Vergleiche - compare</disp>
+PWK : <id>Vgl.</id> <disp>Vergleiche - compare</disp>
+* DONE viell. : 646 : GAS : PWK=
+GAS : <id>viell.</id> <disp>vielleicht - perhaps</disp>
+PWK : <id>viell.</id> <disp>vielleicht - perhaps</disp>
+* DONE Viell. : 141 : GAS=
+GAS : <id>Viell.</id> <disp>vielleicht - perhaps</disp>
+* DONE viz. : 2 : GAS=
+GAS : <id>viz.</id> <disp>videlicet - namely (Latin)</disp>
+* DONE Voc. : 3 : GAS : PWG= : PWK
+GAS : <id>Voc.</id> <disp>Vocativ - vocative (case)</disp>
+PWG : <id>Voc.</id> <disp>Vocativ - vocative (case)</disp>
+PWK : <id>Voc.</id> <disp>Vocativ - vocative (case)</disp>
+* DONE voc. : 229 : GAS : PWG=
+GAS : <id>voc.</id> <disp>Vocativ - vocative</disp>
+PWG : <id>voc.</id> <disp>Vocativ - vocative (case)</disp>
+* TODO Volksn. : 1 : GAS
+GAS : <id>Volksn.</id> <disp>Volksname - people's / tribe name</disp>
+* DONE Vollst. : 1 : GAS=
+GAS : <id>Vollst.</id> <disp>vollständig - complete</disp>
+* DONE vollst. : 5 : GAS=
+GAS : <id>vollst.</id> <disp>vollständig - complete</disp>
+* DONE vom. : 12 : GAS=
+GAS : <id>vom.</id> <disp>vom - from the</disp>
+* TODO vor. : 19 : GAS
+GAS : <id>vor.</id> <disp>voriges - previous (entry)</disp>
+* TODO vor. W. : 1 : GAS
+GAS : <id>vor. W.</id> <disp>voriges Wort - previous (head)word</disp>
+* DONE voran. : 2 : GAS=
+GAS : <id>voran.</id> <disp>vorangehend - preceding</disp>
+* DONE vorang. : 50 : GAS=
+GAS : <id>vorang.</id> <disp>vorangehend - preceding</disp>
+* DONE vorangeh. : 14 : GAS=
+GAS : <id>vorangeh.</id> <disp>vorangehend - preceding</disp>
+* DONE vorherg. : 189 : GAS=
+GAS : <id>vorherg.</id> <disp>vorhergehend - preceding</disp>
+* DONE vorherg. W. : 1 : GAS=
+GAS : <id>vorherg. W.</id> <disp>vorhergehendes Wort - preceding word</disp>
+* DONE vorhergeh. : 4 : GAS=
+GAS : <id>vorhergeh.</id> <disp>vorhergehend - preceding</disp>
+* DONE vorhergeh. Ww. : 2 : GAS=
+GAS : <id>vorhergeh. Ww.</id> <disp>vorhergehende Wörter - preceding words</disp>
+* DONE vulg. : 240 : GAS=
+GAS : <id>vulg.</id> <disp>vulgär - vulgar / colloquial</disp>
+* DONE Vulg. : 1 : GAS : JIM=
+GAS : <id>Vulg.</id> <disp>Vulgata / vulgär - Vulgate / vulgar</disp> <INFER/>
+JIM : <id>Vulg.</id> <disp>Vulgär - vulgar / colloquial</disp>
+* DONE vv. ll. : 2 : GAS=
+GAS : <id>vv. ll.</id> <disp>variae lectiones - variant readings (pl.)</disp>
+* TODO W. : 194 : GAS
+GAS : <id>W.</id> <disp>Wort - word</disp> <INFER/>
+* TODO w. : 12 : GAS
+GAS : <id>w.</id> <disp>Wort? - word? (ambiguous — see context)</disp> <INFER/>
+* TODO Weg. : 4 : GAS
+GAS : <id>Weg.</id> <disp>wegen - because of</disp>
+* DONE weibl. : 2 : GAS=
+GAS : <id>weibl.</id> <disp>weiblich - feminine</disp>
+* TODO Wortm. : 1 : GAS
+GAS : <id>Wortm.</id> <disp>Wortmasse? - word material (?)</disp> <INFER/>
+* DONE Ww. : 2 : GAS=
+GAS : <id>Ww.</id> <disp>Wörter - words</disp>
+* DONE Wörterb. : 3 : GAS=
+GAS : <id>Wörterb.</id> <disp>Wörterbuch - dictionary</disp>
+* DONE z. : 23 : GAS=
+GAS : <id>z.</id> <disp>zu - to</disp> <INFER/>
+* DONE Z. : 1667 : JIM=
+JIM : <id>Z.</id> <disp>Zeile - line</disp>
+* DONE z. B. : 504 : GAS : PWK=
+GAS : <id>z. B.</id> <disp>zum Beispiel - for example</disp>
+PWK : <id>z. B.</id> <disp>zum Beispiel - for example</disp>
+* DONE Zahladvv. : 1 : GAS=
+GAS : <id>Zahladvv.</id> <disp>Zahladverbien - numerical adverbs</disp>
+* DONE Zahlw. : 1 : GAS=
+GAS : <id>Zahlw.</id> <disp>Zahlwort - numeral</disp>
+* TODO Zeitww. : 1 : GAS
+GAS : <id>Zeitww.</id> <disp>Zeitwörter - verbs</disp>
+* TODO zugl. : 1 : GAS
+GAS : <id>zugl.</id> <disp>zugleich - at the same time</disp>
+* TODO Zus. : 5 : GAS
+GAS : <id>Zus.</id> <disp>Zusatz - addition</disp>
+* TODO zus. : 1 : GAS
+GAS : <id>zus.</id> <disp>zusammen - together</disp>
+* TODO Zusamm. : 3 : GAS
+GAS : <id>Zusamm.</id> <disp>Zusammensetzung - composition</disp>
+* TODO zusammen. : 15 : GAS
+GAS : <id>zusammen.</id> <disp>zusammen - together</disp>
+* TODO Zusammeng. : 8 : GAS
+GAS : <id>Zusammeng.</id> <disp>zusammengezogen - contracted</disp>
+* TODO zusammeng. : 22 : GAS
+GAS : <id>zusammeng.</id> <disp>zusammengezogen - contracted</disp>
+* TODO zusammengef. : 1 : GAS
+GAS : <id>zusammengef.</id> <disp>zusammengefasst - summarized</disp>
+* TODO zusammenges. : 19 : GAS
+GAS : <id>zusammenges.</id> <disp>zusammengesetzt - compound (adj.)</disp>
+* DONE zusammengez. : 3 : GAS=
+GAS : <id>zusammengez.</id> <disp>zusammengezogen - contracted</disp>
+* DONE zusammengezog. : 1 : GAS=
+GAS : <id>zusammengezog.</id> <disp>zusammengezogen - contracted</disp>
+* DONE Zusammenh. : 3 : GAS=
+GAS : <id>Zusammenh.</id> <disp>Zusammenhang - context</disp>
+* TODO Zusammens. : 16 : GAS
+GAS : <id>Zusammens.</id> <disp>Zusammensetzung - composition</disp>
+* TODO Zusammenss. : 2 : GAS
+GAS : <id>Zusammenss.</id> <disp>Zusammensetzungen - compositions</disp>
+* TODO ähnl. : 1 : GAS
+GAS : <id>ähnl.</id> <disp>ähnlich - similar</disp>
+* TODO ält. : 3 : GAS
+GAS : <id>ält.</id> <disp>älter - older</disp>
+* DONE überh. : 602 : GAS= : PWK
+GAS : <id>überh.</id> <disp>überhaupt - in general</disp>
+PWK : <id>überh.</id> <disp>? - ?</disp>
+* TODO übers. : 3 : GAS
+GAS : <id>übers.</id> <disp>übersetzt - translated</disp>
+* TODO überth. : 1 : GAS
+GAS : <id>überth.</id> <disp>überhaupt (typo) - in general (typo of überh.)</disp> <INFER/>
+* DONE übertr. : 339 : GAS= : PWK
+GAS : <id>übertr.</id> <disp>übertragen - transferred / metaphorical</disp>
+PWK : <id>übertr.</id> <disp>? - ?</disp>
