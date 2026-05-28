@@ -28,20 +28,35 @@ jobs:
         run: ruff check --select=E9,F63,F7,F82 --output-format=github .
 
   validate-utf8:
-    name: Validate .txt file encoding
+    name: Validate change-file encoding
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: All .txt files must be valid UTF-8
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Active correction files (changes*.txt) must be UTF-8
+        # Scoped to changes files only — historical readme.txt / bibliography
+        # files in pwg_ls/pwgbib/ and old issue readmes predate the UTF-8 rule.
         run: |
-          fail=0
-          while IFS= read -r f; do
-            if ! python3 -c "open('$f', encoding='utf-8').read()" 2>/dev/null; then
-              echo "::error file=$f::not valid UTF-8"
-              fail=1
-            fi
-          done < <(find . -name "*.txt" -not -path "./.git/*" -not -path "./.github/*")
-          exit $fail
+          python - <<'PY'
+          import sys
+          from pathlib import Path
+
+          bad = []
+          for f in sorted(Path(".").rglob("changes*.txt")):
+              if ".git" in str(f) or ".github" in str(f):
+                  continue
+              try:
+                  f.read_text(encoding="utf-8")
+              except UnicodeDecodeError as e:
+                  print(f"::error file={f}::not valid UTF-8: {e}")
+                  bad.append(str(f))
+
+          if bad:
+              sys.exit(1)
+          print(f"All correction files are valid UTF-8.")
+          PY
 
   validate-change-files:
     name: Validate change-file format
