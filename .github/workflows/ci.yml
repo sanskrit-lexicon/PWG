@@ -25,9 +25,10 @@ jobs:
           python-version: "3.11"
       - run: pip install ruff
       - name: Critical errors only (old codebase — no style enforcement)
-        # F82 (undefined names) dropped: many issue-specific scripts use
-        # conditional imports and late-bound variables that produce false positives.
-        run: ruff check --select=E9,F63,F7 --output-format=github .
+        # F82 (undefined names) dropped: conditional imports and late-bound variables.
+        # misc/ excluded: contains Python 2 scripts (print-statement syntax) and
+        # one-off utilities not part of the active correction pipeline.
+        run: ruff check --select=E9,F63,F7 --output-format=github --exclude=misc .
 
   validate-utf8:
     name: Validate change-file encoding
