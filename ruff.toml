@@ -6,11 +6,12 @@
 # not part of the active correction pipeline.
 
 exclude = [
-    "misc/",           # one-off utilities, Python 2 syntax
-    "pwg_ls/pwg_dhaval/",  # early literary-source work, Python 2
-    "pwg_ls/pwgbib/",  # bibliography digitization scripts, Python 2
-    "pwg_ls1/",        # round 1 authority refinement, Python 2
-    "pwgissues/issue76/",  # old issue script, Python 2
+    "misc/",       # one-off utilities, Python 2 syntax
+    "pwg_ls/",     # early pipeline, mix of Python 2 scripts
+    "pwg_ls1/",    # round 1 authority refinement, Python 2
+    "pwgissues/",  # issue-analysis archive; many scripts are Python 2 or one-off
+    "verbs01/",    # verb identification scripts, not part of main correction pipeline
+    "verbs01a/",
 ]
 
 target-version = "py311"

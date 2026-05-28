@@ -91,6 +91,11 @@ jobs:
                   print(f"::error file={path}::Cannot read: {e}")
                   fails += 1
                   continue
+              # Qualify: only treat as change file if it has >= 1 valid change line.
+              # Skips generated stats/log files (changes_safe_stats.txt, etc.)
+              data_lines = [l.strip() for l in lines if l.strip() and not l.strip().startswith(";")]
+              if not any(rx.match(l) for l in data_lines):
+                  continue
               for i, line in enumerate(lines, 1):
                   stripped = line.strip()
                   if not stripped or stripped.startswith(";"):
