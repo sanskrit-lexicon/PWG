@@ -1,0 +1,22 @@
+# ruff.toml — PWG Python linting configuration
+#
+# PWG contains a mix of Python 2 legacy scripts (from pre-2020 data processing)
+# and modern Python 3 correction pipeline scripts. Legacy directories are
+# excluded from strict linting because they are historical research artifacts,
+# not part of the active correction pipeline.
+
+exclude = [
+    "misc/",           # one-off utilities, Python 2 syntax
+    "pwg_ls/pwg_dhaval/",  # early literary-source work, Python 2
+    "pwg_ls/pwgbib/",  # bibliography digitization scripts, Python 2
+    "pwg_ls1/",        # round 1 authority refinement, Python 2
+    "pwgissues/issue76/",  # old issue script, Python 2
+]
+
+target-version = "py311"
+
+[lint]
+# Only check for actual syntax errors and undefined critical imports.
+# F82 (undefined names) is disabled due to conditional imports and late-bound
+# variables common in this codebase.
+select = ["E9", "F63", "F7"]

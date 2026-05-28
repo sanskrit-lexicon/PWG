@@ -24,11 +24,9 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install ruff
-      - name: Critical errors only (old codebase — no style enforcement)
-        # F82 (undefined names) dropped: conditional imports and late-bound variables.
-        # misc/ excluded: contains Python 2 scripts (print-statement syntax) and
-        # one-off utilities not part of the active correction pipeline.
-        run: ruff check --select=E9,F63,F7 --output-format=github --exclude=misc .
+      - name: Critical errors only (ruff.toml controls scope and exclusions)
+        # Exclusions and rule selection live in ruff.toml, not here.
+        run: ruff check --output-format=github .
 
   validate-utf8:
     name: Validate change-file encoding
