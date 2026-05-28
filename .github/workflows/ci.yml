@@ -72,7 +72,8 @@ jobs:
           import sys, re
           from pathlib import Path
 
-          rx = re.compile(r"^\d+\s+(old|new|ins|del)\s")
+          # Allow "NNN new" with no trailing text (valid empty-replacement line)
+          rx = re.compile(r"^\d+\s+(old|new|ins|del)(\s|$)")
           fails = 0
           change_files = list(Path(".").rglob("changes*.txt"))
 
