@@ -1,0 +1,114 @@
+name: CI
+
+# PWG (Petersburger Wörterbuch) — correction-tracking repo.
+# No source files are edited directly; corrections live in pwgissues/*/changes*.txt
+# applied via updateByLine.py scripts in each issue directory.
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint-python:
+    name: Lint Python scripts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install ruff
+      - name: Critical errors only (old codebase — no style enforcement)
+        run: ruff check --select=E9,F63,F7,F82 --output-format=github .
+
+  validate-utf8:
+    name: Validate .txt file encoding
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: All .txt files must be valid UTF-8
+        run: |
+          fail=0
+          while IFS= read -r f; do
+            if ! python3 -c "open('$f', encoding='utf-8').read()" 2>/dev/null; then
+              echo "::error file=$f::not valid UTF-8"
+              fail=1
+            fi
+          done < <(find . -name "*.txt" -not -path "./.git/*" -not -path "./.github/*")
+          exit $fail
+
+  validate-change-files:
+    name: Validate change-file format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check all changes*.txt follow "NNN old/new/ins/del" format
+        run: |
+          python - <<'PY'
+          import sys, re
+          from pathlib import Path
+
+          rx = re.compile(r"^\d+\s+(old|new|ins|del)\s")
+          fails = 0
+          change_files = list(Path(".").rglob("changes*.txt"))
+
+          if not change_files:
+              print("No change files found — skipping.")
+              sys.exit(0)
+
+          for path in change_files:
+              if ".git" in str(path):
+                  continue
+              try:
+                  lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
+              except Exception as e:
+                  print(f"::error file={path}::Cannot read: {e}")
+                  fails += 1
+                  continue
+              for i, line in enumerate(lines, 1):
+                  stripped = line.strip()
+                  if not stripped or stripped.startswith(";"):
+                      continue
+                  if not rx.match(stripped):
+                      print(f"::error file={path},line={i}::Bad format: {stripped[:80]}")
+                      fails += 1
+
+          if fails:
+              sys.exit(1)
+          print(f"Validated {len(change_files)} change file(s) — all OK.")
+          PY
+
+  yaml-lint:
+    name: YAML lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pyyaml
+      - name: All .yml/.yaml files must parse
+        run: |
+          python - <<'PY'
+          import sys, glob, yaml
+          fail = 0
+          for f in glob.glob("**/*.yml", recursive=True) + glob.glob("**/*.yaml", recursive=True):
+              if ".git" in f:
+                  continue
+              try:
+                  with open(f, encoding="utf-8") as fh:
+                      yaml.safe_load(fh)
+              except yaml.YAMLError as e:
+                  print(f"::error file={f}::{e}")
+                  fail = 1
+          sys.exit(fail)
+          PY
