@@ -1,8 +1,9 @@
 name: CI
 
-# PWG (Petersburger Wörterbuch) — correction-tracking repo.
-# No source files are edited directly; corrections live in pwgissues/*/changes*.txt
-# applied via updateByLine.py scripts in each issue directory.
+# Sanskrit Lexicon dictionary repo — baseline CI.
+# Pilot-tested on PWG. Lessons applied: Python 2 dirs excluded via ruff.toml,
+# change-file validator qualifies files before checking format, UTF-8 check
+# scoped to correction files only.
 
 on:
   push:
@@ -24,40 +25,15 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install ruff
-      - name: Critical errors only (ruff.toml controls scope and exclusions)
-        # Exclusions and rule selection live in ruff.toml, not here.
-        run: ruff check --output-format=github .
-
-  validate-utf8:
-    name: Validate change-file encoding
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - name: Active correction files (changes*.txt) must be UTF-8
-        # Scoped to changes files only — historical readme.txt / bibliography
-        # files in pwg_ls/pwgbib/ and old issue readmes predate the UTF-8 rule.
+      - name: Syntax errors (ruff.toml controls scope and exclusions)
+        # ruff.toml in repo root configures exclusions and rule selection.
+        # If ruff.toml is absent, falls back to checking everything with E9/F63/F7.
         run: |
-          python - <<'PY'
-          import sys
-          from pathlib import Path
-
-          bad = []
-          for f in sorted(Path(".").rglob("changes*.txt")):
-              if ".git" in str(f) or ".github" in str(f):
-                  continue
-              try:
-                  f.read_text(encoding="utf-8")
-              except UnicodeDecodeError as e:
-                  print(f"::error file={f}::not valid UTF-8: {e}")
-                  bad.append(str(f))
-
-          if bad:
-              sys.exit(1)
-          print(f"All correction files are valid UTF-8.")
-          PY
+          if [ ! -f ruff.toml ] && [ ! -f pyproject.toml ]; then
+            ruff check --select=E9,F63,F7 --output-format=github .
+          else
+            ruff check --output-format=github .
+          fi
 
   validate-change-files:
     name: Validate change-file format
@@ -67,46 +43,95 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Check all changes*.txt follow "NNN old/new/ins/del" format
+      - name: Check changes*.txt files follow "NNN old/new/ins/del" format
         run: |
           python - <<'PY'
-          import sys, re
+          import sys, re, os
           from pathlib import Path
 
-          # Allow "NNN new" with no trailing text (valid empty-replacement line)
+          # Allow "NNN new" with no trailing content (valid empty-replacement)
           rx = re.compile(r"^\d+\s+(old|new|ins|del)(\s|$)")
           fails = 0
-          change_files = list(Path(".").rglob("changes*.txt"))
+          validated = 0
+          skipped = 0
 
-          if not change_files:
-              print("No change files found — skipping.")
-              sys.exit(0)
+          # Use os.walk with directory pruning to skip .git (rglob can race on
+          # transient .git/objects/ entries during garbage collection).
+          def find_change_files(root="."):
+              for dirpath, dirs, files in os.walk(root):
+                  dirs[:] = [d for d in dirs if d not in (".git", ".github", "node_modules")]
+                  for f in files:
+                      if f.startswith("changes") and f.endswith(".txt"):
+                          yield Path(dirpath) / f
 
-          for path in change_files:
-              if ".git" in str(path):
-                  continue
+          for path in sorted(find_change_files()):
               try:
                   lines = path.read_text(encoding="utf-8", errors="replace").splitlines()
               except Exception as e:
                   print(f"::error file={path}::Cannot read: {e}")
                   fails += 1
                   continue
-              # Qualify: only treat as change file if it has >= 1 valid change line.
-              # Skips generated stats/log files (changes_safe_stats.txt, etc.)
-              data_lines = [l.strip() for l in lines if l.strip() and not l.strip().startswith(";")]
-              if not any(rx.match(l) for l in data_lines):
+
+              # Qualify: skip files with no valid change lines (stats/log files)
+              data = [l.strip() for l in lines if l.strip() and not l.strip().startswith(";")]
+              if not any(rx.match(l) for l in data):
+                  skipped += 1
                   continue
+
+              validated += 1
+              # Only flag lines that look like change directives (digit + whitespace
+              # + word). Excludes scholarly numbering "4. {%word%}..." and embedded
+              # block-format markup like "<L>NNN<pc>..." that share digits.
+              looks_like_directive = re.compile(r"^\d+\s+\w+")
               for i, line in enumerate(lines, 1):
                   stripped = line.strip()
                   if not stripped or stripped.startswith(";"):
                       continue
+                  if not looks_like_directive.match(stripped):
+                      continue  # documentation/markup line
                   if not rx.match(stripped):
-                      print(f"::error file={path},line={i}::Bad format: {stripped[:80]}")
+                      print(f"::error file={path},line={i}::Bad change-file format: {stripped[:80]}")
                       fails += 1
 
+          print(f"Validated: {validated} change files  Skipped (non-change): {skipped}")
           if fails:
               sys.exit(1)
-          print(f"Validated {len(change_files)} change file(s) — all OK.")
+          PY
+
+  validate-correction-utf8:
+    name: Validate correction-file encoding
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Active correction files must be UTF-8
+        # Scoped to changes*.txt only — historical readme/bibliography files
+        # may predate the UTF-8 requirement.
+        run: |
+          python - <<'PY'
+          import sys, os
+          from pathlib import Path
+
+          def find_change_files(root="."):
+              for dirpath, dirs, files in os.walk(root):
+                  dirs[:] = [d for d in dirs if d not in (".git", ".github", "node_modules")]
+                  for f in files:
+                      if f.startswith("changes") and f.endswith(".txt"):
+                          yield Path(dirpath) / f
+
+          bad = []
+          for f in sorted(find_change_files()):
+              try:
+                  f.read_text(encoding="utf-8")
+              except UnicodeDecodeError as e:
+                  print(f"::error file={f}::not valid UTF-8: {e}")
+                  bad.append(str(f))
+
+          if bad:
+              sys.exit(1)
+          print("All correction files are valid UTF-8.")
           PY
 
   yaml-lint:
@@ -118,17 +143,15 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install pyyaml
-      - name: All .yml/.yaml files must parse
-        run: |
+      - run: |
           python - <<'PY'
           import sys, glob, yaml
           fail = 0
           for f in glob.glob("**/*.yml", recursive=True) + glob.glob("**/*.yaml", recursive=True):
-              if ".git" in f:
+              if ".git" in f or ".github" in f:
                   continue
               try:
-                  with open(f, encoding="utf-8") as fh:
-                      yaml.safe_load(fh)
+                  yaml.safe_load(open(f, encoding="utf-8"))
               except yaml.YAMLError as e:
                   print(f"::error file={f}::{e}")
                   fail = 1
