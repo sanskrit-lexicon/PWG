@@ -76,7 +76,7 @@ def parse_meta(meta):
  rest = m.group(4)
  return (L,pc,k1,rest)
 
-def compare_metas(metas1, metas2):
+def previous_compare_metas(metas1, metas2):
  ans = []
  nmetas1 = len(metas1)
  nmetas2 = len(metas2)
@@ -105,12 +105,60 @@ def compare_metas(metas1, metas2):
  print(f'{n} metas differ in (L,pc,k1)')
  return ans
 
-def get_diffmetas_outlines(diffmetas):
+def compare_metas(metas1, metas2):
+ ans = []
+ nmetas1 = len(metas1)
+ nmetas2 = len(metas2)
+ print(f'# metas1 = {nmetas1}')
+ print(f'# metas2 = {nmetas2}')
+ assert nmetas1 == nmetas2
+ nmetaeq = 0
+ for imeta,meta1 in enumerate(metas1):
+  meta2 = metas2[imeta]
+  if meta1 == meta2:
+   nmetaeq = nmetaeq + 1
+  ans.append((meta1,meta2))
+ print(f'{nmetaeq} metalines are identical, {nmetas1-nmetaeq} differ')
+ return ans
+
+def get_diffmetas_outlines_prev(diffmetas):
  outarr = []
- for meta1,meta2 in diffmetas:
+ n = 0  # number of metas with same (L,k1)
+ for i,diffmeta  in enumerate(diffmetas):
+  case = i+1
+  meta1,meta2 = diffmeta
+  L_1,pc_1,k1_1,rest_1 = parse_meta(meta1)
+  L_2,pc_2,k1_2,rest_2 = parse_meta(meta2)
+  if (L_1,k1_1) == (L_2,k1_2):
+   outarr.append(f'Case {case:06} TRUE')
+   n = n + 1
+  else: 
+   outarr.append(f'Case {case:06} FALSE')
   outarr.append(f'meta1: {meta1}')
   outarr.append(f'meta2: {meta2}')
   outarr.append('')
+ print(f'{n} metalines with same L-k1, {len(diffmetas) - n } with different L-k1' )
+ return outarr
+
+def get_diffmetas_outlines(diffmetas):
+ outarr = []
+ n = 0  # number of metas with same (L,k1)
+ for i,diffmeta  in enumerate(diffmetas):
+  case = i+1
+  meta1,meta2 = diffmeta
+  L_1,pc_1,k1_1,rest_1 = parse_meta(meta1)
+  L_2,pc_2,k1_2,rest_2 = parse_meta(meta2)
+  if (L_1,k1_1) == (L_2,k1_2):
+   outarr.append(f'+ {case}')
+   n = n + 1
+  else: 
+   outarr.append(f'- {case}')
+  #outarr.append(f'meta1: {meta1}')
+  #outarr.append(f'meta2: {meta2}')
+  outarr.append(f'<L>{L_1}<k1>{k1_1}')
+  outarr.append(f'<L>{L_2}<k1>{k1_2}')
+  outarr.append('')
+ print(f'{n} metalines with same L-k1, {len(diffmetas) - n } with different L-k1' )
  return outarr
 
 if __name__=="__main__":
