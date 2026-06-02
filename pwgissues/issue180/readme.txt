@@ -34,6 +34,7 @@ done
 ---
 pwg_(AB)_v1a.txt           591087 lines, 122738 metalines
 pwg_(AB)_v1b.txt           591087 lines, 122738 metalines
+pwg_(AB)_v1c.txt           591087 lines, 122738 metalines
 pwg_(CDSL)_v8.1_VN_1-6.txt   2511 lines,    628 metalines
 pwg_(CDSL)_v8.1_base.txt   598725 lines, 122738 metalines
 pwg_(CDSL)_v8.2_base.txt   598725 lines, 122738 metalines
@@ -95,13 +96,26 @@ Aim to constuct temp_pwg_1_base.txt
 * v8 refers to csl-orig commit ecd11db
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/180#issuecomment-4570605102
 
-* align81b directory
-mkdir alignv1b
+* alignv1c directory: alignv1c/temp_pwg_0d_base1.txt
+mkdir alignv1c
 work to align cdsl with ab. (re <ab>, <lex>, and other similar tags)
 start with 
 cdsl: basevn/temp_pwg_0b_base1.txt  
-  AB: temp_ab_files/'pwg_(AB)_v1b.txt'
+  AB: temp_ab_files/'pwg_(AB)_v1c.txt'
 
+Final form here is
+alignv1c/temp_pwg_0d_base1.txt
+This is aligned with pwg_(AB)_v1c.txt regarding
+ - metaline sequences (L,k1)
+ - <F> footnote divs.
+
+Unresolved are 4451 <div  in 0d which are not in v1c.
+Abandon work to resolve the div differences.
+
+* alignab - 
+* *******************************************************
+*  PREVIOUS WORK abandoned 
+* *******************************************************
 * temp_pwg_A0.txt  
 Ref: https://github.com/sanskrit-lexicon/PWG/issues/180#issuecomment-4565098273
 
