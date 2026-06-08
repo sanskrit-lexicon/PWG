@@ -64,3 +64,79 @@ ab: 9 matches in 8 lines for "n="Süd"  NOTE: Süd = South in German.
 -------------------
 <is n="Devadatta">D.</is>   one.dtd  Basicdisplay ?
 3393 matches in 3065 lines for "<is n" in buffer: temp_ab_pwg_v1d.txt
+
+* --------------------------------------------
+* 06-04-2026 change_0e_0f.py, temp_pwg_0f_base1.txt 
+Freeze temp_pwg_0e_base1.txt and change_0d_0e.py.
+Initialze change_0e_0f.py,
+which is used to generate temp_pwg_0f_base1.txt
+
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 55 lines changed
+
+# changes to temp_pwg_0f.txt
+python change_0e_0f.py temp_pwg_0e_base1.txt temp_pwg_0f_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0f and v1d
+python compare_ab.py temp_pwg_0f_base1.txt temp_ab_pwg_v1d.txt compare_ab_0f_v1d.txt
+
+---------------------------
+* 06-05-2026 change_0f_0g.py, temp_pwg_0g_base1.txt 
+Freeze temp_pwg_0f_base1.txt and change_0e_0f.py.
+Initialze change_0f_0g.py, which is used to generate temp_pwg_0g_base1.txt
+cp change_0e_0f.py change_0f_0g.py a
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 71 lines changed
+
+# changes to temp_pwg_0g.txt
+python change_0f_0g.py temp_pwg_0f_base1.txt temp_pwg_0g_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0g and v1d
+python compare_ab.py temp_pwg_0g_base1.txt temp_ab_pwg_v1d.txt compare_ab_0g_v1d.txt
+
+---------------------------
+* 06-06-2026 change_0g_0h.py, temp_pwg_0h_base1.txt 
+Freeze temp_pwg_0g_base1.txt and change_0f_0g.py.
+Initialze change_0g_0h.py, which is used to generate temp_pwg_0h_base1.txt
+#copy change_0e_0f.py change_0g_0h.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 87 lines changed
+
+# changes to temp_pwg_0h.txt
+python change_0g_0h.py temp_pwg_0g_base1.txt temp_pwg_0h_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0h and v1d
+python compare_ab.py temp_pwg_0h_base1.txt temp_ab_pwg_v1d.txt compare_ab_0h_v1d.txt
+
+---------------------------
+* 06-08-2026 change_0h_0i.py, temp_pwg_0h_base1.txt 
+Freeze temp_pwg_0h_base1.txt and change_0g_0h.py.
+Initialze change_0h_0i.py, which is used to generate temp_pwg_0i_base1.txt
+#copy change_0g_oh.py change_0h_0i.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 87 lines changed
+
+# changes to temp_pwg_0h.txt
+python change_0h_0i.py temp_pwg_0g_base1.txt temp_pwg_0h_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0h and v1d
+python compare_ab.py temp_pwg_0h_base1.txt temp_ab_pwg_v1d.txt compare_ab_0h_v1d.txt
+
+---------------------------
+* additional notes
+--------------
+85 matches for "<ab>u.</ab> <ab n="dem">d.</ab>" v1d
+ 9 matches for "<ab>u. d.</ab>"
+104 matches for "<ab>u. d.</ab>" in 0f

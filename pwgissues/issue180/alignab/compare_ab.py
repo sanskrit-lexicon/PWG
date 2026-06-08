@@ -155,7 +155,7 @@ def first_diff(e1,e2):
  if ifirst == None:
   return []
  # generate output for first difference
- print(f'e1[0] = "{e1[0]}"')
+ # print(f'e1[0] = "{e1[0]}"')
  difflines = []
  difflines.append(e1[0]) # metalines
  for i in range(ifirst + 5):
@@ -200,5 +200,5 @@ if __name__=="__main__":
    ifirst = i
    break
  if ifirst != None:
-  print(f'First problem at entry # {ifirst+1}: {entries1[ifirst][0]}')
+  print(f'First problem: {entries1[ifirst][0]}')
  write_lines(fileout,diff)
