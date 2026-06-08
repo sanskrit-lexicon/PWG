@@ -118,7 +118,7 @@ python change_0g_0h.py temp_pwg_0g_base1.txt temp_pwg_0h_base1.txt
 python compare_ab.py temp_pwg_0h_base1.txt temp_ab_pwg_v1d.txt compare_ab_0h_v1d.txt
 
 ---------------------------
-* 06-08-2026 change_0h_0i.py, temp_pwg_0h_base1.txt 
+* 06-08-2026 change_0h_0i.py, temp_pwg_0i_base1.txt 
 Freeze temp_pwg_0h_base1.txt and change_0g_0h.py.
 Initialze change_0h_0i.py, which is used to generate temp_pwg_0i_base1.txt
 #copy change_0g_oh.py change_0h_0i.py 
@@ -126,13 +126,36 @@ Initialze change_0h_0i.py, which is used to generate temp_pwg_0i_base1.txt
 python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
 # 87 lines changed
 
-# changes to temp_pwg_0h.txt
-python change_0h_0i.py temp_pwg_0g_base1.txt temp_pwg_0h_base1.txt
+# changes to temp_pwg_0i.txt
+python change_0h_0i.py temp_pwg_0h_base1.txt temp_pwg_0i_base1.txt
 # 
 # use compare_ab.py to identify first difference in <ab>X</ab>
 
 # Find first difference in abbreviation sequences from 0h and v1d
-python compare_ab.py temp_pwg_0h_base1.txt temp_ab_pwg_v1d.txt compare_ab_0h_v1d.txt
+python compare_ab.py temp_pwg_0i_base1.txt temp_ab_pwg_v1d.txt compare_ab_0i_v1d.txt
+
+python make_change_01.py temp_pwg_0i_base1.txt make_change_01.txt
+111 changes
+python make_change_02.py temp_pwg_0i_base1.txt make_change_02.txt
+53 changes
+python make_change_03.py temp_pwg_0i_base1.txt make_change_03.txt
+75 changes
+---------------------------
+* 06-08-2026 change_0h_0j.py, temp_pwg_0j_base1.txt 
+Freeze temp_pwg_0i_base1.txt and change_0h_0i.py.
+Initialze change_0i_0j.py, which is used to generate temp_pwg_0j_base1.txt
+#copy change_0h_oi.py change_0i_0j.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 87 lines changed
+
+# changes to temp_pwg_0j.txt
+python change_0i_0j.py temp_pwg_0i_base1.txt temp_pwg_0j_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0h and v1d
+python compare_ab.py temp_pwg_0j_base1.txt temp_ab_pwg_v1d.txt compare_ab_0j_v1d.txt
 
 ---------------------------
 * additional notes
