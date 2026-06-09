@@ -147,7 +147,7 @@ Initialze change_0i_0j.py, which is used to generate temp_pwg_0j_base1.txt
 #copy change_0h_oi.py change_0i_0j.py 
 # changes to AB version: v1d
 python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
-# 87 lines changed
+# 90 lines changed
 
 # changes to temp_pwg_0j.txt
 python change_0i_0j.py temp_pwg_0i_base1.txt temp_pwg_0j_base1.txt
@@ -157,9 +157,23 @@ python change_0i_0j.py temp_pwg_0i_base1.txt temp_pwg_0j_base1.txt
 # Find first difference in abbreviation sequences from 0h and v1d
 python compare_ab.py temp_pwg_0j_base1.txt temp_ab_pwg_v1d.txt compare_ab_0j_v1d.txt
 
+python make_change_04.py temp_pwg_0j_base1.txt make_change_04.txt
+26 changes
+
+python make_change_05.py temp_pwg_0j_base1.txt make_change_05.txt
+17 changes
+
+python make_change_06.py temp_pwg_0j_base1.txt make_change_06.txt
+27=8 changes
 ---------------------------
 * additional notes
 --------------
 85 matches for "<ab>u.</ab> <ab n="dem">d.</ab>" v1d
  9 matches for "<ab>u. d.</ab>"
 104 matches for "<ab>u. d.</ab>" in 0f
+2 matches for "<ms>" in buffer: temp_ab_pwg_v1d.txt 
+----
+what's the diff?
+ ('(<ab>vgl.</ab> <ab>S.</ab> 370)',
+   '(<ab>vgl.</ab> <ab n="Seite">S.</ab> 370)'),
+----
