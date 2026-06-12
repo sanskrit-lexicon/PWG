@@ -67,10 +67,11 @@ temp_pwg_0b_vn.txt      2511 lines,    628 metalines
 * temp_pwg_0b_base1.txt == pwg_base_a.txt
 diff basevn/temp_pwg_0b_base1.txt temp_ab_files/pwg_base_a.txt | wc -l
 # 0  files are the same
-* reconstruction of (copy of) temp_pwg_0b.txt from 
+* redo_pwg.sh
+  reconstruction of (copy of) temp_pwg_0b.txt from
   temp_pwg_0b_base1.txt and temp_pwg_0b_vn.txt
 
-* OBJECTIVE  temp_pwg_1_base1.txt  
+OBJECTIVE  temp_pwg_1_base1.txt  
 from temp_pwg_0b_base1.txt, construct temp_pwg_1_base1.txt  
  Assume there are no changes to <L> and <LEND> lines.
  Or spaces between entries.
@@ -111,205 +112,89 @@ This is aligned with pwg_(AB)_v1c.txt regarding
 
 Unresolved are 4451 <div  in 0d which are not in v1c.
 Abandon work to resolve the div differences.
+This div-difference resolution is not needed. 
+* alignab directory: alignab/temp_pwg_0n_base1.txt
+  Alignment of <ab.*?</ab>
+  See alignab/readme.txt
 
-* alignab - 
-* *******************************************************
-*  PREVIOUS WORK abandoned 
-* *******************************************************
-* temp_pwg_A0.txt  
-Ref: https://github.com/sanskrit-lexicon/PWG/issues/180#issuecomment-4565098273
+* temp_pwg_1.txt 
+# merge alignab/temp_pwg_0n_base1.txt and basevn/temp_pwg_0b_vn.txt
+# basevn/div_split.py  split base lines at LBC 
+# basevn_join.py joins the split base lines and the VN lines
 
- pwg_(AB)_v1b.txt
-Ref: https://github.com/user-attachments/files/28350617/pwg_.AB._v1b.zip
-Renamed to temp_pwg_A0.txt
+sh redo_pwg.sh alignab/temp_pwg_0n_base1.txt basevn/temp_pwg_0b_vn.txt temp_pwg_1.txt
+Restore line breaks from alignab/temp_pwg_0n_base1.txt. Result is tempredo_base.txt
+join temp_redo_base.txt and basevn/temp_pwg_0b_vn.txt. Result is tempredo_lend.txt
+122738 base entries
+   628 vn entries
+
+(+ 122738 628) = 123366
+temp_pwg_1.txt constucted
+* misc analyses ??
+python alignv1c/compare_meta.py temp_pwg_0.txt temp_pwg_1.txt temp_compare_meta_0_1.txt
+(+ 99452 23914) 123366
+99452 metalines with same L-k1, 23914 with different L-k1
+
+python alignv1c/compare_meta.py temp_pwg_0.txt temp_pwg_0a.txt temp_compare_meta_0_0a.txt
+123366 metalines with same L-k1, 0 with different L-k1
+
+python alignv1c/compare_meta.py temp_pwg_0a.txt temp_pwg_0b.txt temp_compare_meta_0a_0b.txt
+123366 metalines with same L-k1, 0 with different L-k1
+
+-- compare metalines of base.  Version c corrects a metaline
+python alignv1c/compare_meta.py basevn/temp_pwg_0b_base1.txt alignv1c/temp_pwg_0c_base1.txt compare_meta_base_0b_0c.txt
+122738 entries
+98882 metalines with same L-k1, 23856 with different L-k1
+for details of metaline change, see diff_base_0b_0c.txt
+diff basevn/temp_pwg_0b_base1.txt alignv1c/temp_pwg_0c_base1.txt > diff_base_0b_0c.txt
+
+0c_base1 has same metalines as 0d,..., 0n.
+
+python alignv1c/compare_meta.py alignv1c/temp_pwg_0c_base1.txt alignv1c/temp_pwg_0c_base1.txt compare_meta_base_0c_0d.txt
+122738 metalines with same L-k1, 0 with different L-k1
+
+python alignv1c/compare_meta.py alignv1c/temp_pwg_0d_base1.txt alignab/temp_pwg_0n_base1.txt compare_meta_base_0d_0n.txt
+122738 metalines with same L-k1, 0 with different L-k1
+
+python alignv1c/compare_meta.py 
 
 
+* check xml validity of temp_pwg_1
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180
+cp temp_pwg_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh pwg  ../../pwg
+sh xmlchk_xampp.sh pwg
+cd /c/xampp/htdocs/cologne/csl-orig/
+git restore v02/pwg/pwg.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180
+# OK !!
 
-
-* temp_pwg_0b_base1 and 
-* programs from issue174, issue178
-# count_lex_py counts of <lex>X</lex> from a given version of pwg.txt
-python count_lex.py <PWG> <count_lex_X.txt>
-
-# count_ab.py  counts of <ab>X</ab> from a given version of pwg.txt
-python count_ab.py <PWG> <count_ab_X.txt>
-
-# abdiff.py  merges two count_ab files
-python abdiff.py <count_ab_X.txt> <count_ab_Y.txt> <abdiff_X_Y.txt>
- X is (typically) from cdsl version of pwg
- Y is (typically) from Andhrabharati version of pwg
- output file has lines with 4 tab-delimited fields:
- - abbrev
- - count_X of abbrev from count_ab_X.txt, or -1 if abbrev not in X
- - count_Y of abbrev from count_ab_Y.txt, or -1 if abbrev not in Y
- - count_X - count_y for this abbrev if 
--------------------------------------
-* Align <lex> tags
-python count_lex.py temp_pwg_0.txt count_lex_0.txt
-1129105 read from temp_pwg_0.txt
-7 lines written to count_lex_0.txt
-131189 = total number of <lex>X</lex>
-
-
-python count_lex.py temp_pwg_A0.txt count_lex_A0.txt
-591087 read from temp_pwg_A0.txt
-17 lines written to count_lex_A0.txt
-130842 = total number of <lex>X</lex>
-
-* temp_pwg_1.txt , temp_pwg_A1.txt
-# adjustment of lex tags in cdsl version
-python change_1.py temp_pwg_0.txt temp_pwg_1.txt
-1129105 lines 
-123366 metalines
-669 lines changed
-
-python change_A1.py temp_pwg_A0.txt temp_pwg_A1.txt
-591087 lines read from temp_pwg_A0.txt
-122738 metalines
-921 lines changed
-
-python count_lex.py temp_pwg_1.txt count_lex_1.txt
-13 lines written to count_lex_1.txt
-
-python count_lex.py temp_pwg_A1.txt count_lex_A1.txt
-13 lines written to count_lex_A1.txt
-
-python abdiff.py count_lex_1.txt count_lex_A1.txt lexdiff_1_A1.txt
-
-* *******************************************************
-* Notes from issue178
-* *******************************************************
-* count_ab_0.txt, count_ab_A0.txt, abdiff_0_0.txt
-
-python count_ab.py temp_pwg_0.txt count_ab_0.txt
-1129105 read from temp_pwg_0.txt
-782 lines written to count_ab_0.txt
-178317 = total number of <ab>X</ab>
-# from Andhrabharati markcount_a_3b.txt renamed count_ab_A0.txt
-python abdiff.py count_ab_0.txt count_ab_A0.txt abdiff_0_A0.txt
-* temp_pwg_0a.txt_
-cp temp_pwg_0.txt temp_pwg_0a.txt
-# manaul changes to temp_pwg_0a.txt -- These awkward to do by program
-
-* temp_pwg_1.txt
-# many replacements in function change_one if change1.py
-python change1.py temp_pwg_0a.txt temp_pwg_1.txt
-892 lines changed
-* change_0_0a.txt,  change_0a_1.txt
-python diff_to_changes_dict.py temp_pwg_0.txt temp_pwg_0a.txt change_0_0a.txt
-235 changes written to change_0_0a.txt
-
-python diff_to_changes_dict.py temp_pwg_0a.txt temp_pwg_1.txt change_0a_1.txt
-892 changes written to change_0a_1.txt
-
-* count_ab_1.txt, abdiff_1_A0.txt
-python count_ab.py temp_pwg_1.txt count_ab_1.txt
-782 lines written to count_ab_1.txt
-177972 = total number of <ab>X</ab>
-
-python abdiff.py count_ab_1.txt count_ab_A0.txt abdiff_1_A0.txt
-782 read from count_ab_1.txt
-788 read from count_ab_A0.txt
-792 total distinct abbreviations
-792 lines written to abdiff_1_A0.txt
-
-* temp_pwg_2.txt, input_2.txt  
-additional abbreviations in input_2.txt
-N.N.
-s.
-ved.
-ebend.
-
-# mark these
-python mark_ab.py temp_pwg_1.txt input_2.txt temp_pwg_2.txt # markcount_2.txt
-1129105 lines read from temp_pwg_1.txt
-7516 lines changed
-1129105 lines written to temp_pwg_2.txt
-
-* change_1_2.txt, change_0_2.txt
-python diff_to_changes_dict.py temp_pwg_1.txt temp_pwg_2.txt change_1_2.txt
-7516 changes written to change_1_2.txt
-
-python diff_to_changes_dict.py temp_pwg_0.txt temp_pwg_2.txt change_0_2.txt
-8605 changes written to change_0_2.txt
-* count_ab_2.txt, abdiff_2_A0.txt
-python count_ab.py temp_pwg_2.txt count_ab_2.txt
-1129105 read from temp_pwg_2.txt
-785 lines written to count_ab_2.txt
-185563 = total number of <ab>X</ab>
-
-python abdiff.py count_ab_2.txt count_ab_A0.txt abdiff_2_A0.txt
-785 read from count_ab_2.txt
-788 read from count_ab_A0.txt
-795 total distinct abbreviations
-795 lines written to abdiff_2_A0.txt
-
-* pwgab_input_new_2.txt
-# tooltips file from issue174/tips
-cp ../issue174/tips/pwgab_input_new.txt pwgab_input_new_0.txt
-
-python update_tips.py pwgab_input_new_0.txt count_ab_2.txt pwgab_input_new_2.txt
-786 lines read from pwgab_input_new_0.txt
-785 lines read from count_ab_2.txt
-LEX: <id>adj.</id> <disp>adjectivisch - adjective</disp>  <N>0</N> CHECKED
-LEX: <id>adv.</id> <disp>Adverb adverb</disp>  <N>0</N> CHECKED
-LEX: <id>f.</id> <disp>femininum - feminine</disp>  <N>0</N> CHECKED
-LEX: <id>interj.</id> <disp>Interjection - interjection </disp>  <N>0</N> CHECKED
-LEX: <id>m.</id> <disp>masculinum - masculine</disp>  <N>0</N> CHECKED
-LEX: <id>n.</id> <disp>neutrum - neuter</disp>  <N>0</N> CHECKED
-791 lines written to pwgab_input_new_2.txt
-
-* pwgab_input_new.txt
-cp pwgab_input_new_2.txt pwgab_input_new.txt
-# manual edit of pwgab_input_new.txt
-# Search for '?'  and correct
-# *  ' -> &#39;  in pwgab_input_new.txt
-
-* install pwgab_input_new.txt into csl-pywork
-cp pwgab_input_new.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgab/pwgab_input.txt
-
-sh redo_new.sh 2
-* install to Github: csl-orig, csl-pywork\
-* unresolved
-<ls>PAT. a. a. O. 1,223,a.</ls>  700+, 
-223 matches for "<ls n="PAT. a. a. O."
----
-Vp. (2te Aufl.)  pwgauth:  ?Vishnu purana, 2nd edition? VP^2 in pwk?
----
-<ab>d.</ab> <lex>f.</lex> <ab>W.</ab> (2)  
----
-Mark as <ab>X</ab>
-ebend.   (~ 2600)
-     Tooltip exists: "ebenda - ibid. (ibidem) - in the same source"
-ved. (~550) Tooltip =  vedisch - Vedic
-
----
+* revise one.dtd in csl-pywork
+  Allow <s> to be child of <ls>
 
 * INSTALLATION
 * sync to github:
-
 ------------------
-# csl-orig temp_pwg_2
+# csl-orig temp_pwg_1
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180/
-cp temp_pwg_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt 
+cp temp_pwg_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt 
 cd /c/xampp/htdocs/cologne/csl-orig/
 git add .
 git commit -m "PWG abbreviations
-Ref: https://github.com/sanskrit-lexicon/pwg/issues/180 temp_pwg_2"
-#  1 file changed, 8605 insertions(+), 8605 deletions(-)
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/180 temp_pwg_1"
+#  1 file changed, 7899 insertions(+), 8853 deletions(-)
 git push
 # remote: warning: File v02/pwg/pwg.txt is 50.88 MB; 
 # this is larger than GitHub's recommended maximum file size of 50.00 MB
 
 -------------------
-# csl-pywork  pwgab_input_new.txt
+# csl-pywork  one.dtd
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180/
-
-cp pwgab_input_new.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/pwg/pywork/pwgab/pwgab_input.txt
 cd /c/xampp/htdocs/cologne/csl-pywork/
 git add .
-git commit -m "PWG abbreviations - tooltips
-Ref: https://github.com/sanskrit-lexicon/pwg/issues/180 pwgab_input_new.txt"
+git commit -m "one.dtd Allow 's' to be child of 'ls'. 6 instances in pwg
+Ref: https://github.com/sanskrit-lexicon/pwg/issues/180 "
 git push
 
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180/
@@ -318,8 +203,9 @@ cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180/
 * sync to Cologne, pull changed repos, redo display
 ---------------
 csl-orig #pull
-csl-corrections #pull
+#  v02/pwg/pwg.txt | 16752 lines changed
 
+csl-pywork # pull
 ---------------
 # update displays for pwg
 cd csl-pywork/v02

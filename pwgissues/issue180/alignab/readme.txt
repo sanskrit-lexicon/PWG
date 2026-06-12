@@ -5,7 +5,7 @@ alignab/readme.txt
 local directory:
 cd /c/xampp/htdocs/sanskrit-lexicon/PWG/pwgissues/issue180/alignab
 
-work to align cdsl with ab. (re <ab>, <lex>, and other similar tags)
+work to align cdsl with ab. (re <ab>)
 start with 
 cdsl: alignv1c/temp_pwg_0d_base1.txt
   AB: temp_ab_files/'pwg_(AB)_v1c.txt'
@@ -23,47 +23,6 @@ python change_0d_0e.py ../alignv1c/temp_pwg_0d_base1.txt temp_pwg_0e_base1.txt
 
 python compare_ab.py temp_pwg_0e_base1.txt temp_ab_pwg_v1d.txt compare_ab.txt
 
-
-* Notes
-<ls>Sch. ', '<ab>Sch.</ab> <ls n="">  
-<ls>ebend.</ls>  followed (perhaps on next line) by "<ls"
-
-462 matches in 461 lines for "<ls>ŚKDR.</ls> <ab>u.</ab>" in v1c
-391 matches in 390 lines for "<ls>ŚKDR.</ls> <ab>u.</ab>" in 0e
-
--------------
-# Andhrabharati version has <bot> markup
-cdsl: {%Morinda tinctoria%} 
-  ab: <bot>Morinda tinctoria</bot>
-AB:  <abot>Roxb.</abot>
--------------
-AB  16 <lang>pers.</lang> For ab comparisons, change these to <ab>pers.</ab>
-    27 <ab>pers.</ab>
-cdsl: 34 <ab>pers.</ab>
--------------
-AB: <ls>ŚAṂK.</ls>_zu_<ls>  "_zu_" unique to AB version
--------------
-AB: <ed>2ten Aufl.</ed>
-----------------
-AB: <ab>d.</ab> 0
-    114 matches for "<ab[^>]*?>d.</ab>
-    97 matches for "<ab n="dem">d.</ab>
-     6 matches for "<ab n="die">d.</ab>
-     9 matches for "<ab n="der">d.</ab>
-     1 match   for "<ab n="des">d.</ab>
-     1 match   for "<ab n="das">d.</ab>
-cdsl: <ab>d.</ab> 72
-  Consider all AB forms as cdsl forms.
-
----------------------
-cdsl: 14 matches for "<ab>d.</ab> <ab>folg.</ab>"
-  ab: 14 <ab>d. folg.</ab>
----------------------
-ab: 9 matches in 8 lines for "n="Süd"  NOTE: Süd = South in German.
-  These need to be checked.
--------------------
-<is n="Devadatta">D.</is>   one.dtd  Basicdisplay ?
-3393 matches in 3065 lines for "<is n" in buffer: temp_ab_pwg_v1d.txt
 
 * --------------------------------------------
 * 06-04-2026 change_0e_0f.py, temp_pwg_0f_base1.txt 
@@ -166,7 +125,118 @@ python make_change_05.py temp_pwg_0j_base1.txt make_change_05.txt
 python make_change_06.py temp_pwg_0j_base1.txt make_change_06.txt
 27=8 changes
 ---------------------------
-* additional notes
+* 06-09-2026 change_0j_0k.py, temp_pwg_0k_base1.txt 
+Freeze temp_pwg_0j_base1.txt and change_0i_0j.py.
+Initialze change_0j_0k.py, which is used to generate temp_pwg_0k_base1.txt
+#copy change_0i_oi.py change_0j_0k.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 101 lines changed
+
+# changes to temp_pwg_0k.txt
+python change_0j_0k.py temp_pwg_0j_base1.txt temp_pwg_0k_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0i and v1d
+python compare_ab.py temp_pwg_0k_base1.txt temp_ab_pwg_v1d.txt compare_ab_0k_v1d.txt
+
+
+alignab:
+ readme.txt
+ change_0i_0j.py
+ change_ab_v1c_v1d.py
+ temp_pwg_0k_base1.txt
+ temp_ab_pwg_v1d.txt
+---------------------------
+* 06-10-2026 change_0k_0m.py, temp_pwg_0m_base1.txt almost there
+Freeze temp_pwg_0k_base1.txt and change_0i_0k.py.
+Initialze change_0k_0m.py, which is used to generate temp_pwg_0m_base1.txt
+#copy change_0j_0k.py change_0k_0m.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 106 lines changed
+
+# changes to temp_pwg_0m.txt
+python change_0k_0m.py temp_pwg_0k_base1.txt temp_pwg_0m_base1.txt
+# 
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0m and v1d
+python compare_ab.py temp_pwg_0m_base1.txt temp_ab_pwg_v1d.txt compare_ab_0m_v1d.txt
+598788 lines read from temp_pwg_0m_base1.txt
+591087 lines read from temp_ab_pwg_v1d.txt
+122738 entries in both files
+0 lines written to compare_ab_0m_v1d.txt
+
+
+
+* 06-11-2026 change_0m_0n.py, temp_pwg_0n_base1.txt almost there
+Correction of xml errors
+
+Freeze temp_pwg_0m_base1.txt and change_0i_0m.py.
+Initialze change_0m_0n.py, which is used to generate temp_pwg_0n_base1.txt
+#copy change_0k_0m.py change_0m_0n.py 
+# changes to AB version: v1d
+python change_ab_v1c_v1d.py ../temp_ab_files/'pwg_(AB)_v1c.txt' temp_ab_pwg_v1d.txt
+# 114 lines changed
+
+# changes to temp_pwg_0n.txt
+python change_0m_0n.py temp_pwg_0m_base1.txt temp_pwg_0n_base1.txt
+# 48 lines changed
+# use compare_ab.py to identify first difference in <ab>X</ab>
+
+# Find first difference in abbreviation sequences from 0m and v1d
+python compare_ab.py temp_pwg_0n_base1.txt temp_ab_pwg_v1d.txt compare_ab_0n_v1d.txt
+
+598788 lines read from temp_pwg_0n_base1.txt
+591087 lines read from temp_ab_pwg_v1d.txt
+122738 entries in both files
+0 lines written to compare_ab_0n_v1d.txt
+
+
+
+* *************************************************
+* Notes
+<ls>Sch. ', '<ab>Sch.</ab> <ls n="">  
+<ls>ebend.</ls>  followed (perhaps on next line) by "<ls"
+
+462 matches in 461 lines for "<ls>ŚKDR.</ls> <ab>u.</ab>" in v1c
+391 matches in 390 lines for "<ls>ŚKDR.</ls> <ab>u.</ab>" in 0e
+
+-------------
+# Andhrabharati version has <bot> markup
+cdsl: {%Morinda tinctoria%} 
+  ab: <bot>Morinda tinctoria</bot>
+AB:  <abot>Roxb.</abot>
+-------------
+AB  16 <lang>pers.</lang> For ab comparisons, change these to <ab>pers.</ab>
+    27 <ab>pers.</ab>
+cdsl: 34 <ab>pers.</ab>
+-------------
+AB: <ls>ŚAṂK.</ls>_zu_<ls>  "_zu_" unique to AB version
+-------------
+AB: <ed>2ten Aufl.</ed>
+----------------
+AB: <ab>d.</ab> 0
+    114 matches for "<ab[^>]*?>d.</ab>
+    97 matches for "<ab n="dem">d.</ab>
+     6 matches for "<ab n="die">d.</ab>
+     9 matches for "<ab n="der">d.</ab>
+     1 match   for "<ab n="des">d.</ab>
+     1 match   for "<ab n="das">d.</ab>
+cdsl: <ab>d.</ab> 72
+  Consider all AB forms as cdsl forms.
+
+---------------------
+cdsl: 14 matches for "<ab>d.</ab> <ab>folg.</ab>"
+  ab: 14 <ab>d. folg.</ab>
+---------------------
+ab: 9 matches in 8 lines for "n="Süd"  NOTE: Süd = South in German.
+  These need to be checked.
+-------------------
+<is n="Devadatta">D.</is>   one.dtd  Basicdisplay ?
+3393 matches in 3065 lines for "<is n" in buffer: temp_ab_pwg_v1d.txt
 --------------
 85 matches for "<ab>u.</ab> <ab n="dem">d.</ab>" v1d
  9 matches for "<ab>u. d.</ab>"
@@ -177,3 +247,11 @@ what's the diff?
  ('(<ab>vgl.</ab> <ab>S.</ab> 370)',
    '(<ab>vgl.</ab> <ab n="Seite">S.</ab> 370)'),
 ----
+{#pratirava#}¦ 1〉 <ab>Z.</ab> 2 lies 6 <ab>st.</ab> <mng>b.</mng>
+----
+<ls n="Durgasiṃha">D.</ls>
+  non-standard use of <ls n="X"></ls>  Change 'ls' to 'ab' ?
+----
+<num>N.</num> only 1
+
+
