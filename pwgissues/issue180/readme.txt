@@ -221,4 +221,42 @@ git push
 
 ------------------------------------------------------------
 ************************************************************
+* temp_ab_pwg_v1e.txt  
+# 
+python basevn/basevn_join.py alignab/temp_ab_pwg_v1d.txt basevn/temp_pwg_0b_vn.txt temp_ab_pwg_v1e.txt
+# same sequence of L,k1
+python alignv1c/compare_meta.py temp_pwg_1.txt temp_ab_pwg_v1e.txt  temp.txt
+# 123366 metalines with same L-k1, 0 with different L-k1
+
+* compare global abbrevs
+python count_ab.py temp_pwg_1.txt temp_count_ab_pwg_1.txt
+
+python count_ab.py temp_ab_pwg_v1e.txt temp_count_ab_v1e.txt
+
+python abdiff.py temp_count_ab_pwg_1.txt temp_count_ab_v1e.txt abdiff_1_v1e.txt
+Only differences are as expected, for 'd.' and 'u.'
+d.	28	1	27
+u.	2347	1996	351
+
+* compare local abbrevs
+python count_ab_local.py temp_pwg_1.txt temp_ablocal_1.txt
+169 lines written to temp_ablocal_1.txt
+426 = total number of <ab>X</ab>
+
+python count_ab_local.py temp_pwg_1.txt temp_ablocal_1.txt
+
+python count_ab_local.py temp_ab_pwg_v1e.txt temp_ablocal_v1e.txt
+
+python abdiff.py temp_ablocal_1.txt temp_ablocal_v1e.txt abdiff_local_1_v1e.txt
+
+The only differences are relative to d. and u.
+<ab n="das">d.</ab>	-1	1	-1
+<ab n="dem">d.</ab>	85	97	-12
+<ab n="der">d.</ab>	2	9	-7
+<ab n="des">d.</ab>	-1	1	-1
+<ab n="die">d.</ab>	-1	6	-6
+<ab n="und">u.</ab>	5	352	-347
+<ab n="unten">u.</ab>	-1	4	-4
+
+---- 
 * THE END

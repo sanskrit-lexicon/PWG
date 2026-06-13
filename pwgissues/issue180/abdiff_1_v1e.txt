@@ -1,0 +1,789 @@
+a. a. O.	12	12	0
+a. O.	3	3	0
+a. St.	5	5	0
+abgedr.	1	1	0
+abgel.	1	1	0
+abgiebt.	1	1	0
+Abl.	6	6	0
+abl.	566	566	0
+ablat.	41	41	0
+Ableitt.	5	5	0
+Abschn.	1	1	0
+absol.	263	263	0
+absolut.	52	52	0
+abstr.	17	17	0
+abw.	1	1	0
+acc.	2623	2623	0
+Acc.	18	18	0
+acc. ag.	1	1	0
+accusat.	1	1	0
+act.	955	955	0
+ad.	18	18	0
+adj. comp.	1402	1402	0
+Adj. compp.	1	1	0
+adject.	3	3	0
+adjj.	53	53	0
+Adnn.	2	2	0
+Adnott.	1	1	0
+adv. compp.	2	2	0
+adverb.	2	2	0
+adverb. comp.	4	4	0
+adverbb.	1	1	0
+advv.	21	21	0
+alleg.	1	1	0
+allg.	2	2	0
+allgem.	3	3	0
+Allgem.	1	1	0
+alphab.	1	1	0
+an.	3	3	0
+anderndemonstrr.	1	1	0
+aneig.	1	1	0
+Anf.	160	160	0
+Ang.	13	13	0
+angebl.	15	15	0
+angef.	3	3	0
+anl.	1	1	0
+Anm.	5	5	0
+Anmm.	3	3	0
+Annott.	1	1	0
+anom.	4	4	0
+anomal.	1	1	0
+Ant.	1	1	0
+Aor.	1	1	0
+aor.	173	173	0
+appell.	13	13	0
+Appell.	3	3	0
+appellat.	2	2	0
+Appos.	1	1	0
+appos.	1	1	0
+arch.	1	1	0
+Arithm.	3	3	0
+Art.	33	33	0
+Assimil.	2	2	0
+astr.	59	59	0
+Astrol.	75	75	0
+astrol.	47	47	0
+astrolog.	1	1	0
+Astron.	4	4	0
+astron.	16	16	0
+astronom.	2	2	0
+attribut.	1	1	0
+auf.	36	36	0
+Auf.	2	2	0
+aufgef.	2	2	0
+Aufl.	3	3	0
+Augm.	2	2	0
+Ausdr.	1	1	0
+ausg.	4	4	0
+Ausg.	1388	1388	0
+ausgeh.	5	5	0
+ausgez.	2	2	0
+Ausgg.	137	137	0
+Ausl.	1	1	0
+auslaut.	1	1	0
+Ausn.	1	1	0
+ausnahmsw.	1	1	0
+Aut.	383	383	0
+Autor.	13	13	0
+Autorr.	8	8	0
+Autt.	34	34	0
+Bde.	2	2	0
+bed.	20	20	0
+Bed.	1984	1984	0
+Bedd.	189	189	0
+Bedeut.	7	7	0
+Bedeutt.	11	11	0
+beg.	1	1	0
+Beim.	1	1	0
+beim.	5	5	0
+Bein.	2627	2627	0
+Beinn.	52	52	0
+Beis.	1	1	0
+Beisatz.	1	1	0
+Beisp.	8	8	0
+Beispp.	2	2	0
+Beiw.	636	636	0
+Beiww.	53	53	0
+Bemerk.	1	1	0
+Berl.	8	8	0
+Berl. Mpt	1	1	0
+bes.	439	439	0
+Bes.	12	12	0
+beschr.	1	1	0
+Besond.	2	2	0
+besond.	2	2	0
+bespr.	1	1	0
+best.	6608	6608	0
+betr.	1	1	0
+Bez.	4266	4266	0
+bez.	4	4	0
+Bezz.	13	13	0
+Bild.	3	3	0
+Bildl.	10	10	0
+bildl.	19	19	0
+bisw.	2	2	0
+Buddh.	10	10	0
+buddh.	178	178	0
+buddhist.	1	1	0
+Calc. Ausg.	156	156	0
+Capp.	1	1	0
+card.	1	1	0
+cas.	6	6	0
+cass.	6	6	0
+Casusverh.	1	1	0
+Caus.	11	11	0
+caus.	3646	3646	0
+causat.	1	1	0
+causs.	1	1	0
+cfr.	1	1	0
+Char.	1	1	0
+Chr.	2	2	0
+cit.	4	4	0
+Cit.	246	246	0
+class.	1	1	0
+coll.	22	22	0
+collect.	27	27	0
+Comm.	2028	2028	0
+Comment.	1	1	0
+Commentat.	1	1	0
+Commentatt.	5	5	0
+Commentt.	13	13	0
+comp.	2096	2096	0
+Comp.	32	32	0
+Compar.	2	2	0
+compar.	229	229	0
+comparat.	9	9	0
+compon.	75	75	0
+compos.	4	4	0
+Compp.	8	8	0
+compp.	128	128	0
+concr.	24	24	0
+condit.	14	14	0
+Condit.	1	1	0
+Conj.	160	160	0
+conj.	45	45	0
+Conjj.	1	1	0
+Conjug.	1	1	0
+conjunct.	1	1	0
+constr.	3	3	0
+Constr.	3	3	0
+coord.	1	1	0
+cop.	4	4	0
+copul.	10	10	0
+copul. comp.	13	13	0
+copulat.	7	7	0
+Corigg.	2	2	0
+Corr.	4	4	0
+Correl.	12	12	0
+correl.	9	9	0
+Correlat.	1	1	0
+correlat.	1	1	0
+Corrig.	1	1	0
+Corrigg.	77	77	0
+corrigg.	2	2	0
+Cultus.	1	1	0
+D.	4	4	0
+d.	28	1	27
+d. f.	1	1	0
+d. f. W.	2	2	0
+d. fg.	1	1	0
+d. fg. W.	3	3	0
+d. folg.	14	14	0
+d. folg. W.	19	19	0
+d. h.	382	382	0
+d. i.	1446	1446	0
+d. l. W.	10	10	0
+d. St.	82	82	0
+d. vor.	1	1	0
+d. vorang.	1	1	0
+d. vorherg.	1	1	0
+d. vorherg. W.	2	2	0
+d. W.	103	103	0
+d. Ww.	10	10	0
+da.	1	1	0
+dag.	1	1	0
+danom. abstr.	1	1	0
+das.	56	56	0
+Das.	2	2	0
+dass.	3827	3827	0
+dat.	468	468	0
+Dat.	1	1	0
+datt.	1	1	0
+dazw.	2	2	0
+dd.	3	3	0
+dd. Ww.	2	2	0
+Dec.	1	1	0
+Decl.	30	30	0
+decl.	3	3	0
+Declin.	31	31	0
+declin.	2	2	0
+defect.	1	1	0
+defin.	2	2	0
+dem.	6	6	0
+demin.	61	61	0
+deminn.	1	1	0
+demonstr.	14	14	0
+demonstratt.	1	1	0
+demonstrr.	2	2	0
+dems.	3	3	0
+Denom.	3	3	0
+denom.	268	268	0
+denomin.	5	5	0
+denominn.	1	1	0
+denomm.	2	2	0
+dergen.	1	1	0
+dergl.	33	33	0
+deriv.	1	1	0
+Derivv.	1	1	0
+derivv.	1	1	0
+Ders.	1	1	0
+ders.	312	312	0
+derselb.	3	3	0
+des.	10	10	0
+desgl.	877	877	0
+Desid.	9	9	0
+desid.	748	748	0
+desider.	6	6	0
+dess.	2	2	0
+desselb.	1	1	0
+dgl.	62	62	0
+dies.	34	34	0
+dies. St.	1	1	0
+diesem.	1	1	0
+diess.	133	133	0
+Dioscor.	1	1	0
+Dist.	1	1	0
+dist.	1	1	0
+distr.	1	1	0
+distrib.	1	1	0
+dopp.	51	51	0
+Dramat.	6	6	0
+du.	502	502	0
+Du.	5	5	0
+ebd.	1	1	0
+eben.	1	1	0
+ebend.	1	1	0
+ed.	1	1	0
+edend.	1	1	0
+Eig.	2	2	0
+eig.	215	215	0
+Eigenn.	1	1	0
+eigentl.	5	5	0
+einf.	3	3	0
+Einl.	432	432	0
+Einsch.	1	1	0
+Einschieb.	2	2	0
+einschl.	1	1	0
+einz.	1	1	0
+elid.	1	1	0
+ellipt.	1	1	0
+Emend.	1	1	0
+encl.	1	1	0
+enclit.	3	3	0
+End.	3	3	0
+enklit.	12	12	0
+entspr.	16	16	0
+Epith.	1	1	0
+Erg.	1	1	0
+erg.	4	4	0
+Ergänz.	3	3	0
+erkl.	1	1	0
+Erkl.	250	250	0
+Erkll.	21	21	0
+Erklär.	6	6	0
+Erklärr.	1	1	0
+Erll.	7	7	0
+Erläutt.	2	2	0
+Es.	2	2	0
+etc.	48	48	0
+etym.	42	42	0
+Etym.	33	33	0
+etymol.	2	2	0
+euph.	1	1	0
+Euphem.	1	1	0
+euphem.	18	18	0
+excl.	1	1	0
+explet.	1	1	0
+fehlerh.	1	1	0
+Fem.	3	3	0
+femm.	1	1	0
+fg.	596	596	0
+fgg.	588	588	0
+fgg. Ww.	1	1	0
+fig.	1	1	0
+fin.	14	14	0
+Folg.	1	1	0
+folg.	250	250	0
+folg. W.	6	6	0
+folg. Ww.	2	2	0
+folgend.	3	3	0
+folgg.	22	22	0
+folgg. Ww.	2	2	0
+Fut.	2	2	0
+fut.	220	220	0
+futt.	1	1	0
+geb.	1	1	0
+gebr.	1	1	0
+geder.	1	1	0
+gedr.	570	570	0
+Gegens.	1249	1249	0
+Gegenss.	1	1	0
+Gegenst.	1	1	0
+gehör.	1	1	0
+gen.	1104	1104	0
+Gen.	8	8	0
+genet.	1	1	0
+genit.	2	2	0
+genitt.	1	1	0
+genn.	2	2	0
+geogr.	2	2	0
+Geom.	4	4	0
+ger.	6	6	0
+Gerichtsspr.	3	3	0
+gerund.	42	42	0
+Geschl.	1	1	0
+geschr.	36	36	0
+gespr.	1	1	0
+gew.	25	25	0
+gezwung.	1	1	0
+Gr.	3	3	0
+Gramm.	46	46	0
+gramm.	55	55	0
+grammat.	7	7	0
+Grammat.	1	1	0
+Hamb. Hdschrr.	1	1	0
+Handschr.	9	9	0
+Handschrr.	14	14	0
+Hdchr.	1	1	0
+Hdschr.	157	157	0
+Hdschrr.	146	146	0
+Hdsichr.	1	1	0
+Hem.	2	2	0
+herausg.	6	6	0
+Hypokor.	1	1	0
+Hypokorr.	1	1	0
+i. e.	5	5	0
+ibid.	32	32	0
+id.	27	27	0
+ident.	2	2	0
+Identif.	1	1	0
+identif.	13	13	0
+Imacc.	1	1	0
+imp.	2	2	0
+imper.	19	19	0
+imperat.	87	87	0
+imperatt.	6	6	0
+Imperf.	1	1	0
+imperf.	61	61	0
+impers.	258	258	0
+imperson.	1	1	0
+Impl.	1	1	0
+incl.	2	2	0
+incomp.	1	1	0
+Incomp.	1	1	0
+Ind.	53	53	0
+indecll.	4	4	0
+Indecll.	1	1	0
+indef.	9	9	0
+indefin.	4	4	0
+indic.	2	2	0
+Inf.	1	1	0
+inf.	93	93	0
+Infin.	1	1	0
+infin.	268	268	0
+infinit.	5	5	0
+Inhaltsv.	1	1	0
+Inhaltsverz.	3	3	0
+insb.	5	5	0
+Insbes.	52	52	0
+insbes.	431	431	0
+Inschr.	568	568	0
+Inschrr.	1	1	0
+insens.	2	2	0
+instr.	991	991	0
+Instr.	12	12	0
+instrans.	1	1	0
+instrr.	2	2	0
+intens.	438	438	0
+Intens.	2	2	0
+Interj.	3	3	0
+Interpol.	1	1	0
+Interpr.	1	1	0
+interr.	21	21	0
+interrog.	13	13	0
+interrogatt.	1	1	0
+interrogg.	1	1	0
+intr.	7	7	0
+intrans.	92	92	0
+intransit.	6	6	0
+Jahrh.	19	19	0
+Jmd.	6	6	0
+jur.	4	4	0
+Kap.	1	1	0
+Kat.	3	3	0
+Kl.	11	11	0
+körperl.	1	1	0
+lang.	1	1	0
+Lexicc.	1	1	0
+Lexicogr.	2	2	0
+Lexicogrr.	38	38	0
+Lexx.	1	1	0
+Lit.	3	3	0
+Litt.	1	1	0
+liturg.	11	11	0
+loc.	1254	1254	0
+Loc.	9	9	0
+locc.	3	3	0
+log.	2	2	0
+mannigf.	1	1	0
+Mannsn.	1	1	0
+masc.	210	210	0
+Math.	3	3	0
+math.	1	1	0
+mathem.	7	7	0
+Mathem.	3	3	0
+Mathemm.	8	8	0
+med.	1936	1936	0
+medic.	67	67	0
+Medic.	1	1	0
+met.	1	1	0
+meton.	1	1	0
+metonym.	1	1	0
+metr.	3	3	0
+metron.	214	214	0
+metronn.	1	1	0
+mineral.	1	1	0
+mitact.	1	1	0
+mitfolg.	1	1	0
+moral.	3	3	0
+Mpt.	3	3	0
+Mspt.	1	1	0
+Mss.	1	1	0
+musik.	32	32	0
+myst.	22	22	0
+Myth.	1	1	0
+myth.	2	2	0
+Mythol.	3	3	0
+mythol.	2	2	0
+N.	5312	5312	0
+n. abstr.	2	2	0
+N. abstr.	1	1	0
+N. appell.	1	1	0
+n. Chr.	21	21	0
+N. pr.	17803	17803	0
+n. pr.	40	40	0
+N. Pr.	5	5	0
+nachf.	2	2	0
+nachfolg.	1	1	0
+Nachk.	1	1	0
+Nachtr.	1	1	0
+Nachtrr.	2	2	0
+nam.	8	8	0
+namentl.	11	11	0
+Nebenf.	1	1	0
+neg.	8	8	0
+Neg.	17	17	0
+negat.	4	4	0
+Negat.	2	2	0
+niedrig.	1	1	0
+Nn.	3	3	0
+Nn. prr.	9	9	0
+Nom.	1	1	0
+nom.	617	617	0
+nom. abst.	2	2	0
+Nom. abstr.	12	12	0
+nom. abstr.	1457	1457	0
+nom. abstract.	1	1	0
+Nom. act.	6	6	0
+nom. act.	388	388	0
+Nom. ag.	1	1	0
+nom. ag.	969	969	0
+Nom. appell.	3	3	0
+nom. card.	2	2	0
+nom. gent.	2	2	0
+nom. ord.	1	1	0
+nom. ordin.	1	1	0
+nom. pr.	6	6	0
+Nom. pr.	13	13	0
+Nomen pr.	2	2	0
+nomin.	1	1	0
+Nomina ag.	1	1	0
+nomm.	7	7	0
+nomm. antret.	1	1	0
+Nov.	1	1	0
+num.	2	2	0
+num. ordin.	1	1	0
+näml.	70	70	0
+obj.	347	347	0
+Obj.	1	1	0
+obl.	2	2	0
+od.	4	4	0
+omin.	2	2	0
+onomat.	21	21	0
+onomatop.	96	96	0
+opt.	2	2	0
+ord.	1	1	0
+Ort.	1	1	0
+Ortsadv.	2	2	0
+Ortsadvv.	1	1	0
+oxyt.	426	426	0
+oxyton.	1	1	0
+p.	3	3	0
+Par. Mpt	1	1	0
+parall.	1	1	0
+Parenth.	1	1	0
+parox.	201	201	0
+paroxyt.	5	5	0
+part.	144	144	0
+Part.	4	4	0
+part. fut. pass.	23	23	0
+Partic.	6	6	0
+partic.	2331	2331	0
+particc.	4	4	0
+Participialfut.	3	3	0
+partit.	1	1	0
+pass.	1164	1164	0
+patr.	14	14	0
+patron.	2095	2095	0
+Patron.	2	2	0
+patronn.	11	11	0
+perf.	106	106	0
+periphr.	4	4	0
+perisp.	22	22	0
+pers.	33	33	0
+Pers.	2	2	0
+person.	10	10	0
+Person.	4	4	0
+Personif.	30	30	0
+personif.	133	133	0
+personific.	1	1	0
+Phil.	1	1	0
+Philos.	4	4	0
+philos.	21	21	0
+pl.	3859	3859	0
+Pl.	5	5	0
+pleon.	3	3	0
+plur.	36	36	0
+poet.	2	2	0
+porox.	1	1	0
+pos.	3	3	0
+posit.	1	1	0
+poss.	3	3	0
+postp.	1	1	0
+pot.	12	12	0
+potent.	72	72	0
+praed.	23	23	0
+praep.	94	94	0
+Praep.	2	2	0
+praepos.	1	1	0
+praeposs.	1	1	0
+praepp.	25	25	0
+praes.	222	222	0
+praet.	168	168	0
+prec.	25	25	0
+precat.	2	2	0
+prim.	1	1	0
+priv.	15	15	0
+prohib.	1	1	0
+pron.	73	73	0
+Pron.	1	1	0
+pron. rel.	6	6	0
+pron. subst.	4	4	0
+pronn.	1	1	0
+pronom.	14	14	0
+pronomm.	9	9	0
+Pronomm.	1	1	0
+propar.	1	1	0
+proparax.	1	1	0
+proparox.	192	192	0
+proparoxyt.	4	4	0
+properisp.	1	1	0
+propr.	1	1	0
+Pros.	1	1	0
+prädic.	1	1	0
+Präp.	3	3	0
+Präpp.	4	4	0
+präpp.	1	1	0
+Randgl.	3	3	0
+rathsam.	1	1	0
+Rec.	16	16	0
+Rechtsspr.	1	1	0
+recipr.	5	5	0
+Redupl.	17	17	0
+redupl.	13	13	0
+reduplic.	5	5	0
+Reduplicat.	1	1	0
+refl.	7	7	0
+reflex.	21	21	0
+reg.	4	4	0
+Rel.	3	3	0
+rel.	44	44	0
+relat.	27	27	0
+relig.	2	2	0
+Rell.	1	1	0
+resp.	10	10	0
+rever.	1	1	0
+rhet.	4	4	0
+Rhet.	7	7	0
+s.	4650	4650	0
+S.	51	51	0
+s. a.	3	3	0
+s. d.	229	229	0
+S. u.	6	6	0
+s. u.	3421	3421	0
+s. v.	7	7	0
+sc.	630	630	0
+Sch.	7073	7073	0
+Schol.	6288	6288	0
+Scholl.	38	38	0
+Schreib.	1	1	0
+sg.	937	937	0
+Sg.	6	6	0
+sic.	3	3	0
+simpl.	243	243	0
+sing.	5	5	0
+sog.	24	24	0
+Sp.	282	282	0
+spec.	1	1	0
+spiel.	4	4	0
+Spr.	5	5	0
+sprüchw.	1	1	0
+St.	10	10	0
+st.	2440	2440	0
+subj.	117	117	0
+Subj.	1	1	0
+subst.	891	891	0
+Subst.	1	1	0
+substt.	2	2	0
+Suff.	2	2	0
+suff.	160	160	0
+superl.	266	266	0
+Superl.	1	1	0
+superlat.	13	13	0
+Suppl.	2	2	0
+symb.	1	1	0
+Syn.	6	6	0
+syn.	2	2	0
+synekd.	1	1	0
+Synonn.	2	2	0
+tautol.	2	2	0
+techn.	2	2	0
+term.	1	1	0
+term. techn.	1	1	0
+Th.	12	12	0
+Tit.	3	3	0
+Titelbl.	2	2	0
+trans.	90	90	0
+transit.	24	24	0
+trop.	2	2	0
+u.	2347	1996	351
+u. d.	9	9	0
+u. s. w.	4358	4358	0
+uberh.	1	1	0
+Ueberh.	4	4	0
+Uebers.	11	11	0
+Ueberschr.	1	1	0
+Uebertr.	58	58	0
+umwendend.	1	1	0
+unbel.	1	1	0
+unbest.	6	6	0
+uneig.	75	75	0
+Uneig.	26	26	0
+ungedr.	2	2	0
+ungramm.	1	1	0
+ungrammat.	1	1	0
+unpers.	2	2	0
+unreg.	3	3	0
+unregelm.	5	5	0
+unricht.	1	1	0
+Unterrschrr.	1	1	0
+Untersch.	1	1	0
+Unterschr.	268	268	0
+Unterschrr.	145	145	0
+Urspr.	4	4	0
+urspr.	89	89	0
+ursprüngl.	3	3	0
+v.	4	4	0
+v. a.	6566	6566	0
+v. Chr.	4	4	0
+v. l.	4972	4972	0
+V. l.	1	1	0
+v. u.	128	128	0
+Var.	75	75	0
+var.	1	1	0
+var. l.	23	23	0
+Var. l.	3	3	0
+Varr.	6	6	0
+verb.	10	10	0
+Verb.	50	50	0
+Verb. fin.	1	1	0
+verb. fin.	30	30	0
+verbb.	2	2	0
+Verbind.	30	30	0
+Verbindd.	1	1	0
+verdopp.	1	1	0
+Verf.	2	2	0
+Verff.	1	1	0
+vergl.	4	4	0
+Vergl.	3	3	0
+Vern.	1	1	0
+versch.	15	15	0
+verschied.	8	8	0
+Verz.	2	2	0
+Vgl.	18305	18305	0
+vgl.	11558	11558	0
+Viell.	141	141	0
+viell.	647	647	0
+viz.	2	2	0
+Voc.	3	3	0
+voc.	230	230	0
+Volksn.	1	1	0
+Vollst.	1	1	0
+vollst.	5	5	0
+vom.	12	12	0
+vor.	17	17	0
+vor. W.	1	1	0
+voran.	2	2	0
+vorang.	49	49	0
+vorangeh.	14	14	0
+vorherg.	188	188	0
+vorherg. W.	1	1	0
+vorhergeh.	4	4	0
+vorhergeh. Ww.	2	2	0
+vulg.	241	241	0
+Vulg.	1	1	0
+vv. ll.	3	3	0
+W.	32	32	0
+w.	2	2	0
+Weg.	2	2	0
+weibl.	2	2	0
+Wortm.	1	1	0
+Ww.	2	2	0
+Wörterb.	1	1	0
+Z.	1975	1975	0
+z.	2	2	0
+Z. B.	1	1	0
+z. B.	523	523	0
+Zahladvv.	1	1	0
+Zahlw.	1	1	0
+Zeitww.	1	1	0
+zugl.	1	1	0
+zus.	1	1	0
+Zus.	5	5	0
+Zusamm.	3	3	0
+zusammen.	15	15	0
+Zusammeng.	8	8	0
+zusammeng.	22	22	0
+zusammengef.	1	1	0
+zusammenges.	19	19	0
+zusammengez.	3	3	0
+zusammengezog.	1	1	0
+Zusammenh.	3	3	0
+Zusammens.	16	16	0
+Zusammenss.	2	2	0
+ähnl.	1	1	0
+ält.	3	3	0
+überh.	613	613	0
+übers.	3	3	0
+überth.	1	1	0
+übertr.	341	341	0
