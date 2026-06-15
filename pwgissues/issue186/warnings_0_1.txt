@@ -1,0 +1,20 @@
+LEX : <id>adj.</id> <disp>adjectivisch - adjective</disp>  <N>0</N> CHECKED
+LEX : <id>adv.</id> <disp>Adverb adverb</disp>  <N>0</N> CHECKED
+LEX : <id>f.</id> <disp>femininum - feminine</disp>  <N>0</N> CHECKED
+LEX : <id>ind.</id> <disp>indisch / Indikativ - Indian / indicative</disp> <INFER/> <N>0</N> UNCHECKED
+LEX : <id>indecl.</id> <disp>Indeclinabilum - indeclinable</disp>  <N>0</N> CHECKED
+LEX : <id>interj.</id> <disp>Interjection - interjection </disp>  <N>0</N> CHECKED
+LEX : <id>m.</id> <disp>masculinum - masculine</disp>  <N>0</N> CHECKED
+LEX : <id>n.</id> <disp>neutrum - neuter</disp>  <N>0</N> CHECKED
+LEX : <id>neutr.</id> <disp>Neutrum - neuter</disp>  <N>0</N> CHECKED
+WARN: <id>aa.</id> <disp>? - ?</disp> <INFER/> <N>0</N> UNCHECKED
+WARN: <id>Adhy.</id> <disp>Adhyāya - chapter (Sanskrit text division)</disp>  <N>0</N> CHECKED
+WARN: <id>engl.</id> <disp>englisch - English</disp>  <N>0</N> CHECKED
+WARN: <id>franz.</id> <disp>französisch - French</disp>  <N>0</N> CHECKED
+WARN: <id>Gegend.</id> <disp>Gegende - region</disp> <INFER/> <N>0</N> CHECKED
+WARN: <id>lith.</id> <disp>lithografisch - lithographic</disp>  <N>0</N> CHECKED
+WARN: <id>N.N.</id> <disp>nomwn nominandum - name to be named</disp>  <N>0</N> CHECKED
+WARN: <id>Padap.</id> <disp>Padapāṭha - Padapāṭha (Vedic word-by-word recitation)</disp>  <N>0</N> CHECKED
+WARN: <id>Trigl.</id> <disp>Triglotton / Trikāṇḍaśeṣa - trilingual list / Trikāṇḍaśeṣa</disp> <INFER/> <N>0</N> UNCHECKED
+WARN: <id>urpsr.</id> <disp>ursprünglich (typo) - originally (typo of urspr.)</disp> <INFER/> <N>0</N> UNCHECKED
+WARN: <id>ved.</id> <disp>vedisch - Vedic</disp>  <N>0</N> CHECKED

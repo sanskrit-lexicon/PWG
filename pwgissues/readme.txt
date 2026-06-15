@@ -114,4 +114,5 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue174  <ab> markup for pwg
 * issue178  enhance PWG markup for abbreviation, part 2
 * issue180 enhance PWG markup for abbreviation, part 3
+* issue186 PWG tooltip cleanup
 
