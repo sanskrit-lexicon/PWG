@@ -80,6 +80,10 @@ Padap. : DEL : 1 local abbrev in 'is' tag;  pwg to add  local abbrev for 4 other
 Trigl. : DEL : 1 instance in <ls>
 urpsr. : DEL : (a spelling error)
 
+* Suggestion for 'u.'
+old: <disp>unter - under </disp>
+new: <disp>unter / und - under, and</disp>
+
 * Suggestions to handle warnings
 DEL means "DELETE from pwgab_input".  KEEP means retain in pwgab_input
 aa. : DEL : local abbrev.  
