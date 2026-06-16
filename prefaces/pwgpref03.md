@@ -1,0 +1,28 @@
+---
+source_scan: pwg1-0000--03.png
+source_page: Foreword, 2
+volume: 1
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref03.html
+---
+
+# Foreword, 2
+
+[page IV]
+
+VORWORT.
+
+Dagegen haben wir uns bemüht, den eigenen Sammlungen eine grössere Ausdehnung zu geben und dadurch den einzigen festen Grund für die Lexicographie zu legen. Ein besonderes Verzeichniss am Ende des Vorworts zählt die gedruckten und handschriftlichen Werke auf, welche theils vollständig, theils mit Auswahl des Charakteristischen und Wichtigeren, theils nur im Vorübergehen von uns excerpirt worden sind.
+
+Insbesondere haben wir durch eine vollständige Verarbeitung der wichtigsten Bücher der Veda-Literatur den rechten Anfang für unsere Arbeit zu gewinnen gesucht. Damit ist ein ganz neues Gebiet eröffnet, aus dessen Ertrag dem sanskritischen Wortschatz ein bisher kaum geahnter Reichthum zuströmt. Und nicht auf diese Vermehrung allein ist der Gewinn beschränkt, sondern er ist eben so beträchtlich für das Verständniss des ganzen Sprachgutes. Von dort laufen aus die Fäden der Begriffe, welchen man nur dann in ihren Verschlingungen nachzugehen vermag, wenn man ihren Anfang festhält. Oder wo im spätern Sprachgebrauch die Grundanschauung eines Wortes verwischt, in scheinbar unzusammenhängende Stücke gleichsam auseinandergebrochen ist, einer abgenutzten oder zerschlagenen Münze gleich, da darf man zurückgreifen in den Schatz des Veda um noch das volle, unversehrte Gepräge und die Angabe des ursprünglichen Werthes zu finden.
+
+Manche Wurzeln, welche später ganz verschwinden, reiche Wortfamilien, die bis auf wenige Nachkömmlinge ausgestorben sind, findet man hier lebendig und blühend und lernt durch sie auch ihre spätern Nachtriebe verstehen. Deshalb wird auch die Etymologie insbesondere durch die Erschliessung der alten Sprache gefördert und es sollte die Sprachvergleichung sich viel strenger als es bisher geschehen ist an den jetzt nachweisbaren ältesten Bestand des Wortschatzes halten.
+
+Was dem griechischen Lexicon fehlen würde, wenn es mit Herodot und den grossen Tragikern anhübe und alles Aeltere ausser Acht liesse, dasselbe und noch viel mehr, je grösser die Masse alter Literatur ist, fehlt dem Sanskrit-Wörterbuch, welches die unter dem weiten Namen des Veda zusammengefassten Bücher bei Seite setzt.
+
+Allerdings ist eingetroffen, was H. T. Colebrooke vor fünfzig Jahren gesagt hat, dass die Schwierigkeit der vedischen Sprache lange noch einer genaueren, alles Wissenswerthe aus dieser umfangreichen Literatur ausziehenden Untersuchung im Wege stehen würde, aber die Arbeiten der letzten Jahrzehende haben diesen Urwald doch soweit wegsam gemacht, dass der von uns unternommene Versuch der Erforschung nicht erfolglos bleiben wird. Gewagt könnte man diesen Versuch nennen, weil ein Wörterbuch geschaffen werden soll, ehe die Exegese ihr Werk nur ernstlich angefangen hat: man verlangt den Abschluss und das Ergebniss einer Rechnung, ehe die einzelnen Factoren derselben festgestellt sind. Denn es muss anerkannt werden, dass fast alles was an exegetischen Vorarbeiten vorliegt, eher geeignet ist in schwierigen Gegenständen uns irre zu leiten als zu führen. Es ist mit Ausnahme von Th. Benfey's Arbeit über den Sâmaveda noch nichts Umfängliches zu Tage gefördert worden, was den allgemeinsten Anforderungen einer wissenschaftlichen Exegese genügte, und auch diesem Vorgänger dürfen wir nicht immer folgen. Unser Geschäft wäre schon so gut wie halb gethan, wenn Langlois' angebliche Uebersetzung des Ṛgveda irgendwie diesen Namen verdiente. Sie verdient ihn aber nur für diejenigen Stellen, in welchen fehlzugreifen auch einem Anfänger schwer fallen würde, und auch kaum für diese, da sie sich bemüht allenthalben das Verkehrteste ihrem Texte aufzudrängen.
+
+Der Geist des Veda mit seinen einfachen und hohen Gedanken wurde hier durch den Vorstellungskreis eines Dollmetschers hindurchgezwängt, in welchem er auch nicht einen einzigen Funken anzuschlagen vermochte, eines Dollmetschers, der schwach in der Kenntniss der Sprache, die nöthigen Vorbereitungen sichtbar verschmähend, viele Jahre an ein Werk verloren hat, das weit über seine Kräfte ging.
+
+Wäre Langlois' Buch nur unnütz, so könnte des jetzt Abgeschiedenen Vermächtniss bei Seite gelegt und mit dem Schleier der Vergessenheit bedeckt werden; weil es aber in unkundigen Händen schädlich wirkt und das Verständniss des indischen Alterthums ebenso verdunkeln und erschweren muss wie Anquetil's Zendavesta-Uebersetzung die Einsicht in die iranische Vorzeit erschwert hat, so muss ein entschiedenes Zeugniss gegen dasselbe abgelegt werden: es muss ihm alle und jede Autorität abgesprochen werden. Und es bedarf dieses Zeugnisses, weil Männer, welche mit dem Sachverhalt recht wohl bekannt sein konnten, aus was immer für Gründen in öffentlichen Urtheilen diese Wahrheit nicht ausgesprochen haben.
+
+Werden uns für das Verständniss vedischer Texte von Neuern nur spärliche Hülfsmittel dargeboten, so sind wir um so mehr an dasjenige gewiesen, was die indische Gelehrsamkeit selbst zur Erklärung derselben gethan hat, an die Commentare. Und in der That können wir uns für den einen der beiden Theile vedischer Literatur, für die Bücher der Theologie und des Cultus, keine bessern Führer wünschen, als diese in allen Stücken genauen Commentatoren, welche ihren Texten Wort für Wort folgen, nicht ermüden das schon oft Gesagte überall zu wiederholen, wo auch nur ein Schein des Missverständnisses entstehen könnte, und welche manchmal eher für uns Fremdlinge geschrieben zu haben scheinen, als für ihre unter diesen Anschauungen und Eindrücken aufgewachsenen

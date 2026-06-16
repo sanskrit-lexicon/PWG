@@ -1,0 +1,28 @@
+---
+source_scan: pwg1-0000--04.png
+source_page: Foreword, 3
+volume: 1
+language: en
+translation_of: pwgpref04.md
+source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref04.html
+---
+
+# Foreword, 3
+
+[page V]
+
+priestly pupils. Here they are on their own ground, where the task is to explain the ramified, ingenious, often subtle symbolism of the cult, to elucidate all the innumerable minutiae upon whose observance in worship eternal salvation or perdition depends. For in the Brâhmaṇa there breathes the very same spirit that has worked its way down through the whole of orthodox Brahmanical theology and has filled in particular those Brahman schools which, a few centuries ago, strove so eagerly to investigate and explain the outstanding works of their ancient theological literature.
+
+It is, however, quite another matter when these same men set themselves the task of explaining the ancient hymn collections. These texts are not creations of a theological speculation, nor did they grow from the soil of that firmly circumscribed, minute liturgical practice; rather, for the greatest part they are products of the oldest religious lyric, whose artistic practice was as little bound to families or castes as was the offering of the daily sacrifice and prayer. In them there lives a world of gods, and a cult is mirrored, which differ essentially from the system taught in the Brâhmaṇa; they speak a language separated from the language of the Brâhmaṇa — which is scarcely anything other than so-called classical Sanskrit — by as great a gulf as the Latin of the Salian hymns from that of M. Terentius Varro. Here, therefore, not only were quite different skills required for interpretation, but also freedom of judgement, a greater breadth of horizon, and historical perspective. But freedom of judgement has, among all peoples of pagan antiquity, been wanting in priestly learning, and of historical development one has never known anything in India.
+
+The very same qualities, then, by which those commentators became excellent guides to the understanding of the theological books, make them unfit guides in that far older and quite differently constituted domain. Since so-called classical Sanskrit was perfectly familiar to them, they sought its usage also in the Vedic hymn; since the order of the rite appeared to them as not at all conceivable otherwise and as existing from the beginning of the world, those forefathers of Indian worship of the gods must likewise have sacrificed in just this way; since the order of the gods and the world system of their own time were to them inviolable and revealed truths, these same truths must necessarily be found again in the very core of revelation, in the hymns of the ancient Ṛshi, who, after all, had lived in intimate intercourse with the gods and had been partakers of a far higher wisdom than the later-born generations.
+
+It is not necessary to support this state of affairs with examples and to elaborate it further, and just as little will one expect to find here more closely indicated the nevertheless very considerable gain which accrues to us from the works of these interpreters, in spite of all their imperfections. The whole relationship is neither hard to recognize nor unique of its kind. Thus the sacred books of the ancient peoples were explained by later centuries according to the prevailing systems of theology and according to the higher or lower state of learning in general, and everywhere in such a way that this interpretation gave itself out as tradition, that is, claimed for itself an antiquity and a dignity of which it could not in truth always boast. Nor has it occurred to anyone, for example, to make our understanding of the Hebrew books of the Old Testament dependent on the Talmud and the Rabbis, whereas there is no lack of those who hold it to be the duty of a conscientious interpreter of the Veda that he should translate according to Sâjaṇa, Mahîdhara, and others. We therefore do not believe, as H. H. Wilson *) does, that, for instance, Sâjaṇa understood the expressions of the Veda better than any European interpreter, so that we would have nothing further to do than to repeat after him; rather, we believe that a conscientious European interpreter can understand the Veda far more correctly and better than Sâjaṇa; we do not regard it as the immediate task to attain that understanding of the Veda which was current in India some centuries ago **), but rather seek the meaning which the poets themselves placed in their hymns and sayings. We accordingly hold that the writings of Sâjaṇa and the other commentators are not a guiding standard for the interpreter, but only one of the aids which he must employ for the solution of his task — a task that is admittedly difficult and not to be solved at the first onset nor by a single person. In this respect we have greatly regretted that Müller's meritorious edition of the commentary on the Ṛgveda has not already advanced further.
+
+We have therefore attempted to follow the path which linguistic science prescribes: to win their meaning from the texts themselves by holding together all passages related in wording or content; a slow and laborious path, on which indeed neither the commentators nor the translators have gone before us. For this reason the double task both of the exegete and of the lexicographer has fallen to us. The etymological procedure alone, as it must be practised by those
+
+------------
+
+*) Rig-Veda-Sanhitâ. A collection of ancient Hindu hymns u. s. w. Translated from the original Sanskrit. By H. H. Wilson. London 1850. I, p. 25.
+
+**) Wilson a. a. O. II, p. XXIII.
