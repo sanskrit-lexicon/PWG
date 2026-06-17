@@ -5,9 +5,11 @@ volume: 2
 source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref14.html
 ---
 
-# Verbesserungen zum 2. Theile
+# Verbesserungen
 
-[Schluss der Verbesserungen zum 1. Theile — Seitenzahl II]
+## Schluss der Verbesserungen zum 1. Theile
+
+[gedruckte Seitenzahl: II; Kolumnentitel: VERBESSERUNGEN.]
 
 S. 894, Art. **उत्तरेणा**, Z. 6 lies: गार्हपत्यम्.
 
@@ -53,7 +55,7 @@ S. 1020, Art. **ऊरु**, Z. 4 v. u. lies: नागनासोरु.
 
 Verbess. II, *b.* **अपचायिन्** u. उपचायिन् ist falsch aufgefasst; vgl. 1 und 2. चि mit अप.
 
-# Verbesserungen zum 2. Theile
+## Verbesserungen zum 2. Theile
 
 S. 295, Art. **किष्कु**, Z. 2 und 3 ist das Beispiel aus R. 5, 32, 11 in die 6te Zeile nach H. a n. MED. zu stellen.
 

@@ -7,9 +7,11 @@ translation_of: pwgpref14.md
 source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref14.html
 ---
 
-# Corrections to Part 2
+# Corrections
 
-[End of the Corrections to Part 1 — page number II]
+## Conclusion of the Corrections to Part 1
+
+[printed page number: II; running head: VERBESSERUNGEN.]
 
 p. 894, art. **उत्तरेणा**, l. 6 read: गार्हपत्यम्.
 
@@ -55,7 +57,7 @@ p. 1020, art. **ऊरु**, l. 4 from below read: नागनासोरु.
 
 Corrections II, *b.* **अपचायिन्** and उपचायिन् has been misconstrued; cf. 1 and 2. चि with अप.
 
-# Corrections to Part 2
+## Corrections to Part 2
 
 p. 295, art. **किष्कु**, ll. 2 and 3 the example from R. 5, 32, 11 is to be placed in the 6th line after H. a n. MED.
 

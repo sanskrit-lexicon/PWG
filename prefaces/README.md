@@ -15,6 +15,18 @@ For each scan page there are three files:
 
 Files carry a YAML header (source scan, section, volume, source URL; translations also carry `language` and `translation_of`). Sanskrit appears in Devanāgarī Unicode or Böhtlingk–Roth romanization as printed and is left **verbatim** in the translations; personal names, work titles, and bibliographic abbreviations are likewise kept as printed. Uncertain readings are marked `[?]`, unreadable spots `[illegible]`. The original PNGs are kept under [scans/](scans/).
 
+## Consolidated single-file editions
+
+The complete front matter is also assembled into one file per language (all 27 pages in order, with a table of contents):
+
+| language | file |
+|---|---|
+| German (Deutsch) | [pwgpref_all.de.md](pwgpref_all.de.md) |
+| English | [pwgpref_all.en.md](pwgpref_all.en.md) |
+| Russian (русский) | [pwgpref_all.ru.md](pwgpref_all.ru.md) |
+
+These are generated from the per-page files by [build_combined.py](build_combined.py) (`python build_combined.py`); edit the per-page files and re-run to regenerate.
+
 ## Contents
 
 | # | Section | Vol. | German | English | Russian |

@@ -7,9 +7,11 @@ translation_of: pwgpref14.md
 source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref14.html
 ---
 
-# Исправления ко 2-му тому
+# Исправления
 
-[Окончание исправлений к 1-му тому — номер страницы II]
+## Окончание исправлений к 1-му тому
+
+[печатный номер страницы: II; колонтитул: VERBESSERUNGEN.]
 
 с. 894, ст. **उत्तरेणा**, стрк. 6 читать: गार्हपत्यम्.
 
@@ -55,7 +57,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 Исправл. II, *b.* **अपचायिन्** и उपचायिन् истолковано неверно; ср. 1 и 2. चि с अप.
 
-# Исправления ко 2-му тому
+## Исправления ко 2-му тому
 
 с. 295, ст. **किष्कु**, стрк. 2 и 3 пример из R. 5, 32, 11 следует поместить в 6-ю строку после H. a n. MED.
 
