@@ -124,10 +124,8 @@ def period_suffix(needs):
 
 def split_n_tags(text):
     """Split <ls n='...'> tags with multi-ref content into separate tags.
-    Tracks the last full reference (most comma-separated numbers) to compute
-    inherited prefixes for partial references.
-    3-number source: '1,63,7. 107,1. 5.' → <ls n="ṚV.">1,63,7</ls>.<ls n="ṚV. 1,">107,1</ls>.<ls n="ṚV. 1,63,">5</ls>.
-    2-number source: '9,242. 11,45. 46. 89. 127' → <ls n="M.">9,242</ls>.<ls n="M.">11,45</ls>.<ls n="M. 11,">46</ls>. ..."""
+    When the prefix has trailing number groups, they provide context for
+    partial references. Otherwise, the pieces establish the system."""
     n_pattern = re.compile(r'<ls n="([^"]*)">([^<]*)</ls>([.)])?')
     def repl(m):
         prefix = m.group(1)
@@ -135,6 +133,16 @@ def split_n_tags(text):
         trailing = m.group(3) or ''
         if '. ' not in content:
             return m.group(0)
+
+        m_num = re.search(r'\d', prefix)
+        if m_num:
+            book_prefix = prefix[:m_num.start()].rstrip()
+            prefix_numeric = prefix[m_num.start():].rstrip(',').rstrip()
+            prefix_parts = prefix_numeric.split(',') if prefix_numeric else []
+        else:
+            book_prefix = prefix.rstrip()
+            prefix_parts = []
+
         pieces = content.split('. ')
         last_full_content = None
         max_commas = 0
@@ -143,18 +151,27 @@ def split_n_tags(text):
             clean = piece.strip().rstrip('.')
             has_period = piece.strip().endswith('.')
             commas = clean.count(',')
-            if commas > max_commas:
-                max_commas = commas
-            if commas == max_commas and commas > 0:
-                last_full_content = clean
-                tag = f'<ls n="{prefix}">{clean}</ls>'
-            elif last_full_content is not None:
-                num_to_inherit = max_commas - commas
-                last_parts = last_full_content.split(',')
-                inherited = ','.join(last_parts[:num_to_inherit])
-                tag = f'<ls n="{prefix} {inherited},">{clean}</ls>'
+
+            if prefix_parts:
+                piece_groups = commas + 1
+                num_to_inherit = max(0, len(prefix_parts) - (piece_groups - 1))
+                if num_to_inherit > 0:
+                    inherited = ','.join(prefix_parts[:num_to_inherit])
+                    tag = f'<ls n="{book_prefix} {inherited},">{clean}</ls>'
+                else:
+                    tag = f'<ls n="{book_prefix}">{clean}</ls>'
             else:
-                tag = f'<ls n="{prefix}">{clean}</ls>'
+                if commas > max_commas:
+                    max_commas = commas
+                if commas == max_commas and commas > 0:
+                    last_full_content = clean
+                    tag = f'<ls n="{prefix}">{clean}</ls>'
+                elif last_full_content is not None:
+                    num_to_inherit = max_commas - commas
+                    inherited = ','.join(last_full_content.split(',')[:num_to_inherit])
+                    tag = f'<ls n="{prefix} {inherited},">{clean}</ls>'
+                else:
+                    tag = f'<ls n="{prefix}">{clean}</ls>'
             if has_period:
                 tag += '.'
             out.append(tag)
@@ -214,6 +231,9 @@ def process_ref(ref_text, ref_period, lookup, derived_prefix, expected_prefix):
         if prefix:
             new_expected = derive_prefix(prefix.rstrip() + ' ' + ref_norm)
             return [f' <ls n="{prefix}">{ref_text}</ls>{period_suffix(ref_period)}'], new_expected
+        if ref_norm and ',' not in ref_norm:
+            inferred = expected_prefix.rstrip(' ,.') + ','
+            return [f' <ls n="{inferred}">{ref_text}</ls>{period_suffix(ref_period)}'], expected_prefix
         return [f' <ls>{ref_text}</ls>{period_suffix(ref_period)}'], expected_prefix
 
     parts = re.split(r'\s*—\s*', ref_text)
@@ -286,51 +306,53 @@ def process_new_text(new_text, lookup):
             continue
 
         first_text, first_period = refs[0]
-        derived_prefix = derive_prefix(first_text)
 
-        decomp = decompose_first_ref(first_text, lookup)
-        if decomp:
-            derived_prefix = decomp[0]
+        m_book = re.search(r'\d', first_text)
+        book_prefix = first_text[:m_book.start()].rstrip() if m_book else first_text
+        first_numeric = first_text[m_book.start():] if m_book else first_text
+        expected_commas = first_numeric.count(',')
 
-        # Handle em-dash in first ref (e.g., "P. 6,2,155—158" → "P. 6,2,")
-        if '—' in first_text:
-            first_before_dash = first_text.split('—')[0]
-            dash_prefix = derive_prefix(first_before_dash)
-            if dash_prefix and dash_prefix != derived_prefix:
-                derived_prefix = dash_prefix
-
-        has_valid_match = False
-        sim_expected = derived_prefix
-        for ref_text, _ in refs[1:]:
-            if not check_ref_match(ref_text, lookup, derived_prefix, sim_expected):
-                continue
-            has_valid_match = True
-            ref_norm = ref_text.rstrip('.')
-            if '—' in ref_norm:
-                parts = re.split(r'\s*—\s*', ref_norm)
-                sub = parts[-1] if parts else ref_norm
-                sim_expected = derive_prefix(sim_expected.rstrip() + ' ' + sub)
-            else:
-                sim_expected = derive_prefix(sim_expected.rstrip() + ' ' + ref_norm)
-
-        if not has_valid_match:
-            result_parts.append(m.group(0))
-            pos = m.end()
-            continue
+        last_full_content = first_numeric.rstrip('.')
 
         out_refs = []
         if '—' in first_text:
-            dash_result, dash_prefix = split_dash_ref(first_text, first_period, lookup, derived_prefix, derived_prefix)
+            dash_result, dash_prefix = split_dash_ref(first_text, first_period, lookup, '', '')
             out_refs.append(dash_result)
-            if dash_prefix:
-                derived_prefix = dash_prefix
         else:
             out_refs.append(f'<ls>{first_text}</ls>{period_suffix(first_period)}')
 
-        expected_prefix = derived_prefix
         for ref_text, ref_period in refs[1:]:
-            result, expected_prefix = process_ref(ref_text, ref_period, lookup, derived_prefix, expected_prefix)
-            out_refs.extend(result)
+            ref_norm = ref_text.rstrip('.')
+            commas = ref_norm.count(',')
+
+            if '—' in ref_norm:
+                parts = re.split(r'\s*—\s*', ref_norm)
+                sub_results = []
+                piece_groups = parts[0].count(',') + 1
+                num_to_inherit = max(0, expected_commas - (piece_groups - 1))
+                last_parts = last_full_content.split(',')
+                inherited = ','.join(last_parts[:num_to_inherit])
+                cur_prefix = f'{book_prefix} {inherited},'
+                for part in parts:
+                    part_tag = f'<ls n="{cur_prefix}">{part}</ls>'
+                    sub_results.append(part_tag)
+                    cur_prefix = derive_prefix(cur_prefix.rstrip() + ' ' + part.rstrip('.'))
+                combined = '—'.join(sub_results) + period_suffix(ref_period)
+                out_refs.append(combined)
+                continue
+
+            if commas == expected_commas:
+                prefix = book_prefix
+                last_full_content = ref_norm
+                full_ref = True
+            elif last_full_content is not None:
+                num_to_inherit = expected_commas - commas
+                last_parts = last_full_content.split(',')
+                inherited = ','.join(last_parts[:num_to_inherit])
+                prefix = f'{book_prefix} {inherited},'
+                full_ref = False
+
+            out_refs.append(f' <ls n="{prefix}">{ref_text}</ls>{period_suffix(ref_period)}')
 
         result_parts.append(''.join(out_refs))
         pos = m.end()
