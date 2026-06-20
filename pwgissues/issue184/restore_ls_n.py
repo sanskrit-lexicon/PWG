@@ -122,6 +122,46 @@ def period_suffix(needs):
     return '.' if needs else ''
 
 
+def split_n_tags(text):
+    """Split <ls n='...'> tags with multi-ref content into separate tags.
+    Tracks the last full reference (most comma-separated numbers) to compute
+    inherited prefixes for partial references.
+    3-number source: '1,63,7. 107,1. 5.' → <ls n="ṚV.">1,63,7</ls>.<ls n="ṚV. 1,">107,1</ls>.<ls n="ṚV. 1,63,">5</ls>.
+    2-number source: '9,242. 11,45. 46. 89. 127' → <ls n="M.">9,242</ls>.<ls n="M.">11,45</ls>.<ls n="M. 11,">46</ls>. ..."""
+    n_pattern = re.compile(r'<ls n="([^"]*)">([^<]*)</ls>([.)])?')
+    def repl(m):
+        prefix = m.group(1)
+        content = m.group(2).strip()
+        trailing = m.group(3) or ''
+        if '. ' not in content:
+            return m.group(0)
+        pieces = content.split('. ')
+        last_full_content = None
+        max_commas = 0
+        out = []
+        for piece in pieces:
+            clean = piece.strip().rstrip('.')
+            has_period = piece.strip().endswith('.')
+            commas = clean.count(',')
+            if commas > max_commas:
+                max_commas = commas
+            if commas == max_commas and commas > 0:
+                last_full_content = clean
+                tag = f'<ls n="{prefix}">{clean}</ls>'
+            elif last_full_content is not None:
+                num_to_inherit = max_commas - commas
+                last_parts = last_full_content.split(',')
+                inherited = ','.join(last_parts[:num_to_inherit])
+                tag = f'<ls n="{prefix} {inherited},">{clean}</ls>'
+            else:
+                tag = f'<ls n="{prefix}">{clean}</ls>'
+            if has_period:
+                tag += '.'
+            out.append(tag)
+        return ''.join(out) + trailing
+    return n_pattern.sub(repl, text)
+
+
 def split_dash_ref(ref_text, ref_period, lookup, cur_prefix, expected_prefix):
     """Split em-dash consolidated ref like 'P. 6,2,155—158' into individual <ls> tags.
     Returns (combined_string, updated_expected_prefix)."""
@@ -150,9 +190,9 @@ def get_ref_prefix(ref_norm, lookup, derived_prefix, expected_prefix):
     if ref_norm not in lookup:
         return ''
     candidates = lookup[ref_norm]
-    p = prefix_find(derived_prefix, candidates)
+    p = prefix_find(expected_prefix, candidates)
     if not p:
-        p = prefix_find(expected_prefix, candidates)
+        p = prefix_find(derived_prefix, candidates)
     return p
 
 
@@ -192,6 +232,8 @@ def process_ref(ref_text, ref_period, lookup, derived_prefix, expected_prefix):
 
 
 def process_new_text(new_text, lookup):
+    """Process new text: first split multi-ref <ls n='...'> tags, then restore n=."""
+    new_text = split_n_tags(new_text)
     result_parts = []
     pos = 0
     ls_pattern = re.compile(r'<ls>([^<]*)</ls>')

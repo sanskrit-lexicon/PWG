@@ -2,7 +2,8 @@
 """
 Generate TSV comparing <ls> tags between temp_pwg0.txt and temp_pwg1.txt.
 Output columns: lnum, pwg0, pwg1, Pass/Fail.
-Normalizes .</ls> -> </ls>. and )</ls> -> </ls>) for comparison.
+Normalizes .</ls> -> </ls>. and )</ls> -> </ls>) for comparison,
+and collapses spacing differences.
 """
 
 import os
@@ -21,31 +22,13 @@ def read_file(name):
 
 
 def normalize_for_compare(tag):
-    """Normalize tag so that .</ls> vs </ls>. and )</ls> vs </ls>) are equivalent."""
+    """Normalize tag so that .</ls> vs </ls>. and )</ls> vs </ls>) are equivalent,
+    and spacing differences like VI,75 vs VI, 75 are ignored."""
     tag = re.sub(r'[.)](?=</ls>)', '', tag)
     tag = re.sub(r'(?<=</ls>)[.)]', '', tag)
+    tag = re.sub(r'  +', ' ', tag)
+    tag = re.sub(r', +', ',', tag)
     return tag
-
-
-def extract_content(tag):
-    """Extract the reference content (between > and </ls>) from a tag."""
-    m = re.search(r'>([^<]*)</ls>', tag)
-    return m.group(1) if m else tag
-
-
-def is_subsumed(c0, c1):
-    """Check if reference content c0 appears as a whole ref within c1."""
-    if c0 == c1:
-        return True
-    if c0 in c1:
-        idx = c1.index(c0)
-        if idx > 0 and c1[idx - 1] not in '. ':
-            return False
-        end = idx + len(c0)
-        if end < len(c1) and c1[end] not in '. ':
-            return False
-        return True
-    return False
 
 
 def extract_block_tags(text):
@@ -77,46 +60,28 @@ def extract_block_tags(text):
 
 
 def match_tags(tags0, tags1):
-    """Two-pass matching: exact multiset, then subsumption for remainder."""
+    """Greedy multiset matching: matches each normalized tag from tags0 to
+    the first unused match in tags1, then appends remaining unmatched tags."""
     norm0 = [normalize_for_compare(t) for t in tags0]
     norm1 = [normalize_for_compare(t) for t in tags1]
 
-    used0 = [False] * len(tags0)
-    used1 = [False] * len(tags1)
+    used = [False] * len(tags1)
     pairs = []
 
-    # Pass 1: exact multiset matching
     for i, n0 in enumerate(norm0):
+        matched = False
         for j, n1 in enumerate(norm1):
-            if not used1[j] and n0 == n1:
+            if not used[j] and n0 == n1:
                 pairs.append((tags0[i], tags1[j], 'Pass'))
-                used0[i] = True
-                used1[j] = True
+                used[j] = True
+                matched = True
                 break
+        if not matched:
+            pairs.append((tags0[i], '', 'Fail'))
 
-    # Collect unmatched tags with their norm and content
-    unmatched0 = [(i, tags0[i], norm0[i], extract_content(norm0[i])) for i in range(len(tags0)) if not used0[i]]
-    unmatched1 = [(j, tags1[j], norm1[j], extract_content(norm1[j])) for j in range(len(tags1)) if not used1[j]]
-
-    # Pass 2: subsumption matching (allow 1 pwg1 tag to match multiple pwg0 tags)
-    sub_count = [0] * len(unmatched1)
-    for i0, t0, n0, c0 in unmatched0:
-        for e_idx, (j_orig, t1, n1, c1) in enumerate(unmatched1):
-            if c0 and c1 and (is_subsumed(c0, c1) or is_subsumed(c1, c0)):
-                pairs.append((t0, t1, 'Pass*'))
-                used0[i0] = True
-                sub_count[e_idx] += 1
-                break
-
-    # Remaining unmatched from pwg0
-    for i, t0, n0, c0 in unmatched0:
-        if not used0[i]:
-            pairs.append((t0, '', 'Fail'))
-
-    # Remaining unmatched from pwg1 (only if zero subsumption matches)
-    for e_idx, (j_orig, t1, n1, c1) in enumerate(unmatched1):
-        if sub_count[e_idx] == 0:
-            pairs.append(('', t1, 'Fail'))
+    for j in range(len(tags1)):
+        if not used[j]:
+            pairs.append(('', tags1[j], 'Fail'))
 
     return pairs
 
@@ -150,7 +115,7 @@ def main():
             pairs = match_tags(tags0, tags1)
             for t0, t1, status in pairs:
                 total_tags += 1
-                if status in ('Pass', 'Pass*'):
+                if status == 'Pass':
                     tag_passes += 1
                 else:
                     tag_fails += 1
