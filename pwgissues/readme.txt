@@ -116,3 +116,6 @@ Sample issue link: https://github.com/sanskrit-lexicon/PWG/issues/81
 * issue180 enhance PWG markup for abbreviation, part 3
 * issue186 PWG tooltip cleanup
 * issue188 PWG lang tag markup
+* issue189x PWG  ie tag markup.  Material NOT USED. Superceded by v1e
+* issue191 PWG comparison of v1e installation with previous cdsl version
+
