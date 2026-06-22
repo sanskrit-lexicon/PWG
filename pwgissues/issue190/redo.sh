@@ -13,6 +13,19 @@ fi
 DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$DIR"
 
+# Get input file from csl-orig repo at commit 702ad26 if not present
+echo "=== Step 0: Copy temp_pwg0.txt from csl-orig/v02/pwg/pwg.txt as it stood on 702ad26 ==="
+if [ ! -f temp_pwg0.txt ]; then
+    CSL_ORIG="$(cd "$DIR/../../../../sanskrit-lexicon/csl-orig" && pwd)"
+    if [ -d "$CSL_ORIG" ]; then
+        echo "=== Fetching pwg.txt from csl-orig at commit 702ad26 ==="
+        git -C "$CSL_ORIG" show 8be7c98:v02/pwg/pwg.txt > temp_pwg0.txt
+    else
+        echo "Error: csl-orig not found at $CSL_ORIG" >&2
+        exit 1
+    fi
+fi
+
 echo "=== Step 1: Merge adjacent <ls> tags where second has fg/fgg ==="
 python3 step1.py
 
