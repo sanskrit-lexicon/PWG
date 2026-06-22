@@ -1,0 +1,230 @@
+2026-06-21 5bdfb72 Dr. Dhaval Patel PWG pending blank n="" LS added. Close https://github.com/sanskrit-lexicon/PWG/issues/189
+2026-06-20 6bad0ce Dr. Dhaval Patel PWG missing <ls n=""> references added
+2026-06-20 9465d67 Dr. Dhaval Patel PWG ls adjustments for <ls[^>]*>[^>]*([^)<]*</ls>
+2026-06-20 958da9e Dr. Dhaval Patel PWG space between two literary sources
+2026-06-20 1688054 Dr. Dhaval Patel PWG corrections for <ls[^>]*>[^>(]*)
+2026-06-20 cc9e6c4 Dr. Dhaval Patel PWG ls changes Paninian references with vArttikas corrected per https://github.com/sanskrit-lexicon/PWG/issues/184#issuecomment-4757282385
+2026-06-20 126c5e8 Dr. Dhaval Patel PWG panchatantra single ls change per https://github.com/sanskrit-lexicon/PWG/issues/184#issuecomment-4757282385
+2026-06-20 97a59aa Dr. Dhaval Patel PWG minor ls additions
+2026-06-20 545c46c Dr. Dhaval Patel PWG ls minor corrections
+2026-06-20 579789e Dr. Dhaval Patel PWG expanded the literary resouces back
+2026-06-19 7d90e9d Dr. Dhaval Patel PWG fully copied from v1e of AB
+
+
+2026-06-15 c10d4c8 funderburkjim PWG lang abbreviations Ref: https://github.com/sanskrit-lexicon/pwg/issues/188 temp_pwg_2
+2026-06-12 63b27a2 funderburkjim PWG abbreviations Ref: https://github.com/sanskrit-lexicon/pwg/issues/180 temp_pwg_1
+2026-06-03 baad5ae Dr. Dhaval Patel Srezw->SrezW. Close https://github.com/sanskrit-lexicon/csl-corrections/issues/247
+2026-05-31 677a24c Dr. Dhaval Patel Revert "UrdDa->UrdDva. Close https://github.com/sanskrit-lexicon/csl-corrections/issues/228"
+2026-05-30 2efc5b8 Dr. Dhaval Patel UrdDa->UrdDva. Close https://github.com/sanskrit-lexicon/csl-corrections/issues/228
+2026-05-29 6068fe9 Mārcis Gasūns PWG: trim 4 whitespace oddities in <lang>/<ls> tags
+2026-05-29 752d447 Mārcis Gasūns PWG: fix stray > in <ls n="..."> at line 62270
+2026-05-27 b03b359 funderburkjim PWG abbreviations Ref: https://github.com/sanskrit-lexicon/pwg/issues/178 temp_pwg_2
+2026-05-20 ecd11db funderburkjim PWG abbreviations, (temp_pwg_8) #174
+2026-05-20 8416e2e funderburkjim PWG abbreviations, (temp_pwg_7) #174
+2026-05-20 6decc98 funderburkjim PWG abbreviations, (temp_pwg_6) #174
+2026-05-05 1cff9f3 Dr. Dhaval Patel BUR,BHS,GRA,MD,PWG changes "ṛi" -> "ṛ". See https://github.com/sanskrit-lexicon/AP/issues/7#issuecomment-3956973128
+2026-05-05 400db1a Dr. Dhaval Patel VCP,PWG: gT-gD changes and incidentals thereto. See https://github.com/sanskrit-lexicon/AP/issues/7#issuecomment-4147719308
+2026-05-05 b57349e Dr. Dhaval Patel PWG changes per IMr->Ir. See https://github.com/sanskrit-lexicon/AP/issues/7#issuecomment-4148333308
+2026-05-03 0f80cb0 Dr. Dhaval Patel AP and PWG typos corrected per https://github.com/sanskrit-lexicon/csl-corrections/issues/204
+2026-04-27 a9f6720 Dr. Dhaval Patel PWG ring above
+2026-04-25 82ffd6e Dr. Dhaval Patel DC 18 Apr 2026
+2026-03-31 59fdbde funderburkjim PWG #2832  PW #2833
+2026-02-03 4fe9447 Dhaval Patel 12/08/2025 09:43:03	PWG	 97104
+2026-02-03 a2b4752 Dhaval Patel 11/25/2025 08:39:31	PWG	 39697
+2026-02-03 7f7fcd5 Dhaval Patel 11/09/2025 01:24:26	PWG	51900
+2026-02-02 5dce9d3 Dhaval Patel 08/03/2025 19:11:49	PWG	 28330
+2026-02-02 7fdf916 Dhaval Patel 06/14/2025 10:11:51	PWG	 56819
+2026-02-02 b69b37d Dhaval Patel 04/24/2025 19:28:26	pwg	 104494
+2026-01-02 cf17f49 funderburkjim pwg: 4042,apAkacakzas Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/2800
+2025-11-18 14553c5 funderburkjim issue84pwg  #170  pwg refs inconsistent with index
+2025-11-16 3d3d805 funderburkjim PWG - few corrections. Ref: https://github.com/sanskrit-lexicon/PWG/issues/171
+2025-11-09 7740aeb funderburkjim issue98fix  splitting 'YĀJÑ.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-11-08 da17793 funderburkjim issue124fix  splitting 'VĀJASANEYISAM̃HITĀ' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-11-05 98cd973 funderburkjim issue134fix  splitting 'Taittirīyasam̃hitā' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-11-01 35e1b0e funderburkjim issue144fix  splitting 'TAITTIRĪYABRĀHMAṆA' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-30 2731593 funderburkjim issue84fix  splitting 'ŚAT. BR.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-24 67ad7d3 funderburkjim issue125fix  'ŚĀK.' refs in mw Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-22 a0cddca funderburkjim issue101fix  splitting Sāhityadarpaṇa refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-20 5216388 funderburkjim issue169  rajatarcalc Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-16 b6a6814 funderburkjim issue83fixa 'Ramayana Schlegel' link splitting Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-15 35783b4 funderburkjim issue83fix  splitting 'Ramayana Gorresio' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-14 c7ab396 funderburkjim issue75fix  splitting 'Ramayana Bombay' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-09 9ba2c52 funderburkjim issue135fix  splitting 'RĀJAT.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-07 1e0ea73 funderburkjim issue168  splitting 'PAÑCAT. ed. orn.' Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-05 f6f77f3 funderburkjim issue69fixa  splitting 'Verz. d. Oxf. H.' refs rework Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-05 b54442c funderburkjim issue109fix  splitting 'RAGH.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-04 882730f funderburkjim issue100fix  splitting 'RAGH.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-10-02 c34d0a3 funderburkjim issue86fix  splitting 'PAÑCAT. ' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-27 49c4a0c funderburkjim issu69fix  splitting 'Verz. d. Oxf. H.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-18 553054d funderburkjim issue147fix/srnga/  splitting 'ŚṚṄGĀRAT.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-17 1e0ccee funderburkjim issue147fix/megha/  splitting 'MEGH.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-17 68009f7 funderburkjim issue48fix  splitting 'MBH.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-15 8d2bde5 funderburkjim issue122fix  splitting 'MĀRK. P.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-14 5d5b42b funderburkjim issue73fix  splitting 'M.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-13 8b6010b funderburkjim issue149fix  splitting 'MĀLAV.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-12 ff1c0d2 funderburkjim issue146fix  splitting 'KUMĀRAS.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-11 2e9839a funderburkjim issue70fix  splitting 'KATHĀS.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-10 e9d4012 funderburkjim issue136fix  splitting 'KĀTY. ŚR.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-08 c8eedfa funderburkjim nirukta link target, revisions to pwg, pw, pwkvn, sch, mw Ref: https://github.com/sanskrit-lexicon/pwg/issues/167
+2025-09-04 bf656c6 funderburkjim issue152fix  splitting 'HIT. ' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-09-01 4ba6bcf funderburkjim issue153fix  splitting 'GĪT. N,N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-31 158bb8d funderburkjim issue92fix  splitting 'VARĀH. BṚH. S. N,N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-19 1ccb46e funderburkjim issue87fix  splitting 'Spr. (II) N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-19 6d709a8 funderburkjim issue87fix  splitting 'Spr. (I) N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-17 8a81a33 funderburkjim AITAREYABRĀHMAṆA (Aufrecht) link target correction Ref: https://github.com/sanskrit-lexicon/PWG/issues/159
+2025-08-16 e1f91b5 funderburkjim AITAREYABRĀHMAṆA (Haug) link target correction Ref: https://github.com/sanskrit-lexicon/PWG/issues/159
+2025-08-07 10ec046 funderburkjim issue157 VIKRAMORVAŚĪ link target correction #157
+2025-08-04 ca65ccf funderburkjim issue143fix  splitting 'BHAṬṬ. N,N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-03 a4848e1 funderburkjim PWG: 5360, amBoda.  BHARTṚ. Suppl.
+2025-08-03 c6b7748 funderburkjim issue148fix/bhartr  splitting 'BHARTṚ. N,N' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-02 c6aabf2 funderburkjim issue148fix/chaura  splitting 'CAURAP.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-02 c30a78a funderburkjim issue82fix  splitting 'BHĀG. P.' refs Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-08-01 45fcff7 funderburkjim issue129fix BHAG. N,N bhagavadgita ls split Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-31 b2e2ad8 funderburkjim issue154fix  splitting refs to amara_col' Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-29 e77641b funderburkjim issue93fix/vishv  'VIŚV. N,N' Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-29 be15881 funderburkjim issue93fix/dash  'DAŚ. N,N' Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-28 6b1eecc funderburkjim issue93fix/vid  'VID N' Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-28 aa37a9d funderburkjim issue104fixa  'H.' Abhidhānacintāmaṇi Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-27 2fae6d7 funderburkjim issue104fix  'H. ś.' Abhidhānacintāmaṇipariśiṣṭa Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-27 ee57f23 funderburkjim issue123fixa Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-26 71ef9e7 funderburkjim PWG: issue93fix/nala Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-24 e97479d funderburkjim issue123fix Ref: https://github.com/sanskrit-lexicon/pwg/issues/160
+2025-07-23 0a137a7 funderburkjim PWG: ls PAÑCAR. improvement. #160
+2025-07-20 497fc7e funderburkjim pwg: pancar. Ref: https://github.com/sanskrit-lexicon/PWG/issues/137
+2025-07-19 541e776 funderburkjim pwg:  corrections re pancar link target; ref: https://github.com/sanskrit-lexicon/pwg/issues/137
+2025-06-28 fd43a8c funderburkjim PWG amara_col link target. Ref: https://github.com/sanskrit-lexicon/pwg/issues/154
+2025-06-27 fa27b04 funderburkjim PWG:  AK. corrections. Ref readme2.txt. Ref: https://github.com/sanskrit-lexicon/pwg/issues/62
+2025-06-24 e02f0fe funderburkjim PWG:  changes re amara_dlc link target. Ref: https://github.com/sanskrit-lexicon/PWG/issues/62#issuecomment-3001259201
+2025-06-20 9b150cc funderburkjim pwg, pw, pwkvn, sch : amara_dlc link target . Ref: https://github.com/sanskrit-lexicon/pwg/issues/62
+2025-06-15 4dc8f84 funderburkjim mw, pw, pwg, pwkvn, sch  changes related to hitopadesha link target. Ref: https://github.com/sanskrit-lexicon/pwg/issues/152
+2025-05-20 3d4b29e funderburkjim changes re meghasrnga link target. #2758
+2025-05-11 24df11a funderburkjim PWG. 6 changes to <ls>H. an. N,N</ls> Ref: https://github.com/sanskrit-lexicon/PWG/issues/104
+2025-05-11 b758402 funderburkjim PWG.  '<ls n="H. an.">an. '  => '<ls>an. ' Ref: https://github.com/sanskrit-lexicon/PWG/issues/104
+2025-05-07 a7e3461 funderburkjim BEN, PWG  drohin. Ref: https://github.com/sanskrit-lexicon/PWG/issues/135#issuecomment-2857066545
+2025-05-04 18ade16 funderburkjim PWG: zuchange Ref: https://github.com/sanskrit-lexicon/PWG/issues/145
+2025-05-04 41fffd0 funderburkjim implement #2738
+2025-05-02 cdc2280 funderburkjim misc corrections re link-target work. #2737
+2025-04-17 36f6193 funderburkjim pwg: mastakasneha  #2682
+2025-03-22 724d9fb funderburkjim pwg: L=32934 dilIpa.  Correct markup error.
+2025-03-22 c92451c drdhaval2785 two corrections per https://github.com/sanskrit-lexicon/PWG/issues/102
+2025-03-19 403f170 drdhaval2785 miscellaneous cases, close https://github.com/sanskrit-lexicon/PWG/issues/127
+2025-03-19 7b00d7e drdhaval2785 case 5, H. ś., 6 changes, https://github.com/sanskrit-lexicon/PWG/issues/127#issuecomment-2735823916
+2025-03-19 8543a48 drdhaval2785 case 5, H. ś., 6 changes, https://github.com/sanskrit-lexicon/PWG/issues/127#issuecomment-2735823916
+2025-03-19 4b37944 drdhaval2785 case 4, SĀH. D., 1 change, https://github.com/sanskrit-lexicon/PWG/issues/127#issuecomment-2735791502
+2025-03-19 e24289a drdhaval2785 case 3, SUŚR., 1 change, https://github.com/sanskrit-lexicon/PWG/issues/127#issuecomment-2735786007
+2025-03-19 ffe4440 drdhaval2785 case 2, ŚAT. BR., 4 changes, https://github.com/sanskrit-lexicon/PWG/issues/127#issuecomment-2735779775
+2025-03-19 580f276 drdhaval2785 case 1, H. an., 185 changes
+2025-03-17 3ad86aa drdhaval2785 close https://github.com/sanskrit-lexicon/PWG/issues/113
+2025-03-17 b6fb4be drdhaval2785 PWG ls corrections 5
+2025-03-16 b0b2cb9 drdhaval2785 PWG ls corrections 4
+2025-03-16 d03dc13 drdhaval2785 PWG ls corrections 3
+2025-03-16 e9f86a0 drdhaval2785 PWG ls corrections 2
+2025-03-16 f01a63b drdhaval2785 PWG ls corrections
+2025-03-15 d3e59b1 drdhaval2785 close #2676
+2025-03-08 bd7d17f drdhaval2785 close https://github.com/sanskrit-lexicon/PWG/issues/114
+2025-03-08 4d171e8 drdhaval2785 PWG Hemacandra Abhidhanachintamani corrections
+2025-03-08 440f333 drdhaval2785 close https://github.com/sanskrit-lexicon/PWG/issues/117
+2025-03-08 62393f0 drdhaval2785 PWG HĀR. references added
+2025-03-08 eb55320 drdhaval2785 PWG TRIK references with one and two parameters sorted
+2025-03-08 2804473 drdhaval2785 abnormal references corrected for TRIK in PWG
+2025-03-08 8b00da1 drdhaval2785 Added missing ls references in PWG. See https://github.com/sanskrit-lexicon/PWG/issues/114
+2025-03-08 15f0a19 drdhaval2785 PWG MED corrections
+2025-03-05 71ae612 drdhaval2785 minor edit
+2025-03-05 97513bd drdhaval2785 minor VOP edits in PGW
+2025-03-02 655a013 drdhaval2785 PWG VOP ls resolution trial 2
+2025-03-01 de5f07b drdhaval2785 PWG VOP resolution manual one round complete
+2025-03-01 9ecabbc drdhaval2785 PWG VOP resolution of OTHER parameters till 40 in manual.txt
+2025-03-01 96c97a8 drdhaval2785 PWG VOP automatic resolution of OTHER parameters
+2025-02-26 c339d06 Dhaval Patel PWG RAGH reference corrections over
+2025-02-26 bd21b33 Dhaval Patel PWG RAGH ls corrections. See https://github.com/sanskrit-lexicon/PWG/issues/102#issuecomment-2684172174
+2025-02-26 e323250 Dhaval Patel 57 RAGH with 1 numeric parameter
+2025-02-26 54abf4c Dhaval Patel PWG regen after resolving 509 cases by lsparse2.py. See https://github.com/sanskrit-lexicon/PWG/issues/102
+2025-02-21 3bcc807 funderburkjim PW, PWG: evaMvIrya. #2675
+2025-02-14 571dbe0 funderburkjim Spr. markup standardization change_2.txt Ref: #87
+2025-02-14 bb6ff6f funderburkjim Spr. markup standardization change_1.txt Ref: #87
+2025-02-07 9dfc199 funderburkjim PWG Danda, Dandeva. #1775
+2024-12-06 0c75b16 funderburkjim PWG:sarj  Revise previous correction. Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-06 86f1ed8 funderburkjim PWG: standardization of links for 'Bhāg. P.', version 3 Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-12-05 18d3877 funderburkjim PWG: standardization of links for 'Bhāg. P.' Ref: https://github.com/sanskrit-lexicon/PWG/issues/81
+2024-10-10 784cab8 funderburkjim User Corrections
+2024-10-07 985e819 funderburkjim PWG: missing VN Ref: https://github.com/sanskrit-lexicon/PWG/issues/76
+2024-09-20 40d3269 funderburkjim PWG: Ref: https://github.com/sanskrit-lexicon/PWG/issues/34#issuecomment-2364472837 Ref: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2364178541
+2024-09-20 9da0685 funderburkjim PWG: Ref1: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2362846857 Ref2: https://github.com/sanskrit-lexicon/PWG/issues/77#issuecomment-2364157515
+2024-09-19 98e0ad5 funderburkjim Ref: https://github.com/sanskrit-lexicon/PWG/issues/77
+2024-09-17 ab27f76 funderburkjim PWG: Ref. https://github.com/sanskrit-lexicon/PWG/issues/74 local version 10
+2024-09-16 2a33239 funderburkjim PWG: Ref: https://github.com/sanskrit-lexicon/PWG/issues/74.
+2024-09-11 66edae4 funderburkjim PWG link standardization for M. (Manava dharmashastra) Ref: https://github.com/sanskrit-lexicon/PWG/issues/74
+2024-07-31 35083bc funderburkjim PWG: KATHĀS. links. Ref: https://github.com/sanskrit-lexicon/PWG/issues/71
+2024-06-23 ede0ee1 funderburkjim PWG 53773 BaganarAya. #1644
+2024-02-01 47c9b8f funderburkjim pwg changes related to Westergaard dhatupatha. Ref: https://github.com/sanskrit-lexicon/MWS/issues/126
+2023-12-25 d9a8fbc funderburkjim PWG: Corrections from Thomas. Ref: https://github.com/sanskrit-lexicon/PWK/issues/100
+2023-12-13 fa6888c funderburkjim pwg: user corrections
+2023-12-08 8d8da8a funderburkjim PWG: German word corrections   Ref: https://github.com/sanskrit-lexicon/PWG/issues/67
+2023-06-08 abdf5e1 funderburkjim pwg: User correction(s)
+2023-03-07 32cb90e funderburkjim pwg:  user corrections
+2023-02-03 81c2619 funderburkjim PWG: numeric orphans, 8. minor rev. Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-02-03 619915b funderburkjim PWG: numeric orphans, 8 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-31 1c07aae funderburkjim PWG: numeric orphans, 7 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-27 09f6d93 funderburkjim PWG: numeric orphans, 6 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-23 1f1daf9 funderburkjim PWG: numeric orphans, 5 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-22 fc1320a funderburkjim PWG: numeric orphans, 4 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-21 7c018c5 funderburkjim PWG: numeric orphans, 3 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-21 361a80a funderburkjim PWG: numeric orphans, 2 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-20 0fd5387 funderburkjim PWG: numeric orphans, 1 Ref: https://github.com/sanskrit-lexicon/PWG/issues/65
+2023-01-13 821353e funderburkjim PWG resolve lsunknown markup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/64
+2022-09-26 211328d funderburkjim pwg:  aRvya -> aRavya typo
+2022-09-11 25fb6b3 funderburkjim PWG: <ls> markup for AK. (Amarakosha). Ref: https://github.com/sanskrit-lexicon/PWG/issues/62
+2022-06-26 53f2bb7 funderburkjim PWG: period + space + digit  in <ls>. Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-06-25 fde5483 funderburkjim PWG: Minor ls markup revisions. Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-06-24 1f31203 funderburkjim PWG: 'ed. Bomb.' and 'ed. Calc.' ls markup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-06-23 599fba0 funderburkjim PWG: ls markup enhancement. Ref: https://github.com/sanskrit-lexicon/PWG/issues/57
+2022-05-24 4fed00c funderburkjim PWG: Greek text refinement. Ref: https://github.com/sanskrit-lexicon/PWG/issues/55
+2022-04-27 9632f9e funderburkjim pwg user corrections
+2022-02-27 88e5a56 funderburkjim PWG: enhance ls markup for 'P.' (Panini grammar); Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-24 199aa0d funderburkjim PWG:  AV markup enhancement. Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-23 6679ae1 funderburkjim PWG  RV ls markup improvements. Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-21 9a606a7 funderburkjim MW, PWG  revise ls children in a few cases. Ref https://github.com/sanskrit-lexicon/MWS/issues/128
+2022-02-19 f12c29e funderburkjim PWG MBH number ls markup enhancement. > Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-18 a07a026 drdhaval2785 pending three corrections from M2 to ~ in PWG
+2022-02-13 9395aaa funderburkjim pwg ls cleanup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/51
+2022-02-08 c61a456 funderburkjim PWG: improve links to HARIV (Calcutta). Ref: https://github.com/sanskrit-lexicon/PWG/issues/49
+2022-02-04 b44b29b funderburkjim cleanup of pwg MBH instances. REF: https://github.com/sanskrit-lexicon/PWG/issues/48#issuecomment-1030412193
+2022-01-23 5225ee2 funderburkjim PWG: <ls>? -> <ls>. Ref: https://github.com/sanskrit-lexicon/PWG/issues/47
+2022-01-23 7740ff8 funderburkjim PWG. Further corrections re Spr. (II) ls markup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/45
+2022-01-22 367457a funderburkjim PWG: Spr. (II) markup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/45
+2021-12-20 e043f77 funderburkjim PWG: User correction
+2021-10-01 95e34f6 funderburkjim pwg user corrections
+2021-09-25 a4dbbe3 funderburkjim 10 dictionaries change MASCULINE ORDINAL INDICATOR character to DEGREE SIGN. ref: https://github.com/sanskrit-lexicon/COLOGNE/issues/369
+2021-09-23 8554a99 drdhaval2785 partial handling of #632
+2021-09-06 a928b0f drdhaval2785 https://github.com/sanskrit-lexicon/csl-devanagari/issues/17
+2021-08-14 addefb3 funderburkjim pwg:  candra-bindu + accent => accent + candra-bindu. Ref: https://github.com/sanskrit-lexicon/PWG/issues/43
+2021-08-13 eddc670 funderburkjim PWG: M2 = candrabindu. Ref: https://github.com/sanskrit-lexicon/PWG/issues/43
+2021-08-12 147611b funderburkjim PWG: corrections with 2 accents. Ref: https://github.com/sanskrit-lexicon/PWG/issues/5
+2021-08-10 362cf49 funderburkjim PWG: accents before H,M (not after). Ref: https://github.com/sanskrit-lexicon/pwg/issues/5#issuecomment-895427193 and following comment
+2021-08-06 e4824a4 funderburkjim PWG: f2 -> F in slp1. Ref: https://github.com/sanskrit-lexicon/PWG/issues/43#issuecomment-894417696
+2021-08-05 f6c648f funderburkjim PWG: PRĀTIŚĀKHYA ls reference improvements. Ref: https://github.com/sanskrit-lexicon/PWG/issues/41
+2021-07-25 adcaa74 funderburkjim PWG: antarveDa print change. #599
+2021-07-25 f636f34 funderburkjim PWG: hevAkin. Ref #598
+2021-07-16 d96e214 funderburkjim PWG RV literary source markup. Ref: https://github.com/sanskrit-lexicon/PWG/issues/38
+2021-06-21 e65d4dc funderburkjim pwg user corrections
+2021-04-17 8c0e6e9 funderburkjim pwg Sch markup enhancement. Ref: https://github.com/sanskrit-lexicon/PWG/issues/35
+2021-04-16 2f3d57b funderburkjim PWG: #520
+2021-04-16 0d84b0d funderburkjim Sample new coding of <ls n=.../>1,2,3</ls> for pwg, mw
+2021-03-20 d32bd83 funderburkjim PWG:54578  #483
+2021-03-13 cc0ca97 funderburkjim PWG: L=52860. Ref #472
+2020-11-19 db231b6 funderburkjim PWG:  9940, i. Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/428. Print change
+2020-10-04 9e725c2 funderburkjim PWG: 3 user corrections
+2020-06-16 9c7eca4 funderburkjim PWG: #288, #311
+2020-03-06 611d859 funderburkjim PWG: 114357, sparS.  print change. #189
+2020-03-04 dea4563 funderburkjim pwg: L=26839, jartu -> jarts
+2020-02-27 b3bf103 funderburkjim pwg: improve upasarga markup. #177
+2020-02-26 365e699 funderburkjim 5812, arGa->arG.  Revise correction
+2020-02-26 afba1f0 funderburkjim pwg changes. #176
+2020-02-26 2b40e11 funderburkjim pwg: DHANAMJAYA  two variant spellings corrected
+2020-02-17 9182807 funderburkjim PWG:82497,yAgin -> yogin. Print change
+2019-12-18 58ed66a funderburkjim pwg:35439,droRa; 19764,kram; 101905,SreyaMs (print change); 102723,sa; 102722,sa
+2019-11-04 5e0f026 funderburkjim reorganize so v00/csl-data/XXXScan/2020/orig/xxx.txt becomes v02/xxx/xxx.txt, and similarly for xxx_hwextra.txt
+2019-10-30 0fa79ec YevgenJohn Converted lang n="Russian" to lowercase
+2019-10-30 9656bfc YevgenJohn Fixed lang n="Greek" to lower case
+2019-07-20 cb0ee44 drdhaval2785 2013 dicts added
+2019-07-20 6f45dd5 drdhaval2785 csl-orig initial commit
