@@ -26,7 +26,7 @@ def read_file(name):
 
 
 def get_old_version():
-    return read_file('temp_pwg0.txt')
+    return read_file('temp_pwg2.txt')
 
 
 def get_new_version():
@@ -131,7 +131,8 @@ def split_n_tags(text):
         prefix = m.group(1)
         content = m.group(2).strip()
         trailing = m.group(3) or ''
-        if '. ' not in content:
+        refs = split_references(content)
+        if len(refs) <= 1:
             return m.group(0)
 
         m_num = re.search(r'\d', prefix)
@@ -143,13 +144,23 @@ def split_n_tags(text):
             book_prefix = prefix.rstrip()
             prefix_parts = []
 
-        pieces = content.split('. ')
+        first_text, _ = refs[0]
+        m_abbr = re.search(r'\d', first_text)
+        if m_abbr:
+            abbr_fragment = first_text[:m_abbr.start()].rstrip()
+            if abbr_fragment.endswith('.'):
+                prefix = prefix.rstrip() + ' ' + abbr_fragment
+                for i in range(len(refs)):
+                    pt, hp = refs[i]
+                    if pt.startswith(abbr_fragment):
+                        pt = pt[len(abbr_fragment):].lstrip()
+                        refs[i] = (pt, hp)
+
         last_full_content = None
         max_commas = 0
         out = []
-        for piece in pieces:
-            clean = piece.strip().rstrip('.')
-            has_period = piece.strip().endswith('.')
+        for piece_text, has_period in refs:
+            clean = piece_text.strip().rstrip('.')
             commas = clean.count(',')
 
             if prefix_parts:
@@ -314,6 +325,24 @@ def process_new_text(new_text, lookup):
 
         last_full_content = first_numeric.rstrip('.')
 
+        # Absorb abbreviation fragments from subsequent refs
+        absorbed_fragment = None
+        for i in range(1, len(refs)):
+            rt, _ = refs[i]
+            m_frag = re.search(r'\d', rt)
+            if m_frag:
+                fragment = rt[:m_frag.start()].rstrip()
+                if fragment.endswith('.'):
+                    absorbed_fragment = fragment
+                    break
+        if absorbed_fragment:
+            book_prefix = book_prefix.rstrip() + ' ' + absorbed_fragment
+            for i in range(1, len(refs)):
+                pt, hp = refs[i]
+                if pt.startswith(absorbed_fragment):
+                    pt = pt[len(absorbed_fragment):].lstrip()
+                    refs[i] = (pt, hp)
+
         out_refs = []
         if '—' in first_text:
             dash_result, dash_prefix = split_dash_ref(first_text, first_period, lookup, '', '')
@@ -344,13 +373,13 @@ def process_new_text(new_text, lookup):
             if commas == expected_commas:
                 prefix = book_prefix
                 last_full_content = ref_norm
-                full_ref = True
+            elif commas > expected_commas:
+                prefix = book_prefix
             elif last_full_content is not None:
                 num_to_inherit = expected_commas - commas
                 last_parts = last_full_content.split(',')
                 inherited = ','.join(last_parts[:num_to_inherit])
                 prefix = f'{book_prefix} {inherited},'
-                full_ref = False
 
             out_refs.append(f' <ls n="{prefix}">{ref_text}</ls>{period_suffix(ref_period)}')
 

@@ -12,7 +12,7 @@ import sys
 import csv
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-FILES = ['temp_pwg0.txt', 'temp_pwg1.txt']
+FILES = ['temp_pwg3.txt', 'temp_pwg2.txt']
 
 
 def read_file(name):
@@ -109,8 +109,8 @@ def main():
         writer.writerow(['lnum', 'pwg0', 'pwg1', 'Pass/Fail'])
 
         for lnum in sorted_lnums:
-            tags0 = data['temp_pwg0.txt'].get(lnum, [])
-            tags1 = data['temp_pwg1.txt'].get(lnum, [])
+            tags0 = data[FILES[0]].get(lnum, [])
+            tags1 = data[FILES[1]].get(lnum, [])
 
             pairs = match_tags(tags0, tags1)
             for t0, t1, status in pairs:
