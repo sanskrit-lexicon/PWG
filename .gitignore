@@ -13,3 +13,8 @@ __pycache__
 # audit sidecars
 .contributing_old.md
 .contributing_audit.txt
+
+# deepseek pilot: secrets + generated outputs (derived artifacts, regenerable)
+.env
+deepseek_pilot/out/
+deepseek_pilot/slice/*.jsonl
