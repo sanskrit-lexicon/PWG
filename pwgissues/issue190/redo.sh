@@ -58,4 +58,8 @@ echo "=== Step 8: Manual corrections from log1.txt ==="
 python3 step8.py
 
 echo ""
-echo "Done: temp_pwg1.txt (step1), temp_pwg2.txt (step2), temp_pwg3.txt (step3), temp_pwg4.txt (step4), temp_pwg5.txt (step5), temp_pwg6.txt (step6), temp_pwg7.txt (step7), temp_pwg8.txt (step8)"
+echo "=== Step 9: Clean fg/fgg from n attributes ==="
+python3 step9.py
+
+echo ""
+echo "Done: temp_pwg1.txt (step1), temp_pwg2.txt (step2), temp_pwg3.txt (step3), temp_pwg4.txt (step4), temp_pwg5.txt (step5), temp_pwg6.txt (step6), temp_pwg7.txt (step7), temp_pwg8.txt (step8), temp_pwg9.txt (step9)"
