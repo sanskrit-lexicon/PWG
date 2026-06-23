@@ -1,0 +1,15 @@
+; <L>3898<pc>1-045-c<k1>anAnupUrvya<k2>anAnupUrvya
+14456 old {#anAnupUrvya#}¦ <lex>n.</lex> {%gestörte Reihenfolge%} <ls>ṚV. PRĀT. 2,43. 11,8</ls>.
+;
+14456 new {#anAnupUrvya#}¦ <lex>n.</lex> {%gestörte Reihenfolge%} <ls>ṚV. PRĀT. 2,43.</ls> <ls n="ṚV. PRĀT.">11,8</ls>.
+;---------------------------------------------------
+; <L>4053<pc>1-047-b<k1>aniNgya<k2>aniNgya
+15001 old {#aniNgya#}¦ <lex>Adj.</lex> = {#aniNga#} <ls>ṚV. PRĀT. 5,20. 9,13</ls>. Davon <ab>Nom. abstr.</ab> {#˚tva#} <lex>n.</lex> <ls>Comm. zu AV. PRĀT. 4,76</ls>.
+;
+15001 new {#aniNgya#}¦ <lex>Adj.</lex> = {#aniNga#} <ls>ṚV. PRĀT. 5,20.</ls> <ls n="ṚV. PRĀT.">9,13</ls>. Davon <ab>Nom. abstr.</ab> {#˚tva#} <lex>n.</lex> <ls>Comm. zu AV. PRĀT. 4,76</ls>.
+;---------------------------------------------------
+; <L>98721<pc>6-027-c<k1>varRatas<k2>varRatas
+411249 old {#varRatas#}¦ <lex>Adv.</lex> {%den Farben nach%} <ls>ṚV. PRĀT. 17,8. 10</ls>. <ls>AGNI-P. 43,13</ls>.
+;
+411249 new {#varRatas#}¦ <lex>Adv.</lex> {%den Farben nach%} <ls>ṚV. PRĀT. 17,8.</ls> <ls n="ṚV. PRĀT. 17,">10</ls>. <ls>AGNI-P. 43,13</ls>.
+;---------------------------------------------------
