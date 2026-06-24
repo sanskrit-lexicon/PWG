@@ -43,12 +43,12 @@ Link target: `https://sanskrit-lexicon-scans.github.io/rvps/app1?N,N`
 
 | Dictionary | True | None | False | Fixed |
 |---|---|---|---|---|---|
-| pwg | 1767 | 3 | 0 | 0 |
-| pw | 82 | 1 | 0 | 3 |
+| pwg | 1769 | 1 | 0 | 0 |
+| pw | 88 | 1 | 0 | 0 |
 | pwkvn | 9 | 0 | 0 | 0 |
 | sch | 11 | 0 | 0 | 0 |
 
-**Improvement**: Parenthetical annotations like `(14)`, `(20. 21)`, `(<is>Sūtra</is> 18)` are now recognized as valid standard refs via expanded sfx patterns in `get_REGEXes_standard()` (`lsfix2.py:97`). The PHP handler already extracts `N,N` correctly from `<ls>ṚV. PRĀT. 1,3 (14)</ls>`, so no dictionary changes are needed for these entries.
+**Improvement**: Parenthetical annotations like `(14)`, `(20. 21)`, `(<is>Sūtra</is> 18)`, `(ed. MÜLLER)`, `(ed. M.)` are now recognized as valid standard refs via expanded sfx patterns in `get_REGEXes_standard()` (`lsfix2.py:97`). The PHP handler already extracts `N,N` correctly from such entries, so no dictionary changes are needed.
 
 ### pw corrections (3)
 
@@ -62,16 +62,13 @@ Three compound references were split into separate `<ls>` tags via `dict_replace
 
 ### pwg: No dictionary changes needed
 
-`temp_pwg_1.txt` is identical to `temp_pwg_0.txt` — all 1767 True refs already produce correct links. The 3 remaining None refs cannot be auto-linked (see below).
+`temp_pwg_1.txt` is identical to `temp_pwg_0.txt` — all 1769 True refs already produce correct links. The single remaining None ref cannot be auto-linked (see below).
 
 ### Remaining issues to review
 
-**pwg None (3)** — edition-qualified or non-standard formats that cannot be auto-linked:
-- `ed. MÜLLER 1,3` — edition qualifier prefix
-- `XIII, N. 2` — Roman numeral patala with "N."
-- `(ed. M.) 1,2` — edition qualifier in parens
+**pwg None (1)**: `XIII, N. 2` — Roman numeral patala with "N." — cannot be linked.
 
-**pw None (1)**: `Einl. 6` (Einleitung — introduction reference)
+**pw None (1)**: `Einl. 6` — Einleitung (introduction) reference — cannot be linked.
 
 ## basicadjust.php
 

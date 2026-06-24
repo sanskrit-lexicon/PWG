@@ -2725,7 +2725,7 @@ indexdata =
   "volume": 2,
   "patala": 13,
   "v1": 1,
-  "v2": 4,
+  "v2": 1,
   "ipage": 259,
   "remarks": "Adhyaya III",
   "vp": "2_138"

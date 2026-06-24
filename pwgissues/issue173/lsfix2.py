@@ -97,7 +97,7 @@ def get_REGEXes_standard(lscode,nparm):
  sfxes = [r'\.' , '', r'\. fg\.', r'\. fgg\.', r', v\. l\.',
           r' \([0-9]+\)', r' \([0-9]+\.[0-9]+\)', r' \([0-9]+[.] [0-9]+\)',
           r'\. \([0-9]+\)',
-          r' \(<is>Sūtra</is> [0-9]+\)']
+          r' \(<is>Sūtra</is> [0-9]+\)', r' \(.*?\)']
  aREGs = []
  for S in sfxes:
   aREGs.append(REGEX(lscode1,None,nparm,S))
