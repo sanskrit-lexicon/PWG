@@ -5,11 +5,13 @@ True	2	12248	anata	<ls>ṚV. PRĀT. 4,11</ls>
 True	2	12793	ananya	<ls>ṚV. PRĀT. 6,10</ls>	
 True	2	12799	ananyakArita	<ls>ṚV. PRĀT. 10,7</ls>	
 True	2	12848	ananyayogam	<ls>ṚV. PRĀT. 11,13</ls>	
-fixed	2	14456	anAnupUrvya	<ls>ṚV. PRĀT. 2,43. 11,8</ls>	<ls>ṚV. PRĀT. 2,43.</ls> <ls n="ṚV. PRĀT.">11,8</ls>
+True	2	14456	anAnupUrvya	<ls>ṚV. PRĀT. 2,43</ls>	
+True	2	14456	anAnupUrvya	<ls n="ṚV. PRĀT.">11,8</ls>	
 True	2	14715	anArzyavilopa	<ls>ṚV. PRĀT. 11,28</ls>	
 True	2	14850	anASraya	<ls>ṚV. PRĀT. 11,36</ls>	
 True	2	14998	aniNgayant	<ls>ṚV. PRĀT. 13,11</ls>	
-fixed	2	15001	aniNgya	<ls>ṚV. PRĀT. 5,20. 9,13</ls>	<ls>ṚV. PRĀT. 5,20.</ls> <ls n="ṚV. PRĀT.">9,13</ls>
+True	2	15001	aniNgya	<ls n="ṚV. PRĀT.">5,20</ls>	
+True	2	15001	aniNgya	<ls n="ṚV. PRĀT.">9,13</ls>	
 True	2	15203	aniyata	<ls>ṚV. PRĀT. 11,26</ls>	
 True	2	16117	anugraha	<ls>ṚV. PRĀT. 11,10</ls>	
 True	2	18951	anekIBavant	<ls>ṚV. PRĀT. 13,15</ls>	
@@ -66,7 +68,8 @@ True	2	306837	prAyasya	<ls>ṚV. PRĀT. 16,43</ls>
 True	2	329455	Binnakrama	<ls>ṚV. PRĀT. 4,12</ls>	
 True	2	386680	rAj	<ls>ṚV. PRĀT. 17,4</ls>	
 True	2	396914	laGvakzara	<ls>ṚV. PRĀT. 18,33</ls>	
-fixed	2	411249	varRatas	<ls>ṚV. PRĀT. 17,8. 10</ls>	<ls>ṚV. PRĀT. 17,8.</ls> <ls n="ṚV. PRĀT. 17,">10</ls>
+True	2	411249	varRatas	<ls>ṚV. PRĀT. 17,8</ls>	
+True	2	411249	varRatas	<ls n="ṚV. PRĀT. 17,">10</ls>	
 True	2	412609	vartman	<ls>ṚV. PRĀT. 11,32</ls>	
 True	2	439935	vizamarAga	<ls>ṚV. PRĀT. 14,4</ls>	
 None	2	484438	SvAsa	<ls>ṚV. PRĀT. Einl. 6</ls>	
