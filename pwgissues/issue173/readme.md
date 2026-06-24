@@ -42,11 +42,13 @@ Link target: `https://sanskrit-lexicon-scans.github.io/rvps/app1?N,N`
 ### Results
 
 | Dictionary | True | None | False | Fixed |
-|---|---|---|---|---|
-| pwg | 1732 | 35 | 7 | 0 |
-| pw | 70 | 2 | 6 | 3 |
+|---|---|---|---|---|---|
+| pwg | 1767 | 3 | 0 | 0 |
+| pw | 82 | 1 | 0 | 3 |
 | pwkvn | 9 | 0 | 0 | 0 |
 | sch | 11 | 0 | 0 | 0 |
+
+**Improvement**: Parenthetical annotations like `(14)`, `(20. 21)`, `(<is>Sūtra</is> 18)` are now recognized as valid standard refs via expanded sfx patterns in `get_REGEXes_standard()` (`lsfix2.py:97`). The PHP handler already extracts `N,N` correctly from `<ls>ṚV. PRĀT. 1,3 (14)</ls>`, so no dictionary changes are needed for these entries.
 
 ### pw corrections (3)
 
@@ -58,27 +60,18 @@ Three compound references were split into separate `<ls>` tags via `dict_replace
 | 15001 | `aniNgya` | `<ls>ṚV. PRĀT. 5,20. 9,13</ls>` | `<ls>ṚV. PRĀT. 5,20.</ls> <ls n="ṚV. PRĀT.">9,13</ls>` |
 | 411249 | `varRatas` | `<ls>ṚV. PRĀT. 17,8. 10</ls>` | `<ls>ṚV. PRĀT. 17,8.</ls> <ls n="ṚV. PRĀT. 17,">10</ls>` |
 
-### pwg: No auto-fixable refs
+### pwg: No dictionary changes needed
 
-`temp_pwg_1.txt` is identical to `temp_pwg_0.txt` — all 1732 True refs already have proper 2-parameter format. The 35 None and 7 False refs need manual review (see below).
+`temp_pwg_1.txt` is identical to `temp_pwg_0.txt` — all 1767 True refs already produce correct links. The 3 remaining None refs cannot be auto-linked (see below).
 
 ### Remaining issues to review
 
-**pwg None (35)** — single-parameter or non-standard formats:
-- Single sūtra number only (no patala): `6`, `16`, `26`, `14`, `13`, `4`, `5`, `7`, `8`, `10`, `12`, `18`, `22`, `24`, `27`, `30`, `35`
-  - Suspect: `<ls n="ṚV. PRĀT. 7, ">22</ls>` (trailing space in n-attr)
-- Three-parameter refs (patala, sūtra, sub-sūtra): `1,3,14`, `2,38,10`, `9,86,42`, `1,13,3`, `1,18,9`, `5,5,2`
-  - These are actually Ṛgveda citations mis-attributed to ṚV. PRĀT.
-- Non-standard: `ed. MÜLLER 1,3`, `XIII, N. 2`, `4,12, Comm.`, `(ed. M.) 1,2`
+**pwg None (3)** — edition-qualified or non-standard formats that cannot be auto-linked:
+- `ed. MÜLLER 1,3` — edition qualifier prefix
+- `XIII, N. 2` — Roman numeral patala with "N."
+- `(ed. M.) 1,2` — edition qualifier in parens
 
-**pwg False (7)** — embedded annotations in ls content:
-- Parenthetical sūtra numbers: `(12)`, `(20. 21)`, `(<is>Sūtra</is> 20)`, etc.
-- Trailing annotations: `46 und Anm.`
-- Parenthetical alternate refs: `16,45 (46)`
-
-**pw None (2)**: `17,30,31` (comma in sūtra range), `Einl. ...` (Einleitung reference)
-
-**pw False (6)**: Parenthetical sūtra numbers like `1,26 (16)`, `1,15 (25)`, etc.
+**pw None (1)**: `Einl. 6` (Einleitung — introduction reference)
 
 ## basicadjust.php
 

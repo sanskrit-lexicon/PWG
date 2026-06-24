@@ -327,7 +327,7 @@ True	2	160471	dantamUlIya	<ls n="ṚV. PRĀT.">5,10</ls>
 True	2	160715	dantya	<ls>ṚV. PRĀT. 5,28</ls>	
 True	2	161883	daSaka	<ls>ṚV. PRĀT. 16,11</ls>	
 True	2	162644	dah	<ls>ṚV. PRĀT. 4,41</ls>	
-None	2	162856	dA	<ls>ṚV. PRĀT. 1,3,14</ls>	
+True	2	162856	dA	<ls>ṚV. PRĀT. 1,3 (14)</ls>	
 True	2	162875	dA	<ls>ṚV. PRĀT. 10,1</ls>	
 True	2	162875	dA	<ls n="ṚV. PRĀT. 10,">8</ls>	
 True	2	164398	dASataya	<ls>ṚV. PRĀT. 17,25</ls>	
@@ -581,8 +581,8 @@ True	2	223212	pArAyaRa	<ls>ṚV. PRĀT. 15,1</ls>
 True	2	223212	pArAyaRa	<ls>ṚV. PRĀT. 11,37</ls>	
 True	2	223212	pArAyaRa	<ls n="ṚV. PRĀT. 15,">16</ls>	
 True	2	223218	pArAyaRika	<ls>ṚV. PRĀT. 15,1</ls>	
-False	2	223612	pAriSezya	<ls>ṚV. PRĀT. 1,3 (12)</ls>	<ls>ṚV. PRĀT. 1,3</ls>
-False	2	223612	pAriSezya	<ls n="ṚV. PRĀT. 1,">4 (20. 21)</ls>	<ls n="ṚV. PRĀT. 1,">4</ls>
+True	2	223612	pAriSezya	<ls>ṚV. PRĀT. 1,3 (12)</ls>	
+True	2	223612	pAriSezya	<ls n="ṚV. PRĀT. 1,">4 (20. 21)</ls>	
 True	2	224213	pArzadIya	<ls>ṚV. PRĀT. 11,32</ls>	
 True	2	224213	pArzadIya	<ls n="ṚV. PRĀT. 11,">63</ls>	
 True	2	225993	pitustoma	<ls>ṚV. PRĀT. 16,34</ls>	
@@ -655,7 +655,7 @@ True	2	240834	pratipAdana	<ls>ṚV. PRĀT. 3,4</ls>
 True	2	241338	pratimA	<ls>ṚV. PRĀT. 17,11</ls>	
 True	2	241633	pratiloma	<ls>ṚV. PRĀT. 2,3</ls>	
 True	2	241896	prativftti	<ls>ṚV. PRĀT. 13,18</ls>	
-False	2	242110	pratizeDa	<ls>ṚV. PRĀT. 10,11 (<is>Sūtra</is> 18)</ls>	<ls>ṚV. PRĀT. 10,11</ls>
+True	2	242110	pratizeDa	<ls>ṚV. PRĀT. 10,11 (<is>Sūtra</is> 18)</ls>	
 True	2	242187	pratizWA	<ls>ṚV. PRĀT. 17,4</ls>	
 True	2	242570	pratihAra	<ls>ṚV. PRĀT. 14,7</ls>	
 True	2	243002	pratna	<ls>ṚV. PRĀT. 17,4</ls>	
@@ -663,9 +663,11 @@ True	2	243398	pratyaya	<ls>ṚV. PRĀT. 1,20</ls>
 True	2	243398	pratyaya	<ls n="ṚV. PRĀT.">2,28</ls>	
 True	2	243398	pratyaya	<ls n="ṚV. PRĀT.">4,16</ls>	
 True	2	243698	pratyAdAna	<ls>ṚV. PRĀT. 10,5</ls>	
-False	2	243698	pratyAdAna	<ls n="ṚV. PRĀT.">11,10 (<is>Sūtra</is> 18). 13. 14 (<is>Sūtra</is> 25)</ls>	<ls n="ṚV. PRĀT.">11,10</ls>
+True	2	243698	pratyAdAna	<ls n="ṚV. PRĀT.">11,10 (<is>Sūtra</is> 18)</ls>	
+True	2	243698	pratyAdAna	<ls n="ṚV. PRĀT. 11,">13</ls>	
+True	2	243698	pratyAdAna	<ls n="ṚV. PRĀT. 11,">14 (<is>Sūtra</is> 25)</ls>	
 True	2	243769	pratyAmnAya	<ls>ṚV. PRĀT. 1,15</ls>	
-False	2	244141	pratyetavya	<ls>ṚV. PRĀT. 3,4 (<is>Sūtra</is> 6). 8 (<is>Sūtra</is>14)</ls>	<ls>ṚV. PRĀT. 3,4</ls>
+True	2	244141	pratyetavya	<ls>ṚV. PRĀT. 3,4 (<is>Sūtra</is> 6)</ls>	
 True	2	244200	praTana	<ls>ṚV. PRĀT. 14,7</ls>	
 True	2	244214	praTama	<ls>ṚV. PRĀT. 1,3</ls>	
 True	2	244214	praTama	<ls n="ṚV. PRĀT.">6,15</ls>	
@@ -1257,7 +1259,7 @@ True	2	446992	viparyaya	<ls n="ṚV. PRĀT.">14,25</ls>
 True	2	446992	viparyaya	<ls n="ṚV. PRĀT. 14,">27</ls>	
 True	2	446992	viparyaya	<ls n="ṚV. PRĀT.">2,3</ls>	
 True	2	446992	viparyaya	<ls n="ṚV. PRĀT.">16,38</ls>	
-False	2	447480	vipratipatti	<ls>ṚV. PRĀT. 3,12 (<is>Sūtra</is> 20)</ls>	<ls>ṚV. PRĀT. 3,12</ls>
+True	2	447480	vipratipatti	<ls>ṚV. PRĀT. 3,12 (<is>Sūtra</is> 20)</ls>	
 True	2	447484	vipratipanna	<ls>ṚV. PRĀT. 17,13</ls>	
 True	2	448135	viBAga	<ls>ṚV. PRĀT. 17,15</ls>	
 True	2	449915	virAga	<ls>ṚV. PRĀT. 14,5</ls>	
@@ -1555,7 +1557,7 @@ True	2	514793	saMpad	<ls n="ṚV. PRĀT.">17,14</ls>
 True	2	514793	saMpad	<ls n="ṚV. PRĀT.">16,4</ls>	
 True	2	514793	saMpad	<ls n="ṚV. PRĀT. 16,">8</ls>	
 True	2	514793	saMpad	<ls n="ṚV. PRĀT.">1,15</ls>	
-False	2	514793	saMpad	<ls n="ṚV. PRĀT.">16,45 (46)</ls>	<ls n="ṚV. PRĀT.">16,45</ls>
+True	2	514793	saMpad	<ls n="ṚV. PRĀT.">16,45 (46)</ls>	
 True	2	514928	saMpAta	<ls>ṚV. PRĀT. 16,51</ls>	
 True	2	515655	saMbanDin	<ls>ṚV. PRĀT. 5,19</ls>	
 True	2	515793	saMBava	<ls>ṚV. PRĀT. 11,17</ls>	
