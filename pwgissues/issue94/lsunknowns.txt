@@ -1,16 +1,3254 @@
-<L>1169<pc>1-0086<k1>aRqa      : <ls>Abh. d. Königl. Ak. d. W. zu Berlin,1845. S. 219. fg.</ls>
-<L>24551<pc>2-0928<k1>caturasra : <ls n="VIKR">64,6.</ls>
-<L>27932<pc>3-0156<k1>jyAyaMs  : <ls>in Z. f. vgl. Spr. 1,442.</ls>
+<L>3<pc>1-0001<k1>a            : <ls>ebend. 72</ls>
+<L>49<pc>1-0006<k1>aMhati      : <ls>Zeitschrift für vergl. Sprachf. II, Heft 4</ls>
+<L>120<pc>1-0010<k1>akutrA     : <ls n="Padapāṭha">padap.</ls>
+<L>165<pc>1-0013<k1>akz        : <ls>Med.</ls>
+<L>200<pc>1-0017<k1>akzayamati : <ls>Mém. de lʼAcad. Imp. dés sc. de St.-Pétersb. VI série. I, 243</ls>
+<L>203<pc>1-0017<k1>akzara     : <ls>ebend. 7</ls>
+<L>234<pc>1-0019<k1>akzAralavaRa : <ls n="Kullūka">Kull.</ls>
+<L>234<pc>1-0019<k1>akzAralavaRa : <ls n="Kullūka">Kull.</ls>
+<L>234<pc>1-0019<k1>akzAralavaRa : <ls n="Kullūka">Kull.</ls>
+<L>294<pc>1-0023<k1>aKeditva   : <ls>ARHANT</ls>
+<L>294<pc>1-0023<k1>aKeditva   : <ls>JAINA</ls>
+<L>349<pc>1-0028<k1>agni       : <ls>ebend.</ls>
+<L>349<pc>1-0028<k1>agni       : <ls>ebend.</ls>
+<L>363<pc>1-0030<k1>agnigarBa  : <ls>ebend.</ls>
+<L>363<pc>1-0030<k1>agnigarBa  : <ls>ebend.</ls>
+<L>434<pc>1-0033<k1>agnimuKa   : <ls>ebend.</ls>
+<L>434<pc>1-0033<k1>agnimuKa   : <ls>ebend.</ls>
+<L>450<pc>1-0034<k1>agnivallaBa : <ls>ebend.</ls>
+<L>466<pc>1-0034<k1>agniSiKa   : <ls>ebend.</ls>
+<L>466<pc>1-0034<k1>agniSiKa   : <ls>ebend.</ls>
+<L>466<pc>1-0034<k1>agniSiKa   : <ls>ebend.</ls>
+<L>520<pc>1-0038<k1>agra       : <ls>ebend.</ls>
+<L>520<pc>1-0038<k1>agra       : <ls>ebend.</ls>
+<L>606<pc>1-0045<k1>aGAy       : <ls n="Padapāṭha">padap.</ls>
+<L>690<pc>1-0052<k1>aNgay      : <ls>ebend.</ls>
+<L>733<pc>1-0054<k1>aNgArita   : <ls>ebend.</ls>
+<L>740<pc>1-0055<k1>aNgiras    : <ls>ebend. II, 247</ls>
+<L>791<pc>1-0059<k1>ac         : <ls>ebend.</ls>
+<L>836<pc>1-0062<k1>acCa       : <ls n="Padapāṭha">padap.</ls>
+<L>836<pc>1-0062<k1>acCa       : <ls n="Padapāṭha">padap.</ls>
+<L>872<pc>1-0066<k1>aja        : <ls>Erläut. 165. fg.</ls>
+<L>955<pc>1-0071<k1>ajAtaSatru : <ls>ebend. N. 12</ls>
+<L>1156<pc>1-0085<k1>aRutEla   : <ls>ebend. 42,17</ls>
+<L>1156<pc>1-0085<k1>aRutEla   : <ls n="ebend.">60,15</ls>
+<L>1156<pc>1-0085<k1>aRutEla   : <ls n="ebend.">158,13</ls>
+<L>1216<pc>1-0091<k1>atikaTa   : <ls>ebend.</ls>
+<L>1240<pc>1-0092<k1>atigaRqa  : <ls>ebend.</ls>
+<L>1262<pc>1-0094<k1>atijagatI : <ls>ebend. 58</ls>
+<L>1307<pc>1-0096<k1>atiDfti   : <ls>ebend. 58</ls>
+<L>1450<pc>1-0104<k1>atiSakvarI : <ls>ebend.</ls>
+<L>1579<pc>1-0111<k1>atyazwi   : <ls>ebend. 58</ls>
+<L>1615<pc>1-0113<k1>atri      : <ls>ebend. N.</ls>
+<L>1615<pc>1-0113<k1>atri      : <ls>ebend. 99</ls>
+<L>1927<pc>1-0146<k1>aDikarmakft : <ls>ebend. 16</ls>
+<L>1936<pc>1-0146<k1>aDikAra   : <ls>ebend. I, 19,7</ls>
+<L>1937<pc>1-0147<k1>aDikArin  : <ls>ebend.</ls>
+<L>2050<pc>1-0154<k1>aDIvAsa   : <ls n="Padapāṭha">padap.</ls>
+<L>2092<pc>1-0157<k1>aDyagni   : <ls>ebend. 118,1</ls>
+<L>2163<pc>1-0161<k1>aDrigu    : <ls>Erl. 62</ls>
+<L>2199<pc>1-0164<k1>an        : <ls>ebend.</ls>
+<L>2520<pc>1-0184<k1>anAnukftya : <ls n="Padapāṭha">padap.</ls>
+<L>2521<pc>1-0184<k1>anAnuda   : <ls n="Padapāṭha">padap.</ls>
+<L>2738<pc>1-0200<k1>anukroSa  : <ls>ebend.</ls>
+<L>2769<pc>1-0203<k1>anuja     : <ls>ebend.</ls>
+<L>3012<pc>1-0220<k1>anuvAda   : <ls>Vorrede zum AIT. BR.</ls>
+<L>3043<pc>1-0222<k1>anuvrata  : <ls>ebend.</ls>
+<L>3216<pc>1-0233<k1>anta      : <ls>ebend. 20</ls>
+<L>3302<pc>1-0247<k1>antarIkza : <ls>ebend. 273</ls>
+<L>3504<pc>1-0260<k1>annaprASana : <ls>Pariśiṣṭa zum SV.</ls>
+<L>3569<pc>1-0268<k1>anyadevata : <ls>Halleʼsche Allg. Lit. Zeit. 1849</ls>
+<L>3569<pc>1-0268<k1>anyadevata : <ls n="Halleʼsche Allg. Lit. Zeit.">II, 631</ls>
+<L>3569<pc>1-0268<k1>anyadevata : <ls n="Halleʼsche Allg. Lit. Zeit.">632</ls>
+<L>3608<pc>1-0270<k1>anyonya   : <ls>ebend.</ls>
+<L>3669<pc>1-0275<k1>ap        : <ls n="Padapāṭha">padap.</ls>
+<L>3879<pc>1-0289<k1>aparArka  : <ls>YĀJÑAVALKYAʼs Gesetzbuch</ls>
+<L>4153<pc>1-0309<k1>apuMs     : <ls>ebend. 58</ls>
+<L>4334<pc>1-0319<k1>aprAyu    : <ls n="Padapāṭha">padap.</ls>
+<L>4554<pc>1-0336<k1>aBiDAnaratnamAlA : <ls>HALĀYUDHA</ls>
+<L>4727<pc>1-0347<k1>aBivyaYjaka : <ls>ebend. 3</ls>
+<L>5062<pc>1-0369<k1>amanyuta  : <ls n="Padapāṭha">padap.</ls>
+<L>5200<pc>1-0378<k1>amfta     : <ls>ebend. S. 927, Z. 4, v. u.</ls>
+<L>5250<pc>1-0382<k1>amftotpanna : <ls>ebend.</ls>
+<L>5291<pc>1-0385<k1>ambazWa   : <ls>SETUS. ebend. No. 535</ls>
+<L>5385<pc>1-0390<k1>amlapatra : <ls>ebend.</ls>
+<L>5402<pc>1-0391<k1>amlaSAka  : <ls>ebend.</ls>
+<L>5535<pc>1-0399<k1>ar        : <ls>ebend.</ls>
+<L>5536<pc>1-0403<k1>ara       : <ls>ebend.</ls>
+<L>5537<pc>1-0403<k1>ara       : <ls>ebend.</ls>
+<L>5770<pc>1-0419<k1>arka      : <ls>ebend.</ls>
+<L>5852<pc>1-0429<k1>arjuna    : <ls>ebend. 1</ls>
+<L>5861<pc>1-0430<k1>arRa      : <ls>ebend.</ls>
+<L>5866<pc>1-0431<k1>arRas     : <ls n="Padapāṭha">padap.</ls>
+<L>6004<pc>1-0445<k1>arDendu   : <ls>ebend.</ls>
+<L>6004<pc>1-0445<k1>arDendu   : <ls>ebend.</ls>
+<L>6006<pc>1-0445<k1>arDodaya  : <ls>ebend.</ls>
+<L>6041<pc>1-0449<k1>arvan     : <ls>ebend.</ls>
+<L>6055<pc>1-0450<k1>arvAcIna  : <ls>ebend.</ls>
+<L>6080<pc>1-0455<k1>arhanta   : <ls>ebend.</ls>
+<L>6080<pc>1-0455<k1>arhanta   : <ls>ebend.</ls>
+<L>6082<pc>1-0455<k1>arharizvaRi : <ls n="Padapāṭha">padap.</ls>
+<L>6149<pc>1-0460<k1>alAta     : <ls>GAUDAPĀDA</ls>
+<L>6160<pc>1-0461<k1>ali       : <ls>ebend.</ls>
+<L>6283<pc>1-0470<k1>avagalBa  : <ls>ebend.</ls>
+<L>6296<pc>1-0471<k1>avagrahaRa : <ls>ebend.</ls>
+<L>6353<pc>1-0474<k1>avatAra   : <ls>Vorrede zum VP. XLIII</ls>
+<L>6353<pc>1-0474<k1>avatAra   : <ls>ebend.</ls>
+<L>6355<pc>1-0475<k1>avatAraRa : <ls>ebend.</ls>
+<L>6355<pc>1-0475<k1>avatAraRa : <ls>ebend.</ls>
+<L>6509<pc>1-0485<k1>avaraspara : <ls n="Padapāṭha">padap.</ls>
+<L>6570<pc>1-0488<k1>avalokiteSvara : <ls>ebend.</ls>
+<L>6639<pc>1-0493<k1>avastAt   : <ls>ebend.</ls>
+<L>6771<pc>1-0500<k1>avipriya  : <ls>ebend.</ls>
+<L>6775<pc>1-0501<k1>avimukta  : <ls>ebend.</ls>
+<L>6784<pc>1-0501<k1>aviroDa   : <ls>ebend. 1,467</ls>
+<L>6784<pc>1-0501<k1>aviroDa   : <ls>ebend.</ls>
+<L>6838<pc>1-0504<k1>avela     : <ls>ebend.</ls>
+<L>6853<pc>1-0505<k1>avyaTa    : <ls>ebend.</ls>
+<L>6879<pc>1-0508<k1>aS        : <ls>ebend.</ls>
+<L>7000<pc>1-0518<k1>aSra      : <ls>ebend.</ls>
+<L>7029<pc>1-0519<k1>aSlIla    : <ls>ebend.</ls>
+<L>7035<pc>1-0520<k1>aSva      : <ls>Pariśiṣṭa zum AV.</ls>
+<L>7161<pc>1-0527<k1>aSvasTAna : <ls>ebend.</ls>
+<L>7180<pc>1-0528<k1>aSvin     : <ls>ebend.</ls>
+<L>7211<pc>1-0530<k1>azwan     : <ls>ebend.</ls>
+<L>7211<pc>1-0530<k1>azwan     : <ls>ebend.</ls>
+<L>7221<pc>1-0532<k1>azwamikA  : <ls>ebend.</ls>
+<L>7632<pc>1-0572<k1>aham      : <ls>ebend. 3</ls>
+<L>7945<pc>1-0596<k1>Agama     : <ls>ebend. 1,469</ls>
+<L>7998<pc>1-0601<k1>AgrahayaRa : <ls>ebend. 10</ls>
+<L>8017<pc>1-0602<k1>AGozaRA   : <ls>ebend. 7</ls>
+<L>8024<pc>1-0603<k1>ANga      : <ls n="P 4,1,">178</ls>
+<L>8032<pc>1-0603<k1>ANgirasa  : <ls>ebend.</ls>
+<L>8057<pc>1-0605<k1>AcAra     : <ls>YĀJÑAVALKYAʼs Gesetzbuch</ls>
+<L>8080<pc>1-0607<k1>Acitika   : <ls>ebend. 54</ls>
+<L>8081<pc>1-0607<k1>AcitIna   : <ls>ebend.</ls>
+<L>8096<pc>1-0608<k1>Acyutadanti : <ls>ebend.</ls>
+<L>8097<pc>1-0608<k1>Acyutanti : <ls>ebend.</ls>
+<L>8218<pc>1-0615<k1>ARqIvata  : <ls>ebend.</ls>
+<L>8423<pc>1-0633<k1>AdityapurARa : <ls>ebend.</ls>
+<L>8469<pc>1-0635<k1>Aduri     : <ls>Erll. zu NIR. p. 96</ls>
+<L>8551<pc>1-0641<k1>AnakasTalI : <ls>ebend.</ls>
+<L>8577<pc>1-0642<k1>AnandaBErava : <ls>ebend. No. 647</ls>
+<L>8599<pc>1-0643<k1>Anarta    : <ls>ebend. No. 849</ls>
+<L>8649<pc>1-0646<k1>Anurohati : <ls>ebend.</ls>
+<L>8678<pc>1-0647<k1>AnfSaMsi  : <ls>ebend.</ls>
+<L>8695<pc>1-0648<k1>AntyAyana : <ls>ebend.</ls>
+<L>8727<pc>1-0657<k1>Apatika   : <ls>ebend.</ls>
+<L>8737<pc>1-0658<k1>Apanika   : <ls>ebend.</ls>
+<L>8769<pc>1-0660<k1>ApiSala   : <ls>ebend.</ls>
+<L>8838<pc>1-0663<k1>Abayu     : <ls n="Padapāṭha">padap.</ls>
+<L>9013<pc>1-0675<k1>Ayatanavant : <ls>ebend.</ls>
+<L>9145<pc>1-0686<k1>ArAjYI    : <ls>ebend.</ls>
+<L>9243<pc>1-0691<k1>Arcika    : <ls>Einl. zum SV. XVI.</ls>
+<L>9348<pc>1-0700<k1>Al        : <ls n="Padapāṭha">padap.</ls>
+<L>9460<pc>1-0709<k1>AvasaTa   : <ls>ebend.</ls>
+<L>9500<pc>1-0711<k1>Avis      : <ls>ebend.</ls>
+<L>9509<pc>1-0713<k1>Avftti    : <ls>ebend. 19,13</ls>
+<L>9546<pc>1-0715<k1>ASaya     : <ls>ebend. 132</ls>
+<L>9648<pc>1-0723<k1>ASraya    : <ls>ebend.</ls>
+<L>9670<pc>1-0726<k1>ASva      : <ls n="P 4,">4,3,123</ls>
+<L>9721<pc>1-0729<k1>As        : <ls>ebend.</ls>
+<L>9740<pc>1-0736<k1>Asana     : <ls>ebend.</ls>
+<L>9819<pc>1-0743<k1>AsTApana  : <ls>Med.</ls>
+<L>9889<pc>1-0749<k1>AhiMsi    : <ls>ebend.</ls>
+<L>9892<pc>1-0749<k1>AhicCatra : <ls>ebend.</ls>
+<L>9917<pc>1-0751<k1>Ahnika    : <ls>ebend. No. 1029</ls>
+<L>9917<pc>1-0751<k1>Ahnika    : <ls>PATAÑJALI</ls>
+<L>9925<pc>1-0751<k1>Ahvaya    : <ls>ebend.</ls>
+<L>9940<pc>1-0753<k1>i         : <ls n="Padapāṭha">padap.</ls>
+<L>9940<pc>1-0753<k1>i         : <ls>ebend.</ls>
+<L>9952<pc>1-0777<k1>ikzudA    : <ls>ebend.</ls>
+<L>10024<pc>1-0786<k1>itarA    : <ls>Einl. zum AIT. BR.</ls>
+<L>10073<pc>1-0794<k1>idam     : <ls n="Padapāṭha">padap.</ls>
+<L>10073<pc>1-0794<k1>idam     : <ls>ebend.</ls>
+<L>10088<pc>1-0797<k1>iD       : <ls>ebend.</ls>
+<L>10134<pc>1-0802<k1>indra    : <ls>Einl. z. ṚV. p. 35</ls>
+<L>10134<pc>1-0802<k1>indra    : <ls>Index.</ls>
+<L>10167<pc>1-0805<k1>indratvota : <ls n="Padapāṭha">padap.</ls>
+<L>10308<pc>1-0814<k1>iyant    : <ls n="Padapāṭha">padap.</ls>
+<L>10328<pc>1-0816<k1>irikA    : <ls>ebend.</ls>
+<L>10337<pc>1-0816<k1>irgala   : <ls>ebend.</ls>
+<L>10367<pc>1-0818<k1>iva      : <ls>W. D. WHITNEY</ls>
+<L>10367<pc>1-0818<k1>iva      : <ls n="Padapāṭha">padap.</ls>
+<L>10386<pc>1-0827<k1>izastut  : <ls n="Padapāṭha">padap.</ls>
+<L>10503<pc>1-0846<k1>Ir       : <ls n="Padapāṭha">padap.</ls>
+<L>10510<pc>1-0850<k1>Irma     : <ls n="Padapāṭha">padap.</ls>
+<L>10559<pc>1-0855<k1>Iz       : <ls>ebend.</ls>
+<L>10605<pc>1-0864<k1>ukz      : <ls>ebend.</ls>
+<L>10654<pc>1-0869<k1>uc       : <ls>ebend.</ls>
+<L>10700<pc>1-0874<k1>ucCilIMDra : <ls>ebend.</ls>
+<L>10894<pc>1-0890<k1>uttaragranTa : <ls>Nachtrags zum YONIGRANTHA</ls>
+<L>11742<pc>1-0948<k1>upacitra : <ls>ebend. 160 (VI, 16)</ls>
+<L>11742<pc>1-0948<k1>upacitra : <ls>ebend. 164 (VI, 1)</ls>
+<L>11754<pc>1-0949<k1>upajAti  : <ls>ebend.</ls>
+<L>11866<pc>1-0957<k1>upanizad : <ls>ebend. 469</ls>
+<L>11897<pc>1-0959<k1>upapurARa : <ls>ebend. 468. fg.</ls>
+<L>12105<pc>1-0974<k1>upaSamanIya : <ls>ebend.</ls>
+<L>12247<pc>1-0984<k1>upAMSu   : <ls>ebend. 4,5,12</ls>
+<L>12247<pc>1-0984<k1>upAMSu   : <ls n="ebend.">6,3,27</ls>
+<L>12247<pc>1-0984<k1>upAMSu   : <ls n="ebend.">9,2,8</ls>
+<L>12247<pc>1-0984<k1>upAMSu   : <ls n="ebend.">3,9,4,6</ls>
+<L>12247<pc>1-0984<k1>upAMSu   : <ls n="ebend.">4,6,7,16</ls>
+<L>12317<pc>1-0990<k1>upAsaka  : <ls>ebend. 279. fgg.</ls>
+<L>12342<pc>1-0992<k1>upendradatta : <ls>ebend.</ls>
+<L>12360<pc>1-0992<k1>upozaDa  : <ls>ebend. 227, N. 1</ls>
+<L>12388<pc>1-0995<k1>uBayAhasti : <ls n="Padapāṭha">padap.</ls>
+<L>12389<pc>1-0995<k1>uBayAhastya : <ls n="Padapāṭha">padap.</ls>
+<L>12425<pc>1-0998<k1>urala    : <ls>ebend.</ls>
+<L>12468<pc>1-1001<k1>uruRqa   : <ls>Pravarādhy.</ls>
+<L>12517<pc>1-1003<k1>urvarI   : <ls>ebend.</ls>
+<L>12519<pc>1-1003<k1>urvaSI   : <ls>Erll. zum NIRUKTA p. 153</ls>
+<L>12950<pc>1-1042<k1>fjIti    : <ls n="Padapāṭha">padap.</ls>
+<L>12965<pc>1-1043<k1>fjumitAkzarA : <ls>YĀJÑAVALKYAʼs Gesetzbuch</ls>
+<L>12986<pc>1-1044<k1>fRa      : <ls>ebend.</ls>
+<L>13022<pc>1-1050<k1>ftapravIta : <ls n="Padapāṭha">padap.</ls>
+<L>13109<pc>1-1058<k1>fBu      : <ls>F. NEVEʼs Essay sur le mythe des Ribhavas. Paris 1847</ls>
+<L>13134<pc>1-1062<k1>fzi      : <ls>Text.</ls>
+<L>13134<pc>1-1062<k1>fzi      : <ls>ebend.</ls>
+<L>13379<pc>1-1082<k1>ekaSAKa  : <ls>ebend.</ls>
+<L>13386<pc>1-1082<k1>ekaSepa  : <ls>Pravarādhy.</ls>
+<L>13493<pc>1-1091<k1>eta      : <ls n="Padapāṭha">padap.</ls>
+<L>13495<pc>1-1091<k1>etad     : <ls>ebend. 24</ls>
+<L>13495<pc>1-1091<k1>etad     : <ls>ebend.</ls>
+<L>13496<pc>1-1092<k1>etad     : <ls>ebend.</ls>
+<L>13502<pc>1-1093<k1>etar     : <ls n="Padapāṭha">padap.</ls>
+<L>13510<pc>1-1095<k1>eti      : <ls n="Padapāṭha">padap.</ls>
+<L>13510<pc>1-1095<k1>eti      : <ls n="Padapāṭha">padap.</ls>
+<L>13555<pc>1-1099<k1>eva      : <ls>ebend.</ls>
+<L>13581<pc>1-1103<k1>ez       : <ls n="Padapāṭha">padap.</ls>
+<L>13581<pc>1-1103<k1>ez       : <ls>ebend. 18,b</ls>
+<L>13585<pc>1-1104<k1>ezaRa    : <ls>ebend.</ls>
+<L>13659<pc>1-1110<k1>Etareya  : <ls>Einl. zum AIT. BR.</ls>
+<L>13744<pc>1-1115<k1>EzukAri  : <ls>ebend.</ls>
+<L>13772<pc>1-1119<k1>ojas     : <ls>Med.</ls>
+<L>13781<pc>1-1120<k1>ojobalA  : <ls>Ebend. 268</ls>
+<L>13807<pc>1-1122<k1>oma      : <ls n="Padapāṭha">padap.</ls>
+<L>13885<pc>1-1128<k1>Oqavi    : <ls>ebend.</ls>
+<L>13886<pc>1-1128<k1>OqAyana  : <ls>ebend.</ls>
+<L>13925<pc>1-1130<k1>Odaki    : <ls>ebend.</ls>
+<L>13927<pc>1-1130<k1>OdaNki   : <ls>ebend.</ls>
+<L>13945<pc>1-1131<k1>OdavApi  : <ls>ebend.</ls>
+<L>14109<pc>1-1139<k1>Olapi    : <ls>ebend.</ls>
+<L>14121<pc>1-1140<k1>OSija    : <ls>Erll. zu NIR. 6,10</ls>
+<L>14141<pc>1-1142<k1>OzwrAyaRa : <ls>ebend.</ls>
+<L>14307<pc>2-0018<k1>kajjala  : <ls>Index.</ls>
+<L>14383<pc>2-0024<k1>kawu     : <ls>ebend.</ls>
+<L>14434<pc>2-0027<k1>kaWa     : <ls>ebend. 1,69</ls>
+<L>14438<pc>2-0028<k1>kaWaSAWa : <ls>ebend.</ls>
+<L>14601<pc>2-0040<k1>kati     : <ls>JAYARĀMA</ls>
+<L>14733<pc>2-0053<k1>kanizka  : <ls>ebend.</ls>
+<L>14809<pc>2-0059<k1>kanyA    : <ls>ebend.</ls>
+<L>14943<pc>2-0068<k1>kapotapAka : <ls>ebend.</ls>
+<L>14988<pc>2-0071<k1>kam      : <ls n="Padapāṭha">padap.</ls>
+<L>15025<pc>2-0077<k1>kampa    : <ls>Einl. zum NIR. S. LXVII. fg.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls n="Padapāṭha">padap.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls>ebend.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls>ebend.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls n="Padapāṭha">padap.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls>ebend.</ls>
+<L>15071<pc>2-0080<k1>kar      : <ls>ebend.</ls>
+<L>15149<pc>2-0111<k1>karaBavallaBa : <ls>ebend.</ls>
+<L>15221<pc>2-0115<k1>karizyA  : <ls n="Padapāṭha">padap.</ls>
+<L>15237<pc>2-0116<k1>karuRa   : <ls>Calc. Ausg. 12943</ls>
+<L>15349<pc>2-0124<k1>karRapur : <ls>ebend.</ls>
+<L>15466<pc>2-0133<k1>karpara  : <ls>YĀJÑIKAD.</ls>
+<L>15530<pc>2-0138<k1>karmapradIpa : <ls>ebend. No. 266</ls>
+<L>15553<pc>2-0140<k1>karmavipAka : <ls>Asiatischen Museum der Kais. Akad. d. Wiss. in St. Petersburg.</ls>
+<L>15590<pc>2-0142<k1>karz     : <ls>ebend. 198,2</ls>
+<L>15603<pc>2-0150<k1>kal      : <ls>ebend.</ls>
+<L>15642<pc>2-0154<k1>kalaBa   : <ls>ebend. 5</ls>
+<L>15714<pc>2-0161<k1>kali     : <ls>ebend.</ls>
+<L>15716<pc>2-0162<k1>kalikA   : <ls>ebend. 161 (IX, 3)</ls>
+<L>15716<pc>2-0162<k1>kalikA   : <ls>ebend. 165 (VII, 3)</ls>
+<L>15749<pc>2-0166<k1>kalp     : <ls>ebend.</ls>
+<L>15770<pc>2-0176<k1>kalpasUtra : <ls>ebend. No. 944</ls>
+<L>15770<pc>2-0176<k1>kalpasUtra : <ls>Māgadhī übersetzt worden, London 1848</ls>
+<L>15795<pc>2-0178<k1>kalyARa  : <ls>ebend.</ls>
+<L>15871<pc>2-0184<k1>kavirAja : <ls>ebend. No. 1379. fg.</ls>
+<L>15894<pc>2-0186<k1>kaSika   : <ls>ebend.</ls>
+<L>15912<pc>2-0187<k1>kaSyapa  : <ls>Ebend.</ls>
+<L>15922<pc>2-0188<k1>kazAya   : <ls>Med.</ls>
+<L>16009<pc>2-0195<k1>kAkadantaki : <ls>ebend.</ls>
+<L>16017<pc>2-0196<k1>kAkandi  : <ls>ebend.</ls>
+<L>16186<pc>2-0205<k1>kAWeraRi : <ls>ebend.</ls>
+<L>16191<pc>2-0206<k1>kARuka   : <ls>Erll. zu NIR. S. 60</ls>
+<L>16209<pc>2-0208<k1>kARqaDAra : <ls>ebend.</ls>
+<L>16235<pc>2-0209<k1>kARva    : <ls>ebend. 101. fgg.</ls>
+<L>16243<pc>2-0209<k1>kAtantra : <ls>Ebend. 45</ls>
+<L>16265<pc>2-0211<k1>kAdambara : <ls>ebend. 583. fgg.</ls>
+<L>16313<pc>2-0214<k1>kAnda    : <ls>ebend.</ls>
+<L>16322<pc>2-0215<k1>kApawava : <ls>ebend.</ls>
+<L>16329<pc>2-0215<k1>kApAlika : <ls>deutsche Uebers. S. 172. fg.</ls>
+<L>16333<pc>2-0216<k1>kApiYjalAdi : <ls>ebend.</ls>
+<L>16345<pc>2-0216<k1>kApizWali : <ls>ebend.</ls>
+<L>16412<pc>2-0222<k1>kAmaDenu : <ls>Vorr. zum DHĀTUP. v.</ls>
+<L>16415<pc>2-0222<k1>kAmandaki : <ls>Vol. IV der Bibl. ind.</ls>
+<L>16474<pc>2-0226<k1>kAmAKyA  : <ls>ebend.</ls>
+<L>16492<pc>2-0227<k1>kAmika   : <ls>ebend.</ls>
+<L>16529<pc>2-0231<k1>kAyaka   : <ls>ebend.</ls>
+<L>16547<pc>2-0233<k1>kAraja   : <ls>ebend.</ls>
+<L>16569<pc>2-0236<k1>kAram    : <ls>ebend.</ls>
+<L>16614<pc>2-0239<k1>kAruRqI  : <ls>ebend.</ls>
+<L>16630<pc>2-0240<k1>kArkaza  : <ls>ebend.</ls>
+<L>16649<pc>2-0240<k1>kArti    : <ls>ebend.</ls>
+<L>16712<pc>2-0245<k1>kArzApaRa : <ls>ebend.</ls>
+<L>16796<pc>2-0254<k1>kAlanirRaya : <ls>ebend. No. 1168</ls>
+<L>16796<pc>2-0254<k1>kAlanirRaya : <ls>ebend. No. 1403</ls>
+<L>16963<pc>2-0265<k1>kAvazeya : <ls>ebend.</ls>
+<L>16996<pc>2-0270<k1>kASaparI : <ls>ebend.</ls>
+<L>16998<pc>2-0270<k1>kASaParI : <ls>ebend.</ls>
+<L>17023<pc>2-0271<k1>kASInATa : <ls>ebend. No. 884</ls>
+<L>17023<pc>2-0271<k1>kASInATa : <ls n="ebend. No.">886</ls>
+<L>17026<pc>2-0272<k1>kASIvilAsa : <ls>ebend. No. 826</ls>
+<L>17028<pc>2-0272<k1>kASISvara : <ls>ebend. 47</ls>
+<L>17153<pc>2-0280<k1>kiMsa    : <ls>ebend.</ls>
+<L>17227<pc>2-0284<k1>kinduvilva : <ls>Prolegg. I. fg.</ls>
+<L>17236<pc>2-0285<k1>kim      : <ls>ebend.</ls>
+<L>17299<pc>2-0293<k1>kilAsa   : <ls>Med.</ls>
+<L>17314<pc>2-0294<k1>kiSarA   : <ls>ebend.</ls>
+<L>17328<pc>2-0295<k1>kisara   : <ls>ebend.</ls>
+<L>17424<pc>2-0304<k1>kukurajihvA : <ls>BUCHANANʼs Hdschrr.</ls>
+<L>17450<pc>2-0306<k1>kukkura  : <ls>ebend. N. 120</ls>
+<L>17475<pc>2-0309<k1>kucika   : <ls>BUCHANANʼs Handschrr.</ls>
+<L>17609<pc>2-0318<k1>kuRaYjara : <ls>ebend.</ls>
+<L>17610<pc>2-0318<k1>kuRapa   : <ls>ebend.</ls>
+<L>17626<pc>2-0319<k1>kuRqa    : <ls>ebend. No. 365</ls>
+<L>17800<pc>2-0334<k1>kubera   : <ls>ebend.</ls>
+<L>17828<pc>2-0336<k1>kumAra   : <ls>ebend.</ls>
+<L>17828<pc>2-0336<k1>kumAra   : <ls>ebend.</ls>
+<L>17891<pc>2-0342<k1>kumBaka  : <ls>ebend. 50</ls>
+<L>17958<pc>2-0346<k1>kuraRwaka : <ls>ebend. 222,12</ls>
+<L>17958<pc>2-0346<k1>kuraRwaka : <ls n="ebend. 222,">15</ls>
+<L>17980<pc>2-0348<k1>kurukzetra : <ls>ebend. 2,73</ls>
+<L>17992<pc>2-0349<k1>kuruta   : <ls>ebend.</ls>
+<L>18029<pc>2-0351<k1>kula     : <ls>ebend. Pr. 6</ls>
+<L>18056<pc>2-0353<k1>kuladevatA : <ls>St.</ls>
+<L>18142<pc>2-0358<k1>kulija   : <ls>ebend.</ls>
+<L>18207<pc>2-0362<k1>kuvalayASva : <ls>ebend. 9,6,21</ls>
+<L>18266<pc>2-0368<k1>kuSADya  : <ls>ebend.</ls>
+<L>18271<pc>2-0368<k1>kuSAvarta : <ls>ebend. 5,4,10</ls>
+<L>18333<pc>2-0372<k1>kusida   : <ls>ebend.</ls>
+<L>18427<pc>2-0379<k1>kUwa     : <ls>ebend.</ls>
+<L>18517<pc>2-0385<k1>kUrma    : <ls>ebend. 171</ls>
+<L>18517<pc>2-0385<k1>kUrma    : <ls>ebend. 240</ls>
+<L>18813<pc>2-0410<k1>kfSASva  : <ls>ebend.</ls>
+<L>18835<pc>2-0412<k1>kfzRa    : <ls>ebend. 127</ls>
+<L>18835<pc>2-0412<k1>kfzRa    : <ls n="ebend.">166</ls>
+<L>18835<pc>2-0412<k1>kfzRa    : <ls>ebend. No. 739</ls>
+<L>18884<pc>2-0417<k1>kfzRapaRqita : <ls>ebend. 14</ls>
+<L>18884<pc>2-0417<k1>kfzRapaRqita : <ls n="ebend.">41</ls>
+<L>19016<pc>2-0424<k1>ketu     : <ls>ebend.</ls>
+<L>19090<pc>2-0429<k1>kevala   : <ls n="Padapāṭha">padap.</ls>
+<L>19090<pc>2-0429<k1>kevala   : <ls n="Padapāṭha">padap.</ls>
+<L>19099<pc>2-0431<k1>kevikA   : <ls>ebend.</ls>
+<L>19177<pc>2-0436<k1>kEkaya   : <ls>ebend.</ls>
+<L>19199<pc>2-0437<k1>kEyawa   : <ls>ebend. 38</ls>
+<L>19199<pc>2-0437<k1>kEyawa   : <ls n="ebend.">40</ls>
+<L>19205<pc>2-0438<k1>kErAta   : <ls>Buch 3, Kap. 38. fgg.</ls>
+<L>19215<pc>2-0438<k1>kElAsa   : <ls>Calc.</ls>
+<L>19226<pc>2-0439<k1>kESika   : <ls>ebend.</ls>
+<L>19280<pc>2-0443<k1>kowi     : <ls>YĀJÑA. 3,103</ls>
+<L>19280<pc>2-0443<k1>kowi     : <ls>ebend. 136 (138)</ls>
+<L>19393<pc>2-0453<k1>koSayI   : <ls>ebend. 23</ls>
+<L>19437<pc>2-0456<k1>kOkuvAdi : <ls>ebend. 5</ls>
+<L>19470<pc>2-0457<k1>kOwi     : <ls>ebend.</ls>
+<L>19494<pc>2-0458<k1>kORinda  : <ls>ebend. 33</ls>
+<L>19495<pc>2-0458<k1>kOReya   : <ls>ebend. 460</ls>
+<L>19508<pc>2-0459<k1>kORqilya : <ls>ebend. 7</ls>
+<L>19510<pc>2-0459<k1>kORqoparaTa : <ls>ebend.</ls>
+<L>19527<pc>2-0461<k1>kOTuma   : <ls>ebend. 3,273</ls>
+<L>19571<pc>2-0463<k1>kOmBakAri : <ls>ebend.</ls>
+<L>19674<pc>2-0469<k1>kOzItaki : <ls>ebend. 34</ls>
+<L>19674<pc>2-0469<k1>kOzItaki : <ls n="ebend.">45</ls>
+<L>19699<pc>2-0471<k1>kOhaqa   : <ls>ebend.</ls>
+<L>19764<pc>2-0477<k1>kram     : <ls>ebend. 15,20</ls>
+<L>19863<pc>2-0499<k1>krI      : <ls>YĀJÑA. 2,250</ls>
+<L>19866<pc>2-0501<k1>krIq     : <ls>ebend.</ls>
+<L>20005<pc>2-0514<k1>krOzwuki : <ls>ebend. 239, N. 5</ls>
+<L>20005<pc>2-0514<k1>krOzwuki : <ls>ebend.</ls>
+<L>20020<pc>2-0515<k1>klid     : <ls>ebend.</ls>
+<L>20031<pc>2-0517<k1>klItanaka : <ls>ebend.</ls>
+<L>20234<pc>2-0541<k1>kzAmin   : <ls>ebend.</ls>
+<L>20274<pc>2-0544<k1>kzi      : <ls>ebend.</ls>
+<L>20315<pc>2-0549<k1>kzip     : <ls>ebend. 29,27</ls>
+<L>20315<pc>2-0549<k1>kzip     : <ls n="ebend.">35,6</ls>
+<L>20330<pc>2-0555<k1>kzipti   : <ls>ebend.</ls>
+<L>20332<pc>2-0555<k1>kzipra   : <ls>Theil I, S. 820</ls>
+<L>20546<pc>2-0568<k1>kzuB     : <ls>ebend. 1,1,2,22</ls>
+<L>20546<pc>2-0568<k1>kzuB     : <ls n="ebend.">2,4,1,14</ls>
+<L>20674<pc>2-0579<k1>kzEtayata : <ls>ebend.</ls>
+<L>20798<pc>2-0588<k1>KaYja    : <ls>ebend. 165</ls>
+<L>20798<pc>2-0588<k1>KaYja    : <ls>ebend. 156</ls>
+<L>20827<pc>2-0590<k1>KawwASa  : <ls>ebend.</ls>
+<L>20837<pc>2-0590<k1>KawvApluta : <ls>ebend.</ls>
+<L>21047<pc>2-0604<k1>Kal      : <ls>ebend.</ls>
+<L>21050<pc>2-0605<k1>Kalakula : <ls>ebend. 29</ls>
+<L>21057<pc>2-0605<k1>KalAjina : <ls>ebend.</ls>
+<L>21073<pc>2-0608<k1>KaleSa   : <ls>ebend.</ls>
+<L>21092<pc>2-0609<k1>KaSa     : <ls>ebend. 241</ls>
+<L>21100<pc>2-0609<k1>Kasakanda : <ls>ebend.</ls>
+<L>21111<pc>2-0609<k1>KasKasa  : <ls>ebend.</ls>
+<L>21142<pc>2-0611<k1>KARqavIraRa : <ls>ebend.</ls>
+<L>21149<pc>2-0611<k1>KAta     : <ls>ebend.</ls>
+<L>21158<pc>2-0612<k1>KAdatamodatA : <ls>ebend.</ls>
+<L>21158<pc>2-0612<k1>KAdatamodatA : <ls>ebend.</ls>
+<L>21165<pc>2-0612<k1>KAdiraka : <ls>ebend.</ls>
+<L>21221<pc>2-0616<k1>Kila     : <ls>ebend.</ls>
+<L>21319<pc>2-0627<k1>ga       : <ls>ebend.</ls>
+<L>21351<pc>2-0629<k1>gaNgADara : <ls>ebend. 90</ls>
+<L>21459<pc>2-0635<k1>gaqquka  : <ls>ebend.</ls>
+<L>21522<pc>2-0641<k1>gaRita   : <ls>ebend. 395</ls>
+<L>21522<pc>2-0641<k1>gaRita   : <ls>ebend. 451</ls>
+<L>21522<pc>2-0641<k1>gaRita   : <ls>ebend.</ls>
+<L>21522<pc>2-0641<k1>gaRita   : <ls>ebend. 419</ls>
+<L>21726<pc>2-0657<k1>ganDayukti : <ls>ebend. 15,12</ls>
+<L>21731<pc>2-0657<k1>ganDarva : <ls>ebend. N. 21</ls>
+<L>21802<pc>2-0664<k1>gaBizak  : <ls n="Padapāṭha">padap.</ls>
+<L>21814<pc>2-0666<k1>gam      : <ls n="Padapāṭha">padap.</ls>
+<L>21814<pc>2-0666<k1>gam      : <ls n="Padapāṭha">padap.</ls>
+<L>21814<pc>2-0666<k1>gam      : <ls>ebend.</ls>
+<L>21814<pc>2-0666<k1>gam      : <ls n="Padapāṭha">padap.</ls>
+<L>21868<pc>2-0694<k1>garADikA : <ls>ebend.</ls>
+<L>22050<pc>2-0710<k1>gala     : <ls>ebend.</ls>
+<L>22059<pc>2-0711<k1>galana   : <ls>ebend.</ls>
+<L>22213<pc>2-0730<k1>gAtuy    : <ls n="Padapāṭha">padap.</ls>
+<L>22231<pc>2-0731<k1>gATa     : <ls>ebend.</ls>
+<L>22231<pc>2-0731<k1>gATa     : <ls>YĀJÑA. 3,2</ls>
+<L>22310<pc>2-0738<k1>gArgaka  : <ls>ebend.</ls>
+<L>22321<pc>2-0739<k1>gArgya   : <ls>Padapāṭha zum SV.</ls>
+<L>22327<pc>2-0739<k1>gArdaBaraTika : <ls>ebend.</ls>
+<L>22343<pc>2-0740<k1>gArhapatyAgAra : <ls>ebend. 11,8</ls>
+<L>22362<pc>2-0741<k1>gAh      : <ls>ebend.</ls>
+<L>22377<pc>2-0745<k1>girika   : <ls>ebend.</ls>
+<L>22561<pc>2-0755<k1>guRa     : <ls>ebend.</ls>
+<L>22561<pc>2-0755<k1>guRa     : <ls>ebend.</ls>
+<L>22631<pc>2-0761<k1>guRqa    : <ls>ebend.</ls>
+<L>22735<pc>2-0771<k1>gulma    : <ls>ebend.</ls>
+<L>22745<pc>2-0772<k1>guh      : <ls n="Padapāṭha">padap.</ls>
+<L>23011<pc>2-0789<k1>go       : <ls>L. JĀT. 13,1</ls>
+<L>23014<pc>2-0791<k1>goarGa   : <ls>ebend.</ls>
+<L>23053<pc>2-0793<k1>gocara   : <ls>ebend. 107,12</ls>
+<L>23083<pc>2-0796<k1>goRqavana : <ls>ebend.</ls>
+<L>23085<pc>2-0796<k1>gotama   : <ls>ṢAḌVIṂŚABR.</ls>
+<L>23094<pc>2-0797<k1>gotra    : <ls>ebend.</ls>
+<L>23134<pc>2-0800<k1>goDas    : <ls>ebend.</ls>
+<L>23251<pc>2-0808<k1>goBila   : <ls>ebend. S. 58</ls>
+<L>23329<pc>2-0813<k1>gola     : <ls>L. JĀT. 10,11</ls>
+<L>23343<pc>2-0814<k1>goloka   : <ls>Einl. S. 5</ls>
+<L>23353<pc>2-0815<k1>govarDana : <ls>Einl. zur 1sten Ausgabe des Wörterb. XXXI.</ls>
+<L>23418<pc>2-0818<k1>gozad    : <ls>ebend.</ls>
+<L>23539<pc>2-0825<k1>gOmatAyana : <ls>ebend.</ls>
+<L>23542<pc>2-0826<k1>gOra     : <ls>ebend. 55</ls>
+<L>23542<pc>2-0826<k1>gOra     : <ls>ebend. 161</ls>
+<L>23542<pc>2-0826<k1>gOra     : <ls>ebend. 164</ls>
+<L>23545<pc>2-0827<k1>gOragrIva : <ls>ebend.</ls>
+<L>23569<pc>2-0828<k1>gOri     : <ls>ebend. 215</ls>
+<L>23617<pc>2-0830<k1>gnAspati : <ls n="Padapāṭha">padap.</ls>
+<L>23656<pc>2-0834<k1>graB     : <ls>ebend.</ls>
+<L>23656<pc>2-0834<k1>graB     : <ls>ebend.</ls>
+<L>23779<pc>2-0859<k1>grAmazaRqa : <ls>ebend.</ls>
+<L>23822<pc>2-0862<k1>grAha    : <ls>ebend.</ls>
+<L>23848<pc>2-0866<k1>grEveyaka : <ls>D. 34,10</ls>
+<L>23861<pc>2-0867<k1>glA      : <ls n="Padapāṭha">padap.</ls>
+<L>23865<pc>2-0868<k1>glAva    : <ls>ebend. 38</ls>
+<L>23878<pc>2-0870<k1>Ga       : <ls n="Padapāṭha">padap.</ls>
+<L>23886<pc>2-0872<k1>Gawakarpara : <ls>ebend. 1</ls>
+<L>23886<pc>2-0872<k1>Gawakarpara : <ls>ebend. 506</ls>
+<L>23887<pc>2-0873<k1>GawakAra : <ls>L. JĀT. 9,7</ls>
+<L>23912<pc>2-0874<k1>GawIkAra : <ls>ebend.</ls>
+<L>24071<pc>2-0887<k1>GAsakunda : <ls>ebend.</ls>
+<L>24081<pc>2-0887<k1>Guwa     : <ls>ebend.</ls>
+<L>24121<pc>2-0891<k1>GfRi     : <ls n="Padapāṭha">padap.</ls>
+<L>24121<pc>2-0891<k1>GfRi     : <ls>Th. I, S. 820</ls>
+<L>24121<pc>2-0891<k1>GfRi     : <ls>ebend.</ls>
+<L>24209<pc>2-0896<k1>Gora     : <ls>ebend. 68</ls>
+<L>24265<pc>2-0906<k1>cakora   : <ls>ebend. 1,23</ls>
+<L>24271<pc>2-0906<k1>cakra    : <ls>L. JĀT. 10,9</ls>
+<L>24414<pc>2-0919<k1>cakzuzya : <ls>ebend.</ls>
+<L>24414<pc>2-0919<k1>cakzuzya : <ls>ebend.</ls>
+<L>24451<pc>2-0922<k1>cawaka   : <ls>ebend.</ls>
+<L>24522<pc>2-0926<k1>catuHpa  : <ls>ebend. 45</ls>
+<L>24543<pc>2-0928<k1>caturanta : <ls>Calc.</ls>
+<L>24548<pc>2-0928<k1>caturaSra : <ls>ebend.</ls>
+<L>24592<pc>2-0931<k1>caturBuja : <ls>ebend.</ls>
+<L>24631<pc>2-0933<k1>catuzkarRa : <ls>ebend. 66,3</ls>
+<L>24674<pc>2-0936<k1>catvAriMSat : <ls>ebend.</ls>
+<L>24687<pc>2-0938<k1>cand     : <ls>ebend.</ls>
+<L>24707<pc>2-0939<k1>candanodakadunduBi : <ls>BHAVA</ls>
+<L>24710<pc>2-0939<k1>candra   : <ls>praef. zu den Radd. III. fg.</ls>
+<L>24710<pc>2-0939<k1>candra   : <ls>ebend.</ls>
+<L>24711<pc>2-0940<k1>candraka : <ls>ebend.</ls>
+<L>24712<pc>2-0941<k1>candrakalA : <ls>ebend.</ls>
+<L>24726<pc>2-0941<k1>candragomin : <ls>praef. zu den Radd. S. v.</ls>
+<L>24772<pc>2-0944<k1>candraleKa : <ls>ebend.</ls>
+<L>24802<pc>2-0945<k1>candrasuta : <ls>L. JĀT. 2,16</ls>
+<L>24850<pc>2-0948<k1>cam      : <ls>ebend. 53</ls>
+<L>24877<pc>2-0950<k1>campa    : <ls>ebend.</ls>
+<L>24897<pc>2-0952<k1>caya     : <ls>Med.</ls>
+<L>24902<pc>2-0952<k1>car      : <ls>ebend.</ls>
+<L>24902<pc>2-0952<k1>car      : <ls>D. 9,1</ls>
+<L>24902<pc>2-0952<k1>car      : <ls>ebend.</ls>
+<L>24902<pc>2-0952<k1>car      : <ls>ebend.</ls>
+<L>24940<pc>2-0969<k1>carAcara : <ls>ebend.</ls>
+<L>24974<pc>2-0972<k1>cart     : <ls>ebend.</ls>
+<L>25142<pc>2-0987<k1>cAturmAsaka : <ls>ebend.</ls>
+<L>25190<pc>2-0991<k1>cAmaragrAha : <ls>ebend.</ls>
+<L>25286<pc>2-0997<k1>cArvAka  : <ls>ebend.</ls>
+<L>25333<pc>2-1007<k1>cikkaRa  : <ls>ebend.</ls>
+<L>25349<pc>2-1008<k1>cicCuka  : <ls>ebend. LXIII.</ls>
+<L>25349<pc>2-1008<k1>cicCuka  : <ls>ebend. LXII, N.</ls>
+<L>25410<pc>2-1015<k1>citra    : <ls>ebend.</ls>
+<L>25410<pc>2-1015<k1>citra    : <ls>ebend. 161 (X, 11)</ls>
+<L>25410<pc>2-1015<k1>citra    : <ls>ebend. 162 (XI, 3)</ls>
+<L>25479<pc>2-1021<k1>citraraTa : <ls>S. 572</ls>
+<L>25490<pc>2-1022<k1>citraleKA : <ls>ebend.</ls>
+<L>25490<pc>2-1022<k1>citraleKA : <ls>ebend. 163</ls>
+<L>25548<pc>2-1025<k1>cid      : <ls n="Padapāṭha">padap.</ls>
+<L>25641<pc>2-1035<k1>cilli    : <ls>ebend.</ls>
+<L>25699<pc>2-1039<k1>cIlikA   : <ls>ebend.</ls>
+<L>25745<pc>2-1041<k1>cuta     : <ls>ebend.</ls>
+<L>25764<pc>2-1044<k1>cur      : <ls>ebend. 199,9</ls>
+<L>25788<pc>2-1046<k1>cUqa     : <ls>ebend.</ls>
+<L>25813<pc>2-1047<k1>cUrRa    : <ls>Med.</ls>
+<L>25813<pc>2-1047<k1>cUrRa    : <ls>TARKASAṂGṚ. S. 18</ls>
+<L>25871<pc>2-1052<k1>cettar   : <ls>ebend.</ls>
+<L>25874<pc>2-1052<k1>ced      : <ls n="Padapāṭha">padap.</ls>
+<L>25911<pc>2-1057<k1>cEwayata : <ls>ebend.</ls>
+<L>26001<pc>2-1063<k1>cOpayata : <ls>ebend.</ls>
+<L>26032<pc>2-1065<k1>cyu      : <ls>ebend.</ls>
+<L>26032<pc>2-1065<k1>cyu      : <ls n="Padapāṭha">padap.</ls>
+<L>26110<pc>2-1081<k1>Candoga  : <ls>ebend. 58</ls>
+<L>26110<pc>2-1081<k1>Candoga  : <ls n="ebend.">59</ls>
+<L>26110<pc>2-1081<k1>Candoga  : <ls>ebend. No. 261</ls>
+<L>26116<pc>2-1081<k1>Candoma  : <ls>ebend.</ls>
+<L>26122<pc>2-1082<k1>CandomAlA : <ls>ebend. 64</ls>
+<L>26157<pc>2-1084<k1>Cavi     : <ls>ebend.</ls>
+<L>26167<pc>2-1085<k1>CAgamitra : <ls>ebend.</ls>
+<L>26174<pc>2-1086<k1>CAgaleya : <ls>ebend. 1,233</ls>
+<L>26187<pc>2-1086<k1>CAttri   : <ls>ebend.</ls>
+<L>26236<pc>2-1089<k1>Cittvara : <ls>ebend.</ls>
+<L>26313<pc>3-0002<k1>jakz     : <ls>ebend.</ls>
+<L>26400<pc>3-0009<k1>jaNGAraTa : <ls>ebend.</ls>
+<L>26436<pc>3-0012<k1>jawilaka : <ls>ebend.</ls>
+<L>26456<pc>3-0013<k1>jaqa     : <ls>Monatsberichte der Königl. Preuss. Akad. d. Wissenschaften, 1858, S. 266</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls>ebend. 7,1174</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend.">8,185</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">575</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">816</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">899</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">1076</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">1133</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">1234</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">1573</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">2354</ls>
+<L>26487<pc>3-0024<k1>janaka   : <ls n="ebend. 8,">2370</ls>
+<L>26556<pc>3-0029<k1>janitra  : <ls>ebend.</ls>
+<L>26585<pc>3-0032<k1>jantuka  : <ls>ebend.</ls>
+<L>26658<pc>3-0038<k1>jamadagni : <ls>ebend. 233</ls>
+<L>26690<pc>3-0041<k1>jamBa    : <ls>ebend.</ls>
+<L>26706<pc>3-0042<k1>jaya     : <ls>ebend.</ls>
+<L>26706<pc>3-0042<k1>jaya     : <ls>ebend.</ls>
+<L>26706<pc>3-0042<k1>jaya     : <ls>ebend.</ls>
+<L>26774<pc>3-0047<k1>jayendra : <ls>ebend. 5,427</ls>
+<L>26774<pc>3-0047<k1>jayendra : <ls n="ebend.">6,171</ls>
+<L>26778<pc>3-0047<k1>jar      : <ls n="Padapāṭha">padap.</ls>
+<L>26865<pc>3-0056<k1>jalakUpI : <ls>ebend.</ls>
+<L>26992<pc>3-0061<k1>jalavAsa : <ls>ebend.</ls>
+<L>27134<pc>3-0070<k1>jahaka   : <ls>ebend.</ls>
+<L>27135<pc>3-0070<k1>jahatsvArTA : <ls>ebend. 7</ls>
+<L>27148<pc>3-0071<k1>jA       : <ls n="Padapāṭha">padap.</ls>
+<L>27182<pc>3-0073<k1>jANGAprahftika : <ls>ebend.</ls>
+<L>27203<pc>3-0074<k1>jAta     : <ls>ebend.</ls>
+<L>27203<pc>3-0074<k1>jAta     : <ls>ebend.</ls>
+<L>27203<pc>3-0074<k1>jAta     : <ls>ebend.</ls>
+<L>27204<pc>3-0076<k1>jAtaka   : <ls>ebend.</ls>
+<L>27221<pc>3-0078<k1>jAti     : <ls>ebend.</ls>
+<L>27251<pc>3-0082<k1>jAtUBarman : <ls n="Padapāṭha">padap.</ls>
+<L>27251<pc>3-0082<k1>jAtUBarman : <ls>Ros.</ls>
+<L>27312<pc>3-0087<k1>jAmbavata : <ls>ebend.</ls>
+<L>27342<pc>3-0090<k1>jArajAta : <ls>ebend.</ls>
+<L>27366<pc>3-0092<k1>jAlakIwa : <ls>ebend.</ls>
+<L>27373<pc>3-0093<k1>jAlaMDarAyaRa : <ls>ebend.</ls>
+<L>27446<pc>3-0102<k1>jit      : <ls>Med.</ls>
+<L>27479<pc>3-0104<k1>jinendra : <ls>Einl. zum DHĀTUP. II.</ls>
+<L>27480<pc>3-0104<k1>jinendrabudDi : <ls>Einl. zum DHĀTUP. II.</ls>
+<L>27559<pc>3-0110<k1>jIrRawIkA : <ls>ebend.</ls>
+<L>27586<pc>3-0116<k1>jIvaTa   : <ls>ebend.</ls>
+<L>27586<pc>3-0116<k1>jIvaTa   : <ls>ebend.</ls>
+<L>27586<pc>3-0116<k1>jIvaTa   : <ls>ebend.</ls>
+<L>27610<pc>3-0118<k1>jIvanta  : <ls>ebend.</ls>
+<L>27614<pc>3-0119<k1>jIvanmukti : <ls>handschriftlich auf der Tübinger Universitäts-Bibl.</ls>
+<L>27684<pc>3-0123<k1>juj      : <ls>Tübinger Universitätsbibl.</ls>
+<L>27687<pc>3-0123<k1>juwaka   : <ls>ebend.</ls>
+<L>27708<pc>3-0126<k1>juzwa    : <ls>ebend.</ls>
+<L>27722<pc>3-0127<k1>jU       : <ls>ebend.</ls>
+<L>27782<pc>3-0132<k1>jEna     : <ls>ebend.</ls>
+<L>27786<pc>3-0132<k1>jEmanta  : <ls>ebend. 55</ls>
+<L>27801<pc>3-0133<k1>jEhmya   : <ls>ebend. 11,15</ls>
+<L>27801<pc>3-0133<k1>jEhmya   : <ls n="ebend. 11,">18</ls>
+<L>27828<pc>3-0135<k1>jOlAyana : <ls>ebend.</ls>
+<L>27838<pc>3-0135<k1>jYA      : <ls>ebend.</ls>
+<L>27838<pc>3-0135<k1>jYA      : <ls>ebend.</ls>
+<L>27838<pc>3-0135<k1>jYA      : <ls>Ros.</ls>
+<L>27838<pc>3-0135<k1>jYA      : <ls>Einl. zum NIR. XXXIX</ls>
+<L>27892<pc>3-0152<k1>jYAnArRava : <ls>ebend. 22,b,6</ls>
+<L>27940<pc>3-0157<k1>jyAhroqa : <ls>ebend. 3,273,b,32</ls>
+<L>27989<pc>3-0160<k1>jyotirISa : <ls>ebend. 67</ls>
+<L>27989<pc>3-0160<k1>jyotirISa : <ls n="ebend.">96</ls>
+<L>28008<pc>3-0161<k1>jyotiza  : <ls>ebend. 121</ls>
+<L>28011<pc>3-0161<k1>jyotizka : <ls>ebend.</ls>
+<L>28017<pc>3-0162<k1>jyotizwoma : <ls>ebend.</ls>
+<L>28023<pc>3-0163<k1>jyotis   : <ls>ebend.</ls>
+<L>28080<pc>3-0172<k1>jvAleSvara : <ls>ebend. 65,b. 67,a</ls>
+<L>28101<pc>3-0173<k1>Jar      : <ls>ebend. 44</ls>
+<L>28139<pc>3-0175<k1>JAvu     : <ls>ebend.</ls>
+<L>28147<pc>3-0176<k1>JiRwI    : <ls>ebend.</ls>
+<L>28147<pc>3-0176<k1>JiRwI    : <ls>ebend. 56</ls>
+<L>28282<pc>3-0184<k1>qip      : <ls>ebend.</ls>
+<L>28292<pc>3-0185<k1>qI       : <ls>ebend.</ls>
+<L>28294<pc>3-0185<k1>qIna     : <ls>ebend.</ls>
+<L>28294<pc>3-0185<k1>qIna     : <ls>ebend.</ls>
+<L>28310<pc>3-0186<k1>qora     : <ls>ebend.</ls>
+<L>28331<pc>3-0191<k1>ta       : <ls>ebend.</ls>
+<L>28367<pc>3-0195<k1>tagara   : <ls>ebend.</ls>
+<L>28390<pc>3-0196<k1>tawinI   : <ls>ebend.</ls>
+<L>28419<pc>3-0200<k1>taRqulIyaka : <ls>ebend.</ls>
+<L>28446<pc>3-0202<k1>tatkAla  : <ls>ebend.</ls>
+<L>28451<pc>3-0203<k1>tattva   : <ls>ebend. 25</ls>
+<L>28619<pc>3-0226<k1>tanUnapAt : <ls>ebend. S. 122</ls>
+<L>28661<pc>3-0229<k1>tantra   : <ls>ebend. 638</ls>
+<L>28665<pc>3-0233<k1>tantraganDarva : <ls>ebend. 104,a</ls>
+<L>28666<pc>3-0233<k1>tantragarBa : <ls>ebend.</ls>
+<L>28667<pc>3-0233<k1>tantracUqAmaRi : <ls>ebend. 95,a</ls>
+<L>28670<pc>3-0233<k1>tantrapradIpa : <ls>Einl. zum DHĀTUP. II.</ls>
+<L>28811<pc>3-0250<k1>tam      : <ls>ebend.</ls>
+<L>28892<pc>3-0266<k1>taraRqa  : <ls>ebend.</ls>
+<L>28949<pc>3-0270<k1>taruRa   : <ls>ebend.</ls>
+<L>28980<pc>3-0272<k1>tarUzas  : <ls n="Padapāṭha">padap.</ls>
+<L>28989<pc>3-0274<k1>tarkaBAzA : <ls>ebend.</ls>
+<L>28994<pc>3-0275<k1>tarkasaMgraha : <ls>ebend. 2,342 (No. 200,b)</ls>
+<L>28997<pc>3-0275<k1>tarkiRa  : <ls>ebend.</ls>
+<L>29022<pc>3-0278<k1>tarp     : <ls>ebend.</ls>
+<L>29046<pc>3-0282<k1>tala     : <ls>Index zum TRIK.</ls>
+<L>29078<pc>3-0285<k1>talpa    : <ls>ebend. 2,2,5,3</ls>
+<L>29097<pc>3-0287<k1>tavarAja : <ls>ebend.</ls>
+<L>29101<pc>3-0287<k1>tavAgA   : <ls n="Padapāṭha">padap.</ls>
+<L>29160<pc>3-0291<k1>tARqava  : <ls>ebend. 31</ls>
+<L>29165<pc>3-0292<k1>tARqin   : <ls>ebend.</ls>
+<L>29186<pc>3-0293<k1>tATABAvya : <ls>Einl. zum NIR. S. LXVII.</ls>
+<L>29323<pc>3-0303<k1>tAmravarRa : <ls>ebend.</ls>
+<L>29356<pc>3-0306<k1>tAraka   : <ls>ebend. 67,b, ult.</ls>
+<L>29421<pc>3-0310<k1>tArkika  : <ls>ebend. 445, N. 3</ls>
+<L>29448<pc>3-0312<k1>tAla     : <ls>Th. II, S. 247, Z. 2 v. u.</ls>
+<L>29610<pc>3-0327<k1>tiTi     : <ls>ebend. 1174</ls>
+<L>29810<pc>3-0341<k1>tizyapunarvasavIya : <ls>ebend.</ls>
+<L>29820<pc>3-0341<k1>tIkzRa   : <ls>ebend.</ls>
+<L>29820<pc>3-0341<k1>tIkzRa   : <ls>ebend.</ls>
+<L>29835<pc>3-0343<k1>tIkzRaDAra : <ls>ebend.</ls>
+<L>29867<pc>3-0345<k1>tIrTa    : <ls>ebend.</ls>
+<L>29923<pc>3-0352<k1>tugryAvfD : <ls n="Padapāṭha">padap.</ls>
+<L>29953<pc>3-0354<k1>tuj      : <ls n="Padapāṭha">padap.</ls>
+<L>29976<pc>3-0356<k1>tuRqadeva : <ls>ebend.</ls>
+<L>30084<pc>3-0364<k1>turAzAh  : <ls>ebend.</ls>
+<L>30109<pc>3-0367<k1>tulaBa   : <ls>ebend.</ls>
+<L>30112<pc>3-0367<k1>tulasI   : <ls>ebend. 23. fg.</ls>
+<L>30112<pc>3-0367<k1>tulasI   : <ls n="ebend.">26</ls>
+<L>30123<pc>3-0368<k1>tulApuruza : <ls>ebend. 137 (170). No. 1218</ls>
+<L>30123<pc>3-0368<k1>tulApuruza : <ls>ebend. 45,a,24</ls>
+<L>30124<pc>3-0369<k1>tulApragraha : <ls>ebend.</ls>
+<L>30175<pc>3-0372<k1>tuvizwama : <ls n="Padapāṭha">padap.</ls>
+<L>30204<pc>3-0376<k1>tuzita   : <ls>ebend. 37</ls>
+<L>30204<pc>3-0376<k1>tuzita   : <ls n="ebend.">51</ls>
+<L>30204<pc>3-0376<k1>tuzita   : <ls n="ebend.">120</ls>
+<L>30204<pc>3-0376<k1>tuzita   : <ls n="ebend.">178</ls>
+<L>30215<pc>3-0376<k1>tuhara   : <ls>ebend.</ls>
+<L>30356<pc>3-0384<k1>tfRavindu : <ls>ebend. 80,a,15</ls>
+<L>30416<pc>3-0387<k1>tfpala   : <ls n="Padapāṭha">padap.</ls>
+<L>30550<pc>3-0397<k1>tEraSca  : <ls>ebend.</ls>
+<L>30744<pc>3-0412<k1>tyAga    : <ls n=" p.">208,2</ls>
+<L>30744<pc>3-0412<k1>tyAga    : <ls n=" p.">394,3 v. u</ls>
+<L>30744<pc>3-0412<k1>tyAga    : <ls n="p">423,1 v. u.</ls>
+<L>30811<pc>3-0418<k1>tras     : <ls>ebend.</ls>
+<L>30855<pc>3-0423<k1>trika    : <ls>ebend.</ls>
+<L>30871<pc>3-0425<k1>trikARqa : <ls>ebend. 57</ls>
+<L>30885<pc>3-0426<k1>trikoRa  : <ls>ebend.</ls>
+<L>30979<pc>3-0433<k1>triDAman : <ls>ebend. 80,a,11</ls>
+<L>31080<pc>3-0440<k1>trimuni  : <ls>ebend.</ls>
+<L>31284<pc>3-0453<k1>trEgartAyana : <ls>ebend.</ls>
+<L>31360<pc>3-0457<k1>trOk     : <ls>ebend.</ls>
+<L>31360<pc>3-0457<k1>trOk     : <ls>ebend.</ls>
+<L>31400<pc>3-0460<k1>tryAkzAyaRa : <ls>ebend.</ls>
+<L>31495<pc>3-0467<k1>tvazwar  : <ls>Erll. zu NIR. S. 123</ls>
+<L>31515<pc>3-0469<k1>tvAzwra  : <ls>ebend.</ls>
+<L>31515<pc>3-0469<k1>tvAzwra  : <ls>ebend.</ls>
+<L>31515<pc>3-0469<k1>tvAzwra  : <ls>ebend.</ls>
+<L>31593<pc>3-0479<k1>daMsu    : <ls n="Padapāṭha">padap.</ls>
+<L>31594<pc>3-0479<k1>daMsujUta : <ls n="Padapāṭha">padap.</ls>
+<L>31595<pc>3-0480<k1>daMsupatnI : <ls n="Padapāṭha">padap.</ls>
+<L>31600<pc>3-0480<k1>dakz     : <ls>ebend. 2,2,2,2</ls>
+<L>31600<pc>3-0480<k1>dakz     : <ls n="ebend.">4,3,4,3</ls>
+<L>31600<pc>3-0480<k1>dakz     : <ls n="ebend.">8,2,1,15</ls>
+<L>31601<pc>3-0480<k1>dakza    : <ls>D. 32,14</ls>
+<L>31601<pc>3-0480<k1>dakza    : <ls>ebend. 142. fgg.</ls>
+<L>31618<pc>3-0483<k1>dakzi    : <ls n="Padapāṭha">padap.</ls>
+<L>31619<pc>3-0483<k1>dakziRa  : <ls>ebend. 91,a,17</ls>
+<L>31619<pc>3-0483<k1>dakziRa  : <ls n="ebend. 91,a,">18</ls>
+<L>31666<pc>3-0489<k1>dakziRAvant : <ls n="Padapāṭha">padap.</ls>
+<L>31679<pc>3-0490<k1>dakziRerman : <ls>ebend.</ls>
+<L>31811<pc>3-0501<k1>dattaSarman : <ls>ebend.</ls>
+<L>31892<pc>3-0505<k1>daDfzi   : <ls n="Padapāṭha">padap.</ls>
+<L>32030<pc>3-0516<k1>damanaka : <ls>ebend. 160</ls>
+<L>32094<pc>3-0526<k1>dardarIka : <ls>ebend.</ls>
+<L>32098<pc>3-0526<k1>darduraparRI : <ls>ebend.</ls>
+<L>32139<pc>3-0530<k1>darvika  : <ls>ebend.</ls>
+<L>32176<pc>3-0545<k1>dalapa   : <ls>ebend.</ls>
+<L>32217<pc>3-0547<k1>daSakumAracarita : <ls>Monatsb. der K. Pr. Ak. d. Ww. 1859, S. 18. fgg.</ls>
+<L>32377<pc>3-0559<k1>dah      : <ls>ebend.</ls>
+<L>32399<pc>3-0565<k1>dA       : <ls n="P 7,4,">58</ls>
+<L>32399<pc>3-0565<k1>dA       : <ls n="Padapāṭha">padap.</ls>
+<L>32399<pc>3-0565<k1>dA       : <ls>ebend.</ls>
+<L>32403<pc>3-0579<k1>dA       : <ls>ebend.</ls>
+<L>32451<pc>3-0583<k1>dARqaki  : <ls>ebend.</ls>
+<L>32464<pc>3-0583<k1>dAtar    : <ls>ebend.</ls>
+<L>32572<pc>3-0591<k1>dAmozRIza : <ls>ebend.</ls>
+<L>32583<pc>3-0593<k1>dAyAda   : <ls>ebend.</ls>
+<L>32662<pc>3-0599<k1>dArvAGAwa : <ls n="Padapāṭha">padap.</ls>
+<L>32702<pc>3-0601<k1>dAvasu   : <ls>ebend.</ls>
+<L>32727<pc>3-0603<k1>dASaSiras : <ls>ebend.</ls>
+<L>32728<pc>3-0603<k1>dASaspatya : <ls>ebend.</ls>
+<L>32746<pc>3-0604<k1>dAs      : <ls>ebend.</ls>
+<L>32762<pc>3-0606<k1>dAsamitra : <ls>ebend.</ls>
+<L>32784<pc>3-0607<k1>dAhaka   : <ls>ebend.</ls>
+<L>32930<pc>3-0615<k1>dimB     : <ls>ebend.</ls>
+<L>32962<pc>3-0621<k1>divAkara : <ls>ebend.</ls>
+<L>33016<pc>3-0624<k1>divodAsa : <ls>ebend. 71,a,19</ls>
+<L>33064<pc>3-0637<k1>diS      : <ls>Stenzler, De lexicogr. s. principiis, 22</ls>
+<L>33077<pc>3-0639<k1>dih      : <ls>ebend.</ls>
+<L>33130<pc>3-0650<k1>dIpana   : <ls>ebend. 93,a,6</ls>
+<L>33130<pc>3-0650<k1>dIpana   : <ls n="ebend. 93,a,">7</ls>
+<L>33178<pc>3-0653<k1>dIrGa    : <ls>ebend.</ls>
+<L>33180<pc>3-0654<k1>dIrGakaRwaka : <ls>ebend.</ls>
+<L>33296<pc>3-0660<k1>dIrGADI  : <ls n="Padapāṭha">padap.</ls>
+<L>33577<pc>3-0679<k1>durgasiMha : <ls>ebend. 44</ls>
+<L>33579<pc>3-0679<k1>durgaha  : <ls n="Padapāṭha">padap.</ls>
+<L>33582<pc>3-0679<k1>durgAdAsa : <ls>ebend. 49</ls>
+<L>33609<pc>3-0681<k1>durjaya  : <ls>ebend. 74,b, Kap. 27</ls>
+<L>33627<pc>3-0682<k1>durdama  : <ls>ebend. 52,a,29</ls>
+<L>33742<pc>3-0689<k1>durmilA  : <ls>ebend. 163 (XIX, 2)</ls>
+<L>33758<pc>3-0690<k1>duryoRa  : <ls n="Padapāṭha">padap.</ls>
+<L>33803<pc>3-0693<k1>durvAsas : <ls>ebend. 76,a, Kap. 34</ls>
+<L>33803<pc>3-0693<k1>durvAsas : <ls n="ebend.">41</ls>
+<L>33803<pc>3-0693<k1>durvAsas : <ls>ebend. 109,b,12</ls>
+<L>34090<pc>3-0716<k1>dURASa   : <ls n="Padapāṭha">padap.</ls>
+<L>34091<pc>3-0716<k1>dURASa   : <ls n="Padapāṭha">padap.</ls>
+<L>34117<pc>3-0719<k1>dUraMgama : <ls>Lex. pentagl.</ls>
+<L>34302<pc>3-0730<k1>dfnBU    : <ls>ebend.</ls>
+<L>34450<pc>3-0743<k1>devataras : <ls>ebend.</ls>
+<L>34483<pc>3-0746<k1>devadAru : <ls>ebend. 39,b,27</ls>
+<L>34483<pc>3-0746<k1>devadAru : <ls>ebend. 44,b, Kap. 29. fgg.</ls>
+<L>34487<pc>3-0746<k1>devadAsa : <ls>ebend. 124,a</ls>
+<L>34569<pc>3-0751<k1>devaBUti : <ls>ebend. N. 36</ls>
+<L>34665<pc>3-0758<k1>devavyacas : <ls n="Padapāṭha">padap.</ls>
+<L>34672<pc>3-0758<k1>devaSarman : <ls>ebend. 73,b,9</ls>
+<L>34715<pc>3-0760<k1>devasena : <ls>ebend. 19,b,2</ls>
+<L>34769<pc>3-0763<k1>devAlaya : <ls>ebend.</ls>
+<L>34788<pc>3-0764<k1>devila   : <ls>ebend.</ls>
+<L>34803<pc>3-0765<k1>devImAhAtmya : <ls>Mārkaṇḍ. P.</ls>
+<L>34919<pc>3-0771<k1>dErGatamasa : <ls>ebend.</ls>
+<L>34924<pc>3-0772<k1>dEva     : <ls>ebend.</ls>
+<L>35169<pc>3-0790<k1>dyutAna  : <ls>ebend.</ls>
+<L>35228<pc>3-0794<k1>dyotaka  : <ls>ebend. 32</ls>
+<L>35279<pc>3-0797<k1>dravas   : <ls>ebend.</ls>
+<L>35283<pc>3-0797<k1>draviqa  : <ls>ebend. No. 170</ls>
+<L>35332<pc>3-0803<k1>drAGman  : <ls n="Padapāṭha">padap.</ls>
+<L>35382<pc>3-0810<k1>drupada  : <ls>ebend. 20</ls>
+<L>35386<pc>3-0811<k1>drumakiMnararAja : <ls>Index des KANDJUR. No. 157</ls>
+<L>35471<pc>3-0817<k1>droReya  : <ls>ebend.</ls>
+<L>35630<pc>3-0828<k1>dvikArzApaRa : <ls>ebend.</ls>
+<L>35736<pc>3-0834<k1>dvinizka : <ls>ebend.</ls>
+<L>35751<pc>3-0836<k1>dvipadikA : <ls>ebend.</ls>
+<L>35788<pc>3-0837<k1>dviraByasta : <ls>ebend.</ls>
+<L>35828<pc>3-0839<k1>dvivista : <ls>ebend.</ls>
+<L>35840<pc>3-0840<k1>dviSARa  : <ls>ebend.</ls>
+<L>35843<pc>3-0840<k1>dviSUrpa : <ls>ebend.</ls>
+<L>35897<pc>3-0844<k1>dvIpaja  : <ls>ebend.</ls>
+<L>35982<pc>3-0850<k1>dvyAkzAyaRa : <ls>ebend.</ls>
+<L>36018<pc>3-0854<k1>DanaMjaya : <ls>ebend. 61,5</ls>
+<L>36018<pc>3-0854<k1>DanaMjaya : <ls>ebend. 154,a,43</ls>
+<L>36018<pc>3-0854<k1>DanaMjaya : <ls>ebend. 162,b</ls>
+<L>36044<pc>3-0856<k1>Danarca  : <ls n="Padapāṭha">padap.</ls>
+<L>36073<pc>3-0857<k1>Danika   : <ls>ebend.</ls>
+<L>36073<pc>3-0857<k1>Danika   : <ls>ebend.</ls>
+<L>36107<pc>3-0859<k1>Danurveda : <ls>ebend. 1,13</ls>
+<L>36107<pc>3-0859<k1>Danurveda : <ls n="ebend. 1,">21</ls>
+<L>36107<pc>3-0859<k1>Danurveda : <ls n="ebend. 1,">22</ls>
+<L>36167<pc>3-0864<k1>Danvin   : <ls>Med.</ls>
+<L>36177<pc>3-0867<k1>DamAtra  : <ls>ebend.</ls>
+<L>36186<pc>3-0868<k1>Dar      : <ls>ebend.</ls>
+<L>36186<pc>3-0868<k1>Dar      : <ls>ebend. p. 150</ls>
+<L>36188<pc>3-0878<k1>DaraRa   : <ls>ebend. 20</ls>
+<L>36198<pc>3-0879<k1>DaraRIDara : <ls>ebend. 533</ls>
+<L>36209<pc>3-0879<k1>Darasena : <ls>ebend.</ls>
+<L>36241<pc>3-0882<k1>Darma    : <ls>ebend. 406, N. 10</ls>
+<L>36295<pc>3-0886<k1>DarmaDara : <ls>Lot. be la b. l. 3</ls>
+<L>36301<pc>3-0887<k1>DarmaDvaja : <ls>ebend. 152,b,31</ls>
+<L>36484<pc>3-0901<k1>DA       : <ls>ebend.</ls>
+<L>36484<pc>3-0901<k1>DA       : <ls>ebend. 182,7</ls>
+<L>36484<pc>3-0901<k1>DA       : <ls>ebend.</ls>
+<L>36491<pc>3-0931<k1>DAtaki   : <ls>ebend. S. 19</ls>
+<L>36492<pc>3-0931<k1>DAtar    : <ls>ebend.</ls>
+<L>36493<pc>3-0933<k1>DAtu     : <ls>Med.</ls>
+<L>36574<pc>3-0939<k1>DAnyapati : <ls>ebend.</ls>
+<L>36606<pc>3-0941<k1>DAman    : <ls>ebend. 503, Śl. 8</ls>
+<L>36620<pc>3-0944<k1>DAyya    : <ls>ebend.</ls>
+<L>36623<pc>3-0944<k1>DAra     : <ls>ebend.</ls>
+<L>36627<pc>3-0944<k1>DAraRa   : <ls>ebend. N. 11</ls>
+<L>36648<pc>3-0947<k1>DArA     : <ls>ebend. 34</ls>
+<L>36668<pc>3-0950<k1>DArAvara : <ls n="Padapāṭha">padap.</ls>
+<L>36682<pc>3-0951<k1>DArtarAjYa : <ls>ebend.</ls>
+<L>36709<pc>3-0958<k1>DAvaka   : <ls>Uebersetzung dieses Stückes, S. XVI fg.</ls>
+<L>36734<pc>3-0960<k1>DitAvan  : <ls n="Padapāṭha">padap.</ls>
+<L>36749<pc>3-0961<k1>DizaRa   : <ls>ebend.</ls>
+<L>36756<pc>3-0962<k1>DizRya   : <ls n="Padapāṭha">padap.</ls>
+<L>36756<pc>3-0962<k1>DizRya   : <ls>ebend.</ls>
+<L>36772<pc>3-0966<k1>DImant   : <ls>ebend. N. 1</ls>
+<L>36791<pc>3-0968<k1>DIvan    : <ls>ebend.</ls>
+<L>36813<pc>3-0970<k1>Dur      : <ls>ebend.</ls>
+<L>36813<pc>3-0970<k1>Dur      : <ls>ebend.</ls>
+<L>36813<pc>3-0970<k1>Dur      : <ls>ebend. S. 96</ls>
+<L>36831<pc>3-0972<k1>DU       : <ls>ebend.</ls>
+<L>36837<pc>3-0978<k1>DUtapApa : <ls>ebend. 66,b,20</ls>
+<L>36837<pc>3-0978<k1>DUtapApa : <ls>ebend. N. 1</ls>
+<L>36838<pc>3-0978<k1>DUti     : <ls>Index.</ls>
+<L>36838<pc>3-0978<k1>DUti     : <ls>Text.</ls>
+<L>36846<pc>3-0978<k1>DUpana   : <ls>Med.</ls>
+<L>36858<pc>3-0980<k1>DUma     : <ls>Med.</ls>
+<L>36858<pc>3-0980<k1>DUma     : <ls>ebend.</ls>
+<L>36862<pc>3-0980<k1>DUmaketu : <ls>ebend. 353, N. 25</ls>
+<L>36890<pc>3-0982<k1>DUmAyana : <ls>Med.</ls>
+<L>36988<pc>3-0988<k1>Dfti     : <ls>ebend. 18,b</ls>
+<L>36988<pc>3-0988<k1>Dfti     : <ls>ebend. 23,b,5</ls>
+<L>36993<pc>3-0990<k1>Dftvan   : <ls>ebend.</ls>
+<L>37024<pc>3-0992<k1>Denu     : <ls>ebend. 228</ls>
+<L>37070<pc>3-0995<k1>DOmatAyana : <ls>ebend.</ls>
+<L>37091<pc>3-0996<k1>DmAtar   : <ls n="Padapāṭha">padap.</ls>
+<L>37147<pc>3-1001<k1>Druva    : <ls>ebend. 69,b, Kap. 19</ls>
+<L>37147<pc>3-1001<k1>Druva    : <ls n="ebend. 69,b, Kap.">21</ls>
+<L>37159<pc>3-1003<k1>Druvapawu : <ls>Hist. de HIOUEN-THSANG 206</ls>
+<L>37159<pc>3-1003<k1>Druvapawu : <ls n="Hist. de HIOUEN-THSANG">254</ls>
+<L>37159<pc>3-1003<k1>Druvapawu : <ls n="Hist. de HIOUEN-THSANG">260</ls>
+<L>37183<pc>3-1007<k1>Dvaja    : <ls>ebend.</ls>
+<L>37200<pc>3-1009<k1>Dvaji    : <ls>ebend.</ls>
+<L>37208<pc>3-1009<k1>Dvan     : <ls n="Padapāṭha">padap.</ls>
 <L>37259.020<pc>3-1013<k1>jaWara : <ls>Mélanges asiatiques IV,263.</ls>
 <L>37259.060<pc>3-1013<k1>jigIzu : <ls>d. St.</ls>
 <L>37259.225<pc>3-1013<k1>tIkzRakarman : <ls>Ebend. 4428</ls>
 <L>37259.230<pc>3-1013<k1>tulAyazwi : <ls>ŚARÑG. PADDH.</ls>
-<L>37259.475<pc>3-1015<k1>devamArga : <ls>Mélanges asiatiques IV,207. 208</ls>
-<L>37626<pc>4-0035<k1>napAt    : <ls>in Z. f. vergl. Spr. 9,111. fg.</ls>
-<L>40312<pc>4-0259<k1>nisyanda : <ls>RĀJA TAR. 3,327.</ls>
-<L>42894<pc>4-0532<k1>paripanTin : <ls>RĀJA TAR. 4,528.</ls>
+<L>37259.475<pc>3-1015<k1>devamArga : <ls>Mélanges asiatiques IV,207</ls>
+<L>37259.475<pc>3-1015<k1>devamArga : <ls n="Mélanges asiatiques IV,">208</ls>
+<L>37260<pc>4-0001<k1>na       : <ls>ebend.</ls>
+<L>37277<pc>4-0005<k1>nakula   : <ls>ebend.</ls>
+<L>37330<pc>4-0010<k1>nakzatrarAja : <ls>ebend. 253</ls>
+<L>37351<pc>4-0011<k1>naKagucCaPalA : <ls>ebend.</ls>
+<L>37355<pc>4-0011<k1>naKanizpAva : <ls>ebend.</ls>
+<L>37365<pc>4-0011<k1>naKara   : <ls>ebend.</ls>
+<L>37368<pc>4-0012<k1>naKarAyuDa : <ls>ebend.</ls>
+<L>37612<pc>4-0034<k1>nandivfkza : <ls>ebend.</ls>
+<L>37620<pc>4-0035<k1>nandISvara : <ls>ebend. No. 137</ls>
+<L>37676<pc>4-0040<k1>naBodvIpa : <ls>ebend.</ls>
+<L>37677<pc>4-0040<k1>naBoDUma : <ls>ebend.</ls>
+<L>37694<pc>4-0040<k1>nam      : <ls n="Padapāṭha">padap.</ls>
+<L>37701<pc>4-0048<k1>namas    : <ls>ebend.</ls>
+<L>37711<pc>4-0050<k1>namasya  : <ls n="Padapāṭha">padap.</ls>
+<L>37719<pc>4-0050<k1>namuca   : <ls>ebend. 122,6</ls>
+<L>37844<pc>4-0059<k1>narASaMsa : <ls>Erll. zum NIR. S. 123</ls>
+<L>37885<pc>4-0064<k1>narmada  : <ls>ebend. 525</ls>
+<L>37885<pc>4-0064<k1>narmada  : <ls>ebend.</ls>
+<L>37885<pc>4-0064<k1>narmada  : <ls>ebend. 73,b,19</ls>
+<L>37886<pc>4-0064<k1>narmadeSvara : <ls>ebend. 71,b, Kap. 92</ls>
+<L>37922<pc>4-0068<k1>nalva    : <ls>ebend.</ls>
+<L>37965<pc>4-0071<k1>navan    : <ls>ebend.</ls>
+<L>37992<pc>4-0073<k1>navaratna : <ls>Ebend.</ls>
+<L>37992<pc>4-0073<k1>navaratna : <ls>ebend. 108,a</ls>
+<L>38050<pc>4-0080<k1>naS      : <ls n="Padapāṭha">padap.</ls>
+<L>38070<pc>4-0081<k1>nazwASaNka : <ls>ebend.</ls>
+<L>38259<pc>4-0097<k1>nAgAwwayika : <ls>Calc. Aus.</ls>
+<L>38279<pc>4-0098<k1>nAgeSa   : <ls>ebend.</ls>
+<L>38369<pc>4-0104<k1>nAnA     : <ls>ebend.</ls>
+<L>38404<pc>4-0106<k1>nAndImuKa : <ls>ebend.</ls>
+<L>38407<pc>4-0107<k1>nApita   : <ls>ebend.</ls>
+<L>38476<pc>4-0115<k1>nAmasaMgraha : <ls>ebend.</ls>
+<L>38492<pc>4-0116<k1>nAra     : <ls>ebend.</ls>
+<L>38649<pc>4-0128<k1>nAstitA  : <ls>ebend.</ls>
+<L>38731<pc>4-0135<k1>nikzepa  : <ls>ebend.</ls>
+<L>38784<pc>4-0140<k1>niGaRwi  : <ls>ebend.</ls>
+<L>38831<pc>4-0143<k1>niji     : <ls>ebend.</ls>
+<L>38909<pc>4-0153<k1>niDanakAma : <ls>ebend. 224</ls>
+<L>38986<pc>4-0158<k1>nipAna   : <ls>ebend.</ls>
+<L>39038<pc>4-0163<k1>nimittatas : <ls>ebend.</ls>
+<L>39077<pc>4-0166<k1>nimbarajas : <ls>ebend.</ls>
+<L>39080<pc>4-0166<k1>nimbUka  : <ls>ebend.</ls>
+<L>39104<pc>4-0169<k1>niyAmaka : <ls>ebend.</ls>
+<L>39138<pc>4-0172<k1>niraYjana : <ls>ebend. 49,b,20</ls>
+<L>39616<pc>4-0205<k1>niryoga  : <ls>ebend.</ls>
+<L>39782<pc>4-0217<k1>nilaya   : <ls>ebend.</ls>
+<L>39799<pc>4-0219<k1>nivartanastUpa : <ls>Index.</ls>
+<L>39849<pc>4-0225<k1>nivftti  : <ls>Göttinger gelehrten Anzeigen 1859, St. 172, S. 1712</ls>
+<L>39933<pc>4-0231<k1>niSumBa  : <ls>ebend.</ls>
+<L>40004<pc>4-0237<k1>niHSvAsasaMhitA : <ls>ebend. 63,b,23. fgg.</ls>
+<L>40193<pc>4-0252<k1>nizpAdaka : <ls>ebend.</ls>
+<L>40200<pc>4-0252<k1>nizpAva  : <ls>ebend.</ls>
+<L>40379<pc>4-0265<k1>nI       : <ls>ebend.</ls>
+<L>40387<pc>4-0281<k1>nIkzaRa  : <ls n="Padapāṭha">padap.</ls>
+<L>40404<pc>4-0282<k1>nIcAyaka : <ls>ebend.</ls>
+<L>40475<pc>4-0288<k1>nIla     : <ls>ebend.</ls>
+<L>40608<pc>4-0295<k1>nIvara   : <ls>ebend.</ls>
+<L>40617<pc>4-0296<k1>nISAra   : <ls>ebend.</ls>
+<L>40745<pc>4-0311<k1>nfzad    : <ls>Calc. lith. Ausg. von 1830 (GILD. 205)</ls>
+<L>40756<pc>4-0311<k1>nfsiMha  : <ls>ebend. 93,b,10</ls>
+<L>40865<pc>4-0319<k1>nEkatI   : <ls>ebend.</ls>
+<L>40883<pc>4-0320<k1>nEcASAKa : <ls>Einl. zum ṚV. S. 7</ls>
+<L>40914<pc>4-0322<k1>nEpAlIya : <ls>SUPRABHĀTASTOTRA</ls>
+<L>40918<pc>4-0322<k1>nEbuka   : <ls>Chambers</ls>
+<L>40924<pc>4-0323<k1>nEmittika : <ls>S. 31,11</ls>
+<L>40924<pc>4-0323<k1>nEmittika : <ls n="S.">41,22</ls>
+<L>40924<pc>4-0323<k1>nEmittika : <ls>I, XLVIII</ls>
+<L>40964<pc>4-0326<k1>nEryARika : <ls>ebend.</ls>
+<L>41030<pc>4-0329<k1>not      : <ls n="Padapāṭha">padap.</ls>
+<L>41105<pc>4-0334<k1>nyAya    : <ls>Calc.</ls>
+<L>41105<pc>4-0334<k1>nyAya    : <ls>ebend. 2,56</ls>
+<L>41105<pc>4-0334<k1>nyAya    : <ls>ebend. 3,260. fg.</ls>
+<L>41128<pc>4-0336<k1>nyAsa    : <ls>ebend.</ls>
+<L>41140<pc>4-0338<k1>nyUna    : <ls>ebend.</ls>
+<L>41153<pc>4-0340<k1>nvE      : <ls n="Padapāṭha">padap.</ls>
+<L>41356<pc>4-0359<k1>paYcakrama : <ls>ebend.</ls>
+<L>41480<pc>4-0368<k1>paYcarAtra : <ls>ebend. 132</ls>
+<L>41620<pc>4-0376<k1>paYjara  : <ls>ebend. 38,15</ls>
+<L>41620<pc>4-0376<k1>paYjara  : <ls n="ebend.">39,20</ls>
+<L>41625<pc>4-0377<k1>paYjikA  : <ls>ebend. 176,a,4</ls>
+<L>41634<pc>4-0379<k1>pawat    : <ls>ebend.</ls>
+<L>41641<pc>4-0380<k1>pawara   : <ls>ebend.</ls>
+<L>41670<pc>4-0383<k1>pawumant : <ls>ebend. N. 47</ls>
+<L>41678<pc>4-0383<k1>pawOra   : <ls n="Padapāṭha">padap.</ls>
+<L>41681<pc>4-0385<k1>pawwakila : <ls>ebend. 7,40, N. 29</ls>
+<L>41687<pc>4-0385<k1>pawwaraYjanaka : <ls>ebend.</ls>
+<L>41724<pc>4-0387<k1>paqbISa  : <ls n="Padapāṭha">padap.</ls>
+<L>41746<pc>4-0390<k1>paRin    : <ls>ebend.</ls>
+<L>41788<pc>4-0393<k1>pat      : <ls>ebend.</ls>
+<L>41803<pc>4-0407<k1>pataYjala : <ls>ebend.</ls>
+<L>41804<pc>4-0407<k1>pataYjali : <ls>ebend. No. 974</ls>
+<L>41823<pc>4-0409<k1>patAka   : <ls>ebend. 39,2 v. u.</ls>
+<L>42000<pc>4-0423<k1>pad      : <ls n="Padapāṭha">padap.</ls>
+<L>42000<pc>4-0423<k1>pad      : <ls>ebend.</ls>
+<L>42000<pc>4-0423<k1>pad      : <ls>ebend. 14</ls>
+<L>42000<pc>4-0423<k1>pad      : <ls>ebend. 44,9</ls>
+<L>42000<pc>4-0423<k1>pad      : <ls>ebend.</ls>
+<L>42003<pc>4-0445<k1>pada     : <ls>ebend.</ls>
+<L>42003<pc>4-0445<k1>pada     : <ls>ebend.</ls>
+<L>42003<pc>4-0445<k1>pada     : <ls>ebend. 3,269,6</ls>
+<L>42091<pc>4-0454<k1>padArTamAlAdIpikA : <ls>ebend. No. 692</ls>
+<L>42105<pc>4-0455<k1>padDati  : <ls>ebend.</ls>
+<L>42109<pc>4-0455<k1>padma    : <ls>Bull. de lʼAcad. Imp. des sc. V, 300</ls>
+<L>42125<pc>4-0458<k1>padmagarBa : <ls>Eingang zum ṚV. PRĀT.</ls>
+<L>42146<pc>4-0459<k1>padmabanDa : <ls>ebend. S. 291</ls>
+<L>42193<pc>4-0461<k1>padmAvatI : <ls>ebend.</ls>
+<L>42193<pc>4-0461<k1>padmAvatI : <ls>ebend. 36</ls>
+<L>42207<pc>4-0463<k1>padya    : <ls>ebend. 529. fgg.</ls>
+<L>42307<pc>4-0470<k1>par      : <ls>ebend. 49,18</ls>
+<L>42308<pc>4-0476<k1>par      : <ls n="Padapāṭha">padap.</ls>
+<L>42411<pc>4-0489<k1>paramAtra : <ls>Bull. de lʼAcad. des Sc. de S.-P. 5,306</ls>
+<L>42582<pc>4-0504<k1>parAyaRa : <ls>ebend. 39,3</ls>
+<L>42613<pc>4-0507<k1>parASara : <ls>ebend.</ls>
+<L>42616<pc>4-0508<k1>parASareSvara : <ls>ebend. 66,a,37</ls>
+<L>42616<pc>4-0508<k1>parASareSvara : <ls n="ebend.">67,a,2</ls>
+<L>42637<pc>4-0510<k1>parikampa : <ls>gedr. Ausgabe (p. 27)</ls>
+<L>42709<pc>4-0515<k1>parigraha : <ls>ebend.</ls>
+<L>42794<pc>4-0525<k1>pariRAmin : <ls>ebend. 176</ls>
+<L>43056<pc>4-0542<k1>parirAp  : <ls n="Padapāṭha">padap.</ls>
+<L>43066<pc>4-0543<k1>parivaMSa : <ls>ebend.</ls>
+<L>43187<pc>4-0553<k1>pariSraya : <ls>gedr. Ausg. y. 121</ls>
+<L>43297<pc>4-0560<k1>parihARi : <ls>ed. ST.</ls>
+<L>43299<pc>4-0560<k1>parihAra : <ls>ebend.</ls>
+<L>43304<pc>4-0561<k1>parihAsa : <ls n="ŚĀK 29,">51</ls>
+<L>43406<pc>4-0568<k1>parovarIyaMs : <ls>ebend.</ls>
+<L>43412<pc>4-0568<k1>parc     : <ls>ebend.</ls>
+<L>43539<pc>4-0579<k1>paryAya  : <ls>D. 23,14</ls>
+<L>43685<pc>4-0591<k1>palAy    : <ls n="Padapāṭha">padap.</ls>
+<L>43701<pc>4-0592<k1>palASin  : <ls>Index.</ls>
+<L>43763<pc>4-0597<k1>pavamAna : <ls>ebend.</ls>
+<L>43776<pc>4-0599<k1>pavitraka : <ls>(STENZLER) 250</ls>
+<L>43804<pc>4-0606<k1>paS      : <ls>ebend.</ls>
+<L>43890<pc>4-0613<k1>paScima  : <ls>ebend. 68</ls>
+<L>43972<pc>4-0624<k1>pAkali   : <ls>ebend.</ls>
+<L>44095<pc>4-0631<k1>pAWa     : <ls>ebend.</ls>
+<L>44141<pc>4-0635<k1>pARinIya : <ls>ebend. No. 355</ls>
+<L>44141<pc>4-0635<k1>pARinIya : <ls n="ebend. No.">356</ls>
+<L>44192<pc>4-0638<k1>pARqudukUla : <ls>ebend. 334,1</ls>
+<L>44220<pc>4-0639<k1>pARqya   : <ls>ebend. 14,3</ls>
+<L>44319<pc>4-0650<k1>pAdagfhya : <ls>Th. II, Sp. 835</ls>
+<L>44397<pc>4-0653<k1>pAdasvedana : <ls>ebend.</ls>
+<L>44598<pc>4-0667<k1>pAraga   : <ls>Einl. zum ṚV. PRĀT.</ls>
+<L>44694<pc>4-0674<k1>pArASara : <ls>ebend.</ls>
+<L>44810<pc>4-0681<k1>pArTava  : <ls>Pravarādhy.</ls>
+<L>44827<pc>4-0682<k1>pArvaRa  : <ls>ebend. 40,a,15</ls>
+<L>44840<pc>4-0683<k1>pArSva   : <ls>ebend. 41,6</ls>
+<L>44889<pc>4-0687<k1>pArzikA  : <ls>ebend.</ls>
+<L>44907<pc>4-0689<k1>pAlakAKyA : <ls>ebend.</ls>
+<L>44918<pc>4-0689<k1>pAlanIya : <ls>ebend. 7</ls>
+<L>44920<pc>4-0689<k1>pAlay    : <ls>ebend. 92,a,18</ls>
+<L>45008<pc>4-0699<k1>pAzaRqaka : <ls>ebend.</ls>
+<L>45051<pc>4-0701<k1>piNgala  : <ls>ebend.</ls>
+<L>45052<pc>4-0702<k1>piNgalaka : <ls>ebend.</ls>
+<L>45067<pc>4-0703<k1>picaRqin : <ls>ebend.</ls>
+<L>45068<pc>4-0703<k1>picaRqila : <ls>ebend.</ls>
+<L>45103<pc>4-0705<k1>piYj     : <ls>ebend.</ls>
+<L>45139<pc>4-0708<k1>piRqa    : <ls>ebend.</ls>
+<L>45140<pc>4-0709<k1>piRqaka  : <ls>ebend.</ls>
+<L>45153<pc>4-0710<k1>piRqapAta : <ls>ebend. 306</ls>
+<L>45167<pc>4-0711<k1>piRqamUla : <ls>ebend.</ls>
+<L>45357<pc>4-0725<k1>pipIlaka : <ls>ebend.</ls>
+<L>45366<pc>4-0726<k1>pippalAda : <ls>ebend. 66,a,16</ls>
+<L>45408<pc>4-0729<k1>piSAca   : <ls>ebend.</ls>
+<L>45526<pc>4-0745<k1>pItavipIta : <ls>ebend.</ls>
+<L>45643<pc>4-0751<k1>puka     : <ls>ebend.</ls>
+<L>45696<pc>4-0755<k1>puq      : <ls>ebend.</ls>
+<L>45851<pc>4-0768<k1>punar    : <ls n=" 105,">65</ls>
+<L>45851<pc>4-0768<k1>punar    : <ls n=" 105,">153</ls>
+<L>46024<pc>4-0783<k1>purA     : <ls>ebend.</ls>
+<L>46072<pc>4-0788<k1>purIzavant : <ls>ebend.</ls>
+<L>46178<pc>4-0797<k1>puruzanti : <ls n="Padapāṭha">padap.</ls>
+<L>46199<pc>4-0797<k1>puruzaviDa : <ls>ebend.</ls>
+<L>46201<pc>4-0797<k1>puruzavrata : <ls>ebend.</ls>
+<L>46226<pc>4-0799<k1>puruzottama : <ls>ebend. 49</ls>
+<L>46242<pc>4-0800<k1>purUravas : <ls>Oxford Essays 1856, S. 61. fgg.</ls>
+<L>46244<pc>4-0800<k1>purUruRA : <ls n="Padapāṭha">padap.</ls>
+<L>46254<pc>4-0801<k1>purogava : <ls>ebend.</ls>
+<L>46303<pc>4-0804<k1>puryazwa : <ls>ebend.</ls>
+<L>46308<pc>4-0805<k1>pulaka   : <ls>Carl Graf</ls>
+<L>46308<pc>4-0805<k1>pulaka   : <ls>GÖRTZ, Reise um die Welt III, 552</ls>
+<L>46335<pc>4-0807<k1>puloman  : <ls>ebend. 184,a,24</ls>
+<L>46350<pc>4-0810<k1>puzkara  : <ls>ebend. 73,b,19</ls>
+<L>46354<pc>4-0811<k1>puzkaraparRI : <ls>ebend.</ls>
+<L>46393<pc>4-0815<k1>puzwi    : <ls>ebend. 23,b,4</ls>
+<L>46393<pc>4-0815<k1>puzwi    : <ls n="ebend.">26,a,10</ls>
+<L>46393<pc>4-0815<k1>puzwi    : <ls>ebend. 18,b,24</ls>
+<L>46492<pc>4-0821<k1>puzpavAwI : <ls>ebend.</ls>
+<L>46547<pc>4-0823<k1>puzya    : <ls>Bomb. Ausg.</ls>
+<L>46556<pc>4-0824<k1>puzyABizeka : <ls>ebend.</ls>
+<L>46565<pc>4-0827<k1>pUga     : <ls>ebend.</ls>
+<L>46647<pc>4-0834<k1>pUtudru  : <ls>ebend. 6</ls>
+<L>46755<pc>4-0841<k1>pUrva    : <ls>ebend.</ls>
+<L>46819<pc>4-0848<k1>pUrvapARinIya : <ls>ebend.</ls>
+<L>46965<pc>4-0857<k1>pftanAji : <ls n="Padapāṭha">padap.</ls>
+<L>47021<pc>4-0860<k1>pfTivI   : <ls>ebend.</ls>
+<L>47043<pc>4-0862<k1>pfTu     : <ls>ebend. 377</ls>
+<L>47106<pc>4-0865<k1>pfTvIDara : <ls>ebend. No. 545</ls>
+<L>47212<pc>4-0874<k1>peculI   : <ls>ebend.</ls>
+<L>47285<pc>4-0878<k1>pENgAkzIputra : <ls>ebend.</ls>
+<L>47302<pc>4-0879<k1>pEWInasi : <ls>ebend. 58,24</ls>
+<L>47342<pc>4-0881<k1>pEla     : <ls>ebend. 54,b,3. fg.</ls>
+<L>47372<pc>4-0883<k1>potaka   : <ls>ebend.</ls>
+<L>47422<pc>4-0885<k1>pozya    : <ls>ebend.</ls>
+<L>47423<pc>4-0886<k1>pozyAvant : <ls n="Padapāṭha">padap.</ls>
+<L>47517<pc>4-0891<k1>pOruzeya : <ls>PATAÑJALI</ls>
+<L>47676<pc>4-0904<k1>prakASavant : <ls>ebend.</ls>
+<L>47707<pc>4-0906<k1>prakfti  : <ls>ebend.</ls>
+<L>47735<pc>4-0911<k1>prakriyA : <ls>ebend. No. 381</ls>
+<L>47872<pc>4-0920<k1>pracita  : <ls>ebend.</ls>
+<L>47942<pc>4-0927<k1>prajA    : <ls>ebend.</ls>
+<L>48028<pc>4-0934<k1>praRaya  : <ls>Bomb. Ausg.</ls>
+<L>48106<pc>4-0942<k1>pratAparudra : <ls>ebend. 148,b,7</ls>
+<L>48120<pc>4-0943<k1>prati    : <ls>Bomb. Ausg.</ls>
+<L>48223<pc>4-0952<k1>praticikIrzA : <ls>Chrest. S. 50, Z. 1</ls>
+<L>48315<pc>4-0958<k1>pratinoda : <ls>ebend.</ls>
+<L>48327<pc>4-0958<k1>pratipatti : <ls>Calc.</ls>
+<L>48486<pc>4-0970<k1>pratiyogika : <ls>ebend. 171</ls>
+<L>48506<pc>4-0971<k1>pratirUpa : <ls>ebend.</ls>
+<L>48616<pc>4-0978<k1>pratiSraya : <ls>ebend.</ls>
+<L>48646<pc>4-0980<k1>pratizWA : <ls>ebend. 43,a,2</ls>
+<L>48646<pc>4-0980<k1>pratizWA : <ls>ebend. No. 1226</ls>
+<L>48777<pc>4-0990<k1>pratIpa  : <ls n="Padapāṭha">padap.</ls>
+<L>48822<pc>4-0994<k1>pratyaMSu : <ls>ebend.</ls>
+<L>48832<pc>4-0994<k1>pratyakza : <ls>ebend.</ls>
+<L>48874<pc>4-0998<k1>pratyaNgirA : <ls>Index des KANDJUR No. 590. fg.</ls>
+<L>48881<pc>4-0999<k1>pratyanantara : <ls>Bomb. Ausg.</ls>
+<L>48905<pc>4-1001<k1>pratyaya : <ls>ebend. 6 v. u.</ls>
+<L>49122<pc>4-1016<k1>pradakziRa : <ls>ebend.</ls>
+<L>49125<pc>4-1018<k1>pradakziRapawwikA : <ls>ebend.</ls>
+<L>49201<pc>4-1024<k1>pradyota : <ls>ebend.</ls>
+<L>49223<pc>4-1026<k1>praDAna  : <ls>ebend. 25,b, N. 5</ls>
+<L>49259<pc>4-1029<k1>prapaYcana : <ls>Nachschr. zu M.</ls>
+<L>49401<pc>4-1040<k1>praBAga  : <ls>ebend.</ls>
+<L>49416<pc>4-1041<k1>praBAvatA : <ls>Index zu HALĀY.</ls>
+<L>49427<pc>4-1042<k1>praBAsa  : <ls>ebend. 76,b,2</ls>
+<L>49427<pc>4-1042<k1>praBAsa  : <ls n="ebend.">149,a,18</ls>
+<L>49447<pc>4-1043<k1>praBUvasu : <ls n="Padapāṭha">padap.</ls>
+<L>49463<pc>4-1045<k1>pramaganda : <ls n="Padapāṭha">padap.</ls>
+<L>49525<pc>4-1050<k1>pramAtar : <ls>ebend. (S. 67, Z. 4)</ls>
+<L>49623<pc>4-1058<k1>prayApin : <ls>ebend.</ls>
+<L>49677<pc>4-1063<k1>prarocana : <ls>ebend. 42,b,5</ls>
+<L>49693<pc>4-1064<k1>pralamBa : <ls>ebend.</ls>
+<L>49739<pc>4-1067<k1>pravaRa  : <ls>Bomb. Ausg.</ls>
+<L>49760<pc>4-1069<k1>pravara  : <ls>ebend. 60</ls>
+<L>49803<pc>4-1073<k1>pravahaRa : <ls>Index zu HALĀY.</ls>
+<L>49829<pc>4-1075<k1>pravAsa  : <ls n="Padapāṭha">padap.</ls>
+<L>49829<pc>4-1075<k1>pravAsa  : <ls>Bomb. Ausg.</ls>
+<L>49872<pc>4-1078<k1>pravistara : <ls>ebend. 65,a,22</ls>
+<L>49872<pc>4-1078<k1>pravistara : <ls n="ebend. 65,a,">27</ls>
+<L>49994<pc>4-1088<k1>praSuSruka : <ls>Bomb. Ausg.</ls>
+<L>49998<pc>4-1088<k1>praSna   : <ls>ebend. 41,8</ls>
+<L>49998<pc>4-1088<k1>praSna   : <ls>ebend.</ls>
+<L>50046<pc>4-1092<k1>prasaNgABaraRa : <ls>lithographirte Ausgabe in Bombay</ls>
+<L>50062<pc>4-1093<k1>prasara  : <ls>Med.</ls>
+<L>50063<pc>4-1094<k1>prasaraRa : <ls>Med.</ls>
+<L>50101<pc>4-1097<k1>prasAda  : <ls>ebend. 162,b</ls>
+<L>50340<pc>4-1116<k1>prAkArIya : <ls>ebend.</ls>
+<L>50351<pc>4-1117<k1>prAkftaprakASa : <ls>Cowell</ls>
+<L>50503<pc>4-1125<k1>prAjayA  : <ls>ebend.</ls>
+<L>50504<pc>4-1125<k1>prAjaruhA : <ls>ebend.</ls>
+<L>50504<pc>4-1125<k1>prAjaruhA : <ls>ebend.</ls>
+<L>50580<pc>4-1133<k1>prARabudDi : <ls>Bomb. Ausg. 62,2</ls>
+<L>50608<pc>4-1135<k1>prARasama : <ls>Bomb. Ausg.</ls>
+<L>50608<pc>4-1135<k1>prARasama : <ls>ebend.</ls>
+<L>50617<pc>4-1135<k1>prARAgnihotra : <ls>ebend. 95</ls>
+<L>50719<pc>4-1140<k1>prAtiSAKya : <ls>ebend. 102</ls>
+<L>50797<pc>4-1146<k1>prApti   : <ls n=" 4,1,">7</ls>
+<L>50830<pc>4-1150<k1>prAyaScitta : <ls>ebend. No. 1147</ls>
+<L>50830<pc>4-1150<k1>prAyaScitta : <ls>ebend. No. 1149. fgg.</ls>
+<L>50830<pc>4-1150<k1>prAyaScitta : <ls>ebend. No. 1148</ls>
+<L>50830<pc>4-1150<k1>prAyaScitta : <ls>ebend. No. 1403</ls>
+<L>50839<pc>4-1150<k1>prAyaScittenduSeKara : <ls>lithogr. Bombay, Śaka 1785</ls>
+<L>50844<pc>4-1151<k1>prAyAsa  : <ls n="Padapāṭha">padap.</ls>
+<L>50862<pc>4-1152<k1>prAramBaRa : <ls>ebend.</ls>
+<L>50892<pc>4-1154<k1>prAvaRa  : <ls n="Padapāṭha">padap.</ls>
+<L>51001<pc>4-1160<k1>priya    : <ls>ebend.</ls>
+<L>51107<pc>4-1171<k1>pruzwA   : <ls>ebend.</ls>
+<L>51108<pc>4-1171<k1>pruzva   : <ls>ebend.</ls>
+<L>51115<pc>4-1171<k1>prekzaRIya : <ls>ebend. 14,2011</ls>
+<L>51147<pc>4-1174<k1>pretapakza : <ls>ebend.</ls>
+<L>51181<pc>4-1175<k1>prenvanIya : <ls>ebend.</ls>
+<L>51222<pc>4-1178<k1>prehikardamA : <ls>ebend.</ls>
+<L>51223<pc>4-1178<k1>prehidvitIyA : <ls>ebend.</ls>
+<L>51224<pc>4-1178<k1>prehivARijA : <ls>ebend.</ls>
+<L>51295<pc>4-1182<k1>prOQa    : <ls>ebend.</ls>
+<L>51295<pc>4-1182<k1>prOQa    : <ls>ebend. 7,6, Śl. 15</ls>
+<L>51365<pc>4-1187<k1>plu      : <ls>ebend.</ls>
+<L>51397<pc>4-1195<k1>Pawa     : <ls>ebend.</ls>
+<L>51456<pc>4-1200<k1>Pala     : <ls>ebend.</ls>
+<L>51473<pc>4-1203<k1>PalaGfta : <ls>ebend. 17</ls>
+<L>51592<pc>4-1209<k1>PazAjima : <ls>ebend. 340,a,5</ls>
+<L>51596<pc>4-1209<k1>PARita   : <ls>IBN HAUQAL</ls>
+<L>51596<pc>4-1209<k1>PARita   : <ls>De rebus indicis etc.</ls>
+<L>51596<pc>4-1209<k1>PARita   : <ls>AVIC. ebend. 177, N. 7</ls>
+<L>51597<pc>4-1209<k1>PARwa    : <ls>Index zum HALĀY.</ls>
+<L>51612<pc>4-1210<k1>PAlguna  : <ls>Bomb. Ausg.</ls>
+<L>51659<pc>4-1213<k1>PetkArIya : <ls>ebend.</ls>
 <L>51684.65<pc>4-1219<k1>prataraRa : <ls>KAVITĀMṚTAK.</ls>
-<L>96220<pc>6-1430<k1>vyac     : <ls>ĀRAṆS. 1,6.</ls>
+<L>51693<pc>5-0001<k1>bagadAha : <ls>ebend. 339,b,27</ls>
+<L>51707<pc>5-0004<k1>badaravallI : <ls>ebend.</ls>
+<L>51753<pc>5-0006<k1>banD     : <ls>ebend.</ls>
+<L>51753<pc>5-0006<k1>banD     : <ls>ebend.</ls>
+<L>51753<pc>5-0006<k1>banD     : <ls>ebend.</ls>
+<L>51773<pc>5-0019<k1>banDu    : <ls>ebend.</ls>
+<L>51774<pc>5-0019<k1>banDuka  : <ls>ebend.</ls>
+<L>51792<pc>5-0021<k1>banDya   : <ls>ebend. 272,a,10</ls>
+<L>51809<pc>5-0022<k1>babakARa : <ls>ebend. 339,a,45</ls>
+<L>51818<pc>5-0022<k1>baBru    : <ls>ebend.</ls>
+<L>51851<pc>5-0024<k1>barsa    : <ls>PATAÑJALI</ls>
+<L>51854<pc>5-0025<k1>barh     : <ls>Bomb. Ausg.</ls>
+<L>51861<pc>5-0027<k1>barhaRa  : <ls n="Padapāṭha">padap.</ls>
+<L>51931<pc>5-0034<k1>balavant : <ls>ebend. 23</ls>
+<L>52205<pc>5-0052<k1>bahupatnIka : <ls>ebend.</ls>
+<L>52343<pc>5-0060<k1>bahUdana : <ls>Bomb. Ausg.</ls>
+<L>52467<pc>5-0073<k1>bAlagopAla : <ls>ebend. S. 365,b, No. 87</ls>
+<L>52494<pc>5-0074<k1>bAlaboDinI : <ls>ebend.</ls>
+<L>52494<pc>5-0074<k1>bAlaboDinI : <ls>ebend. 130</ls>
+<L>52560<pc>5-0078<k1>bAvASAstrin : <ls>ebend. 200</ls>
+<L>52580<pc>5-0079<k1>bAhu     : <ls>ebend.</ls>
+<L>52647<pc>5-0083<k1>bAheyaka : <ls>Bomb. Ausg.</ls>
+<L>52709<pc>5-0087<k1>bimba    : <ls>ebend. 163 (XIV, 5)</ls>
+<L>52736<pc>5-0090<k1>bilma    : <ls>ebend.</ls>
+<L>52837<pc>5-0096<k1>bIBartsita : <ls>ed. BURN.</ls>
+<L>52900<pc>5-0099<k1>budDi    : <ls>ebend.</ls>
+<L>52927<pc>5-0102<k1>buD      : <ls>YĀJÑA. 1,299</ls>
+<L>52987<pc>5-0111<k1>bfsI     : <ls>Bomb. Ausg.</ls>
+<L>53005<pc>5-0112<k1>bfhajjAtaka : <ls>ebend.</ls>
+<L>53049<pc>5-0114<k1>bfhatprayoga : <ls>Preface, XIX.</ls>
+<L>53089<pc>5-0116<k1>bfhaddiva : <ls>Ebend. 8</ls>
+<L>53089<pc>5-0116<k1>bfhaddiva : <ls n="Ebend.">9</ls>
+<L>53157<pc>5-0121<k1>bfhaspati : <ls>Nax. II, 281</ls>
+<L>53192<pc>5-0123<k1>bElyAyana : <ls>ebend.</ls>
+<L>53199<pc>5-0123<k1>bElvayata : <ls>ebend.</ls>
+<L>53209<pc>5-0124<k1>boDa     : <ls>ebend. 17</ls>
+<L>53238<pc>5-0126<k1>boDinmanas : <ls n="Padapāṭha">padap.</ls>
+<L>53280<pc>5-0129<k1>brahmakAya : <ls>ebend.</ls>
+<L>53302<pc>5-0130<k1>brahmagiri : <ls>ebend.</ls>
+<L>53305<pc>5-0130<k1>brahmagupta : <ls>ebend.</ls>
+<L>53352<pc>5-0133<k1>brahmatarkastava : <ls>ebend.</ls>
+<L>53364<pc>5-0134<k1>brahmadatta : <ls>ebend. 234 (4)</ls>
+<L>53377<pc>5-0135<k1>brahman  : <ls>ebend.</ls>
+<L>53377<pc>5-0135<k1>brahman  : <ls>ebend.</ls>
+<L>53497<pc>5-0144<k1>brahmavAdin : <ls>ebend. 1,153</ls>
+<L>53534<pc>5-0146<k1>brahmasaMhitA : <ls>ebend.</ls>
+<L>53557<pc>5-0148<k1>brahmasU : <ls>Erklärern zu AK.</ls>
+<L>53637<pc>5-0154<k1>brAhmaRakfteya : <ls>ebend.</ls>
+<L>53742<pc>5-0165<k1>Bakz     : <ls>ebend. 32,2</ls>
+<L>53763<pc>5-0169<k1>Baga     : <ls>ebend.</ls>
+<L>53782<pc>5-0172<k1>Bagapura : <ls>Mém. sur lʼInde 98</ls>
+<L>53808<pc>5-0174<k1>BagavannAmakOmudI : <ls>ebend.</ls>
+<L>53823<pc>5-0175<k1>Bagevita : <ls n="Padapāṭha">padap.</ls>
+<L>53838<pc>5-0175<k1>BaNga    : <ls>ebend.</ls>
+<L>53873<pc>5-0185<k1>BajeraTa : <ls n="Padapāṭha">padap.</ls>
+<L>53888<pc>5-0188<k1>BawaBawamAtftIrTa : <ls>ebend. N. 5</ls>
+<L>53916<pc>5-0189<k1>BawwAcArya : <ls>ebend. 247,a,27</ls>
+<L>53916<pc>5-0189<k1>BawwAcArya : <ls n="ebend.">251,b,9</ls>
+<L>53916<pc>5-0189<k1>BawwAcArya : <ls n="ebend.">265,a,6</ls>
+<L>53941<pc>5-0191<k1>BaRq     : <ls>ebend.</ls>
+<L>53972<pc>5-0193<k1>Badra    : <ls>ebend.</ls>
+<L>53973<pc>5-0195<k1>Badraka  : <ls>ebend. 160 (VI, 13)</ls>
+<L>54069<pc>5-0199<k1>Badrasena : <ls>ebend.</ls>
+<L>54192<pc>5-0214<k1>BarIman  : <ls>ebend.</ls>
+<L>54228<pc>5-0217<k1>Barts    : <ls>ebend. 34,14</ls>
+<L>54228<pc>5-0217<k1>Barts    : <ls n="ebend.">36,5</ls>
+<L>54406<pc>5-0236<k1>BAgajAti : <ls>ebend.</ls>
+<L>54466<pc>5-0241<k1>BAjana   : <ls>ebend.</ls>
+<L>54481<pc>5-0243<k1>BAwwadIpikA : <ls>ebend.</ls>
+<L>54579<pc>5-0250<k1>BAraNgI  : <ls>ebend.</ls>
+<L>54610<pc>5-0253<k1>BAravAh  : <ls>ebend.</ls>
+<L>54685<pc>5-0257<k1>BAllavin : <ls>ebend.</ls>
+<L>54703<pc>5-0261<k1>BAvana   : <ls>Med.</ls>
+<L>54734<pc>5-0263<k1>BAvaSabalA : <ls>ebend.</ls>
+<L>54780<pc>5-0272<k1>BAs      : <ls>ebend.</ls>
+<L>54781<pc>5-0274<k1>BAsa     : <ls>ebend. 354,a,32</ls>
+<L>54813<pc>5-0276<k1>BAstrAyaRa : <ls>ebend.</ls>
+<L>54816<pc>5-0276<k1>BAsmAyanya : <ls>ebend.</ls>
+<L>54926<pc>5-0291<k1>Bizaj    : <ls>ebend. 1,291</ls>
+<L>54938<pc>5-0291<k1>BI       : <ls>ebend.</ls>
+<L>54984<pc>5-0296<k1>BImasena : <ls>ebend.</ls>
+<L>54997<pc>5-0297<k1>BIru     : <ls>ebend. 56,12</ls>
+<L>55050<pc>5-0301<k1>Buj      : <ls>ebend.</ls>
+<L>55050<pc>5-0301<k1>Buj      : <ls>ebend.</ls>
+<L>55091<pc>5-0309<k1>Bujabala : <ls>ebend.</ls>
+<L>55108<pc>5-0310<k1>Bujman   : <ls>ebend. 1,2</ls>
+<L>55166<pc>5-0314<k1>BU       : <ls>ebend.</ls>
+<L>55166<pc>5-0314<k1>BU       : <ls>ebend.</ls>
+<L>55193<pc>5-0334<k1>BUgola   : <ls>ebend. 467</ls>
+<L>55200<pc>5-0334<k1>BUta     : <ls>ebend.</ls>
+<L>55404<pc>5-0348<k1>BUmi     : <ls>ebend.</ls>
+<L>55421<pc>5-0350<k1>BUmija   : <ls>ebend.</ls>
+<L>55458<pc>5-0352<k1>BUmizWa  : <ls>ebend.</ls>
+<L>55489<pc>5-0354<k1>BUyaSas  : <ls>ed. B.</ls>
+<L>55589<pc>5-0360<k1>BUz      : <ls>ebend. 54,56</ls>
+<L>55599<pc>5-0362<k1>BUsaMskAra : <ls>Progr. der Univ. Breslau 1860, S. 12. fgg.</ls>
+<L>55644<pc>5-0367<k1>BfNgariwi : <ls>ebend. 191,a,11</ls>
+<L>55646<pc>5-0367<k1>BfNgavallaBa : <ls>ebend.</ls>
+<L>55704<pc>5-0371<k1>Bfzwimant : <ls>ebend.</ls>
+<L>55721<pc>5-0374<k1>BedaDikkAra : <ls>ebend.</ls>
+<L>55721<pc>5-0374<k1>BedaDikkAra : <ls>ebend.</ls>
+<L>55758<pc>5-0377<k1>BEkza    : <ls>ebend.</ls>
+<L>55804<pc>5-0381<k1>Boga     : <ls>ebend.</ls>
+<L>55847<pc>5-0385<k1>Bogya    : <ls>Bomb. Ausg.</ls>
+<L>55851<pc>5-0386<k1>Boja     : <ls>ebend.</ls>
+<L>55851<pc>5-0386<k1>Boja     : <ls>Anm. S. 398</ls>
+<L>55907<pc>5-0392<k1>BOji     : <ls>ebend.</ls>
+<L>55931<pc>5-0394<k1>BOliki   : <ls>ebend.</ls>
+<L>55961<pc>5-0403<k1>Brama    : <ls n="AṢṬĀV 18,">70</ls>
+<L>55975<pc>5-0405<k1>Bramaravilasita : <ls>ebend.</ls>
+<L>56001<pc>5-0407<k1>BrAja    : <ls>ebend.</ls>
+<L>56045<pc>5-0410<k1>BrAntimant : <ls>ebend.</ls>
+<L>56103<pc>5-0415<k1>ma       : <ls>ebend.</ls>
+<L>56104<pc>5-0415<k1>maMh     : <ls n="Padapāṭha">padap.</ls>
+<L>56126<pc>5-0418<k1>makaranda : <ls>ebend.</ls>
+<L>56148<pc>5-0419<k1>makuARa  : <ls>ebend. 3</ls>
+<L>56207<pc>5-0423<k1>maGa     : <ls>Nax. 371</ls>
+<L>56207<pc>5-0423<k1>maGa     : <ls n="Nax.">385</ls>
+<L>56225<pc>5-0424<k1>maNktar  : <ls>ebend.</ls>
+<L>56235<pc>5-0425<k1>maNgala  : <ls>ebend.</ls>
+<L>56235<pc>5-0425<k1>maNgala  : <ls>ebend.</ls>
+<L>56300<pc>5-0430<k1>majj     : <ls n="Kārikā">Kār. 2</ls>
+<L>56318<pc>5-0434<k1>majji    : <ls>ebend.</ls>
+<L>56324<pc>5-0434<k1>maYc     : <ls>ebend. 6,13</ls>
+<L>56324<pc>5-0434<k1>maYc     : <ls>ebend. 7,15</ls>
+<L>56428<pc>5-0442<k1>maRiDanu : <ls>ebend. N. 73</ls>
+<L>56433<pc>5-0443<k1>maRiparvata : <ls>ed. LANGL. I, 518</ls>
+<L>56433<pc>5-0443<k1>maRiparvata : <ls n="ed. LANGL. I,">526</ls>
+<L>56518<pc>5-0448<k1>maRqala  : <ls>ebend. 7,37</ls>
+<L>56518<pc>5-0448<k1>maRqala  : <ls>ebend. 3,254</ls>
+<L>56562<pc>5-0453<k1>mataNga  : <ls>ebend.</ls>
+<L>56591<pc>5-0456<k1>mativarDana : <ls>ebend. 114,a, No. 177</ls>
+<L>56682<pc>5-0462<k1>maT      : <ls>ed. B.</ls>
+<L>56682<pc>5-0462<k1>maT      : <ls>ebend.</ls>
+<L>56705<pc>5-0467<k1>mad      : <ls>ebend.</ls>
+<L>56705<pc>5-0467<k1>mad      : <ls>ebend.</ls>
+<L>56707<pc>5-0471<k1>mada     : <ls>ebend. 6</ls>
+<L>56707<pc>5-0471<k1>mada     : <ls>ebend.</ls>
+<L>56724<pc>5-0473<k1>madana   : <ls>ebend.</ls>
+<L>56753<pc>5-0475<k1>madanalalitA : <ls>ebend.</ls>
+<L>56803<pc>5-0477<k1>madAGa   : <ls>ebend.</ls>
+<L>56864<pc>5-0481<k1>madraka  : <ls>ebend.</ls>
+<L>56875<pc>5-0482<k1>madrArma : <ls>ebend.</ls>
+<L>56925<pc>5-0487<k1>maDujamBa : <ls>ebend.</ls>
+<L>57014<pc>5-0491<k1>maDura   : <ls>ebend. 52,21</ls>
+<L>57102<pc>5-0496<k1>maDusyanda : <ls>ed. SCHL. 1,57,3</ls>
+<L>57209<pc>5-0507<k1>maDyAyu  : <ls n="Padapāṭha">padap.</ls>
+<L>57233<pc>5-0508<k1>maDvamuKamardana : <ls>ebend.</ls>
+<L>57252<pc>5-0508<k1>man      : <ls n="P 2,">3,67</ls>
+<L>57252<pc>5-0508<k1>man      : <ls>Bomb.</ls>
+<L>57271<pc>5-0518<k1>manas    : <ls n=" 6,">36</ls>
+<L>57466<pc>5-0537<k1>mantra   : <ls>ebend. 33,13</ls>
+<L>57481<pc>5-0538<k1>mantraRa : <ls>ebend.</ls>
+<L>57513<pc>5-0540<k1>mantray  : <ls>ed. SCHL.</ls>
+<L>57513<pc>5-0540<k1>mantray  : <ls>ed. GORR.</ls>
+<L>57513<pc>5-0540<k1>mantray  : <ls>ed. SCHL.</ls>
+<L>57588<pc>5-0548<k1>manda    : <ls>ed. JOHNS. 990</ls>
+<L>57659<pc>5-0554<k1>mandin   : <ls>ebend. 2</ls>
+<L>57669<pc>5-0555<k1>mandu    : <ls n="Padapāṭha">padap.</ls>
+<L>57671<pc>5-0555<k1>mandeha  : <ls>S. 199 bei WILSON</ls>
+<L>57682<pc>5-0556<k1>manmaTa  : <ls>ebend. 19,9</ls>
+<L>57690<pc>5-0557<k1>manmana  : <ls>ebend.</ls>
+<L>57712<pc>5-0559<k1>mapazwa  : <ls>Text.</ls>
+<L>57723<pc>5-0560<k1>mamATa   : <ls>ebend.</ls>
+<L>57748<pc>5-0562<k1>mayUKamAlA : <ls>ebend.</ls>
+<L>57837<pc>5-0569<k1>marut    : <ls>ebend.</ls>
+<L>57897<pc>5-0573<k1>maruvaka : <ls>ebend.</ls>
+<L>57924<pc>5-0575<k1>marj     : <ls>ebend.</ls>
+<L>57924<pc>5-0575<k1>marj     : <ls n="Padapāṭha">padap.</ls>
+<L>57924<pc>5-0575<k1>marj     : <ls>ed. SCHL.</ls>
+<L>58038<pc>5-0597<k1>malamallaka : <ls>ebend. N. 3</ls>
+<L>58039<pc>5-0597<k1>malamAsa : <ls>Nax. 2,284</ls>
+<L>58039<pc>5-0597<k1>malamAsa : <ls n="Nax. 2,">336</ls>
+<L>58094<pc>5-0600<k1>malimluca : <ls>Nax. 2,350</ls>
+<L>58123<pc>5-0603<k1>mallAra  : <ls>ebend.</ls>
+<L>58172<pc>5-0605<k1>mazurARa : <ls>ebend. 339,a,12</ls>
+<L>58332<pc>5-0620<k1>mahAkASa : <ls>ebend.</ls>
+<L>58583<pc>5-0633<k1>mahAnIla : <ls>ebend.</ls>
+<L>58719<pc>5-0640<k1>mahABAgya : <ls>ebend.</ls>
+<L>58841<pc>5-0647<k1>mahAyAna : <ls>ebend.</ls>
+<L>58841<pc>5-0647<k1>mahAyAna : <ls>ebend. 51</ls>
+<L>58841<pc>5-0647<k1>mahAyAna : <ls>ebend. 304</ls>
+<L>58877<pc>5-0650<k1>mahArAja : <ls>ebend. 37,1</ls>
+<L>58950<pc>5-0654<k1>mahAvAkya : <ls>ebend.</ls>
+<L>58987<pc>5-0656<k1>mahAvIrya : <ls>ebend.</ls>
+<L>59084<pc>5-0661<k1>mahASveta : <ls>ebend.</ls>
+<L>59236<pc>5-0670<k1>mahizAkza : <ls>ebend.</ls>
+<L>59286<pc>5-0672<k1>mahIy    : <ls>ebend.</ls>
+<L>59390<pc>5-0679<k1>mA       : <ls>ebend. 36,5</ls>
+<L>59394<pc>5-0687<k1>mA       : <ls>ebend.</ls>
+<L>59397<pc>5-0687<k1>mAMScatu : <ls n="Padapāṭha">padap.</ls>
+<L>59430<pc>5-0689<k1>mAMsarohiRI : <ls>ebend.</ls>
+<L>59539<pc>5-0695<k1>mAqqukika : <ls>ebend.</ls>
+<L>59543<pc>5-0695<k1>mARaka   : <ls>ebend.</ls>
+<L>59585<pc>5-0698<k1>mARqUkeya : <ls>ebend.</ls>
+<L>59597<pc>5-0699<k1>mAtar    : <ls>Nax. 2,392</ls>
+<L>59597<pc>5-0699<k1>mAtar    : <ls>ebend.</ls>
+<L>59636<pc>5-0705<k1>mAtfkAhfdaya : <ls>ebend. 108,b,25</ls>
+<L>59761<pc>5-0716<k1>mADavAnala : <ls>ebend.</ls>
+<L>59766<pc>5-0716<k1>mADavendrapurI : <ls>ebend.</ls>
+<L>59782<pc>5-0717<k1>mADUkara : <ls>ebend. N. 1</ls>
+<L>59814<pc>5-0721<k1>mAna     : <ls>ebend. 11</ls>
+<L>59838<pc>5-0722<k1>mAnayitar : <ls>ebend.</ls>
+<L>59880<pc>5-0726<k1>mAnasTalI : <ls>ebend.</ls>
+<L>59988<pc>5-0735<k1>mAyika   : <ls>ebend.</ls>
+<L>59990<pc>5-0735<k1>mAyin    : <ls>ebend.</ls>
+<L>59992<pc>5-0736<k1>mAyu     : <ls n="Padapāṭha">padap.</ls>
+<L>60059<pc>5-0741<k1>mArga    : <ls>ebend.</ls>
+<L>60200<pc>5-0753<k1>mAlAlikA : <ls>ebend.</ls>
+<L>60285<pc>5-0759<k1>mAsika   : <ls>ebend.</ls>
+<L>60289<pc>5-0760<k1>mAsUra   : <ls>ebend.</ls>
+<L>60294<pc>5-0760<k1>mAhakasTalI : <ls>ebend.</ls>
+<L>60334<pc>5-0762<k1>mAhizaka : <ls>Bomb. Ausg.</ls>
+<L>60335<pc>5-0762<k1>mAhizasTalI : <ls>ebend.</ls>
+<L>60351<pc>5-0763<k1>mAheSvara : <ls>ebend.</ls>
+<L>60389<pc>5-0769<k1>miti     : <ls>ebend.</ls>
+<L>60463<pc>5-0774<k1>mitrAyu  : <ls n="Padapāṭha">padap.</ls>
+<L>60473<pc>5-0774<k1>mitreru  : <ls n="Padapāṭha">padap.</ls>
+<L>60477<pc>5-0775<k1>miT      : <ls>ebend.</ls>
+<L>60485<pc>5-0776<k1>miTu     : <ls n="Padapāṭha">padap.</ls>
+<L>60486<pc>5-0776<k1>miTuna   : <ls>ebend.</ls>
+<L>60501<pc>5-0778<k1>miTyA    : <ls>ebend.</ls>
+<L>60544<pc>5-0781<k1>miD      : <ls>ebend.</ls>
+<L>60615<pc>5-0789<k1>misaru   : <ls>ebend. 339,a,6</ls>
+<L>60616<pc>5-0789<k1>misarUmiSra : <ls>ebend. 296,a, No. 718</ls>
+<L>60655<pc>5-0792<k1>mImAMsaka : <ls>ebend. 1,23,16</ls>
+<L>60663<pc>5-0795<k1>mIlana   : <ls>D. 178</ls>
+<L>60675<pc>5-0796<k1>mukAriRA : <ls>ebend.</ls>
+<L>60852<pc>5-0808<k1>muKotkIrRa : <ls>ed. TR. 382</ls>
+<L>60865<pc>5-0809<k1>mugademu : <ls>ebend. 339,b,34</ls>
+<L>60866<pc>5-0809<k1>mugasTAna : <ls>ebend. 340,a,10</ls>
+<L>60882<pc>5-0810<k1>muNgawa  : <ls>ebend. 8,1092</ls>
+<L>60883<pc>5-0810<k1>muc      : <ls>ebend.</ls>
+<L>60961<pc>5-0824<k1>muTaSila : <ls>ebend.</ls>
+<L>60962<pc>5-0824<k1>mud      : <ls>ebend.</ls>
+<L>60962<pc>5-0824<k1>mud      : <ls>Bomb.</ls>
+<L>60985<pc>5-0828<k1>mudgala  : <ls>ebend. 1,105</ls>
+<L>61183<pc>5-0847<k1>muhUrtadIpikA : <ls>ebend. 279,a,17</ls>
+<L>61184<pc>5-0847<k1>muhUrtamArtaRqa : <ls>ebend. 335,a, No. 787</ls>
+<L>61184<pc>5-0847<k1>muhUrtamArtaRqa : <ls n="ebend.">336,a, No. 790</ls>
+<L>61262<pc>5-0851<k1>mUrC     : <ls>ed. JOHNS. 2622</ls>
+<L>61302<pc>5-0858<k1>mUrDAvasikta : <ls>ebend.</ls>
+<L>61308<pc>5-0859<k1>mUla     : <ls>Nax. 1,310</ls>
+<L>61308<pc>5-0859<k1>mUla     : <ls n="Nax.">2,300</ls>
+<L>61308<pc>5-0859<k1>mUla     : <ls n="Nax. 2,">303</ls>
+<L>61308<pc>5-0859<k1>mUla     : <ls n="Nax. 2,">374</ls>
+<L>61308<pc>5-0859<k1>mUla     : <ls n="Nax. 2,">389</ls>
+<L>61437<pc>5-0868<k1>mfkza    : <ls>ebend.</ls>
+<L>61630<pc>5-0880<k1>mftahArin : <ls>ebend. 28</ls>
+<L>61657<pc>5-0882<k1>mftyujit : <ls>ebend.</ls>
+<L>61706<pc>5-0885<k1>mfdu     : <ls>Nax. 2,384. fg.</ls>
+<L>61796<pc>5-0891<k1>meKalin  : <ls>ebend.</ls>
+<L>61878<pc>5-0895<k1>meGasvara : <ls>ebend.</ls>
+<L>61929<pc>5-0897<k1>meTinI   : <ls>ebend.</ls>
+<L>61958<pc>5-0899<k1>medovatI : <ls>ebend.</ls>
+<L>61963<pc>5-0900<k1>meDapati : <ls>ebend.</ls>
+<L>62083<pc>5-0909<k1>mehanAvant : <ls n="Padapāṭha">padap.</ls>
+<L>62099<pc>5-0911<k1>mEtrAyaRIya : <ls>Einl. zu NIR. XXIII.</ls>
+<L>62118<pc>5-0912<k1>mETilaSrIdatta : <ls>ebend.</ls>
+<L>62142<pc>5-0914<k1>mEreya   : <ls>ebend.</ls>
+<L>62191<pc>5-0918<k1>mocasrAva : <ls>ebend.</ls>
+<L>62201<pc>5-0919<k1>mowanaka : <ls>ebend.</ls>
+<L>62211<pc>5-0919<k1>modaka   : <ls>Bomb. Ausg.</ls>
+<L>62226<pc>5-0920<k1>modin    : <ls>ebend.</ls>
+<L>62277<pc>5-0924<k1>mOKara   : <ls>ebend. 53</ls>
+<L>62316<pc>5-0926<k1>mOna     : <ls>ebend. 49,10</ls>
+<L>62338<pc>5-0928<k1>mOla     : <ls>ebend. 25</ls>
+<L>62361<pc>5-0930<k1>myakz    : <ls n="Padapāṭha">padap.</ls>
+<L>62861<pc>5-0958<k1>aYjana   : <ls>Th. 3, S. 357</ls>
+<L>63017<pc>5-0964<k1>atiSaya  : <ls>ebend.</ls>
+<L>63158<pc>5-0969<k1>advEtamakaranda : <ls>ebend.</ls>
+<L>63189<pc>5-0971<k1>aDikaraRaratnamAlA : <ls>ebend. 252,a,14</ls>
+<L>63229<pc>5-0972<k1>aDimAsaka : <ls>Nax. 2,336</ls>
+<L>63230<pc>5-0972<k1>aDimukti : <ls>Kow. Mong. Wört. 1136</ls>
+<L>63293<pc>5-0975<k1>aDyakza  : <ls>ebend.</ls>
+<L>63305<pc>5-0976<k1>aDyAtmacintAmaRi : <ls>ebend.</ls>
+<L>63340<pc>5-0977<k1>aDveSa   : <ls>ebend. 26</ls>
+<L>63340<pc>5-0977<k1>aDveSa   : <ls n="ebend.">57</ls>
+<L>63340<pc>5-0977<k1>aDveSa   : <ls n="ebend.">76</ls>
+<L>63340<pc>5-0977<k1>aDveSa   : <ls n="ebend.">83</ls>
+<L>63340<pc>5-0977<k1>aDveSa   : <ls n="ebend.">138</ls>
+<L>63482<pc>5-0982<k1>anAvaraRa : <ls>ebend.</ls>
+<L>63644<pc>5-0988<k1>anupradAna : <ls>ebend. 5,163</ls>
+<L>63680<pc>5-0989<k1>anumAnacintAmaRi : <ls>ebend.</ls>
+<L>63690<pc>5-0990<k1>anumitiparAmarSakAryakAraRaBAvavicAra : <ls>ebend.</ls>
+<L>63757<pc>5-0992<k1>anuzaNga : <ls>Th. III, S. 366</ls>
+<L>63757<pc>5-0992<k1>anuzaNga : <ls>Addenda et Corrigenda</ls>
+<L>63792<pc>5-0994<k1>anuhlAda : <ls>Bomb. Ausg.</ls>
+<L>63816<pc>5-0994<k1>anfRatA  : <ls>Bomb. Ausg.</ls>
+<L>63831<pc>5-0995<k1>anekArTasamuccaya : <ls>ebend. 182,a,16</ls>
+<L>63846<pc>5-0995<k1>antaHkaraRapraboDa : <ls>ebend.</ls>
+<L>63879<pc>5-0997<k1>antarikza : <ls>ebend.</ls>
+<L>63896<pc>5-0997<k1>antaryAga : <ls>ebend. 102,a,29</ls>
+<L>64021<pc>5-1002<k1>anvAroha : <ls>ebend.</ls>
+<L>64059<pc>5-1004<k1>apaciti  : <ls>Th. III, S. 400</ls>
+<L>64131<pc>5-1007<k1>aparAnta : <ls>ebend.</ls>
+<L>64132<pc>5-1007<k1>aparAntaka : <ls>ebend.</ls>
+<L>64242<pc>5-1012<k1>apASraya : <ls>ebend. 12,7,9</ls>
+<L>64242<pc>5-1012<k1>apASraya : <ls n="ebend. 12,7,">19</ls>
+<L>64364<pc>5-1016<k1>abDi     : <ls>Nax. 2,382</ls>
+<L>64372<pc>5-1016<k1>aBaya    : <ls>KANDJUR 3,57</ls>
+<L>64468<pc>5-1020<k1>aBiniveSa : <ls>ebend. 9</ls>
+<L>64507<pc>5-1022<k1>aBimAtizAhya : <ls n="Padapāṭha">padap.</ls>
+<L>64562<pc>5-1024<k1>aBiSaNkin : <ls n="MBH 3,">1166</ls>
+<L>64837<pc>5-1034<k1>amoGapASa : <ls>KANDJUR 2,205. fgg.</ls>
+<L>64898<pc>5-1036<k1>aya      : <ls>ebend.</ls>
+<L>64944<pc>5-1038<k1>ayogavAha : <ls>ebend. 8,212</ls>
+<L>64948<pc>5-1038<k1>ayonijatIrTa : <ls>ebend. 21</ls>
+<L>64979<pc>5-1039<k1>arasIWakkura : <ls>Index.</ls>
+<L>64987<pc>5-1039<k1>ari      : <ls>Bomb. Ausg.</ls>
+<L>65041<pc>5-1042<k1>arkapuzpa : <ls>ebend.</ls>
+<L>65106<pc>5-1045<k1>arTajYa  : <ls>ebend.</ls>
+<L>65118<pc>5-1046<k1>arTapati : <ls>ebend. III, 89</ls>
+<L>65126<pc>5-1046<k1>arTay    : <ls>ebend.</ls>
+<L>65141<pc>5-1047<k1>arTasidDi : <ls>ebend. 99,a,10</ls>
+<L>65163<pc>5-1049<k1>arDa     : <ls>ebend. 39,36</ls>
+<L>65252<pc>5-1053<k1>alaMkAramAlA : <ls>ebend. 387,a, No. 512</ls>
+<L>65255<pc>5-1053<k1>alaMkAravftti : <ls>ebend. 207,b, No. 488</ls>
+<L>65258<pc>5-1053<k1>alaMkArasarvasva : <ls>ebend. 113,b,11</ls>
+<L>65258<pc>5-1053<k1>alaMkArasarvasva : <ls n="ebend.">126,a,10</ls>
+<L>65258<pc>5-1053<k1>alaMkArasarvasva : <ls n="ebend.">210,a, No. 495</ls>
+<L>65259<pc>5-1053<k1>alaMkArAvatAra : <ls>ebend. 246,b, No. 622</ls>
+<L>65268<pc>5-1053<k1>alapallava : <ls>ebend. 202,a,5</ls>
+<L>65299<pc>5-1055<k1>alolutva : <ls>Bomb. Ausg. von 1863</ls>
+<L>65504<pc>5-1062<k1>avalambana : <ls>ed. JOHNS. 2094</ls>
+<L>65550<pc>5-1064<k1>avasAnikA : <ls>Bomb. Ausg.</ls>
+<L>65732<pc>5-1072<k1>aSru     : <ls>ebend.</ls>
+<L>65749<pc>5-1072<k1>aSvatara : <ls>VIMALABODHA</ls>
+<L>65776<pc>5-1073<k1>aSvin    : <ls>ebend.</ls>
+<L>65776<pc>5-1073<k1>aSvin    : <ls>Nax.</ls>
+<L>65812<pc>5-1075<k1>azwAvakra : <ls>ebend.</ls>
+<L>65822<pc>5-1076<k1>azwrAvin : <ls n="Padapāṭha">padap.</ls>
+<L>65866<pc>5-1079<k1>asamaYjasam : <ls>neuere Ausg. 95,12</ls>
+<L>65884<pc>5-1079<k1>asAlatiprakASa : <ls>ebend. 193,b, No. 444</ls>
+<L>66017<pc>5-1084<k1>ahidEvata : <ls>ebend. 10,2</ls>
+<L>66018<pc>5-1084<k1>ahimakiraRa : <ls>ebend. 3,34</ls>
+<L>66138<pc>5-1090<k1>Aga      : <ls>ebend.</ls>
+<L>66204<pc>5-1093<k1>AcArapradIpa : <ls>ebend.</ls>
+<L>66205<pc>5-1093<k1>AcAramADavIya : <ls>ebend. 291,b,7 v. u.</ls>
+<L>66261<pc>5-1095<k1>Aqambara : <ls>Index.</ls>
+<L>66296<pc>5-1097<k1>AtmajYAna : <ls>ebend.</ls>
+<L>66430<pc>5-1102<k1>ADAnapadDati : <ls>ebend. 358,a, No. 853</ls>
+<L>66486<pc>5-1105<k1>AnandalaharI : <ls>ebend. 127,a, No. 226</ls>
+<L>66525<pc>5-1106<k1>AnUpa    : <ls>ebend. 16</ls>
+<L>66531<pc>5-1106<k1>AntaHpuritaka : <ls>ebend. 216,a,2</ls>
+<L>66643<pc>5-1111<k1>ABISava  : <ls>ebend.</ls>
+<L>66645<pc>5-1111<k1>ABoga    : <ls>ebend.</ls>
+<L>66695<pc>5-1113<k1>Ayatana  : <ls>Med.</ls>
+<L>66751<pc>5-1116<k1>AraRya   : <ls>Adhyātmar.</ls>
+<L>66823<pc>5-1119<k1>Ardra    : <ls>Nax. 1,310</ls>
+<L>66823<pc>5-1119<k1>Ardra    : <ls n="Nax.">2,300</ls>
+<L>66823<pc>5-1119<k1>Ardra    : <ls n="Nax. 2,">303</ls>
+<L>66823<pc>5-1119<k1>Ardra    : <ls n="Nax. 2,">315</ls>
+<L>66836<pc>5-1119<k1>AryaBawIya : <ls>Pref. zu VARĀH. BṚH. S. 58</ls>
+<L>66837<pc>5-1119<k1>AryaBawwa : <ls>Pref. zu VARĀH. BṚH. S. 55. fgg.</ls>
+<L>66845<pc>5-1120<k1>AryasidDAnta : <ls>Pref. zu VARĀH. BṚH. S. 58</ls>
+<L>66851<pc>5-1120<k1>AryAzwaSata : <ls>Pref. zu VARĀH. BṚH. S. 58</ls>
+<L>66932<pc>5-1123<k1>AvasaTyADAna : <ls>ebend. 377,b, No. 375</ls>
+<L>66954<pc>5-1125<k1>Avftti   : <ls>ebend. 19,13</ls>
+<L>67041<pc>5-1128<k1>AzwAdaMzwra : <ls>ebend.</ls>
+<L>67058<pc>5-1130<k1>Asita    : <ls>ebend.</ls>
+<L>67103<pc>5-1132<k1>AsvAdya  : <ls>ebend.</ls>
+<L>67140<pc>5-1134<k1>i        : <ls>edd. Bomb. und GORR. (2,67,22)</ls>
+<L>67216<pc>5-1141<k1>indu     : <ls>Nax. 2,382</ls>
+<L>67278<pc>5-1143<k1>indrasAman : <ls>ebend.</ls>
+<L>67285<pc>5-1143<k1>indrARI  : <ls>ebend.</ls>
+<L>67287<pc>5-1143<k1>indrAyuDa : <ls>Index.</ls>
+<L>67356<pc>5-1146<k1>izwikA   : <ls>Bomb. Ausg.</ls>
+<L>67363<pc>5-1146<k1>isaPahARa : <ls>ebend. 338,b,41</ls>
+<L>67364<pc>5-1146<k1>isirakAra : <ls>ebend. 339,a,5</ls>
+<L>67365<pc>5-1146<k1>isPIva   : <ls>ebend. 338,b,44</ls>
+<L>67386<pc>5-1149<k1>IdfS     : <ls>MAX MÜLLERʼs Grammatik § 275</ls>
+<L>67399<pc>5-1150<k1>IryA     : <ls>S. 81,19</ls>
+<L>67399<pc>5-1150<k1>IryA     : <ls n="S. 81,">26</ls>
+<L>67475<pc>5-1154<k1>ugra     : <ls>Nax. 2,385</ls>
+<L>67530<pc>5-1156<k1>uC       : <ls>PURUṢAKĀRA.</ls>
+<L>67534<pc>5-1156<k1>ujjUwa   : <ls>ed. TROYER.</ls>
+<L>67535<pc>5-1156<k1>ujjUwita : <ls>ed. TROYER.</ls>
+<L>67552<pc>5-1157<k1>uqiyAna  : <ls>ebend.</ls>
+<L>67569<pc>5-1158<k1>uterijA  : <ls>ebend. 338,b,1 v. u.</ls>
+<L>67693<pc>5-1164<k1>utTAna   : <ls>Med.</ls>
+<L>67709<pc>5-1165<k1>utpala   : <ls>Pref. zu VARĀH. BṚH. S. 6. fg.</ls>
+<L>67709<pc>5-1165<k1>utpala   : <ls n="Pref. zu VARĀH. BṚH. S.">61. fg.</ls>
+<L>67742<pc>5-1166<k1>utprekzA : <ls>ebend.</ls>
+<L>67809<pc>5-1169<k1>udagayana : <ls>Nax. 2,301</ls>
+<L>67809<pc>5-1169<k1>udagayana : <ls n="Nax. 2,">312</ls>
+<L>67830<pc>5-1170<k1>udaya    : <ls>Nax. 2,287</ls>
+<L>67869<pc>5-1172<k1>udAtta   : <ls>ed. BALLANT. 189,5</ls>
+<L>67920<pc>5-1174<k1>udgrAha  : <ls>ebend.</ls>
+<L>68012<pc>5-1179<k1>udvaMSIya : <ls>ebend.</ls>
+<L>68152<pc>5-1185<k1>upaciti  : <ls>Thl. 3, S. 400</ls>
+<L>68200<pc>5-1186<k1>upadeSAmfta : <ls>ebend. 1,167</ls>
+<L>68260<pc>5-1189<k1>upabarhiRa : <ls>ed. BURN.</ls>
+<L>68329<pc>5-1192<k1>upalepana : <ls>Breslauer Programm 1860, S. 13</ls>
+<L>68334<pc>5-1192<k1>upavastavya : <ls>ebend. 50</ls>
+<L>68396<pc>5-1195<k1>upastamBa : <ls>ed. JOHNS.</ls>
+<L>68397<pc>5-1195<k1>upastamBaka : <ls>ed. WILS.</ls>
+<L>68523<pc>5-1201<k1>uBayAlaMkriyA : <ls>ebend. 208,b,13</ls>
+<L>68551<pc>5-1202<k1>urImARa  : <ls>ebend. 339,b,20</ls>
+<L>68609<pc>5-1204<k1>ulleKana : <ls>Breslauer Programm 1860, S. 13</ls>
+<L>68728<pc>5-1209<k1>UrDvAmnAya : <ls>ebend.</ls>
+<L>68801<pc>5-1213<k1>ftu      : <ls>Nax. 2,341</ls>
+<L>68801<pc>5-1213<k1>ftu      : <ls n="Nax. 2,">351</ls>
+<L>68894<pc>5-1217<k1>ekarUpa  : <ls>ebend. 377</ls>
+<L>68972<pc>5-1220<k1>ekoddizwa : <ls>ebend.</ls>
+<L>69014<pc>5-1222<k1>evayAmarut : <ls>ebend.</ls>
+<L>69039<pc>5-1223<k1>EqakOtsa : <ls>ebend.</ls>
+<L>69040<pc>5-1223<k1>EqakrOYca : <ls>ebend.</ls>
+<L>69041<pc>5-1223<k1>EqayAma  : <ls>ebend.</ls>
+<L>69042<pc>5-1223<k1>EqavAsizWa : <ls>ebend.</ls>
+<L>69045<pc>5-1223<k1>EqasEnDukzita : <ls>ebend.</ls>
+<L>69046<pc>5-1223<k1>EqasOparRa : <ls>ebend.</ls>
+<L>69057<pc>5-1223<k1>EDmavAha : <ls>ebend.</ls>
+<L>69058<pc>5-1223<k1>EDmahAra : <ls>ebend.</ls>
+<L>69060<pc>5-1223<k1>Endava   : <ls>Nax. 2,287</ls>
+<L>69061<pc>5-1223<k1>Endra    : <ls>ebend.</ls>
+<L>69087<pc>5-1224<k1>ErDasadmana : <ls>ebend.</ls>
+<L>69099<pc>5-1225<k1>Ezira    : <ls>ebend. 235,a</ls>
+<L>69128<pc>5-1226<k1>oqISadeSa : <ls>ebend.</ls>
+<L>69138<pc>5-1226<k1>ovIlI    : <ls>ebend.</ls>
+<L>69154<pc>5-1228<k1>OkzRoranDra : <ls>ebend. 3,211,b. 212,a</ls>
+<L>69237<pc>5-1230<k1>OrRAyava : <ls>ebend.</ls>
+<L>69288<pc>5-1233<k1>kakvalla : <ls>Index.</ls>
+<L>69289<pc>5-1233<k1>kakza    : <ls>ebend. 902</ls>
+<L>69295<pc>5-1233<k1>kakzIkartavya : <ls>ebend. 5,7</ls>
+<L>69296<pc>5-1233<k1>kakzIkAra : <ls>ebend. 61,11</ls>
+<L>69301<pc>5-1234<k1>kaNkawa  : <ls>ebend. S. 42 (41)</ls>
+<L>69319<pc>5-1234<k1>kaca     : <ls>Index.</ls>
+<L>69469<pc>5-1240<k1>kaRvaraTaMtara : <ls>ebend.</ls>
+<L>69471<pc>5-1240<k1>kataka   : <ls>ed. SCHL. I, XXXI.</ls>
+<L>69515<pc>5-1242<k1>kadala   : <ls>ebend.</ls>
+<L>69569<pc>5-1244<k1>kanTaqi  : <ls>ebend.</ls>
+<L>69624<pc>5-1247<k1>kapitTa  : <ls>ebend.</ls>
+<L>69709<pc>5-1250<k1>kamuYjA  : <ls>ebend.</ls>
+<L>69710<pc>5-1250<k1>kamp     : <ls>ebend. 28</ls>
+<L>69714<pc>5-1250<k1>kampila  : <ls>ebend. 325</ls>
+<L>69747<pc>5-1254<k1>karaRa   : <ls>Pref. zu VARĀH. BṚH. S. 24</ls>
+<L>69785<pc>5-1255<k1>karaSIkara : <ls>ebend. Ind.</ls>
+<L>69879<pc>5-1259<k1>kart     : <ls>ebend.</ls>
+<L>69884<pc>5-1259<k1>kartaryAsya : <ls>ebend. 202,a,2</ls>
+<L>69962<pc>5-1263<k1>karzU    : <ls>ebend.</ls>
+<L>70112<pc>5-1271<k1>kallinArTa : <ls>ebend. 72,b,11</ls>
+<L>70440<pc>5-1285<k1>kArakavyUha : <ls>ebend.</ls>
+<L>70539<pc>5-1289<k1>kAlajYAna : <ls>Nax. 2,354. fg.</ls>
+<L>70573<pc>5-1290<k1>kAlaviveka : <ls>ebend. 278,a,4</ls>
+<L>70573<pc>5-1290<k1>kAlaviveka : <ls n="ebend.">286,a,5</ls>
+<L>70573<pc>5-1290<k1>kAlaviveka : <ls n="ebend.">292,a,2</ls>
+<L>70583<pc>5-1290<k1>kAlahastISvara : <ls>ebend. 257,b,34</ls>
+<L>70626<pc>5-1292<k1>kAlIvidyA : <ls>ebend. 103,b,39</ls>
+<L>70630<pc>5-1292<k1>kAlIhfdaya : <ls>ebend. 95,a,21</ls>
+<L>70651<pc>5-1293<k1>kAvyAlaMkArasUtra : <ls>ebend.</ls>
+<L>70755<pc>5-1297<k1>kiraRAvalI : <ls>ebend.</ls>
+<L>70775<pc>5-1297<k1>kilbiza  : <ls>Bomb. Ausgg.</ls>
+<L>70923<pc>5-1303<k1>kuRqamaRqapasidDi : <ls>ebend. No. 798</ls>
+<L>70924<pc>5-1303<k1>kuRqaratnAkara : <ls>ebend. 33</ls>
+<L>70965<pc>5-1305<k1>kudAradAra : <ls>ebend.</ls>
+<L>71004<pc>5-1306<k1>kubera   : <ls>Bomb.</ls>
+<L>71008<pc>5-1306<k1>kubjalIQa : <ls>Index.</ls>
+<L>71032<pc>5-1307<k1>kumArakuSala : <ls>ebend.</ls>
+<L>71033<pc>5-1307<k1>kumAragarBiRI : <ls>ebend.</ls>
+<L>71034<pc>5-1307<k1>kumAracapala : <ls>ebend.</ls>
+<L>71035<pc>5-1307<k1>kumAratApasI : <ls>ebend.</ls>
+<L>71040<pc>5-1307<k1>kumArapawu : <ls>ebend.</ls>
+<L>71041<pc>5-1307<k1>kumArapaRqita : <ls>ebend.</ls>
+<L>71044<pc>5-1307<k1>kumArabanDakI : <ls>ebend.</ls>
+<L>71053<pc>5-1308<k1>kumArABirUpaka : <ls>ebend.</ls>
+<L>71056<pc>5-1308<k1>kumArItantra : <ls>ebend. 103,b,40</ls>
+<L>71057<pc>5-1308<k1>kumArISa : <ls>ebend. 101,a,19</ls>
+<L>71058<pc>5-1308<k1>kumAreSvaratIrTa : <ls>ebend. 66,a,26</ls>
+<L>71108<pc>5-1310<k1>kurkuwIvrata : <ls>ebend. 34,a,44</ls>
+<L>71171<pc>5-1312<k1>kuleSvara : <ls>ebend. 101,b,3</ls>
+<L>71171<pc>5-1312<k1>kuleSvara : <ls>ebend. 19,a,9</ls>
+<L>71263<pc>5-1315<k1>kUj      : <ls>ebend.</ls>
+<L>71285<pc>5-1316<k1>kUbara   : <ls>Bomb. Ausgg.</ls>
+<L>71296<pc>5-1317<k1>kUrma    : <ls>ebend. 148,b,33. fg.</ls>
+<L>71366<pc>5-1320<k1>kftyakalpalatA : <ls>ebend. 292,a,4</ls>
+<L>71367<pc>5-1320<k1>kftyakOmudI : <ls>ebend. 292,a,5</ls>
+<L>71368<pc>5-1320<k1>kftyacintAmaRi : <ls>ebend. 278,a,7</ls>
+<L>71368<pc>5-1320<k1>kftyacintAmaRi : <ls n="ebend.">292,a,6</ls>
+<L>71368<pc>5-1320<k1>kftyacintAmaRi : <ls n="ebend.">365,a, No. 73</ls>
+<L>71369<pc>5-1320<k1>kftyatattvArRava : <ls>ebend. 278,a,8</ls>
+<L>71369<pc>5-1320<k1>kftyatattvArRava : <ls n="ebend.">292,a,6</ls>
+<L>71370<pc>5-1320<k1>kftyapradIpa : <ls>ebend. 292,a,7</ls>
+<L>71371<pc>5-1320<k1>kftyamahArRava : <ls>ebend. 292,a,7</ls>
+<L>71372<pc>5-1320<k1>kftyaratna : <ls>ebend. 279,a,9</ls>
+<L>71373<pc>5-1320<k1>kftyaratnAkara : <ls>ebend. 292,a,8</ls>
+<L>71432<pc>5-1322<k1>kfzRaKaRqa : <ls>ebend. 26,b,5</ls>
+<L>71454<pc>5-1322<k1>kfzRaBakta : <ls>ebend. 74,b,3 v. u.</ls>
+<L>71470<pc>5-1323<k1>kfzRasaras : <ls>ebend. 76,b,36</ls>
+<L>71491<pc>5-1324<k1>kekAsura : <ls>ebend. 346,a,3 v. u.</ls>
+<L>71498<pc>5-1324<k1>ketu     : <ls>ebend.</ls>
+<L>71502<pc>5-1324<k1>ketuSfNga : <ls>ebend. 52,b,14</ls>
+<L>71508<pc>5-1324<k1>kedAraliNga : <ls>ebend. 251,b,6</ls>
+<L>71509<pc>5-1324<k1>kedAraSamBu : <ls>ebend. 149,a,35</ls>
+<L>71513<pc>5-1324<k1>kedAreSvarasTalI : <ls>ebend. 77,b,37</ls>
+<L>71598<pc>5-1328<k1>kEvalyadIpikA : <ls>ebend. 38,a,8</ls>
+<L>71601<pc>5-1328<k1>kEvalyendra : <ls>ebend. 366,a, No. 94</ls>
+<L>71638<pc>5-1329<k1>kowiliNgeSvara : <ls>ebend. 77,b,32</ls>
+<L>71669<pc>5-1330<k1>korilA   : <ls>ebend. 66,b,37 und N. 5</ls>
+<L>71772<pc>5-1334<k1>kOla     : <ls>ebend. 91,a,18</ls>
+<L>71772<pc>5-1334<k1>kOla     : <ls n="ebend. 91,a,">21</ls>
+<L>71833<pc>5-1336<k1>kratusaMKyA : <ls>ebend. 269</ls>
+<L>71845<pc>5-1338<k1>kramacawa : <ls>ebend.</ls>
+<L>71852<pc>5-1339<k1>kramapAra : <ls>ebend. 251</ls>
+<L>71855<pc>5-1339<k1>kramaraTa : <ls>ebend.</ls>
+<L>71856<pc>5-1339<k1>kramaleKA : <ls>ebend.</ls>
+<L>71959<pc>5-1343<k1>klIba    : <ls>Bomb. Ausgg.</ls>
+<L>71978<pc>5-1344<k1>kzaRa    : <ls>ebend.</ls>
+<L>72101<pc>5-1351<k1>kzIva    : <ls>Bomb. Ausg.</ls>
+<L>72120<pc>5-1351<k1>kzuDAsAgara : <ls>ebend.</ls>
+<L>72143<pc>5-1352<k1>kzetrapa : <ls>ebend.</ls>
+<L>72147<pc>5-1352<k1>kzetraliptA : <ls>ebend.</ls>
+<L>72256<pc>5-1356<k1>KaRqanamahAtarka : <ls>ebend. 166</ls>
+<L>72280<pc>5-1357<k1>KamBAyatabindara : <ls>ebend. 343,a, No. 802</ls>
+<L>72284<pc>5-1357<k1>KarajaNGA : <ls>ebend. 2640</ls>
+<L>72351<pc>5-1360<k1>Kid      : <ls>ebend. 24,32</ls>
+<L>72422<pc>5-1363<k1>gaNgAstotra : <ls>ebend. 72,b,7</ls>
+<L>72455<pc>5-1364<k1>gajendra : <ls>ebend. 46,b,40</ls>
+<L>72495<pc>5-1365<k1>gaRADyakza : <ls>ebend. 55,165</ls>
+<L>72722<pc>5-1378<k1>gAdADarI : <ls>ebend.</ls>
+<L>72782<pc>5-1380<k1>gItagirISa : <ls>ebend. 129,b, No. 234</ls>
+<L>72784<pc>5-1380<k1>gItaprakASa : <ls>ebend. 201,a,34</ls>
+<L>72823<pc>5-1381<k1>guRaprakASavivfti : <ls>ebend.</ls>
+<L>72829<pc>5-1382<k1>guRarahasya : <ls>ebend.</ls>
+<L>72834<pc>5-1382<k1>guRaSiromaRi : <ls>ebend.</ls>
+<L>72860<pc>5-1383<k1>guptadIkzAtantra : <ls>ebend. 103,b,45</ls>
+<L>72861<pc>5-1383<k1>guptaprayAga : <ls>ebend. 149,a,17</ls>
+<L>72862<pc>5-1383<k1>guptasarasvatI : <ls>ebend. 77,b,44</ls>
+<L>72898<pc>5-1384<k1>gulP     : <ls>ebend. 35</ls>
+<L>72914<pc>5-1385<k1>guhyatantra : <ls>ebend. 109,a,6</ls>
+<L>72974<pc>5-1387<k1>go       : <ls>Nax. 2,382</ls>
+<L>72979<pc>5-1387<k1>gokarReSa : <ls>ebend. 71,a,1</ls>
+<L>72990<pc>5-1387<k1>gograhatIrTa : <ls>ebend. 77,b,23</ls>
+<L>73004<pc>5-1389<k1>gotameSvaratIrTa : <ls>ebend. 66,a,35</ls>
+<L>73043<pc>5-1390<k1>gopAlapurI : <ls>ebend. 227,b,20</ls>
+<L>73044<pc>5-1390<k1>gopAlaprasAda : <ls>ebend. 356,b,13</ls>
+<L>73045<pc>5-1390<k1>gopAlasarasvatI : <ls>ebend. 221,a, No. 534</ls>
+<L>73049<pc>5-1390<k1>gopikAsaras : <ls>ebend. 73,a,19</ls>
+<L>73073<pc>5-1391<k1>gomitra  : <ls>ebend. 18,b,10</ls>
+<L>73085<pc>5-1391<k1>gorakzyAwwa : <ls>ebend. 149,a,29</ls>
+<L>73089<pc>5-1391<k1>golaka   : <ls>Pref. zu VARĀH. BṚH. S. 44. fg.</ls>
+<L>73093<pc>5-1391<k1>govatsalatIrTa : <ls>ebend. 77,a,19</ls>
+<L>73129<pc>5-1392<k1>gOqatiTitattva : <ls>ebend. 208,a,21</ls>
+<L>73130<pc>5-1392<k1>gOqanibanDa : <ls>ebend. 208,a,23</ls>
+<L>73133<pc>5-1393<k1>gOqaSudDitattva : <ls>ebend. 278,a,34</ls>
+<L>73134<pc>5-1393<k1>gOqABinanda : <ls>ebend. 123,b,40</ls>
+<L>73140<pc>5-1393<k1>gORasADyavasAnA : <ls>ebend.</ls>
+<L>73144<pc>5-1393<k1>gOtamItantra : <ls>ebend. 278,a,27</ls>
+<L>73181<pc>5-1394<k1>graB     : <ls>ed. GORR.</ls>
+<L>73379<pc>5-1404<k1>cakreSa  : <ls>ebend.</ls>
+<L>73419<pc>5-1406<k1>caRqaBujaMga : <ls>ebend. 74,178</ls>
+<L>73439<pc>5-1406<k1>caRqImAhAtmya : <ls>ebend. 43,b, No. 98</ls>
+<L>73440<pc>5-1406<k1>caRqIrahasya : <ls>ebend. 110,b,4</ls>
+<L>73441<pc>5-1406<k1>caRqISa  : <ls>ebend. 76,b,42</ls>
+<L>73444<pc>5-1406<k1>caRqeSvara : <ls>ebend. 77,b,32</ls>
+<L>73445<pc>5-1406<k1>caRqograSUlapARi : <ls>ebend. 93,b,32</ls>
+<L>73445<pc>5-1406<k1>caRqograSUlapARi : <ls n="ebend.">96,a,4</ls>
+<L>73445<pc>5-1406<k1>caRqograSUlapARi : <ls n="ebend. 96,a,">14</ls>
+<L>73475<pc>5-1407<k1>caturdaSaguRasTAna : <ls>ebend.</ls>
+<L>73491<pc>5-1408<k1>caturviMSatipurARa : <ls>ebend. 1,279</ls>
+<L>73522<pc>5-1409<k1>candrakavi : <ls>ebend. 123,b,42</ls>
+<L>73536<pc>5-1409<k1>candracUqAzwaka : <ls>ebend. 149,b, N. 2</ls>
+<L>73540<pc>5-1409<k1>candradeva : <ls>ebend. 123,b,42</ls>
+<L>73541<pc>5-1409<k1>candradvIpa : <ls>ebend. 338,b,5</ls>
+<L>73557<pc>5-1410<k1>candraleKa : <ls>ebend. 392</ls>
+<L>73558<pc>5-1410<k1>candravant : <ls>ebend. 56,11</ls>
+<L>73558<pc>5-1410<k1>candravant : <ls n="ebend.">98,6</ls>
+<L>73558<pc>5-1410<k1>candravant : <ls n="ebend.">123,116</ls>
+<L>73588<pc>5-1411<k1>candreSvaratIrTa : <ls>ebend. 66,a,38</ls>
+<L>73724<pc>5-1417<k1>cArudeha : <ls>ebend. 8</ls>
+<L>73779<pc>5-1420<k1>citragu  : <ls>ebend. 13</ls>
+<L>73902<pc>5-1425<k1>cUrRa    : <ls>TARKASAṂGR.</ls>
+<L>73927<pc>5-1426<k1>cezwaka  : <ls>ebend.</ls>
+<L>73936<pc>5-1426<k1>cEtanyaBEravI : <ls>ebend. 93,b,14</ls>
+<L>73936<pc>5-1426<k1>cEtanyaBEravI : <ls n="ebend.">96,a,6</ls>
+<L>73954<pc>5-1427<k1>cORqapAcArya : <ls>ebend. 371,b, No. 248</ls>
+<L>73958<pc>5-1427<k1>cOraBavAnI : <ls>ebend. 149,a,9</ls>
+<L>73981<pc>5-1428<k1>CagalARqa : <ls>ebend. 39,b,21</ls>
+<L>73982<pc>5-1428<k1>CajjU    : <ls>ebend. 154,b, N. 2</ls>
+<L>73992<pc>5-1428<k1>CattrasiMha : <ls>ebend. 149,a,13</ls>
+<L>74210<pc>5-1438<k1>jayantIpurI : <ls>ebend. 121,a, No. 212</ls>
+<L>74214<pc>5-1438<k1>jayaraTa : <ls>ebend. 210,a, No. 495</ls>
+<L>74217<pc>5-1438<k1>jayaSarman : <ls>ebend. 292,a,19</ls>
+<L>74237<pc>5-1439<k1>jarisARu : <ls>Index.</ls>
+<L>74335<pc>5-1442<k1>jAtUkarRIputra : <ls>ed. LASS. 3,16</ls>
+<L>74338<pc>5-1442<k1>jAnaka   : <ls>ebend.</ls>
+<L>74346<pc>5-1442<k1>jAbAla   : <ls>ebend.</ls>
+<L>74410<pc>5-1445<k1>jinaBadrasUri : <ls>ebend. 185,b,36</ls>
+<L>74410<pc>5-1445<k1>jinaBadrasUri : <ls n="ebend.">186,a, No. 423</ls>
+<L>74415<pc>5-1445<k1>jinasena : <ls>ebend. 391,b, No. 57. fg.</ls>
+<L>74452<pc>5-1446<k1>jIvanAya : <ls>ebend.</ls>
+<L>74478<pc>5-1447<k1>juj      : <ls>Chamb. 67 und 44,a</ls>
+<L>74491<pc>5-1448<k1>jUmaranandin : <ls>ebend. 173,b, No. 389</ls>
+<L>74491<pc>5-1448<k1>jUmaranandin : <ls n="ebend. b, No. 173,b,">393</ls>
+<L>74505<pc>5-1448<k1>jEna     : <ls>ebend.</ls>
+<L>74510<pc>5-1448<k1>jEhmAkani : <ls>ebend. 8</ls>
+<L>74512<pc>5-1448<k1>jomati   : <ls>ebend. 340,a,14</ls>
+<L>74524<pc>5-1450<k1>jYAna    : <ls>ebend.</ls>
+<L>74582<pc>5-1452<k1>jyotirnirbanDa : <ls>ebend. 40</ls>
+<L>74588<pc>5-1452<k1>jyotirvid : <ls>Pref. zu VARĀH. BṚH. S. 12. fgg.</ls>
+<L>74615<pc>5-1453<k1>jvarASani : <ls>ebend.</ls>
+<L>74688<pc>5-1456<k1>qAmaraBEravatantra : <ls>ebend. 97,a,23</ls>
+<L>74701<pc>5-1457<k1>qoqa     : <ls>ebend.</ls>
+<L>74707<pc>5-1458<k1>Qorasamudra : <ls>ebend. 340,a,83</ls>
+<L>74762<pc>5-1459<k1>tattvaSikzopanyAsa : <ls>ebend. 132</ls>
+<L>74766<pc>5-1459<k1>tattvasAra : <ls>ebend. 104,a,2</ls>
+<L>74768<pc>5-1459<k1>tattvArRava : <ls>ebend.</ls>
+<L>74772<pc>5-1459<k1>tattvAvaboDa : <ls>ebend. 105</ls>
+<L>74807<pc>5-1460<k1>tanumant : <ls>ebend.</ls>
+<L>74821<pc>5-1461<k1>tantramantraprakASa : <ls>ebend. 104,a,12</ls>
+<L>74859<pc>5-1462<k1>tabirasARa : <ls>ebend. 340,a,8</ls>
+<L>74896<pc>5-1465<k1>tarkakOmudI : <ls>ebend. 78</ls>
+<L>74897<pc>5-1465<k1>tarkacandrikA : <ls>ebend. 28</ls>
+<L>74897<pc>5-1465<k1>tarkacandrikA : <ls n="ebend.">94</ls>
+<L>74898<pc>5-1465<k1>tarkadIpikA : <ls>ebend. 69</ls>
+<L>74898<pc>5-1465<k1>tarkadIpikA : <ls n="ebend.">202</ls>
+<L>74903<pc>5-1465<k1>tarkapradIpa : <ls>ebend. 79</ls>
+<L>74904<pc>5-1465<k1>tarkaBAzA : <ls>ebend. 22</ls>
+<L>74904<pc>5-1465<k1>tarkaBAzA : <ls n="ebend.">23</ls>
+<L>74904<pc>5-1465<k1>tarkaBAzA : <ls n="ebend.">24</ls>
+<L>74906<pc>5-1465<k1>tarkaratna : <ls>ebend. 78</ls>
+<L>74910<pc>5-1465<k1>tarkAmfta : <ls>ebend.</ls>
+<L>74976<pc>5-1468<k1>tAmracUqa : <ls>ebend. 100,a,17</ls>
+<L>75022<pc>5-1469<k1>titau    : <ls>Th. 3, S. 380</ls>
+<L>75081<pc>5-1471<k1>tuKAra   : <ls>Bomb. Ausgg.</ls>
+<L>75169<pc>5-1474<k1>tfRASin  : <ls>ebend. 153</ls>
+<L>75262<pc>5-1477<k1>trikahfdaya : <ls>ebend. 197</ls>
+<L>75312<pc>5-1479<k1>triBuvana : <ls>ebend.</ls>
+<L>75392<pc>5-1481<k1>trElokyasAra : <ls>ebend. 341,a,35</ls>
+<L>75584<pc>5-1489<k1>dA       : <ls>Th. 3, S. 371</ls>
+<L>75596<pc>5-1490<k1>dARqakya : <ls>Th. 3, S. 398</ls>
+<L>75605<pc>5-1490<k1>dAdIrAya : <ls>ebend. S. 19, Anm. 10</ls>
+<L>75613<pc>5-1491<k1>dAnakalpataru : <ls>ebend. 292,a,26</ls>
+<L>75616<pc>5-1491<k1>dAnakriyAkOmudI : <ls>ebend. 272,a,3, v. u.</ls>
+<L>75640<pc>5-1491<k1>dAra     : <ls>ed. LOIS. DESL.</ls>
+<L>75665<pc>5-1492<k1>dASa     : <ls>Bomb. Ausgg.</ls>
+<L>75716<pc>5-1494<k1>dinakArya : <ls>ebend. 54,240</ls>
+<L>75775<pc>5-1496<k1>dIDiti   : <ls>ebend.</ls>
+<L>75780<pc>5-1496<k1>dIpaka   : <ls>ebend.</ls>
+<L>75883<pc>5-1500<k1>durga    : <ls>ebend. 316,a, No. 751</ls>
+<L>75947<pc>5-1502<k1>durmantra : <ls>Th. 3</ls>
+<L>75947<pc>5-1502<k1>durmantra : <ls n="Th. S.">369</ls>
+<L>76043<pc>5-1505<k1>dUrvAvrata : <ls>ebend. 285,a,7</ls>
+<L>76083<pc>5-1507<k1>deula    : <ls>ebend. 340,a,14</ls>
+<L>76164<pc>5-1509<k1>devAnanda : <ls>ebend.</ls>
+<L>76205<pc>5-1510<k1>dEva     : <ls>ebend.</ls>
+<L>76208<pc>5-1510<k1>dEvajYavallaBa : <ls>ebend. 278,b,6</ls>
+<L>76209<pc>5-1510<k1>dEvajYaSarman : <ls>ebend. 283,b, N.</ls>
+<L>76227<pc>5-1511<k1>doza     : <ls n="Padapāṭha">padap.</ls>
+<L>76292<pc>5-1513<k1>draQay   : <ls>ed. Cow.</ls>
+<L>76526<pc>5-1521<k1>DarmavivaraRa : <ls>ebend. 194</ls>
+<L>76541<pc>5-1522<k1>DarmitAvacCedakapratyAsattinirUpaRa : <ls>ebend.</ls>
+<L>76586<pc>5-1525<k1>DAnyaSUka : <ls>ebend.</ls>
+<L>76725<pc>5-1532<k1>nakiMcid : <ls>ebend.</ls>
+<L>76729<pc>5-1532<k1>nakulISa : <ls>ebend. 74. fgg.</ls>
+<L>76769<pc>5-1533<k1>naY      : <ls>ebend.</ls>
+<L>76799<pc>5-1534<k1>nandIpura : <ls>ebend. 153,b,33</ls>
+<L>76800<pc>5-1534<k1>nandISa  : <ls>ebend. 8,a,7</ls>
+<L>76812<pc>5-1534<k1>nam      : <ls>Th. 3, S. 380</ls>
+<L>76827<pc>5-1536<k1>nayaviveka : <ls>ebend.</ls>
+<L>76881<pc>5-1538<k1>navatattva : <ls>ebend.</ls>
+<L>76922<pc>5-1539<k1>nAga     : <ls>ebend.</ls>
+<L>77303<pc>5-1553<k1>nirjaraRa : <ls>ebend. 41,5</ls>
+<L>77303<pc>5-1553<k1>nirjaraRa : <ls n="ebend.">43,17</ls>
+<L>77310<pc>5-1553<k1>nirRayadarpaRa : <ls>ebend. 93</ls>
+<L>77428<pc>5-1557<k1>nivarhaRa : <ls>Bomb. Ausgg.</ls>
+<L>77432<pc>5-1557<k1>nivAraRa : <ls>S. 261 (I, 6)</ls>
+<L>77582<pc>5-1562<k1>nI       : <ls>ebend.</ls>
+<L>77616<pc>5-1564<k1>nIsARa   : <ls>ebend. 339,b,35</ls>
+<L>77634<pc>5-1565<k1>nfpaYcAsya : <ls>ebend. 101,14. fgg.</ls>
+<L>77647<pc>5-1565<k1>nfsiMhamUrtyAcArya : <ls>ebend.</ls>
+<L>77725<pc>5-1568<k1>nyAyacUqAmaRi : <ls>ebend.</ls>
+<L>77727<pc>5-1568<k1>nyAyadIpAvalI : <ls>ebend.</ls>
+<L>77742<pc>5-1568<k1>nyAyamakaranda : <ls>ebend.</ls>
+<L>77758<pc>5-1569<k1>nyAyasidDAntamuktAvalI : <ls>ebend. 239,b, No. 580</ls>
+<L>77758<pc>5-1569<k1>nyAyasidDAntamuktAvalI : <ls>ebend.</ls>
+<L>77778<pc>5-1570<k1>pakva    : <ls>ebend.</ls>
+<L>77794<pc>5-1570<k1>pakzin   : <ls>Th. 2, S. 342</ls>
+<L>77964<pc>5-1578<k1>padArTaKaRqana : <ls>ebend.</ls>
+<L>77965<pc>5-1578<k1>padArTacandrikA : <ls>ebend.</ls>
+<L>77971<pc>5-1578<k1>padArTamAlA : <ls>ebend.</ls>
+<L>78061<pc>5-1582<k1>paramArTasAra : <ls>ebend.</ls>
+<L>78065<pc>5-1582<k1>parameSvaratva : <ls>ebend. 96,6</ls>
+<L>78080<pc>5-1582<k1>paraSurAmamiSra : <ls>ebend. 295,a, No. 713</ls>
+<L>78115<pc>5-1584<k1>parArDa  : <ls>Bomb. Ausgg.</ls>
+<L>78185<pc>5-1586<k1>paripfzwika : <ls>ebend.</ls>
+<L>78279<pc>5-1589<k1>paroSIta : <ls>ebend.</ls>
+<L>78300<pc>5-1590<k1>paryAyatva : <ls>ebend. 8,7</ls>
+<L>78300<pc>5-1590<k1>paryAyatva : <ls n="ebend.">71,8. fg.</ls>
+<L>78426<pc>5-1594<k1>pAtaYjala : <ls>ebend.</ls>
+<L>78428<pc>5-1594<k1>pAtana   : <ls>ebend.</ls>
+<L>78486<pc>5-1596<k1>pArawIwa : <ls>a. a. O.</ls>
+<L>78488<pc>5-1596<k1>pArada   : <ls>ebend.</ls>
+<L>78513<pc>5-1597<k1>pArAsapuli : <ls>ebend. 339,b,2 v. u.</ls>
+<L>78514<pc>5-1597<k1>pArAsu   : <ls>ebend. 339,a,10</ls>
+<L>78646<pc>5-1601<k1>pizwaka  : <ls>ebend.</ls>
+<L>78671<pc>5-1602<k1>pukkaSa  : <ls>Bomb. Ausgg.</ls>
+<L>78700<pc>5-1603<k1>putratIrTa : <ls>ebend. 13,a,8</ls>
+<L>78747<pc>5-1605<k1>purARasAra : <ls>ebend. 268,a,11</ls>
+<L>78747<pc>5-1605<k1>purARasAra : <ls n="ebend.">270,b,8</ls>
+<L>78747<pc>5-1605<k1>purARasAra : <ls n="ebend.">292,a,40</ls>
+<L>78776<pc>5-1606<k1>puruzArTasidDyupAya : <ls>ebend. 372,b, No. 269</ls>
+<L>78805<pc>5-1607<k1>puzwipravAhamaryAdABeda : <ls>ebend.</ls>
+<L>78862<pc>5-1609<k1>pUrRaSakti : <ls>ebend.</ls>
+<L>79021<pc>5-1613<k1>prakarzaRa : <ls>Bomb. Ausg.</ls>
+<L>79171<pc>5-1619<k1>pratipAdya : <ls>ebend.</ls>
+<L>79240<pc>5-1621<k1>pratizWA : <ls>ebend.</ls>
+<L>79276<pc>5-1622<k1>pratyakzatva : <ls>ebend. 5,4</ls>
+<L>79276<pc>5-1622<k1>pratyakzatva : <ls n="ebend.">9,4</ls>
+<L>79355<pc>5-1625<k1>prabAla  : <ls>Bomb. Ausgg.</ls>
+<L>79388<pc>5-1626<k1>pramA    : <ls>ebend.</ls>
+<L>79425<pc>5-1628<k1>prayoktftva : <ls>ebend. 120,5</ls>
+<L>79428<pc>5-1628<k1>prayogaratnamAlA : <ls>ebend. 371,b, No. 248</ls>
+<L>79429<pc>5-1628<k1>prayogavftti : <ls>ebend. 370,a, No. 213</ls>
+<L>79430<pc>5-1628<k1>prayogasetu : <ls>ebend. 277,b,29</ls>
+<L>79588<pc>5-1633<k1>prAjApatya : <ls>ebend.</ls>
+<L>79654<pc>5-1636<k1>prAyaScittIya : <ls>ebend.</ls>
+<L>79709<pc>5-1637<k1>preNKaRa : <ls>ebend.</ls>
+<L>79760<pc>5-1640<k1>Paliga   : <ls n="Padapāṭha">padap.</ls>
+<L>79821<pc>5-1643<k1>bandin   : <ls>Bomb. Ausgg.</ls>
+<L>79853<pc>5-1645<k1>barh     : <ls>Bomb. Ausg.</ls>
+<L>79874<pc>5-1646<k1>balbaja  : <ls>Bomb. Ausg.</ls>
+<L>80183<pc>5-1657<k1>BAz      : <ls>UTT80,10. fg.</ls>
+<L>80209<pc>5-1659<k1>BImaBuja : <ls>ebend. 101,48</ls>
+<L>80418<pc>5-1666<k1>manaspApa : <ls n="Padapāṭha">padap.</ls>
+<L>80473<pc>5-1667<k1>mar      : <ls>ebend.</ls>
+<L>80499<pc>5-1668<k1>maryADIra : <ls n="Padapāṭha">padap.</ls>
+<L>80544<pc>5-1669<k1>mahAnAman : <ls>Vorrede S. VII, Anm. 1</ls>
+<L>80545<pc>5-1669<k1>mahAniSA : <ls>GUPTASĀDHANATANTRA</ls>
+<L>80573<pc>5-1670<k1>mahASakti : <ls>ebend. 15</ls>
+<L>80713<pc>5-1675<k1>muracIpattana : <ls>ed. GORR.</ls>
+<L>80743<pc>5-1676<k1>mfgendra : <ls>ebend. 83,13</ls>
+<L>80743<pc>5-1676<k1>mfgendra : <ls n="ebend.">85,5</ls>
+<L>80743<pc>5-1676<k1>mfgendra : <ls n="ebend.">88,11</ls>
+<L>80743<pc>5-1676<k1>mfgendra : <ls n="ebend.">89,5</ls>
+<L>80801<pc>6-0001<k1>ya       : <ls>ebend.</ls>
+<L>80813<pc>6-0004<k1>yakz     : <ls n="Padapāṭha">padap.</ls>
+<L>80862<pc>6-0007<k1>yakzmoDA : <ls n="Padapāṭha">padap.</ls>
+<L>80899<pc>6-0013<k1>yajuzkfta : <ls>ebend.</ls>
+<L>80905<pc>6-0014<k1>yajuzwA  : <ls>ebend.</ls>
+<L>80913<pc>6-0014<k1>yajYa    : <ls>ebend.</ls>
+<L>81093<pc>6-0024<k1>yaRva    : <ls>ebend.</ls>
+<L>81113<pc>6-0031<k1>yati     : <ls>ebend.</ls>
+<L>81211<pc>6-0040<k1>yaTAjozam : <ls>S. 571</ls>
+<L>81272<pc>6-0042<k1>yaTAprApta : <ls>ed. SCHL.</ls>
+<L>81276<pc>6-0043<k1>yaTAbalam : <ls>ed. SCHL. 1,51,16</ls>
+<L>81424<pc>6-0051<k1>yaTAhAra : <ls>ed. SCHL.</ls>
+<L>81508<pc>6-0062<k1>yantray  : <ls>ebend.</ls>
+<L>81523<pc>6-0063<k1>yaB      : <ls>Wurzeln des Altslov. S. 15</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls>ebend.</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls>ebend. 23</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls n="ebend.">5,24</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls>ed. JOHNS.</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls n="Padapāṭha">padap.</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls n="Padapāṭha">padap.</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls>ebend.</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls n=" S.">358</ls>
+<L>81526<pc>6-0063<k1>yam      : <ls n=" S.">Z. 13. fg.</ls>
+<L>81653<pc>6-0085<k1>yavaKada : <ls>ebend.</ls>
+<L>81659<pc>6-0085<k1>yavadvIpa : <ls>ed. GORR.</ls>
+<L>81661<pc>6-0085<k1>yavana   : <ls>ebend.</ls>
+<L>81685<pc>6-0087<k1>yavabusa : <ls>ebend.</ls>
+<L>81760<pc>6-0092<k1>yaSogopi : <ls>Einl. S. VII.</ls>
+<L>81827<pc>6-0112<k1>yAc      : <ls>ebend. 24,2</ls>
+<L>81968<pc>6-0126<k1>yApya    : <ls>ebend.</ls>
+<L>82016<pc>6-0129<k1>yAmundAyanIya : <ls>ebend.</ls>
+<L>82086<pc>6-0133<k1>yAvant   : <ls>ebend. 36,4</ls>
+<L>82099<pc>6-0137<k1>yAska    : <ls>ebend.</ls>
+<L>82101<pc>6-0137<k1>yAskAyanIya : <ls>ebend.</ls>
+<L>82102<pc>6-0137<k1>yAskIya  : <ls>ebend.</ls>
+<L>82108<pc>6-0138<k1>yu       : <ls>ebend. 1,17</ls>
+<L>82108<pc>6-0138<k1>yu       : <ls>ed. SCHL.</ls>
+<L>82136<pc>6-0144<k1>yuga     : <ls>Nax. 2,354</ls>
+<L>82136<pc>6-0144<k1>yuga     : <ls>ebend.</ls>
+<L>82150<pc>6-0147<k1>yugalAy  : <ls>Th. 3, S. 367</ls>
+<L>82157<pc>6-0147<k1>yugAdISa : <ls>ebend.</ls>
+<L>82167<pc>6-0148<k1>yugma    : <ls>ed. LOIS.</ls>
+<L>82167<pc>6-0148<k1>yugma    : <ls>Bomb. Ausgg.</ls>
+<L>82200<pc>6-0169<k1>yutaka   : <ls>ebend.</ls>
+<L>82349<pc>6-0180<k1>yUpavraska : <ls>ebend.</ls>
+<L>82354<pc>6-0180<k1>yUpya    : <ls>ebend.</ls>
+<L>82357<pc>6-0180<k1>yUyuvi   : <ls n="Padapāṭha">padap.</ls>
+<L>82451<pc>6-0189<k1>yogavAsizWa : <ls>ebend.</ls>
+<L>82497<pc>6-0191<k1>yogin    : <ls>ebend. 48</ls>
+<L>82497<pc>6-0191<k1>yogin    : <ls>ebend. 9,34</ls>
+<L>82497<pc>6-0191<k1>yogin    : <ls>ebend. 109</ls>
+<L>82497<pc>6-0191<k1>yogin    : <ls n="ebend.">122</ls>
+<L>82499<pc>6-0192<k1>yoginIjYAnArRava : <ls>ebend. 95,b,6</ls>
+<L>82500<pc>6-0192<k1>yoginItantra : <ls>ebend. 95,b,6</ls>
+<L>82500<pc>6-0192<k1>yoginItantra : <ls n="ebend.">97,a, No. 151</ls>
+<L>82500<pc>6-0192<k1>yoginItantra : <ls n="ebend.">100,b, No. 156</ls>
+<L>82500<pc>6-0192<k1>yoginItantra : <ls n="ebend.">279,a,23</ls>
+<L>82501<pc>6-0192<k1>yoginIpura : <ls>ebend. 340,a,4</ls>
+<L>82502<pc>6-0192<k1>yoginIBErava : <ls>ebend. 108,b,33</ls>
+<L>82502<pc>6-0192<k1>yoginIBErava : <ls n="ebend.">109,a,22</ls>
+<L>82503<pc>6-0192<k1>yoginIhfdaya : <ls>ebend. 95,b,6</ls>
+<L>82503<pc>6-0192<k1>yoginIhfdaya : <ls n="ebend. 95,b,">6</ls>
+<L>82503<pc>6-0192<k1>yoginIhfdaya : <ls n="ebend.">104,a,18</ls>
+<L>82503<pc>6-0192<k1>yoginIhfdaya : <ls n="ebend.">108,a,32</ls>
+<L>82503<pc>6-0192<k1>yoginIhfdaya : <ls n="ebend.">341,a,38</ls>
+<L>82519<pc>6-0193<k1>yogya    : <ls>ed. BURN.</ls>
+<L>82523<pc>6-0194<k1>yojana   : <ls>Useful Tables 122</ls>
+<L>82545<pc>6-0197<k1>yoDanIpura : <ls>ebend. 66,b,41</ls>
+<L>82545<pc>6-0197<k1>yoDanIpura : <ls n="ebend.">67,a, N. 4</ls>
+<L>82554<pc>6-0197<k1>yoni     : <ls n="Padapāṭha">padap.</ls>
+<L>82606<pc>6-0202<k1>yOtaki   : <ls>ebend.</ls>
+<L>82645<pc>6-0205<k1>raMsu    : <ls n="Padapāṭha">padap.</ls>
+<L>82908<pc>6-0222<k1>rakzohaRa : <ls>ebend.</ls>
+<L>82963<pc>6-0226<k1>raNgapuzpI : <ls>ebend.</ls>
+<L>82991<pc>6-0227<k1>raNgeSvarI : <ls>ebend.</ls>
+<L>83063<pc>6-0239<k1>rajezita : <ls n="Padapāṭha">padap.</ls>
+<L>83075<pc>6-0239<k1>rajju    : <ls>ebend.</ls>
+<L>83075<pc>6-0239<k1>rajju    : <ls>Med.</ls>
+<L>83087<pc>6-0240<k1>raYjana  : <ls>ebend.</ls>
+<L>83097<pc>6-0242<k1>raqqa    : <ls>ebend. 8,3342</ls>
+<L>83097<pc>6-0242<k1>raqqa    : <ls n="ebend. 8,">3402</ls>
+<L>83097<pc>6-0242<k1>raqqa    : <ls n="ebend. 8,">3472</ls>
+<L>83097<pc>6-0242<k1>raqqa    : <ls n="ebend. 8,">3483</ls>
+<L>83097<pc>6-0242<k1>raqqa    : <ls n="ebend. 8,">3500</ls>
+<L>83123<pc>6-0243<k1>raRaraNga : <ls>ebend. II, 143. fgg.</ls>
+<L>83152<pc>6-0244<k1>raReSvara : <ls>ebend. 3,453</ls>
+<L>83152<pc>6-0244<k1>raReSvara : <ls n="ebend. 3,">457</ls>
+<L>83152<pc>6-0244<k1>raReSvara : <ls n="ebend.">6,71</ls>
+<L>83246<pc>6-0250<k1>ratnacUqa : <ls>ebend.</ls>
+<L>83431<pc>6-0258<k1>raTaspati : <ls n="Padapāṭha">padap.</ls>
+<L>83501<pc>6-0262<k1>radAvasu : <ls n="Padapāṭha">padap.</ls>
+<L>83506<pc>6-0263<k1>raD      : <ls>ebend.</ls>
+<L>83511<pc>6-0264<k1>ran      : <ls n="Padapāṭha">padap.</ls>
+<L>83511<pc>6-0264<k1>ran      : <ls n="Padapāṭha">padap.</ls>
+<L>83556<pc>6-0272<k1>ram      : <ls>ed. JOHNS. 1394</ls>
+<L>83641<pc>6-0285<k1>ravi     : <ls>Nax. 2,287</ls>
+<L>83677<pc>6-0286<k1>raSanA   : <ls>ed. BURN.</ls>
+<L>83677<pc>6-0286<k1>raSanA   : <ls>Bomb. Ausgg.</ls>
+<L>83700<pc>6-0288<k1>raSmivant : <ls>ebend.</ls>
+<L>83783<pc>6-0296<k1>rasarahasya : <ls>ebend.</ls>
+<L>83787<pc>6-0296<k1>rasarAjahaMsa : <ls>ebend. No. 941</ls>
+<L>83798<pc>6-0297<k1>rasasAgara : <ls>ebend. 527,b</ls>
+<L>83817<pc>6-0297<k1>rasADika : <ls>ebend.</ls>
+<L>83868<pc>6-0301<k1>rasollAsa : <ls>ebend.</ls>
+<L>83880<pc>6-0302<k1>rahasanandin : <ls>Index.</ls>
+<L>83881<pc>6-0302<k1>rahasU   : <ls n="Padapāṭha">padap.</ls>
+<L>83949<pc>6-0308<k1>rAgAQyA  : <ls>ebend.</ls>
+<L>83959<pc>6-0309<k1>rAGavadeva : <ls>ebend. 124,b,16</ls>
+<L>84045<pc>6-0317<k1>rAjaduhitar : <ls>ebend. 3</ls>
+<L>84063<pc>6-0318<k1>rAjaDUrta : <ls>ebend.</ls>
+<L>84090<pc>6-0320<k1>rAjapalARqu : <ls>ebend.</ls>
+<L>84094<pc>6-0320<k1>rAjaputra : <ls>ebend.</ls>
+<L>84094<pc>6-0320<k1>rAjaputra : <ls>ebend.</ls>
+<L>84207<pc>6-0325<k1>rAjaSAkinI : <ls>ebend.</ls>
+<L>84427<pc>6-0337<k1>rATya    : <ls n="Padapāṭha">padap.</ls>
+<L>84497<pc>6-0345<k1>rAmacandracaritrasAra : <ls>ebend. 121,b, No. 213</ls>
+<L>84498<pc>6-0345<k1>rAmacandrastavarAja : <ls>ebend. 106,b, No. 161</ls>
+<L>84499<pc>6-0345<k1>rAmacandrASrama : <ls>ebend. 77,b,34</ls>
+<L>84538<pc>6-0346<k1>rAmaprasAdatarkAlaMkAra : <ls>ebend. 57</ls>
+<L>84550<pc>6-0347<k1>rAmarudraBawwa : <ls>ebend.</ls>
+<L>84593<pc>6-0348<k1>rAmAByudaya : <ls>ebend. 171,4</ls>
+<L>84612<pc>6-0349<k1>rAmoda   : <ls>ebend.</ls>
+<L>84701<pc>6-0356<k1>rAhavi   : <ls>ebend.</ls>
+<L>84797<pc>6-0367<k1>riSAdas  : <ls n="Padapāṭha">padap.</ls>
+<L>84799<pc>6-0367<k1>riz      : <ls>lithogr. Ausg.</ls>
+<L>84934<pc>6-0385<k1>rud      : <ls>ed. JOHNS. 2090</ls>
+<L>84934<pc>6-0385<k1>rud      : <ls>ebend.</ls>
+<L>84936<pc>6-0386<k1>rudaTa   : <ls>ebend.</ls>
+<L>84979<pc>6-0390<k1>rudrapUjA : <ls>ebend. 1281</ls>
+<L>85042<pc>6-0392<k1>ruD      : <ls>Bomb. Ausg.</ls>
+<L>85045<pc>6-0402<k1>ruDikrA  : <ls n="Padapāṭha">padap.</ls>
+<L>85072<pc>6-0404<k1>ruvUka   : <ls>ebend.</ls>
+<L>85091<pc>6-0406<k1>ruzwi    : <ls>ebend.</ls>
+<L>85092<pc>6-0406<k1>ruzya    : <ls>ebend.</ls>
+<L>85093<pc>6-0406<k1>ruh      : <ls>S. 570</ls>
+<L>85093<pc>6-0406<k1>ruh      : <ls>ebend.</ls>
+<L>85093<pc>6-0406<k1>ruh      : <ls>ebend.</ls>
+<L>85099<pc>6-0419<k1>rUkza    : <ls>Bomb. Ausgg.</ls>
+<L>85117<pc>6-0421<k1>rUpa     : <ls>ed. LOIS.</ls>
+<L>85145<pc>6-0425<k1>rUpamaYjarI : <ls>ebend. 406,b, No. 35</ls>
+<L>85193<pc>6-0429<k1>reKa     : <ls>ebend.</ls>
+<L>85346<pc>6-0441<k1>rocanAvant : <ls n="Padapāṭha">padap.</ls>
+<L>85368<pc>6-0442<k1>rodasI   : <ls>ebend. 4</ls>
+<L>85368<pc>6-0442<k1>rodasI   : <ls n="Padapāṭha">padap.</ls>
+<L>85502<pc>6-0452<k1>rohiRIcandraSayana : <ls>ebend. 40,b,40</ls>
+<L>85546<pc>6-0455<k1>rOkzAyaRa : <ls>ebend. 60,33</ls>
+<L>85553<pc>6-0456<k1>rOdra    : <ls>Nax. 1,309</ls>
+<L>85570<pc>6-0457<k1>rOpya    : <ls>ebend.</ls>
+<L>85647<pc>6-0469<k1>lakzIBU  : <ls>ebend.</ls>
+<L>85650<pc>6-0469<k1>lakzmaRa : <ls>ebend.</ls>
+<L>85667<pc>6-0471<k1>lakzmI   : <ls>ebend. 2,82</ls>
+<L>85685<pc>6-0473<k1>lakzmIputra : <ls>ebend.</ls>
+<L>85815<pc>6-0483<k1>laGuvAkyavftti : <ls>ebend.</ls>
+<L>85816<pc>6-0484<k1>laGuvArttika : <ls>ebend.</ls>
+<L>85874<pc>6-0486<k1>laNG     : <ls>ed. (Bomb.)</ls>
+<L>85996<pc>6-0497<k1>laB      : <ls>ebend.</ls>
+<L>85996<pc>6-0497<k1>laB      : <ls>ebend.</ls>
+<L>86009<pc>6-0505<k1>lamPa    : <ls>ebend.</ls>
+<L>86012<pc>6-0509<k1>lamba    : <ls>ebend. 2440</ls>
+<L>86012<pc>6-0509<k1>lamba    : <ls>ebend.</ls>
+<L>86067<pc>6-0515<k1>lalita   : <ls>ebend. 160, (VII, 8)</ls>
+<L>86067<pc>6-0515<k1>lalita   : <ls>ebend.</ls>
+<L>86067<pc>6-0515<k1>lalita   : <ls>ebend. 392</ls>
+<L>86067<pc>6-0515<k1>lalita   : <ls>ebend. 165 (VI, 14)</ls>
+<L>86067<pc>6-0515<k1>lalita   : <ls>ebend. 383</ls>
+<L>86077<pc>6-0517<k1>lalitavyUha : <ls>ebend. 248,12</ls>
+<L>86077<pc>6-0517<k1>lalitavyUha : <ls n="ebend.">265,14</ls>
+<L>86077<pc>6-0517<k1>lalitavyUha : <ls>ebend. 363,4</ls>
+<L>86095<pc>6-0518<k1>lava     : <ls>Nax. 2,287</ls>
+<L>86163<pc>6-0522<k1>las      : <ls>Monatsber. d. Berl. Ak. d. Ww. 1868, S. 100</ls>
+<L>86229<pc>6-0528<k1>lANgUla  : <ls>ebend.</ls>
+<L>86252<pc>6-0530<k1>lAqi     : <ls>ebend.</ls>
+<L>86259<pc>6-0530<k1>lAndra   : <ls>ebend.</ls>
+<L>86365<pc>6-0539<k1>liNga    : <ls>ebend.</ls>
+<L>86365<pc>6-0539<k1>liNga    : <ls>ebend.</ls>
+<L>86365<pc>6-0539<k1>liNga    : <ls>ebend.</ls>
+<L>86400<pc>6-0543<k1>liNgopahitalENgikaBAnavicAra : <ls>ebend. 52</ls>
+<L>86415<pc>6-0546<k1>liptA    : <ls>Nax. I, 310</ls>
+<L>86437<pc>6-0547<k1>lih      : <ls>ed. SCHL.</ls>
+<L>86440<pc>6-0549<k1>lI       : <ls n="Padapāṭha">padap.</ls>
+<L>86440<pc>6-0549<k1>lI       : <ls>ebend.</ls>
+<L>86445<pc>6-0553<k1>lIkzA    : <ls>ebend.</ls>
+<L>86499<pc>6-0558<k1>luq      : <ls>Th. III, S. 359</ls>
+<L>86517<pc>6-0560<k1>lup      : <ls>ebend.</ls>
+<L>86517<pc>6-0560<k1>lup      : <ls>ed. Cow.</ls>
+<L>86540<pc>6-0568<k1>lU       : <ls>ebend.</ls>
+<L>86552<pc>6-0568<k1>lUnIy    : <ls>ebend.</ls>
+<L>86615<pc>6-0573<k1>leSa     : <ls>ebend.</ls>
+<L>86635<pc>6-0574<k1>lok      : <ls n=" 106,">96</ls>
+<L>86636<pc>6-0578<k1>loka     : <ls>ebend.</ls>
+<L>86650<pc>6-0581<k1>lokacAritra : <ls>ed. SCHL.</ls>
+<L>86654<pc>6-0581<k1>lokajYa  : <ls>ebend.</ls>
+<L>86673<pc>6-0582<k1>lokapAla : <ls>ebend. 9,107</ls>
+<L>86760<pc>6-0585<k1>lokApavAda : <ls>Monatsber. der Berliner Ak. d. Ww. 1868, S. 111</ls>
+<L>86810<pc>6-0589<k1>loRAmlA  : <ls>ebend.</ls>
+<L>86811<pc>6-0589<k1>loRAra   : <ls>ebend.</ls>
+<L>86812<pc>6-0589<k1>loRikA   : <ls>ebend.</ls>
+<L>86825<pc>6-0590<k1>lopApaka : <ls>ebend.</ls>
+<L>86833<pc>6-0591<k1>lopya    : <ls>ebend.</ls>
+<L>87057<pc>6-0603<k1>lOSa     : <ls>ebend.</ls>
+<L>87068<pc>6-0604<k1>lOhAcArya : <ls>ebend.</ls>
+<L>87138<pc>6-0609<k1>vaMSAnukIrtana : <ls>ebend.</ls>
+<L>87162<pc>6-0610<k1>vaktar   : <ls n="Padapāṭha">padap.</ls>
+<L>87192<pc>6-0612<k1>vakra    : <ls>Th. III, S. 409</ls>
+<L>87192<pc>6-0612<k1>vakra    : <ls>ebend.</ls>
+<L>87302<pc>6-0619<k1>vac      : <ls>ed. BURN.</ls>
+<L>87342<pc>6-0630<k1>vajahURa : <ls>ebend. 339,b,16</ls>
+<L>87512<pc>6-0640<k1>vawa     : <ls>ed. BURN. 23</ls>
+<L>87531<pc>6-0642<k1>vawin    : <ls>ebend.</ls>
+<L>87544<pc>6-0642<k1>vaqava   : <ls>Bomb. Ausgg.</ls>
+<L>87555<pc>6-0643<k1>baqiSa   : <ls>Bomb. Ausgg.</ls>
+<L>87647<pc>6-0649<k1>vad      : <ls>ebend.</ls>
+<L>87647<pc>6-0649<k1>vad      : <ls>Kal. P.</ls>
+<L>87647<pc>6-0649<k1>vad      : <ls>ebend.</ls>
+<L>87647<pc>6-0649<k1>vad      : <ls>ebend.</ls>
+<L>87675<pc>6-0659<k1>vaD      : <ls>ebend.</ls>
+<L>87675<pc>6-0659<k1>vaD      : <ls>Bomb. Ausgg.</ls>
+<L>87675<pc>6-0659<k1>vaD      : <ls>Bomb. Ausgg.</ls>
+<L>87995<pc>6-0681<k1>vanDya   : <ls>Bomb. Ausgg.</ls>
+<L>88013<pc>6-0687<k1>vapAvant : <ls>ebend. 2,5</ls>
+<L>88042<pc>6-0689<k1>vam      : <ls>ebend.</ls>
+<L>88086<pc>6-0695<k1>vayunAvid : <ls n="Padapāṭha">padap.</ls>
+<L>88101<pc>6-0696<k1>var      : <ls n="Padapāṭha">padap.</ls>
+<L>88249<pc>6-0720<k1>varAhadaMzwra : <ls>ebend.</ls>
+<L>88297<pc>6-0724<k1>varu     : <ls n="Padapāṭha">padap.</ls>
+<L>88301<pc>6-0724<k1>varuRa   : <ls>ed. SCHL.</ls>
+<L>88405<pc>6-0733<k1>varj     : <ls>ebend.</ls>
+<L>88415<pc>6-0739<k1>varRa    : <ls>ebend.</ls>
+<L>88415<pc>6-0739<k1>varRa    : <ls>ebend.</ls>
+<L>88416<pc>6-0741<k1>varRaka  : <ls>ebend.</ls>
+<L>88479<pc>6-0745<k1>varRasaMGAta : <ls>ebend.</ls>
+<L>88503<pc>6-0746<k1>vart     : <ls>ebend.</ls>
+<L>88503<pc>6-0746<k1>vart     : <ls n="Padapāṭha">padap.</ls>
+<L>88503<pc>6-0746<k1>vart     : <ls>Bomb. Ausgg.</ls>
+<L>88505<pc>6-0777<k1>vartaka  : <ls>ebend.</ls>
+<L>88563<pc>6-0792<k1>varDamAna : <ls>ebend.</ls>
+<L>88698<pc>6-0806<k1>vala     : <ls>Calc.</ls>
+<L>88698<pc>6-0806<k1>vala     : <ls>Bomb. Ausgg.</ls>
+<L>88769<pc>6-0811<k1>valgA    : <ls>ebend.</ls>
+<L>88916<pc>6-0827<k1>vas      : <ls n="Padapāṭha">padap.</ls>
+<L>88918<pc>6-0837<k1>vas      : <ls n="Padapāṭha">padap.</ls>
+<L>88939<pc>6-0841<k1>vasantatilakatantra : <ls>handschriftlich in der Kais. Bibl. zu Paris</ls>
+<L>88987<pc>6-0843<k1>vasizWa  : <ls>ebend.</ls>
+<L>88987<pc>6-0843<k1>vasizWa  : <ls>ebend.</ls>
+<L>89128<pc>6-0854<k1>vasti    : <ls>Bomb. Ausg.</ls>
+<L>89199<pc>6-0859<k1>vah      : <ls>ebend.</ls>
+<L>89291<pc>6-0880<k1>vAkini   : <ls>ebend.</ls>
+<L>89304<pc>6-0880<k1>vAktviza : <ls>ebend.</ls>
+<L>89333<pc>6-0882<k1>vAkyavftti : <ls>ebend.</ls>
+<L>89443<pc>6-0888<k1>vAcaka   : <ls>ebend.</ls>
+<L>89471<pc>6-0891<k1>vAcAstena : <ls n="Padapāṭha">padap.</ls>
+<L>89553<pc>6-0898<k1>vAjin    : <ls n="Padapāṭha">padap.</ls>
+<L>89709<pc>6-0908<k1>vAtamAyas : <ls n="Padapāṭha">padap.</ls>
+<L>89765<pc>6-0911<k1>vAtAgara : <ls>ebend.</ls>
+<L>89779<pc>6-0911<k1>vAtApi   : <ls n="Padapāṭha">padap.</ls>
+<L>89811<pc>6-0913<k1>vAtula   : <ls>ebend.</ls>
+<L>89902<pc>6-0920<k1>vAna     : <ls>ebend. 11</ls>
+<L>89988<pc>6-0926<k1>vAmadevya : <ls>ebend.</ls>
+<L>89991<pc>6-0926<k1>vAmana   : <ls>ed. SCHL.</ls>
+<L>90050<pc>6-0930<k1>vAyasa   : <ls>ebend.</ls>
+<L>90065<pc>6-0931<k1>vAyu     : <ls>Nax. 2,300</ls>
+<L>90065<pc>6-0931<k1>vAyu     : <ls n="Nax. 2,">373</ls>
+<L>90067<pc>6-0932<k1>vAyu     : <ls n="Padapāṭha">padap.</ls>
+<L>90137<pc>6-0935<k1>vAra     : <ls>ebend.</ls>
+<L>90187<pc>6-0938<k1>vAravantIya : <ls>ebend.</ls>
+<L>90198<pc>6-0939<k1>vArAwaki : <ls>ebend.</ls>
+<L>90199<pc>6-0939<k1>vArARasI : <ls>ebend. 34,16</ls>
+<L>90199<pc>6-0939<k1>vArARasI : <ls>SHERRING, Sacred city 34</ls>
+<L>90315<pc>6-0945<k1>vArkajamBa : <ls>ebend.</ls>
+<L>90373<pc>6-0949<k1>vArdAlI  : <ls>ebend.</ls>
+<L>90389<pc>6-0950<k1>vArDeya  : <ls>ebend.</ls>
+<L>90406<pc>6-0951<k1>vAryAmalaka : <ls>Bomb. Ausg.</ls>
+<L>90431<pc>6-0952<k1>vArzasahasrika : <ls>ebend.</ls>
+<L>90435<pc>6-0952<k1>vArzAhara : <ls>ebend.</ls>
+<L>90450<pc>6-0953<k1>vAla     : <ls>Bomb. Ausgg.</ls>
+<L>90452<pc>6-0954<k1>vAlaka   : <ls>ebend.</ls>
+<L>90455<pc>6-0955<k1>vAlaDi   : <ls>ed. SCHL.</ls>
+<L>90478<pc>6-0955<k1>vAlikAjya : <ls>ebend.</ls>
+<L>90506<pc>6-0957<k1>vAlmIki  : <ls>ebend.</ls>
+<L>90519<pc>6-0958<k1>vAvAta   : <ls n="Padapāṭha">padap.</ls>
+<L>90520<pc>6-0958<k1>vAvAtar  : <ls n="Padapāṭha">padap.</ls>
+<L>90569<pc>6-0964<k1>vAsanta  : <ls>ebend.</ls>
+<L>90624<pc>6-0969<k1>vAsin    : <ls>ebend. 87,21</ls>
+<L>90643<pc>6-0970<k1>vAsudeva : <ls>ebend.</ls>
+<L>90668<pc>6-0972<k1>vAstika  : <ls>ed. SCHL.</ls>
+<L>90681<pc>6-0973<k1>vAstuvyAKyAna : <ls>ebend.</ls>
+<L>90684<pc>6-0973<k1>vAstusanatkumAra : <ls>ebend.</ls>
+<L>90693<pc>6-0974<k1>vAstvya  : <ls>ebend.</ls>
+<L>90825<pc>6-0985<k1>vikalpa  : <ls>ebend.</ls>
+<L>90882<pc>6-0990<k1>vikIrRasaMjYa : <ls>ebend.</ls>
+<L>90922<pc>6-0994<k1>vikramacarita : <ls>Journ. As. 1845</ls>
+<L>90922<pc>6-0994<k1>vikramacarita : <ls n="Journ. As.">VI, 278. fgg.</ls>
+<L>91096<pc>6-1006<k1>vic      : <ls n="Kārikā">Kār. 2</ls>
+<L>91158<pc>6-1012<k1>vicitra  : <ls>ebend.</ls>
+<L>91339<pc>6-1025<k1>vijenya  : <ls n="Padapāṭha">padap.</ls>
+<L>91506<pc>6-1036<k1>vitasti  : <ls>ebend. 2,92</ls>
+<L>91597<pc>6-1053<k1>vidaTa   : <ls n="Padapāṭha">padap.</ls>
+<L>91597<pc>6-1053<k1>vidaTa   : <ls>ebend.</ls>
+<L>91626<pc>6-1055<k1>vidAraRa : <ls>ebend. 504, Śl. 14</ls>
+<L>91690<pc>6-1060<k1>vidyamAnatva : <ls>ebend.</ls>
+<L>91703<pc>6-1062<k1>vidyADara : <ls>ebend. 49,18</ls>
+<L>91714<pc>6-1063<k1>vidyADISavaqeru : <ls>ebend. 177,b,13</ls>
+<L>91738<pc>6-1064<k1>vidyArTaprakASikA : <ls>ebend.</ls>
+<L>91739<pc>6-1064<k1>vidyAlaMkAraBawwAcArya : <ls>ebend. 174,a, No. 390</ls>
+<L>91740<pc>6-1064<k1>vidyAlaya : <ls>ebend. 251,b,15</ls>
+<L>91767<pc>6-1065<k1>vidyutpuYja : <ls>ebend.</ls>
+<L>91807<pc>6-1067<k1>vidruDi  : <ls>ed. Lois.</ls>
+<L>91902<pc>6-1078<k1>viDirasAyana : <ls>ebend.</ls>
+<L>91912<pc>6-1079<k1>viDu     : <ls n="Padapāṭha">padap.</ls>
+<L>91978<pc>6-1085<k1>vinayAditya : <ls>ebend.</ls>
+<L>92136<pc>6-1097<k1>vinDyamUlika : <ls>ebend.</ls>
+<L>92165<pc>6-1101<k1>vipaYcI  : <ls>D. 98,2</ls>
+<L>92261<pc>6-1109<k1>vipula   : <ls>ebend.</ls>
+<L>92281<pc>6-1111<k1>vipra    : <ls>ebend.</ls>
+<L>92281<pc>6-1111<k1>vipra    : <ls>ebend.</ls>
+<L>92388<pc>6-1119<k1>vibadDa  : <ls>ebend.</ls>
+<L>92490<pc>6-1128<k1>viBu     : <ls>ebend. N. 14</ls>
+<L>92535<pc>6-1133<k1>viBrAzwi : <ls n="Devarāja">D.</ls>
+<L>92616<pc>6-1139<k1>vimaleSvarapuzkariRIsaMgamatIrTa : <ls>ebend. 66,a,16. fg.</ls>
+<L>92617<pc>6-1139<k1>vimalogya : <ls>ebend. 109,a,16</ls>
+<L>92784<pc>6-1151<k1>virava   : <ls>ebend. 126,14</ls>
+<L>92820<pc>6-1155<k1>virAtaka : <ls>ebend.</ls>
+<L>92845<pc>6-1156<k1>viruda   : <ls>ebend. No. 244, Z. 11</ls>
+<L>92922<pc>6-1165<k1>vilambita : <ls>ebend. 468, N.</ls>
+<L>92963<pc>6-1168<k1>vilAsin  : <ls>ebend.</ls>
+<L>93003<pc>6-1170<k1>viloqana : <ls>ebend.</ls>
+<L>93036<pc>6-1173<k1>vivakzita : <ls>ebend.</ls>
+<L>93065<pc>6-1176<k1>vivarta  : <ls>ebend.</ls>
+<L>93086<pc>6-1178<k1>vivasvant : <ls>ebend.</ls>
+<L>93095<pc>6-1180<k1>vivAda   : <ls>ebend.</ls>
+<L>93175<pc>6-1186<k1>vivekaDEryASraya : <ls>ebend.</ls>
+<L>93196<pc>6-1187<k1>viS      : <ls>ebend.</ls>
+<L>93264<pc>6-1212<k1>viSAlanetrIsADana : <ls>KANDJUR. Bd. 43, Bl. 434</ls>
+<L>93282<pc>6-1213<k1>viSiSipra : <ls n="Padapāṭha">padap.</ls>
+<L>93287<pc>6-1213<k1>viSizwacArin : <ls>ebend. 235</ls>
+<L>93315<pc>6-1215<k1>viSeza   : <ls>Med.</ls>
+<L>93364<pc>6-1220<k1>viSramBa : <ls>Bomb. Ausgg.</ls>
+<L>93387<pc>6-1223<k1>viSloka  : <ls>ebend.</ls>
+<L>93388<pc>6-1223<k1>viSva    : <ls>Nax. 2,300</ls>
+<L>93388<pc>6-1223<k1>viSva    : <ls n="Nax. 2,">374</ls>
+<L>93500<pc>6-1229<k1>viSvaDft : <ls>ebend.</ls>
+<L>93506<pc>6-1230<k1>viSvanATanagarI : <ls>ebend.</ls>
+<L>93573<pc>6-1232<k1>viSvayAmati : <ls n="Padapāṭha">padap.</ls>
+<L>93580<pc>6-1233<k1>viSvarucI : <ls>ed. Pol.</ls>
+<L>93624<pc>6-1235<k1>viSvaSradDAjYAnabala : <ls>Buddh. Trigl. 8,b</ls>
+<L>93636<pc>6-1235<k1>viSvasAhva : <ls>ed. BURN.</ls>
+<L>93672<pc>6-1237<k1>viSvApsu : <ls n="Padapāṭha">padap.</ls>
+<L>93704<pc>6-1240<k1>viSveSvara : <ls>ebend.</ls>
+<L>93775<pc>6-1245<k1>vizama   : <ls>ebend. 8,23,8</ls>
+<L>93775<pc>6-1245<k1>vizama   : <ls n="ebend.">1,8,29</ls>
+<L>93775<pc>6-1245<k1>vizama   : <ls n="ebend.">3,15,32</ls>
+<L>93775<pc>6-1245<k1>vizama   : <ls n="ebend.">6,16,41</ls>
+<L>93820<pc>6-1248<k1>vizaya   : <ls>ebend. 17, N. 2</ls>
+<L>93885<pc>6-1254<k1>vizARaka : <ls>ebend.</ls>
+<L>93931<pc>6-1257<k1>vizuvant : <ls>ebend.</ls>
+<L>93931<pc>6-1257<k1>vizuvant : <ls>ebend.</ls>
+<L>93949<pc>6-1259<k1>vizkara  : <ls>Bomb. Ausg.</ls>
+<L>93955<pc>6-1259<k1>vizwapa  : <ls>ebend.</ls>
+<L>93969<pc>6-1261<k1>vizwAnta : <ls n="Padapāṭha">padap.</ls>
+<L>93986<pc>6-1262<k1>vizWA    : <ls n="Padapāṭha">padap.</ls>
+<L>94012<pc>6-1264<k1>vizRutiTi : <ls>ebend. S. 22</ls>
+<L>94021<pc>6-1265<k1>vizRudEvatya : <ls>ebend.</ls>
+<L>94069<pc>6-1267<k1>vizRusahasranAman : <ls>ebend.</ls>
+<L>94094<pc>6-1268<k1>vizvagaSva : <ls>Bomb. Ausg.</ls>
+<L>94124<pc>6-1270<k1>visadfSa : <ls>ebend.</ls>
+<L>94263<pc>6-1281<k1>visruh   : <ls n="Padapāṭha">padap.</ls>
+<L>94371<pc>6-1291<k1>vIjana   : <ls>ebend.</ls>
+<L>94485<pc>6-1299<k1>vIradatta : <ls>Index des KANDJUR S. 12</ls>
+<L>94512<pc>6-1300<k1>vIrabukka : <ls>Einl. zum ṚV.</ls>
+<L>94668<pc>6-1309<k1>vfkza    : <ls>ebend.</ls>
+<L>94755<pc>6-1314<k1>vfti     : <ls>ebend. 38</ls>
+<L>94757<pc>6-1314<k1>vftta    : <ls>ebend.</ls>
+<L>94773<pc>6-1317<k1>vfttaPala : <ls>ebend.</ls>
+<L>94775<pc>6-1317<k1>vfttabIja : <ls>ebend.</ls>
+<L>94779<pc>6-1317<k1>vfttamAlA : <ls>ebend.</ls>
+<L>94793<pc>6-1319<k1>vftti    : <ls>ebend.</ls>
+<L>94957<pc>6-1334<k1>vfndAvana : <ls>ebend.</ls>
+<L>94960<pc>6-1334<k1>vfSa     : <ls n="Durgasiṃha">D.</ls>
+<L>94998<pc>6-1338<k1>vfzadaYji : <ls n="Padapāṭha">padap.</ls>
+<L>95034<pc>6-1342<k1>vfzaBARu : <ls>ebend.</ls>
+<L>95091<pc>6-1345<k1>vfzAy    : <ls>ebend.</ls>
+<L>95156<pc>6-1350<k1>veNkawa  : <ls>ebend.</ls>
+<L>95235<pc>6-1356<k1>vetAlaBawwa : <ls>ebend. 526. fgg.</ls>
+<L>95286<pc>6-1360<k1>vedana   : <ls n="Devarāja">D.</ls>
+<L>95322<pc>6-1361<k1>vedarakara : <ls>Buch XII. fgg.</ls>
+<L>95369<pc>6-1363<k1>vedANga  : <ls>Einl. zum ṚV.</ls>
+<L>95381<pc>6-1364<k1>vedAnta  : <ls>ebend.</ls>
+<L>95381<pc>6-1364<k1>vedAnta  : <ls>ebend.</ls>
+<L>95381<pc>6-1364<k1>vedAnta  : <ls>ebend.</ls>
+<L>95443<pc>6-1370<k1>veDamuKya : <ls>ebend.</ls>
+<L>95507<pc>6-1377<k1>veSanta  : <ls>ed. Pol.</ls>
+<L>95542<pc>6-1378<k1>veza     : <ls>Bomb. Ausgg.</ls>
+<L>95577<pc>6-1384<k1>vE       : <ls>ebend.</ls>
+<L>95587<pc>6-1386<k1>vEkayata : <ls>ebend.</ls>
+<L>95631<pc>6-1390<k1>vEgri    : <ls>ebend.</ls>
+<L>95701<pc>6-1395<k1>vEtahavya : <ls>ebend.</ls>
+<L>95725<pc>6-1397<k1>vEdanvata : <ls>ebend.</ls>
+<L>95749<pc>6-1398<k1>vEdeha   : <ls>ebend.</ls>
+<L>95753<pc>6-1399<k1>vEdya    : <ls>ebend.</ls>
+<L>95757<pc>6-1400<k1>vEdyakasArasaMgraha : <ls>ebend. 317,a, N. 1</ls>
+<L>95853<pc>6-1405<k1>vEBUvasa : <ls n="Padapāṭha">padap.</ls>
+<L>95857<pc>6-1405<k1>vEmatAyana : <ls>ebend.</ls>
+<L>95858<pc>6-1405<k1>vEmattAyana : <ls>ebend.</ls>
+<L>95886<pc>6-1407<k1>vEyAkaraRaBUzaRa : <ls>ebend.</ls>
+<L>95947<pc>6-1410<k1>vErAja   : <ls>ebend.</ls>
+<L>95954<pc>6-1411<k1>vErARaka : <ls>ebend.</ls>
+<L>96062<pc>6-1419<k1>vESvajyotiza : <ls>ebend.</ls>
+<L>96065<pc>6-1419<k1>vESvadevata : <ls>Text.</ls>
+<L>96077<pc>6-1420<k1>vESvamAnava : <ls>ebend.</ls>
+<L>96094<pc>6-1421<k1>vESvAmitra : <ls>ebend.</ls>
+<L>96117<pc>6-1423<k1>vEzRava  : <ls>ebend.</ls>
+<L>96152<pc>6-1425<k1>vEhAyana : <ls>ebend. 184,a,5</ls>
+<L>96161<pc>6-1425<k1>voqra    : <ls>ebend.</ls>
+<L>96163<pc>6-1425<k1>voQar    : <ls>ebend.</ls>
+<L>96192<pc>6-1427<k1>vyakta   : <ls>ebend. 16</ls>
+<L>96196<pc>6-1427<k1>vyaktamaya : <ls>ebend.</ls>
+<L>96242<pc>6-1433<k1>vyaqqamaNgala : <ls>ebend. 7,1480</ls>
+<L>96243<pc>6-1433<k1>vyati    : <ls n="Padapāṭha">padap.</ls>
+<L>96290<pc>6-1443<k1>vyaDvara : <ls n="Padapāṭha">padap.</ls>
+<L>96359<pc>6-1450<k1>vyavakalita : <ls>ebend.</ls>
+<L>96394<pc>6-1453<k1>vyavasTApya : <ls>ebend.</ls>
+<L>96394<pc>6-1453<k1>vyavasTApya : <ls>Text.</ls>
+<L>96490<pc>6-1464<k1>vyAKyAna : <ls>ebend.</ls>
+<L>96495<pc>6-1465<k1>vyAKyAmfta : <ls>ebend.</ls>
+<L>96498<pc>6-1465<k1>vyAKyAsuDA : <ls>ebend. 55</ls>
+<L>96650<pc>6-1476<k1>vyAlapraharaRa : <ls>ebend.</ls>
+<L>96687<pc>6-1479<k1>vyAsatryambaka : <ls>ebend. 345,b,41. fg.</ls>
+<L>96749<pc>6-1482<k1>vyupatoda : <ls>ebend.</ls>
+<L>96819<pc>6-1487<k1>vra      : <ls n="Padapāṭha">padap.</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls>ebend. 4,18,31</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls n="ebend.">5,5,30</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls n="ebend.">9,2,3</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls n="ebend. 9,">24,66</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls n="ebend.">10,5,6</ls>
+<L>96822<pc>6-1491<k1>vraja    : <ls n="ebend. 10,">11,29</ls>
+<L>96875<pc>6-1497<k1>vrata    : <ls n="Padapāṭha">padap.</ls>
+<L>96918<pc>6-1499<k1>vratin   : <ls>ebend.</ls>
 <L>96987.34<pc>6-1511<k1>varRaka : <ls>Calc. Ausgg.</ls>
-<L>105735<pc>7-0714<k1>samAhita : <ls>Pandit 2,233.</ls>
-<L>122697<pc>7-1821<k1>sPar    : <ls>Bulletin de I'Acad. Imp. des sc. de St. — Pét. 20,385.</ls>
+<L>97053<pc>7-0012<k1>Sakalyezin : <ls n="Padapāṭha">padap.</ls>
+<L>97055<pc>7-0012<k1>SakavfdDi : <ls>ebend.</ls>
+<L>97126<pc>7-0019<k1>SaktipUjA : <ls>ebend. 91,b,27</ls>
+<L>97142<pc>7-0020<k1>SaktivAda : <ls>ebend.</ls>
+<L>97143<pc>7-0020<k1>SaktivicAra : <ls>ebend.</ls>
+<L>97244<pc>7-0025<k1>SaNk     : <ls n=" 3,">64,3</ls>
+<L>97244<pc>7-0025<k1>SaNk     : <ls n=" 3,63,">11</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls>ebend. 5,128</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">134</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">139</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">212</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">268</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">302</ls>
+<L>97273<pc>7-0029<k1>SaMkaravarman : <ls n="ebend. 5,">428</ls>
+<L>97306<pc>7-0033<k1>SaNkulA  : <ls>ebend.</ls>
+<L>97338<pc>7-0035<k1>SaNKanaKa : <ls>ebend.</ls>
+<L>97374<pc>7-0036<k1>SaNKAlu  : <ls>ebend.</ls>
+<L>97497<pc>7-0045<k1>Satadvasu : <ls n="Padapāṭha">padap.</ls>
+<L>97544<pc>7-0047<k1>SataprasUti : <ls>ebend.</ls>
+<L>97589<pc>7-0049<k1>Satarcas : <ls n="Padapāṭha">padap.</ls>
+<L>97762<pc>7-0062<k1>SapaRqa  : <ls>ebend.</ls>
+<L>97785<pc>7-0063<k1>Sabara   : <ls>Bomb. Ausgg.</ls>
+<L>97792<pc>7-0064<k1>Sabala   : <ls>Bomb. Ausgg.</ls>
+<L>97832<pc>7-0067<k1>SabdaboDavicAra : <ls>ebend.</ls>
+<L>97838<pc>7-0067<k1>SabdaBedaprakASa : <ls>ebend.</ls>
+<L>97859<pc>7-0069<k1>SabdaSakti : <ls>ebend.</ls>
+<L>97899<pc>7-0071<k1>Sam      : <ls>ebend.</ls>
+<L>97921<pc>7-0078<k1>SamAy    : <ls n="Padapāṭha">padap.</ls>
+<L>97947<pc>7-0080<k1>Samopya  : <ls n="Padapāṭha">padap.</ls>
+<L>97956<pc>7-0081<k1>Sambaracandana : <ls>ebend.</ls>
+<L>97968<pc>7-0082<k1>SamBala  : <ls>ebend. 84,b,24</ls>
+<L>97992<pc>7-0084<k1>SayaRqa  : <ls>ebend.</ls>
+<L>97995<pc>7-0084<k1>SayaTa   : <ls>ebend.</ls>
+<L>98049<pc>7-0091<k1>SaraRa   : <ls n="Durgasiṃha">D.</ls>
+<L>98093<pc>7-0094<k1>SarapuNKa : <ls>ebend.</ls>
+<L>98231<pc>7-0104<k1>Sarya    : <ls n="Durgasiṃha">D.</ls>
+<L>98239<pc>7-0104<k1>Sarva    : <ls>ebend. 9,15</ls>
+<L>98258<pc>7-0106<k1>Sal      : <ls>ebend.</ls>
+<L>98260<pc>7-0106<k1>Sala     : <ls>D.</ls>
+<L>98321<pc>7-0111<k1>Sallaka  : <ls>Bomb. Ausgg.</ls>
+<L>98380<pc>7-0114<k1>SaSavizARa : <ls>ebend. 119,9</ls>
+<L>98387<pc>7-0115<k1>SaSANkatanaya : <ls>ebend. 103,1</ls>
+<L>98387<pc>7-0115<k1>SaSANkatanaya : <ls n="ebend. 103,">6</ls>
+<L>98398<pc>7-0115<k1>SaSika   : <ls>Bomb. Ausg.</ls>
+<L>98480<pc>7-0121<k1>SastradevatA : <ls>ed. COWELL 130,5</ls>
+<L>98543<pc>7-0126<k1>SAkapURi : <ls>Erll. S. 222</ls>
+<L>98563<pc>7-0127<k1>SAkalya  : <ls>Nax. 2,382</ls>
+<L>98563<pc>7-0127<k1>SAkalya  : <ls n="Nax. 2,">391</ls>
+<L>98570<pc>7-0128<k1>SAkaSAkina : <ls>ebend.</ls>
+<L>98597<pc>7-0129<k1>SAkuna   : <ls>ebend.</ls>
+<L>98603<pc>7-0130<k1>SAkuntakIya : <ls>ebend.</ls>
+<L>98692<pc>7-0135<k1>SAcipUjana : <ls>ebend.</ls>
+<L>98704<pc>7-0136<k1>SAWAyanya : <ls>ebend.</ls>
+<L>98733<pc>7-0137<k1>SARqilya : <ls>Bibl. indica</ls>
+<L>98771<pc>7-0139<k1>SAtAhareya : <ls>ebend.</ls>
+<L>98775<pc>7-0139<k1>SAtruMtapIya : <ls>ebend.</ls>
+<L>98845<pc>7-0145<k1>SAntvati : <ls>ebend.</ls>
+<L>98846<pc>7-0145<k1>SApa     : <ls>ebend. 55,9</ls>
+<L>98870<pc>7-0146<k1>SAbda    : <ls>D. 280,6</ls>
+<L>98870<pc>7-0146<k1>SAbda    : <ls n="D. 280,">735</ls>
+<L>98904<pc>7-0148<k1>SAyaRqAyana : <ls>ebend.</ls>
+<L>98926<pc>7-0150<k1>SAri     : <ls>ebend.</ls>
+<L>98927<pc>7-0150<k1>SArikA   : <ls>Bomb. Ausgg.</ls>
+<L>98982<pc>7-0154<k1>SArdUla  : <ls>ebend.</ls>
+<L>98995<pc>7-0155<k1>SAla     : <ls>Bomb. Ausgg.</ls>
+<L>99004<pc>7-0156<k1>SAlaNkAyanajA : <ls>ebend.</ls>
+<L>99046<pc>7-0158<k1>SAlAvata : <ls>ebend.</ls>
+<L>99051<pc>7-0158<k1>SAlAsTali : <ls>ebend.</ls>
+<L>99108<pc>7-0162<k1>SAlva    : <ls>Bomb. Ausgg.</ls>
+<L>99141<pc>7-0164<k1>SAzpeyin : <ls>ebend.</ls>
+<L>99142<pc>7-0164<k1>SAs      : <ls n="Padapāṭha">padap.</ls>
+<L>99189<pc>7-0172<k1>SAstramAlA : <ls>ebend.</ls>
+<L>99205<pc>7-0173<k1>SiMSapA  : <ls>ebend. 34,12</ls>
+<L>99255<pc>7-0179<k1>SiKA     : <ls>ed. COWELL 65,8</ls>
+<L>99308<pc>7-0183<k1>SiYj     : <ls>Bomb. Ausgg.</ls>
+<L>99341<pc>7-0185<k1>SitiranDra : <ls>ebend.</ls>
+<L>99391<pc>7-0188<k1>Sivi     : <ls>Text.</ls>
+<L>99391<pc>7-0188<k1>Sivi     : <ls>Bomb. Ausgg.</ls>
+<L>99393<pc>7-0188<k1>SibikA   : <ls>Bomb. Ausgg.</ls>
+<L>99395<pc>7-0189<k1>Sibira   : <ls>Bomb. Ausgg.</ls>
+<L>99403<pc>7-0189<k1>SimidA   : <ls n="Padapāṭha">padap.</ls>
+<L>99472<pc>7-0193<k1>SiroDara : <ls>S. 657, Śl. 31</ls>
+<L>99619<pc>7-0203<k1>SivakAmaduGA : <ls>ebend. 19,b,18</ls>
+<L>99620<pc>7-0203<k1>SivakAriRI : <ls>ebend. 39,b,30</ls>
+<L>99621<pc>7-0203<k1>SivakiMkara : <ls>ebend. 201,a, No. 479</ls>
+<L>99676<pc>7-0205<k1>Sivapriya : <ls>ebend.</ls>
+<L>99772<pc>7-0209<k1>SiSiragu : <ls>ebend. 19,6</ls>
+<L>99785<pc>7-0210<k1>SiSukranda : <ls>ebend.</ls>
+<L>99834<pc>7-0221<k1>SIkara   : <ls>Bomb. Ausgg.</ls>
+<L>99837<pc>7-0221<k1>SIGra    : <ls>ebend. 37,17</ls>
+<L>99843<pc>7-0222<k1>SIGragati : <ls>ebend.</ls>
+<L>99867<pc>7-0223<k1>SIta     : <ls>Bomb. Ausg.</ls>
+<L>99916<pc>7-0225<k1>SItala   : <ls>ebend.</ls>
+<L>99940<pc>7-0227<k1>SItAMSu  : <ls>ebend.</ls>
+<L>100012<pc>7-0231<k1>SIrzaBArika : <ls>ebend.</ls>
+<L>100030<pc>7-0231<k1>SIrzeBArika : <ls>ebend.</ls>
+<L>100035<pc>7-0233<k1>SIla    : <ls>ebend.</ls>
+<L>100072<pc>7-0235<k1>Suka    : <ls>Monatsberr. d. k. pr. Ak. d. Ww. in Berlin 1868, S. 106</ls>
+<L>100072<pc>7-0235<k1>Suka    : <ls n="Monatsberr. d. k. pr. Ak. d. Ww. in Berlin 1868,">111</ls>
+<L>100093<pc>7-0237<k1>Sukapriya : <ls>ebend.</ls>
+<L>100111<pc>7-0237<k1>SukAzwaka : <ls>ebend.</ls>
+<L>100115<pc>7-0237<k1>Sukta   : <ls>ebend.</ls>
+<L>100168<pc>7-0242<k1>Suklakanda : <ls>ebend.</ls>
+<L>100199<pc>7-0243<k1>SuklAdiSrAvaRakfzRAzwamI : <ls>ebend. 285,a,2</ls>
+<L>100199<pc>7-0243<k1>SuklAdiSrAvaRakfzRAzwamI : <ls n="ebend. 285,a,">3</ls>
+<L>100210<pc>7-0244<k1>SuNga   : <ls>ebend. 62,17</ls>
+<L>100218<pc>7-0246<k1>Suci    : <ls>ebend.</ls>
+<L>100218<pc>7-0246<k1>Suci    : <ls>ebend.</ls>
+<L>100218<pc>7-0246<k1>Suci    : <ls>ebend.</ls>
+<L>100244<pc>7-0249<k1>Sucivarcas : <ls>ebend.</ls>
+<L>100282<pc>7-0250<k1>SuRqIrocanikA : <ls>ebend.</ls>
+<L>100312<pc>7-0253<k1>SudDavAla : <ls>ebend.</ls>
+<L>100317<pc>7-0253<k1>SudDasAropalakzaRA : <ls>ebend. 172,6</ls>
+<L>100327<pc>7-0253<k1>SudDAyU : <ls n="Padapāṭha">padap.</ls>
+<L>100331<pc>7-0253<k1>SudDASudDIya : <ls>ebend.</ls>
+<L>100331<pc>7-0253<k1>SudDASudDIya : <ls>ebend.</ls>
+<L>100341<pc>7-0254<k1>SudDipradIpa : <ls>ebend. 274,a, No. 649</ls>
+<L>100346<pc>7-0255<k1>SudDiviveka : <ls>ebend. 279,b,22. fg.</ls>
+<L>100361<pc>7-0258<k1>SunaHSepa : <ls>Bomb. Ausgg.</ls>
+<L>100375<pc>7-0259<k1>Sunezita : <ls n="Padapāṭha">padap.</ls>
+<L>100388<pc>7-0262<k1>SuBa    : <ls>ebend.</ls>
+<L>100455<pc>7-0266<k1>SuBodaya : <ls>ebend. 101,b,16</ls>
+<L>100462<pc>7-0267<k1>SuBradanta : <ls>ebend.</ls>
+<L>100485<pc>7-0268<k1>SumBU   : <ls>ebend.</ls>
+<L>100488<pc>7-0268<k1>Sulka   : <ls>ebend.</ls>
+<L>100518<pc>7-0272<k1>Suz     : <ls n="Padapāṭha">padap.</ls>
+<L>100519<pc>7-0272<k1>Suza    : <ls>Text.</ls>
+<L>100582<pc>7-0277<k1>SUdra   : <ls>ebend.</ls>
+<L>100716<pc>7-0287<k1>SfNga   : <ls>ebend.</ls>
+<L>100781<pc>7-0292<k1>Sfta    : <ls>ed. GORR. 26</ls>
+<L>100797<pc>7-0293<k1>SeKara  : <ls>ebend.</ls>
+<L>100814<pc>7-0294<k1>SePAli  : <ls>ebend.</ls>
+<L>100833<pc>7-0295<k1>Sevalila : <ls>ebend.</ls>
+<L>100839<pc>7-0295<k1>Seza    : <ls>ebend.</ls>
+<L>100839<pc>7-0295<k1>Seza    : <ls>ebend.</ls>
+<L>100878<pc>7-0299<k1>SEKAvata : <ls>ebend.</ls>
+<L>100879<pc>7-0299<k1>SEKAvatya : <ls>ebend.</ls>
+<L>100898<pc>7-0301<k1>SEbya   : <ls>Bomb. Ausgg.</ls>
+<L>100902<pc>7-0301<k1>SErIza  : <ls>ebend.</ls>
+<L>101000<pc>7-0306<k1>SEvasidDAntaSeKara : <ls>ebend. 279,b,42</ls>
+<L>101029<pc>7-0307<k1>Soka    : <ls>ebend.</ls>
+<L>101029<pc>7-0307<k1>Soka    : <ls>ebend. 18,3</ls>
+<L>101114<pc>7-0313<k1>SoPanASana : <ls>ebend.</ls>
+<L>101119<pc>7-0313<k1>SoBa    : <ls>ebend.</ls>
+<L>101158<pc>7-0316<k1>SOkreya : <ls>ebend.</ls>
+<L>101196<pc>7-0319<k1>SORqAyanya : <ls>ebend.</ls>
+<L>101211<pc>7-0319<k1>SOdrAyaRa : <ls>ebend.</ls>
+<L>101230<pc>7-0320<k1>SOBrAyaRa : <ls>ebend.</ls>
+<L>101234<pc>7-0320<k1>SOrasena : <ls>ebend.</ls>
+<L>101266<pc>7-0322<k1>SOvAvatAna : <ls>ebend.</ls>
+<L>101284<pc>7-0323<k1>Sman    : <ls>ebend.</ls>
+<L>101288<pc>7-0324<k1>SmaSAnakAlI : <ls>ebend. 94,a,1</ls>
+<L>101288<pc>7-0324<k1>SmaSAnakAlI : <ls n="ebend.">96,a,11. fg.</ls>
+<L>101313<pc>7-0325<k1>SyAparRa : <ls>ebend.</ls>
+<L>101322<pc>7-0327<k1>SyAmagranTi : <ls>ebend.</ls>
+<L>101342<pc>7-0328<k1>SyAmAka : <ls>ebend.</ls>
+<L>101367<pc>7-0330<k1>SyAvaputra : <ls>ebend.</ls>
+<L>101368<pc>7-0330<k1>SyAvaputrya : <ls>ebend.</ls>
+<L>101369<pc>7-0330<k1>SyAvaraTa : <ls>ebend.</ls>
+<L>101370<pc>7-0330<k1>SyAvaraTya : <ls>ebend.</ls>
+<L>101372<pc>7-0330<k1>SyAvali : <ls>ebend.</ls>
+<L>101405<pc>7-0332<k1>SyenikA : <ls>ebend. 377</ls>
+<L>101416<pc>7-0333<k1>SraT    : <ls>ebend.</ls>
+<L>101416<pc>7-0333<k1>SraT    : <ls>D.</ls>
+<L>101422<pc>7-0334<k1>SradDA  : <ls>ebend.</ls>
+<L>101467<pc>7-0340<k1>SramB   : <ls>Bomb. Ausgg.</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls>Nax. 1,312. fg.</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax.">2,300</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax. 2,">315. fg.</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax. 2,">325</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax. 2,">354. fg.</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax. 2,">375. fg.</ls>
+<L>101509<pc>7-0344<k1>SravizWa : <ls n="Nax. 2,">389</ls>
+<L>101520<pc>7-0345<k1>SrAdDa  : <ls>ebend.</ls>
+<L>101520<pc>7-0345<k1>SrAdDa  : <ls>ebend. 1</ls>
+<L>101574<pc>7-0349<k1>Sri     : <ls>ebend.</ls>
+<L>101583<pc>7-0361<k1>Sriyase : <ls>ebend.</ls>
+<L>101634<pc>7-0367<k1>SrIgrAmara : <ls>ebend. 42</ls>
+<L>101671<pc>7-0369<k1>SrInATa : <ls>ebend.</ls>
+<L>101797<pc>7-0375<k1>Sru     : <ls n="Padapāṭha">padap.</ls>
+<L>101797<pc>7-0375<k1>Sru     : <ls n="Padapāṭha">padap.</ls>
+<L>101855<pc>7-0389<k1>SrutikIrti : <ls>ebend.</ls>
+<L>101890<pc>7-0390<k1>SreRi   : <ls>ebend.</ls>
+<L>101933<pc>7-0395<k1>SrezWin : <ls>ebend. 32,11</ls>
+<L>101933<pc>7-0395<k1>SrezWin : <ls n="ebend.">37,2</ls>
+<L>101990<pc>7-0399<k1>SrOtaprAyaScitta : <ls>Pariśiṣṭa zum SV.</ls>
+<L>101997<pc>7-0399<k1>SrOti   : <ls>ebend.</ls>
+<L>101998<pc>7-0399<k1>SrOtra  : <ls>ebend.</ls>
+<L>102024<pc>7-0401<k1>SlanavAsa : <ls>Anm. auf S. 4</ls>
+<L>102119<pc>7-0411<k1>Svapaca : <ls>ed. TR.</ls>
+<L>102176<pc>7-0418<k1>Svastana : <ls>ebend.</ls>
+<L>102185<pc>7-0419<k1>SvAkunda : <ls>ebend.</ls>
+<L>102236<pc>7-0422<k1>Sveta   : <ls>ebend.</ls>
+<L>102414<pc>7-0431<k1>zawkarman : <ls>ebend. 234,a,37. fgg.</ls>
+<L>102425<pc>7-0432<k1>zawcakra : <ls>ebend.</ls>
+<L>102449<pc>7-0433<k1>zawpada : <ls>ebend.</ls>
+<L>102449<pc>7-0433<k1>zawpada : <ls>Vierschach Monatsberr. d. K. Pr. Ak. d. Ww. 1872, S. 69</ls>
+<L>102449<pc>7-0433<k1>zawpada : <ls n="Vierschach Monatsberr. d. K. Pr. Ak. d. Ww. 1872,">75</ls>
+<L>102499<pc>7-0436<k1>zaqaSIti : <ls>ebend.</ls>
+<L>102570<pc>7-0440<k1>zaRqa   : <ls>ed. B.</ls>
+<L>102570<pc>7-0440<k1>zaRqa   : <ls>ed. B.</ls>
+<L>102570<pc>7-0440<k1>zaRqa   : <ls>ed. B.</ls>
+<L>102570<pc>7-0440<k1>zaRqa   : <ls>Bomb. Ausgg.</ls>
+<L>102580<pc>7-0441<k1>zaRQa   : <ls>Bomb. Ausgg.</ls>
+<L>102602<pc>7-0442<k1>zarAYjima : <ls>ebend. 340,a,4</ls>
+<L>102603<pc>7-0442<k1>zarija  : <ls>ebend. 340,a,15</ls>
+<L>102604<pc>7-0442<k1>zarolikA : <ls>ebend. 354,b,11</ls>
+<L>102605<pc>7-0442<k1>zarjUra : <ls>ebend. 340,a,15</ls>
+<L>102606<pc>7-0442<k1>zalAgru : <ls>ebend. 339,b,6</ls>
+<L>102672<pc>7-0446<k1>zurAsARa : <ls>ebend. 338,b,39</ls>
+<L>102722<pc>7-0451<k1>sa      : <ls>ebend.</ls>
+<L>102815<pc>7-0462<k1>saMvatsara : <ls>ed. POL.</ls>
+<L>102842<pc>7-0465<k1>saMvara : <ls>Bomb. Ausgg.</ls>
+<L>102847<pc>7-0465<k1>saMvaravyAKyA : <ls>ebend. 211</ls>
+<L>102994<pc>7-0477<k1>saMSayavAdArTa : <ls>ebend. 47</ls>
+<L>103036<pc>7-0480<k1>saMSrAvayitar : <ls>ebend.</ls>
+<L>103043<pc>7-0481<k1>saMSleza : <ls>ebend.</ls>
+<L>103055<pc>7-0482<k1>saMsamaka : <ls n="Padapāṭha">padap.</ls>
+<L>103066<pc>7-0484<k1>saMsarpa : <ls>Nax. 2,336</ls>
+<L>103066<pc>7-0484<k1>saMsarpa : <ls n="Nax. 2,">350. fg.</ls>
+<L>103119<pc>7-0490<k1>saMskArakOstuBa : <ls>Bombay 1783 (1861) lithographirten</ls>
+<L>103125<pc>7-0490<k1>saMskAraprakASa : <ls>ebend. 26</ls>
+<L>103126<pc>7-0490<k1>saMskAraprayoga : <ls>ebend. 85</ls>
+<L>103130<pc>7-0490<k1>saMskAraratna : <ls>ebend. No. 1031</ls>
+<L>103139<pc>7-0491<k1>saMskftavAkyaratnAvalI : <ls>ebend. 595</ls>
+<L>103164<pc>7-0495<k1>saMsTAna : <ls>S. 570</ls>
+<L>103216<pc>7-0499<k1>saMhati : <ls>ebend.</ls>
+<L>103242<pc>7-0502<k1>saMhita : <ls>ebend.</ls>
+<L>103242<pc>7-0502<k1>saMhita : <ls>ebend.</ls>
+<L>103242<pc>7-0502<k1>saMhita : <ls>Vorrede 21. fg.</ls>
+<L>103249<pc>7-0503<k1>saMhitAsUtra : <ls>Pariśiṣṭa zum ṚV.</ls>
+<L>103297<pc>7-0506<k1>sakalIviDA : <ls>ebend. 3,7,24</ls>
+<L>103337<pc>7-0509<k1>saktu   : <ls>Bomb. Ausgg.</ls>
+<L>103383<pc>7-0512<k1>saKya   : <ls>ebend.</ls>
+<L>103403<pc>7-0514<k1>sagotra : <ls>ebend.</ls>
+<L>103439<pc>7-0517<k1>saMkalita : <ls>ebend.</ls>
+<L>103450<pc>7-0519<k1>saMkalpanIya : <ls>ebend.</ls>
+<L>103499<pc>7-0524<k1>saMkoca : <ls>ebend.</ls>
+<L>103537<pc>7-0528<k1>saMKya  : <ls>ebend.</ls>
+<L>103557<pc>7-0531<k1>saMga   : <ls n="Padapāṭha">padap.</ls>
+<L>103580<pc>7-0534<k1>saMgameSvara : <ls>ebend. 44,a,6 v. u.</ls>
+<L>103597<pc>7-0536<k1>saMgItadarpaRa : <ls>ebend. 200,b, No. 476. fgg.</ls>
+<L>103599<pc>7-0536<k1>saMgItanArAyaRa : <ls>ebend. 180</ls>
+<L>103601<pc>7-0536<k1>saMgItaratnAkara : <ls>ebend. 72,b,10. fgg.</ls>
+<L>103601<pc>7-0536<k1>saMgItaratnAkara : <ls n="ebend.">126,a,22</ls>
+<L>103601<pc>7-0536<k1>saMgItaratnAkara : <ls n="ebend.">199,b, No. 471. fgg.</ls>
+<L>103601<pc>7-0536<k1>saMgItaratnAkara : <ls n="ebend.">201,a, No. 479</ls>
+<L>103615<pc>7-0536<k1>saMgfhItar : <ls>Bomb. Ausg.</ls>
+<L>103641<pc>7-0540<k1>saMgrAmavarza : <ls>ebend. 54,138</ls>
+<L>103722<pc>7-0547<k1>saciva  : <ls>ebend.</ls>
+<L>103765<pc>7-0549<k1>sajAtIya : <ls>D. 10,14</ls>
+<L>103765<pc>7-0549<k1>sajAtIya : <ls n="D.">209,9</ls>
+<L>103869<pc>7-0565<k1>saMjIvana : <ls>Bomb. Ausgg.</ls>
+<L>103933<pc>7-0570<k1>satIka  : <ls n="Padapāṭha">padap.</ls>
+<L>104047<pc>7-0578<k1>satputra : <ls>ebend.</ls>
+<L>104055<pc>7-0578<k1>satpratipakzin : <ls>ebend.</ls>
+<L>104058<pc>7-0578<k1>satya   : <ls>ebend.</ls>
+<L>104098<pc>7-0583<k1>satyanATa : <ls>ebend.</ls>
+<L>104102<pc>7-0583<k1>satyanArAyaRa : <ls>ebend.</ls>
+<L>104168<pc>7-0587<k1>satyaSravas : <ls>ebend.</ls>
+<L>104204<pc>7-0588<k1>satyAvan : <ls n="Padapāṭha">padap.</ls>
+<L>104223<pc>7-0589<k1>satrAjit : <ls n="Padapāṭha">padap.</ls>
+<L>104228<pc>7-0589<k1>satrAsah : <ls n="Padapāṭha">padap.</ls>
+<L>104229<pc>7-0589<k1>satrAsAha : <ls n="Padapāṭha">padap.</ls>
+<L>104240<pc>7-0590<k1>satvant : <ls>ebend.</ls>
+<L>104243<pc>7-0590<k1>satsaMvinmaya : <ls>ebend.</ls>
+<L>104256<pc>7-0603<k1>sadana  : <ls n="Padapāṭha">padap.</ls>
+<L>104322<pc>7-0608<k1>sadAnvA : <ls>ebend.</ls>
+<L>104378<pc>7-0612<k1>sadDarma : <ls>Le Lotus de la bonne loi.</ls>
+<L>104437<pc>7-0615<k1>sadvaMSa : <ls>ebend.</ls>
+<L>104463<pc>7-0616<k1>saDanI  : <ls n="Padapāṭha">padap.</ls>
+<L>104477<pc>7-0617<k1>saDavA  : <ls>ebend.</ls>
+<L>104483<pc>7-0618<k1>saDi    : <ls n="Padapāṭha">padap.</ls>
+<L>104496<pc>7-0618<k1>san     : <ls>ebend.</ls>
+<L>104505<pc>7-0620<k1>sanaj   : <ls n="Padapāṭha">padap.</ls>
+<L>104513<pc>7-0620<k1>sanatsujAta : <ls>ebend.</ls>
+<L>104582<pc>7-0625<k1>sanemi  : <ls n="Padapāṭha">padap.</ls>
+<L>104583<pc>7-0625<k1>sanemi  : <ls n="Padapāṭha">padap.</ls>
+<L>104586<pc>7-0625<k1>sant    : <ls>ebend.</ls>
+<L>104586<pc>7-0625<k1>sant    : <ls>ebend.</ls>
+<L>104715<pc>7-0639<k1>saMDanajit : <ls n="Padapāṭha">padap.</ls>
+<L>104724<pc>7-0642<k1>saMDAnatAla : <ls>Text.</ls>
+<L>104762<pc>7-0646<k1>saMDya  : <ls>ebend.</ls>
+<L>104804<pc>7-0649<k1>sannAman : <ls>ebend.</ls>
+<L>104813<pc>7-0650<k1>saMnikarzavicAra : <ls>ebend.</ls>
+<L>105000<pc>7-0662<k1>saptadivasa : <ls>ebend. 32,13</ls>
+<L>105071<pc>7-0666<k1>saptaSatikA : <ls>ebend.</ls>
+<L>105077<pc>7-0666<k1>saptazazwi : <ls>ebend.</ls>
+<L>105138<pc>7-0669<k1>saPa    : <ls>ebend. 242,b</ls>
+<L>105183<pc>7-0672<k1>saBAjana : <ls>ed. TULLB. 74,9</ls>
+<L>105208<pc>7-0674<k1>sama    : <ls>ebend. 50,14</ls>
+<L>105208<pc>7-0674<k1>sama    : <ls>ebend. 63,1</ls>
+<L>105233<pc>7-0679<k1>samacaturaSra : <ls>ebend.</ls>
+<L>105255<pc>7-0681<k1>samad   : <ls n="Padapāṭha">padap.</ls>
+<L>105268<pc>7-0682<k1>samadviBuja : <ls>ebend.</ls>
+<L>105351<pc>7-0688<k1>samayapradIpa : <ls>ebend. 273,b,47</ls>
+<L>105351<pc>7-0688<k1>samayapradIpa : <ls n="ebend.">279,b,28</ls>
+<L>105351<pc>7-0688<k1>samayapradIpa : <ls n="ebend.">292,b,29</ls>
+<L>105383<pc>7-0690<k1>samaraBawa : <ls>ebend. 74,29</ls>
+<L>105423<pc>7-0693<k1>samarya : <ls n="Padapāṭha">padap.</ls>
+<L>105431<pc>7-0693<k1>samalamba : <ls>ebend.</ls>
+<L>105540<pc>7-0701<k1>samADi  : <ls>ebend.</ls>
+<L>105546<pc>7-0702<k1>samADimatikA : <ls>ed. TULLB.</ls>
+<L>105601<pc>7-0705<k1>samAnaSAKA : <ls>ebend.</ls>
+<L>105608<pc>7-0706<k1>samAnADikaraRa : <ls>ebend.</ls>
+<L>105619<pc>7-0706<k1>samAnopamA : <ls>ebend.</ls>
+<L>105623<pc>7-0707<k1>samApa  : <ls>ebend.</ls>
+<L>105735<pc>7-0714<k1>samAhita : <ls>Pandit 2,233</ls>
+<L>105754<pc>7-0715<k1>samiTa  : <ls>ed. BÖHTL.</ls>
+<L>105775<pc>7-0717<k1>samIka  : <ls>Bomb. Ausgg.</ls>
+<L>105781<pc>7-0717<k1>samIkza : <ls>Text.</ls>
+<L>105892<pc>7-0726<k1>samudra : <ls>ebend.</ls>
+<L>106007<pc>7-0733<k1>samfti  : <ls n="Padapāṭha">padap.</ls>
+<L>106059<pc>7-0739<k1>saMpAtavant : <ls>ebend.</ls>
+<L>106108<pc>7-0742<k1>saMprati : <ls n="ŚĀK 112,">27</ls>
+<L>106108<pc>7-0742<k1>saMprati : <ls n="ŚĀK 112,">88</ls>
+<L>106108<pc>7-0742<k1>saMprati : <ls n="ŚĀK 112,">134</ls>
+<L>106257<pc>7-0758<k1>saMBUti : <ls>ebend.</ls>
+<L>106332<pc>7-0764<k1>saMmIlya : <ls>ebend.</ls>
+<L>106446<pc>7-0781<k1>saranDra : <ls>ĀP. PRAY.</ls>
+<L>106446<pc>7-0781<k1>saranDra : <ls>SPEIYER 74</ls>
+<L>106448<pc>7-0781<k1>sarapas : <ls n="Padapāṭha">padap.</ls>
+<L>106452<pc>7-0781<k1>saramA  : <ls>ebend. 3,458</ls>
+<L>106483<pc>7-0784<k1>sarasvatIkuwumba : <ls>ebend.</ls>
+<L>106569<pc>7-0791<k1>sarj    : <ls>ebend. 13,8,1,20</ls>
+<L>106582<pc>7-0804<k1>sarjI   : <ls>ebend.</ls>
+<L>106591<pc>7-0808<k1>sarpa   : <ls>ebend.</ls>
+<L>106591<pc>7-0808<k1>sarpa   : <ls>ebend.</ls>
+<L>106715<pc>7-0814<k1>sarvaga : <ls>ebend.</ls>
+<L>106783<pc>7-0818<k1>sarvatas : <ls>ed. SCHL.</ls>
+<L>106844<pc>7-0822<k1>sarvaDarmasamatA : <ls>ebend. 18</ls>
+<L>106845<pc>7-0822<k1>sarvaDarmasamavaSaraRasAgaramudrA : <ls>ebend. 17</ls>
+<L>107034<pc>7-0830<k1>sarvaSUnyatva : <ls>ebend. 9,3</ls>
+<L>107103<pc>7-0832<k1>sarvAkaravaropeta : <ls>ebend. 19</ls>
+<L>107292<pc>7-0841<k1>salhaRa : <ls>ebend. 7,1055</ls>
+<L>107292<pc>7-0841<k1>salhaRa : <ls n="ebend.">8,380</ls>
+<L>107292<pc>7-0841<k1>salhaRa : <ls n="ebend. 8,">463</ls>
+<L>107292<pc>7-0841<k1>salhaRa : <ls n="ebend. 8,">479</ls>
+<L>107294<pc>7-0841<k1>sava    : <ls>ebend.</ls>
+<L>107294<pc>7-0841<k1>sava    : <ls>ebend.</ls>
+<L>107341<pc>7-0844<k1>savitar : <ls>ebend.</ls>
+<L>107376<pc>7-0847<k1>savya   : <ls>ebend.</ls>
+<L>107418<pc>7-0850<k1>saSleza : <ls>ebend.</ls>
+<L>107419<pc>7-0850<k1>sazki   : <ls>ebend.</ls>
+<L>107437<pc>7-0851<k1>sasya   : <ls>Bomb. Ausgg.</ls>
+<L>107462<pc>7-0852<k1>sah     : <ls n="Padapāṭha">padap.</ls>
+<L>107466<pc>7-0859<k1>saha    : <ls n="Padapāṭha">padap.</ls>
+<L>107466<pc>7-0859<k1>saha    : <ls>ebend.</ls>
+<L>107499<pc>7-0862<k1>sahajavilAsa : <ls>ebend. 197</ls>
+<L>107500<pc>7-0862<k1>sahajasidDi : <ls>ebend. 192</ls>
+<L>107500<pc>7-0862<k1>sahajasidDi : <ls n="ebend.">276. fgg.</ls>
+<L>107517<pc>7-0863<k1>sahadeva : <ls>ebend.</ls>
+<L>107577<pc>7-0866<k1>sahalokaDAtu : <ls>ed. TR.</ls>
+<L>107594<pc>7-0866<k1>sahas   : <ls>ebend.</ls>
+<L>107606<pc>7-0868<k1>sahasidDa : <ls>ebend.</ls>
+<L>107620<pc>7-0868<k1>sahasra : <ls>ebend.</ls>
+<L>107803<pc>7-0878<k1>sahAvan : <ls n="Padapāṭha">padap.</ls>
+<L>107804<pc>7-0878<k1>sahAvant : <ls n="Padapāṭha">padap.</ls>
+<L>107849<pc>7-0881<k1>sahya   : <ls>Bomb. Ausg.</ls>
+<L>107857<pc>7-0882<k1>sA      : <ls n="Padapāṭha">padap.</ls>
+<L>107862<pc>7-0887<k1>sAMyAti : <ls>ebend.</ls>
+<L>107869<pc>7-0887<k1>sAMvatsara : <ls>Nax. 2,285</ls>
+<L>107951<pc>7-0892<k1>sAkzAtkaraRa : <ls>ebend. 230,a,26</ls>
+<L>107977<pc>7-0894<k1>sAgara  : <ls>ebend. 292,b,31. fg.</ls>
+<L>108040<pc>7-0897<k1>sAMKya  : <ls>ebend.</ls>
+<L>108040<pc>7-0897<k1>sAMKya  : <ls>ebend.</ls>
+<L>108068<pc>7-0899<k1>sAci    : <ls n="Padapāṭha">padap.</ls>
+<L>108138<pc>7-0903<k1>sAtyadUta : <ls>ebend. 188,3</ls>
+<L>108138<pc>7-0903<k1>sAtyadUta : <ls n="ebend.">187,6</ls>
+<L>108138<pc>7-0903<k1>sAtyadUta : <ls n="ebend.">193,4</ls>
+<L>108158<pc>7-0904<k1>sAdanaspfS : <ls n="Padapāṭha">padap.</ls>
+<L>108159<pc>7-0904<k1>sAdanya : <ls n="Padapāṭha">padap.</ls>
+<L>108166<pc>7-0905<k1>sAdi    : <ls>ebend.</ls>
+<L>108174<pc>7-0905<k1>sAdya   : <ls>ebend.</ls>
+<L>108184<pc>7-0909<k1>sADana  : <ls>ebend.</ls>
+<L>108191<pc>7-0911<k1>sADanamAlAtantra : <ls>handschriftlich in der Pariser Bibl.</ls>
+<L>108205<pc>7-0911<k1>sADAraRa : <ls n="Padapāṭha">padap.</ls>
+<L>108309<pc>7-0921<k1>sAneyI  : <ls>ebend.</ls>
+<L>108325<pc>7-0922<k1>sAntva  : <ls>Bomb. Ausgg.</ls>
+<L>108376<pc>7-0926<k1>sApiRqi : <ls>ebend.</ls>
+<L>108446<pc>7-0931<k1>sAmayAcArika : <ls>ebend.</ls>
+<L>108452<pc>7-0932<k1>sAmarAja : <ls>ebend.</ls>
+<L>108457<pc>7-0932<k1>sAmarTya : <ls n=" 16,">19</ls>
+<L>108555<pc>7-0940<k1>sAmba   : <ls>Bomb. Ausgg.</ls>
+<L>108632<pc>7-0945<k1>sAra    : <ls n="Padapāṭha">padap.</ls>
+<L>108642<pc>7-0948<k1>sAraNga : <ls>ebend.</ls>
+<L>108649<pc>7-0949<k1>sAracintAmaRi : <ls>ebend. 1,135</ls>
+<L>108675<pc>7-0951<k1>sArapattra : <ls>ebend.</ls>
+<L>108683<pc>7-0951<k1>sAraBARqa : <ls>ed. TULLB. 44,1</ls>
+<L>108708<pc>7-0952<k1>sArasaka : <ls>ed. TULLB.</ls>
+<L>108712<pc>7-0953<k1>sArasAyana : <ls>ebend.</ls>
+<L>108718<pc>7-0953<k1>sArasya : <ls>ebend.</ls>
+<L>108719<pc>7-0953<k1>sArasyAyana : <ls>ebend.</ls>
+<L>108722<pc>7-0954<k1>sArasvatatantra : <ls>ebend. 104,a,32</ls>
+<L>108742<pc>7-0954<k1>sArika  : <ls>Bomb. Ausgg.</ls>
+<L>108749<pc>7-0955<k1>sArizWa : <ls>ebend.</ls>
+<L>108859<pc>7-0961<k1>sAlAvfka : <ls>Bomb. Ausg.</ls>
+<L>108897<pc>7-0964<k1>sAvaSeza : <ls>Bomb. Ausg.</ls>
+<L>108901<pc>7-0964<k1>sAvitra : <ls>ebend.</ls>
+<L>108908<pc>7-0965<k1>sAvitrIputrIya : <ls>ebend.</ls>
+<L>108933<pc>7-0966<k1>sAsahi  : <ls n="Padapāṭha">padap.</ls>
+<L>108942<pc>7-0967<k1>sAsra   : <ls>Bomb. Ausgg.</ls>
+<L>108945<pc>7-0967<k1>sAha    : <ls n="Padapāṭha">padap.</ls>
+<L>108979<pc>7-0970<k1>sAhAyya : <ls>D. 471</ls>
+<L>108979<pc>7-0970<k1>sAhAyya : <ls n="D.">492</ls>
+<L>108997<pc>7-0971<k1>sAhya   : <ls>ed. SCHL. 1,59,3</ls>
+<L>109035<pc>7-0974<k1>siMhanAda : <ls>ebend.</ls>
+<L>109142<pc>7-0984<k1>siji    : <ls>ebend.</ls>
+<L>109187<pc>7-0986<k1>sitapuzpa : <ls>ebend.</ls>
+<L>109337<pc>7-0992<k1>sidDasena : <ls>ebend.</ls>
+<L>109360<pc>7-0993<k1>sidDAntatattva : <ls>ebend.</ls>
+<L>109418<pc>7-0998<k1>sidDimArga : <ls>ed. KOSEG. 242,5</ls>
+<L>109440<pc>7-0999<k1>siD     : <ls>ebend.</ls>
+<L>109440<pc>7-0999<k1>siD     : <ls>ebend. 3</ls>
+<L>109443<pc>7-1005<k1>siDma   : <ls>Hist. of MED. 2,119</ls>
+<L>109451<pc>7-1006<k1>sina    : <ls>ebend.</ls>
+<L>109546<pc>7-1011<k1>sirA    : <ls>Bomb. Ausg.</ls>
+<L>109602<pc>7-1013<k1>sItA    : <ls>Bomb. Ausgg.</ls>
+<L>109615<pc>7-1014<k1>sIDu    : <ls>Bomb. Ausgg.</ls>
+<L>109622<pc>7-1015<k1>sIpAla  : <ls>ebend.</ls>
+<L>109679<pc>7-1019<k1>su      : <ls>ebend.</ls>
+<L>109737<pc>7-1028<k1>sukundana : <ls>ebend.</ls>
+<L>109773<pc>7-1031<k1>suketu  : <ls>ebend.</ls>
+<L>109877<pc>7-1038<k1>suKavattA : <ls>ed. SCHL.</ls>
+<L>110106<pc>7-1049<k1>sujanman : <ls>Nax. 2,281, N., Z. 3 v. u.</ls>
+<L>110127<pc>7-1050<k1>sujji   : <ls>ebend. 8,1048</ls>
+<L>110127<pc>7-1050<k1>sujji   : <ls n="ebend. 8,">1062</ls>
+<L>110127<pc>7-1050<k1>sujji   : <ls n="ebend. 8,">1090</ls>
+<L>110127<pc>7-1050<k1>sujji   : <ls n="ebend. 8,">1138</ls>
+<L>110139<pc>7-1051<k1>suta    : <ls>ebend. 32,9</ls>
+<L>110188<pc>7-1054<k1>sutAvant : <ls n="Padapāṭha">padap.</ls>
+<L>110272<pc>7-1059<k1>sudAs   : <ls n="Padapāṭha">padap.</ls>
+<L>110387<pc>7-1066<k1>suDAniDi : <ls>ebend.</ls>
+<L>110466<pc>7-1070<k1>sunika  : <ls>Text.</ls>
+<L>110503<pc>7-1072<k1>sunIla  : <ls>ebend.</ls>
+<L>110797<pc>7-1087<k1>subAhuparipfcCA : <ls>Index des KANDJUR 11, No. 70</ls>
+<L>110829<pc>7-1090<k1>suBawa  : <ls>ebend.</ls>
+<L>110870<pc>7-1092<k1>suBUmi  : <ls>Text.</ls>
+<L>110887<pc>7-1093<k1>suBru   : <ls>ebend. 36,19</ls>
+<L>110922<pc>7-1095<k1>sumaDya : <ls>ed. SCHL.</ls>
+<L>110946<pc>7-1097<k1>sumantu : <ls>Text.</ls>
+<L>110974<pc>7-1099<k1>sumAgaDa : <ls>Index des KANDJUR 52</ls>
+<L>110979<pc>7-1099<k1>sumAnikA : <ls>ebend.</ls>
+<L>111021<pc>7-1102<k1>sumeru  : <ls>ebend.</ls>
+<L>111064<pc>7-1104<k1>suyya   : <ls>ebend. 5,120</ls>
+<L>111064<pc>7-1104<k1>suyya   : <ls>ebend.</ls>
+<L>111064<pc>7-1104<k1>suyya   : <ls>ebend.</ls>
+<L>111080<pc>7-1105<k1>saraktaka : <ls>ebend. 13,62</ls>
+<L>111115<pc>7-1107<k1>surataraNgiRI : <ls>ebend.</ls>
+<L>111147<pc>7-1108<k1>suranDra : <ls>ebend.</ls>
+<L>111169<pc>7-1109<k1>suraBi  : <ls n="Padapāṭha">padap.</ls>
+<L>111173<pc>7-1110<k1>suraBiganDa : <ls>ebend. 6,176</ls>
+<L>111242<pc>7-1112<k1>surasa  : <ls>ebend. 17</ls>
+<L>111262<pc>7-1114<k1>surA    : <ls>ebend.</ls>
+<L>111351<pc>7-1118<k1>surUpa  : <ls>ebend.</ls>
+<L>111399<pc>7-1121<k1>surohitikA : <ls>ebend.</ls>
+<L>111603<pc>7-1130<k1>suvida  : <ls>ebend.</ls>
+<L>111745<pc>7-1137<k1>suSrama : <ls>Text.</ls>
+<L>111782<pc>7-1139<k1>suzaha  : <ls n="Padapāṭha">padap.</ls>
+<L>111805<pc>7-1141<k1>suzumant : <ls n="Padapāṭha">padap.</ls>
+<L>112021<pc>7-1151<k1>sUkara  : <ls>Bomb. Ausgg.</ls>
+<L>112105<pc>7-1158<k1>sUcitA  : <ls>ebend.</ls>
+<L>112140<pc>7-1160<k1>sUtaka  : <ls>ebend.</ls>
+<L>112153<pc>7-1161<k1>sUtasaMhitA : <ls>ebend.</ls>
+<L>112226<pc>7-1165<k1>sUtrAlaMkAra : <ls>ebend.</ls>
+<L>112232<pc>7-1165<k1>sUd     : <ls>Bomb. Ausgg.</ls>
+<L>112259<pc>7-1168<k1>sUnfta  : <ls n="Padapāṭha">padap.</ls>
+<L>112297<pc>7-1170<k1>sUmaya  : <ls n="Padapāṭha">padap.</ls>
+<L>112414<pc>7-1177<k1>sUryavrata : <ls>ebend. No. 920</ls>
+<L>112429<pc>7-1177<k1>sUryasidDAnta : <ls>Bibl. indica</ls>
+<L>112483<pc>7-1179<k1>sfkvan  : <ls>edd. Bomb.</ls>
+<L>112487<pc>7-1179<k1>sfgAla  : <ls>Bomb. Ausgg.</ls>
+<L>112521<pc>7-1182<k1>sftvan  : <ls>ebend.</ls>
+<L>112603<pc>7-1186<k1>senahan : <ls>ebend. 9252</ls>
+<L>112669<pc>7-1194<k1>sevAPala : <ls>ebend.</ls>
+<L>112675<pc>7-1195<k1>sevikA  : <ls>ebend.</ls>
+<L>112739<pc>7-1199<k1>sEranDra : <ls>Bomb. Ausgg.</ls>
+<L>112764<pc>7-1200<k1>sowA    : <ls>ebend.</ls>
+<L>113131<pc>7-1218<k1>sOdAmanI : <ls>Bomb. Ausgg.</ls>
+<L>113186<pc>7-1221<k1>sOpuzpi : <ls>ebend. 59,2</ls>
+<L>113210<pc>7-1223<k1>sOBAgyaSayanavrata : <ls>ebend. 41,a,1</ls>
+<L>113210<pc>7-1223<k1>sOBAgyaSayanavrata : <ls n="ebend.">284,b,1</ls>
+<L>113211<pc>7-1223<k1>sOBAgyasundarItIrTa : <ls>ebend. 66,b,16</ls>
+<L>113212<pc>7-1223<k1>sOBAgyAzwakatftIyAvrata : <ls>ebend. 34,a,29</ls>
+<L>113239<pc>7-1224<k1>sOmapOzin : <ls>ebend.</ls>
+<L>113280<pc>7-1227<k1>sOra    : <ls>Nax. 2,281</ls>
+<L>113280<pc>7-1227<k1>sOra    : <ls n="Nax. 2,">358</ls>
+<L>113321<pc>7-1230<k1>sOrohitika : <ls>ebend.</ls>
+<L>113371<pc>7-1232<k1>sOvIra  : <ls>Mém. sur lʼInde 117</ls>
+<L>113378<pc>7-1233<k1>sOvIrAyaRa : <ls>ebend.</ls>
+<L>113379<pc>7-1233<k1>sOvIrya : <ls>ebend.</ls>
+<L>113402<pc>7-1234<k1>sOsAyana : <ls>ebend.</ls>
+<L>113403<pc>7-1234<k1>sOsuka  : <ls>ebend.</ls>
+<L>113441<pc>7-1238<k1>skandayAga : <ls>Pariśiṣṭa zum AV.</ls>
+<L>113501<pc>7-1243<k1>skAndAyanya : <ls>ebend.</ls>
+<L>113513<pc>7-1243<k1>sKadya  : <ls>ebend.</ls>
+<L>113520<pc>7-1246<k1>stana   : <ls>ebend.</ls>
+<L>113520<pc>7-1246<k1>stana   : <ls>ebend.</ls>
+<L>113550<pc>7-1247<k1>stanaSiKA : <ls>ebend.</ls>
+<L>113564<pc>7-1248<k1>stabaka : <ls>Bomb. Ausgg.</ls>
+<L>113615<pc>7-1257<k1>star    : <ls n="Padapāṭha">padap.</ls>
+<L>113615<pc>7-1257<k1>star    : <ls n="Padapāṭha">padap.</ls>
+<L>113616<pc>7-1260<k1>star    : <ls>ebend.</ls>
+<L>113624<pc>7-1261<k1>starya  : <ls>ebend.</ls>
+<L>113631<pc>7-1261<k1>stavadaRqaka : <ls>ebend.</ls>
+<L>113636<pc>7-1261<k1>stavarAja : <ls>ebend.</ls>
+<L>113639<pc>7-1262<k1>stavAvali : <ls>Index.</ls>
+<L>113656<pc>7-1262<k1>stiBinI : <ls>ebend.</ls>
+<L>113732<pc>7-1273<k1>stoBapada : <ls>TRÜBNERʼs Record 1870, S. 651</ls>
+<L>113735<pc>7-1273<k1>stoBAnusaMhAra : <ls>Pariśiṣṭa zum SV.</ls>
+<L>113823<pc>7-1278<k1>strImuKamaDudohada : <ls>ebend.</ls>
+<L>113928<pc>7-1285<k1>sTA     : <ls>S. 790</ls>
+<L>113928<pc>7-1285<k1>sTA     : <ls>ebend.</ls>
+<L>113932<pc>7-1318<k1>sTAgala : <ls>ebend.</ls>
+<L>113947<pc>7-1320<k1>sTAna   : <ls>ebend.</ls>
+<L>113957<pc>7-1323<k1>sTAnapati : <ls>ebend.</ls>
+<L>114002<pc>7-1327<k1>sTAraSman : <ls n="Padapāṭha">padap.</ls>
+<L>114013<pc>7-1328<k1>sTAlIbila : <ls>ebend.</ls>
+<L>114028<pc>7-1329<k1>sTita   : <ls>ebend.</ls>
+<L>114165<pc>7-1341<k1>sTUlaMBAvuka : <ls>ebend.</ls>
+<L>114201<pc>7-1342<k1>sTUloccaya : <ls>ebend.</ls>
+<L>114214<pc>7-1344<k1>sTORika : <ls>ebend.</ls>
+<L>114231<pc>7-1344<k1>snA     : <ls>ebend.</ls>
+<L>114234<pc>7-1346<k1>snAkzA  : <ls>ebend.</ls>
+<L>114256<pc>7-1348<k1>snAnaviDi : <ls>Pariśiṣṭa zum SV.</ls>
+<L>114279<pc>7-1349<k1>snigDa  : <ls>ebend.</ls>
+<L>114290<pc>7-1350<k1>sniw    : <ls>ebend. 36</ls>
+<L>114291<pc>7-1350<k1>snih    : <ls>ebend.</ls>
+<L>114311<pc>7-1353<k1>snehakartar : <ls>ebend.</ls>
+<L>114340<pc>7-1355<k1>spanda  : <ls>ebend.</ls>
+<L>114357<pc>7-1358<k1>sparS   : <ls>ebend.</ls>
+<L>114392<pc>7-1365<k1>spaS    : <ls>ebend.</ls>
+<L>114418<pc>7-1368<k1>spfzwavya : <ls>ed. JOHNS.</ls>
+<L>114506<pc>7-1375<k1>sPur    : <ls>ebend.</ls>
+<L>114544<pc>7-1381<k1>sPolana : <ls>ebend.</ls>
+<L>114561<pc>7-1383<k1>smar    : <ls n=" 82,">76</ls>
+<L>114641<pc>7-1393<k1>smftisaMskAravAda : <ls>ebend.</ls>
+<L>114675<pc>7-1397<k1>syam    : <ls>ebend.</ls>
+<L>114681<pc>7-1397<k1>syAt    : <ls>ebend.</ls>
+<L>114682<pc>7-1398<k1>syAla   : <ls>Bomb. Ausgg.</ls>
+<L>114765<pc>7-1405<k1>sru     : <ls>Bomb. Ausgg.</ls>
+<L>114792<pc>7-1410<k1>srotaApanna : <ls>ebend.</ls>
+<L>114795<pc>7-1410<k1>srotas  : <ls>Bomb. Ausgg.</ls>
+<L>114803<pc>7-1411<k1>srotonadIBava : <ls>ebend.</ls>
+<L>114866<pc>7-1418<k1>svacCandaSAktAgama : <ls>ebend. 321,a, No. 761</ls>
+<L>114867<pc>7-1418<k1>svacCandasaMgraha : <ls>ebend. 108,a,6 v. u.</ls>
+<L>114871<pc>7-1418<k1>svacCavAluka : <ls>ebend.</ls>
+<L>114872<pc>7-1418<k1>svaj    : <ls>ebend.</ls>
+<L>114951<pc>7-1426<k1>svaDur  : <ls>ebend.</ls>
+<L>114996<pc>7-1431<k1>svapAka : <ls n="Padapāṭha">padap.</ls>
+<L>115000<pc>7-1431<k1>svapivAta : <ls n="Padapāṭha">padap.</ls>
+<L>115000<pc>7-1431<k1>svapivAta : <ls n="Durgasiṃha">D.</ls>
+<L>115032<pc>7-1433<k1>svaprakASa : <ls>ebend. 60</ls>
+<L>115131<pc>7-1438<k1>svayaMprakASa : <ls>ebend.</ls>
+<L>115159<pc>7-1440<k1>svar    : <ls>ebend.</ls>
+<L>115192<pc>7-1444<k1>svarasa : <ls>Ausg. 442</ls>
+<L>115215<pc>7-1446<k1>svari   : <ls n="Padapāṭha">padap.</ls>
+<L>115297<pc>7-1450<k1>svargya : <ls>ebend.</ls>
+<L>115357<pc>7-1453<k1>svarRaBUzaRa : <ls>ebend.</ls>
+<L>115367<pc>7-1453<k1>svarRara : <ls n="Padapāṭha">padap.</ls>
+<L>115457<pc>7-1457<k1>svavas  : <ls n="Padapāṭha">padap.</ls>
+<L>115458<pc>7-1457<k1>svavasu : <ls n="Padapāṭha">padap.</ls>
+<L>115494<pc>7-1459<k1>svasar  : <ls>ebend.</ls>
+<L>115495<pc>7-1459<k1>svasara : <ls n="Padapāṭha">padap.</ls>
+<L>115542<pc>7-1464<k1>svasvaDa : <ls>Index.</ls>
+<L>115585<pc>7-1466<k1>svAtman : <ls>D. 40</ls>
+<L>115585<pc>7-1466<k1>svAtman : <ls n="D.">184,10</ls>
+<L>115658<pc>7-1470<k1>svAnuBUtiprakASa : <ls>ebend.</ls>
+<L>115666<pc>7-1471<k1>svApakIy : <ls>ebend.</ls>
+<L>115666<pc>7-1471<k1>svApakIy : <ls>ebend.</ls>
+<L>115674<pc>7-1471<k1>svApiSi : <ls>ebend.</ls>
+<L>115709<pc>7-1474<k1>svAra   : <ls>ebend.</ls>
+<L>115718<pc>7-1474<k1>svAruh  : <ls n="Padapāṭha">padap.</ls>
+<L>115736<pc>7-1475<k1>svAvfj  : <ls n="Padapāṭha">padap.</ls>
+<L>115774<pc>7-1478<k1>svid    : <ls>ebend.</ls>
+<L>115817<pc>7-1482<k1>sveduhavya : <ls n="Padapāṭha">padap.</ls>
+<L>115832<pc>7-1484<k1>svEritA : <ls>ed. LOIS.</ls>
+<L>115833<pc>7-1484<k1>svErin  : <ls>ebend.</ls>
+<L>115849<pc>7-1486<k1>haMsa   : <ls>ebend. 162 (X, 18)</ls>
+<L>115932<pc>7-1491<k1>hajAja  : <ls>ebend. 340,a,14</ls>
+<L>115947<pc>7-1491<k1>haWa    : <ls>ebend.</ls>
+<L>115988<pc>7-1494<k1>hadda   : <ls>ebend.</ls>
+<L>115989<pc>7-1494<k1>han     : <ls>ebend.</ls>
+<L>115989<pc>7-1494<k1>han     : <ls>ebend.</ls>
+<L>115989<pc>7-1494<k1>han     : <ls>Bomb. Ausgg.</ls>
+<L>115989<pc>7-1494<k1>han     : <ls>ebend. S. 157</ls>
+<L>115993<pc>7-1513<k1>hananIy : <ls>ebend.</ls>
+<L>116040<pc>7-1517<k1>hayagrIva : <ls>ebend.</ls>
+<L>116088<pc>7-1541<k1>hara    : <ls>ebend.</ls>
+<L>116135<pc>7-1545<k1>hari    : <ls>D. 237,16</ls>
+<L>116151<pc>7-1547<k1>harigaRa : <ls>ebend.</ls>
+<L>116260<pc>7-1554<k1>haripriya : <ls>ebend.</ls>
+<L>116298<pc>7-1555<k1>harilIlA : <ls>ebend.</ls>
+<L>116360<pc>7-1558<k1>harihariharivAhanasADana : <ls>KANDJUR.</ls>
+<L>116395<pc>7-1562<k1>harz    : <ls>ebend. 36,9</ls>
+<L>116395<pc>7-1562<k1>harz    : <ls>ebend.</ls>
+<L>116395<pc>7-1562<k1>harz    : <ls>ebend.</ls>
+<L>116408<pc>7-1566<k1>harzamaya : <ls>ebend.</ls>
+<L>116425<pc>7-1567<k1>halakA  : <ls>ebend.</ls>
+<L>116435<pc>7-1567<k1>halay   : <ls>ebend.</ls>
+<L>116472<pc>7-1570<k1>havava  : <ls>ebend. 180</ls>
+<L>116472<pc>7-1570<k1>havava  : <ls n="ebend.">182</ls>
+<L>116656<pc>7-1583<k1>hastin  : <ls>ebend.</ls>
+<L>116720<pc>7-1594<k1>hA      : <ls>ebend.</ls>
+<L>116722<pc>7-1595<k1>hAuhuvEvAsAman : <ls>ebend. 236,a</ls>
+<L>116755<pc>7-1597<k1>hAyanasinDu : <ls>ebend. 252</ls>
+<L>116755<pc>7-1597<k1>hAyanasinDu : <ls n="ebend.">272</ls>
+<L>116756<pc>7-1597<k1>hAyanasundara : <ls>ebend. 252</ls>
+<L>116757<pc>7-1597<k1>hAyanottama : <ls>ebend.</ls>
+<L>116869<pc>7-1605<k1>hAstipada : <ls>ebend.</ls>
+<L>116886<pc>7-1606<k1>hi      : <ls>ebend.</ls>
+<L>116886<pc>7-1606<k1>hi      : <ls>ebend. 119,a</ls>
+<L>116949<pc>7-1616<k1>hitakArin : <ls>ebend.</ls>
+<L>117029<pc>7-1620<k1>himaSraTa : <ls>ebend.</ls>
+<L>117031<pc>7-1620<k1>himasaMGAta : <ls>ed. TR.</ls>
+<L>117079<pc>7-1622<k1>hiraRmaya : <ls>ebend.</ls>
+<L>117095<pc>7-1624<k1>hiraRyakeSa : <ls>ebend.</ls>
+<L>117111<pc>7-1625<k1>hiraRyada : <ls>ebend.</ls>
+<L>117141<pc>7-1626<k1>hiraRyayA : <ls n="Padapāṭha">padap.</ls>
+<L>117147<pc>7-1626<k1>hiraRyaretas : <ls>ebend.</ls>
+<L>117186<pc>7-1629<k1>hiraRyASva : <ls>ebend.</ls>
+<L>117242<pc>7-1633<k1>hu      : <ls>ebend.</ls>
+<L>117305<pc>7-1639<k1>hUMhUMkArapriya : <ls>ebend.</ls>
+<L>117310<pc>7-1639<k1>hUNgarAI : <ls>ebend. 339,b,22</ls>
+<L>117310<pc>7-1639<k1>hUNgarAI : <ls n="ebend. 339,b,">39</ls>
+<L>117427<pc>7-1646<k1>hfdgolIya : <ls>ebend.</ls>
+<L>117438<pc>7-1647<k1>hfdya   : <ls n="Padapāṭha">padap.</ls>
+<L>117443<pc>7-1647<k1>hfdyota : <ls n="Padapāṭha">padap.</ls>
+<L>117484<pc>7-1649<k1>heti    : <ls n="Padapāṭha">padap.</ls>
+<L>117488<pc>7-1650<k1>hetu    : <ls>ebend.</ls>
+<L>117513<pc>7-1653<k1>hema    : <ls>ebend.</ls>
+<L>117619<pc>7-1658<k1>hemyAvant : <ls n="Padapāṭha">padap.</ls>
+<L>117647<pc>7-1660<k1>hevajra : <ls>ebend.</ls>
+<L>117670<pc>7-1661<k1>hEma    : <ls>ebend.</ls>
+<L>117771<pc>7-1669<k1>holarA  : <ls>ebend. 2909</ls>
+<L>117771<pc>7-1669<k1>holarA  : <ls n="ebend.">3216</ls>
+<L>117843<pc>7-1674<k1>hrAda   : <ls>ebend. 6,31,b</ls>
+<L>117848<pc>7-1674<k1>hrAdunIvft : <ls n="Padapāṭha">padap.</ls>
+<L>117900<pc>7-1677<k1>hlAda   : <ls>Text.</ls>
+<L>117908<pc>7-1678<k1>hlAdukAvant : <ls>ebend.</ls>
+<L>117925<pc>7-1684<k1>hvAyaka : <ls>ebend.</ls>
+<L>117980<pc>7-1687<k1>agnijAra : <ls>ebend.</ls>
+<L>118239<pc>7-1694<k1>anuprayoga : <ls>ebend.</ls>
+<L>118263<pc>7-1694<k1>anuvartya : <ls>ebend. 1,47,b. 3,51,b</ls>
+<L>118264<pc>7-1695<k1>anuvAkIya : <ls>ebend. 5,43,b</ls>
+<L>118271<pc>7-1695<k1>anuviDeya : <ls>ebend. 1,16,a</ls>
+<L>118325<pc>7-1696<k1>antavat : <ls>ebend. 1,204,a</ls>
+<L>118325<pc>7-1696<k1>antavat : <ls>ebend.</ls>
+<L>118329<pc>7-1696<k1>antizad : <ls>ebend. 6 (4) 43,b</ls>
+<L>118348<pc>7-1697<k1>anvAKyAna : <ls>ebend. 1,154,b. 2,311,b. 312,b</ls>
+<L>118349<pc>7-1697<k1>anvAKyAyaka : <ls>ebend. 1,154,b</ls>
+<L>118478<pc>7-1700<k1>aByantarIkar : <ls>ebend. 8,21,b</ls>
+<L>118527<pc>7-1702<k1>aravant : <ls>ebend.</ls>
+<L>118609<pc>7-1704<k1>avarohaRa : <ls>ebend.</ls>
+<L>118753<pc>7-1708<k1>Adivat  : <ls>ebend.</ls>
+<L>118754<pc>7-1708<k1>AdIDaka : <ls>ebend. 7,128,a. b.</ls>
+<L>118755<pc>7-1708<k1>AdeSana : <ls>ebend. 2,311,b</ls>
+<L>118756<pc>7-1708<k1>AdeSin  : <ls>ebend. 1,135,a</ls>
+<L>118791<pc>7-1709<k1>AmiSrIBUta : <ls>ebend. 1,193,b. 6,12,a</ls>
+<L>118796<pc>7-1709<k1>Ayajin  : <ls>ebend.</ls>
+<L>118799<pc>7-1710<k1>AyaskAri : <ls>ebend. 4,57,b</ls>
+<L>118800<pc>7-1710<k1>AyAma   : <ls>ebend. 1,192,b</ls>
+<L>118827<pc>7-1710<k1>ArDaDAtukIya : <ls>ebend. 1,138,a. 181,b. 3,37,a</ls>
+<L>118828<pc>7-1710<k1>ArDamAsika : <ls>ebend. 4,72,a</ls>
+<L>118832<pc>7-1711<k1>Arzika  : <ls>ebend. 4,74,b</ls>
+<L>118837<pc>7-1711<k1>AlamarTya : <ls>ebend. 3,95,a</ls>
+<L>118907<pc>7-1713<k1>i       : <ls>ebend.</ls>
+<L>119016<pc>7-1716<k1>uddeSa  : <ls>ebend.</ls>
+<L>119025<pc>7-1717<k1>udDvaMsa : <ls>ebend.</ls>
+<L>119026<pc>7-1717<k1>udDvaMsana : <ls>ebend.</ls>
+<L>119059<pc>7-1717<k1>upadeSa : <ls>ebend.</ls>
+<L>119095<pc>7-1719<k1>upasaMyoga : <ls>ebend. 4,63,b</ls>
+<L>119100<pc>7-1719<k1>upasaraja : <ls>ebend. 6,81,b</ls>
+<L>119129<pc>7-1720<k1>upoccArin : <ls>ebend. 1,302,a. b.</ls>
+<L>119134<pc>7-1720<k1>upozya  : <ls>ebend. 227. fg.</ls>
+<L>119135<pc>7-1720<k1>ubj     : <ls>ebend.</ls>
+<L>119182<pc>7-1721<k1>fjutva  : <ls>ebend. 4,81</ls>
+<L>119200<pc>7-1722<k1>eka     : <ls>ebend. 5,58,b</ls>
+<L>119217<pc>7-1722<k1>ekAntaSIla : <ls>ebend. 3,12,b</ls>
+<L>119233<pc>7-1722<k1>evaMjAtIyaka : <ls>ebend. 1,40,a. 4,45,a</ls>
+<L>119234<pc>7-1722<k1>evamAtmaka : <ls>ebend. 1,224,a</ls>
+<L>119240<pc>7-1723<k1>EkArTya : <ls>ebend. 2,368,a</ls>
+<L>119243<pc>7-1723<k1>ERIkIya : <ls>ebend. 4,75,b</ls>
+<L>119250<pc>7-1723<k1>ojasy   : <ls>ebend. 3,17,b</ls>
+<L>119260<pc>7-1723<k1>OttarArDika : <ls>ebend. 4,76,b</ls>
+<L>119262<pc>7-1723<k1>OdameGa : <ls>ebend.</ls>
+<L>119270<pc>7-1723<k1>OpagavIya : <ls>ebend. 4,60,a</ls>
+<L>119271<pc>7-1723<k1>OpadeSika : <ls>ebend. 1,88,b. 181,b</ls>
+<L>119274<pc>7-1723<k1>OpaSlezika : <ls>ebend. 5,21,a. 6,31,b</ls>
+<L>119290<pc>7-1724<k1>kaNkola : <ls>ebend.</ls>
+<L>119362<pc>7-1726<k1>kal     : <ls>ebend.</ls>
+<L>119376<pc>7-1727<k1>kalp    : <ls>ebend. 95,a. 165,b</ls>
+<L>119393<pc>7-1727<k1>kazwa   : <ls>ebend.</ls>
+<L>119400<pc>7-1727<k1>kAkalaka : <ls>ebend. 1,69,a</ls>
+<L>119415<pc>7-1728<k1>kAtya   : <ls>ebend. 3,64,a</ls>
+<L>119419<pc>7-1728<k1>kApota  : <ls>ebend. 4,87,b</ls>
+<L>119420<pc>7-1728<k1>kApoti  : <ls>ebend. 4,43,a</ls>
+<L>119429<pc>7-1728<k1>kAravatIra : <ls>ebend.</ls>
+<L>119441<pc>7-1728<k1>kArttikIya : <ls>ebend.</ls>
+<L>119447<pc>7-1729<k1>kArzApaRa : <ls>ebend. 1,225,a</ls>
+<L>119459<pc>7-1729<k1>kAlika  : <ls>ebend. 6,92,b</ls>
+<L>119463<pc>7-1729<k1>kASika  : <ls>ebend. 5,60,a</ls>
+<L>119464<pc>7-1729<k1>kASikosalIya : <ls>ebend. 4,29,a</ls>
+<L>119465<pc>7-1729<k1>kASeruyajYika : <ls>ebend. 5,5,b</ls>
+<L>119468<pc>7-1729<k1>kAstIra : <ls>ebend. 4,72,b</ls>
+<L>119471<pc>7-1729<k1>kiMvant : <ls>ebend. 1,149,b</ls>
+<L>119506<pc>7-1730<k1>kuRaravAqava : <ls>ebend. 3,65,a</ls>
+<L>119512<pc>7-1730<k1>kutas   : <ls>ebend. 3,51,a. 6,86,a</ls>
+<L>119526<pc>7-1731<k1>kurabaka : <ls>Bomb. Ausgg.</ls>
+<L>119565<pc>7-1732<k1>kfta    : <ls>ebend. 1,2. fg.</ls>
+<L>119565<pc>7-1732<k1>kfta    : <ls n="ebend. 1,">16</ls>
+<L>119565<pc>7-1732<k1>kfta    : <ls n="ebend. 1,">18. fg.</ls>
+<L>119565<pc>7-1732<k1>kfta    : <ls n="ebend. 1,">23. fg.</ls>
+<L>119565<pc>7-1732<k1>kfta    : <ls n="ebend. 1,">47</ls>
+<L>119572<pc>7-1732<k1>kfti    : <ls>ebend. 3,8</ls>
+<L>119572<pc>7-1732<k1>kfti    : <ls n="ebend. 3,">16</ls>
+<L>119572<pc>7-1732<k1>kfti    : <ls n="ebend.">4,22</ls>
+<L>119572<pc>7-1732<k1>kfti    : <ls n="ebend.">8,5</ls>
+<L>119600<pc>7-1733<k1>kEmarTya : <ls>ebend. 1,269,b</ls>
+<L>119601<pc>7-1733<k1>kEmAyani : <ls>ebend. 4,51,a</ls>
+<L>119610<pc>7-1733<k1>kowi    : <ls>ebend.</ls>
+<L>119617<pc>7-1733<k1>kOkkuwIbarha : <ls>ebend. 4,74,b</ls>
+<L>119618<pc>7-1733<k1>kOmudaganDyA : <ls>ebend. 6,14,a</ls>
+<L>119619<pc>7-1733<k1>kOmoda  : <ls>ebend. 2,397,a</ls>
+<L>119625<pc>7-1733<k1>kOlIni  : <ls>ebend.</ls>
+<L>119626<pc>7-1733<k1>kOvala  : <ls>ebend. 4,86,a</ls>
+<L>119634<pc>7-1734<k1>kram    : <ls>ebend. 2,372,b</ls>
+<L>119648<pc>7-1734<k1>krOzwra : <ls>ebend. 109,a</ls>
+<L>119680<pc>7-1735<k1>kzvid   : <ls>ebend. 1,20,a</ls>
+<L>119686<pc>7-1735<k1>KaRqa   : <ls>ebend. 2,372,a</ls>
+<L>119739<pc>7-1737<k1>ganDahastin : <ls>ebend.</ls>
+<L>119742<pc>7-1737<k1>gam     : <ls>ebend.</ls>
+<L>119743<pc>7-1737<k1>gayasPAya : <ls>ebend. 6,28,b</ls>
+<L>119830<pc>7-1740<k1>gOlmika : <ls>ebend. 4,73,b</ls>
+<L>119837<pc>7-1740<k1>graha   : <ls>ebend. 7,58,a. b.</ls>
+<L>119838<pc>7-1740<k1>grahaRavant : <ls>ebend. 4,2,a. 12,a</ls>
+<L>119875<pc>7-1741<k1>ca      : <ls>ebend.</ls>
+<L>119877<pc>7-1741<k1>cakrabAla : <ls>Bomb. Ausgg.</ls>
+<L>119912<pc>7-1742<k1>car     : <ls>ebend. 1,246,b</ls>
+<L>119982<pc>7-1745<k1>jagaty  : <ls>ebend. 1,267,a</ls>
+<L>119991<pc>7-1745<k1>janagat : <ls>ebend.</ls>
+<L>120027<pc>7-1746<k1>jAradvfkza : <ls>ebend. 4,88,a</ls>
+<L>120047<pc>7-1746<k1>jYa     : <ls>ebend. 6 (4),46,b</ls>
+<L>120050<pc>7-1747<k1>jYOdanIy : <ls>ebend.</ls>
+<L>120066<pc>7-1747<k1>qAka    : <ls>ebend.</ls>
+<L>120116<pc>7-1748<k1>tAdarTya : <ls>ebend. 4,66,b</ls>
+<L>120157<pc>7-1749<k1>tUbaraka : <ls>edd. Bomb.</ls>
+<L>120192<pc>7-1750<k1>trErAtrika : <ls>ebend. 7,113,a</ls>
+<L>120193<pc>7-1750<k1>trESabdya : <ls>ebend. 1,296,b. 3,38,b</ls>
+<L>120194<pc>7-1750<k1>trEsamika : <ls>ebend. 7,113,a</ls>
+<L>120198<pc>7-1751<k1>tvaktrARa : <ls>ebend. 1,203,a</ls>
+<L>120199<pc>7-1751<k1>tvacAyani : <ls>ebend. 4,51,a</ls>
+<L>120200<pc>7-1751<k1>tvAtputra : <ls>ebend. 1,177,b</ls>
+<L>120251<pc>7-1752<k1>dAradikA : <ls>ebend. 6,96,a</ls>
+<L>120261<pc>7-1752<k1>digvrata : <ls>ebend. 3,83</ls>
+<L>120294<pc>7-1753<k1>durupacAra : <ls>ebend. 1,282,b</ls>
+<L>120295<pc>7-1753<k1>durupadizwa : <ls>ebend. 2,351,b</ls>
+<L>120296<pc>7-1753<k1>durupadeSa : <ls>ebend.</ls>
+<L>120297<pc>7-1753<k1>durupapAda : <ls>ebend. 2,369,a</ls>
+<L>120344<pc>7-1754<k1>devadiRRa : <ls>ebend. 1,28,b</ls>
+<L>120358<pc>7-1755<k1>dEvayAtava : <ls>ebend. 4,71,a</ls>
+<L>120402<pc>7-1756<k1>dvErAtrika : <ls>ebend. 7,113,a</ls>
+<L>120421<pc>7-1757<k1>DA      : <ls>ebend. 1,172,a</ls>
+<L>120460<pc>7-1758<k1>DvaMs   : <ls>ebend.</ls>
+<L>120483<pc>7-1759<k1>nar     : <ls n="Padapāṭha">padap.</ls>
+<L>120486<pc>7-1759<k1>nartakaka : <ls>ebend. 6,96,a</ls>
+<L>120520<pc>7-1760<k1>nArnamani : <ls>ebend. 1,34,b</ls>
+<L>120547<pc>7-1761<k1>nipAtya : <ls>ebend. 7,91,a. 134,a</ls>
+<L>120550<pc>7-1761<k1>nibiqa  : <ls>Bomb. Ausgg.</ls>
+<L>120563<pc>7-1761<k1>niranubanDaka : <ls>ebend. 1,81,a</ls>
+<L>120617<pc>7-1763<k1>nirvEriRa : <ls>TARKASAṂGR.</ls>
+<L>120624<pc>7-1763<k1>niviqa  : <ls>Bomb. Ausgg.</ls>
+<L>120680<pc>7-1764<k1>nEvAsika : <ls>ebend. 4,71,b</ls>
+<L>120733<pc>7-1766<k1>par     : <ls>ebend. 6,13,a. b.</ls>
+<L>120733<pc>7-1766<k1>par     : <ls>ebend.</ls>
+<L>120752<pc>7-1767<k1>parigrahItavya : <ls>ebend.</ls>
+<L>120769<pc>7-1767<k1>pariBAzA : <ls>ebend. 2,306,b</ls>
+<L>120770<pc>7-1767<k1>pariBAzya : <ls>ebend. 1,169,a</ls>
+<L>120771<pc>7-1767<k1>parimaNkana : <ls>ebend. 8,70,b</ls>
+<L>120801<pc>7-1768<k1>parokza : <ls>ebend. 1,186,b</ls>
+<L>120813<pc>7-1768<k1>paryavapAdya : <ls>ebend. 3,111,a. b.</ls>
+<L>120839<pc>7-1769<k1>pAka    : <ls>ebend. 1,3,15</ls>
+<L>120839<pc>7-1769<k1>pAka    : <ls>ebend. 3,2,14</ls>
+<L>120846<pc>7-1769<k1>pAYcakalApika : <ls>ebend. 5,12,a</ls>
+<L>120879<pc>7-1770<k1>pAripAtra : <ls>Bomb. Ausgg.</ls>
+<L>120882<pc>7-1770<k1>pArivfQi : <ls>ebend. 7,90,a</ls>
+<L>120883<pc>7-1770<k1>pArizeRya : <ls>ebend. 4,54,a</ls>
+<L>120905<pc>7-1771<k1>pippalaka : <ls>ebend.</ls>
+<L>120964<pc>7-1772<k1>pUla    : <ls>ebend.</ls>
+<L>120965<pc>7-1772<k1>pfT     : <ls>ebend. 4,54,b</ls>
+<L>120976<pc>7-1773<k1>pElIya  : <ls>ebend. 4,60,a</ls>
+<L>120977<pc>7-1773<k1>pEluSIrzi : <ls>ebend. 6,26,a</ls>
+<L>120985<pc>7-1773<k1>pORikera : <ls>ebend. 4,53,b</ls>
+<L>120986<pc>7-1773<k1>pOtanya : <ls>ebend. 4,10,a</ls>
+<L>120990<pc>7-1773<k1>pOrti   : <ls>ebend. 1,266,b</ls>
+<L>121002<pc>7-1773<k1>prakramitar : <ls>ebend. 7,92,a</ls>
+<L>121036<pc>7-1774<k1>pratirAjam : <ls>ebend. 5,78,b</ls>
+<L>121067<pc>7-1775<k1>pratyudAhArya : <ls>ebend. 1,249,a</ls>
+<L>121068<pc>7-1775<k1>praTay  : <ls>ebend. 6 (4),44,b</ls>
+<L>121093<pc>7-1776<k1>prayojya : <ls>ebend.</ls>
+<L>121095<pc>7-1776<k1>prarzaBa : <ls>ebend.</ls>
+<L>121112<pc>7-1776<k1>pravetar : <ls>ebend. 2,405,a. b.</ls>
+<L>121119<pc>7-1777<k1>prasaNktavya : <ls>ebend. 2,392,b. 6 (4),41,a</ls>
+<L>121123<pc>7-1777<k1>prasanna : <ls>ebend. 5,67,a</ls>
+<L>121137<pc>7-1777<k1>prasnavitrIy : <ls>ebend. 7,92,a</ls>
+<L>121138<pc>7-1777<k1>prasPij : <ls>ebend. 1,295,a. 6,85,a</ls>
+<L>121154<pc>7-1778<k1>prARatozaRI : <ls>Calcutta 1857</ls>
+<L>121154<pc>7-1778<k1>prARatozaRI : <ls n="Calcutta">2te Aufl</ls>
+<L>121167<pc>7-1778<k1>prApaRa : <ls>ebend. 1,235,a</ls>
+<L>121168<pc>7-1778<k1>prApay  : <ls>ebend. 6 (4),23,b. 44,b</ls>
+<L>121197<pc>7-1779<k1>prEyaNgavika : <ls>ebend. 4,67,a</ls>
+<L>121208<pc>7-1779<k1>PaRin   : <ls>ebend. 5,221</ls>
+<L>121237<pc>7-1780<k1>balIyastva : <ls>ebend.</ls>
+<L>121249<pc>7-1780<k1>bahutaraka : <ls>ebend. 1,163,b. 7,75,a</ls>
+<L>121257<pc>7-1781<k1>bahuhiraRya : <ls>ebend.</ls>
+<L>121258<pc>7-1781<k1>bahvajAvika : <ls>ebend.</ls>
+<L>121259<pc>7-1781<k1>bahvaSva : <ls>ebend.</ls>
+<L>121264<pc>7-1781<k1>bAQa    : <ls>Bomb. Ausgg.</ls>
+<L>121332<pc>7-1783<k1>BadraSOnaka : <ls>ebend.</ls>
+<L>121374<pc>7-1784<k1>BAz     : <ls>ebend.</ls>
+<L>121386<pc>7-1784<k1>Buj     : <ls>ebend.</ls>
+<L>121430<pc>7-1786<k1>maKa    : <ls>ebend.</ls>
+<L>121561<pc>7-1789<k1>mAtputra : <ls>ebend. 1,177,b</ls>
+<L>121571<pc>7-1790<k1>mADyamika : <ls>ebend. 5,60,a</ls>
+<L>121572<pc>7-1790<k1>mADyamikIya : <ls>ebend. 6,95,a</ls>
+<L>121621<pc>7-1791<k1>mudrA   : <ls>Bull. de lʼAcad. Imp. des sc. de St. P. 20,383</ls>
+<L>121623<pc>7-1791<k1>murmurIy : <ls>ebend.</ls>
+<L>121626<pc>7-1791<k1>muhUrtamArtaRqa : <ls>lithogr. Bombay 1861</ls>
+<L>121663<pc>7-1792<k1>yati    : <ls>ebend.</ls>
+<L>121700<pc>7-1793<k1>yAjYikyaka : <ls>ebend. 5,73,b</ls>
+<L>121704<pc>7-1794<k1>yApayitavya : <ls>ebend. 5,58,a</ls>
+<L>121718<pc>7-1794<k1>yuj     : <ls>ebend. 4,77,a</ls>
+<L>121718<pc>7-1794<k1>yuj     : <ls>ebend. 1,14,a</ls>
+<L>121719<pc>7-1794<k1>yuvatva : <ls>ebend. 4,58,2</ls>
+<L>121720<pc>7-1794<k1>yuzmay  : <ls>ebend. 7,102,a</ls>
+<L>121735<pc>7-1795<k1>yOvanikA : <ls>ebend. 6 (4),47,b</ls>
+<L>121760<pc>7-1795<k1>rarAvan : <ls n="Padapāṭha">padap.</ls>
+<L>121784<pc>7-1796<k1>riy     : <ls>ebend. 1,267,b</ls>
+<L>121846<pc>7-1798<k1>liK     : <ls>ebend. 1,297,b. 298,a</ls>
+<L>121875<pc>7-1798<k1>lOhakAri : <ls>ebend. 4,57,b</ls>
+<L>121893<pc>7-1799<k1>vawaka  : <ls>ebend.</ls>
+<L>121938<pc>7-1800<k1>varRaka : <ls>Calc. Ausgg.</ls>
+<L>121939<pc>7-1800<k1>varRapAWa : <ls>ebend. 1,168,b</ls>
+<L>121951<pc>7-1801<k1>varDitavya : <ls>ebend. 4,9,a</ls>
+<L>121981<pc>7-1802<k1>vA      : <ls n="Padapāṭha">padap.</ls>
+<L>121995<pc>7-1802<k1>vAtavya : <ls>ebend. 1,116,b. 244,b</ls>
+<L>121998<pc>7-1802<k1>vAnIya  : <ls>ebend. 6,23,a</ls>
+<L>122010<pc>7-1803<k1>vAriSaya : <ls>ebend.</ls>
+<L>122012<pc>7-1803<k1>vArkza  : <ls>ebend. 5,3,a</ls>
+<L>122013<pc>7-1803<k1>vArRa   : <ls>ebend. 3,63,b. 64,a. 6,13,b</ls>
+<L>122014<pc>7-1803<k1>vArtta  : <ls>ebend. 1,219,b. 2,363,a. 410,a. 4,3,b</ls>
+<L>122015<pc>7-1803<k1>vArttataraka : <ls>ebend. 1,163,b</ls>
+<L>122016<pc>7-1803<k1>vArttikasUtrika : <ls>ebend. 4,67,a</ls>
+<L>122164<pc>7-1807<k1>vIpsa   : <ls>ebend. 8,7,a</ls>
+<L>122204<pc>7-1808<k1>vEpulya : <ls>ebend. 1,277,a</ls>
+<L>122205<pc>7-1808<k1>vEBakta : <ls>ebend. 6,37,b</ls>
+<L>122213<pc>7-1808<k1>vElasTAna : <ls>ebend.</ls>
+<L>122218<pc>7-1808<k1>vEzayika : <ls>ebend. 5,39,a</ls>
+<L>122226<pc>7-1809<k1>vyatIkzA : <ls>ebend. 3,90,a. 91,a</ls>
+<L>122227<pc>7-1809<k1>vyatIhA : <ls>ebend. 91,a</ls>
+<L>122232<pc>7-1809<k1>vyapadeSavant : <ls>ebend. 4,58,a</ls>
+<L>122233<pc>7-1809<k1>vyapadeSin : <ls>ebend. 1,70,a. 174,a. 3,52,b. 73,b. 112,a. 6,1,b. 2,a. 21,b. 8,60,a</ls>
+<L>122238<pc>7-1809<k1>vyavaseya : <ls>ebend. 1,239,b</ls>
+<L>122246<pc>7-1809<k1>vyAvacorI : <ls>ebend.</ls>
+<L>122312<pc>7-1811<k1>SAkala  : <ls>ebend. 4,72,b</ls>
+<L>122329<pc>7-1812<k1>SAlaNka : <ls>ebend. 4,59,b</ls>
+<L>122351<pc>7-1812<k1>SI      : <ls>ebend. 5,62,a</ls>
+<L>122371<pc>7-1813<k1>SElI    : <ls>ebend. 2,323,a</ls>
+<L>122380<pc>7-1813<k1>SOvAviDa : <ls>ebend. 4,88,b</ls>
+<L>122414<pc>7-1814<k1>SvASura : <ls>ebend. 4,42,b</ls>
+<L>122415<pc>7-1814<k1>SvASuri : <ls>ebend.</ls>
+<L>122426<pc>7-1814<k1>zAzWika : <ls>ebend. 3,8,a. 6,31,a. 60,a</ls>
+<L>122452<pc>7-1815<k1>saMkalpa : <ls>ebend.</ls>
+<L>122468<pc>7-1815<k1>saYj    : <ls>Calc.</ls>
+<L>122472<pc>7-1816<k1>saMjYIBUtaka : <ls>ebend. 4,81,a. 5,20,b</ls>
+<L>122473<pc>7-1816<k1>saMjYopasarjanIBUta : <ls>ebend. 1,95,b</ls>
+<L>122497<pc>7-1816<k1>saprakftika : <ls>ebend. 1,231,a. 5,15,a</ls>
+<L>122498<pc>7-1816<k1>sapratyayaka : <ls>ebend. 1,202,a. 231,a. 5,15,a</ls>
+<L>122507<pc>7-1817<k1>samaBiharaRa : <ls>ebend. 3,21,b</ls>
+<L>122508<pc>7-1817<k1>samaByASIkaraRa : <ls>ebend. 2,335,a</ls>
+<L>122509<pc>7-1817<k1>samavaDAna : <ls>ebend. 8,49,b</ls>
+<L>122517<pc>7-1817<k1>samAsAdana : <ls>ebend. 3,96,a</ls>
+<L>122533<pc>7-1817<k1>samyaktva : <ls>ebend. 2,1</ls>
+<L>122533<pc>7-1817<k1>samyaktva : <ls n="ebend. 2,">15</ls>
+<L>122534<pc>7-1817<k1>samyakSradDAna : <ls>ebend. 1,17</ls>
+<L>122535<pc>7-1817<k1>samyagjYAna : <ls>ebend. 1,16</ls>
+<L>122536<pc>7-1817<k1>samyagdfzwi : <ls>ebend. 4,8</ls>
+<L>122562<pc>7-1818<k1>sahaBUta : <ls>ebend. 1,48,b. 2,324,a</ls>
+<L>122563<pc>7-1818<k1>sahavivakzA : <ls>ebend. 1,217,a. 301,b</ls>
+<L>122569<pc>7-1818<k1>sA      : <ls>ebend.</ls>
+<L>122571<pc>7-1818<k1>sAgamaka : <ls>ebend. 1,85,a</ls>
+<L>122572<pc>7-1818<k1>sAMkASya : <ls>ebend. 2,385,a</ls>
+<L>122573<pc>7-1818<k1>sAMKya  : <ls>ebend. 2,360,b</ls>
+<L>122575<pc>7-1818<k1>sAqi    : <ls>ebend.</ls>
+<L>122580<pc>7-1818<k1>sAnyAsika : <ls>ebend. 3,71,b. 6,10,b. 7,75,a. 101,a</ls>
+<L>122581<pc>7-1818<k1>sApavAdaka : <ls>ebend. 4,88,b</ls>
+<L>122582<pc>7-1819<k1>sAptamika : <ls>ebend. 6,31,a</ls>
+<L>122585<pc>7-1819<k1>sABAsaMnayana : <ls>ebend. 1,177,a</ls>
+<L>122586<pc>7-1819<k1>sAmAnadeSika : <ls>ebend. 4,80,a</ls>
+<L>122589<pc>7-1819<k1>sAmUhika : <ls>ebend. 4,65,a</ls>
+<L>122590<pc>7-1819<k1>sAmfta  : <ls>ebend. 8,9,b</ls>
+<L>122591<pc>7-1819<k1>sAMpratika : <ls>ebend. 6,66,b. 6 (4),14,b</ls>
+<L>122592<pc>7-1819<k1>sAMmAtra : <ls>ebend. 4,54,b</ls>
+<L>122593<pc>7-1819<k1>sAMmitikAyani : <ls>ebend. 4,51,a. 57,b</ls>
+<L>122595<pc>7-1819<k1>sAya    : <ls>ebend.</ls>
+<L>122596<pc>7-1819<k1>sAra    : <ls>ebend. 8,21,b</ls>
+<L>122610<pc>7-1819<k1>sukarataraka : <ls>ebend. 1,213,b</ls>
+<L>122611<pc>7-1819<k1>sukfty  : <ls>ebend. 1,267,b</ls>
+<L>122618<pc>7-1819<k1>sudarSana : <ls>ebend.</ls>
+<L>122621<pc>7-1819<k1>sudrazwar : <ls>ebend. 5,79,b</ls>
+<L>122627<pc>7-1820<k1>supuruza : <ls>ebend.</ls>
+<L>122662<pc>7-1820<k1>sOtTiti : <ls>ebend. 1,265,b. 266,b</ls>
+<L>122663<pc>7-1820<k1>sOtra   : <ls>ebend. 1,165,b</ls>
+<L>122664<pc>7-1820<k1>sOdevika : <ls>ebend. 7,110,a</ls>
+<L>122669<pc>7-1821<k1>sOraTi  : <ls>ebend. 1,153,b</ls>
+<L>122670<pc>7-1821<k1>sOrya   : <ls>ebend. 2,397,a</ls>
+<L>122677<pc>7-1821<k1>star    : <ls>ebend. 1,266,b. 6,13,b</ls>
+<L>122685<pc>7-1821<k1>sTA     : <ls>ebend. 1,156,a</ls>
+<L>122686<pc>7-1821<k1>sTAyi   : <ls>ebend. 3,92,a</ls>
+<L>122688<pc>7-1821<k1>sTirIBAva : <ls>ebend. 1,42</ls>
+<L>122689<pc>7-1821<k1>sTUla   : <ls>ebend. 2,65</ls>
+<L>122694<pc>7-1821<k1>sTErya  : <ls>ebend. 4,114</ls>
+<L>122697<pc>7-1821<k1>sPar    : <ls>Bulletin de lʼAcad. Imp. des sc. de St.-Pét. 20,385</ls>
+<L>122708<pc>7-1822<k1>srucizWa : <ls>ebend. 6 (4),46,b</ls>
+<L>122709<pc>7-1822<k1>srOva   : <ls>ebend. 1,122,a</ls>
+<L>122717<pc>7-1822<k1>svaraSas : <ls>ebend. 1,7,b</ls>
+<L>122720<pc>7-1822<k1>svAsfka : <ls>ebend. 4,73,b</ls>
+<L>122721<pc>7-1822<k1>svAsrIya : <ls>ebend. 4,43,a</ls>
+<L>122722<pc>7-1822<k1>svAsrIyi : <ls>ebend.</ls>
+<L>122726<pc>7-1822<k1>han     : <ls>ebend. 1,29,a</ls>
+<L>122726<pc>7-1822<k1>han     : <ls>ebend. 1,296,a</ls>
+<L>122726<pc>7-1822<k1>han     : <ls>ebend. 7,78,b. 79,a</ls>
+<L>122727<pc>7-1822<k1>har     : <ls>ebend. 2,359,a</ls>
+<L>122731<pc>7-1822<k1>hArikeyI : <ls>ebend. 4,17,b</ls>

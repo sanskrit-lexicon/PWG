@@ -1,581 +1,578 @@
-760546	ALL	As of 2025-08-31
-00011	NUMBER	ls starts with number
-00016	UNKNOWN	ls is unknown
-67181	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
-56103	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
-37823	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
-30549	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
-25309	P.	PĀṆINI'S acht Bücher grammatischer Regel
-25012	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
-22560	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
-20126	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
-16656	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
-16223	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
-16155	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
-15703	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
-15445	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
-14748	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
-14307	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
-12989	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
-12705	Spr.	Indische Sprüche. Sanskrit und deutsch h
-12450	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
-09830	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
-09737	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
-08819	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
-08775	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
-08177	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
-07793	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
-07122	R. GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 
-06891	Sch.	Scholiast.
-06783	RĀJAN.	RĀJANIRGHAṆṬA, ein medicinisches Wörterb
-06735	KĀTY. ŚR.	KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 Adhyāya. H
-06349	Ind. St.	WEBER'S Indische Studien.
-06083	VS.	VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHI
-05888	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-05501	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
-05437	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
-05390	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
-05212	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
-05160	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
-03885	Verz. d. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
-03861	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
-03795	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
-03703	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
-03364	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
-03303	GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 [
-03166	NIR.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVA'S h
+799500	ALL	As of 2026-06-24
+00001	NUMBER	ls starts with number
+03254	UNKNOWN	ls is unknown
+67253	MBH.	MAHĀBHĀRATA, ed. Calc. (GILD. Bibl. 93).
+56183	ṚV.	ṚGVEDA. Es wird nach Maṇḍala, Sūkta und 
+39395	R.	RĀMĀYAṆA. Ohne eine nähere Angabe ist be
+30710	BHĀG. P.	BHĀGAVATAPURĀṆA, nach Anführungen im VP.
+25068	KATHĀS.	KATHĀSARITSĀGARA, ed. BROCKHAUS (GILD. B
+23172	P.	PĀṆINI'S acht Bücher grammatischer Regel
+22595	M.	MANU'S Gesetzbuch in der Ausg. von LOISE
+20941	ŚAT. BR.	The ŚATAPATHABRĀHMAṆA in the Mādhyandina
+20305	SUŚR.	SUŚRUTA, ed. Calc. (GILD. Bibl. 367); ci
+20131	ŚKDR.	ŚABDAKALPADRUMA (GILD. Bibl. 371).
+18536	Verz. d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
+16681	H.	HEMACANDRA'S ABHIDHĀNACINTĀMAṆI, ein sys
+16243	AV.	ATHARVAVEDASAM̃HITĀ, herausg. von R. ROT
+16166	AK.	AMARAKOṢA nach der Ausgabe von COLEBROOK
+15688	HARIV.	HARIVAṂŚA im 4ten Bande des MBH.&#13;&#1
+14312	VARĀH. BṚH. S.	VARĀHAMIHIRA'S BṚHATSAM̃HITĀ.
+13177	MED.	MEDINĪKOṢA, ed. Calc. (GILD. Bibl. 258).
+12850	Spr.	Indische Sprüche. Sanskrit und deutsch h
+11856	H. an.	HEMACANDRA'S ANEKĀRTHASAM̃GRAHA, ed. Cal
+10308	RĀJA-TAR.	RĀJATARAṄGIṆĪ, ed. TROYER (GILD. Bibl. 1
+09742	RAGH.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
+09141	PAÑCAT.	PAÑCATANTRA. Pantschatantrum sive quinqu
+08866	TRIK.	TRIKĀṆḌAŚEṢA, ed. Calc. (GILD. Bibl. 258
+08819	Spr. (II)	Indische Sprüche. Sanskrit und Deutsch. 
+08667	KĀTY. ŚR.	KĀTYĀYANA'S ŚRAUTASŪTRĀṆI. 26 Adhyāya. H
+07686	Ind. St.	WEBER'S Indische Studien.
+07133	R. GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 
+06982	VS.	VĀJASANEYISAM̃HITĀ. The VĀYASANEYI-SANHI
+06792	RĀJAN.	RĀJANIRGHAṆṬA, ein medicinisches Wörterb
+06588	ŚĀK.	ŚĀKUNTALA, das Drama in der Ausgabe von 
+06487	MĀRK. P.	MĀRKĀṆḌEYAPURĀṆA in der Bibliotheca indi
+06258	TS.	TAITTIRĪYASAM̃HITĀ. 7 Kāṇḍa, eingetheilt
+05951	VOP.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
+05475	HALĀY.	HALĀYUDHA, ein Lexicograph; nach Anführu
+05217	AIT. BR.	AITAREYABRĀHMAṆA. Citirt nach den 8 Pañc
+04675	Verz. d. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
+04630	SĀH. D.	SĀHITYADARPAṆA, auf den 10 ersten Bogen 
+04171	SARVADARŚANAS.	? 
+04128	VP.	VIṢṆUPURĀṆA. Es wird die WILSON'sche Ueb
+04038	YĀJÑ.	YĀJÑAVALKYA'S Gesetzbuch. Sanskrit und D
+03891	HIT.	HITOPADEŚA, ed. SCHLEGEL und LASSEN (GIL
+03712	NIR.	YĀSKA'S NIRUKTA sammt den NIGHAṆṬAVA'S h
+03339	KAUŚ.	KAUŚIKA'S SŪTRA zum ATHARVAVEDA. 14 Adhy
+03338	TBR.	TAITTIRĪYABRĀHMAṆA.
 03128	ŚABDAR.	ŚABDARATNĀVALĪ, ein Wörterbuch; nach Anf
-03054	Schol.	Scholiast.
-02929	TBR.	TAITTIRĪYABRĀHMAṆA.
-02785	BHAṬṬ.	BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137)
-02759	DHĀTUP.	DHĀTUPĀṬHA in WESTERGAARD'S Radices (GIL
-02748	PAÑCAR.	NĀRADA PAÑCARĀTRA 
-02738	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
-02674	ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 OR&#13
-02659	PRAB.	PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.
-02620	SARVADARŚANAS.	? 
-02586	BHAG.	BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. 
-02512	KUMĀRAS.	KUMĀRASAM̃BHAVA, ed. STENZLER (GILD. Bib
-02337	KAUŚ.	KAUŚIKA'S SŪTRA zum ATHARVAVEDA. 14 Adhy
-02334	COLEBR. Misc. Ess.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
-02116	ŚĀṄKH. ŚR.	ŚĀṄKHĀYANA'S ŚRAUTASŪTRĀṆI.
-02078	HALL	A contribution towards an index to the B
-02027	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
-02021	KĀM. NĪTIS.	? 
-02020	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
-02020	WILS.	WILSON'S Wörterbuch (GILD. Bibl. 37).
-02020	UṆĀDIS.	?  
-01873	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
-01847	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
-01843	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
-01835	ĀŚV. ŚR.	ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya
-01788	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
-01755	ṚV. PRĀT.	PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach Paṭa
-01729	PAÑCAV. BR.	PAÑCAVIṂŚABRĀHMAṆA.
-01696	CHĀND. UP.	CHĀNDOGYOPANIṢAD, nach der Ausgabe von R
-01670	VYUTP.	VYUTPATTI oder MAHĀVYUTPATTI (s. Mél. as
-01659	VIKR.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl.
-01527	UJJVAL.	?  
-01453	ĀŚV. GṚHY.	ĀŚVALĀYANA'S GṚHYASŪTRĀṆI in 4 Adhyāya. 
-01436	RATNAM.	RATNAMĀLĀ, ein Wörterbuch; nach Anführun
+02834	PRAB.	PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.
+02819	N.	NALOPĀKHYĀNA in BÖHTLINGK'S Chrestomathi
+02783	BHAṬṬ.	BHAṬṬIKĀVYA, ed. Calc. (GILD. Bibl. 137)
+02773	COLEBR. Misc. Ess.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
+02760	DHĀTUP.	DHĀTUPĀṬHA in WESTERGAARD'S Radices (GIL
+02755	PAÑCAR.	NĀRADA PAÑCARĀTRA 
+02728	ŚĀṄKH. ŚR.	ŚĀṄKHĀYANA'S ŚRAUTASŪTRĀṆI.
+02697	KUMĀRAS.	KUMĀRASAM̃BHAVA, ed. STENZLER (GILD. Bib
+02685	ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 OR&#13
+02603	BHAG.	BHAGAVADGĪTĀ, Ausg. von SCHLEGEL (GILD. 
+02550	LĀṬY.	LĀṬYĀYANA'S SŪTRA zum SV. Hdschr.
+02541	HALL	A contribution towards an index to the B
+02363	MEGH.	MEGHADŪTA, ed. GILDEMEISTER (GILD. Bibl.
+02358	KĀM. NĪTIS.	? 
+02295	ĀŚV. ŚR.	ĀŚVALĀYANA'S ŚRAUTASŪTRĀṆI in 12 Adhyāya
+02242	PAÑCAV. BR.	PAÑCAVIṂŚABRĀHMAṆA.
+02140	UṆĀDIS.	?  
+02022	WILS.	WILSON'S Wörterbuch (GILD. Bibl. 37).
+01996	MṚCCH.	MṚCCHAKAṬIKĀ, ed. STENZLER (GILD. Bibl. 
+01905	DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
+01879	CHĀND. UP.	CHĀNDOGYOPANIṢAD, nach der Ausgabe von R
+01874	HĀR.	HĀRĀVALĪ, ed. Calc. (GILD. Bibl. 258).
+01863	SŪRYAS.	SŪRYASIDDHĀNTA, nach Anführungen in HAUG
+01780	ṚV. PRĀT.	PRĀTIŚĀKHYA zun ṚGVEDA, citirt nach Paṭa
+01742	ĀŚV. GṚHY.	ĀŚVALĀYANA'S GṚHYASŪTRĀṆI in 4 Adhyāya. 
+01741	VYUTP.	VYUTPATTI oder MAHĀVYUTPATTI (s. Mél. as
+01661	VIKR.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl.
+01596	WILSON	? 
+01558	UJJVAL.	?  
+01529	KĀṬH.	KĀṬHAKA-Recension des YĀJ. V.
+01456	NAIGH.	das, YĀSKA'S NIRUKTA zu Grunde liegende 
+01438	RATNAM.	RATNAMĀLĀ, ein Wörterbuch; nach Anführun
+01428	WILSON, Sel. Works	? 
 01427	ŚABDAC.	ŚABDACANDRIKĀ, ein Wörterbuch; nach Anfü
-01418	NAIGH.	das, YĀSKA'S NIRUKTA zu Grunde liegende 
 01417	KULL.	KULLŪKA, ein Scholiast des MANU, vollstä
+01405	SIDDH. K.	SIDDHĀNTAKAUMUDĪ, die Calc. Ausg. in 4º 
 01395	VID.	Geschichte des VIDŪṢAKA in BÖHTLINGK'S C
-01388	SIDDH. K.	SIDDHĀNTAKAUMUDĪ, die Calc. Ausg. in 4º 
-01330	BHARTṚ.	BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl
-01316	KĀṬH.	KĀṬHAKA-Recension des YĀJ. V.
-01313	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
-01300	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 14
-01264	SĀY.	SĀYAṆA.
-01195	NĪLAK.	A rational refutation of the Hindu philo
-01140	GĪT.	GĪTAGOVINDA, ed. LASSEN (GILD. Bibl. 168
-01139	ŚAṂK.	ŚAṂKARA (ein Scholiast des ŚĀKUNTALA) un
-01077	MĀLAV.	MĀLAVIKĀGNIMITRA, ed. TULLBERG (GILD. Bi
-01065	WILSON, Sel. Works	? 
-01048	VS. PRĀT.	PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citi
+01353	ŚIŚ.	ŚIŚUPĀLAVADHA, ed. Calc. (GILD. Bibl. 14
+01328	BHARTṚ.	BHARTṚHARI, Ausg. von BOHLEN (GILD. Bibl
+01320	H. ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
+01269	NĪLAK.	A rational refutation of the Hindu philo
+01265	SĀY.	SĀYAṆA.
+01219	GĪT.	GĪTAGOVINDA, ed. LASSEN (GILD. Bibl. 168
+01167	MĀLAV.	MĀLAVIKĀGNIMITRA, ed. TULLBERG (GILD. Bi
+01140	ŚAṂK.	ŚAṂKARA (ein Scholiast des ŚĀKUNTALA) un
+01105	LIA.	LASSEN'S Indische Alterthumskunde.
+01065	BURN. Intr.	BURNOUF, Introduction à l'histoire du Bu
+01065	WEBER, RĀMAT. UP.	? 
+01058	VS. PRĀT.	PRĀTIŚĀKHYA zur VĀJASANEYISAM̃HITĀ, citi
+01053	BENF. Chr.	BENFEY' Chrestomathie aus Sanskritwerken
 01030	JAṬĀDH.	JAṬĀDHARA, ein Lexicograph; nach Anführu
-00961	BENF. Chr.	BENFEY' Chrestomathie aus Sanskritwerken
-00919	NIGH. PR.	NIGHAṆṬA PRAKĀŚA von BĀPŪ GAṄGĀDHARA. Bo
-00916	PAT. a. a. O.	? 
-00899	SŪRYAS.	SŪRYASIDDHĀNTA, nach Anführungen in HAUG
-00898	LIA.	LASSEN'S Indische Alterthumskunde.
-00839	ṚT.	ṚTUSAM̃HĀRA, ed. BOHLEN (GILD. Bibl. 155
-00837	WILSON	? 
-00832	WEBER, RĀMAT. UP.	? 
-00819	Z. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
-00807	GOBH.	GOBHILA'S GṚHYASŪTRA; nach Mittheilungen
+00981	GOBH.	GOBHILA'S GṚHYASŪTRA; nach Mittheilungen
+00926	NIGH. PR.	NIGHAṆṬA PRAKĀŚA von BĀPŪ GAṄGĀDHARA. Bo
+00922	ṚT.	ṚTUSAM̃HĀRA, ed. BOHLEN (GILD. Bibl. 155
+00913	WASSILJEW	В. Васильевъ. Буддизмъ, его догматы, ист
+00909	KAP.	KAPILA (The Aphorisms of the Sánkhya Phi
+00896	ŚĀṄKH. GṚHY.	ŚĀṄKHĀYANA'S GṚHYASŪTRĀṆI.
+00891	VET. in LA.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
+00889	ŚĀṄKH. BR.	ŚĀṄKHĀYANA'S BRĀHMAṆA.
+00889	VARĀH. BṚH.	VARĀHAMIHIRA'S BṚHAJJĀTAKA. [Pagè-a+ 33]
+00870	Z. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
+00841	BṚH. ĀR. UP.	BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe v
+00838	PĀR. GṚHY.	PĀRASKARA'S GṚHYASŪTRĀṆI.
+00804	Journ. of the Am. Or. S.	Journal of the American Oriental Society
+00786	BHAR.	BHARATA, ein Autor über Schauspielkunst,
 00783	ŚABDAM.	ŚABDAMĀLĀ, ein Wörterbuch; nach Anführun
-00772	WILSON.	? 
-00770	BURN. Intr.	BURNOUF, Introduction à l'histoire du Bu
-00768	PĀR. GṚHY.	PĀRASKARA'S GṚHYASŪTRĀṆI.
-00767	ŚĀṄKH. GṚHY.	ŚĀṄKHĀYANA'S GṚHYASŪTRĀṆI.
-00766	Uṇ.	Die Uṇādi-Affixe. Herausgegeben und mit 
-00758	KAP.	KAPILA (The Aphorisms of the Sánkhya Phi
-00748	VET. in LA.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
-00745	BHAR.	BHARATA, ein Autor über Schauspielkunst,
-00745	BṚH. ĀR. UP.	BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe v
-00730	AV. PRĀT.	PRĀTIŚĀKHYA zum ATHARVAVEDA. Citirt nach
-00717	ed. Calc.	Calcutta edition of various works [Colog
-00709	ŚĀṄKH. BR.	ŚĀṄKHĀYANA'S BRĀHMAṆA.
-00707	ŚABDĀRTHAK.	?  
-00678	Journ. of the Am. Or. S.	Journal of the American Oriental Society
-00677	VARĀH. BṚH.	VARĀHAMIHIRA'S BṚHAJJĀTAKA. [Pagè-a+ 33]
-00675	DHŪRTAS.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie (G
-00668	KIR.	KIRĀTĀRJUNĪYA, ed. Calc. (GILD. Bibl. 13
+00780	Uṇ.	Die Uṇādi-Affixe. Herausgegeben und mit 
+00762	Lot. de la b. l.	? 
+00753	AV. PRĀT.	PRĀTIŚĀKHYA zum ATHARVAVEDA. Citirt nach
+00748	BṚH.	?  
+00746	BṚH. ĀR. UP. S.	? 
+00744	DHŪRTAS.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie (G
+00739	SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
+00729	PAT. a. a. O.	? 
+00727	LALIT. ed. Calc.	LALITAVISTARA in der Bibliotheca indica.
+00712	ed. Calc.	Calcutta edition of various works [Colog
+00708	ŚABDĀRTHAK.	?  
+00694	KIR.	KIRĀTĀRJUNĪYA, ed. Calc. (GILD. Bibl. 13
 00658	VIŚVA	?  
-00646	BṚH. ĀR. UP. S.	? 
-00622	Lot. de la b. l.	? 
-00613	SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
-00589	TS. PRĀT.	? 
-00568	CARAKA	?  
-00559	VET.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
-00557	ŚĀRṄG. SAṂH.	SAM̃HITĀ des ŚĀRṄGADHARA. Bombai 1853. C
-00555	ŚVETĀŚV. UP.	ŚVETĀŚVATAROPANIṢAD in der Bibliotheca i
-00544	MĀLATĪM.	?  
-00524	LALIT. ed. Calc.	LALITAVISTARA in der Bibliotheca indica.
-00523	WASSILJEW	В. Васильевъ. Буддизмъ, его догматы, ист
-00515	MAITRYUP.	?  
-00512	ŚATR.	ŚATRUM̃JAYAMĀHĀTMYA, nach den von A. WEB
-00511	AMAR.	AMARUŚATAKA nach der Calc. Ausg. (GILD. 
+00639	VET.	VETĀLAPAÑCAVIṂŚATI in LASSEN'S Anthologi
+00626	ŚĀRṄG. SAṂH.	SAM̃HITĀ des ŚĀRṄGADHARA. Bombai 1853. C
+00608	CARAKA	?  
+00604	ŚVETĀŚV. UP.	ŚVETĀŚVATAROPANIṢAD in der Bibliotheca i
+00602	TS. PRĀT.	? 
+00580	MĀLATĪM.	?  
+00574	ŚATR.	ŚATRUM̃JAYAMĀHĀTMYA, nach den von A. WEB
+00568	MAITRYUP.	?  
+00564	VEDĀNTAS. (Allah.)	A Lecture on the Vedánta, embracing the 
+00560	PRATĀPAR.	VIDYĀNĀTHA'S PRATĀPARUDRĪYAM ALAM̃KĀRAŚĀ
+00540	AMAR.	AMARUŚATAKA nach der Calc. Ausg. (GILD. 
+00514	ARJ.	ARJUNASAMĀGAMA, ed. BOPP (GILD. Bibl. 10
 00509	BHĀVAPR.	BHĀVAPRAKĀŚA, ein medic. Wörterbuch; nac
-00504	BṚH.	?  
-00491	ARJ.	ARJUNASAMĀGAMA, ed. BOPP (GILD. Bibl. 10
-00488	KAṬHOP.	KAṬHOPANIṢAD in der Bibliotheca indica.
-00481	VEDĀNTAS. (Allah.)	A Lecture on the Vedánta, embracing the 
-00470	PRATĀPAR.	VIDYĀNĀTHA'S PRATĀPARUDRĪYAM ALAM̃KĀRAŚĀ
-00449	DAŚ.	DAŚARATHA'S Tod in BÖHTLINGK'S Chrestoma
-00442	UTTARAR.	Uttararāmacarita, a play by Bhavabhuti 
-00440	PRAVARĀDHY.	PRAVARĀDHYĀYA.
-00431	HIḌ.	HIḌIMBAVADHA in BOPP'S Ardschuna's Reise
+00506	KAṬHOP.	KAṬHOPANIṢAD in der Bibliotheca indica.
+00501	PAÑCAT. ed. orn.	Pañcatantra, Kosegarten, ed. orn. 1859 [
+00490	TĀRAN.	?  
+00489	WEBER	?  
+00488	HIḌ.	HIḌIMBAVADHA in BOPP'S Ardschuna's Reise
+00485	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens Jy
+00481	BURNOUF	?  
+00480	LA.	LASSEN'S Anthologie (GILD. Bibl. 48).
+00478	DAŚAR.	The Daśa-Rūpa, or Hindu Canons of Dramat
+00474	UTTARAR.	Uttararāmacarita, a play by Bhavabhuti 
+00474	YOGAŚ.	?  
+00455	LALIT.	RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou Dé
+00453	DAŚ.	DAŚARATHA'S Tod in BÖHTLINGK'S Chrestoma
+00452	TAITT. ĀR.	TAITTIRĪYĀRAṆYAKA.
+00441	PRAVARĀDHY.	PRAVARĀDHYĀYA.
+00426	DRAUP.	DRAUPADĪPRAMĀTHA, ed. BOPP (GILD. Bibl. 
 00426	KĀŚ.	KĀŚIKĀVṚTTI; s. die Einleitung zu BÖHTLI
-00421	CAURAP.	CAURAPAÑCĀŚIKĀ, ed. BOHLEN (GILD. Bibl. 
-00413	PAT.	PATAÑJALI, als Verfasser des MAHĀBHĀṢYA;
-00412	LA.	LASSEN'S Anthologie (GILD. Bibl. 48).
-00409	ŚIV.	ŚIVANĀMASAHASRA, handschriftlich im Asia
-00408	BURNOUF	?  
-00406	DRAUP.	DRAUPADĪPRAMĀTHA, ed. BOPP (GILD. Bibl. 
+00426	VĀLAKH.	VĀLAKHILYA, die zwischen ṚV. 8, 48 und 4
+00423	CAURAP.	CAURAPAÑCĀŚIKĀ, ed. BOHLEN (GILD. Bibl. 
+00415	BHĀṢĀP.	BHĀṢĀPARICCHEDA nach der Ausgabe von RÖE
+00415	TAITT. UP.	TAITTIRĪYOPANIṢAD ? 
+00414	NAIṢ.	NAIṢADHACARITA, ed. Calc. (GILD. Bibl. 1
+00411	ŚIV.	ŚIVANĀMASAHASRA, handschriftlich im Asia
+00410	WEBER, KṚṢṆAJ.	?  
+00409	KUSUM.	? Kusumanagara  
+00408	PAT.	PATAÑJALI, als Verfasser des MAHĀBHĀṢYA;
+00404	COLEBR. Alg.	Algebra, with Arithmetic and Mensuration
 00402	VIŚV.	VIŚVĀMITRA'S Kampf in BÖHTLINGK'S Chrest
-00396	DAŚAR.	The Daśa-Rūpa, or Hindu Canons of Dramat
-00396	Spr. (I)	Indische Sprüche. Sanskrit und deutsch h
-00389	TAITT. ĀR.	TAITTIRĪYĀRAṆYAKA.
-00385	NAIṢ.	NAIṢADHACARITA, ed. Calc. (GILD. Bibl. 1
-00381	VĀLAKH.	VĀLAKHILYA, die zwischen ṚV. 8, 48 und 4
-00381	KĀVYĀD.	?  
-00373	YOGAŚ.	?  
-00364	ṢAḌV. BR.	ṢAḌVIṂŚABRĀHMAṆA.
-00363	TAITT. UP.	TAITTIRĪYOPANIṢAD ? 
-00358	PAÑCAT. ed. orn.	? [Cologne addition]
-00356	BHĀṢĀP.	BHĀṢĀPARICCHEDA nach der Ausgabe von RÖE
-00354	SĀV.	SĀVITRYUPĀKHYĀNA, ed. BOPP (GILD. Bibl. 
-00353	BRAHMA-P. in LA.	BRAHMAPURĀṆA in LASSEN'S Anthologie (GIL
-00353	COLEBR. Alg.	Algebra, with Arithmetic and Mensuration
-00352	MAHĪDH.	MAHĪDHARA, Scholiast der VS.
+00400	KĀVYĀD.	?  
+00383	ṢAḌV. BR.	ṢAḌVIṂŚABRĀHMAṆA.
+00371	BRAHMA-P. in LA.	BRAHMAPURĀṆA in LASSEN'S Anthologie (GIL
+00367	SĀV.	SĀVITRYUPĀKHYĀNA, ed. BOPP (GILD. Bibl. 
+00356	VĀSAVAD.	?  
+00355	HIOUEN-THSANG	Histoire de la vie de HIOUEN-THSANG et d
+00352	INDR.	INDRALOKĀGAMANA in BOPP'S Ardschuna's Re
+00351	MAHĪDH.	MAHĪDHARA, Scholiast der VS.
+00351	HEM.	HEMACANDRA ? 
 00350	MALLIN.	MALLINĀTHA.
-00349	HEM.	HEMACANDRA ? 
-00348	WEBER, JYOT.	WEBER, Ueber den Vedakalender, Namens Jy
-00340	INDR.	INDRALOKĀGAMANA in BOPP'S Ardschuna's Re
-00335	MADHUS.	MADHUSŪDANASARASVATĪ'S PRASTHĀNABHEDA in
-00334	LALIT.	RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou Dé
-00333	R. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Colog
-00329	SCHIEFNER, Lebensb.	? 
-00328	VĀSAVAD.	?  
-00325	SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838  
-00321	WEBER, KṚṢṆAJ.	?  
-00316	KUSUM.	? Kusumanagara  
-00310	ŚRUT.	ŚRUTABODHA in der Zeitschrift für die Ku
-00310	MUIR, ST.	MUIR, Sanskr. Texts ?
-00306	TĀRAN.	?  
-00304	KAUṢ. UP.	KAUṢĪTAKYUPANIṢAD.
-00304	SAṂSK. K.	SAṂSKĀRAKAUSTUBHA von ANANTADEVA. Lith. 
-00300	MUṆḌ. UP.	MUṆḌAKOPANIṢAD in der Bibliotheca indica
-00299	TATTVAS.	A Lecture on the Sánkhya Philosophy, emb
-00294	AUFRECHT	? 
-00278	MIT.	MITĀKṢARĀ, ed. Calc. 1829 (GILD. Bibl. 3
-00278	SUND.	SUNDOPASUNDOPĀKHYĀNA, ed. BOPP (GILD. Bi
+00344	MUIR, ST.	MUIR, Sanskr. Texts ?
+00337	GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 [
+00337	KAUṢ. UP.	KAUṢĪTAKYUPANIṢAD.
+00337	MADHUS.	MADHUSŪDANASARASVATĪ'S PRASTHĀNABHEDA in
+00336	SCHIEFNER, Lebensb.	? 
+00322	SAṂSK. K.	SAṂSKĀRAKAUSTUBHA von ANANTADEVA. Lith. 
+00321	TATTVAS.	A Lecture on the Sánkhya Philosophy, emb
+00319	R. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Colog
+00314	ŚRUT.	ŚRUTABODHA in der Zeitschrift für die Ku
+00313	SUND.	SUNDOPASUNDOPĀKHYĀNA, ed. BOPP (GILD. Bi
+00309	MUṆḌ. UP.	MUṆḌAKOPANIṢAD in der Bibliotheca indica
+00304	MIT.	MITĀKṢARĀ, ed. Calc. 1829 (GILD. Bibl. 3
+00290	Z. f. d. K. d. M.	Zeitschrift für die Kunde des Morgenland
+00288	SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838  
+00287	SV.	SĀMAVEDA. Die Hymnen des SĀMA-VEDA, hera
+00287	AUFRECHT	? 
+00286	HIOUEN-THSANG I	Mémoires sur les contrées occidentales, 
+00284	R. SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838 [
+00282	ŚĀK. CH.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
+00282	MÜLLER, SL.	? 
 00277	UṆĀDIK.	UṆĀDIKOṢA, nach Anführungen im ŚKDR.
-00275	Sp.	? 
-00273	SV.	SĀMAVEDA. Die Hymnen des SĀMA-VEDA, hera
-00269	ŚĀK. CH.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
+00268	ŚĀNTIŚ.	ŚIHLANA'S ŚĀNTIŚATAKA in HAEBERLIN'S Ant
+00268	UTTARARĀMAC.	? 
 00266	VAIJ.	VAIJAYANTĪ, ein Wörterbuch. Excerpte dar
-00263	Z. f. d. K. d. M.	Zeitschrift für die Kunde des Morgenland
-00263	UTTARARĀMAC.	? 
-00257	MACK. Coll.	? 
-00256	ŚĀNTIŚ.	ŚIHLANA'S ŚĀNTIŚATAKA in HAEBERLIN'S Ant
-00252	R. SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838 [
-00249	MÜLLER, SL.	? 
+00265	MACK. Coll.	? 
+00264	HIT. Pr.	Prooemium im HIT.
+00261	YOGAS.	YOGASŪTRA (The Aphorisms of the Yoga Phi
+00260	PRAŚNOP.	PRAŚNOPANIṢAD, nach der Ausgabe von RÖER
+00258	VĀGBH.	?  
+00256	BRĀHMAṆ.	BRĀHMAṆAVILĀPA in BOPP'S Ardschuna's Rei
 00245	DHAR.	DHARAṆĪKOṢA, ein Wörterbuch; nach Anführ
-00245	PRAŚNOP.	PRAŚNOPANIṢAD, nach der Ausgabe von RÖER
-00245	WEBER, Nakṣ.	WEBER, Die vedischen Nachrichten von den
-00242	HIOUEN-THSANG	Histoire de la vie de HIOUEN-THSANG et d
-00238	BRĀHMAṆ.	BRĀHMAṆAVILĀPA in BOPP'S Ardschuna's Rei
+00242	GṚHY.	?  
+00240	TARKAS.	?  
 00237	VĀYU-P.	VĀYUPURĀṆA.
-00237	BURN.	?  
-00235	VĀGBH.	?  
-00229	CHANDOM.	CHANDOMAÑJARĪ, ein Werk über Metrik; nac
-00227	LANGL.	 Alexandre Langlois (1788-1854), French 
-00221	YOGAS.	YOGASŪTRA (The Aphorisms of the Yoga Phi
-00218	KUVALAY.	KUVALAYĀNANDA (Rhetorik) von APYADĪKṢITA
+00235	KAṆ.	?  
+00233	ŚĀNT.	ŚĀNTANĀCĀRYA'S PHIṬSŪTRĀṆI in BÖHTLINGK,
+00233	CHANDOM.	CHANDOMAÑJARĪ, ein Werk über Metrik; nac
+00228	BURN.	?  
+00220	GILD. Bibl.	Bibliothecae sanskritae sive recensus li
+00219	KUVALAY.	KUVALAYĀNANDA (Rhetorik) von APYADĪKṢITA
+00219	WEBER, Lit.	Akademische Vorlesungen über Indische Li
 00218	SAṂKṢIPTAS.	?  
-00216	HIOUEN-THSANG I	Mémoires sur les contrées occidentales, 
-00214	ŚĀNT.	ŚĀNTANĀCĀRYA'S PHIṬSŪTRĀṆI in BÖHTLINGK,
-00214	HIT. Pr.	Prooemium im HIT.
+00215	ŚR.	?  
 00209	VYĀḌI	?  
-00203	TARKAS.	?  
-00200	BENFEY	? 
-00200	COLEBR.	AMARAKOṢA nach der Ausgabe von COLEBROOK
+00203	BENFEY	? 
+00201	ŚUK. in LA.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
+00198	GOLĀDHY.	?  
+00197	COLEBR.	AMARAKOṢA nach der Ausgabe von COLEBROOK
+00195	JAIM.	JAIMINI (The Aphorisms of the Mímánsá Ph
+00190	Notices of Skt. Mss.	Notices of Skt. Mss. 
 00188	UṆĀDIVṚ.	?  
-00186	ŚUK. in LA.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
-00186	GṚHY.	?  
-00185	JAIM.	JAIMINI (The Aphorisms of the Mímánsá Ph
-00184	WISE	Commentary on the Hindu System of Medici
-00179	LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
-00178	Notices of Skt. Mss.	Notices of Skt. Mss. 
-00175	GILD. Bibl.	Bibliothecae sanskritae sive recensus li
-00174	SADDH. P.	? 
-00172	LOIS.	LOISELEUR DESLONGCHAMPS.
-00170	DEV.	DEVĪMĀHĀTMYA, ed. POLEY (GILD. Bibl. 130
-00169	KAṆ.	?  
-00169	GOLĀDHY.	?  
+00187	WISE	Commentary on the Hindu System of Medici
+00187	KĀLACAKRA	?  
+00183	DEV.	DEVĪMĀHĀTMYA, ed. POLEY (GILD. Bibl. 130
+00171	SADDH. P.	? 
+00170	CHĀND. UP. S.	? 
+00169	NALOD.	?  
+00167	ṚV. ANUKR.	ANUKRAMAṆIKĀ des ṚGVEDA ? [Cologne addit
+00166	LOIS.	LOISELEUR DESLONGCHAMPS.
+00166	ŚIKṢĀ	?  
+00166	Verz. d. Cambr. H.	? 
 00164	NṚS. TĀP. UP.	NṚSIṂHATĀPANĪYOPANIṢAD ? 
-00163	ṚV. ANUKR.	ANUKRAMAṆIKĀ des ṚGVEDA ? [Cologne addit
-00163	NALOD.	?  
-00162	WEBER	?  
+00162	KṢITĪŚ.	?  
+00161	ĀPAST.	ĀPASTAMBA.
+00160	AIT. UP.	AITAREYOPANIṢAD, nach der Ausgabe von RÖ
 00160	GAUḌAP.	GAUḌAPĀDA, ein Scholiast zu SĀM̃KHYAK.
-00160	ŚIKṢĀ	?  
-00159	WEBER, Lit.	Akademische Vorlesungen über Indische Li
-00156	CHĀND. UP. S.	? 
+00156	GṚHYASAṂGR.	GṚHYASAM̃GRAHAPARIŚIṢTA, 2 Prapāṭhaka vo
+00154	BHARATA	?  
 00152	RĀYAM.	RĀYAMUKUṬA, ein Commentator des AMARAKOṢ
-00152	BHARATA	?  
-00149	BRAHMAVAIV. P.	BRAHMAVAIVARTAPURĀṆA?  
-00147	AIT. UP.	AITAREYOPANIṢAD, nach der Ausgabe von RÖ
-00147	ĀPAST.	ĀPASTAMBA.
+00150	BRAHMAVAIV. P.	BRAHMAVAIVARTAPURĀṆA?  
+00148	Spr. (I)	Indische Sprüche. Sanskrit und deutsch h
 00147	TAITT. PRĀT.	PRĀTIŚĀKHYA zur TAITTIRĪYASAM̃HITĀ. S. R
-00145	AV. PARIŚ.	PARIŚIṢṬA des ATHARVAVEDA.
-00145	VĀMANA	?  
+00147	VĀMANA	?  
+00146	AV. PARIŚ.	PARIŚIṢṬA des ATHARVAVEDA.
+00145	LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
 00142	BHŪRIPR.	BHŪRIPRAYOGA, ein Wörterbuch; nach Anfüh
-00142	Verz. d. Cambr. H.	? 
 00140	WEST.	WESTERGAARD'S Radices (GILD. Bibl. 42).
-00140	ŚR.	?  
+00140	KĀŚĪKH.	KĀŚĪKHAṆḌA, nach Anführungen in AUFRECHT
+00139	NYĀYAS.	?  
+00137	As. Res.	Asiatick Researches; or, transactions of
+00137	ŚUK.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
+00136	CĀṆ.	CĀṆAKYA in HAEB. Chrest. S. 312--322.
+00135	WILSON, SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
 00134	DVIRŪPAK.	DVIRŪPAKOṢA, eine Sammlung von Wörtern, 
-00134	GṚHYASAṂGR.	GṚHYASAM̃GRAHAPARIŚIṢTA, 2 Prapāṭhaka vo
-00133	WILSON, SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
-00132	CĀṆ.	CĀṆAKYA in HAEB. Chrest. S. 312--322.
-00130	ŚUK.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
-00130	HAEB. Anth.	HAEB.  Anth.= ?  
-00126	AUSH.	? 
-00126	KĀLACAKRA	?  
-00125	KĀŚĪKH.	KĀŚĪKHAṆḌA, nach Anführungen in AUFRECHT
-00125	VARĀH.	?  
-00124	BRAHMA-P.	BRAHMAPURĀṆA in LASSEN'S Anthologie (GIL
-00124	MATSYA-P.	MATSYAPURĀṆA.
+00132	KÖPPEN	? 
+00129	HAEB. Anth.	HAEB.  Anth.= ?  
+00129	AUṢ.	? 
+00127	BRAHMA-P.	BRAHMAPURĀṆA in LASSEN'S Anthologie (GIL
+00125	MATSYA-P.	MATSYAPURĀṆA.
+00125	RAGH. ed. Calc.	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
 00122	TITHYĀDIT.	TITHYĀDITATTVA; nach Anführungen im ŚKDR
-00120	RAGH. ed. Calc.	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
+00121	BĀLAB.	BĀLABODHANĪ in WINDISCHMANN'S Sancara (G
+00121	STENZLER	?  
+00119	AṢṬĀV.	? 
 00119	VIŚVA.	?  
-00119	STENZLER	?  
-00115	As. Res.	Asiatick Researches; or, transactions of
 00115	DURGA	?  
-00111	KṢITĪŚ.	?  
-00111	NYĀYAS.	?  
-00110	BĀLAB.	BĀLABODHANĪ in WINDISCHMANN'S Sancara (G
-00102	Z.	?  
-00101	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER (GILD. B
-00101	DHANV.	?  
-00100	COL.	AMARAKOṢA nach der Ausgabe von COLEBROOK
-00097	KĀLIKĀ-P.	KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
-00097	AṢṬĀV.	? 
-00096	SKANDA-P.	SKANDAPURĀṆA.
-00095	DHŪRTAS. in LA.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie (G
+00111	ŚṚṄGĀRAT.	ŚṚṄGĀRATILAKA, ed. GILDEMEISTER (GILD. B
+00104	Vie de HIOUEN-THSANG	 ? 
+00103	SKANDA-P.	SKANDAPURĀṆA.
+00102	VEDĀNTAS.	VEDĀNTASĀRA, ed. Calc. (Gild. Bibl. 279)
+00102	DHANV.	?  
+00101	KĀLIKĀ-P.	KĀLIKĀPURĀṆA, nach Anführungen im ŚKDR.
+00100	DHŪRTAS. in LA.	DHŪRTASAMĀGAMA in LASSEN'S Anthologie (G
+00095	PRĀYAŚCITTEND.	?  
 00094	SVĀMIN	?  
+00093	VARĀH. LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
+00093	MUDRĀR.	MUDRĀRĀKṢASA, ed. Calc. (GILD. Bibl. 213
 00093	RAMĀN.	RAMĀNĀTHA, ein Commentator des AMARAKOṢA
 00092	RĀJAV.	RĀJAVALLABHA, nach Anführungen im ŚKDR.
-00090	BR.	?  
-00089	VEDĀNTAS.	VEDĀNTASĀRA, ed. Calc. (Gild. Bibl. 279)
-00088	Verz. d. Tüb. H.	? 
-00086	PRĀYAŚCITTEND.	?  
-00085	VṚDDHA-CĀṆ.	VṚDDHACĀṆAKYA ? 
-00084	N. (BOPP)	? 
-00083	SĀMAVIDH. BR.	? 
-00083	ROTH	?  
-00082	RATNĀV.	RATNĀVALĪ, ed. Calc. (GILD. Bibl. 214).
-00082	GAṆIT.	GAṆITĀDHYĀYA?  
-00082	HIT. ed. JOHNS.	?  
+00092	SĀMAVIDH. BR.	? 
+00092	HIT. ed. JOHNS.	HITOPADEŚA, F. Johnson, 1847   
+00091	REINAUD	? 
+00090	RATNĀV.	RATNĀVALĪ, ed. Calc. (GILD. Bibl. 214).
+00090	N. (BOPP)	? 
+00089	GAṆIT.	GAṆITĀDHYĀYA?  
+00087	Verz. d. Tüb. H.	? 
+00086	VṚDDHA-CĀṆ.	VṚDDHACĀṆAKYA ? 
+00085	TBR. Comm.	TAITTIRĪYABRĀHMAṆA Commentary ? 
+00082	ST.	STENZLER.
 00080	HAUGHTON	A Dictionary Bengali and Sanskrit, expla
-00080	ST.	STENZLER.
-00077	KENOP.	KENOPANIṢAD in der Bibliotheca indica.
+00078	KENOP.	KENOPANIṢAD in der Bibliotheca indica.
+00077	DĀYABH.	DĀYABHĀGA, ed. Calc. 1829 (GILD. Bibl. 3
+00077	TAITT. BR.	TAITTIRĪYABRĀHMAṆA.
+00076	HĀLA	?  
+00075	AUFRECHT, HALĀY.	? 
 00074	ŚIVA-P.	ŚIVAPURĀṆA ?  
-00073	MUDRĀR.	MUDRĀRĀKṢASA, ed. Calc. (GILD. Bibl. 213
-00072	TAITT. BR.	TAITTIRĪYABRĀHMAṆA.
-00070	KÖPPEN	? 
-00069	MATSYOP.	MATSYOPĀKHYĀNA, ed. BOPP (GILD. Bibl. 10
-00068	KERN	?  
-00068	LASSEN	?  
-00068	AUFRECHT, HALĀY.	? 
+00073	MATSYOP.	MATSYOPĀKHYĀNA, ed. BOPP (GILD. Bibl. 10
+00072	SIDDHĀNTAŚIR.	SIDDHĀNTAŚIROMAṆI, nach Anführungen im Ś
+00071	WIND. Sancara	FRID. H. H. WINDISCHMANNI Sancara sive d
+00070	KĀTY.	KĀTYĀYANA.
+00070	KERN	?  
+00070	LASSEN	?  
+00069	GHAṬ.	GHAṬAKARPARA, ed. Calc. (GILD. Bibl. 162
 00067	ADBH. BR.	ADBHUTABRĀHMAṆA.
 00067	BRĀHMAṆA	?  
 00067	NĀRADA	?  
-00066	GHAṬ.	GHAṬAKARPARA, ed. Calc. (GILD. Bibl. 162
-00065	KĀTY.	KĀTYĀYANA.
+00066	Mél. asiat.	Mélanges asiatiques tirés du Bulletin hi
+00066	Verz. d. Pet. H.	BÖHTLINGK'S Verzeichniss der Petersburge
 00065	DEVĪ-P.	DEVĪPURĀṆA; nach Anführungen im ŚKDR.
 00065	GĀRUḌA-P.	GĀRUḌA-PURĀṆA ? 
-00064	REINAUD, Mém. sur l'Inde	? 
-00064	Vie de HIOUEN-THSANG	 ? 
-00064	Ind.	? 
-00063	DĀYABH.	DĀYABHĀGA, ed. Calc. 1829 (GILD. Bibl. 3
-00062	SIDDHĀNTAŚIR.	SIDDHĀNTAŚIROMAṆI, nach Anführungen im Ś
-00062	WIND. Sancara	FRID. H. H. WINDISCHMANNI Sancara sive d
-00062	TROYER	?  
+00064	GṚHYAS.	?  
+00063	TROYER	?  
+00062	CĀT.	Gedicht vom Vogel Cātaka in der Zeitschr
 00062	EKĀKṢARAK.	?  
-00061	CĀT.	Gedicht vom Vogel Cātaka in der Zeitschr
-00060	GṚHYAS.	?  
+00061	MOLESW.	A Dictionary Murathee and English by YAM
+00061	KĀVYAPR.	?  
+00060	ĪŚOP.	ĪŚOPANIṢAD in der Bibliotheca indica.
 00060	HAUGHT.	?  
+00060	ROTH	?  
 00060	DURGĀD.	?  
-00059	MOLESW.	A Dictionary Murathee and English by YAM
-00058	Mél. asiat.	Mélanges asiatiques tirés du Bulletin hi
+00059	GOP. BR.	GOPATHABRĀHMAṆA ? 
+00058	MAŚ.	MAŚAKA'S KALPASŪTRĀṆI.
 00058	SĀRAS.	SĀRASUNDARĪ, ein Commentar zum AMARAKOṢA
-00058	Verz. d. Pet. H.	BÖHTLINGK'S Verzeichniss der Petersburge
-00058	GOP. BR.	GOPATHABRĀHMAṆA ? 
-00057	ĪŚOP.	ĪŚOPANIṢAD in der Bibliotheca indica.
-00057	KĀVYAPR.	?  
-00056	BHARTṚ. Suppl.	BHARTṚHARI, Ausg. von BOHLEN, Supplement
-00056	MAŚ.	MAŚAKA'S KALPASŪTRĀṆI.
+00057	JYOT.	JYOTIṢA.
+00057	MĀṆḌ. UP.	GAUḌAPĀDA'S Kārikā zur MĀṆḌ. UP. in der 
+00057	LĀTY.	?  
 00056	BALA	? 
-00056	HĀLA	?  
-00055	MĀṆḌ. UP.	GAUḌAPĀDA'S Kārikā zur MĀṆḌ. UP. in der 
+00056	BHĀG.	? 
+00056	LANGL.	 Alexandre Langlois (1788-1854), French 
+00056	MAHĀBH.	?  
+00055	BHARTṚ. Suppl.	BHARTṚHARI, Ausg. von BOHLEN, Supplement
+00055	ITIH.	ITIHĀSA.
 00055	VIKRAM.	VIKRAMORVAŚĪ, ed. BOLLENSEN (GILD. Bibl.
-00054	ITIH.	ITIHĀSA.
+00055	GAṆITĀDHY.	GAṆITĀDHYĀYA ?  
+00055	NIDĀNA	?  
 00054	KAIY.	KAIYAṬA, ein Erklärer von PATAÑJALI'S MA
+00054	PĀRŚVANĀTHAK.	?  
+00054	VARĀH.	?  
 00052	BHAVIṢYA-P.	BHAVIṢYAPURĀṆA ? 
-00051	PĀRŚVANĀTHAK.	?  
-00050	JYOT.	JYOTIṢA.
-00050	MADHYAM.	MADHYAMAKAVṚTTI, handschriftlich in der 
-00050	GAṆITĀDHY.	GAṆITĀDHYĀYA ?  
-00050	MAHĀBH.	?  
+00051	DĀY.	DĀYABHĀGA, ed. Calc. 1829 (GILD. Bibl. 3
+00051	MÜLLER	? 
 00050	SAM̃GĪTADĀM.	?  
-00048	BHĀG.	? 
-00048	MÜLLER	? 
-00047	NIDĀNA	?  
-00047	PADMA-P.	PADMAPURĀṆA ? 
-00046	ANUKR.	ANUKRAMAṆIKĀ.
-00046	DĀY.	DĀYABHĀGA, ed. Calc. 1829 (GILD. Bibl. 3
+00048	MADHYAM.	MADHYAMAKAVṚTTI, handschriftlich in der 
+00048	HIOUENTHSANG	?  
+00047	WEBER, PRATIJÑĀS.	? 
+00046	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
 00046	VĀRĀHA-P.	? 
+00046	PADMA-P.	PADMAPURĀṆA ? 
 00046	UTPALA	 ? 
+00045	ANUKR.	ANUKRAMAṆIKĀ.
+00045	ANUPADA	? 
+00045	AINSLIE	?  
 00044	VAIDY.	VAIDYAKA.
-00044	Z. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
-00044	AINSLIE	?  
+00044	AŚOKĀVAD.	AŚOKĀVADĀNA?  
+00044	HAEB.	?  
+00044	ŚRUT. (BR.)	? 
 00043	TANTRAS.	TANTRASĀRA, nach Anführungen im ŚKDR.
 00043	VĀCASP.	VĀCASPATI.
-00043	VYAVAHĀRAT.	VYAVAHĀRATATTVA, ed. Calc. (GILD. Bibl. 
-00043	LĀTY.	?  
+00043	VIVĀDAC.	VIVĀDACINTĀMAṆI, ed. Calc. (GILD. Bibl. 
+00043	VEṆĪS.	VEṆĪSAM̃HĀRA; nach Anführungen im ŚKDR.
+00043	NĀGĀN.	?  
 00043	TANTRASĀRA	?  
+00043	BṚHADD.	?  
 00042	LIṄGA-P.	LIṄGAPURĀṆA.
-00042	WASSILYEW	В. Васильевъ. Буддизмъ, его догматы, ист
-00042	HAEB.	?  
-00042	BṚHADD.	?  
-00042	WEBER, PRATIJÑĀS.	? 
-00041	MAHĀBH. lith. Ausg.	?  
-00041	AJAYAPĀLA	?  
+00042	VYAVAHĀRAT.	VYAVAHĀRATATTVA, ed. Calc. (GILD. Bibl. 
+00042	MUIR, Sanskrit Texts	MUIR, Sanskr. Texts ?
+00042	MAHĀVĪRAC.	?  
+00042	AJAYAPĀLA	?  
+00040	GOLD. MĀN.	MĀNAVA-KALPA-SŪTRA; being a portion of t
 00040	UṆ.	?  
-00039	AŚOKĀVAD.	AŚOKĀVADĀNA?  
-00039	MAHĀVĪRAC.	?  
-00039	MAD.	?  
-00038	VEṆĪS.	VEṆĪSAM̃HĀRA; nach Anführungen im ŚKDR.
-00038	NĀGĀN.	?  
+00040	ŚĀṆḌ.	bhakti-sūtra, by śāṇḍilya  
+00039	SOM. NALA	SOM. NALA
+00039	NIDĀNAS.	?  
+00039	KĀTANTRA	?  
+00039	MAHĀBH. lith. Ausg.	?  
 00038	GOLD.	?  
 00038	ŚABDĀRTHAKALPATARU	?  
+00038	KĀD.	?  
 00038	JYOTISTATTVA	?  
-00038	Chr.	?  
-00038	Kap.	?  
-00037	GOLD. MĀN.	MĀNAVA-KALPA-SŪTRA; being a portion of t
+00038	TS. Comm.	? 
+00037	BĀDAR.	? 
 00037	PRASAṄGĀBH.	?  
-00037	HIOUENTHSANG	?  
-00037	KĀD.	?  
-00036	VIVĀDAC.	VIVĀDACINTĀMAṆI, ed. Calc. (GILD. Bibl. 
-00036	ŚĀṆḌ.	bhakti-sūtra, by śāṇḍilya  
+00037	CHANDAS	?  
+00036	KṚṢIS.	?  
+00036	MAD.	?  
 00036	AJAYA	?  
 00036	KUMĀRILA	?  
-00036	TS. Comm.	? 
-00035	MUIR, Sanskrit Texts	MUIR, Sanskr. Texts ?
-00035	SOM. NALA	SOM. NALA
-00035	ANUPADA	? 
-00035	CHANDAS	?  
+00035	LALIT. Calc	LALITAVISTARA in der Bibliotheca indica.
+00035	UPAL.	UPALEKHA de KRAMAPĀṬHA libellus. Ed. G. 
 00035	BHAṬṬOTP.	?  
-00034	RATIM.	RATIMAÑJARĪ, ein Werk über Erotik; nach 
+00034	LANGLOIS	 Alexandre Langlois (1788-1854), French 
 00034	AMṚTAN. UP.	? 
-00033	LANGLOIS	 Alexandre Langlois (1788-1854), French 
-00031	BĀDAR.	? 
+00033	MĀLAT.	MĀLATĪMĀDHAVA, ed. Calc. (GILD. Bibl. 21
+00033	KĀTH.	?  
+00032	ŚĀRṄG. PADDH.	ŚĀRṄGADHARA'S PADDHATI; vgl. Bulletin hi
+00032	RATIM.	RATIMAÑJARĪ, ein Werk über Erotik; nach 
+00031	COL.	AMARAKOṢA nach der Ausgabe von COLEBROOK
+00031	NĀṬYAŚ.	NĀṬYAŚĀSTRA ?  
 00031	DHANAM̃JAYA	?  
+00031	ĀRYABH.	?  
 00031	VĀMANA-P.	? 
-00030	MĀLAT.	MĀLATĪMĀDHAVA, ed. Calc. (GILD. Bibl. 21
-00030	BALLANT.	BALLANTYNE ? 
-00030	KĀTH.	?  
+00030	BṚH. DEV.	BṚHADDEVATĀ; S. R{%O%}TH, zur L. u. G. d
+00030	MAHĀN.	MAHĀNĀṬAKA (GILD. Bibl. 220).
+00030	KIRĀT.	?  
 00030	SMṚTI	?  
-00029	ŚĀRṄG. PADDH.	ŚĀRṄGADHARA'S PADDHATI; vgl. Bulletin hi
-00029	MAHĀN.	MAHĀNĀṬAKA (GILD. Bibl. 220).
-00029	KIRĀT.	?  
+00029	ĀNANDAL.	ĀNANDALAHARĪ in HAEB. Chrest. S. 246. fg
+00029	BALLANT.	BALLANTYNE ? 
 00029	CŪLIKOP.	?  
-00028	BṚH. DEV.	BṚHADDEVATĀ; S. R{%O%}TH, zur L. u. G. d
-00028	LALIT. Calc	LALITAVISTARA in der Bibliotheca indica.
-00028	KṚṢIS.	?  
-00028	TR.	?  
+00028	MADAN.	?  
+00028	KṢITĪŚAV.	?  
 00028	UDBHAṬA	?  
 00028	PRĀYAŚCITTAT.	?  
 00028	Verz. d. Kop. H.	? 
-00027	MADAN.	?  
-00027	NIDĀNAS.	?  
-00027	JOHNS.	?  
-00026	KŪRMA-P.	KŪRMAPURĀṆA.
+00028	Gött. gel. Anz.	? 
+00027	KŪRMA-P.	KŪRMAPURĀṆA.
+00027	SOM. NAL.	Die Sage von NALA und DAMAYANTI nach der
+00027	BALLANTYNE	? 
 00026	MAHĀNĀR. UP.	MAHĀNĀRĀYAṆOPANIṢAD.
-00026	Zur L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
-00026	SOM. NAL.	Die Sage von NALA und DAMAYANTI nach der
+00026	PAÑCAT. ed. Bomb.	? [Cologne addition]
+00026	ROTH, Zur L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
 00026	BALL.	BALLANTYNE ? 
-00026	BALLANTYNE	? 
+00026	VAITĀN.	?  
+00026	NID.	?  
 00026	BROCKHAUS	?  
-00025	ĀNANDAL.	ĀNANDALAHARĪ in HAEB. Chrest. S. 246. fg
-00025	UPAL.	UPALEKHA de KRAMAPĀṬHA libellus. Ed. G. 
-00025	KĀTANTRA	?  
+00026	GOLĀDHY. BHUVANAK.	?  
+00025	TR.	?  
 00025	AJAYAP.	?  
-00025	ĀRYABH.	?  
+00025	FOUCAUX	?  
+00025	ROSEN	? 
+00025	SĀH.	?  
+00025	KṚṢṆAJ.	?  
 00025	MĀTSYA-P.	? 
 00024	KAVIKALPADR.	KAVIKALPADRUMA, eine Wurzelsammlung; nac
+00024	NYĀYA-S.	GOTAMA'S NYĀYASŪTRĀṆI, ed. Calc. (GILD. 
 00024	ĀPASTAMBA	? 
 00024	WESTERGAARD	?  
-00024	FOUCAUX	?  
+00024	AUFR.	?  
 00024	KAIYY.	?  
+00024	MAŚAKA	?  
 00023	DURGAD.	DURGĀDĀSA.
+00023	KAUṢ. BR.	KAUṢĪTAKIBRĀHMAṆA.
 00023	UTTARAR. ed. Cow.	? 
+00023	KṚṢISAM̃GR.	?  
 00023	PURĀṆA.	?  
-00023	MAŚAKA	?  
+00023	VIṢṆU	?  
 00023	VAHNI-P.	VAHNIPURĀṆA ? 
-00023	ROSEN	? 
-00023	Gött. gel. Anz.	? 
-00023	GOLĀDHY. BHUVANAK.	?  
-00022	KAUṢ. BR.	KAUṢĪTAKIBRĀHMAṆA.
-00022	PAÑCAT. ed. Bomb.	? [Cologne addition]
+00023	YOGAYĀTRĀ	?  
+00023	Verz. d. Oxf.	? 
+00022	ŚIŚUP.	?  
+00022	TARKASAM̃GR.	?  
+00022	JOHNS.	?  
 00022	RATNĀK.	?  
-00022	SĀH.	?  
 00021	HORĀŚ.	HORĀŚĀSTRA.
-00021	NYĀYA-S.	GOTAMA'S NYĀYASŪTRĀṆI, ed. Calc. (GILD. 
-00021	VAITĀN.	?  
-00021	ŚIŚUP.	?  
-00021	NĀṬYAŚ.	NĀṬYAŚĀSTRA ?  
+00021	KĀLAS.	KĀLASAṂKALITA, citirt nach HAUGHTON'S Wö
+00021	NYĀYAMĀLĀV.	NYĀYAMĀLĀVISTARA, nach Anführungen bei M
 00021	WHITNEY	?  
-00021	YOGAYĀTRĀ	?  
-00020	KĀLAS.	KĀLASAṂKALITA, citirt nach HAUGHTON'S Wö
+00020	BHĀG. P. ed. Bomb.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Bom
 00020	KOṢṬHĪPR.	KOṢṬHĪPRADĪPA, nach Anführungen im ŚKDR.
-00020	NID.	?  
+00020	VAJRAS.	?  
 00020	MAH.	?  
 00020	HĀRĪTA	?  
 00020	AGNI-P.	AGNIPURĀṆA ? 
-00020	PADDH.	?  
+00020	SCHÜTZ	? 
+00020	WEBER, Omina	?  
 00020	RÖER	? 
-00019	BHĀG. P. ed. Bomb.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Bom
+00019	Mat. ind.	Materia indica ? 
+00019	ANUPADAS.	? 
+00019	BHĀR. NĀṬYAŚ.	? 
+00019	ŚAK.	?  
 00019	PURĀṆA	?  
-00019	AUFR.	?  
-00019	BÖHTLINGK	? 
-00019	NIGH.	?  
-00019	TRIPRAŚN.	?  
+00019	ALBYROUNY	?  
+00019	BRAHMAP.	?  
+00019	KALKI-P.	? 
 00019	ŚĀŚVATA	? 
+00019	GRAHAṆAV.	?  
+00018	VARĀH. L. JĀT.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
+00018	VĀSAV.	VĀSAVADATTĀ; s. Z. d. d. m. G. VIII, 530
 00018	BĀLAR.	? 
-00018	VAJRAS.	?  
-00018	TARKASAM̃GR.	?  
 00018	BHŪRIPRAYOGA	?  
-00018	ALBYROUNY	?  
-00018	BRAHMAP.	?  
-00018	SIDDH.	?  
-00018	KALKI-P.	? 
+00018	BÖHTLINGK	? 
 00018	UP.	 ? 
-00018	SPAṢṬĀDH.	?  
-00018	WEBER, Omina	?  
+00018	PRAYOGAR.	?  
+00018	Hist. de la vie de HIOUEN-THSANG	? 
+00018	Bibl. ind.	? 
 00017	MALAMĀSAT.	MALAMĀSATATTVA (GILD. Bibl. 325), nach A
-00017	Mat. ind.	Materia indica ? 
-00017	GILD.	Scriptorum Arabum de Rebus Indi- cis loc
+00017	WINDISCHMANN, Sancara	FRID. H. H. WINDISCHMANNI Sancara sive d
 00017	UDVĀHAT.	UDVĀHATATTVA; nach Anführungen im ŚKDR.
-00017	NYĀYAMĀLĀV.	NYĀYAMĀLĀVISTARA, nach Anführungen bei M
-00017	KṢITĪŚAV.	?  
+00017	RĀMAT. UP.	? 
+00017	SCHLEGEL	?  
 00017	VAIDYAKA.	?  
 00017	KAVIKALPADRUMA	?  
 00017	JĀBĀLOP.	?  
+00017	CAREY	?  
 00017	BṚHASPATI	?  
+00017	SIDDH.	?  
 00017	KUHN	?  
-00017	B.	BÖHTLINGK ?  usu. preceded by 'z.'
 00017	PĀDMA-P.	PADMAPURĀṆA (misspell of PADMA-P.?) 
-00017	Verz. d. Oxf.	? 
+00017	KĀTY. ŚR. S.	?  
 00016	GARBHOP.	GARBHOPANIṢAD.
 00016	MĀDHAVAK.	MĀDHAVAKĀRA.
-00016	VĀSAV.	VĀSAVADATTĀ; s. Z. d. d. m. G. VIII, 530
+00016	GILD.	Scriptorum Arabum de Rebus Indi- cis loc
 00016	ANNADĀKALPA	? 
-00016	ŚAK.	?  
 00016	GAṆARATNAM.	?  
 00016	SCHIEFNER	?  
-00016	SCHLEGEL	?  
 00016	ANEKĀRTHAK.	?  
-00016	CAREY	?  
-00016	VIṢṆU	?  
 00016	ŚAUNAKA	?  
-00016	PRAYOGAR.	?  
+00016	ŚUDDHIT.	?  
+00016	MĀDHAVA	?  
+00016	BRAHMAS.	?  
+00016	VARARUCI	?  
 00016	MUIR	?  
+00016	Ind.	? 
+00016	R. ed. GORR.	Rāmāyaṇa, Gorresio edition, 1843--1867 
 00015	BRAHMĀṆḌA-P.	BRAHMĀṆḌAPURĀṆA.
 00015	BṚHASP.	BṚHASPATI, Verfasser eines Gesetzbuchs; 
+00015	KĀVYA-PR.	KĀVYAPRAKĀŚA, ed. Calc. (GILD. Bibl. 265
 00015	Mél. as.	Mél. asiat. ?
 00015	ROXB.	? 
 00015	UPAG. AV.	UPAGUPTĀVADĀNA, handschriftlich in der B
-00015	KṚṢISAM̃GR.	?  
+00015	KATHOP.	?  
 00015	DṚṢṬĀNTAŚ.	?  
-00015	BOPP	?  
+00015	BURNOUF.	?  
 00015	DHARAṆĪ	?  
 00015	JYOTIST.	?  
-00015	ŚUDDHIT.	?  
-00015	MĀDHAVA	?  
-00015	SCHÜTZ	? 
 00015	VARĀHA-P.	 ? 
-00015	GRAHAṆAV.	?  
+00015	KĀṬY.	?  
+00015	PADDH.	?  
+00014	BENF. Gr.	BENFEY, Vollständige Grammatik der Sansk
+00014	BRAHMAV. P.	BRAHMAVAIVARTAPURĀṆA.
 00014	ŚABDĀRṆ.	ŚABDĀRṆAVA, ein Wörterbuch; nach Anführu
 00014	PUR.	PURĀṆA.
 00014	SAṂGĪTAD.	SAM̃GĪTADĀMODARA (über Musik), nach Anfü
-00014	VARĀH. L. JĀT.	VARĀHAMIHIRA'S LAGHUJĀTAKA.
-00014	WINDISCHMANN, Sancara	FRID. H. H. WINDISCHMANNI Sancara sive d
-00014	KATHOP.	?  
-00014	BURNOUF.	?  
 00014	STENZLER.	?  
+00014	BOPP	?  
 00014	VAIDYAKAPAR.	?  
 00014	DRAVYAR.	?  
 00014	KATHĀRṆAVA	?  
 00014	ŚRĪPATI	?  
 00014	SMARADĪPIKĀ	?  
 00014	YAMA	?  
+00014	CANDRA	?  
 00014	PRAŚNOTTARAM.	?  
-00014	ŚAT.	?  
+00014	FOUC.	?  
 00014	SĀṂKHYAPR.	?  
-00014	VARARUCI	?  
 00014	MATHUREŚA	?  
 00013	KĀṬH. ANUKR.	ANUKRAMAṆIKĀ des  ? [Cologne addition]
-00013	BRAHMAV. P.	BRAHMAVAIVARTAPURĀṆA.
+00013	WILSON, Hindu Th.	Select specimens of the Theatre of the H
 00013	MAHĀV.	MAHĀVĪRACARITA. The Mahá Víra Charita, o
-00013	v. l.	varia lectio.
-00013	RĀMAT. UP.	? 
-00013	BHĀR. NĀṬYAŚ.	? 
+00013	RĀJA-TAR. ed. Calc.	RĀJATARAṄGIṆĪ,  Calc. Ausg. (GILD. Bibl.
+00013	LĪLĀV.	LĪLĀVATĪ.
 00013	DAŚABHŪM.	?  
+00013	PĀṆINI	?  
 00013	CARAṆAVYŪHA	?  
 00013	VĀCASPATI	?  
-00013	CANDRA	?  
 00013	RANTIDEVA	?  
+00013	DEVĪM.	?  
 00013	BÜHLER	? 
-00013	BRAHMAS.	?  
-00013	KṚṢṆAJ.	?  
+00013	NIGH.	?  
 00013	ŚĀNTIKALPA	?  
-00013	COWELL	Edward Byles Cowell (1826-1903), first p
 00013	BHAṬṬOTPALA	?  
 00013	GAUḌA	?  
-00012	KĀVYA-PR.	KĀVYAPRAKĀŚA, ed. Calc. (GILD. Bibl. 265
-00012	VARĀH. LAGHUJ.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
 00012	MAITR. UP.	MAITRĀYAṆYUPANIṢAD.
+00012	MĀLAV. ed. Bomb.	 MĀLAVIKĀGNIMITRA, Bombay edition 
 00012	NĀR.	NĀRĀYAṆA, ein Scholiast von ŚAṄKH. GṚHY.
-00012	D.	SĀHITYADARPAṆA, ? 
-00012	LĪLĀV.	LĪLĀVATĪ.
 00012	DAŚABH.	DAŚABHŪMĪŚVARA, handschriftlich in der P
-00012	ANUPADAS.	? 
 00012	BENFEY.	? 
+00012	BR.	?  
 00012	GAṆARATN.	?  
 00012	ŚABDĀRṆAVA	?  
 00012	PARĀŚARA	?  
@@ -584,53 +581,57 @@
 00012	RABHASA	?  
 00012	MĀDH.	?  
 00012	UVAṬA	?  
-00012	DEVĪM.	?  
+00012	DIVYĀVAD.	DIVYĀVADĀNA ? 
 00012	KAṆĀDA	? 
+00012	WOLLH. Myth.	 ? 
 00012	SUBHĀṢ.	?  
 00012	PĀDMOTTARAKH.	?  
+00012	TRIPRAŚN.	?  
 00012	CAKRAD.	?  
-00012	KĀṬY.	?  
-00012	AIT.	?  
+00012	KĀŚIKH.	?  
+00012	Ś.	?  
+00012	KAPILA	?  
 00012	PĀR.	?  
 00012	MONIER WILLIAMS	? 
-00012	KĀṆVA	?  
-00012	Hindu Th.	? 
+00012	CHEDYAK.	?  
+00011	ĀHNIKAT.	ĀHNIKATATTVA.
 00011	ĀRUṆ. UP.	ĀRUṆIKOPANIṢAD.
-00011	BENF. Gr.	BENFEY, Vollständige Grammatik der Sansk
-00011	RĀJA-TAR. ed. Calc.	RĀJATARAṄGIṆĪ,  Calc. Ausg. (GILD. Bibl.
+00011	WEBER, Ind. Lit.	? 
 00011	RASAM.	RASAMAÑJARĪ (s. Verz. d. B. H. {%N;%} 59
 00011	VP. (2te Aufl.)	? 
 00011	BAUDH.	BAUDHĀYANA.
 00011	BṚHADDHARMA-P.	BṚHADDHARMAPURĀṆA; nach Anführungen im Ś
 00011	ŚRĀDDHAT.	ŚRĀDDHATATTVA; nach Anführungen im ŚKDR.
-00011	Nakṣ.	WEBER, Die vedischen Nachrichten von den
-00011	BROCKH.	?  
+00011	BHĀMINĪV.	BHĀMINĪVILĀSA ? 
 00011	DEVALA	?  
 00011	VAIDYAKAPARIBHĀṢĀ	?  
 00011	DHARAṆI	?  
 00011	KAIVALYOP.	?  
 00011	DĪPIKĀ	?  
 00011	YĀDAVA	?  
-00011	DIVYĀVAD.	DIVYĀVADĀNA ? 
 00011	BHAVIṢYOTTARA-P.	BHAVIṢYOTTARAPURĀṆA ? 
-00011	REINAUD, Mém. sur I'Inde	? 
-00011	KAPILA	?  
-00011	Hist. de la vie de HIOUEN-THSANG	? 
+00011	KĀṆ.	?  
+00011	MĀN.	?  
+00011	NĀṬY.	?  
+00011	COWELL	Edward Byles Cowell (1826-1903), first p
+00011	PĀŚAKAKEV.	? 
+00011	RĀMAT.	? 
 00011	VIŚVAPR.	?  
 00010	AGNISV.	AGNISVĀMIN, ein Scholiast des LĀṬYĀYANA.
-00010	ĀHNIKAT.	ĀHNIKATATTVA.
+00010	AV. ANUKR.	ANUKRAMAṆIKĀ des ATHARVAVEDA, 10 Paṭala.
+00010	COLEBR. Misc.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
+00010	HAEB. Chrest.	KĀVYA-SANGRAHA. A Sanscrit Anthology, be
 00010	Journ. asiat.	Journal asiatique.
-00010	MĀLAV. ed. Bomb.	 MĀLAVIKĀGNIMITRA, Bombay edition 
 00010	DRĀHY.	DRĀHYĀYAṆA.
+00010	KĀTY. PADDH.	YĀJÑIKADEVA'S PADDHATI zu KĀTYĀYANA'S ŚR
 00010	PARĀŚARAPADDH.	PARĀŚARAPADDHATI; nach Anführungen im ŚK
 00010	BANERJEA	Dialogues on the Hindu Philosophy, compr
 00010	BHĀGURI	? 
-00010	BHĀMINĪV.	BHĀMINĪVILĀSA ? 
-00010	PĀṆINI	?  
 00010	UPANIṢAD	?  
 00010	WEBER.	?  
 00010	VOIGT	?  
 00010	NĀNĀRTHARATNAM.	?  
+00010	BROCKH.	?  
 00010	KĀLIDĀSA	?  
 00010	UJJVALANĪLAMAṆI	?  
 00010	PĀKARĀJEŚVARA	?  
@@ -641,23 +642,17 @@
 00010	YAVANEŚVARA	?  
 00010	DHYĀNABINDŪP.	?  
 00010	BRAHMAVAIV-P.	BRAHMAVAIVARTAPURĀṆA?  
-00010	WOLLH. Myth.	 ? 
 00010	RĀGHAVAP.	?  
-00010	KĀṆ.	?  
-00010	KĀŚIKH.	?  
-00010	TRIPR.	?  
-00010	PR.	?  
+00010	KṢITĪŚĀV.	?  
+00010	MADHY.	?  
 00010	YOGAY.	?  
-00010	MĀN.	?  
-00010	ŚĀṄKH.	?  
-00010	Monatsberr. d. K. Pr. Ak. d. Ww.	? 
-00010	CHEDYAK.	?  
+00010	Bibl. Ind.	? 
+00010	VAJRASŪCI	?  
+00010	KĀṆVA	?  
 00009	ĀŚV. GṚHY. PARIŚ.	? [Cologne addition]
-00009	AV. ANUKR.	ANUKRAMAṆIKĀ des ATHARVAVEDA, 10 Paṭala.
 00009	BHĀNUD.	BHĀNUDĪKṢITA, ein Commentator des AMARAK
-00009	COLEBR. Misc.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
+00009	Misc. Ess.	COLEBROOKE'S Miscellaneous Essays.? 
 00009	ŚUKAS.	ŚUKASAPTATI in LASSEN'S Anthologie (GILD
-00009	WEBER, Ind. Lit.	? 
 00009	PRĀT.	PRĀTIŚĀKHYA.
 00009	RATNAK.	RATNAKOṢA, ein Wörterbuch; nach Anführun
 00009	Fl. ind.	? 
@@ -665,6 +660,7 @@
 00009	NĀNĀRTHADHVANIM.	NĀNĀRTHADHVANIMAÑJARĪ  
 00009	MANU	?  
 00009	GILDEMEISTER	?  
+00009	HIT. ed. SCHL.	?  
 00009	KAVIKALPALATĀ	?  
 00009	VYĀSA	?  
 00009	KULĀRṆAVAT.	?  
@@ -676,23 +672,22 @@
 00009	GARGA	?  
 00009	GARUḌA-P.	GARUḌA-PURĀṆA ?  
 00009	DEVĪBHĀG. P.	DEVĪBHĀGAVATAPURĀṆA ? 
+00009	WOLLHEIM, Myth.	 ? 
 00009	KAUṢ. ĀR.	? 
-00009	VAJRASŪCI	?  
+00009	Verz. der Oxf. H.	? 
 00009	RĀMĀŚR.	?  
 00009	RĀMĀŚRAMA	?  
 00009	SUBHŪTI	?  
 00009	MUKUṬA	?  
 00009	MUIR, Sanscrit Texts	? 
 00009	BOLLENSEN	?  
-00009	RĀMAT.	? 
-00009	PRAKṚTIKH.	?  
-00009	KĀTY. ŚR. S.	?  
-00008	Misc. Ess.	COLEBROOKE'S Miscellaneous Essays.? 
-00008	HAEB. Chrest.	KĀVYA-SANGRAHA. A Sanscrit Anthology, be
+00009	Monatsberr. d. K. Pr. Ak. d. Ww.	? 
+00009	lith. Ausg.	? 
+00008	JĀB. UP.	JĀBĀLOPANIṢAD.
 00008	KĀṬ.	KĀṬAVEMA, ein Scholiast des ŚĀKUNTALA.
 00008	PARĀŚ.	PARĀŚARA, Verfasser eines Gesetzbuchs; n
-00008	KĀTY. PADDH.	YĀJÑIKADEVA'S PADDHATI zu KĀTYĀYANA'S ŚR
 00008	MATHURĀN.	MATHURĀNĀTHA, ein Schol. des AK.; nach A
+00008	Notices	Notices of Skt. Mss. 
 00008	TANTRA.	?  
 00008	POLEY	?  
 00008	DEVAR.	?  
@@ -700,88 +695,80 @@
 00008	RĀJAVALLABHA	?  
 00008	YUKTIKALPATARU	?  
 00008	KĀŚĪKHAṆḌA	?  
+00008	DĀYAT.	?  
 00008	RUDRA	?  
 00008	ṢAḌGURUŚ.	?  
 00008	BHAVIṢYOTT. P.	BHAVIṢYOTTARAPURĀṆA ? 
-00008	Ross	? 
 00008	ST. JULIEN	? 
-00008	WOLLHEIM, Myth.	 ? 
-00008	KṢITĪŚĀV.	?  
-00008	YĀJN.	?  
-00008	MADHY.	?  
 00008	KUMARĀS.	?  
-00008	MĀRK.	?  
-00008	FOUC.	?  
 00008	ĀŚV.	?  
-00008	NĀṬY.	?  
 00008	MERUTANTRA	?  
-00008	Verz. der Oxf. H.	? 
 00008	RĀMĀŚRAYA	?  
 00008	KṢĪRASV.	?  
 00008	ŚĀṂK.	?  
+00008	ŚĀṄKH.	?  
 00008	PĀTĀLAKH.	?  
 00008	GOLDST.	?  
-00008	Lois.	?  
+00008	AR. UP.	? 
 00008	VARĀH. LAGH.	? 
+00008	HAEB. Anthol.	? 
+00008	YANTRĀDH.	?  
 00007	Bull. hist.-phil.	 Bulletin historico-philologique de l'Ac
-00007	ŚĀRṄG.	ŚĀRṄGADHARA.
 00007	ŚATAR. UP.	ŚATARUDRIYOPANIṢAD.
 00007	GAṆAR.	GAṆARATNAMAHODADHI, s. BÖHTLINGK, Einlei
-00007	ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
 00007	YAVANEŚV.	YAVANEŚVARA.
 00007	KAIV. UP.	KAIVALYOPANIṢAD.
 00007	KOṢṬHĪPRADĪPA	KOṢṬHĪPRADĪPA, nach Anführungen im ŚKDR.
+00007	Verz. d. B.	{1.314} ? 
 00007	RĀṢṬRAPĀLAP.	RĀṢTRAPĀLAPARIPṚCCHĀ, handschriftlich in
 00007	LANGLOIS.	?  
-00007	J.	?  
 00007	SĀYAṆA	?  
 00007	UṆĀDIVR.	?  
 00007	PULASTYA	?  
 00007	KARMALOCANA	?  
-00007	SKANDAP.	?  
 00007	UṆĀDIVṚTTI	?  
-00007	DĀYAT.	?  
 00007	MATSYAP.	?  
 00007	CARAṆAVY.	?  
 00007	PURR.	?  
-00007	BÖHTL.	? 
 00007	BHAVIṢYOTTARAPURĀṆA	BHAVIṢYOTTARAPURĀṆA ? 
 00007	BṚHANNĀRAD. P.	BṚHANNĀRADAPURĀṆA ? 
 00007	PERTSCH	? 
-00007	VIṢṆU'S DHARMAŚ.	 ? 
 00007	VAIT.	?  
 00007	KAURAP.	?  
 00007	YAJÑAD.	?  
 00007	VĪR.	?  
 00007	VIKRAMAC.	?  
-00007	KĀLAM.	?  
 00007	BHAVIṢYOTTARAP.	?  
 00007	CAKRADATTA	?  
+00007	KRIYĀSAMUCCAYA	?  
 00007	PANDIT	?  
 00007	Verz. d. Tüb. Hdschr.	? 
+00007	HAUG	?  
 00007	ŚRĪDHARASV.	?  
 00007	AMARAMĀLĀ	?  
-00007	GOLAB.	?  
-00007	AR. UP.	? 
-00007	ŚRĪKṚṢṆAJANMAKH.	?  
+00007	TAITT.	?  
+00007	HESSLER	?  
+00007	Lois.	?  
 00007	ŚATAKĀV.	?  
-00006	BRAHMA-S.	BRAHMASŪTRA, nach Anführungen in WIND. S
 00006	WILSON, DAŚAK.	DAŚAKUMĀRACARITA, ed. WILSON (GILD. Bibl
 00006	DIVYA-AV.	DIVYĀVADĀNA, eine buddhistische Legenden
-00006	JĀB. UP.	JĀBĀLOPANIṢAD.
 00006	GORRESIO	Gaspare Gorresio, translator of RĀMĀYAṆA
+00006	Kār.	Kārikā.
+00006	MAÑJUŚRĪN.	ĀRYAMAÑJUŚRĪNĀMASAM̃GĪTI, s. Verz. d. Pe
+00006	MEGH. ed. ST.	 MEGHADŪTA, ed. Stenzler. [Cologne addit
 00006	NAVAR.	NAVARATNA in HAEB. {%C%}hrest. S. 1--3.
 00006	PRĀYAŚCITTAV.	PRĀYAŚCITTAVIVEKA, nach Anführungen im Ś
 00006	R. ed. Ser.	Serampore ed. of Rāmāyaṇa [Cologne addit
-00006	Verz. d. B.	{1.314} ? 
+00006	SIDDH. ŚIR.	SIDDHĀNTAŚIROMAṆI, nach Anführungen im Ś
 00006	JYOTIṢAT.	JYOTIṢATATTVA; nach Anführungen im ŚKDR.
-00006	Notices	Notices of Skt. Mss. 
+00006	KARMAPRAD.	KARMAPRADĪPA.
+00006	Trans. R. A. S.	The Transactions of the Royal Asiatic So
 00006	UTTARARĀMAC. ed. Cow.	? 
+00006	BENF.	? 
 00006	AŚOKĀV.	AŚOKĀVADĀNA?  
 00006	BHĀSKARA	? 
 00006	FOUCAUX.	?  
 00006	DURGA.	?  
-00006	TROYER.	?  
 00006	RĀMĀYAṆA	?  
 00006	DĪP.	?  
 00006	SĀRASV.	?  
@@ -792,62 +779,57 @@
 00006	HAḌḌACANDRA	?  
 00006	VIJAYARAKṢITA	?  
 00006	JYOTIṢA	?  
+00006	KĀLIKĀP.	?  
 00006	RUDRAYĀMALA	?  
 00006	VIṢṆUDHARMOTTARA	?  
 00006	PAIṬHĪNASI	?  
 00006	BRAHMAVAIV.-P.	BRAHMAVAIVARTAPURĀṆA?  
 00006	ĀRUṆIKOP.	?  
-00006	REINAUD	? 
-00006	Rosse	? 
+00006	BÖHTL.	? 
+00006	Ross	? 
+00006	SPAṢṬĀDH.	?  
 00006	ĀNANDALAH.	?  
-00006	BHAGAṆĀDH.	?  
 00006	VṚDDHACĀṆ.	?  
-00006	PRATYABDAŚ.	?  
-00006	BHAGRAHAY.	?  
-00006	ŚVETĀŚV.	?  
+00006	TRIPR.	?  
+00006	LALITAV.	?  
+00006	SĀṂKHYAPRAV.	?  
 00006	UTTAR.	?  
-00006	Bibl. Ind.	? 
 00006	MATSYASŪKTA	?  
 00006	GOVARDHANA	?  
 00006	GOBH	?  
 00006	JĀTAKAMĀLĀ	?  
+00006	JAIMINI	?  
 00006	VĪRAMITRODAYA	?  
+00006	DATTAKACANDRIKĀ	?  
 00006	MALL.	?  
-00006	HAUG	?  
 00006	BRAHMAVAIV.	?  
 00006	ṢAḌGURUŚIṢYA	?  
+00006	DEVARĀJA	?  
 00006	KATHĀRṆ.	?  
-00006	TAITT.	?  
 00006	PARIŚIṢṬA	?  
-00006	ŚIVA	?  
 00006	BOHLEN	?  
-00006	NĪLAK	?  
-00006	HAEB. Anthol.	? 
-00006	YANTRĀDH.	?  
-00006	ŚRUT. (BR.)	? 
+00006	GOLAB.	?  
+00006	SPAṢṬĀDHY.	?  
+00006	LASSEN, Pentap.	? 
 00005	AVAD. ŚAT.	AVADĀNAŚATAKA, eine buddhistische Legend
-00005	BURNOUF Intr.	BURNOUF, Introduction à l'histoire du Bu
+00005	BRAHMA-S.	BRAHMASŪTRA, nach Anführungen in WIND. S
+00005	ŚĀK. ed. CH.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
 00005	Śl.	Śloka.
 00005	DURGĀDĀSA	DURGĀDĀSA ? 
-00005	Index des KANDYUR	Index des KANDYUR. Herausgegeben von der
 00005	YAJ. V.	YAJURVEDA.
 00005	KĀVYAC.	KĀVYACANDRIKĀ, ein Lehrbuch der Rhetorik
 00005	MAŚ. S.	MAŚAKA'S KALPASŪTRĀṆI.
-00005	MAÑJUŚRĪN.	ĀRYAMAÑJUŚRĪNĀMASAM̃GĪTI, s. Verz. d. Pe
 00005	NĪL.	NĪLAKAṆṬHA, ein Scholiast des MAHĀBHĀRAT
 00005	PUṢPAS.	PUṢPASŪTRA.
-00005	SIDDH. ŚIR.	SIDDHĀNTAŚIROMAṆI, nach Anführungen im Ś
+00005	R. ed. SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838 [
 00005	SUŚRUTA	SUŚRUTA 
 00005	ŚĀKAṬ.	ŚĀKAṬĀYANA, ein Schol. des ŚĀK.
-00005	KARMAPRAD.	KARMAPRADĪPA.
 00005	RAGHUN.	RAGHUNANDANABHAṬṬĀCĀRYA, ein Scholiast d
-00005	Trans. R. A. S.	The Transactions of the Royal Asiatic So
-00005	BENF.	? 
 00005	BHĀṢĀPAR.	BHĀṢĀPARICCHEDA nach der Ausgabe von RÖE
 00005	BROCKHAUS.	?  
 00005	MIKLOSICH	Franz Miklosich (1813-1891) a Slovene ph
+00005	YAJURVEDA	?  
 00005	BOPP.	?  
-00005	KĀD. (ed. Calc. 1862)	KĀD.(?), Calcutta edition  
 00005	BHAVADEVABHAṬṬA	?  
 00005	ŚIVAP.	ŚIVAPURĀṆA ?  
 00005	GAṬĀDH.	?  
@@ -856,8 +838,6 @@
 00005	RUDRAYĀM.	?  
 00005	TITHYĀDITATTVA	?  
 00005	DRAVYAGUṆA	?  
-00005	PRAKṚTIKHAṆḌA	?  
-00005	KĀLIKĀP.	?  
 00005	HAḌḌA	?  
 00005	MUṆḌAMĀLĀTANTRA	?  
 00005	NĀGEŚA	?  
@@ -867,55 +847,55 @@
 00005	ŚĀTĀTAPA	?  
 00005	ĀGNEYA-P.	ĀGNEYAPURĀṆA? 
 00005	Or. und Occ.	? 
+00005	SĀṂSK. K.	? 
 00005	WHITE	 ? 
 00005	AVADĀNAŚ.	?  
 00005	SARASVATĪK.	?  
+00005	TRIR.	?  
 00005	KĀLAC.	?  
+00005	KĀTHĀS.	?  
 00005	SĀDHANAM.	?  
-00005	PĀTĀDH.	?  
-00005	LALITAV.	?  
-00005	Ś.	?  
-00005	NAIG.	?  
+00005	SAṂSKṚTAPĀṬHOP.	?  
 00005	ADHYĀTMAR.	?  
-00005	LASS.	?  
+00005	DATTAKAC.	?  
+00005	ŚVETĀŚV.	?  
 00005	GIT.	?  
 00005	UTT.	?  
+00005	AIT.	?  
 00005	NĀRAS. P.	? 
 00005	PRAYOGARATNA	?  
 00005	HARIBHAKTIVILĀSA	?  
 00005	KULĀRṆAVA	?  
+00005	UPALEKHA	?  
 00005	SĀRASUNDARĪ	?  
 00005	VINĀYAKA	?  
 00005	NAYANĀNANDA	?  
 00005	KARKA	?  
-00005	DEVARĀJA	?  
 00005	MAITR.	?  
+00005	SARVASĀROP.	?  
 00005	JAGADDHARA	?  
 00005	ŚAṂKARĀCĀRYA	?  
 00005	NILAK.	?  
 00005	ĀNANDAGIRI	?  
+00005	GAUḌAPĀDA	?  
 00005	KĀṬHAKA	?  
 00005	HOMER	?  
-00005	NIRUKTA	?  
 00005	MOLESWORTH	?  
 00005	RAKṢITA	?  
-00005	HESSLER	?  
 00005	VAṂŚABR.	? 
 00005	SAJJANA	?  
 00005	MAHĀBHĀṢYA	?  
+00005	KĀTYĀYANA	?  
 00005	HAṬṬAC.	? 
 00005	NARASIṂHA-P.	? 
-00005	SPAṢṬĀDHY.	?  
-00005	KĀLANIRṆAYA	?  
-00005	SCHÜTZ'S	?  
-00005	?	Unknown to us. Can you help? 
+00005	TRIPRAŚNAV.	?  
+00005	POTT	?  
 00004	KĀTY. ANUKR.	ANUKRAMAṆIKĀ des  ? [Cologne addition]
+00004	ŚĀRṄG.	ŚĀRṄGADHARA.
 00004	GĪTAG.	GĪTAGOVINDA, ed. LASSEN (GILD. Bibl. 168
 00004	HARISV.	HARISVĀMIN, ein Scholiast des ŚAT. BR.
-00004	WILSON, Hindu Th.	Select specimens of the Theatre of the H
 00004	YOGAT.	YOGATATTVA, S. Ind. St. 2, 49.
 00004	Journ. as.	Journal asiatique.
-00004	Kār.	Kārikā.
 00004	NĪTIPR.	NĪTIPRADĪPA in HAEB. Chr. S. 526--528.
 00004	UTT. RĀMAC.	UTTARA-RĀMACARITRA, ed. Calc. (GILD. Bib
 00004	VĪRAM.	VĪRAMITRODAYA.
@@ -925,15 +905,16 @@
 00004	MUIR, Sanskr. Texts	Original Sanskrit Texts on the origin an
 00004	ATHARVAŚ. UP.	ATHARVAŚIKHĀ. UPANIṢAD. ? 
 00004	Journ. of the As. S. of Beng.	? 
+00004	Journ. of the As. Soc. of Bombay	Journ. of the As. Soc. of Bombay 
 00004	BHĀRAVI	? 
-00004	WIND.	?  
+00004	TROYER.	?  
 00004	PISCHEL	?  
 00004	VOPADEVA	?  
 00004	JYOTIṢA.	?  
-00004	YAJURVEDA	?  
 00004	WINDISCHMANN	Friedrich Heinrich Hugo Windischmann (18
 00004	JOHNS. Sel.	?  
 00004	MĀDHAVA.	?  
+00004	KĀD. (ed. Calc. 1862)	KĀD.(?), Calcutta edition  
 00004	MĀDHAVAKARA	?  
 00004	UṆADIVṚ.	?  
 00004	KALPA	?  
@@ -958,45 +939,46 @@
 00004	SĀMUDRAKA	?  
 00004	ĀTMOP.	?  
 00004	ALBRECHT WEBER	? 
+00004	J. MUIR	? 
 00004	Orient und Occident	? 
 00004	REGNIER	? 
-00004	Randgl.	? 
+00004	Rosse	? 
+00004	Journ. R. As. S.	?  
 00004	RÜCKERT	? 
-00004	SĀṂSK. K.	? 
-00004	TULLB.	TULLBERG ? 
 00004	WILKINS	 ? 
 00004	WILKINS Ms.	WILKINS  Ms.=  ? 
 00004	RASATAR.	?  
-00004	TRIR.	?  
 00004	KAṬHĀS.	?  
-00004	KĀTHĀS.	?  
 00004	MAHĀVĪR.	?  
 00004	ŚĀNTIK.	?  
-00004	AH.	?  
 00004	UTTARARĀMAK.	?  
 00004	UPAK.	?  
-00004	SAṂSKṚTAPĀṬHOP.	?  
 00004	MAHĀNĀṬ.	?  
 00004	DAM̃PATĪŚ.	?  
+00004	MĀRK.	?  
 00004	RĀGHAVAPĀṆḌ.	?  
+00004	MUDR.	?  
+00004	PR.	?  
 00004	PRĀYAŚCITTENDUŚ.	?  
-00004	SĀDHANAMĀLĀT.	?  
+00004	ANUP.	?  
 00004	KRIYĀYOGAS.	?  
-00004	GRAHĀNAY.	?  
-00004	SĀṂKHYAPRAV.	?  
-00004	GAṆAPATIKH.	?  
+00004	LASS.	?  
+00004	PRAD.	?  
 00004	VARAR.	?  
-00004	DATTAKAC.	?  
 00004	SŪRYAŚ.	?  
+00004	TARĀN.	?  
+00004	LAGHŪJ.	?  
+00004	DATTAKAM.	?  
+00004	VIVĀDĀC.	?  
 00004	Berichte d. k. s. Ges. d. Ww. phil.-hist.	{2.003} ? 
 00004	AVADĀNAKALPALATĀ	?  
 00004	KARAKA	?  
 00004	PĀDMOTTARAKHAṆḌA	?  
 00004	UTKALAKHAṆḌA	?  
 00004	VEDĀNTASŪTRA	?  
+00004	NĀGĀNANDA	?  
 00004	KUNTĀPA	?  
 00004	ŚĀKAṬĀYANA	?  
-00004	NALA	?  
 00004	PARIBHĀṢĀ	?  
 00004	Verz. der Pet. H.	? 
 00004	MATHUR.	?  
@@ -1018,9 +1000,10 @@
 00004	ŚṚNGĀRAT.	?  
 00004	BHĀGAVṚTTI	?  
 00004	KEŚAVA	?  
+00004	NIRUKTA	?  
 00004	SOM.	?  
 00004	VARĀHAMIHIRA	?  
-00004	VEDĀNTA	?  
+00004	ŚIVA	?  
 00004	VAIG.	?  
 00004	UTPALINĪ	?  
 00004	COLEBROOKE	?  
@@ -1028,37 +1011,37 @@
 00004	DHANURVEDA	?  
 00004	KṢĪRASVĀMIN	?  
 00004	KĀṬHOP.	? 
-00004	CANDRAGR.	? 
-00004	TRIPRAŚNAV.	?  
 00004	MADHYAG.	?  
 00004	TRIPRAŚNĀDHY.	?  
 00004	BHAGRAHAYUTI	?  
-00004	LASSEN, Pentap.	? 
+00004	KĀLANIRṆAYA	?  
 00004	AJAYAK.	?  
 00004	NĀRĀYAṆA	?  
-00004	POTT	?  
 00004	WESTERGAARD, Radd.	?  
-00004	STENZLER'S	?  
-00004	MÜLLER'S	?  
-00004	WEBER'S	?  
+00004	LASSEN, Institt. linguae pracr.	?  
+00004	LASSEN, Institt. linguae pr.	?  
 00004	LIKHITA	?  
 00004	SAUNĀGA	?  
+00004	WEBER, Ind. Streifen	? 
 00003	AK. ed. COLEBR.	? AMARAKOṢA nach der Ausgabe von COLEBRO
 00003	AMARAD.	AMARADATTA.
 00003	BHAV. P.	BHAVIṢYAPURĀṆA.
 00003	BṚH. ĀR.	? BṚHADĀRAṆYAKOPANIṢAD, nach der Ausgabe
-00003	ŚĀK. ed. CH.	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
+00003	ŚAṂKARA	ŚAṂKARA o= ŚAṂKARA (ein Scholiast des ŚĀ
 00003	Gel. Anzz. d. k. b. Ak. d. Ww.	Gelehrte Anzeigen. Herausgegeben von Mit
 00003	GOVINDABH.	GOVINDABHAṬṬA.
+00003	YAJÑAD. (LOIS.)	YAJÑNADATTABADHA, ou la mort de YAJÑNADA
 00003	KĀLID.	KĀLIDĀSA.
 00003	LAGHUJĀT.	VARĀHAMIHIRA'S LAGHUJĀTAKA. 
 00003	PAÑCATANTRA	PAÑCATANTRA
 00003	PURUṢ.	PURUṢOTTAMA, ein Lexicograph (unter Ande
-00003	R. ed. SCHL.	Rāmāyaṇa, Schlegel edition, 1829--1838 [
 00003	SAUN.	SAUNĀGA, s. die Einleitung zu BÖHTLINGK'
 00003	SUVARṆAPR.	SUVARṆAPRABHĀSA, ein buddhistisches Werk
 00003	BENFEY, SV.	SĀMAVEDA. Die Hymnen des SĀMA-VEDA, hera
+00003	Vārtt.	Vārttika von KĀTYĀYANA in BÖHTLINGK'S Au
 00003	Verz. d. Pet. Hdschr.	? 
+00003	Zeitschr. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
+00003	ROTH, Zur Lit. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
 00003	MUṆḌAMĀLĀT.	MUṆḌAMĀLĀTANTRA; nach Anführungen im ŚKD
 00003	PARĀŚARA-P.	PARĀŚARAPADDHATI; nach Anführungen im ŚK
 00003	SUBH.	SUBRŪTI, ein Schol. des AK.; nach Anführ
@@ -1066,15 +1049,19 @@
 00003	KAṬHINĀV.	KAṬHINĀVADĀNA, handschriftlich in der Pa
 00003	BANERJEA, Dial.	Dialogues on the Hindu Philosophy, compr
 00003	PK.	PĀRŚVANĀTHAKĀVYA, in AUFRECHT'S Index zu
+00003	Journ. of the As. Soc. of Beng.	? 
+00003	Journ. of the As. Soc. of B.	Journ. of the As. Soc. of Bombay ? 
 00003	BĀLARĀM.	? 
 00003	BAUDHĀYANA	? 
+00003	STENZ.	?  
+00003	WIND.	?  
 00003	SŪTRA	?  
 00003	HANUMANT	?  
 00003	PISCHEL.	?  
-00003	HIT. ed. SCHL.	?  
 00003	KĀŚYAPA	?  
 00003	RUDRAY.	?  
 00003	AMṚTANĀDOP.	?  
+00003	PRAKṚTIKHAṆḌA	?  
 00003	AṄGIRAS	?  
 00003	NYĀSA	?  
 00003	MĀDHAVAKĀRA	?  
@@ -1086,23 +1073,22 @@
 00003	MĀGHA	?  
 00003	BHOJARĀJA	?  
 00003	KAVIKALP.	?  
-00003	ŚARDĀRTHAK.	?  
 00003	ANANTASAM̃HITĀ	?  
-00003	RĀJN.	?  
 00003	PARAMAHAM̃SOP.	?  
 00003	VRAJABHAKTIVILĀSA	?  
 00003	NṚS. TĀP.	NṚSIṂHATĀPANĪYOPANIṢAD ? 
+00003	B.	BÖHTLINGK ?  usu. preceded by 'z.'
 00003	AMṚTABINDŪP	? 
 00003	AMARAKOṢA	? 
 00003	DHARMA-P.	DHARMAPURĀṆA ? 
 00003	GAṆEŚA-P.	GAṆEŚAPURĀṆA ? 
-00003	J. MUIR	? 
-00003	Journ. R. As. S.	?  
+00003	J. R. As. S.	?  
 00003	SHAKESP.	? 
 00003	STEVENSON	? 
 00003	SUPADMAVYĀKARAṆA	? 
 00003	VAS.	 ? 
 00003	VṚDDHA-KĀṆ.	 ? 
+00003	Vie de Hiouen-thsang	 ? 
 00003	WARREN	 ? 
 00003	GOT.	?  
 00003	BHĀṬṬ.	?  
@@ -1110,36 +1096,35 @@
 00003	GHAT.	?  
 00003	DṚṢTĀNTAŚ.	?  
 00003	SUNDOP.	?  
-00003	MUDR.	?  
-00003	KṢITIŚAV.	?  
+00003	PRATYABDAŚ.	?  
 00003	ṚGVIDH.	?  
 00003	YAJÑ.	?  
-00003	MB.	?  
 00003	DĀYAKRAMAS.	?  
 00003	UPAG.	?  
 00003	KARMAPR.	?  
-00003	KĀLAMĀN.	?  
-00003	RĀJA.	?  
+00003	KĀLAM.	?  
+00003	SĀDHANAMĀLĀT.	?  
 00003	ŚULVAPARIŚ.	?  
 00003	RATN.	?  
+00003	BHAGRAHAY.	?  
 00003	INDRAL.	?  
 00003	RĀGHAV.	?  
 00003	NĪTIS.	?  
+00003	BHĀṢAP.	?  
+00003	SARVARŚANAS.	?  
+00003	BHŪRTAS.	?  
 00003	VEDĀNTAPARIBH.	?  
-00003	GRAHACCH.	?  
-00003	KAUC.	?  
+00003	TAR.	?  
+00003	RATNĀVADĀNAM.	?  
 00003	KHANDOM.	?  
 00003	ŚĀŚVATA.	? 
-00003	Ind. Bibl.	? 
 00003	KAVITĀMṚTAKŪPA	?  
+00003	YAṢT	?  
 00003	YAŚNA	?  
 00003	KṚṢISAṂGRAHA	?  
-00003	KRIYĀSAMUCCAYA	?  
 00003	BHAGAVATĪ	?  
 00003	MAHĀNĀṬAKA	?  
-00003	UPALEKHA	?  
 00003	DAŚABHŪMĪŚVARA	?  
-00003	JAIMINI	?  
 00003	MAHĀNIRVĀṆATANTRA	?  
 00003	KĀMAŚ.	?  
 00003	PRACETAS	?  
@@ -1151,7 +1136,6 @@
 00003	CHANDOGAPARIŚIṢṬA	?  
 00003	BHAIṢAJYARATNĀV.	?  
 00003	MATHURĀNĀTHA	?  
-00003	SARVASĀROP.	?  
 00003	VARṆAVIVEKA	?  
 00003	ŚUBHAṂKARA	?  
 00003	SVARODAYA	?  
@@ -1162,81 +1146,73 @@
 00003	VIDYĀVINODA	?  
 00003	ŚABDAC	?  
 00003	VAIDYAKA	?  
-00003	SMARADĪP.	?  
-00003	GAUḌAPĀDA	?  
 00003	HṚD.	?  
 00003	PADMAP.	?  
 00003	NIRṆAYASINDHU	?  
 00003	A. WEBER	? 
+00003	HOEFER	?  
 00003	HARADATTA	?  
 00003	TAITTIRĪYA	?  
 00003	BOLL.	?  
 00003	SAṂGĪTAŚĀSTRA.	?  
 00003	SĀMAVEDA	?  
+00003	VEDĀNTA	?  
 00003	KIELHORN	?  
+00003	DIEZ	?  
 00003	NAL.	?  
+00003	JOHAENTGEN	?  
 00003	ANEKĀRTHA	?  
-00003	ADHIMĀS.	?  
+00003	Chr.	?  
 00003	KAURMA-P.	?  
-00003	KĀTYĀYANA'S	?  
 00003	SĀṂKHYA	?  
 00003	MĀDHY.-Rec.	?  
-00003	DṚKK.	?  
-00003	PATAÑJALI'S	?  
+00003	GOL. GRAHAṆAV.	?  
 00003	GOLDSTÜCKER	?  
-00003	YĀJÑAVALKYA'S	?  
 00003	UPAPURĀṆA	?  
 00003	GOL. GOLAB.	?  
 00003	MĀNAVA	?  
 00003	GOL. BHUVANAK.	?  
 00003	DVIVEDAG.	? 
-00003	GĀNA	? 
 00003	PRATIJÑĀS.	?  
-00003	BRAHMAKH.	?  
 00003	MADHYAGATIV.	?  
 00003	GOLASVAR.	?  
 00003	UTTARAKH.	?  
 00003	YANTRĀDHY.	?  
 00003	KĀRTTIKAM.	?  
-00003	BRAHMAKHAṆḌA	?  
-00003	ŚRĪKṚṢṆAJANMAKHAṆḌA	?  
+00003	SPHUṬAG.	?  
 00003	ŚĀRṄG. PADDH. NĪTI	?  
+00003	ĀRYABHAṬĪYA	?  
 00003	ŚĀK. BÖHTL.	? 
 00003	COLEBR. Gr.	?  
 00003	KULĀCĀRYAKĀRIKĀ	?  
 00003	AV. PAR.	?  
+00003	Kap.	?  
 00003	BHṚGU	? 
-00003	PĀṆINI'S	?  
-00003	BENFEY'S	?  
-00003	KṚṢṆAJANMAKH.	?  
-00003	Pet. Hdschr.	?  
-00003	LASSEN, Institt. linguae pracr.	?  
 00003	LASSEN, Institt. l. pr.	?  
+00003	LASSEN, Pent.	?  
 00003	CH.	? 
+00003	Monatsb. d. Berl. Ak.	? 
 00003	Monatsber. der Berl. Ak.	? 
-00003	YĀSKA	?  
 00003	PISCHEL, de Gramm. prācr.	? 
+00003	MĀNAV.	?  
 00003	WILSON, Th. of the Hindus	?  
 00003	SĀRASVATĀBHIDHĀNA	? 
 00003	ŚUK. (Pet. Hdschr.)	? 
-00003	WEBER, Ind. Streifen	? 
 00002	HAUGHTON, A Dict. BENG. and S.	HAUGHTON, A Dict. BENG. and S. 
 00002	AMṚTAV. UP.	AMṚTAVINDŪPANIṢAD.
 00002	ĀNANDAV.	ĀNANDAVALLĪ.
 00002	ANNAṂBH.	ANNAM̃BHAṬṬA.
 00002	Asiat. Res.	Asiatick Researches 
 00002	VS. ANUKR.	ANUKRAMAṆIKĀ des  ? [Cologne addition]
-00002	avy.	avyaya (s. MED.).
 00002	BṚH. ĀR. UP. (POL.)	id., in der Ausgabe von POLEY (GILD. Bib
 00002	Bullet. hist.-phil.	Bulletin historico-philologique de l'Aca
+00002	BURNOUF Intr.	BURNOUF, Introduction à l'histoire du Bu
 00002	Alg.	COLEBR. Algebra ? 
 00002	DHYĀNAV. UP.	DHYĀNAVINDŪPANIṢAD.
 00002	DVIVED.	DVIVEDAGAṄGA, ein Scholiast des MĀDHYAM̃
 00002	GOT. S.	GOTAMA'S SŪTRĀṆI, s. NYĀYA-S.
 00002	Hort. beng.	Hortus bengalensis. Serampore 1814. 8vo,
-00002	Ind. des KANDYUR	Index des KANDYUR. Herausgegeben von der
-00002	KANDYUR	? 
-00002	YAJÑAD. (LOIS.)	YAJÑNADATTABADHA, ou la mort de YAJÑNADA
+00002	WEBER, Ueber das RĀMĀYAṆA	? 
 00002	KATHĀSARITSĀGARA	KATHĀSARITSĀGARA 
 00002	KULLŪKA	KULLŪKA, ein Scholiast des MANU, vollstä
 00002	KUNT.	KUNTĀPA, zehn Lieder, welche einen beson
@@ -1245,27 +1221,20 @@
 00002	MAHOP.	MAHOPANIṢAD.
 00002	MĀṆD. UP.	MĀṆḌŪKYOPANIṢAD in der Bibliotheca indic
 00002	MBH. ed. Calc.	MAHĀBHĀRATA, Calcutta edition 
-00002	Mém. sur l'Inde	? 
 00002	MṚCCH. ed. Calc.	MṚCCHAKAṬIKĀ, Calcutta edition [Cologne 
 00002	PAÑCAV.	PAÑCAVIṂŚABRĀHMAṆA ? [Cologne addition]
 00002	PRABODHACANDRODAYA	PRABODHACANDRODAYA ? {Cologne Addition]
-00002	RAGH. ed. ST.	RAGHUVAṂŚA, ed. ST. ? 
+00002	RAGH. ed. ST.	RAGHUVAṂŚA, ed. STENZLER (GILD. Bibl. 13
 00002	SARVOP. S.	SARVOPANIṢATSĀRA.
 00002	TAITT. PR.	PRĀTIŚĀKHYA zur TAITTIRĪYASAM̃HITĀ. ? 
 00002	TEJOV. UP.	TEJOVINDŪPANIṢAD.
 00002	TS. ANUKR.	ANUKRAMANIKĀ der TS. Hdschr.
-00002	Var.	Variante.
-00002	Vārtt.	Vārttika von KĀTYĀYANA in BÖHTLINGK'S Au
 00002	Verz. d. KOP. H.	WESTERGAARD'S Verzeichniss der Kopenhage
 00002	Verz. d. P. H.	? 
 00002	Verz. d. PET. H.	? 
 00002	VOPAD.	VOPADEVA'S Grammatik, nach BÖHTLINGK'S A
-00002	Z. f. die K. d. M.	Zeitschrift für die Kunde des Morgenland
 00002	Z. f. d. W. d. Spr.	Zeitschrift für die Wissenschaft der Spr
-00002	Zeitschr. f. vgl. Spr.	Zeitschrift für vergleichende Sprachfors
-00002	ROTH, Zur Lit. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
-00002	ROTH, Zur Lit.	Zur Literatur und Geschichte des Weda. D
-00002	Z. L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
+00002	Zur Lit. u. G. des W.	Zur Literatur und Geschichte des Weda. D
 00002	Berichte der k. s. G. d. Ww.	{2.003} 
 00002	SAṂSKĀRAT.	SAṂSKĀRATATTVA; nach Anführungen im ŚKDR
 00002	SMARAD.	SMARADĪPIKĀ, ein Werk über Erotik; nach 
@@ -1275,95 +1244,87 @@
 00002	J. Am. Or. Soc.	Journal of the American Oriental Society
 00002	Journ. of the Am. S.	Journal of the American Oriental Society
 00002	RATNAG.	ĀRYAPRAJÑĀPĀRAMITĀRATNAGUṆASAM̃CAYAGĀTHĀ
-00002	WEBER, NAKṢ.	WEBER, Die vedischen Nachrichten von den
-00002	UTTARARĀMAC. (ed. COWELL)	? 
 00002	NĀNĀRTHADHVANIMAÑJARĪ	NĀNĀRTHADHVANIMAÑJARĪ  
-00002	Journ. of the As. Soc. of Beng.	? 
-00002	Journ. of the As. Soc. of B.	Journ. of the As. Soc. of Bombay ? 
 00002	BHĀM.	BHĀMINĪVILĀSA ? 
 00002	AŚOKĀVADĀNA	AŚOKĀVADĀNA ?  
+00002	GAṆITĀDHY. UDAY.	 ?  
 00002	AINSL	AINSLIE ?  
-00002	STENZ.	?  
+00002	J.	?  
 00002	HAḌḌAC.	?  
 00002	BHOJAPRAB.	?  
+00002	ŚARDĀRTHAK.	?  
 00002	MADANA	MADANAPĀLA ? 
 00002	MADANAVINODA	 ? 
-00002	MÜLL.	? 
-00002	Tüb. Hdschr.	? 
-00002	Ak. d. Ww.	? 
+00002	Verz. d. Cambr. Hdschr.	? 
+00002	HEMACANDRA	HEMACANDRA ? 
 00002	BṚHANNANDIKEŚVARA-P.	? 
 00002	ŚĀMBA-P.	? 
 00002	PARAMAH. UP.	PARAMAHAṂSOPANIṢAD ? 
 00002	ROËR	? 
-00002	J. R. As. S.	?  
+00002	SAṂK. K.	? 
 00002	SARVAS. UP.	? 
 00002	SUPADMA	? 
 00002	VINAYA	 ? 
 00002	VṚDDHA-M.	 ? 
-00002	Vie de Hiouen-thsang	 ? 
 00002	WATSON	 ? 
 00002	WILKINS, Gramm.	WILKINS , Gramm.=  ? 
 00002	WOLLHEIM	 ? 
 00002	PANDIT.	?  
-00002	MBR.	?  
-00002	YĀJAN.	?  
 00002	RĀṢṬRAPĀLAPAR.	?  
-00002	ANUP.	?  
-00002	GRAHĀNAYAN.	?  
 00002	MAHAVĪRAC.	?  
 00002	KAŚĪKH.	?  
+00002	RĀJA.	?  
 00002	ŚRṄGĀRAT.	?  
+00002	NAIG.	?  
 00002	KAṬH.	?  
 00002	REVĀMĀH.	?  
+00002	GRAHĀNAY.	?  
 00002	YAJÑADATTAV.	?  
 00002	MAHIMN.	?  
 00002	UTTARARĀM.	?  
-00002	PRAD.	?  
 00002	HARIR.	?  
+00002	KĀTHOP.	?  
 00002	MṚKCH.	?  
 00002	SŪRYAGR.	?  
-00002	BHĀṢAP.	?  
-00002	DATTAC.	?  
+00002	MUDHĀR.	?  
 00002	MOHAM.	?  
 00002	GAIM.	?  
-00002	KAKṢĀDHY.	?  
-00002	SARVARŚANAS.	?  
-00002	GRAHAYUTY.	?  
+00002	BRĀHMAN.	?  
+00002	VYUT.	?  
+00002	GRHYASAM̃GR.	?  
 00002	GAYĀM.	?  
 00002	KĀT.	?  
+00002	VĀGHB.	?  
+00002	ARYABH.	?  
 00002	GOP.	?  
 00002	VYAVARĀRAT.	?  
-00002	YĀJAÑ.	?  
 00002	HAR.	?  
 00002	ŚĀT.	?  
-00002	KAUŚA.	?  
-00002	DATTAKAM.	?  
 00002	ŚIC.	?  
-00002	RATNĀVADĀNAM.	?  
 00002	KAṬHINĀVAD.	?  
 00002	PRASANNAR.	?  
-00002	GRAHACCHĀYĀDH.	?  
 00002	VEDĀNTAPAR.	?  
 00002	GĀR. P.	? 
 00002	Ind. Antiq.	? 
+00002	Ind. Bibl.	? 
 00002	NĀRASIṂHA-P.	? 
-00002	YAṢT	?  
+00002	KATHĀS	?  
 00002	ABHIDHĀNOTTAROTTARA	?  
 00002	IṢṬAKĀPŪRAṆA	?  
 00002	BRĀHMADHARMA	?  
 00002	SĀDHANAMĀLĀTANTRA	?  
 00002	ŚṚṄGABHERYAVADĀNA	?  
 00002	ṚGVIDHĀNA	?  
-00002	NĀGĀNANDA	?  
 00002	KRIYĀYOGASĀRA	?  
 00002	SAMAYĀCĀRATANTRA	?  
+00002	NALA	?  
 00002	KANDṢUR	?  
 00002	KAṬHINĀVADĀNA	?  
 00002	CAITANYACANDRODAYA	?  
 00002	KARMAPRADĪPA	?  
 00002	DHĀRAṆĪSAṂGRAHA	?  
+00002	AṢṬĀVAKHA	?  
 00002	PUṢPASŪTRA	?  
-00002	DATTAKACANDRIKĀ	?  
 00002	VEDĀNTAPARIBHĀṢĀ	?  
 00002	Verz. d. H.	? 
 00002	KĀŚIKHAṆḌA	?  
@@ -1418,6 +1379,7 @@
 00002	KUSUMĀÑJALI	?  
 00002	VIKRAMĀDITYAKOŚA	?  
 00002	ŚRĀDDHATATTVA	?  
+00002	SMARADĪP.	?  
 00002	BRAHMOPANIṢAD	?  
 00002	LAUGĀKṢI	?  
 00002	KULADĪPIKĀ	?  
@@ -1446,7 +1408,6 @@
 00002	RĀYAM	?  
 00002	Ṛt.	? 
 00002	Pat. a. a. O.	? 
-00002	HOEFER	?  
 00002	ANEKĀRTHADHVANIM.	?  
 00002	GRIMM	?  
 00002	PADMAN.	?  
@@ -1459,99 +1420,83 @@
 00002	GANARATNAM.	?  
 00002	BRĀHM.	?  
 00002	DHĀTUPĀṬHA	?  
-00002	DIEZ	?  
-00002	TANDYUR.	?  
 00002	MED	?  
 00002	PŪNĀ	?  
-00002	JOHAENTGEN	?  
 00002	MUGDHAB.	?  
 00002	ĀRYABHAṬA, SIDDH.	?  
-00002	ŚAṂKARA'S	?  
 00002	ŚĀKUNTALA	?  
+00002	DṚKK.	?  
 00002	VṚDDHAMANU	?  
 00002	GOLĀDH.	?  
-00002	GOL. GRAHAṆAV.	?  
 00002	GOVARDH. ĀRYĀS.	?  
 00002	DHAMMAPADA	?  
 00002	MAHĀBHĀRATA	?  
 00002	SAṂKṢIPTASĀRA	?  
 00002	SKANDAPURĀṆA	?  
 00002	Lit. Centr.	?  
-00002	LANGAL.	?  
 00002	DELBRÜCK	?  
-00002	NIGHAṆṬU	?  
-00002	KĀTYĀYANA	?  
 00002	GOPATHA-BR.	?  
 00002	ĀRYABHAṬA	?  
 00002	SAṂSĀRĀV.	?  
 00002	BURGESS	?  
 00002	ŚṚṄGĀRARAS.	? 
+00002	Hindu Th.	? 
 00002	HAṬṬACANDRA	? 
-00002	JĀT.	? 
 00002	JAIMINIBH.	JAIMINIBHĀRATA ? 
 00002	KĀṬH. AŚV.	? 
+00002	ŚRĪKṚṢṆAJANMAKH.	?  
 00002	PRAŚNĀDHY.	?  
 00002	UPARIBH.	?  
-00002	SPHUṬAG.	?  
 00002	YANTR.	?  
 00002	RATNAPARĪKṢĀ	?  
-00002	ĀRAṆYA	?  
-00002	ĀRYABHAṬĪYA	?  
 00002	NAIGEYA	?  
 00002	KĀVYAKALĀPA	?  
 00002	CAURAPĀṆIDATTA	? 
-00002	LASSEN'S Pentap.	? 
 00002	TANTRAŚĀSTRA	? 
 00002	BÖHTL. Chrest.	? 
 00002	BHAGAVADBHAKTIVILĀSA	?  
 00002	CSOMA	?  
+00002	WILSON, Dict.	?  
 00002	WEST. Dhātup.	Radices Linguae Sanscrite by N. L. Weste
 00002	VIṢṆUDHARMOTT.	?  
-00002	LOIS. DESL.	?  
 00002	VIŚVAGUṆĀDARŚA	?  
 00002	AINSLIE, Mat. Ind.	?  
 00002	VIŚVASĀRATANTRA	?  
 00002	VIŚVASĀRAT.	?  
-00002	SIDDHĀNTAŚ	?  
 00002	VIṢṆUSAHASRANĀMASTOTRA	?  
 00002	MÜLLER, Transl.	?  
 00002	JYOTIṢATATTVA	?  
 00002	LOKĀKṢI	? 
-00002	KERN'S	?  
-00002	GAUḌAPĀDA'S	?  
-00002	HESSLER'S	?  
-00002	LASSEN'S	?  
-00002	LASSEN, Institt. linguae pr.	?  
+00002	KṚṢṆAJANMAKH.	?  
+00002	Pet. Hdschr.	?  
 00002	LASSEN, Institt.	?  
-00002	LASSEN, Pent.	?  
 00002	COLEBR. Dig.	?  
 00002	BHĀR.	?  
 00002	ŚRĪDHARASVĀMIN	?  
 00002	DVIV.	?  
 00002	Gött. gel. Anzz.	? 
-00002	Monatsb. d. Berl. Ak.	? 
+00002	Mém. VI sér. I	? 
 00002	KĀLANIRṆAYAK.	?  
-00002	ŚRUT. BR.	? 
+00002	YĀSKA	?  
 00002	DIVYĀV.	?  
 00002	KUHN, Herabk. d. F.	?  
-00002	MĀNAV.	?  
 00002	ROSS	?  
 00002	CHAMB.	? 
-00002	Bibl. ind.	? 
-00002	MĀLATĪM. ed. LASS.	? 
-00002	lith. Ausg.	? 
+00002	Abh. d. Königl. Ak. d. W. zu Berlin, 	? 
+00002	VEDĀNTAS. (Ausg. von 1829)	? 
 00002	R. ed. ŚRĪR.	? 
 00002	GOLĀDHY. SPHUṬAGATIV.	? 
 00001	ADBHUTA-BR.	ADBHUTABRĀHMAṆA.
 00001	ADBHUTAS.	ADBHUTASĀRA.
 00001	ADBHUTASĀRA	ADBHUTASĀRA. ? 
+00001	an.	ANEKĀRTHASAM̃GRAHA (s. H. an.).
 00001	ANEKĀRTHADHV.	ANEKĀRTHADHVANIMAÑJARĪ, ein Wörterbuch; 
+00001	ANUKRAM.	ANUKRAMAṆIKĀ. [Cologne addition]
 00001	ANUP. S.	ANUPADASŪTRA.
 00001	SV. ANUKR.	ANUKRAMAṆIKĀ des  ? [Cologne addition]
 00001	BHĀG. P. ed. BURN.	BHĀG. P. ed. Bomb.= BHĀGAVATAPURĀṆA, Bur
 00001	BRAHMOP.	BRAHMOPANIṢAD.
 00001	ŚAKUNTALOPĀKHYĀNA (ed. CHEZY)	CHEZY'S Ausgabe des ŚĀKUNTALA (GILD. Bib
-00001	ŚAṂKARA	ŚAṂKARA o= ŚAṂKARA (ein Scholiast des ŚĀ
 00001	ŚATAP. BR.	ŚATAPATHABRĀHMAṆA ? 
 00001	COL. Misc. Ess.	COLEBROOKE'S Miscellaneous Essays.? 
 00001	ŚRĪDHAR.	ŚRĪDHARASVĀMIN, ein Scholiast der BHAG.
@@ -1561,7 +1506,6 @@
 00001	WILSON, Sel. spec. of the Theatre of the Hindus	Select specimens of the Theatre of the H
 00001	WILSON, Sel. spec. of the th. of the Hindus	Select specimens of the Theatre of the H
 00001	Hort. Calc	Hortus suburbanus Calcuttensis. A Catalo
-00001	WEBER, Ueber das RĀMĀYAṆA	? 
 00001	ITIHĀSA	? 
 00001	KĀDAMB.	KĀDAMBARĪ.
 00001	CATURBH.	CATURBHUJA, ein Scholiast des MAHĀBHĀRAT
@@ -1571,10 +1515,8 @@
 00001	LALIT. Fouc.	 RGYA TCH'ER ROL PA (LALITAVISTĀRA) ou D
 00001	LALIT. ed. FOUC.	LALITAVISTARA ?
 00001	Lex. sanscr. tib.	VYUTP. (s. d.)
-00001	REINAUD, Mémoire sur l'Inde	? 
 00001	NĀNĀRTHAK.	NĀNĀRTHAKOṢA, eine Sammlung von Wörtern,
 00001	NIDĀNA-S.	NIDĀNASŪTRA.
-00001	PAÑCAT. BR.	? [Cologne addition]
 00001	PAT. YOGAŚ.	PATAÑJALI'S YOGAŚĀSTRA, ed. BALLANTYNE, 
 00001	PRABODH.	PRABODHACANDRODAYA, ed. BROCKHAUS (GILD.
 00001	PRĀTIŚ.	PRĀTIŚĀKHYA.
@@ -1587,18 +1529,17 @@
 00001	SŪRYA-SIDDHĀNTA	? 
 00001	Tib. Lebensb. Śāky.	Tibetische Lebensbeschreibung Śākyamuni'
 00001	PERTSCH, UPAL.	UPALEKHA de KRAMAPĀṬHA libellus. Ed. G. 
-00001	ved.	vedisch.
 00001	VEDA-P.	VEDAPURĀṆA.
 00001	Verz. B. H.	WEBER'S Verzeichniss der Berliner Sanskr
-00001	B. H.	  WEBER'S Verzeichniss der Berliner Sans
 00001	VOP. (ed. Calc.)	VOPADEVA'S Grammatik, Calcutta edition 
 00001	WIND. SANCARA	FRID. H. H. WINDISCHMANNI Sancara sive d
 00001	WINDISCHMANN, Sanc.	FRID. H. H. WINDISCHMANNI Sancara sive d
 00001	Zeitschr. d. d. m. G.	Zeitschrift der Deutschen morgenländisch
+00001	Z. f. die K. d. M.	Zeitschrift für die Kunde des Morgenland
 00001	Zeitschr. f. d. W. d. Spr.	? [Cologne addition]
 00001	Z. f. d. W. d. S.	? Zeitschrift für die Wissenschaft der S
 00001	ROTH, Zur Lit. und G. d. W.	Zur Literatur und Geschichte des Weda. D
-00001	Zur Lit. u. G. des W.	Zur Literatur und Geschichte des Weda. D
+00001	ROTH, Zur Lit.	Zur Literatur und Geschichte des Weda. D
 00001	ROTH, Zur L. u. G. des W.	Zur Literatur und Geschichte des Weda. D
 00001	ROTH, Zur L. und G. d. W.	Zur Literatur und Geschichte des Weda. D
 00001	BṚHADDHARMAPURĀṆA	BṚHADDHARMAPURĀṆA [Cologne addition]
@@ -1610,27 +1551,25 @@
 00001	MĀYĀT.	MĀYĀTANTRA; nach Anführungen im ŚKDR.
 00001	PARAM. UP.	PARAMAHAM̃SOPANIṢAD.
 00001	PATHYĀPATHYAV.	PATHYĀPATHYAVIVEKA; nach Anführungen im 
-00001	Verh. d. k. s. Ges. d. W. zu Leipzig, phil.hist. KI.	Verhandlungen der königlich-sächsischen 
+00001	Verh. d. k. s. Ges. d. W.	Verhandlungen der königlich-sächsischen 
 00001	VIVĀDĀRṆ.	VIVĀDĀRṆAVASETU; nach Anführungen im ŚKD
 00001	BUDDHOKT.	BUDDHOKTASAM̃SĀRĀMAYA, handschriftlich i
-00001	a. a. O. S.	Journal of the American Oriental Society
 00001	KALPADRUMĀV.	KALPADRUMĀVADĀNA, handschriftlich in der
 00001	KRIYĀSAM.	KRIYĀSAMUCCAYA, handschriftlich in der P
 00001	VAJRĀSANASĀDHANAM.	VAJRĀSANASĀDHANAMĀLĀ, handschriftlich in
 00001	MADHYAMAVṚ.	? MADHYAMAKAVṚTTI,
 00001	NYĀYAM.	NYĀYAMĀLĀVISTARA, nach Anführungen bei M
 00001	RATNĀVAD.	RATNĀVADĀNAMĀLĀ, handschriftlich in der 
-00001	d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
+00001	UTTARARĀMAC. (ed. COWELL)	? 
+00001	WILSON.	? 
 00001	SARVADARŚANASAṂGR.	? 
 00001	SĀMAV. BR.	? 
 00001	Journ. of the As. S. of B.	? 
-00001	Journ. of the As. Soc. of Bombay	Journ. of the As. Soc. of Bombay 
 00001	BAṬUKABHAIRAVASTOTRA	? 
 00001	BHĀMINĪVILĀSA	? 
 00001	KĀVYĀD. (ed. 1866)	?  
 00001	KṢITĪS.	?  
 00001	VASĀVAD.	?  
-00001	GAṆITĀDHY. UDAY.	 ?  
 00001	BHĀSKARĀCĀRYA	? 
 00001	ĀPIŚALI	? 
 00001	ĀPIŚALA	? 
@@ -1640,7 +1579,7 @@
 00001	WESTERG.	?  
 00001	TROY.	TROYER ?  
 00001	MIKLOS.	Franz Miklosich (1813-1891) a Slovene ph
-00001	POL.	?  
+00001	HIT. ed. MÜLL.	HITOPADEŚA, Max Müller, 1864  
 00001	NĀN. RATNAM.	NĀNĀRTHARATNAM ? 
 00001	RUDRAYĀMALOTTARAKH.	?  
 00001	RUDRAYĀMALAT.	?  
@@ -1651,14 +1590,14 @@
 00001	MADANAPĀLA	 ? 
 00001	MADANAVIN.	MADANAVINODA ? 
 00001	MUELLER	? 
+00001	MÜLL.	? 
 00001	NṚSIṂHATĀPANĪYOPANIṢAD	 ? 
+00001	Z.	?  
 00001	VṚDDHA-BṚHASP.	VṚDDHABṚHASPATI ? 
-00001	Verz. d. Cambr. Hdschr.	? 
-00001	d. Cambr. H.	? 
 00001	Verz. d. T. H.	? 
 00001	Verz. d. T. Hdschrr.	? 
+00001	Tüb. Hdschr.	? 
 00001	HEMAC.	HEMACANDRA ? 
-00001	HEMACANDRA	HEMACANDRA ? 
 00001	BOEHTL.	? 
 00001	AMṚTANĀD. UP.	AMṚTANĀDOPANIṢAD  ? 
 00001	BHAVIṢYOTT.-P.	BHAVIṢYOTTARAPURĀṆA ? 
@@ -1677,16 +1616,12 @@
 00001	ROER	? 
 00001	ROEDIGER und POTT	? 
 00001	Journ. of the Roy. As. Soc. of Gr. Br. & Ir.	? 
-00001	SAṂK. K.	? 
 00001	SAṂSKH. K.	? 
 00001	SCHMIDT	? 
 00001	STAN. JULIEN	? 
 00001	ST. JULIEN, Les Avadānas	? 
 00001	STEV.	? 
 00001	Spruch	? 
-00001	Bull. de l'Acad. Imp. des sc. de St. P.	? 
-00001	Bull. de l'Acad. des Sc. de S.-P.	? 
-00001	Bull. de l'Acad. Imp. des sc.	? 
 00001	TAITT. SAṂH.	? 
 00001	TH. AUFRECHT	? 
 00001	TH. GOLDSTÜCKER.	? 
@@ -1698,6 +1633,8 @@
 00001	WIGHT	 ? 
 00001	WINDISCH	 ? 
 00001	YATES, Gr.	 ? 
+00001	BHAGAṆĀDH.	?  
+00001	PĀTĀDH.	?  
 00001	KĀPIŚĀV.	?  
 00001	BHĀTUP.	?  
 00001	ĀHN.	?  
@@ -1705,30 +1642,23 @@
 00001	KATHĀH.	?  
 00001	KĀUŚ.	?  
 00001	KṢITĪC.	?  
-00001	ĀNANDAD.	?  
 00001	NĪDĀNAS.	?  
 00001	ŚAṂKARAVIJ.	?  
 00001	RAGG.	?  
 00001	ṢAḌV.	?  
 00001	KĀYVAPR.	?  
 00001	ŚĪC.	?  xs
-00001	ŚṚṄGONNATYADH.	?  
-00001	SPAṢṬ.	?  
-00001	KAUŚR.	?  
 00001	PARŚVANĀTHAK.	?  
-00001	KĀTHOP.	?  
-00001	CAṆDRAGR.	?  
+00001	GAṆAPATIKH.	?  
 00001	BĀṢĀP.	?  
 00001	KUMĀRĀS.	?  
 00001	LAṬY.	?  
-00001	SŪRYAGRAH.	?  
 00001	ĀRJ.	?  
 00001	PENTAGL.	?  
 00001	KĀR.	?  
 00001	NYĀYAD.	?  
+00001	DATTAC.	?  
 00001	KUVALĀY.	?  
-00001	MUDHĀR.	?  
-00001	ŚṚṄGONNATY.	?  
 00001	VĪRAMITROD.	?  
 00001	DĀYAB.	?  
 00001	DHARMAVIV.	?  
@@ -1741,69 +1671,52 @@
 00001	BHARAṬAK.	?  
 00001	MITĀKṢ.	?  
 00001	CAUKAP.	?  
-00001	BRĀHMAN.	?  
-00001	ŚṚṄGONN.	?  
 00001	VĀGBG.	?  
 00001	JVĀLĀVALĪT.	?  
-00001	GRAHACCHĀY.	?  
 00001	SARVADABŚANAS.	?  
 00001	KENBOP.	?  
 00001	MĪMĀM̃SĀD.	?  
-00001	KATHĀṢ.	?  
 00001	KANOP.	?  
-00001	VYUT.	?  
+00001	KAKṢĀDHY.	?  
 00001	HID.	?  
+00001	GRAHAYUTY.	?  
 00001	LIT.	?  
 00001	PĀRŚVANĀTHĀK.	?  
-00001	GRHYASAM̃GR.	?  
 00001	SARVĀDARŚANAS.	?  
-00001	BHŪRTAS.	?  
-00001	KOSEG.	?  
 00001	RAGHUV.	?  
 00001	YĀTRĀ.	?  
 00001	SĀMAVIDH.	?  
 00001	KAT.	?  
-00001	VĀGHB.	?  
 00001	PRĀV.	?  
 00001	CAR.	?  
 00001	CIŚ.	?  
 00001	ŚṚṄGABH.	?  
-00001	ARYABH.	?  
-00001	TAR.	?  
+00001	GRAHACCH.	?  
 00001	CAṬHOP.	?  
-00001	TARĀN.	?  
 00001	RĀJAṆ.	?  
 00001	KAPĪŚĀVAD.	?  
 00001	PRASAM̃GĀBH.	?  
 00001	DHAMMAP.	?  
-00001	MADHYAMĀDH.	?  
 00001	TARKĀS.	?  
-00001	MANĀN.	?  
 00001	CAITANYACANDROD.	?  
 00001	DĀYAKRAM.	?  
 00001	ŚIK.	?  
-00001	CAURĀP.	?  
 00001	SPHUṬAGATIV.	?  
-00001	KĀVYĀS.	?  
 00001	YAJÑADATT.	?  
 00001	KĀP.	?  
 00001	OD.	?  
 00001	PHEṬK.	?  
-00001	LAGHŪJ.	?  
 00001	BUDDHACAR.	?  
 00001	CĀTAK.	?  
 00001	ŚĀṆD.	?  
-00001	BHAGH.	?  
 00001	PRĀTAPAR.	?  
 00001	NIRṆAYAS.	?  
-00001	SŪŚR.	?  
 00001	BHAVAPR.	?  
 00001	KṢITĀIŚ.	?  
 00001	SRŚR.	?  
 00001	YOSAG.	?  
 00001	TAHKAS.	?  
 00001	KAPIŚĀVAD.	?  
-00001	VIVĀDĀC.	?  
 00001	BUDDHACARITAK.	?  
 00001	SARVADARŚARNAS.	?  
 00001	ANUPAD.	?  
@@ -1815,7 +1728,6 @@
 00001	BĀLABH.	?  
 00001	NYĀYAG.	?  
 00001	MEG.	?  
-00001	KṢITIŚ.	?  
 00001	SAṂSK.	?  
 00001	GORH.	?  
 00001	KUMĀRAN.	?  
@@ -1830,7 +1742,6 @@
 00001	UTTARARMAC.	?  
 00001	HĀK.	?  
 00001	MAHĀNĀT.	?  
-00001	BHAGAṆ.	?  
 00001	NĀJĀN.	?  
 00001	GĀRUḌAP.	?  
 00001	INDṚ.	?  
@@ -1839,7 +1750,6 @@
 00001	BLAND	? 
 00001	Bibl. Ind. new ser.	? 
 00001	CURTIUS, Gr. d. gr. Etym.	? 
-00001	COWELL, Calcutta 1864.	? 
 00001	CSOMA, Tib. Gr.	? 
 00001	GUṆIT. SPAṢṬĀDH.	? 
 00001	HAUG, Essays	? 
@@ -1848,7 +1758,6 @@
 00001	CHĀND. BR.	? 
 00001	MAHĀNĀH. UP.	? 
 00001	RĀM. ed. Bomb.	Bombay ed. of Rāmāyaṇa, 1859-1864 [Colog
-00001	KATHĀS	?  
 00001	ABHIDHĀNOTTARA	?  
 00001	MALAYAGIRI	?  
 00001	UTPATTITANTRA	?  
@@ -1862,24 +1771,17 @@
 00001	TĀRANĀTHA	?  
 00001	VAJRĀSANASĀDHANAMĀLĀ	?  
 00001	PŪRVACĀTAKĀṢṬAKA	?  
-00001	NAIGH	?  
 00001	ŚṚṄGĀRARASĀṢṬAKA	?  
 00001	DAKṢA	?  
 00001	JYOTIS	?  
 00001	PRĀYAŚCITTENDUŚ	?  
 00001	KENOP	?  
 00001	KEDĀRA	?  
-00001	SARVADARŚANAS	?  
 00001	AṢṬĀVAKRA	?  
 00001	GOPĀLATĀPANĪ	?  
 00001	UDDHAVADŪTA	?  
-00001	GṚHYAS	?  
 00001	MĀYĀTANTRA	?  
-00001	CARARA	?  
-00001	AṢṬĀVAKHA	?  
-00001	CAURAP	?  
 00001	BHAGAVATĪGĪTĀ	?  
-00001	MṚCCH	?  
 00001	KAIVALYATANTRA	?  
 00001	VĪRAMITR.	VĪRAMITRODAYA ?  
 00001	SAṂPUṬODBHAVA	?  
@@ -2044,7 +1946,6 @@
 00001	HARISVĀMIN	?  
 00001	VṚDDHAYOGATARAṂGIṆĪ	?  
 00001	JÑĀNABHAIRAVATANTRA	?  
-00001	ĀKNIKAT.	?  
 00001	ŚĀKTĀNANDAT.	?  
 00001	BHĀGAVATĀMṚTA	?  
 00001	RANTI	?  
@@ -2086,7 +1987,6 @@
 00001	LĪLAV.	?  
 00001	KĀLIKĀŚATANĀMASTOTRA	?  
 00001	VAIDYAKAPRAYOGĀMṚTA	?  
-00001	AGAYAPĀLA	?  
 00001	RŪPAM.	?  
 00001	ADHIKARAṆAMĀLĀ	?  
 00001	YOGINĪTANTRA	?  
@@ -2129,7 +2029,6 @@
 00001	BHŪTAḌĀMARATANTRA	?  
 00001	KAIVALYAT.	?  
 00001	ANEKĀRTHADHVANIMAÑJARĪ	?  
-00001	CARET	?  
 00001	JONES	?  
 00001	PUṆḌARĪKĀKṢA	?  
 00001	BĀṆABHAṬṬA	?  
@@ -2184,19 +2083,15 @@
 00001	VEDĀNTAŚIKH.	?  
 00001	JÑĀNAKĀṆḌAŚEṢARAHASYA	?  
 00001	UṆĀDIVIṚ.	?  
-00001	K. Pr. Ak. d. Ww.	? 
 00001	MON. WILL.	? 
 00001	WILLIAMS	? 
 00001	MṚTYUL. UP.	? 
 00001	Mrs. MANNING, Anc. and Med. India	? 
 00001	TĀṆḌYA-BR.	TĀṆḌYABRĀHMAṆA  ? 
-00001	POTT'S Zigeuner	? 
 00001	POTT, Zig.	? 
-00001	BHAVA'S	? 
 00001	A. C. BURNELL	? 
 00001	SĀRASVATĪ PRAKRIYĀ.	? 
 00001	PURUṢAKARA (WEST.)	? 
-00001	ĀP. PRAJ.	? 
 00001	KIRĀTĀRJUNĪYA.	?  
 00001	VĀBHAṬA	?  
 00001	LANGL	?  
@@ -2227,7 +2122,6 @@
 00001	RĀDHĀKĀNTA	?  
 00001	RĀDHĀKĀNTADEVA	?  
 00001	TĀṆḌYABRĀHMAṆA	?  
-00001	SUPRABHĀTASTOTRA.	?  
 00001	MANTRAMAHOD.	?  
 00001	ELLIOT	?  
 00001	KĀṬHAKOPANIṢAD	?  
@@ -2247,7 +2141,6 @@
 00001	DHŪRTASAMĀGAMA.	?  
 00001	NB	?  
 00001	BĀPŪDEVA	?  
-00001	BĀPŪD.	?  
 00001	JYOTIḤŚĀSTRA	?  
 00001	BRAHMAG.	?  
 00001	NĪKAK.	?  
@@ -2267,6 +2160,7 @@
 00001	NṚSIṂHA	?  
 00001	MARĪDH.	?  
 00001	LANGI.	?  
+00001	NĪLAK	?  
 00001	KATAKA.	?  
 00001	ŚAṂKARAMIŚRA.	?  
 00001	KLAPROTH	?  
@@ -2285,6 +2179,7 @@
 00001	EURNOUF.	?  
 00001	HARADĀSA	?  
 00001	PADAP.	?  
+00001	Monatsberr. d. kön. pr. Ak. d. Wiss. 1868	Monatsberr. d. kön. pr. Ak. d. Wiss. 186
 00001	MONTGOMERY MARTIN, Eastern India	? 
 00001	MUGDHABODHA	? 
 00001	NĀDAPURĀṆA	? 
@@ -2296,6 +2191,7 @@
 00001	ŚRĀDDHAPRAKARAṆA	?  
 00001	BHAVABHŪTI	?  
 00001	ANANTA-BHAṬṬA-KAVI	?  
+00001	ADHIMĀS.	?  
 00001	AUPAMANYAVA NIR.	?  
 00001	ATHARVAŚIR. UP.	?  
 00001	ADHYĀTMARĀMĀYAṆA	?  
@@ -2308,10 +2204,7 @@
 00001	ŚAIVATANTRA	?  
 00001	BERGHAUS	?  
 00001	BÜLLER	?  
-00001	Beitr. z. Kenntn. d. russ. Reiches	?  
 00001	Beitr. z. vgl. Spr.	? 
-00001	BUCHANAN'S Handschrr.	?  
-00001	BUCHANAN'S Hdschrr.	?  
 00001	Berichte der phil.-hist. Cl. d. K. S. G. d. Ww	?  
 00001	ARR. Ind.	?  
 00001	GOL. TRIPRAŚNAV.	?  
@@ -2319,9 +2212,7 @@
 00001	HĀRĀVALĪ	?  
 00001	LAGHU-VIṢṆU	?  
 00001	ERNST KUHN	?  
-00001	VIMALABODHA'S	?  
 00001	Hort. Beng.	?  
-00001	HALĀYUDHA'S	?  
 00001	LANG.	?  
 00001	SŪRYADEVA	?  
 00001	KĀPYAPR.	?  
@@ -2344,7 +2235,6 @@
 00001	KĀYAKĀ-P.	?  
 00001	MĀṆḌUKYOPANIṢAD	?  
 00001	LAKṢMAṆA-KAVI	?  
-00001	F. NEVE'S Essay sur le mythe des Ribhavas. Paris 1847.	?  
 00001	SŪRYA	?  
 00001	RĀGHAVĀNANDA	?  
 00001	KĀVYAKAUMUDĪ	?  
@@ -2352,13 +2242,12 @@
 00001	PRAKRIYĀKAUMUDĪ	?  
 00001	KRAMASAṂD.	?  
 00001	KĀṬAVEMA	?  
-00001	HELMERSEN	?  
 00001	PĀRĀYAṆA	?  
 00001	DHANURV.	?  
 00001	JOHNSON	?  
 00001	HÖFER, Leseb.	?  
+00001	NIGHAṆṬU	?  
 00001	KĀTYA	?  
-00001	GAUDAPĀDA'S	?  
 00001	BHĀṢYA	?  
 00001	HANUMATSTOTRA	?  
 00001	MAITRĀYAṆĪYAKA	?  
@@ -2367,23 +2256,18 @@
 00001	GOPĀLOPANIṢAD	?  
 00001	Zur G. u. L. d. W.	?  
 00001	STANISLAS JULIEN	?  
-00001	JAYARĀMA'S	?  
 00001	PRAUḌHAMANOR.	?  
-00001	YĀJNIKAD.	?  
 00001	SIṂHĀSANA	?  
 00001	UTTARARĀMACARITA	?  
-00001	YONIGRANTHA	?  
 00001	PRAUḌHAMANORAMĀ	?  
 00001	LEO MEYER	?  
 00001	UTTARACORAPAÑCĀŚIKĀ	?  
-00001	ĪŚVARAKṚṢṆA'S	?  
 00001	GAṆIṬĀDHY.	?  
 00001	ŚIT.	?  
 00001	KULACANDRA	?  
 00001	PLIN. H. N.	?  
 00001	VIVĀDĀRṆAVAS.	?  
 00001	BHAVABH.	?  
-00001	BAER	?  
 00001	ŚABDĀR.	?  
 00001	KAUŚIKA	?  
 00001	RASARATNĀKARA	?  
@@ -2393,9 +2277,7 @@
 00001	KAIYAṬA	?  
 00001	CHANDOMAÑJARĪ	?  
 00001	AJAY.	?  
-00001	ARHANT'S	?  
 00001	BASINER	?  
-00001	PĀŚAKAKEV.	? 
 00001	TITHITATTVA	? 
 00001	AGNISVĀMIN	? 
 00001	BHĀMAHA	? 
@@ -2414,37 +2296,33 @@
 00001	VEDĀNTADARŚANA	? 
 00001	SĀMBA-P.	? 
 00001	VAṂŚA-BR.	VAṂŚABRĀHMAṆA ? 
-00001	CANDRAGRAHAṆĀDHY.	? 
-00001	ŚAT. CR.	? 
+00001	CANDRAGR.	? 
 00001	PRB.	?  
+00001	PRAKṚTIKH.	?  
 00001	BĪJAGAN.	?  
 00001	GAYĀMĀH.	?  
 00001	GRAHĀNAYANĀDHY.	?  
 00001	BHĀHMAṆ.	?  
 00001	ĀRAṆYAG.	?  
 00001	ŚṚṄGONNATIV.	?  
-00001	ŚRĪKṚHṆAJANMAKH.	?  
 00001	SAṂPUṬODBH.	?  
 00001	CAITANYAC.	?  
 00001	KULĀRṆ.	?  
 00001	GOLAPR.	?  
-00001	BHAGRAHAYUTYADH.	?  
-00001	GRAHĀNAYANĀDH.	?  
 00001	KĀLASAṂK.	?  
 00001	KĀLAMĀNĀDH.	?  
-00001	PRAKṚITIKH.	?  
 00001	DṚKKARM.	?  
 00001	GAṆITADHY.	?  
 00001	DHARMAŚ.	?  
 00001	KRIYĀY.	?  
 00001	BODHICĀRYĀV.	?  
 00001	ĀRYĀṢṬAŚ.	?  
-00001	GAṆAPATIKHAṆḌA	?  
+00001	ŚRĪKṚṢṆAJANMAKHAṆḌA	?  
 00001	CĀTAKA	?  
 00001	UTTARATANTRA	?  
 00001	NĪTIRATNA	?  
+00001	ĀRAṆYA	?  
 00001	VĀMAKEŚVARATANTRA	?  
-00001	ŚRĪKRṢṆAJANMAKHAṆḌA	?  
 00001	GUṆARATNA	?  
 00001	MANASVIPRAŚAṂSĀ	?  
 00001	UPARIBHĀGA	?  
@@ -2456,7 +2334,6 @@
 00001	AŚVINORUTPATTIḤ	? 
 00001	AJĀTAŚATRU	? 
 00001	PUṢPA	? 
-00001	NĪLAKAṆṬHA'S	? 
 00001	NAIGHAṆṬUKA	? 
 00001	NĀRĀYAṆOP.	? 
 00001	BÖHT.	? 
@@ -2471,20 +2348,18 @@
 00001	BṚHANNĀRADĪYA-P.	?  
 00001	MĀDHAVABHĀṢYA	?  
 00001	ŚĀṬY. BR.	?  
-00001	ŚKR.	(print error for ŚKDR.) ? 
 00001	ŚRĀDDHACINTĀMAṆI	?  
 00001	ŚYĀMĀS.	?  
 00001	STENZLER, De lex. sanscr. principiis	? 
-00001	Die Calc. Ausg.	? 
 00001	UDBHAṬADVYARTHAPADYA	?  
 00001	DAMAYANTĪK.	?  
 00001	DHANVANT.	?  
 00001	WILSONE	?  
-00001	WILSON, Dict.	?  
 00001	WEST. DHĀTUP.	Radices Linguae Sanscrite by N. L. Weste
 00001	RĀMAŚARMAN	?  
 00001	VIṢṆUDHARM.	?  
 00001	RANTID.	?  
+00001	LOIS. DESL.	?  
 00001	MARĪCI	?  
 00001	HARIHARASTOTRA	?  
 00001	DEVARĀJAY	?  
@@ -2497,7 +2372,6 @@
 00001	VALLABHAGAṆI	?  
 00001	GAUNARDA	?  
 00001	MEDHĀTITHI	?  
-00001	JANMAKHAṆDA.	?  
 00001	KĀŚ. zu K.	?  
 00001	KALĀPA	?  
 00001	MALLINĀTHA	?  
@@ -2506,9 +2380,9 @@
 00001	MĀṆḌŪKĪ ŚIKṢĀ	?  
 00001	UTPALINĪK.	?  
 00001	UTPALINĪKOŚA	?  
-00001	KACCĀYANAPPAKARAṆAB	?  
 00001	KĀYYĀD.	?  
 00001	TANTRACŪḌĀMAṆI	?  
+00001	MÜLLER, Lect.	?  
 00001	BHAṬṬIK	?  
 00001	KUṆḌAPR.	?  
 00001	PARAMĀDĪŚVARA	?  
@@ -2518,12 +2392,12 @@
 00001	PADYĀVALĪ	?  
 00001	NĀRĀYAṆADHYĀNA	?  
 00001	PARIBH.	?  
+00001	ŚUK. Pet. Hdschr.	?  
 00001	VIŚVAPRAKĀŚA	?  
 00001	NAKṢATRAKALPA	?  
 00001	RAGHUNANDANA	?  
 00001	PURUṢOTT.	?  
 00001	RAGHUNĀTHAM	?  
-00001	WHITNEY, New Haven 1862.	?  
 00001	TANTRAPRAMODA	?  
 00001	RASAMANJARĪ	?  
 00001	KÖPPEN. Rel. d. Buddha	?  
@@ -2535,6 +2409,7 @@
 00001	WESTERGAARD, Radices	Radices Linguae Sanscrite by N. L. Weste
 00001	WEST. Radices	Radices Linguae Sanscrite by N. L. Weste
 00001	RĀJ.	?  
+00001	SIDDHĀNTAŚ	?  
 00001	SĀRĀVALĪ	?  
 00001	SĀGARŪPĀKHYĀNA	?  
 00001	SĀṂKṢIPTAS.	?  
@@ -2542,7 +2417,6 @@
 00001	ŚUDDHITATTVAṬĪKĀ	?  
 00001	PURUṢOTTAMATATTVA	?  
 00001	HAUGTH.	?  
-00001	Ind. St. St.	?  
 00001	TĀLAKHAṆḌA	?  
 00001	MAHEŚVARATĪRTHAE	?  
 00001	SMṚTITATTVA	?  
@@ -2562,30 +2436,16 @@
 00001	RATNĀVALĪ	? 
 00001	VENDIDĀD	? 
 00001	F. E. HALL	? 
-00001	MAX MÜLLER'S Grammatik	? 
 00001	BRĀHMAṆAKULĀCĀRYAKĀRIKĀ	? 
 00001	RABHASAKOŚA	? 
 00001	VIṢṆUSIDDHĀNTASĀRĀVALĪ	? 
 00001	KALPAS.	?  
-00001	NAIGEYAŚĀKHĀ	?  
 00001	CAURAPAÑCĀŚIKĀ	?  
-00001	SCHLEGEL'S	?  
 00001	DURGAS.	?  
-00001	HEMACANDRA'S	?  
 00001	ĀRAṆYAGĀNA	?  
 00001	ĀRAṆYASAṂH.	?  
-00001	M. MÜLLER'S	?  
-00001	DEVARĀJA'S	?  
-00001	TROYER'S	?  
 00001	AGASTYASAṂH	?  
-00001	AUFRECHT'S	?  
-00001	ALBYROUNY'S	?  
-00001	BALLANTYNE'S	?  
-00001	MĀDHAVA'S	?  
-00001	BHARATA'S	?  
 00001	UTKALAKALIKĀ	?  
-00001	CANDRAŚEKHARA-VĀCASPATI'S CANDANADHENUVIDHI	?  
-00001	DHENUKĀSURAV.	?  
 00001	DHARA.	?  
 00001	KĀVYASAṂGRAHA	?  
 00001	BHAGRAHAYUTY.	?  
@@ -2602,15 +2462,9 @@
 00001	YOGASĀRA	?  
 00001	VĀCASPATIMIŚRA	?  
 00001	ĀŚRAMOP.	?  
-00001	JAIMINI'S BHĀRATA	?  
-00001	A Gloss. of jud. and rev. terms	? 
 00001	As. J. new	? 
-00001	Journ. As. 1845.	? 
 00001	Monatsb. d. B. Akad.	? 
 00001	Monatsber. 1859	? 
-00001	Mém. VI sér. I	? 
-00001	SPEIJER	? 
-00001	TRÜBNER'S Record	? 
 00001	VIDYĀRAṆYAMUNI	?  
 00001	ŚRĪPATISAṂHITĀ	?  
 00001	DHĀTUVṚTTI	?  
@@ -2634,7 +2488,6 @@
 00001	TATTVABODHANĪ	?  
 00001	SĀRASAṂGRAHA	?  
 00001	JĀṬĀDH.	?  
-00001	JAINA'S	?  
 00001	ŚĀKTĀNANDATARAṂGIṆĪ	?  
 00001	VEDA	?  
 00001	YĀMITRAVEDHA	?  
@@ -2643,23 +2496,19 @@
 00001	KRAMACANDRIKĀ	?  
 00001	PRAKĪRṆĀKHY	? 
 00001	STENZLER, de Lexicogr. sanscr. principils	? 
-00001	WILSON, a Gloss. of jud. and rev. terms	? 
+00001	ŚRUT. BR.	? 
 00001	DEVĪNIRUKTĀDHY.	?  
 00001	MAREŚVARA	?  
-00001	ṢERRING, Sacred city	?  
 00001	LASSEN, De Pent.	?  
 00001	GOT. DH.	?  
 00001	PRĀYAŚCITTAVIV.	?  
-00001	AŚNA	?  
 00001	SVARGAKHAṆḌA	?  
 00001	ŚṚṄGĀR.	?  
 00001	YOGATATTVA	?  
 00001	ĀHNIKATATTVA	?  
-00001	Y. MUIR, Y. A. S.	?  
 00001	BṚHANNĪLATANTRA	?  
 00001	AŚVAGR.	? 
 00001	NṚS. UP.	? 
-00001	Z. d. m. G. G.	? 
 00001	GOLABANDH.	? 
 00001	DURGĀNĀMASAHASRASTOTRA	? 
 00001	WILS. Lex. 1ste Ausg. Pref. XXIV.	? 
@@ -2684,28 +2533,22 @@
 00001	ŚĀK. (ed. WILL.)	Śākuntala, translated by Monier-Williams
 00001	ŚĀK. (ed. MON. WILL.)	Śākuntala, translated by Monier-Williams
 00001	KĀŚĪN.	? 
-00001	z. B. MED. j.	? 
 00001	MĀLATĪM. (ed. LASS.)	? 
+00001	MĀLATĪM. ed. LASS.	? 
 00001	ARIEL	? 
 00001	KAVIRAU.	? 
-00001	ĀYODA MBH.	? 
 00001	CURTIUS, Griech. Etym.	Grundzüge der griechischen etymologie (
 00001	DURGĀSTAVA	? 
 00001	BRAHMASIDDH.	? 
 00001	ALAṂK. K.	? 
 00001	DURGĀCĀRYA	? 
 00001	H. v. RHEEDE, Hortus Indicus Malabaricus 	? 
-00001	VEDĀNTAS. (Ausg. von 1829)	? 
 00001	ŚĀKALYASAṂHITĀPARIŚIṢṬA	? 
 00001	YOGATATTVOP.	? 
 00001	Journ. of the R. As. Soc.	? 
 00001	Journ. of the R. A. S.	? 
 00001	KOPPEN	? 
-00001	PACCAR.	? 
-00001	AUṢ.	? 
 00001	VIKRAMĀṄKADEVACARITA	? 
-00001	Mém. de l'Acad. Imp. dés sc. de St.-Pétersb.	? 
-00001	Halle'sche Allg. Lit. Zeit.	? 
 00001	SARVOPAN.	? 
 00001	SPIEGEL, Gramm. der Pārsisprache	? 
 00001	VṚNDĀVANAŚ.	? 
@@ -2717,20 +2560,23 @@
 00001	HOEFER, Sanskrit-Lesebuch	? 
 00001	GOLĀDHY. GRAHMAṆAV.	? 
 00001	WEBER, Indische Streifen	Indische streifen. Eine sammlung von bis
-00001	WEBER, BHAG.	Über ein Fragment der Bhagavatî, A. Webe
 00001	A Catal. of Skt Mss. in priv. libr. of the north-west prov.	? 
 00001	A Catal. of Skt Mss. in priv. libr. of the north-west provinces	? 
 00001	KĀṬAV.	? 
-00000	ANUKRAM.	ANUKRAMAṆIKĀ. [Cologne addition]
 00000	ṚV. ANUKRAMAṆIKĀ.	ANUKRAMAṆIKĀ des ṚGVEDA ? [Cologne addit
+00000	avy.	avyaya (s. MED.).
 00000	BENFEY, Chr.	BENFEY Chrestomathie aus Sanskritwerken.
 00000	BENF. Vollst. Gr.	BENFEY, Vollständige Grammatik der Sansk
 00000	BURN. Lot. de la b. l.	Le Lotus de la bonne loi, traduit du San
 00000	ŚAṂKAR.	ŚAṂKARA (ein Scholiast des ŚĀKUNTALA) un
 00000	ŚAUN. CAT.	ŚAUNAKA'S CATURĀDHYĀYIKĀ, citirt nach Ad
 00000	T. COLEBR. Misc. Ess.	COLEBROOKE'S Miscellaneous Essays. 2 Bän
+00000	ś.	die Śeṣa's zu HEMACANDRA'S ABHIDHĀNACINT
 00000	Hindu Th. (WILSON)	Select specimens of the Theatre of the H
+00000	Ind. des KANDYUR	Index des KANDYUR. Herausgegeben von der
 00000	Ind. des KANDYUR	? 
+00000	KANDYUR	? 
+00000	Index des KANDYUR	Index des KANDYUR. Herausgegeben von der
 00000	WEBER, Ind. St.	WEBER'S Indische Studien. 
 00000	Institutt. (LASSEN)	Institutiones linguae pracriticae. Scrip
 00000	Lebensb.	Eine tibetische Lebensbeschreibung Śākya
@@ -2742,101 +2588,260 @@
 00000	Mat. ind. (AINSLIE)	Materia indica; or some account of those
 00000	MĀTSYA-P. iast=	MĀTSYAPURĀṆA MATSYAPURĀṆA.
 00000	Mém. sur l'Inde (REINAUD)	Mémoire géographique, historique et scie
+00000	Mém. sur l'Inde	? 
+00000	REINAUD, Mém. sur l'Inde	? 
+00000	REINAUD, Mémoire sur l'Inde	? 
 00000	Padap.	Padapāṭha.
+00000	PAÑCAT. BR.	? [Cologne addition]
+00000	ed. orn.	Pañcatantra, Kosegarten, ed. orn. 1859 [
 00000	Pent. (LASSEN)	CHRISTIANI LASSENII commentatio geograph
 00000	RAGH. (ed. Calc)	RAGHUVAṂŚA, ed. Calc. (GILD. Bibl. 135).
 00000	ROXB. Fl. ind.	Flora indica or Description of Indian pl
 00000	SADDH. P. 4.	SADDHARMAPUṆḌARĪKA, Kap. 4 in: Parabole 
 00000	WILSON'S SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
 00000	WILS. SĀṂKHYAK.	SĀṂKHYAKĀRIKĀ, ed. WILSON (GILD. Bibl. 2
+00000	Sch.	Scholiast.
+00000	Schol.	Scholiast.
 00000	SIDDHĀNTAM.	SIDDHĀNTAMUKTĀVALĪ, nach Anführungen im 
+00000	Var.	Variante.
+00000	ved.	vedisch.
+00000	B. H.	  WEBER'S Verzeichniss der Berliner Sans
 00000	d. d. m. G.	Zeitschrift der Deutschen morgenländisch
 00000	Z. f. vergl. Spr.	Zeitschrift für vergleichende Sprachfors
 00000	Zur Geschichte u. s. w. (LASSEN,)	Zur Geschichte der Griechischen und Indo
 00000	Zur L. u. G. d. w. (ROTH)	Zur Literatur und Geschichte des Weda. D
-00000	ROTH, Zur L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
+00000	Zur L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
+00000	Z. L. u. G. d. W.	Zur Literatur und Geschichte des Weda. D
 00000	ROTH, Zur L. und G. d. Veda	Zur Literatur und Geschichte des Weda. D
 00000	Berichte d. k. s. Ges. d. Ww.	Berichte der königlich-sächsischen Gesel
 00000	NĀRĀYAṆACAKR.	NĀRĀYAṆACAKRAVARTIN, ein Schol. des AK.;
 00000	UP. und UPAK.	UPAKOŚĀ (Geschichte der; s. GILD. Bibl. 
 00000	Verh. d. k. s. G. d. Ww.	Verhandlungen der königlich-sächsischen 
-00000	Verh. d. k. s. Ges. d. W.	Verhandlungen der königlich-sächsischen 
+00000	Verh. d. k. s. Ges. d. W. zu Leipzig, phil.hist. KI.	Verhandlungen der königlich-sächsischen 
 00000	GOLD. in der Einl. zu MĀN.	? {3.003} 
+00000	a. a. O. S.	Journal of the American Oriental Society
 00000	KĀPĪŚĀV.	KĀPĪŚĀVADĀNA, handschriftlich in der Par
 00000	PĀŚAKAK.	PĀŚAKAKEVALĪ in «Monatsberichte der Kön.
 00000	SADDH. P. (mit nachfolgender einfacher Zahl)	SADDHARMAPUṆḌARĪKA, handschriftlich in d
+00000	WEBER, Nakṣ.	WEBER, Die vedischen Nachrichten von den
+00000	Nakṣ.	WEBER, Die vedischen Nachrichten von den
+00000	WEBER, NAKṢ.	WEBER, Die vedischen Nachrichten von den
 00000	UTTAR. ed. Cow.	? 
 00000	Verz. der. Oxf. H.	Verz. der. Oxf. H.= AUFRECHT, Verzeichni
+00000	d. Oxf. H.	AUFRECHT, Verzeichniss der Oxforder Hand
 00000	SIDDH.K.	(same as 1.279 SIDDH. K.) 
+00000	AUSH.	? 
 00000	As. Soc. of B.	? 
 00000	As. Soc. of Beng.	? 
+00000	WASSILYEW	В. Васильевъ. Буддизмъ, его догматы, ист
+00000	POL.	?  
+00000	HIT. ed. MÜLLER.	HITOPADEŚA, Max Müller, 1864  
 00000	ALBY.	?  
 00000	RĀGAN.	?  
+00000	SKANDAP.	?  
+00000	RĀJN.	?  
 00000	M. MÜLLER, SL.	? 
+00000	d. Cambr. H.	? 
 00000	Verz. d. T. Hdschr.	? 
 00000	Tüb. H.	? 
 00000	d. Tüb. H.	? 
+00000	Ak. d. Ww.	? 
 00000	G. WEBER,	? 
 00000	GRIMM, Gesch. der deutschen Sprache.	Geschichte der deutschen Sprache by Jaco
 00000	No.	(A different Number of previous referenc
+00000	REINAUD, Mém. sur I'Inde	? 
+00000	Randgl.	? 
 00000	SAH. D.	? 
 00000	SCH.	? 
 00000	SCHIEFN.	? 
 00000	SPIEGEL	? 
+00000	Sp.	? 
+00000	Bull. de l'Acad. Imp. des sc. de St. P.	? 
 00000	Bulletin de I'Acad. Imp. des sc. de St. - Pét.	? 
+00000	Bull. de l'Acad. des Sc. de S.-P.	? 
+00000	Bull. de l'Acad. Imp. des sc.	? 
+00000	TULLB.	TULLBERG ? 
+00000	VIṢṆU'S DHARMAŚ.	 ? 
+00000	YĀJN.	?  
+00000	AH.	?  
+00000	KṢITIŚAV.	?  
 00000	CATHĀS.	?  
+00000	ŚAT.	?  
+00000	MB.	?  
+00000	KĀLAMĀN.	?  
+00000	MBR.	?  
+00000	YĀJAN.	?  
+00000	GRAHĀNAYAN.	?  
+00000	ĀNANDAD.	?  
+00000	ŚṚṄGONNATYADH.	?  
+00000	SPAṢṬ.	?  
+00000	KAUŚR.	?  
+00000	CAṆDRAGR.	?  
+00000	SŪRYAGRAH.	?  
+00000	ŚṚṄGONNATY.	?  
+00000	ŚṚṄGONN.	?  
+00000	GRAHACCHĀY.	?  
+00000	KATHĀṢ.	?  
+00000	KOSEG.	?  
+00000	MADHYAMĀDH.	?  
+00000	MANĀN.	?  
+00000	CAURĀP.	?  
+00000	KĀVYĀS.	?  
+00000	YĀJAÑ.	?  
+00000	BHAGH.	?  
+00000	KAUŚA.	?  
+00000	SŪŚR.	?  
+00000	KAUC.	?  
 00000	MB2H.	?  
+00000	KṢITIŚ.	?  
+00000	BHAGAṆ.	?  
+00000	GRAHACCHĀYĀDH.	?  
+00000	COWELL, Calcutta 1864.	? 
 00000	Fl. ind. ed. CAREY.	? 
 00000	KANDYUR	?  
+00000	NAIGH	?  
+00000	SARVADARŚANAS	?  
 00000	BRUCE	?  
+00000	GṚHYAS	?  
+00000	CARARA	?  
+00000	CAURAP	?  
+00000	MṚCCH	?  
 00000	VĀTSY.	?  
+00000	ĀKNIKAT.	?  
+00000	AGAYAPĀLA	?  
+00000	CARET	?  
 00000	DHAMAṂJAYA	?  
+00000	K. Pr. Ak. d. Ww.	? 
 00000	MEDH.	? 
 00000	MET.	? 
+00000	POTT'S Zigeuner	? 
+00000	BHAVA'S	? 
 00000	BOLLENSEN, Or. und Occ.	? 
+00000	ĀP. PRAJ.	? 
 00000	Berichte über die Verh. d. k. s. Ges. d. W. zu Leipzig, phil.hist.	? 
 00000	PRĀTIŚĀKHYA	?  
 00000	STOTRA	?  
+00000	SUPRABHĀTASTOTRA.	?  
+00000	BĀPŪD.	?  
+00000	TANDYUR.	?  
 00000	MONTGOMERY MARTIN	? 
+00000	ŚAṂKARA'S	?  
 00000	ŚĀBDAR.	?  
 00000	ĀRYAVIDYĀSUDHĀKARA	?  
 00000	BHĀK. NĀṬYAŚ.	?  
+00000	Beitr. z. Kenntn. d. russ. Reiches	?  
+00000	BUCHANAN'S Handschrr.	?  
+00000	BUCHANAN'S Hdschrr.	?  
+00000	KĀTYĀYANA'S	?  
+00000	VIMALABODHA'S	?  
+00000	HALĀYUDHA'S	?  
 00000	NAKṢ.	?  
+00000	PATAÑJALI'S	?  
+00000	F. NEVE'S Essay sur le mythe des Ribhavas. Paris 1847.	?  
+00000	YĀJÑAVALKYA'S	?  
+00000	HELMERSEN	?  
+00000	LANGAL.	?  
+00000	GAUDAPĀDA'S	?  
 00000	YĀSKA NIR.	?  
 00000	SAṂSĀRĀV.SARVĀNUKRAMA	?  
+00000	JAYARĀMA'S	?  
+00000	YĀJNIKAD.	?  
+00000	YONIGRANTHA	?  
+00000	ĪŚVARAKṚṢṆA'S	?  
+00000	BAER	?  
+00000	ARHANT'S	?  
 00000	VYĀKARAṆA	? 
+00000	GĀNA	? 
 00000	JANMAKH.	? 
+00000	JĀT.	? 
 00000	BHUVANAK.	BHUVANAKOŚA ? 
 00000	ŚEKHARA-VĀCASPATI'S CANDANADHENUVIDHI	? 
+00000	CANDRAGRAHAṆĀDHY.	? 
 00000	KĀṬH. AŚVGR.	? 
+00000	ŚAT. CR.	? 
 00000	KṚṢNAJ.	?  
+00000	BRAHMAKH.	?  
 00000	YĀMALOTTARAKH.	?  
+00000	ŚRĪKṚHṆAJANMAKH.	?  
 00000	GRAHMAṆAV.	?  
+00000	BHAGRAHAYUTYADH.	?  
+00000	GRAHĀNAYANĀDH.	?  
+00000	PRAKṚITIKH.	?  
 00000	GRAHAṆĀDHY.	?  
+00000	BRAHMAKHAṆḌA	?  
+00000	GAṆAPATIKHAṆḌA	?  
 00000	DARŚANA	?  
+00000	ŚRĪKRṢṆAJANMAKHAṆḌA	?  
 00000	KĪRTI	?  
+00000	NĪLAKAṆṬHA'S	? 
+00000	LASSEN'S Pentap.	? 
 00000	APAG. AV.	? 
 00000	BURGAD.	? 
 00000	BÖHTL. Ausg. des P.	? 
+00000	ŚKR.	(print error for ŚKDR.) ? 
+00000	Die Calc. Ausg.	? 
 00000	WILS. Lex.	?  
-00000	MÜLLER, Lect.	?  
+00000	JANMAKHAṆDA.	?  
+00000	KACCĀYANAPPAKARAṆAB	?  
 00000	ROTH, YĀSKA'S NIR. L.	?  
 00000	KOŚA	?  
-00000	ŚUK. Pet. Hdschr.	?  
+00000	WHITNEY, New Haven 1862.	?  
 00000	KÖPPEN. Rel. des. Buddha	?  
 00000	SAṂKṢIPTAS. ŚKDR.	?  
 00000	SĀRATANTRA	?  
 00000	SIDDHĀNTASĀRĀVALĪ	?  
 00000	WILSON, Sel. spec. of the Theatre of the Hindus	?  
+00000	Ind. St. St.	?  
 00000	VĀṆAYUDDHA	?  
 00000	PŪRVĀRCIKA	? 
+00000	MAX MÜLLER'S Grammatik	? 
+00000	NAIGEYAŚĀKHĀ	?  
+00000	STENZLER'S	?  
+00000	SCHLEGEL'S	?  
+00000	PĀṆINI'S	?  
+00000	KERN'S	?  
+00000	GAUḌAPĀDA'S	?  
+00000	HEMACANDRA'S	?  
+00000	SCHÜTZ'S	?  
 00000	SUPADMAVYĀKARAṆA	?  
+00000	BENFEY'S	?  
+00000	MÜLLER'S	?  
+00000	M. MÜLLER'S	?  
 00000	ĀRAṆYAKA, KENOP.	?  
+00000	HESSLER'S	?  
+00000	DEVARĀJA'S	?  
+00000	TROYER'S	?  
+00000	AUFRECHT'S	?  
+00000	ALBYROUNY'S	?  
+00000	BALLANTYNE'S	?  
+00000	LASSEN'S	?  
+00000	MĀDHAVA'S	?  
+00000	BHARATA'S	?  
+00000	WEBER'S	?  
+00000	CANDRAŚEKHARA-VĀCASPATI'S CANDANADHENUVIDHI	?  
+00000	DHENUKĀSURAV.	?  
 00000	AINSLIE, Mat. ind.	?  
+00000	JAIMINI'S BHĀRATA	?  
+00000	A Gloss. of jud. and rev. terms	? 
+00000	Journ. As. 1845.	? 
+00000	SPEIJER	? 
+00000	TRÜBNER'S Record	? 
+00000	JAINA'S	?  
+00000	WILSON, a Gloss. of jud. and rev. terms	? 
+00000	ṢERRING, Sacred city	?  
+00000	AŚNA	?  
 00000	WILSON, Hindu Th.	?  
+00000	Y. MUIR, Y. A. S.	?  
+00000	Z. d. m. G. G.	? 
 00000	ŚRĪR.	? 
 00000	Антарабида	? 
-00000	Abh. d. Königl. Ak. d. W. zu Berlin, 	? 
 00000	KĀṆVa-Rec.	? 
 00000	R. (<ls>ed. ŚRIR.)	 ? 
+00000	z. B. MED. j.	? 
+00000	ĀYODA MBH.	? 
+00000	?	Unknown to us. Can you help? 
+00000	PACCAR.	? 
+00000	Mém. de l'Acad. Imp. dés sc. de St.-Pétersb.	? 
+00000	Halle'sche Allg. Lit. Zeit.	? 
+00000	WEBER, BHAG.	Über ein Fragment der Bhagavatî, A. Webe
 00000	X	? 
