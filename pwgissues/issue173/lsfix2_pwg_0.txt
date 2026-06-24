@@ -1278,7 +1278,7 @@ True	2	450038	virAqrUpA	<ls>ṚV. PRĀT. 16,45</ls>
 True	2	451030	vilopa	<ls>ṚV. PRĀT. 11,28</ls>	
 True	2	451030	vilopa	<ls n="ṚV. PRĀT. 11,">8</ls>	
 True	2	451030	vilopa	<ls n="ṚV. PRĀT. 11,">10</ls>	
-None	2	451339	vivartana	<ls>ṚV. PRĀT. ed. MÜLLER 1,3</ls>	
+False	2	451339	vivartana	<ls>ṚV. PRĀT. 1,3 (ed. MÜLLER)</ls>	<ls>ṚV. PRĀT. 1,3</ls>
 True	2	451798	vivftti	<ls>ṚV. PRĀT. 2,1</ls>	
 True	2	451798	vivftti	<ls>ṚV. PRĀT. 4,28</ls>	
 True	2	451798	vivftti	<ls n="ṚV. PRĀT. 2,">5</ls>	
@@ -1535,7 +1535,7 @@ True	2	512511	samAna	<ls>ṚV. PRĀT. 5,20</ls>
 True	2	512546	samAnakAraRa	<ls>ṚV. PRĀT. 11,23</ls>	
 True	2	512551	samAnakAla	<ls>ṚV. PRĀT. 6,9</ls>	
 True	2	512551	samAnakAla	<ls n="ṚV. PRĀT.">11,23</ls>	
-None	2	512612	samAnatA	<ls>ṚV. PRĀT. (ed. M.) 1,2</ls>	
+False	2	512612	samAnatA	<ls>ṚV. PRĀT. 1,2 (ed. M.)</ls>	<ls>ṚV. PRĀT. 1,2</ls>
 True	2	512714	samAnavarRa	<ls>ṚV. PRĀT. 14,27</ls>	
 True	2	512734	samAnasaMKya	<ls>ṚV. PRĀT. 18,21</ls>	
 True	2	512750	samAnAkzara	<ls>ṚV. PRĀT. 1,1</ls>	
