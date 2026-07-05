@@ -1,473 +1,425 @@
 {
- "occurrences_total": 50065,
- "covered": 41642,
- "covered_scan": 34560,
- "covered_html": 7082,
- "uncovered": 6505,
- "noncoordinate_labels": 1883,
- "covered_works": 99,
- "uncovered_works": 446,
+ "occurrences_total": 40704,
+ "covered": 34157,
+ "covered_scan": 28294,
+ "covered_html": 5863,
+ "uncovered": 5068,
+ "noncoordinate_labels": 1449,
+ "covered_works": 97,
+ "uncovered_works": 428,
  "top_covered": [
   {
    "abbr": "MBH.",
-   "occ": 6721,
-   "scan": 6721,
+   "occ": 5721,
+   "scan": 5721,
    "html": 0
   },
   {
    "abbr": "ṚV.",
-   "occ": 4387,
+   "occ": 3655,
    "scan": 0,
-   "html": 4387
+   "html": 3655
   },
   {
    "abbr": "R.",
-   "occ": 3810,
-   "scan": 3810,
+   "occ": 3118,
+   "scan": 3118,
    "html": 0
   },
   {
    "abbr": "BHĀG. P.",
-   "occ": 2597,
-   "scan": 2597,
-   "html": 0
-  },
-  {
-   "abbr": "M.",
-   "occ": 2162,
-   "scan": 2162,
+   "occ": 2150,
+   "scan": 2150,
    "html": 0
   },
   {
    "abbr": "ŚAT. BR.",
-   "occ": 2109,
-   "scan": 2109,
+   "occ": 1757,
+   "scan": 1757,
+   "html": 0
+  },
+  {
+   "abbr": "M.",
+   "occ": 1618,
+   "scan": 1618,
    "html": 0
   },
   {
    "abbr": "KATHĀS.",
-   "occ": 1746,
-   "scan": 1746,
+   "occ": 1466,
+   "scan": 1466,
    "html": 0
   },
   {
    "abbr": "AV.",
-   "occ": 1399,
+   "occ": 1187,
    "scan": 0,
-   "html": 1399
+   "html": 1187
   },
   {
    "abbr": "P.",
-   "occ": 1296,
+   "occ": 1021,
    "scan": 0,
-   "html": 1296
+   "html": 1021
   },
   {
    "abbr": "Spr.",
-   "occ": 1253,
-   "scan": 1253,
+   "occ": 1020,
+   "scan": 1020,
    "html": 0
   },
   {
    "abbr": "HARIV.",
-   "occ": 1110,
-   "scan": 1110,
-   "html": 0
-  },
-  {
-   "abbr": "RAGH.",
-   "occ": 842,
-   "scan": 842,
+   "occ": 902,
+   "scan": 902,
    "html": 0
   },
   {
    "abbr": "R. GORR.",
-   "occ": 757,
-   "scan": 757,
+   "occ": 671,
+   "scan": 671,
    "html": 0
   },
   {
-   "abbr": "RĀJA-TAR.",
-   "occ": 717,
-   "scan": 717,
-   "html": 0
-  },
-  {
-   "abbr": "ŚĀK.",
+   "abbr": "RAGH.",
    "occ": 666,
    "scan": 666,
    "html": 0
   },
   {
-   "abbr": "PAÑCAT.",
-   "occ": 644,
-   "scan": 644,
+   "abbr": "RĀJA-TAR.",
+   "occ": 575,
+   "scan": 575,
    "html": 0
   },
   {
    "abbr": "VARĀH. BṚH. S.",
-   "occ": 619,
-   "scan": 619,
+   "occ": 552,
+   "scan": 552,
+   "html": 0
+  },
+  {
+   "abbr": "ŚĀK.",
+   "occ": 521,
+   "scan": 521,
+   "html": 0
+  },
+  {
+   "abbr": "PAÑCAT.",
+   "occ": 509,
+   "scan": 509,
    "html": 0
   },
   {
    "abbr": "Spr. (II)",
-   "occ": 579,
-   "scan": 579,
-   "html": 0
-  },
-  {
-   "abbr": "VOP.",
-   "occ": 517,
-   "scan": 517,
+   "occ": 450,
+   "scan": 450,
    "html": 0
   },
   {
    "abbr": "BHAṬṬ.",
-   "occ": 505,
-   "scan": 505,
-   "html": 0
-  },
-  {
-   "abbr": "TS.",
-   "occ": 489,
-   "scan": 489,
+   "occ": 431,
+   "scan": 431,
    "html": 0
   },
   {
    "abbr": "AIT. BR.",
-   "occ": 489,
-   "scan": 489,
+   "occ": 404,
+   "scan": 404,
    "html": 0
   },
   {
-   "abbr": "Chr.",
-   "occ": 463,
-   "scan": 463,
+   "abbr": "VOP.",
+   "occ": 399,
+   "scan": 399,
+   "html": 0
+  },
+  {
+   "abbr": "TS.",
+   "occ": 389,
+   "scan": 389,
    "html": 0
   },
   {
    "abbr": "MĀRK. P.",
-   "occ": 435,
-   "scan": 435,
+   "occ": 367,
+   "scan": 367,
    "html": 0
   },
   {
    "abbr": "KĀTY. ŚR.",
-   "occ": 388,
-   "scan": 388,
+   "occ": 316,
+   "scan": 316,
    "html": 0
   },
   {
    "abbr": "VS.",
-   "occ": 329,
-   "scan": 329,
-   "html": 0
-  },
-  {
-   "abbr": "YĀJÑ.",
-   "occ": 310,
-   "scan": 310,
-   "html": 0
-  },
-  {
-   "abbr": "HIT.",
-   "occ": 278,
-   "scan": 278,
-   "html": 0
-  },
-  {
-   "abbr": "TBR.",
-   "occ": 272,
-   "scan": 272,
-   "html": 0
-  },
-  {
-   "abbr": "BHAG.",
-   "occ": 270,
-   "scan": 270,
-   "html": 0
-  },
-  {
-   "abbr": "N.",
    "occ": 268,
    "scan": 268,
    "html": 0
   },
   {
+   "abbr": "YĀJÑ.",
+   "occ": 267,
+   "scan": 267,
+   "html": 0
+  },
+  {
+   "abbr": "Chr.",
+   "occ": 254,
+   "scan": 254,
+   "html": 0
+  },
+  {
+   "abbr": "HIT.",
+   "occ": 236,
+   "scan": 236,
+   "html": 0
+  },
+  {
+   "abbr": "TBR.",
+   "occ": 234,
+   "scan": 234,
+   "html": 0
+  },
+  {
+   "abbr": "BHAG.",
+   "occ": 230,
+   "scan": 230,
+   "html": 0
+  },
+  {
+   "abbr": "N.",
+   "occ": 204,
+   "scan": 204,
+   "html": 0
+  },
+  {
    "abbr": "VID.",
-   "occ": 228,
-   "scan": 228,
+   "occ": 180,
+   "scan": 180,
    "html": 0
   },
   {
    "abbr": "AK.",
-   "occ": 212,
-   "scan": 212,
-   "html": 0
-  },
-  {
-   "abbr": "H.",
-   "occ": 197,
-   "scan": 197,
+   "occ": 170,
+   "scan": 170,
    "html": 0
   },
   {
    "abbr": "MEGH.",
-   "occ": 194,
-   "scan": 194,
+   "occ": 158,
+   "scan": 158,
    "html": 0
   },
   {
    "abbr": "KUMĀRAS.",
-   "occ": 175,
-   "scan": 175,
-   "html": 0
-  },
-  {
-   "abbr": "GORR.",
-   "occ": 154,
-   "scan": 154,
-   "html": 0
-  },
-  {
-   "abbr": "Verz. d. Oxf. H.",
    "occ": 153,
    "scan": 153,
    "html": 0
   },
   {
-   "abbr": "DHĀTUP.",
-   "occ": 150,
-   "scan": 150,
+   "abbr": "H.",
+   "occ": 153,
+   "scan": 153,
+   "html": 0
+  },
+  {
+   "abbr": "GORR.",
+   "occ": 140,
+   "scan": 140,
    "html": 0
   },
   {
    "abbr": "BENF. Chr.",
-   "occ": 149,
-   "scan": 149,
-   "html": 0
-  },
-  {
-   "abbr": "SĀH. D.",
    "occ": 128,
    "scan": 128,
    "html": 0
   },
   {
+   "abbr": "Verz. d. Oxf. H.",
+   "occ": 121,
+   "scan": 121,
+   "html": 0
+  },
+  {
+   "abbr": "DHĀTUP.",
+   "occ": 113,
+   "scan": 113,
+   "html": 0
+  },
+  {
+   "abbr": "SĀH. D.",
+   "occ": 107,
+   "scan": 107,
+   "html": 0
+  },
+  {
    "abbr": "VIKR.",
-   "occ": 125,
-   "scan": 125,
+   "occ": 99,
+   "scan": 99,
    "html": 0
   },
   {
    "abbr": "MĀLAV.",
-   "occ": 109,
-   "scan": 109,
+   "occ": 94,
+   "scan": 94,
    "html": 0
   },
   {
    "abbr": "NIR.",
-   "occ": 89,
-   "scan": 89,
-   "html": 0
-  },
-  {
-   "abbr": "BHARTṚ.",
-   "occ": 89,
-   "scan": 89,
+   "occ": 79,
+   "scan": 79,
    "html": 0
   },
   {
    "abbr": "TRIK.",
-   "occ": 87,
-   "scan": 87,
+   "occ": 76,
+   "scan": 76,
    "html": 0
   },
   {
    "abbr": "PAÑCAR.",
-   "occ": 87,
-   "scan": 87,
+   "occ": 76,
+   "scan": 76,
    "html": 0
   },
   {
-   "abbr": "R. ed. Bomb.",
-   "occ": 82,
-   "scan": 82,
+   "abbr": "BHARTṚ.",
+   "occ": 74,
+   "scan": 74,
+   "html": 0
+  },
+  {
+   "abbr": "GĪT.",
+   "occ": 54,
+   "scan": 54,
    "html": 0
   },
   {
    "abbr": "PAÑCAT. I,",
-   "occ": 65,
-   "scan": 65,
+   "occ": 54,
+   "scan": 54,
    "html": 0
   },
   {
-   "abbr": "HIT. I,",
-   "occ": 62,
-   "scan": 62,
+   "abbr": "R. ed. Bomb.",
+   "occ": 53,
+   "scan": 53,
    "html": 0
   }
  ],
  "top_uncovered": [
   {
    "abbr": "SUŚR.",
-   "occ": 311
+   "occ": 277
   },
   {
    "abbr": "CHĀND. UP.",
-   "occ": 220
+   "occ": 191
   },
   {
    "abbr": "PRAB.",
-   "occ": 200
-  },
-  {
-   "abbr": "KAUŚ.",
    "occ": 170
   },
   {
-   "abbr": "KĀM. NĪTIS.",
-   "occ": 168
+   "abbr": "KAUŚ.",
+   "occ": 156
   },
   {
    "abbr": "MṚCCH.",
-   "occ": 162
+   "occ": 143
   },
   {
    "abbr": "ŚĀṄKH. ŚR.",
-   "occ": 160
+   "occ": 133
   },
   {
-   "abbr": "ĀŚV. GṚHY.",
-   "occ": 145
-  },
-  {
-   "abbr": "LĀṬY.",
-   "occ": 142
-  },
-  {
-   "abbr": "Ind. St.",
-   "occ": 128
-  },
-  {
-   "abbr": "SARVADARŚANAS.",
+   "abbr": "KĀM. NĪTIS.",
    "occ": 127
   },
   {
-   "abbr": "PAÑCAV. BR.",
-   "occ": 110
+   "abbr": "ĀŚV. GṚHY.",
+   "occ": 121
+  },
+  {
+   "abbr": "LĀṬY.",
+   "occ": 118
+  },
+  {
+   "abbr": "SARVADARŚANAS.",
+   "occ": 107
+  },
+  {
+   "abbr": "Ind. St.",
+   "occ": 90
   },
   {
    "abbr": "ŚIŚ.",
-   "occ": 106
+   "occ": 85
   },
   {
-   "abbr": "JĀTAKAM.",
-   "occ": 105
+   "abbr": "PAÑCAV. BR.",
+   "occ": 85
   },
   {
    "abbr": "DAŚAK.",
-   "occ": 92
-  },
-  {
-   "abbr": "ĀPAST.",
-   "occ": 92
-  },
-  {
-   "abbr": "KĀṬH.",
-   "occ": 86
-  },
-  {
-   "abbr": "ṚV. PRĀT.",
-   "occ": 84
+   "occ": 78
   },
   {
    "abbr": "ĀŚV. ŚR.",
-   "occ": 80
+   "occ": 71
   },
   {
-   "abbr": "DIVYĀVAD.",
-   "occ": 79
-  },
-  {
-   "abbr": "GOBH.",
-   "occ": 76
+   "abbr": "JĀTAKAM.",
+   "occ": 70
   },
   {
    "abbr": "ṚT.",
-   "occ": 75
-  },
-  {
-   "abbr": "ĀPAST. ŚR.",
    "occ": 68
   },
   {
+   "abbr": "KĀṬH.",
+   "occ": 68
+  },
+  {
+   "abbr": "GOBH.",
+   "occ": 64
+  },
+  {
    "abbr": "KIR.",
-   "occ": 63
+   "occ": 54
   },
   {
    "abbr": "ŚĀṄKH. BR.",
-   "occ": 61
+   "occ": 54
   },
   {
-   "abbr": "VET.",
-   "occ": 59
+   "abbr": "ĀPAST.",
+   "occ": 54
   },
   {
-   "abbr": "MAITRYUP.",
-   "occ": 56
+   "abbr": "ṚV. PRĀT.",
+   "occ": 53
   },
   {
-   "abbr": "MAITR. S.",
-   "occ": 56
+   "abbr": "ĀPAST. ŚR.",
+   "occ": 49
   },
   {
    "abbr": "ŚĀṄKH. GṚHY.",
-   "occ": 55
-  },
-  {
-   "abbr": "CARAKA.",
-   "occ": 51
-  },
-  {
-   "abbr": "VS. PRĀT.",
-   "occ": 48
-  },
-  {
-   "abbr": "MUṆḌ. UP.",
-   "occ": 47
-  },
-  {
-   "abbr": "PĀR. GṚHY.",
    "occ": 46
   },
   {
-   "abbr": "ARJ.",
-   "occ": 46
-  },
-  {
-   "abbr": "MAHĀVY.",
-   "occ": 46
-  },
-  {
-   "abbr": "DHŪRTAS.",
+   "abbr": "MAITRYUP.",
    "occ": 45
   },
   {
-   "abbr": "BṚH. ĀR. UP. S.",
-   "occ": 45
-  },
-  {
-   "abbr": "KAṬHOP.",
-   "occ": 45
-  },
-  {
-   "abbr": "KĀD.",
+   "abbr": "DIVYĀVAD.",
    "occ": 44
   },
   {
-   "abbr": "NAIṢ.",
+   "abbr": "VET.",
    "occ": 43
   },
   {
@@ -475,40 +427,88 @@
    "occ": 43
   },
   {
-   "abbr": "SŪRYAS.",
-   "occ": 41
-  },
-  {
-   "abbr": "Jātakam.",
-   "occ": 41
-  },
-  {
-   "abbr": "TS. PRĀT.",
-   "occ": 41
-  },
-  {
-   "abbr": "ŚVETĀŚV. UP.",
+   "abbr": "MAITR. S.",
    "occ": 40
   },
   {
-   "abbr": "BĀLAR.",
-   "occ": 40
-  },
-  {
-   "abbr": "KAUṢ. UP.",
-   "occ": 40
-  },
-  {
-   "abbr": "PAT. a. a. O.",
+   "abbr": "PĀR. GṚHY.",
    "occ": 39
   },
   {
-   "abbr": "KAP.",
+   "abbr": "BṚH. ĀR. UP. S.",
+   "occ": 39
+  },
+  {
+   "abbr": "ARJ.",
+   "occ": 39
+  },
+  {
+   "abbr": "CARAKA.",
+   "occ": 37
+  },
+  {
+   "abbr": "MUṆḌ. UP.",
+   "occ": 37
+  },
+  {
+   "abbr": "KAṬHOP.",
    "occ": 36
   },
   {
+   "abbr": "SŪRYAS.",
+   "occ": 35
+  },
+  {
+   "abbr": "ŚVETĀŚV. UP.",
+   "occ": 35
+  },
+  {
+   "abbr": "DHŪRTAS.",
+   "occ": 32
+  },
+  {
+   "abbr": "NAIṢ.",
+   "occ": 32
+  },
+  {
+   "abbr": "SĀV.",
+   "occ": 32
+  },
+  {
+   "abbr": "KAUṢ. UP.",
+   "occ": 32
+  },
+  {
+   "abbr": "PAT. a. a. O.",
+   "occ": 31
+  },
+  {
+   "abbr": "VS. PRĀT.",
+   "occ": 29
+  },
+  {
+   "abbr": "KAP.",
+   "occ": 28
+  },
+  {
    "abbr": "DRAUP.",
-   "occ": 36
+   "occ": 28
+  },
+  {
+   "abbr": "TAITT. UP.",
+   "occ": 28
+  },
+  {
+   "abbr": "VĀLAKH.",
+   "occ": 28
+  },
+  {
+   "abbr": "TS. PRĀT.",
+   "occ": 28
+  },
+  {
+   "abbr": "PRAŚNOP.",
+   "occ": 27
   }
  ]
 }
