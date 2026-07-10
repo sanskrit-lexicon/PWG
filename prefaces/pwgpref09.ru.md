@@ -14,7 +14,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Javaneçv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
-**Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бётлингком, с. LIII.
+**Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бетлингком, с. LIII.
 **Kâdamb.** = Kâdambarî.
 **Kaij.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
 **Kaiv. Up.** = Kaivaljopanishad.
@@ -40,7 +40,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad в Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, труд по метрике; по ссылкам в ÇKDr.
-**Khând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
+**Khând. Up.** = Khândogjopanishad, по изданию Рера в Bibliotheca indica.
 **\*Kir.** = Kirâtârǵunja, ed. Calc. (Gild. Bibl. 139).
 **Kos.** = Kosegarten.
 **Koshṭhîpr.** = Koshṭhîpradîpa, по ссылкам в ÇKDr.
@@ -58,8 +58,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Liṅga-P.** = Liṅgapurâṇa.
 **Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
-**Lois.** = Луазлёр Делоншан.
-**M.** = законодательный свод Manu в издании Луазлёра Делоншана (Gild. Bibl. 289).
+**Lois.** = Луазлер Делоншан.
+**M.** = законодательный свод Manu в издании Луазлера Делоншана (Gild. Bibl. 289).
 **Maç. или Maç. S.** = Maçaka's Kalpasûtrâni.
 **Mâdhavak.** = Mâdhavakâra.
 **Mâdhj. Rec.** = Mâdhjaṃdina-редакция.

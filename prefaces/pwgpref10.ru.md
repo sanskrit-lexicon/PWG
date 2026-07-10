@@ -23,7 +23,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Paṅkav. Br.** = Paṅkaviṃçabrâhmaṇa.
 **Parâç.** = Parâçara, автор свода законов; по цитатам в Mit., Dâj. и ÇKDr.
 **Pâr. Gṛhj.** = Gṛhjasûtrâṇi Pâraskara.
-**Pat.** = Pataṅgali, как автор Mahâbhâshja; по выдержкам в издании Pâṇini Бётлингка.
+**Pat.** = Pataṅgali, как автор Mahâbhâshja; по выдержкам в издании Pâṇini Бетлингка.
 **Pat. Jogâç.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
 **Pent. (Lassen,)** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** или **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
@@ -34,7 +34,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Pur.** = Purâṇa.
 **Purush.** = Purushottama, лексикограф (среди прочего также автор Trik. и Hâr.); по цитатам в ÇKDr.
 **Pushpas.** = Pushpasûtra.
-**R.** = Râmâjana. Без более точного указания для первых двух книг подразумевается издание Schlegel (Gild. Bibl. 84), для последних четырёх — издание Gorresio (Gild. Bibl. 85).
+**R.** = Râmâjana. Без более точного указания для первых двух книг подразумевается издание Schlegel (Gild. Bibl. 84), для последних четырех — издание Gorresio (Gild. Bibl. 85).
 **Râgan.** = Râganirghaṇṭa, медицинский словарь; по цитатам в ÇKDr.
 **ʼRâga-Tar.** = Râgataraṅgiṇî, ed. Troyer (Gild. Bibl. 148) для первых 6 Taraṃga; для последующих — Calc. издание (Gild. Bibl. 147).
 **Râgav.** = Râgavallabha, по цитатам в ÇKDr.
@@ -63,7 +63,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sâṃkhjak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), с использованием индекса в издании Лассена (Gild. Bibl. 270).
 **Sâras.** = Sârasundarî, комментарий к Amarakosha; по цитатам в ÇKDr.
 **Sarvop. S.** = Sarvopanishatsâra.
-**Saun.** = Saunâga, см. введение к изданию Pâṇini Бётлингка, с. XLVI.
+**Saun.** = Saunâga, см. введение к изданию Pâṇini Бетлингка, с. XLVI.
 **Sâv.** = Sâvitrjupâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **Sch.** или **Schol.** = схолиаст.
 **Shaḍv. Br.** = Shaḍviṃçabrâhmaṇa.
@@ -82,11 +82,11 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Taitt. Prât.** = Prâtiçâkhja к Taittirîjasaṃhitâ. См. Рот во Введении к Nir. с. XLVII.
 **Tantras.** = Tantrasâra, по цитатам в ÇKDr.
 **Teǵov. Up.** = Teǵovindûpanishad.
-**Tib. Lebensb. Çâkj.** = Тибетское жизнеописание Çâkjamuni, оригинал приведённой выше под Lebensb. (Schiefner) выдержки.
+**Tib. Lebensb. Çâkj.** = Тибетское жизнеописание Çâkjamuni, оригинал приведенной выше под Lebensb. (Schiefner) выдержки.
 **Trik.** = Trikâṇḍaçesha, ed. Calc. (Gild. Bibl. 258).
-**TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, разделённых на Praçna, Anuvâka и Kaṇḍikâ. Последние обозначают не разделы предложений, а охватывают каждый по 50 слов. Рукопись.
+**TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, разделенных на Praçna, Anuvâka и Kaṇḍikâ. Последние обозначают не разделы предложений, а охватывают каждый по 50 слов. Рукопись.
 **TS. Anukr.** = Anukramaṇikâ к TS. Рукопись.
-**Uṇ.** = Uṇâdi-аффиксы. Издано и снабжено примечаниями и различными индексами Отто Бётлингком. St. Petersburg 1844.
+**Uṇ.** = Uṇâdi-аффиксы. Издано и снабжено примечаниями и различными индексами Отто Бетлингком. St. Petersburg 1844.
 **Uṇâdik.** = Uṇâdikosha, по цитатам в ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
 **ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).

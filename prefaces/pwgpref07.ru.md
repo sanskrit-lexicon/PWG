@@ -9,7 +9,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # Объяснение сокращений.
 
-(Печатные произведения санскритской литературы, которые цитируются лишь совсем изредка, отмечены звёздочкой.)
+(Печатные произведения санскритской литературы, которые цитируются лишь совсем изредка, отмечены звездочкой.)
 
 **Âçv. Çr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
@@ -19,8 +19,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Agnisv.** = Agnisvâmin, схолиаст Lâṭjâjana.
 **Âhnikat.** = Âhnikatattva.
 **Ait. Br.** = Aitarejabrâhmaṇa. Цитируется по 8 Pańḱikâ (внешнему разделению, на которое разбиты 40 Adhjâja, образованных по содержательным соображениям) и по номерам глав, идущим сквозной нумерацией внутри Pańḱikâ. Рук. Комментарий Sâjana к нему. Рук.
-**Ait. Up.** = Aitarejopanishad, по изданию Рёра в Bibliotheca indica.
-**AK.** = Amarakosha по изданию Колбрука и Луазлёра Делоншана (Gild. Bibl. 251. 253).
+**Ait. Up.** = Aitarejopanishad, по изданию Рера в Bibliotheca indica.
+**AK.** = Amarakosha по изданию Колбрука и Луазлера Делоншана (Gild. Bibl. 251. 253).
 **Amar.** = Amaruçataka по калькуттскому изданию (Gild. Bibl. 162).
 **Amarad.** = Amaradatta.
 **Amṛtav. Up.** = Amṛtavindûpanishad.
@@ -50,8 +50,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Bhâg. P.** = Bhâgavatapurâṇa, по ссылкам в VP. и ÇKDr. Начиная с ऋ были использованы 9 Skandha, изданных Бюрнуфом (Gild. Bibl. 125).
 **Bhânud.** = Bhânudîkshita, комментатор Amarakosha; по ссылкам в ÇKDr.
 **Bhar.** = Bharata, автор о драматическом искусстве, отличный от схолиаста к AK. (последний — по ссылкам в ÇKDr.).
-**Bhartṛ.** = Bhartṛhari, издание Болена (Gild. Bibl. 156), с учётом небольшого труда: Variae lectiones ad Bohlenii editionem Bhartriharis sententiarum pertinentes, e codicibus extractae per A. Schiefner et A. Weber. Berolini 1850.
-**\*Bhâshâp.** = Bhâshâpariḱḱheda по изданию Рёра в Bibliotheca indica.
+**Bhartṛ.** = Bhartṛhari, издание Болена (Gild. Bibl. 156), с учетом небольшого труда: Variae lectiones ad Bohlenii editionem Bhartriharis sententiarum pertinentes, e codicibus extractae per A. Schiefner et A. Weber. Berolini 1850.
+**\*Bhâshâp.** = Bhâshâpariḱḱheda по изданию Рера в Bibliotheca indica.
 **\*Bhaṭṭ.** = Bhaṭṭikâvja, ed. Calc. (Gild. Bibl. 137).
 **Bhâvapr.** = Bhâvaprakâça, медицинский словарь; по ссылкам в ÇKDr.
 **Bhav. P.** = Bhavishjapurâṇa.
@@ -62,7 +62,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Brahmav. P.** = Brahmavaivartapurâṇa.
 **\*Brahma-S.** = Brahmasûtra, по ссылкам в Wind. Sancara.
 **Brahmop.** = Brahmopanishad.
-**Bṛh. Âr. Up.** = Bṛhadâraṇjakopanishad, по изданию Рёра в Bibliotheca indica.
+**Bṛh. Âr. Up.** = Bṛhadâraṇjakopanishad, по изданию Рера в Bibliotheca indica.
 **Bṛh. Âr. Up. (Pol.)** = id., в издании Поли (Gild. Bibl. 78).
 **Bṛhasp.** = Bṛhaspati, автор законодательного свода; по ссылкам в Mit. и Dâj.
 **Bṛh. Dev.** = Bṛhaddevatâ; см. Рота, zur L. u. G. d. W. с. 49.

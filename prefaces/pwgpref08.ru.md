@@ -11,13 +11,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 **Çabdar.** = Çabdaratnâvali, словарь; по ссылкам в ÇKDr.
 **Çabdârn.** = Çabdârnava, словарь; по ссылкам в ÇKDr.
-**Çâk.** = Çikuntala, драма в издании Бётлингка (Gild. Bibl. 191). Одиночное число обозначает Çloka, двойное — страницу и строку.
+**Çâk.** = Çikuntala, драма в издании Бетлингка (Gild. Bibl. 191). Одиночное число обозначает Çloka, двойное — страницу и строку.
 **Çâk. Ch.** = издание Çikuntala, выполненное Шези (Gild. Bibl. 187).
 **Çâńk. или Çâńkar.** = Çâńkara (схолиаст Çikuntala) и Çâńkarakârâ.
 **Çâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
 **Çâńkh. Gṛhj.** = Çâńkhâjana's Gṛhjasûtrâni.
 **Çâńkh. Çr.** = Çâńkhâjana's Çrautasûtrâni.
-**Çânt.** = Çântanâkârja's Phiṭsûtrâni в Бётлингк, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Отдельный оттиск из: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
+**Çânt.** = Çântanâkârja's Phiṭsûtrâni в Бетлингк, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Отдельный оттиск из: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
 **Çântiç.** = Çihlana's Çântiçataka в Haeberlin's Anthology, с. 410. и сл.
 **Çârńg.** = Çârńgadhara.
 **Çârńg. Paddh.** = Çârńgadhara's Paddhati; ср. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, с. 113. и сл. или Mélanges asiatiques, T. I, с. 279. и сл.
@@ -48,8 +48,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Durgad.** = Durgadâsa.
 
 **Gâb. Up.** = Gâbâlopanishad.
-**gaṇa.** = См. расположенный по алфавиту gaṇapâṭha в издании Pânini, выполненном Бётлингком (Gild. Bibl. 244), с. LXXVII—CXXV.
-**Gaṇar.** = Gaṇaratnamahodadhi, см. Бётлингк, Einleitung zum Pânini (Gild. Bibl. 244), II, с. XXXIX.
+**gaṇa.** = См. расположенный по алфавиту gaṇapâṭha в издании Pânini, выполненном Бетлингком (Gild. Bibl. 244), с. LXXVII—CXXV.
+**Gaṇar.** = Gaṇaratnamahodadhi, см. Бетлингк, Einleitung zum Pânini (Gild. Bibl. 244), II, с. XXXIX.
 **Garbhop.** = Garbhopanishad.
 **Gaṭâdh.** = Gâṭâdhara, лексикограф; по ссылкам в ÇKDr.
 **Gaudap.** = Gaudapâda, схолиаст к Sâṃkhak.
@@ -62,7 +62,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Got. S.** = Gotama's Sûtrâni, см. Njâja-S.
 **Govindabh.** = Govindabhaṭṭa.
 **Gṛhjasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka из 106 и 103 стихов; ср. Рота, Zur L. u. G. d. W. с. 120. Рук.
-**H.** = Hemakandra's Abhidhânakintâmaṇi, систематически расположенный синонимический лексикон. Издано, переведено и снабжено примечаниями Отто Бётлингк и Чарльз Рьё. St. Petersburg 1847.
+**H.** = Hemakandra's Abhidhânakintâmaṇi, систематически расположенный синонимический лексикон. Издано, переведено и снабжено примечаниями Отто Бетлингк и Чарльз Рье. St. Petersburg 1847.
 **Haeb. Chrest.** = Kâvja-Sangraha. A Sanscrit Anthology, being A Collection of the best Smaller Poems in the Sanscrit language. By Dr. John Haeberlin. Calcutta: W. Thacker and Co. 1847.
 **Halâj.** = Halâjudha, лексикограф; по ссылкам в ÇKDr.
 **H. an.** = Hemakandra's Anekârthasaṃgraha, ed. Calc. (Gild. Bibl. 259).

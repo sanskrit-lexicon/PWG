@@ -17,7 +17,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 СОСТАВЛЕНО
 
-Отто Бётлингк и Рудольф Рот.
+Отто Бетлингк и Рудольф Рот.
 
 ————
 
