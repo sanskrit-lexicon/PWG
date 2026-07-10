@@ -1,6 +1,6 @@
 # PWG — Petersburger Wörterbuch
 
-_Created: 17-12-2017 · Last updated: 05-07-2026_
+_Created: 17-12-2017 · Last updated: 10-07-2026_
 
 **PWG** (*Sanskrit-Wörterbuch*, Böhtlingk & Roth, 1855–1875) is the large,
 seven-volume "Great Petersburg Dictionary" — the foundational Sanskrit–German
@@ -8,7 +8,8 @@ lexicon of the 19th century and the direct ancestor of Monier-Williams'
 English dictionary. This repository is the correction and enrichment layer
 for its Cologne digitisation, part of the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon)
 project's [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/)
-initiative.
+initiative. A browsable landing page is published via GitHub Pages at
+[sanskrit-lexicon.github.io/PWG](https://sanskrit-lexicon.github.io/PWG/).
 
 ## Why this matters
 
@@ -22,8 +23,9 @@ decade-long effort is building that click-through: turning `<ls>`
 edition, alongside the ordinary digitisation work of fixing scan errors,
 encoding problems, and markup inconsistencies. A large fraction of that
 program is now finished (see Project Timeline below), and it currently feeds
-downstream work such as the PWG→Russian translation layer and OCR'd
-front-matter editions.
+downstream work such as the
+[PWG→Russian translation layer](https://github.com/gasyoun/SanskritLexicography/tree/master/RussianTranslation)
+and OCR'd front-matter editions.
 
 The primary input is `pwg.xml`, maintained in the sibling
 [pwgxml](https://github.com/sanskrit-lexicon/pwgxml) repository; corrections
@@ -36,38 +38,48 @@ they share source material and markup conventions.
 
 | Directory | Contents |
 |---|---|
-| [`pwg_ls/`](pwg_ls/) | Round 1 — extraction and analysis of `<ls>` (literary source) tags from pwg.xml |
-| [`pwg_ls1/`](pwg_ls1/) | Round 2 — authority/bibliography record refinement (begun Dec 2017) |
-| [`pwg_ls2/`](pwg_ls2/) | Round 3 — per-source corrections; subfolders named by abbreviation (`RV/`, `ak/`, `mbh1/`, …) |
-| [`pwgissues/`](pwgissues/) | One folder per GitHub issue (`issueNNN/` for analysis, `issueNNNfix/` for correction scripts) |
-| [`verbs01/`](verbs01/) | Early verb and upasarga analysis against PWG headwords |
-| [`verbs01a/`](verbs01a/) | Verb identification correlated with Monier-Williams (MW) dictionary (begun Mar 2020) |
-| [`RussianWords/`](RussianWords/) | Russian etymologies in PWG |
-| [`pwgheader/`](pwgheader/) | Volume and header metadata |
-| [`prefaces/`](prefaces/) | OCR'd front matter (titles, forewords, abbreviation lists, addenda) with EN/RU translations and consolidated single-file editions |
-| [`deepseek_pilot/`](deepseek_pilot/) | LLM-assisted pilot over one dictionary slice (translation / literary-source targeting / structural extraction / OCR-diff tracks) — derived artifacts only, source untouched |
-| [`misc/`](misc/) | Accent display, encoding conversion, and other utilities |
+| [`pwg_ls/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwg_ls) | Round 1 — extraction and analysis of `<ls>` (literary source) tags from pwg.xml |
+| [`pwg_ls1/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwg_ls1) | Round 2 — authority/bibliography record refinement (begun Dec 2017) |
+| [`pwg_ls2/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwg_ls2) | Round 3 — per-source corrections; subfolders named by abbreviation (`RV/`, `ak/`, `mbh1/`, …) |
+| [`pwgissues/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgissues) | One folder per GitHub issue (`issueNNN/` for analysis, `issueNNNfix/` for correction scripts) |
+| [`verbs01/`](https://github.com/sanskrit-lexicon/PWG/tree/main/verbs01) | Early verb and upasarga analysis against PWG headwords |
+| [`verbs01a/`](https://github.com/sanskrit-lexicon/PWG/tree/main/verbs01a) | Verb identification correlated with Monier-Williams (MW) dictionary (begun Mar 2020) |
+| [`RussianWords/`](https://github.com/sanskrit-lexicon/PWG/tree/main/RussianWords) | Russian etymologies in PWG |
+| [`pwgheader/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgheader) | Volume and header metadata |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | OCR'd front matter (titles, forewords, abbreviation lists, addenda) with EN/RU translations and consolidated single-file editions |
+| [`misc/`](https://github.com/sanskrit-lexicon/PWG/tree/main/misc) | Accent display, encoding conversion, and other utilities |
+
+> An experimental LLM-assisted pilot (translation / literary-source targeting /
+> structural-extraction / OCR-diff tracks over one dictionary slice — derived
+> artifacts only, source untouched) lives on the separate
+> [`deepseek-pilot`](https://github.com/sanskrit-lexicon/PWG/tree/deepseek-pilot/deepseek_pilot)
+> branch, not on `main`. It is paused mid-scale-up and resumable (see the
+> Status section below).
 
 ---
 
 ### How It Works
 
 Corrections to `pwg.xml` are never made directly. Instead, scripts produce
-**change files** that are applied by `updateByLine.py` (see the org-wide
-[csl-orig correction workflow](https://github.com/sanskrit-lexicon/CLAUDE.md)
-for the canonical version of this pattern):
+**change files** (paired `old`/`new`/`ins`/`del` lines) that are applied by
+`updateByLine.py` — the full change-file format and the end-to-end
+snapshot → apply → validate → promote workflow are documented once, canonically,
+in
+[csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+A minimal `new` (replace) change file looks like:
 
 ```
 1234 old original line text
 1234 new replacement line text
 ```
 
-Three operations are supported: `new` (replace), `ins` (insert after), and
-`del` (delete). All files must be UTF-8.
+All change files are UTF-8.
 
 #### Issue workflow
 
-Each GitHub issue gets a folder under [`pwgissues/`](pwgissues/):
+Each GitHub issue gets a folder under
+[`pwgissues/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgissues):
+
 - `issueNNN/` — analysis scripts, index files, and a `readme.txt` that serves
   as a running log of commands executed and results observed.
 - `issueNNNfix/` — correction scripts applied to `pwg.xml` and sibling
@@ -77,6 +89,7 @@ Each GitHub issue gets a folder under [`pwgissues/`](pwgissues/):
 #### Link-target workflow
 
 For sources that need clickable page links:
+
 1. Build a tab-separated index file mapping book sections (volume, chapter,
    verse) to PDF page numbers.
 2. Run `make_js_index.py` to validate the index and produce `index.js`.
@@ -86,7 +99,7 @@ For sources that need clickable page links:
 ```mermaid
 flowchart LR
     PDF["Source PDF"]
-    IDX["index file\nTSV: section → page"]
+    IDX["index file\nTSV: section to page"]
     JS["index.js"]
     DICTS["PWG · PW · MW\nKVN · SCH · …"]
 
@@ -125,56 +138,59 @@ This runs: `abbrv.py` → AS→IAST transliteration → `php displayhtml.php` �
 | 2023 | Unknown and numeric `<ls>` cleanup |
 | 2024 | Link target work: KATHAS, MANU, VN, and many more sources |
 | 2025 | Link-splitting (#160) completed for 30+ sources: RAGH., MBH, M., KATHĀS., ŚĀK., TAITTIRĪYA texts, ŚAT. BR., MEGH., MĀLAV., and more; image quality improvements for vol. 6 (#161); additional link targets (#168, #169); automated index checking by Dhaval Patel |
-| 2026 H1 | Repository organisation (CLAUDE.md, issue labelling, severity/milestone/project triage; full audit of all 167 issues); AB (Andhrabharati) version reconciliation (#163, #180, #191); PWG front-matter OCR + EN/RU translations shipped ([`prefaces/`](prefaces/)); repo-hygiene pass (structured PR template, changelog v1, Dependabot automerge); a DeepSeek-assisted pilot (translation/link-target/structural-extraction tracks) run over one dictionary slice, then paused mid-scale-up — see [`.ai_state.md`](.ai_state.md) for the exact resume point |
+| 2026 H1 | Repository organisation ([`CLAUDE.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/CLAUDE.md), issue labelling, severity/milestone/project triage); AB (Andhrabharati) version reconciliation (#163, #180, #191); PWG front-matter OCR + EN/RU translations shipped ([`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces)); repo-hygiene pass (structured PR template, changelog v1, Dependabot automerge, GitHub Pages landing page); an experimental DeepSeek-assisted pilot run over one dictionary slice on the [`deepseek-pilot`](https://github.com/sanskrit-lexicon/PWG/tree/deepseek-pilot) branch, then paused mid-scale-up |
 
 ---
 
-### Status (as of 05-07-2026)
+### Status (as of 10-07-2026)
 
-Two tracks are currently live, per [`.ai_state.md`](.ai_state.md):
+Two tracks are currently the active fronts:
 
 1. **Content/front-matter** — OCR'd German front matter with EN/RU
    translations, published per-page and as consolidated single-file editions
-   under [`prefaces/`](prefaces/); most recently committed work.
+   under [`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces);
+   most recently committed work.
 2. **Markup/link-target** — the long-running `<ls>` program plus the
    Andhrabharati (AB) alternate-digitization merge (`<ab>` tag alignment
    finished at #180; v1 vs v1e diff tracked at #191).
 
-The [`deepseek_pilot/`](deepseek_pilot/) LLM-assisted pilot passed its
-go/no-go gate on all three runnable tracks (translate-EN, literary-source
-targeting, structural extraction) at limit-20 scale, then began a full
-scale-up that was stopped mid-run by the user; it is resumable but not
-currently active. It produces derived artifacts only — the canonical
-`pwg.xml`/`pwg.txt` source is never touched by it.
+An experimental LLM-assisted pilot on the
+[`deepseek-pilot`](https://github.com/sanskrit-lexicon/PWG/tree/deepseek-pilot)
+branch passed its go/no-go gate on all three runnable tracks (translate-EN,
+literary-source targeting, structural extraction) at limit-20 scale, then began
+a full scale-up that was stopped mid-run; it is resumable but not currently
+active, and lives only on that branch. It produces derived artifacts only — the
+canonical `pwg.xml`/`pwg.txt` source is never touched by it.
 
 ---
 
 ### Projects & Milestones
 
 Work is organised into four GitHub Projects (org-level kanban boards), each
-mirroring a milestone:
+mirroring a milestone. Open/closed counts below are current as of 10-07-2026;
+consult the linked milestones for live numbers.
 
 | Project | Milestone | Open | Closed | Scope |
 |---|---|---|---|---|
-| [**Dictionary to Book**](https://github.com/orgs/sanskrit-lexicon/projects/5) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/1) | 23 | 57 | Making all literary source abbreviations click-through to scanned source pages — link targets and link splitting |
-| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/7) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/3) | 16 | 19 | XML markup normalization, structured data improvements, and resolving interpretation questions |
-| [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/6) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/2) | 12 | 22 | Fixing errors from the original digitization: scan quality, encoding, text corrections, bugs |
-| [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/4) | 12 | 6 | Large new content additions: Cologne/Andhrabharati material, Weber's Nachlass, verb markup, bibliography |
+| [**Dictionary to Book**](https://github.com/orgs/sanskrit-lexicon/projects/5) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/1) | 11 | 71 | Making all literary source abbreviations click-through to scanned source pages — link targets and link splitting |
+| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/7) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/3) | 6 | 35 | XML markup normalization, structured data improvements, and resolving interpretation questions |
+| [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/6) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/2) | 2 | 33 | Fixing errors from the original digitization: scan quality, encoding, text corrections, bugs |
+| [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/PWG/milestone/4) | 8 | 12 | Large new content additions: Cologne/Andhrabharati material, Weber's Nachlass, verb markup, bibliography |
 
 ```mermaid
 pie title Closed issues by milestone
-    "Dictionary to Book" : 57
-    "Digitization Quality" : 22
-    "Structured Data" : 19
-    "Major Enhancements" : 6
+    "Dictionary to Book" : 71
+    "Structured Data" : 35
+    "Digitization Quality" : 33
+    "Major Enhancements" : 12
 ```
 
 ```mermaid
 pie title Open issues by milestone
-    "Dictionary to Book" : 23
-    "Structured Data" : 16
-    "Digitization Quality" : 12
-    "Major Enhancements" : 12
+    "Dictionary to Book" : 11
+    "Major Enhancements" : 8
+    "Structured Data" : 6
+    "Digitization Quality" : 2
 ```
 
 ---
@@ -204,6 +220,10 @@ Every issue carries one **type** label and one **severity** label.
 | `minor` | Targeted, self-contained fix — typically a handful of lines or a single file |
 | `medium` | Standard unit of work — building one link-target index, a batch of markup corrections, or a moderate content addition |
 | `hard` | Large or complex effort spanning many sources, files, or dictionaries |
+
+The org-wide issue taxonomy (label colours, milestone-by-type assignment,
+multi-type priority order) is documented in the
+[Cologne tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md).
 
 ---
 
