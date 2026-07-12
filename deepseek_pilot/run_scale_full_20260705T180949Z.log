@@ -1,0 +1,118 @@
+========== TRACK lstargets  ==========
+--- lstargets  pass 1 ---
+  ...1477 ok, 23 err
+done: 1486 ok, 23 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 2 ---
+track=lstargets letter=j: 2404 total, 2381 already done, 23 to do, model=deepseek-v4-flash
+done: 6 ok, 17 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 3 ---
+track=lstargets letter=j: 2404 total, 2387 already done, 17 to do, model=deepseek-v4-flash
+done: 4 ok, 13 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 4 ---
+track=lstargets letter=j: 2404 total, 2391 already done, 13 to do, model=deepseek-v4-flash
+done: 0 ok, 13 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 5 ---
+track=lstargets letter=j: 2404 total, 2391 already done, 13 to do, model=deepseek-v4-flash
+done: 1 ok, 12 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 6 ---
+track=lstargets letter=j: 2404 total, 2392 already done, 12 to do, model=deepseek-v4-flash
+done: 1 ok, 11 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 7 ---
+track=lstargets letter=j: 2404 total, 2393 already done, 11 to do, model=deepseek-v4-flash
+done: 0 ok, 11 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 8 ---
+track=lstargets letter=j: 2404 total, 2393 already done, 11 to do, model=deepseek-v4-flash
+done: 0 ok, 11 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 9 ---
+track=lstargets letter=j: 2404 total, 2393 already done, 11 to do, model=deepseek-v4-flash
+done: 0 ok, 11 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 10 ---
+track=lstargets letter=j: 2404 total, 2393 already done, 11 to do, model=deepseek-v4-flash
+done: 0 ok, 11 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 11 ---
+track=lstargets letter=j: 2404 total, 2393 already done, 11 to do, model=deepseek-v4-flash
+done: 1 ok, 10 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 12 ---
+track=lstargets letter=j: 2404 total, 2394 already done, 10 to do, model=deepseek-v4-flash
+done: 0 ok, 10 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 13 ---
+track=lstargets letter=j: 2404 total, 2394 already done, 10 to do, model=deepseek-v4-flash
+done: 0 ok, 10 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 14 ---
+track=lstargets letter=j: 2404 total, 2394 already done, 10 to do, model=deepseek-v4-flash
+done: 0 ok, 10 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+--- lstargets  pass 15 ---
+track=lstargets letter=j: 2404 total, 2394 already done, 10 to do, model=deepseek-v4-flash
+done: 0 ok, 10 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\lstargets\j.jsonl
+========== TRACK translate en ==========
+--- translate en pass 1 ---
+  ...1029 ok, 1346 err
+done: 1029 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 2 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 3 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 4 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 5 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 6 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 7 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 8 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 9 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 10 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 11 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 12 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 13 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 14 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+--- translate en pass 15 ---
+  ...0 ok, 1350 err
+done: 0 ok, 1355 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.en.jsonl
+========== TRACK translate ru ==========
+--- translate ru pass 1 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 2 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 3 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 4 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 5 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 6 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 7 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 8 ---
+  ...0 ok, 2400 err
+done: 0 ok, 2404 err -> C:\Users\user\Documents\GitHub\PWG\deepseek_pilot\out\translate\j.ru.jsonl
+--- translate ru pass 9 ---

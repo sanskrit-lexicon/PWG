@@ -7,11 +7,18 @@ Tracks (prompt template -> derived artifact, source is NEVER modified):
   struct     prompts/struct.md     -> out/struct/<letter>.jsonl
   ocrdiff    prompts/ocrdiff.md    -> out/ocrdiff/<letter>.jsonl   (needs --ab-diffs)
 
-Provider is the OpenModel gateway (OpenAI-compatible). Configure via .env
-(see .env.example):
-  OPENMODEL_API_KEY=sk-...
-  OPENMODEL_MODEL=deepseek-chat                 # bulk model
-  OPENMODEL_BASE_URL=https://api.openmodel.ai/v1
+Two provider options, EACH WITH ITS OWN SEPARATE BALANCE — pick via --provider
+or by which key is present in .env (DeepSeek preferred if both are set):
+  DeepSeek direct (OpenAI-compatible chat/completions, billed on
+  platform.deepseek.com):
+    DEEPSEEK_API_KEY=sk-...
+    DEEPSEEK_MODEL=deepseek-chat                # or deepseek-reasoner
+    DEEPSEEK_BASE_URL=https://api.deepseek.com
+  OpenModel gateway (Anthropic Messages format, billed on its own
+  openmodel.ai account):
+    OPENMODEL_API_KEY=sk-...
+    OPENMODEL_MODEL=deepseek-chat                 # bulk model
+    OPENMODEL_BASE_URL=https://api.openmodel.ai/v1
 
 Examples:
   python run_pilot.py --track struct --limit 3 --dry-run      # show a filled prompt, no API call
@@ -113,7 +120,7 @@ def _extract_json(text):
         raise
 
 
-def call_deepseek(env, system, user, max_retries=3):
+def _call_openmodel(env, system, user, max_retries):
     import requests  # imported lazily so --dry-run needs no network stack
 
     # OpenModel exposes the Anthropic Messages format at {base}/messages
@@ -132,7 +139,8 @@ def call_deepseek(env, system, user, max_retries=3):
                "content-type": "application/json"}
     for attempt in range(max_retries):
         try:
-            r = requests.post(url, headers=headers, json=payload, timeout=120)
+            r = requests.post(url, headers=headers, json=payload,
+                               timeout=int(env.get("OPENMODEL_TIMEOUT", "300")))
             if r.status_code == 429 or r.status_code >= 500:
                 time.sleep(min(2 ** attempt, 3))
                 continue
@@ -145,6 +153,51 @@ def call_deepseek(env, system, user, max_retries=3):
                 return {"_error": str(e)}
             time.sleep(min(2 ** attempt, 3))
     return {"_error": "exhausted retries"}
+
+
+def _call_deepseek_direct(env, system, user, max_retries):
+    import requests  # imported lazily so --dry-run needs no network stack
+
+    # DeepSeek's own platform API is OpenAI-compatible chat/completions —
+    # a DIFFERENT account/balance from the OpenModel gateway above, even
+    # though both ultimately run a deepseek-* model.
+    base = env.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com").rstrip("/")
+    url = base + "/chat/completions"
+    payload = {
+        "model": env.get("DEEPSEEK_MODEL", "deepseek-chat"),
+        "max_tokens": int(env.get("OPENMODEL_MAX_TOKENS", "16384")),
+        "messages": [
+            {"role": "system", "content": system + "\n\nRespond with ONLY the JSON object, no markdown fences."},
+            {"role": "user", "content": user},
+        ],
+        "temperature": 0.0,
+    }
+    headers = {"Authorization": "Bearer " + env["DEEPSEEK_API_KEY"],
+               "content-type": "application/json"}
+    for attempt in range(max_retries):
+        try:
+            r = requests.post(url, headers=headers, json=payload,
+                               timeout=int(env.get("OPENMODEL_TIMEOUT", "300")))
+            if r.status_code == 429 or r.status_code >= 500:
+                time.sleep(min(2 ** attempt, 3))
+                continue
+            r.raise_for_status()
+            text = r.json()["choices"][0]["message"]["content"]
+            return _extract_json(text)
+        except Exception as e:  # noqa: BLE001 - fail fast; resume passes mop up stragglers
+            if attempt == max_retries - 1:
+                return {"_error": str(e)}
+            time.sleep(min(2 ** attempt, 3))
+    return {"_error": "exhausted retries"}
+
+
+def call_deepseek(env, system, user, max_retries=3):
+    # Prefer DeepSeek's own platform account when configured (separate
+    # balance from the OpenModel gateway) — set --provider to force one side.
+    provider = env.get("PROVIDER") or ("deepseek" if env.get("DEEPSEEK_API_KEY") else "openmodel")
+    if provider == "deepseek":
+        return _call_deepseek_direct(env, system, user, max_retries)
+    return _call_openmodel(env, system, user, max_retries)
 
 
 def main():
@@ -160,7 +213,11 @@ def main():
     ap.add_argument("--env", default=os.path.join(HERE, ".env"),
                     help="path to .env (default deepseek_pilot/.env)")
     ap.add_argument("--model", default=None,
-                    help="override OPENMODEL_MODEL (e.g. deepseek-v4-flash / deepseek-v4-pro)")
+                    help="override OPENMODEL_MODEL/DEEPSEEK_MODEL (e.g. deepseek-v4-flash for "
+                         "OpenModel, deepseek-chat/deepseek-reasoner for direct DeepSeek)")
+    ap.add_argument("--provider", default=None, choices=["openmodel", "deepseek"],
+                    help="force which account/gateway to bill — separate balances. "
+                         "Default: deepseek if DEEPSEEK_API_KEY is set, else openmodel.")
     args = ap.parse_args()
 
     slice_path = args.slice or os.path.join(HERE, "slice", "%s.jsonl" % args.letter)
@@ -196,16 +253,22 @@ def main():
         return
 
     env = load_env(args.env)
+    if args.provider:
+        env["PROVIDER"] = args.provider
+    provider = env.get("PROVIDER") or ("deepseek" if env.get("DEEPSEEK_API_KEY") else "openmodel")
     if args.model:
         env["OPENMODEL_MODEL"] = args.model
-    if not env.get("OPENMODEL_API_KEY"):
+        env["DEEPSEEK_MODEL"] = args.model
+    if provider == "deepseek" and not env.get("DEEPSEEK_API_KEY"):
+        sys.exit("no DEEPSEEK_API_KEY in %s (see .env.example)" % args.env)
+    if provider == "openmodel" and not env.get("OPENMODEL_API_KEY"):
         sys.exit("no OPENMODEL_API_KEY in %s (see .env.example)" % args.env)
 
     already = done_ids(out_path)
     todo = [r for r in records if r.get("L") not in already]
-    print("track=%s letter=%s: %d total, %d already done, %d to do, model=%s"
-          % (args.track, args.letter, len(records), len(already), len(todo),
-             env.get("OPENMODEL_MODEL", "deepseek-chat")))
+    model_used = env.get("DEEPSEEK_MODEL" if provider == "deepseek" else "OPENMODEL_MODEL", "deepseek-chat")
+    print("track=%s letter=%s: %d total, %d already done, %d to do, provider=%s, model=%s"
+          % (args.track, args.letter, len(records), len(already), len(todo), provider, model_used))
 
     n_ok = n_err = 0
     with open(out_path, "a", encoding="utf-8") as w:
