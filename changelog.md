@@ -6,6 +6,11 @@ This repository does not currently publish versioned release notes. Entries use
 dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
+## [Unreleased]
+
+### Added
+- `pagecolumn/` — page/column co-location index. `pwg_page_index.py` derives, from the entry-start column (`<pc>`) in `csl-orig/v02/pwg/pwg.txt`, three views: column → entries that start in it (8,171 columns), physical page (2 columns merged) → entries (4,329 pages), and entry → its column(s)/page(s) (123,366 entries). `pwg_page_verify.py` emits a 70-row scan-verification anchor sheet so the derived `page = (column+1)//2` mapping can be checked against a scan (per-volume front-matter offset, column pairing). Derived `.tsv` views are git-ignored/regenerable; tools + the verification sheet are tracked.
+
 ## [1.0.0] - 2026-06-13
 
 ### Added

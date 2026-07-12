@@ -1,0 +1,6 @@
+# Regenerable derived views (produced by pwg_page_index.py from csl-orig pwg.txt).
+# Not tracked, per the repo convention that script outputs are regenerated, not
+# committed. Run `python pwg_page_index.py` to (re)build them.
+pwg_columns.tsv
+pwg_pages.tsv
+pwg_entry_locations.tsv
