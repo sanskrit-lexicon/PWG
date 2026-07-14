@@ -54,7 +54,7 @@ they share source material and markup conventions.
 
 Corrections to `pwg.xml` are never made directly. Instead, scripts produce
 **change files** that are applied by `updateByLine.py` (see the org-wide
-[csl-orig correction workflow](https://github.com/sanskrit-lexicon/CLAUDE.md)
+[csl-orig correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md)
 for the canonical version of this pattern):
 
 ```
