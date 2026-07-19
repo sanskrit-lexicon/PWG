@@ -1,16 +1,16 @@
 {
- "total_distinct_refs": 36191,
- "resolved": 31368,
- "resolved_scan": 26150,
- "resolved_html": 5218,
- "coverage_pct": 86.7,
- "distinct_abbreviations": 666,
+ "total_distinct_refs": 36546,
+ "resolved": 31568,
+ "resolved_scan": 26286,
+ "resolved_html": 5282,
+ "coverage_pct": 86.4,
+ "distinct_abbreviations": 709,
  "abbreviations": [
   {
    "abbr": "MBH.",
-   "total": 5499,
-   "resolved": 5497,
-   "scan": 5497,
+   "total": 5512,
+   "resolved": 5510,
+   "scan": 5510,
    "html": 0,
    "repos": [
     "mbhbomb",
@@ -21,10 +21,10 @@
   },
   {
    "abbr": "ṚV.",
-   "total": 3392,
-   "resolved": 3391,
+   "total": 3433,
+   "resolved": 3432,
    "scan": 0,
-   "html": 3391,
+   "html": 3432,
    "repos": [
     "rvlinks"
    ],
@@ -33,9 +33,9 @@
   },
   {
    "abbr": "R.",
-   "total": 2966,
-   "resolved": 2965,
-   "scan": 2965,
+   "total": 2970,
+   "resolved": 2969,
+   "scan": 2969,
    "html": 0,
    "repos": [
     "ramayanabom",
@@ -47,9 +47,9 @@
   },
   {
    "abbr": "BHĀG. P.",
-   "total": 2033,
-   "resolved": 2032,
-   "scan": 2032,
+   "total": 2035,
+   "resolved": 2034,
+   "scan": 2034,
    "html": 0,
    "repos": [
     "bhagp_bom",
@@ -60,9 +60,9 @@
   },
   {
    "abbr": "ŚAT. BR.",
-   "total": 1607,
-   "resolved": 1606,
-   "scan": 1606,
+   "total": 1620,
+   "resolved": 1619,
+   "scan": 1619,
    "html": 0,
    "repos": [
     "shatapathabr"
@@ -72,9 +72,9 @@
   },
   {
    "abbr": "M.",
-   "total": 1428,
-   "resolved": 1427,
-   "scan": 1427,
+   "total": 1444,
+   "resolved": 1443,
+   "scan": 1443,
    "html": 0,
    "repos": [
     "manu"
@@ -84,9 +84,9 @@
   },
   {
    "abbr": "KATHĀS.",
-   "total": 1413,
-   "resolved": 1413,
-   "scan": 1413,
+   "total": 1419,
+   "resolved": 1419,
+   "scan": 1419,
    "html": 0,
    "repos": [
     "kss"
@@ -96,10 +96,10 @@
   },
   {
    "abbr": "AV.",
-   "total": 1098,
-   "resolved": 1097,
+   "total": 1110,
+   "resolved": 1109,
    "scan": 0,
-   "html": 1097,
+   "html": 1109,
    "repos": [
     "avlinks"
    ],
@@ -108,9 +108,9 @@
   },
   {
    "abbr": "Spr.",
-   "total": 948,
-   "resolved": 947,
-   "scan": 947,
+   "total": 963,
+   "resolved": 962,
+   "scan": 962,
    "html": 0,
    "repos": [
     "boesp1",
@@ -133,10 +133,10 @@
   },
   {
    "abbr": "P.",
-   "total": 731,
-   "resolved": 730,
+   "total": 742,
+   "resolved": 741,
    "scan": 0,
-   "html": 730,
+   "html": 741,
    "repos": [
     "ashtadhyayi.com"
    ],
@@ -157,9 +157,9 @@
   },
   {
    "abbr": "RAGH.",
-   "total": 564,
-   "resolved": 564,
-   "scan": 564,
+   "total": 566,
+   "resolved": 566,
+   "scan": 566,
    "html": 0,
    "repos": [
     "raghuvamsa"
@@ -182,9 +182,9 @@
   },
   {
    "abbr": "VARĀH. BṚH. S.",
-   "total": 534,
-   "resolved": 513,
-   "scan": 513,
+   "total": 537,
+   "resolved": 516,
+   "scan": 516,
    "html": 0,
    "repos": [
     "brihatsam"
@@ -194,9 +194,9 @@
   },
   {
    "abbr": "PAÑCAT.",
-   "total": 481,
-   "resolved": 480,
-   "scan": 480,
+   "total": 482,
+   "resolved": 481,
+   "scan": 481,
    "html": 0,
    "repos": [
     "pantankose"
@@ -206,9 +206,9 @@
   },
   {
    "abbr": "ŚĀK.",
-   "total": 439,
-   "resolved": 438,
-   "scan": 438,
+   "total": 440,
+   "resolved": 439,
+   "scan": 439,
    "html": 0,
    "repos": [
     "shakuntala"
@@ -254,9 +254,9 @@
   },
   {
    "abbr": "TS.",
-   "total": 352,
-   "resolved": 351,
-   "scan": 351,
+   "total": 353,
+   "resolved": 352,
+   "scan": 352,
    "html": 0,
    "repos": [
     "taittiriyas"
@@ -266,9 +266,9 @@
   },
   {
    "abbr": "KĀTY. ŚR.",
-   "total": 303,
-   "resolved": 303,
-   "scan": 303,
+   "total": 315,
+   "resolved": 315,
+   "scan": 315,
    "html": 0,
    "repos": [
     "katyasr"
@@ -277,20 +277,10 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/katyasr/app1?22,6,16"
   },
   {
-   "abbr": "SUŚR.",
-   "total": 274,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "VOP.",
-   "total": 274,
-   "resolved": 271,
-   "scan": 271,
+   "total": 280,
+   "resolved": 276,
+   "scan": 276,
    "html": 0,
    "repos": [
     "mugdhabodha"
@@ -299,10 +289,32 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/mugdhabodha/app1?26,215"
   },
   {
+   "abbr": "SUŚR.",
+   "total": 277,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Chr.",
+   "total": 264,
+   "resolved": 264,
+   "scan": 264,
+   "html": 0,
+   "repos": [
+    "bchrest2"
+   ],
+   "sample_ref": "Chr.197,4",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/bchrest2/index.html?197"
+  },
+  {
    "abbr": "AIT. BR.",
-   "total": 255,
-   "resolved": 254,
-   "scan": 254,
+   "total": 258,
+   "resolved": 257,
+   "scan": 257,
    "html": 0,
    "repos": [
     "aitbr",
@@ -312,22 +324,10 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/aitbr/app1?2,16"
   },
   {
-   "abbr": "Chr.",
-   "total": 252,
-   "resolved": 252,
-   "scan": 252,
-   "html": 0,
-   "repos": [
-    "bchrest2"
-   ],
-   "sample_ref": "Chr.197,4",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/bchrest2/index.html?197"
-  },
-  {
    "abbr": "VS.",
-   "total": 240,
-   "resolved": 239,
-   "scan": 239,
+   "total": 241,
+   "resolved": 240,
+   "scan": 240,
    "html": 0,
    "repos": [
     "vajasasa"
@@ -337,9 +337,9 @@
   },
   {
    "abbr": "YĀJÑ.",
-   "total": 237,
-   "resolved": 236,
-   "scan": 236,
+   "total": 240,
+   "resolved": 239,
+   "scan": 239,
    "html": 0,
    "repos": [
     "yajnavalkya"
@@ -428,6 +428,16 @@
    "sample_url": null
   },
   {
+   "abbr": "MṚCCH.",
+   "total": 140,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "KUMĀRAS.",
    "total": 139,
    "resolved": 139,
@@ -438,16 +448,6 @@
    ],
    "sample_ref": "KUMĀRAS. 7,26.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/kumaras/app1?7,26"
-  },
-  {
-   "abbr": "MṚCCH.",
-   "total": 139,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "GORR.",
@@ -463,9 +463,9 @@
   },
   {
    "abbr": "AK.",
-   "total": 129,
-   "resolved": 128,
-   "scan": 128,
+   "total": 134,
+   "resolved": 133,
+   "scan": 133,
    "html": 0,
    "repos": [
     "amara_dlc"
@@ -475,7 +475,7 @@
   },
   {
    "abbr": "ŚĀṄKH. ŚR.",
-   "total": 129,
+   "total": 134,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -485,9 +485,9 @@
   },
   {
    "abbr": "H.",
-   "total": 127,
-   "resolved": 126,
-   "scan": 126,
+   "total": 130,
+   "resolved": 129,
+   "scan": 129,
    "html": 0,
    "repos": [
     "abch2"
@@ -497,7 +497,7 @@
   },
   {
    "abbr": "KĀM. NĪTIS.",
-   "total": 122,
+   "total": 123,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -507,9 +507,9 @@
   },
   {
    "abbr": "Verz. d. Oxf. H.",
-   "total": 120,
-   "resolved": 118,
-   "scan": 118,
+   "total": 123,
+   "resolved": 121,
+   "scan": 121,
    "html": 0,
    "repos": [
     "Oxf_Cat_Aufrecht"
@@ -519,9 +519,9 @@
   },
   {
    "abbr": "BENF. Chr.",
-   "total": 116,
-   "resolved": 116,
-   "scan": 116,
+   "total": 117,
+   "resolved": 117,
+   "scan": 117,
    "html": 0,
    "repos": [
     "bchrest2"
@@ -553,7 +553,7 @@
   },
   {
    "abbr": "KAUŚ.",
-   "total": 112,
+   "total": 113,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -585,9 +585,9 @@
   },
   {
    "abbr": "SĀH. D.",
-   "total": 105,
-   "resolved": 105,
-   "scan": 105,
+   "total": 106,
+   "resolved": 106,
+   "scan": 106,
    "html": 0,
    "repos": [
     "sahityadarpana"
@@ -597,7 +597,7 @@
   },
   {
    "abbr": "ĀŚV. GṚHY.",
-   "total": 99,
+   "total": 102,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -630,6 +630,16 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/malavikagni/app1?67"
   },
   {
+   "abbr": "Ind. St.",
+   "total": 83,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "PAÑCAV. BR.",
    "total": 82,
    "resolved": 0,
@@ -640,8 +650,8 @@
    "sample_url": null
   },
   {
-   "abbr": "Ind. St.",
-   "total": 81,
+   "abbr": "DAŚAK.",
+   "total": 78,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -652,16 +662,6 @@
   {
    "abbr": "ŚIŚ.",
    "total": 78,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "DAŚAK.",
-   "total": 75,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -682,6 +682,18 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/pancar/app1?4,6,7"
   },
   {
+   "abbr": "NIR.",
+   "total": 72,
+   "resolved": 71,
+   "scan": 71,
+   "html": 0,
+   "repos": [
+    "nirukta"
+   ],
+   "sample_ref": "NIR. 1,16.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/nirukta/app1?1,16"
+  },
+  {
    "abbr": "BHARTṚ.",
    "total": 70,
    "resolved": 69,
@@ -694,26 +706,26 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/bhartrhari/app2?2,49"
   },
   {
-   "abbr": "NIR.",
-   "total": 69,
-   "resolved": 68,
-   "scan": 68,
-   "html": 0,
-   "repos": [
-    "nirukta"
-   ],
-   "sample_ref": "NIR. 1,16.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/nirukta/app1?1,16"
-  },
-  {
    "abbr": "ĀŚV. ŚR.",
-   "total": 66,
+   "total": 68,
    "resolved": 0,
    "scan": 0,
    "html": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
+  },
+  {
+   "abbr": "TRIK.",
+   "total": 66,
+   "resolved": 65,
+   "scan": 65,
+   "html": 0,
+   "repos": [
+    "medini"
+   ],
+   "sample_ref": "TRIK. 3,3,172.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app2?3,3,172"
   },
   {
    "abbr": "GOBH.",
@@ -726,20 +738,8 @@
    "sample_url": null
   },
   {
-   "abbr": "TRIK.",
-   "total": 64,
-   "resolved": 63,
-   "scan": 63,
-   "html": 0,
-   "repos": [
-    "medini"
-   ],
-   "sample_ref": "TRIK. 3,3,172.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app2?3,3,172"
-  },
-  {
    "abbr": "ṚT.",
-   "total": 59,
+   "total": 60,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -758,6 +758,16 @@
    "sample_url": null
   },
   {
+   "abbr": "ĀPAST.",
+   "total": 54,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "PAÑCAT. I,",
    "total": 53,
    "resolved": 53,
@@ -768,16 +778,6 @@
    ],
    "sample_ref": "PAÑCAT. I,344.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/pantankose/app1?1,344"
-  },
-  {
-   "abbr": "ĀPAST.",
-   "total": 52,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "ṚV. PRĀT.",
@@ -826,8 +826,8 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/ramayanabom/app1/?1,7,8"
   },
   {
-   "abbr": "VET.",
-   "total": 42,
+   "abbr": "VET. in LA. (III)",
+   "total": 43,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -836,7 +836,7 @@
    "sample_url": null
   },
   {
-   "abbr": "VET. in LA. (III)",
+   "abbr": "VET.",
    "total": 42,
    "resolved": 0,
    "scan": 0,
@@ -866,6 +866,16 @@
    "sample_url": null
   },
   {
+   "abbr": "ĀPAST. ŚR.",
+   "total": 39,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "H. an.",
    "total": 38,
    "resolved": 37,
@@ -876,16 +886,6 @@
    ],
    "sample_ref": "H. an. 3,276.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/anekarthasamgraha/app1?3,276"
-  },
-  {
-   "abbr": "ĀPAST. ŚR.",
-   "total": 38,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "ARJ.",
@@ -950,6 +950,26 @@
    "sample_url": null
   },
   {
+   "abbr": "NAIṢ.",
+   "total": 32,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "SĀV.",
+   "total": 32,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "MED. t.",
    "total": 31,
    "resolved": 31,
@@ -960,26 +980,6 @@
    ],
    "sample_ref": "MED. t. 3",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app1?t,3"
-  },
-  {
-   "abbr": "NAIṢ.",
-   "total": 31,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "SĀV.",
-   "total": 31,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "DHŪRTAS.",
@@ -993,6 +993,16 @@
   },
   {
    "abbr": "JĀTAKAM.",
+   "total": 30,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "KAṬHOP.",
    "total": 30,
    "resolved": 0,
    "scan": 0,
@@ -1022,7 +1032,19 @@
    "sample_url": null
   },
   {
-   "abbr": "KAṬHOP.",
+   "abbr": "HALĀY.",
+   "total": 29,
+   "resolved": 26,
+   "scan": 26,
+   "html": 0,
+   "repos": [
+    "armh2"
+   ],
+   "sample_ref": "HALĀY. 2,171.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/armh2/app1?2,171"
+  },
+  {
+   "abbr": "KAP.",
    "total": 29,
    "resolved": 0,
    "scan": 0,
@@ -1052,6 +1074,16 @@
    "sample_url": null
   },
   {
+   "abbr": "TS. PRĀT.",
+   "total": 29,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "ŚVETĀŚV. UP.",
    "total": 29,
    "resolved": 0,
@@ -1062,29 +1094,7 @@
    "sample_url": null
   },
   {
-   "abbr": "HALĀY.",
-   "total": 28,
-   "resolved": 25,
-   "scan": 25,
-   "html": 0,
-   "repos": [
-    "armh2"
-   ],
-   "sample_ref": "HALĀY. 2,171.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/armh2/app1?2,171"
-  },
-  {
    "abbr": "MUṆḌ. UP.",
-   "total": 28,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "TS. PRĀT.",
    "total": 28,
    "resolved": 0,
    "scan": 0,
@@ -1104,7 +1114,7 @@
    "sample_url": null
   },
   {
-   "abbr": "KAP.",
+   "abbr": "KĀD.",
    "total": 27,
    "resolved": 0,
    "scan": 0,
@@ -1156,8 +1166,8 @@
    "sample_url": null
   },
   {
-   "abbr": "KĀD.",
-   "total": 24,
+   "abbr": "PĀR. GṚHY.",
+   "total": 25,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -1176,16 +1186,6 @@
    ],
    "sample_ref": "PAÑCAT. III,49.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/pantankose/app1?3,49"
-  },
-  {
-   "abbr": "PĀR. GṚHY.",
-   "total": 23,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "SADDH. P.",
@@ -1240,6 +1240,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Jātakam.",
+   "total": 21,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Sp.",
    "total": 21,
    "resolved": 0,
@@ -1260,16 +1270,6 @@
    ],
    "sample_ref": "CAURAP. 35.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/bhartrhari/app1?35"
-  },
-  {
-   "abbr": "Jātakam.",
-   "total": 20,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "PRAŚNOP.",
@@ -1404,6 +1404,16 @@
    "sample_url": null
   },
   {
+   "abbr": "HEM. PAR.",
+   "total": 17,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Divyāvad.",
    "total": 16,
    "resolved": 0,
@@ -1518,7 +1528,17 @@
    "sample_url": null
   },
   {
-   "abbr": "HEM. PAR.",
+   "abbr": "BHĀVAPR.",
+   "total": 14,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "KENOP.",
    "total": 14,
    "resolved": 0,
    "scan": 0,
@@ -1529,6 +1549,26 @@
   },
   {
    "abbr": "NALOD.",
+   "total": 14,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "PRASANNAR.",
+   "total": 14,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "SIDDH. K.",
    "total": 14,
    "resolved": 0,
    "scan": 0,
@@ -1558,6 +1598,16 @@
    "sample_url": null
   },
   {
+   "abbr": "HEMĀDRI",
+   "total": 13,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "HIḌ.",
    "total": 13,
    "resolved": 0,
@@ -1569,36 +1619,6 @@
   },
   {
    "abbr": "JAIM.",
-   "total": 13,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "KENOP.",
-   "total": 13,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "PRASANNAR.",
-   "total": 13,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "SIDDH. K.",
    "total": 13,
    "resolved": 0,
    "scan": 0,
@@ -1628,7 +1648,7 @@
    "sample_url": null
   },
   {
-   "abbr": "HEMĀDRI",
+   "abbr": "LA. (II)",
    "total": 12,
    "resolved": 0,
    "scan": 0,
@@ -1638,7 +1658,7 @@
    "sample_url": null
   },
   {
-   "abbr": "LA. (II)",
+   "abbr": "S I,",
    "total": 12,
    "resolved": 0,
    "scan": 0,
@@ -1656,6 +1676,18 @@
    "repos": [],
    "sample_ref": null,
    "sample_url": null
+  },
+  {
+   "abbr": "VIŚV.",
+   "total": 12,
+   "resolved": 12,
+   "scan": 12,
+   "html": 0,
+   "repos": [
+    "bchrest1"
+   ],
+   "sample_ref": "VIŚV. 3,1.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/bchrest1/app4?3,1"
   },
   {
    "abbr": "BHĀṢĀP.",
@@ -1688,6 +1720,16 @@
    "sample_url": null
   },
   {
+   "abbr": "H",
+   "total": 11,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "HIT. Pr.",
    "total": 11,
    "resolved": 11,
@@ -1710,20 +1752,28 @@
    "sample_url": null
   },
   {
-   "abbr": "VIŚV.",
+   "abbr": "MĀN. GṚHY.",
    "total": 11,
-   "resolved": 11,
-   "scan": 11,
+   "resolved": 0,
+   "scan": 0,
    "html": 0,
-   "repos": [
-    "bchrest1"
-   ],
-   "sample_ref": "VIŚV. 3,1.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/bchrest1/app4?3,1"
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
   },
   {
    "abbr": "ŚATR.",
    "total": 11,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "CARAKA",
+   "total": 10,
    "resolved": 0,
    "scan": 0,
    "html": 0,
@@ -1742,7 +1792,7 @@
    "sample_url": null
   },
   {
-   "abbr": "MĀN. GṚHY.",
+   "abbr": "HARṢAC.",
    "total": 10,
    "resolved": 0,
    "scan": 0,
@@ -1784,17 +1834,7 @@
    "sample_url": null
   },
   {
-   "abbr": "CARAKA",
-   "total": 9,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "HARṢAC.",
+   "abbr": "GAUT.",
    "total": 9,
    "resolved": 0,
    "scan": 0,
@@ -1846,7 +1886,27 @@
    "sample_url": null
   },
   {
+   "abbr": "NYĀYAS.",
+   "total": 9,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "NĪLAK.",
+   "total": 9,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "RĀJAN.",
    "total": 9,
    "resolved": 0,
    "scan": 0,
@@ -1906,16 +1966,6 @@
    "sample_url": null
   },
   {
-   "abbr": "GAUT.",
-   "total": 8,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "HIT. IV,",
    "total": 8,
    "resolved": 8,
@@ -1926,16 +1976,6 @@
    ],
    "sample_ref": "HIT. IV,26",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/hitopadesha/app1?4,26"
-  },
-  {
-   "abbr": "NYĀYAS.",
-   "total": 8,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "SOM. NALA",
@@ -2040,6 +2080,16 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/hitopadesha/app1?3,38"
   },
   {
+   "abbr": "Kauṭ.",
+   "total": 7,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "MIT.",
    "total": 7,
    "resolved": 0,
@@ -2123,27 +2173,7 @@
    "sample_url": null
   },
   {
-   "abbr": "BHĀVAPR.",
-   "total": 6,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "CAMPAKA.",
-   "total": 6,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "H",
    "total": 6,
    "resolved": 0,
    "scan": 0,
@@ -2205,7 +2235,7 @@
    "sample_url": null
   },
   {
-   "abbr": "S I,",
+   "abbr": "S II,",
    "total": 6,
    "resolved": 0,
    "scan": 0,
@@ -2287,6 +2317,16 @@
    "sample_url": null
   },
   {
+   "abbr": "BURNOUF, Intr.",
+   "total": 5,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "BĀLAB.",
    "total": 5,
    "resolved": 0,
@@ -2345,6 +2385,28 @@
    "repos": [],
    "sample_ref": null,
    "sample_url": null
+  },
+  {
+   "abbr": "MBh.",
+   "total": 5,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "MED. n.",
+   "total": 5,
+   "resolved": 5,
+   "scan": 5,
+   "html": 0,
+   "repos": [
+    "medini"
+   ],
+   "sample_ref": "MED. n. 14.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app1?n,14"
   },
   {
    "abbr": "MUIR, ST.",
@@ -2449,6 +2511,16 @@
    "sample_url": null
   },
   {
+   "abbr": "WEBER, JYOT.",
+   "total": 5,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "WILSON, SĀṂKHYAK. S.",
    "total": 5,
    "resolved": 0,
@@ -2513,16 +2585,6 @@
    "sample_url": null
   },
   {
-   "abbr": "BURNOUF, Intr.",
-   "total": 4,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "Comm. zu ĀPAST. ŚR.",
    "total": 4,
    "resolved": 0,
@@ -2543,6 +2605,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Harṣac.",
+   "total": 4,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "HĀR.",
    "total": 4,
    "resolved": 4,
@@ -2553,16 +2625,6 @@
    ],
    "sample_ref": "HĀR. 270.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app3?270"
-  },
-  {
-   "abbr": "Kauṭ.",
-   "total": 4,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "Kir.",
@@ -2595,18 +2657,6 @@
    ],
    "sample_ref": "MED. avy. 79.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app1?avy,79"
-  },
-  {
-   "abbr": "MED. n.",
-   "total": 4,
-   "resolved": 4,
-   "scan": 4,
-   "html": 0,
-   "repos": [
-    "medini"
-   ],
-   "sample_ref": "MED. n. 14.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app1?n,14"
   },
   {
    "abbr": "MED. ṭ.",
@@ -2651,7 +2701,7 @@
    "sample_url": null
   },
   {
-   "abbr": "WEBER, JYOT.",
+   "abbr": "{{CARARA->CARAKA||",
    "total": 4,
    "resolved": 0,
    "scan": 0,
@@ -2661,7 +2711,7 @@
    "sample_url": null
   },
   {
-   "abbr": "{{CARARA->CARAKA||",
+   "abbr": "{{MBH.",
    "total": 4,
    "resolved": 0,
    "scan": 0,
@@ -2731,6 +2781,18 @@
    "sample_url": null
   },
   {
+   "abbr": "COL.",
+   "total": 3,
+   "resolved": 3,
+   "scan": 3,
+   "html": 0,
+   "repos": [
+    "amara_col"
+   ],
+   "sample_ref": "COL. 3,4,28,18.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/amara_col/app1?3,4,28,18"
+  },
+  {
    "abbr": "Comm. zu NYĀYAM.",
    "total": 3,
    "resolved": 0,
@@ -2771,7 +2833,39 @@
    "sample_url": null
   },
   {
+   "abbr": "H. ś.",
+   "total": 3,
+   "resolved": 3,
+   "scan": 3,
+   "html": 0,
+   "repos": [
+    "abch2"
+   ],
+   "sample_ref": "H. ś. 46.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/abch2/app2?46"
+  },
+  {
+   "abbr": "KAṆ.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Kaus.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Kauś.",
    "total": 3,
    "resolved": 0,
    "scan": 0,
@@ -2792,6 +2886,26 @@
   },
   {
    "abbr": "MAHĀBH.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "MUDRĀR.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Mat. med.",
    "total": 3,
    "resolved": 0,
    "scan": 0,
@@ -2833,6 +2947,26 @@
    "sample_url": null
   },
   {
+   "abbr": "Prabandh.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Praty. Hṛd.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "PĀRŚVANĀTHAK.",
    "total": 3,
    "resolved": 0,
@@ -2844,16 +2978,6 @@
   },
   {
    "abbr": "RATIM.",
-   "total": 3,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "RĀJAN.",
    "total": 3,
    "resolved": 0,
    "scan": 0,
@@ -2925,6 +3049,16 @@
    "sample_url": null
   },
   {
+   "abbr": "UṆĀDIS.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "VASIṢṬHA",
    "total": 3,
    "resolved": 0,
@@ -2967,7 +3101,27 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/vikramor/app2?54,4"
   },
   {
+   "abbr": "VIKRAMĀṄKAC.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "VĀMANA",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Vās.",
    "total": 3,
    "resolved": 0,
    "scan": 0,
@@ -3069,6 +3223,16 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/shatapathabr/app1?5,1,2"
   },
   {
+   "abbr": "Śrīk.",
+   "total": 3,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "AGNI-P.",
    "total": 2,
    "resolved": 0,
@@ -3097,18 +3261,6 @@
    "repos": [],
    "sample_ref": null,
    "sample_url": null
-  },
-  {
-   "abbr": "COL.",
-   "total": 2,
-   "resolved": 2,
-   "scan": 2,
-   "html": 0,
-   "repos": [
-    "amara_col"
-   ],
-   "sample_ref": "COL. 3,4,28,18.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/amara_col/app1?3,4,28,18"
   },
   {
    "abbr": "COLEBR. Alg.",
@@ -3161,6 +3313,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Daśak.",
+   "total": 2,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Dharmaśarm.",
    "total": 2,
    "resolved": 0,
@@ -3171,19 +3333,7 @@
    "sample_url": null
   },
   {
-   "abbr": "H. ś.",
-   "total": 2,
-   "resolved": 2,
-   "scan": 2,
-   "html": 0,
-   "repos": [
-    "abch2"
-   ],
-   "sample_ref": "H. ś. 46.",
-   "sample_url": "https://sanskrit-lexicon-scans.github.io/abch2/app2?46"
-  },
-  {
-   "abbr": "Harṣac.",
+   "abbr": "Govardh.",
    "total": 2,
    "resolved": 0,
    "scan": 0,
@@ -3233,16 +3383,6 @@
    "sample_url": null
   },
   {
-   "abbr": "KAṆ.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "KIRĀT.",
    "total": 2,
    "resolved": 0,
@@ -3263,7 +3403,7 @@
    "sample_url": null
   },
   {
-   "abbr": "Kauś.",
+   "abbr": "Kap.",
    "total": 2,
    "resolved": 0,
    "scan": 0,
@@ -3313,16 +3453,6 @@
    "sample_url": null
   },
   {
-   "abbr": "MBh.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "MED. <is>avy</is>.",
    "total": 2,
    "resolved": 0,
@@ -3355,16 +3485,6 @@
    ],
    "sample_ref": "MED. p. 17.",
    "sample_url": "https://sanskrit-lexicon-scans.github.io/medini/app1?p,17"
-  },
-  {
-   "abbr": "MUDRĀR.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
   },
   {
    "abbr": "MUIR, ST. IV,",
@@ -3437,6 +3557,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Naiṣ.",
+   "total": 2,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "PARIBH.",
    "total": 2,
    "resolved": 0,
@@ -3480,16 +3610,6 @@
   },
   {
    "abbr": "RATNĀV.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "S II,",
    "total": 2,
    "resolved": 0,
    "scan": 0,
@@ -3609,26 +3729,6 @@
    "sample_url": null
   },
   {
-   "abbr": "UṆĀDIS.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "VIKRAMĀṄKAC.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
    "abbr": "VIVĀDAC.",
    "total": 2,
    "resolved": 0,
@@ -3679,6 +3779,16 @@
    "sample_url": null
   },
   {
+   "abbr": "ZDMG",
+   "total": 2,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "ebend.",
    "total": 2,
    "resolved": 0,
@@ -3690,16 +3800,6 @@
   },
   {
    "abbr": "ed. Vardh.",
-   "total": 2,
-   "resolved": 0,
-   "scan": 0,
-   "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
-  },
-  {
-   "abbr": "{{MBH.",
    "total": 2,
    "resolved": 0,
    "scan": 0,
@@ -3931,6 +4031,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Amit. XIII,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "AŚNA S.",
    "total": 1,
    "resolved": 0,
@@ -3952,6 +4062,16 @@
   },
   {
    "abbr": "AṢṬĀV.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "B. A. J.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -4315,6 +4435,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Comm. zu KĀVYĀD.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Comm. zu NYĀYAM. S.",
    "total": 1,
    "resolved": 0,
@@ -4355,6 +4485,26 @@
    "sample_url": null
   },
   {
+   "abbr": "Comm. zu VIṢṆUS.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Comm. zu VĀSAV. S.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Comm. zu YOGAS.",
    "total": 1,
    "resolved": 0,
@@ -4376,6 +4526,16 @@
   },
   {
    "abbr": "CŪLIKOP.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "DAŚAK. (",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -4465,7 +4625,17 @@
    "sample_url": null
   },
   {
-   "abbr": "Daśak.",
+   "abbr": "Darpad. III,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Darpad. V,",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -4606,6 +4776,16 @@
   },
   {
    "abbr": "Gopāl.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "H XXIX,",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -4766,6 +4946,26 @@
   },
   {
    "abbr": "J. A. O. S. Procc. Oct.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "J. BURGESS",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "J. J. Meyer",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5005,7 +5205,7 @@
    "sample_url": null
   },
   {
-   "abbr": "Kap.",
+   "abbr": "Kalāv. I,",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5025,7 +5225,47 @@
    "sample_url": null
   },
   {
+   "abbr": "Kauṭ. II,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Kaśm. Śiv.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Kaṃs. III,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Kaṃs. IV,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Kaṭhop.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5076,6 +5316,16 @@
   },
   {
    "abbr": "Kuhn's Z.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "KĀD. II,",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5236,6 +5486,16 @@
   },
   {
    "abbr": "LASSEN, Institutt.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "LIA. II, Anh. VIII.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5525,6 +5785,26 @@
    "sample_url": null
   },
   {
+   "abbr": "Mgs.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Mudrār.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "MÜLLER, St.",
    "total": 1,
    "resolved": 0,
@@ -5535,7 +5815,27 @@
    "sample_url": null
   },
   {
+   "abbr": "MĀLATĪM. (ed. Bomb.)",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "MĀṆḌ. UP.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Mālatīm.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5617,7 +5917,7 @@
    "sample_url": "https://sanskrit-lexicon-scans.github.io/nirukta/app0?xxxix"
   },
   {
-   "abbr": "NYĀYAM.",
+   "abbr": "NIRṆAYAS.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5627,7 +5927,7 @@
    "sample_url": null
   },
   {
-   "abbr": "Naiṣ.",
+   "abbr": "NYĀYAM.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -5839,6 +6139,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Par. Sār.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Pischel, Ved. Stud. I,",
    "total": 1,
    "resolved": 0,
@@ -5900,6 +6210,16 @@
   },
   {
    "abbr": "RAGHUNĀTHAM",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "RATNAM.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6049,6 +6369,26 @@
    "sample_url": null
   },
   {
+   "abbr": "SUBHĀṢITĀV.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "SUPARṆ.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "SV. II.",
    "total": 1,
    "resolved": 0,
@@ -6060,6 +6400,56 @@
   },
   {
    "abbr": "Sam. I,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Sam. VI,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Sam. VII,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Samay.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Samay. V,",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "Sizzungsberichte der phil.-hist. Klasse der Wiener Ak.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6439,6 +6829,16 @@
    "sample_url": null
   },
   {
+   "abbr": "Vaij.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "Verz. d. B. H.",
    "total": 1,
    "resolved": 0,
@@ -6499,7 +6899,7 @@
    "sample_url": null
   },
   {
-   "abbr": "Vās.",
+   "abbr": "Vāmana, Kāvy.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6679,7 +7079,7 @@
    "sample_url": null
   },
   {
-   "abbr": "Z. d. d. m. G. IX, LXIV.",
+   "abbr": "Yājñ.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6689,7 +7089,7 @@
    "sample_url": null
   },
   {
-   "abbr": "ZDMG",
+   "abbr": "Z. d. d. m. G. IX, LXIV.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6730,6 +7130,16 @@
   },
   {
    "abbr": "{{‹ed.› Vardh.->MBH.ed.Vardh.||",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "ĀRṢ. BR.",
    "total": 1,
    "resolved": 0,
    "scan": 0,
@@ -6829,6 +7239,16 @@
    "sample_url": null
   },
   {
+   "abbr": "ŚRĪKAṆṬHAC.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
    "abbr": "ŚRĪPATI",
    "total": 1,
    "resolved": 0,
@@ -6849,7 +7269,17 @@
    "sample_url": null
   },
   {
-   "abbr": "Śrīk.",
+   "abbr": "Śuk.",
+   "total": 1,
+   "resolved": 0,
+   "scan": 0,
+   "html": 0,
+   "repos": [],
+   "sample_ref": null,
+   "sample_url": null
+  },
+  {
+   "abbr": "ŚĀK. (PISCH.)",
    "total": 1,
    "resolved": 0,
    "scan": 0,
