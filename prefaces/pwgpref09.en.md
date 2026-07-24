@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 [Paris 1829.] (Continuation of the preceding entry)
 **Yaj. V.** = Jaǵurveda.
-**Javaneçv.** = Javaneçvara.
+**Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, see Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; see the Introduction to Böhtlingk's edition of the Pânini, p. LIII.
@@ -29,7 +29,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kathâs.** = Kathâsaritsâgara, ed. Brockhaus (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad in the Bibliotheca indica.
 **Kâty.** = Kâtjâjana.
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Ms.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Ms.
 **Kâturbhú.** = Kâturbhuǵa, a scholiast of the Mahâbhârata; according to citations in Bopp's edition of the Nala (see under N.).
 **Kauç.** = Kauçika's Sûtra to the Atharvaveda. 14 Adhjâja. The Kaṇḍikâ are numbered continuously. Ms.
 **Kâurap.** = Kâurapânkâçikâ, ed. Bohlen (Gild. Bibl. 136).
@@ -37,7 +37,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kaush. Up.** = Kaushîtakjupanishad.
 **Kavikalpadr.** = Kavikalpadruma, a collection of roots; according to citations in the ÇKDr.
 **Kâvjâk.** = Kâvjakandrikâ, a textbook of rhetoric; according to citations in the ÇKDr.
-**\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
+**Kâvya-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad in the Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, a work on metrics; according to citations in the ÇKDr.
 **Chând. Up.** = Khândogjopanishad, according to the edition by Röer in the Bibliotheca indica.
@@ -50,7 +50,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kûrma-P.** = Kûrmapurâṇa.
 **Kuvalay.** = Kuvalajânanda (rhetoric) by Apjadîkshita with the commentary of Vaidjanâtha called Alaṃkârakandrikâ. Pûna 1846. 176 leaves oblong folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
-**Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
+**Laghuj.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in the Bibliotheca indica.
 **Lâṭy.** = Lâṭjâjana's Sûtra to the SV. Ms.

@@ -206,7 +206,7 @@ Mancher Mangel des Wörterbuchs wird seine Entschuldigung darin finden dürfen, 
 (Gedruckte Werke aus der Sanskrit-Literatur, die nur ganz gelegentlich citirt werden, sind mit einem Sternchen bezeichnet.)
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Handschrift.
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Hdschr.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Hdschr.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
 **A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.
@@ -277,7 +277,7 @@ Mancher Mangel des Wörterbuchs wird seine Entschuldigung darin finden dürfen, 
 **Śâk. Ch.** = Chezy's Ausgabe des Çikuntala (Gild. Bibl. 187).
 **Çâńk. oder Çâńkar.** = Çâńkara (ein Scholiast des Çikuntala) und Çâńkarakârâ.
 **Śâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
-**Çâńkh. Gṛhj.** = Çâńkhâjana's Gṛhjasûtrâni.
+**Śâńkh. Gṛhy.** = Çâńkhâjana's Gṛhjasûtrâni.
 **Śâńkh. Śr.** = Çâńkhâjana's Çrautasûtrâni.
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni in Böhtlingk, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Besonderer Abdruck aus: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
 **Śântiś.** = Çihlana's Çântiçataka in Haeberlin's Anthology, S. 410. fgg.
@@ -357,7 +357,7 @@ II
 
 [Paris 1829.] (Fortsetzung des vorhergehenden Eintrags)
 **Yaj. V.** = Jaǵurveda.
-**Javaneçv.** = Javaneçvara.
+**Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, s. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; s. die Einleitung zu Böhtlingk's Ausgabe des Pânini, S. LIII.
@@ -375,7 +375,7 @@ II
 **Kathâs.** = Kathâsaritsâgara, ed. Brockhaus (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad in der Bibliotheca indica.
 **Kâty.** = Kâtjâjana.
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Hdschr.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Hdschr.
 **Kâturbhú.** = Kâturbhuǵa, ein Scholiast des Mahâbhârata; nach Anführungen in Bopp's Ausgabe des Nala (s. unter N.).
 **Kauç.** = Kauçika's Sûtra zum Atharvaveda. 14 Adhjâja. Die Kaṇḍikâ sind durchgezählt. Hdschr.
 **Kâurap.** = Kâurapânkâçikâ, ed. Bohlen (Gild. Bibl. 136).
@@ -383,7 +383,7 @@ II
 **Kaush. Up.** = Kaushîtakjupanishad.
 **Kavikalpadr.** = Kavikalpadruma, eine Wurzelsammlung; nach Anführungen im ÇKDr.
 **Kâvjâk.** = Kâvjakandrikâ, ein Lehrbuch der Rhetorik; nach Anführungen im ÇKDr.
-**\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
+**Kâvya-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad in der Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, ein Werk über Metrik; nach Anführungen im ÇKDr.
 **Chând. Up.** = Khândogjopanishad, nach der Ausgabe von Röer in der Bibliotheca indica.
@@ -396,7 +396,7 @@ II
 **Kûrma-P.** = Kûrmapurâṇa.
 **Kuvalay.** = Kuvalajânanda (Rhetorik) von Apjadîkshita mit dem Alaṃkârakandrikâ genannten Commentar des Vaidjanâtha. Pûna 1846. 176 Bll. querfolio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
-**Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
+**Laghuj.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in der Bibliotheca indica.
 **Lâṭy.** = Lâṭjâjana's Sûtra zum SV. Hdschr.
@@ -456,7 +456,7 @@ II
 **Nîl.** oder **Nîlak.** = Nîlakaṇṭha, ein Scholiast des Mahâbhârata (angeführt in Bopp's Ausgabe des Nala) und auch des AK. (angeführt im ÇKDr.).
 **Nir.** = Jâska's Nirukta sammt den Nighaṇṭava's herausgegeben und erklärt von Rudolph Roth. Göttingen 1852.
 **Nîtipr.** = Nîtipradîpa in Haeb. Chr. S. 526—528.
-**ʼNjâja-S.** = Gotama's Njâjasûtrâṇi, ed. Calc. (Gild. Bibl. 274).
+**Nyâya-S.** = Gotama's Njâjasûtrâṇi, ed. Calc. (Gild. Bibl. 274).
 **P.** = Pâṇini's acht Bücher grammatischer Regeln (Gild. Bibl. 244).
 **Padap.** = Padapâṭha.
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. Eine darauf folgende römische Zahl bezeichnet das Buch, eine arabische — die Seite; die zweite Zahl bezeichnet hier die Zeile, dort den Çloka.
@@ -464,13 +464,13 @@ II
 **Parâç.** = Parâçara, Verfasser eines Gesetzbuchs; nach Anführungen in Mit., Dâj. und ÇKDr.
 **Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtrâṇi.
 **Pat.** = Pataṅgali, als Verfasser des Mahâbhâshja; nach Excerpten in Böhtlingk's Ausgabe des Pâṇini.
-**Pat. Jogâç.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
+**Pat. Yogâś.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
 **Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** oder **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
 **Praśnop.** = Praçnopanishad, nach der Ausgabe von Röer in der Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, nach Anführungen im ÇKDr.
-**Prât.** oder **Prâtiç.** = Prâtiçâkhja.
-**Pravar.** oder **Pravarâdhj.** = Pravarâdhjâja.
+**Prât.** oder **Prâtiś.** = Prâtiçâkhja.
+**Pravar.** oder **Pravarâdhy.** = Pravarâdhjâja.
 **Pur.** = Purâṇa.
 **Purush.** = Purushottama, ein Lexicograph (unter Anderm auch Verfasser des Trik. und der Hâr.); nach Anführungen im ÇKDr.
 **Pushpas.** = Pushpasûtra.
@@ -491,7 +491,7 @@ II
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. Es wird nach Maṇḍala, Sûkta und Ṛḱ citirt. Rosen zu RV. verweist auf die Anmerkungen in: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
-**RV. Prât.** oder **Prâtiç.** = Prâtiçâkhja zum Ṛgveda, citirt nach Paṭala und Versen. Hdschr. S. Roth in der Einl. z. Nir. S. XLVII.
+**RV. Prât.** oder **Prâtiś.** = Prâtiçâkhja zum Ṛgveda, citirt nach Paṭala und Versen. Hdschr. S. Roth in der Einl. z. Nir. S. XLVII.
 **Saddh. L.** = Saddharmalaṅkâvatâra.
 
 ### Right column
@@ -521,15 +521,15 @@ II
 **Taitt. Br.** = Taittirîjabrâhmaṇa.
 **Taitt. Prât.** = Prâtiçâkhja zur Taittirîjasaṃhitâ. S. Roth in der Einl. z. Nir. S. XLVII.
 **Tantras.** = Tantrasâra, nach Anführungen im ÇKDr.
-**Teǵov. Up.** = Teǵovindûpanishad.
-**Tib. Lebensb. Çâkj.** = Tibetische Lebensbeschreibung Çâkjamuni's, das Original von dem oben unter Lebensb. (Schiefner) aufgeführten Auszuge.
+**Tejov. Up.** = Teǵovindûpanishad.
+**Tib. Lebensb. Śâky.** = Tibetische Lebensbeschreibung Çâkjamuni's, das Original von dem oben unter Lebensb. (Schiefner) aufgeführten Auszuge.
 **Trik.** = Trikâṇḍaçesha, ed. Calc. (Gild. Bibl. 258).
 **TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, eingetheilt in Praçna, Anuvâka und Kaṇḍikâ. Die letzten bezeichnen nicht Satzabschnitte, sondern umfassen je 50 Wörter. Hdschr.
 **TS. Anukr.** = Anukramaṇikâ der TS. Hdschr.
 **Uṇ.** = Die Uṇâdi-Affixe. Herausgegeben und mit Anmerkungen und verschiedenen Indices versehen von Otto Böhtlingk. St. Petersburg 1844.
 **Uṇâdik.** = Uṇâdikosha, nach Anführungen im ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
-**ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
+**Utt. Râmac.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
 **Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, ein Wörterbuch. Excerpte daraus, angeführt in den Scholien zu Kir. und Çiç., verdanken wir Professor Stenzler.
 **Vâyu-P.** = Vâjupurâṇa.
@@ -564,8 +564,8 @@ II
 **Vid.** = Geschichte des Vidûshaka in Böhtlingk's Chrestomathie.
 **Vikr.** oder **Vikram.** = Vikramorvaçî, ed. Bollensen (Gild. Bibl. 206). Eine einfache Zahl verweist auf einen Çloka, eine doppelte — auf Seite und Zeile.
 **Vîram.** = Vîramitrodaja.
-**ʼVivâdaḱ.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
-**ʼVjavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
+**Vivâdac.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
+**Vyavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
 **Vyutp.** = Vjutpatti oder Mahâvjutpatti (s. Mél. asiat. II, 382), ein sanskrit-tibetisches Wörterbuch aus dem Taṅgur (Bd. 123 der Sûtra, S. 223—377). Die Mittheilungen aus diesem Werke nebst andern auf den Budhismus bezüglichen Notizen verdanken wir A. Schiefner.
 
 [decorative end-rule; left column ends here, lower half blank]

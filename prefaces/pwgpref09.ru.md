@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 [Paris 1829.] (Продолжение предыдущей записи)
 **Yaj. V.** = Jaǵurveda.
-**Javaneçv.** = Javaneçvara.
+**Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бётлингком, с. LIII.
@@ -29,7 +29,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kathâs.** = Kathâsaritsâgara, ed. Брокгауза (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad в Bibliotheca indica.
 **Kâty.** = Kâtjâjana.
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
 **Kâturbhú.** = Kâturbhuǵa, схолиаст Mahâbhârata; по ссылкам в издании Nala, выполненном Боппом (см. под N.).
 **Kauç.** = Kauçika's Sûtra к Атхарваведе. 14 Adhjâja. Kaṇḍikâ пронумерованы сквозным образом. Рук.
 **Kâurap.** = Kâurapânkâçikâ, ed. Болена (Gild. Bibl. 136).
@@ -37,7 +37,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kaush. Up.** = Kaushîtakjupanishad.
 **Kavikalpadr.** = Kavikalpadruma, собрание корней; по ссылкам в ÇKDr.
 **Kâvjâk.** = Kâvjakandrikâ, учебник риторики; по ссылкам в ÇKDr.
-**\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
+**Kâvya-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad в Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, труд по метрике; по ссылкам в ÇKDr.
 **Chând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
@@ -50,7 +50,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kûrma-P.** = Kûrmapurâṇa.
 **Kuvalay.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
-**Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
+**Laghuj.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara в Bibliotheca indica.
 **Lâṭy.** = Lâṭjâjana's Sûtra к SV. Рук.

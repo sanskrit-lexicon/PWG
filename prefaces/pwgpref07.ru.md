@@ -12,7 +12,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 (Печатные произведения санскритской литературы, которые цитируются лишь совсем изредка, отмечены звёздочкой.)
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
 **A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.
