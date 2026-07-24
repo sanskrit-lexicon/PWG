@@ -46,7 +46,7 @@ they share source material and markup conventions.
 | [`verbs01a/`](https://github.com/sanskrit-lexicon/PWG/tree/main/verbs01a) | Verb identification correlated with Monier-Williams (MW) dictionary (begun Mar 2020) |
 | [`RussianWords/`](https://github.com/sanskrit-lexicon/PWG/tree/main/RussianWords) | Russian etymologies in PWG |
 | [`pwgheader/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgheader) | Volume and header metadata |
-| [`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | OCR'd front matter (titles, forewords, abbreviation lists, addenda) with EN/RU translations and consolidated single-file editions |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | OCR'd front matter (titles, forewords, abbreviation lists, addenda) with EN/RU translations and consolidated single-file editions; methods + cite block in [`prefaces/METHODS.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/METHODS.md) |
 | [`misc/`](https://github.com/sanskrit-lexicon/PWG/tree/main/misc) | Accent display, encoding conversion, and other utilities |
 
 > An experimental LLM-assisted pilot (translation / literary-source targeting /

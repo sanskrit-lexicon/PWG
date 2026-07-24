@@ -2,6 +2,8 @@
 
 OCR transcriptions **and English + Russian translations** of the front matter of the **Sanskrit-Wörterbuch** (Otto Böhtlingk & Rudolph Roth, *Großes Petersburger Wörterbuch*), St. Petersburg, Kaiserliche Akademie der Wissenschaften, 1855–1875.
 
+**Methods and how to cite:** [METHODS.md](METHODS.md) (scan source, page inventory, OCR engines A/B, translation policy, BibTeX). Root cite metadata: [CITATION.cff](../CITATION.cff).
+
 Source: the Cologne digitization scan pages under
 [pwgpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref.html).
 
