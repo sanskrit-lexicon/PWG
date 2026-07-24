@@ -25,7 +25,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Pâr. Gṛhj.** = Gṛhjasûtrâṇi Pâraskara.
 **Pat.** = Pataṅgali, как автор Mahâbhâshja; по выдержкам в издании Pâṇini Бётлингка.
 **Pat. Jogâç.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
-**Pent. (Lassen,)** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
+**Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** или **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
 **Praçnop.** = Praçnopanishad, по изданию Röer в Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, по цитатам в ÇKDr.
@@ -67,7 +67,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sâv.** = Sâvitrjupâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **Sch.** или **Schol.** = схолиаст.
 **Shaḍv. Br.** = Shaḍviṃçabrâhmaṇa.
-**Siddhântaçir.** = Siddhântaçiromaṇi, по цитатам в ÇKDr.
+**Siddhântaśir.** = Siddhântaçiromaṇi, по цитатам в ÇKDr.
 **Siddhântam.** = Siddhântamuktâvalî, по цитатам в ÇKDr.
 **Siddh. K.** = Siddhântakaumudî, Calc. издание в 4° (Gild. Bibl. 245).
 **Skanda-P.** = Skandapurâṇa.

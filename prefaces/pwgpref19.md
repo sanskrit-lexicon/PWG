@@ -31,7 +31,7 @@ PĀÇAKAK. = PĀÇAKAKEVALĪ in «Monatsberichte der Kön. Akademie der Wissensc
 
 RĀSHTRAPĀLAP. = RĀSHTRAPĀLAPARIPRIKKHĀ, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
-SADDH. P. (mit nachfolgender einfacher Zahl) = SADDHARMAPUNDARĪKA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
+SADDH. P. = SADDHARMAPUNDARĪKA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
 SOM. NAL. = Die Sage von NALA und DAMAJANTI nach der Bearbeitung des SOMADEVA herausgegeben von HERMANN BROCKHAUS. Leipzig 1859.
 

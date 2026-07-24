@@ -209,7 +209,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Ms.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
-**A Dict. Beng. and S. (Haughton,)** = A Dictionary Bengali and Sanskrit, explained in English.
+**A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.
 **Agnisv.** = Agnisvâmin, a scholiast of the Lâṭjâjana.
 **Âhnikat.** = Âhnikatattva.
 **Ait. Br.** = Aitarejabrâhmaṇa. Cited according to the 8 Pańḱikâ (an external division, into which the 40 Adhjâja formed on factual considerations are split) and the chapter numbers running continuously within the Pańḱikâ. Ms. Sâjana's Commentary thereto. Ms.
@@ -282,7 +282,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni in Böhtlingk, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Separate offprint from: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
 **Çântiç.** = Çihlana's Çântiçataka in Haeberlin's Anthology, p. 410. ff.
 **Çârńg.** = Çârńgadhara.
-**Çârńg. Paddh.** = Çârńgadhara's Paddhati; cf. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, p. 113. ff. or Mélanges asiatiques, T. I, p. 279. ff.
+**Śârńg. Paddh.** = Çârńgadhara's Paddhati; cf. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, p. 113. ff. or Mélanges asiatiques, T. I, p. 279. ff.
 **Çatar. Up.** = Çatarudrijopanishad.
 **Çat. Br.** = Çatapathabrâhmaṇa in the Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
 **Çaun. Kât.** = Çaunaka's Kâturâdhjâjikâ, cited according to Adhjâja and Sûtra. — Av. Prât.
@@ -296,7 +296,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Çṛńgârat.** = Çṛńgâratilaka, ed. Gildemeister (Gild. Bibl. 151).
 **Çvut.** = Çrautabodha in the Zeitschrift für die Kunde des Morgenlandes, IV, p. 60 ff. An adjacent Br. refers to the edition prepared by Brockhaus in his work: Ueber den Druck Sanskritischer Werke mit Lateinischen Buchstaben. Leipzig 1841.
 **Çuk. or Çukas.** = Çukasaptati in Lassen's Anthologie (Gild. Bibl. 48).
-**Çvetâçv. Up.** = Çvetâçvataropanishad in the Bibliotheca indica.
+**Śvetâśv. Up.** = Çvetâçvataropanishad in the Bibliotheca indica.
 **Daç.** = Daçaratha's Tod in Böhtlingk's Chrestomathie (Gild. Bibl. 49).
 **Daçak.** = Daçakumârakarita, ed. Wilson (Gild. Bibl. 236).
 **Dâj. or Dâjabh.** = Dâjabhâga, ed. Calc. 1829 (Gild. Bibl. 344).
@@ -304,7 +304,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Dev.** = Devîmâhâtmja, ed. Poley (Gild. Bibl. 130).
 **Dhar.** = Dharaṇikosha, a dictionary; according to citations in the ÇKDr.
 **Dhâtup.** = Dhâtupâṭha in Westergaard's Radices (Gild. Bibl. 42).
-**Dhjânav. Up.** = Dhjânavindûpanishad.
+**Dhyânav. Up.** = Dhjânavindûpanishad.
 **Divja-Av.** = Divjâvadâna, a Buddhist collection of legends.
 **Draup.** = Draupadîpramâtha, ed. Bopp (Gild. Bibl. 106).
 **Durgad.** = Durgadâsa.
@@ -323,7 +323,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Gorr.** = Gorresio.
 **Got. S.** = Gotama's Sûtrâni, see Njâja-S.
 **Govindabh.** = Govindabhaṭṭa.
-**Gṛhjasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka of 106 and 103 verses; cf. Roth, Zur L. u. G. d. W. p. 120. Ms.
+**Gṛhyasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka of 106 and 103 verses; cf. Roth, Zur L. u. G. d. W. p. 120. Ms.
 **H.** = Hemakandra's Abhidhânakintâmaṇi, a systematically arranged synonymic lexicon. Edited, translated and accompanied with annotations by Otto Böhtlingk and Charles Rieu. St. Petersburg 1847.
 **Haeb. Chrest.** = Kâvja-Sangraha. A Sanscrit Anthology, being A Collection of the best Smaller Poems in the Sanscrit language. By Dr. John Haeberlin. Calcutta: W. Thacker and Co. 1847.
 **Halâj.** = Halâjudha, a lexicographer; according to citations in the ÇKDr.
@@ -333,7 +333,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Hariv.** = Harivaṃça in the 4th volume of the MBh. From this work we have taken up the proper names with the use of the index in the Langlois translation (Gild. Bibl. 122).
 **H. ç.** = the Çesha's to Hemakandra's Abhidhânakintâmaṇi (see under H.), p. 421—443.
 **Hiḍ.** = Hiḍimbavadha in Bopp's Ardschuna's Reise zu Indra's Himmel, nebst anderen Episoden des Maha-Bharata. Berlin 1824.
-**Hindu Th. (Wilson,)** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
+**Hindu Th.** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
 **Hiouen-Thsang** = Histoire de la vie de Hiouen-Thsang et de ses voyages dans l'Inde, traduite du Chinois par Stanislas Julien. Paris 1853.
 **Hit.** = Hitopadeça, ed. Schlegel und Lassen (Gild. Bibl. 225). A Roman number following it denotes the book, an Arabic one — the page; the second number there denotes the Çloka, here the line.
 **Hit. Pr.** = Prooemium in the Hit.
@@ -344,7 +344,7 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 **Ind. des Kandjur** = Index des Kandjur. Herausgegeben von der Kaiserlichen Akademie der Wissenschaften und bevorwortet von I. J. Schmidt. St. Petersburg 1845.
 **Indr.** = Indralokâgamana in Bopp's Ardschuna's Reise zu Indra's Himmel etc.
 **Ind. St.** = Weber's Indische Studien.
-**Institutt. (Lassen,)** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
+**Institutt.** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
 
 II
 
@@ -400,10 +400,10 @@ II
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in the Bibliotheca indica.
 **Lâṭj.** = Lâṭjâjana's Sûtra to the SV. Ms.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [continued in the right column] [...]
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [continued in the right column] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Loiseleur Deslongchamps.
 **M.** = Manu's law book in the edition by Loiseleur Deslongchamps (Gild. Bibl. 289).
 **Maç. or Maç. S.** = Maçaka's Kalpasûtrâni.
@@ -422,7 +422,7 @@ II
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad in the Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ to the Mâṇḍ. Up. in the Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, see Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
 **Matsja-P.** = Matsjapurâṇa.
 **Matsjop.** = Matsjopâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). From p. 521 of the dictionary the first three books, from p. 601 also the last five, and from ऋ onward also the 13th book have been exploited.
@@ -465,7 +465,7 @@ II
 **Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtrâṇi.
 **Pat.** = Pataṅgali, as author of the Mahâbhâshja; after excerpts in Böhtlingk's edition of Pâṇini.
 **Pat. Jogâç.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
-**Pent. (Lassen,)** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
+**Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** or **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
 **Praçnop.** = Praçnopanishad, after the edition by Röer in the Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, after citations in the ÇKDr.
@@ -507,7 +507,7 @@ II
 **Sâv.** = Sâvitrjupâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **Sch.** or **Schol.** = Scholiast.
 **Shaḍv. Br.** = Shaḍviṃçabrâhmaṇa.
-**Siddhântaçir.** = Siddhântaçiromaṇi, after citations in the ÇKDr.
+**Siddhântaśir.** = Siddhântaçiromaṇi, after citations in the ÇKDr.
 **Siddhântam.** = Siddhântamuktâvalî, after citations in the ÇKDr.
 **Siddh. K.** = Siddhântakaumudî, the Calc. edition in 4° (Gild. Bibl. 245).
 **Skanda-P.** = Skandapurâṇa.
@@ -550,7 +550,7 @@ II
 ### Left column
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṃhitâ.
-**Varâh. L. Ǵât.** = Varâhamihira's Laghuǵâtaka.
+**Varâh. L. Jât.** = Varâhamihira's Laghuǵâtaka.
 **Vârtt.** = Vârttika by Kâtjâjana in Böhtlingk's edition of Pâṇini.
 **Vâsav.** = Vâsavadattâ; see Z. d. d. m. G. VIII, 530. ff.
 **ved.** = Vedic.
@@ -586,7 +586,7 @@ II
 **Z. f. d. W. d. Spr.** = Zeitschrift für die Wissenschaft der Sprache. Edited by Dr. A. Hoefer.
 **Z. f. vgl. Spr.** = Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, edited by Dr. Theodor Aufrecht and Dr. Adalbert Kuhn. Berlin.
 **Zur Geschichte u. s. w. (Lassen,)** = Zur Geschichte der Griechischen und Indoskythischen Könige in Baktrien, Kabul und Indien durch Entzifferung der Altkabulischen Legenden auf ihren Münzen, von Christian Lassen. Bonn 1838. 8°.
-**Zur L. u. G. d. W. (Roth,)** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
+**Zur L. u. G. d. W.** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
 
 [decorative end-rule; end of abbreviation list]
 
@@ -919,10 +919,10 @@ Tübingen, 14/26 October 1858.
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra; after communications from A. Weber.
 **Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. ibid. 1853.).
-**Juktikalpat.** = Juktikalpataru by Buoǵarâǵa; after citations in the ÇKDr.
+**Yuktikalpat.** = Juktikalpataru by Buoǵarâǵa; after citations in the ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. ibid. 1854. Also in the Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
-**Kâtj. Paddh.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra.
+**Kâty. Paddh.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra.
 **Kshur. Up.** = Kshurikopanishad.
 **Lalitam.** = Lalitamâdhava; after citations in the ÇKDr.
 **Lîlâv.** = Lîlâvatî.
@@ -938,9 +938,9 @@ Tübingen, 14/26 October 1858.
 **Molesw.** = A Dictionary Murathee and English by James T. Molesworth. Bombay 1831. 4°.
 **Muṇḍamâlât.** = Muṇḍamâlâtantra; after citations in the ÇKDr.
 **Nârâjanaḱakr.** = Nârâjanaḱakravartin, a schol. of the AK.; after citations in the ÇKDr.
-**Parâçarapaddh.** = Parâçarapaddhati; after citations in the ÇKDr.
+**Parâśarapaddh.** = Parâçarapaddhati; after citations in the ÇKDr.
 **Param. Up.** = Paramahaṃsopanishad.
-**Pathjâpathjav.** = Pathjâpathjaviveka; after citations in the ÇKDr.
+**Pathyâpathyav.** = Pathjâpathjaviveka; after citations in the ÇKDr.
 **Raghun.** = Raghunandanabhaṭṭâḱârja, a scholiast of the Tithjâditattva; after citations in the ÇKDr.
 **Ratnam.** = Ratnamâlâ, a dictionary. The following number refers to sections in a manuscript in Roth's possession.
 **Saṃskârat.** = Saṃskâratattva; after citations in the ÇKDr.

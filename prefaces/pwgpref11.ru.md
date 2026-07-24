@@ -14,7 +14,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ## Left column
 
 **Varâh. Bṛh. S.** = Bṛhatsaṃhitâ Varâhamihira.
-**Varâh. L. Ǵât.** = Laghuǵâtaka Varâhamihira.
+**Varâh. L. Jât.** = Laghuǵâtaka Varâhamihira.
 **Vârtt.** = Vârttika Kâtjâjana в издании Pâṇini Бётлингка.
 **Vâsav.** = Vâsavadattâ; см. Z. d. d. m. G. VIII, 530. сл.
 **ved.** = ведийский.
@@ -50,6 +50,6 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Z. f. d. W. d. Spr.** = Zeitschrift für die Wissenschaft der Sprache. Издано д-ром А. Хёфером.
 **Z. f. vgl. Spr.** = Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, издано д-ром Теодором Ауфрехтом и д-ром Адальбертом Куном. Berlin.
 **Zur Geschichte u. s. w. (Lassen,)** = Zur Geschichte der Griechischen und Indoskythischen Könige in Baktrien, Kabul und Indien durch Entzifferung der Altkabulischen Legenden auf ihren Münzen, von Christian Lassen. Bonn 1838. 8°.
-**Zur L. u. G. d. W. (Roth,)** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
+**Zur L. u. G. d. W.** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
 
 [decorative end-rule; end of abbreviation list]

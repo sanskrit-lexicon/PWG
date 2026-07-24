@@ -29,10 +29,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra; after communications from A. Weber.
 **Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. ibid. 1853.).
-**Juktikalpat.** = Juktikalpataru by Buoǵarâǵa; after citations in the ÇKDr.
+**Yuktikalpat.** = Juktikalpataru by Buoǵarâǵa; after citations in the ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. ibid. 1854. Also in the Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
-**Kâtj. Paddh.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra.
+**Kâty. Paddh.** = Jâǵnikadeva's Paddhati to Kâtjâjana's Çrautasûtra.
 **Kshur. Up.** = Kshurikopanishad.
 **Lalitam.** = Lalitamâdhava; after citations in the ÇKDr.
 **Lîlâv.** = Lîlâvatî.
@@ -48,9 +48,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Molesw.** = A Dictionary Murathee and English by James T. Molesworth. Bombay 1831. 4°.
 **Muṇḍamâlât.** = Muṇḍamâlâtantra; after citations in the ÇKDr.
 **Nârâjanaḱakr.** = Nârâjanaḱakravartin, a schol. of the AK.; after citations in the ÇKDr.
-**Parâçarapaddh.** = Parâçarapaddhati; after citations in the ÇKDr.
+**Parâśarapaddh.** = Parâçarapaddhati; after citations in the ÇKDr.
 **Param. Up.** = Paramahaṃsopanishad.
-**Pathjâpathjav.** = Pathjâpathjaviveka; after citations in the ÇKDr.
+**Pathyâpathyav.** = Pathjâpathjaviveka; after citations in the ÇKDr.
 **Raghun.** = Raghunandanabhaṭṭâḱârja, a scholiast of the Tithjâditattva; after citations in the ÇKDr.
 **Ratnam.** = Ratnamâlâ, a dictionary. The following number refers to sections in a manuscript in Roth's possession.
 **Saṃskârat.** = Saṃskâratattva; after citations in the ÇKDr.

@@ -15,7 +15,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
-**A Dict. Beng. and S. (Haughton,)** = A Dictionary Bengali and Sanskrit, explained in English.
+**A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.
 **Agnisv.** = Agnisvâmin, схолиаст Lâṭjâjana.
 **Âhnikat.** = Âhnikatattva.
 **Ait. Br.** = Aitarejabrâhmaṇa. Цитируется по 8 Pańḱikâ (внешнему разделению, на которое разбиты 40 Adhjâja, образованных по содержательным соображениям) и по номерам глав, идущим сквозной нумерацией внутри Pańḱikâ. Рук. Комментарий Sâjana к нему. Рук.

@@ -77,10 +77,11 @@ Digitizer running headers and the Cologne “Institute of Indology & Tamil Studi
 
 ## Translation policy
 
-- Source `.md` keeps 19th-c. German orthography (*Theil, Litteratur, dass, citirt, …*) and Böhtlingk–Roth romanization / Devanāgarī **as printed**.
+- Source `.md` keeps 19th-c. German orthography in **prose** (*Theil, Litteratur, dass, citirt, …*).
 - `.en.md` / `.ru.md` translate German prose scaffolding only.
-- Left **verbatim** in all languages: Sanskrit forms, personal names, work titles, bibliographic abbreviation keys, years, and reference numbers.
-- On abbreviation lists and addenda, only headings, notes, and glosses such as “instead of … read …” are rendered; keys and titles stay as printed.
+- Left **verbatim** in all languages: personal names, work **titles** in expansions, years, and reference numbers.
+- **Abbreviation keys (sigla):** aligned to the **human-edited body** `csl-orig/v02/pwg/pwg.txt` naming of the same works (H1569). OCR alone is not the authority for how a work is *named* in the legend. Every key rewrite is logged in the csl-guides change-log meta doc ([pwg_pref_key_body_align_changes.md](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/out/pwg_pref_key_body_align_changes.md)). Policy: [pref-body-naming-authority](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md).
+- On abbreviation lists and addenda, only headings, notes, and glosses such as “instead of … read …” are rendered in translation; keys follow the body-aligned source form.
 
 ---
 

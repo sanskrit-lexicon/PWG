@@ -54,10 +54,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara в Bibliotheca indica.
 **Lâṭj.** = Lâṭjâjana's Sûtra к SV. Рук.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Луазлёр Делоншан.
 **M.** = законодательный свод Manu в издании Луазлёра Делоншана (Gild. Bibl. 289).
 **Maç. или Maç. S.** = Maçaka's Kalpasûtrâni.
@@ -76,7 +76,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad в Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ к Mâṇḍ. Up. в Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, см. Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
 **Matsja-P.** = Matsjapurâṇa.
 **Matsjop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). С с. 521 словаря использованы первые три книги, с с. 601 также последние пять, начиная с ऋ также 13-я книга.
