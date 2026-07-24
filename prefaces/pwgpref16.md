@@ -27,10 +27,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Jâǵnikadeva's Paddhati zu Kâtjâjana's Çrautasûtra; nach Mittheilungen von A. Weber.
 **Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. ebend. 1853.).
-**Juktikalpat.** = Juktikalpataru von Buoǵarâǵa; nach Anführungen im ÇKDr.
+**Yuktikalpat.** = Juktikalpataru von Buoǵarâǵa; nach Anführungen im ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. ebend. 1854. Auch in der Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
-**Kâtj. Paddh.** = Jâǵnikadeva's Paddhati zu Kâtjâjana's Çrautasûtra.
+**Kâty. Paddh.** = Jâǵnikadeva's Paddhati zu Kâtjâjana's Çrautasûtra.
 **Kshur. Up.** = Kshurikopanishad.
 **Lalitam.** = Lalitamâdhava; nach Anführungen im ÇKDr.
 **Lîlâv.** = Lîlâvatî.
@@ -46,9 +46,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Molesw.** = A Dictionary Murathee and English by James T. Molesworth. Bombay 1831. 4°.
 **Muṇḍamâlât.** = Muṇḍamâlâtantra; nach Anführungen im ÇKDr.
 **Nârâjanaḱakr.** = Nârâjanaḱakravartin, ein Schol. des AK.; nach Anführungen im ÇKDr.
-**Parâçarapaddh.** = Parâçarapaddhati; nach Anführungen im ÇKDr.
+**Parâśarapaddh.** = Parâçarapaddhati; nach Anführungen im ÇKDr.
 **Param. Up.** = Paramahaṃsopanishad.
-**Pathjâpathjav.** = Pathjâpathjaviveka; nach Anführungen im ÇKDr.
+**Pathyâpathyav.** = Pathjâpathjaviveka; nach Anführungen im ÇKDr.
 **Raghun.** = Raghunandanabhaṭṭâḱârja, ein Scholiast des Tithjâditattva; nach Anführungen im ÇKDr.
 **Ratnam.** = Ratnamâlâ, ein Wörterbuch. Die folgende Zahl verweist auf Abschnitte in einer Hdschr., welche im Besitz von Roth ist.
 **Saṃskârat.** = Saṃskâratattva; nach Anführungen im ÇKDr.

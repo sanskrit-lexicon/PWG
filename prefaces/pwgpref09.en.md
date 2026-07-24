@@ -54,10 +54,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in the Bibliotheca indica.
 **Lâṭj.** = Lâṭjâjana's Sûtra to the SV. Ms.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [continued in the right column] [...]
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [continued in the right column] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Loiseleur Deslongchamps.
 **M.** = Manu's law book in the edition by Loiseleur Deslongchamps (Gild. Bibl. 289).
 **Maç. or Maç. S.** = Maçaka's Kalpasûtrâni.
@@ -76,7 +76,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad in the Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ to the Mâṇḍ. Up. in the Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, see Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
 **Matsja-P.** = Matsjapurâṇa.
 **Matsjop.** = Matsjopâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). From p. 521 of the dictionary the first three books, from p. 601 also the last five, and from ऋ onward also the 13th book have been exploited.

@@ -18,7 +18,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni in Böhtlingk, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Besonderer Abdruck aus: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
 **Çântiç.** = Çihlana's Çântiçataka in Haeberlin's Anthology, S. 410. fgg.
 **Çârńg.** = Çârńgadhara.
-**Çârńg. Paddh.** = Çârńgadhara's Paddhati; vgl. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, S. 113. fgg. oder Mélanges asiatiques, T. I, S. 279. fgg.
+**Śârńg. Paddh.** = Çârńgadhara's Paddhati; vgl. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, S. 113. fgg. oder Mélanges asiatiques, T. I, S. 279. fgg.
 **Çatar. Up.** = Çatarudrijopanishad.
 **Çat. Br.** = Çatapathabrâhmaṇa in der Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
 **Çaun. Kât.** = Çaunaka's Kâturâdhjâjikâ, citirt nach Adhjâja und Sûtra. — Av. Prât.
@@ -32,7 +32,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Çṛńgârat.** = Çṛńgâratilaka, ed. Gildemeister (Gild. Bibl. 151).
 **Çvut.** = Çrautabodha in der Zeitschrift für die Kunde des Morgenlandes, IV, S. 60 fgg. Ein dabeistehendes Br. verweist auf die von Brockhaus besorgte Ausgabe in seinem Werke: Ueber den Druck Sanskritischer Werke mit Lateinischen Buchstaben. Leipzig 1841.
 **Çuk. oder Çukas.** = Çukasaptati in Lassen's Anthologie (Gild. Bibl. 48).
-**Çvetâçv. Up.** = Çvetâçvataropanishad in der Bibliotheca indica.
+**Śvetâśv. Up.** = Çvetâçvataropanishad in der Bibliotheca indica.
 **Daç.** = Daçaratha's Tod in Böhtlingk's Chrestomathie (Gild. Bibl. 49).
 **Daçak.** = Daçakumârakarita, ed. Wilson (Gild. Bibl. 236).
 **Dâj. oder Dâjabh.** = Dâjabhâga, ed. Calc. 1829 (Gild. Bibl. 344).
@@ -40,7 +40,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Dev.** = Devîmâhâtmja, ed. Poley (Gild. Bibl. 130).
 **Dhar.** = Dharaṇikosha, ein Wörterbuch; nach Anführungen im ÇKDr.
 **Dhâtup.** = Dhâtupâṭha in Westergaard's Radices (Gild. Bibl. 42).
-**Dhjânav. Up.** = Dhjânavindûpanishad.
+**Dhyânav. Up.** = Dhjânavindûpanishad.
 **Divja-Av.** = Divjâvadâna, eine buddhistische Legendensammlung.
 **Draup.** = Draupadîpramâtha, ed. Bopp (Gild. Bibl. 106).
 **Durgad.** = Durgadâsa.
@@ -54,12 +54,12 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Gel. Anzz. d. k. b. Ak. d. Ww.** = Gelehrte Anzeigen. Herausgegeben von Mitgliedern der k. bayer. Akademie der Wissenschaften. München.
 **Ghaṭ.** = Ghaṭakarpara, ed. Calc. (Gild. Bibl. 162).
 **Gild. Bibl.** = Bibliothecae sanskritae sive recensus librorum sanskritorum hucusque typis vel lapide exscriptorum critici specimen. Concinnavit Joannes Gildemeister. Bonnae ad Rhenum 1847.
-**Gîr. oder Gîtag.** = Gîtagovinda, ed. Lassen (Gild. Bibl. 168).
+**Gîtag.** = Gîtagovinda, ed. Lassen (Gild. Bibl. 168).
 **Ǵjot.** = Ǵjotisha.
 **Gorr.** = Gorresio.
 **Got. S.** = Gotama's Sûtrâni, s. Njâja-S.
 **Govindabh.** = Govindabhaṭṭa.
-**Gṛhjasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka von 106 und 103 Versen; vgl. Roth, Zur L. u. G. d. W. S. 120. Hdschr.
+**Gṛhyasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka von 106 und 103 Versen; vgl. Roth, Zur L. u. G. d. W. S. 120. Hdschr.
 **H.** = Hemakandra's Abhidhânakintâmaṇi, ein systematisch angeordnetes synonymisches Lexicon. Herausgegeben, übersetzt und mit Anmerkungen begleitet von Otto Böhtlingk und Charles Rieu. St. Petersburg 1847.
 **Haeb. Chrest.** = Kâvja-Sangraha. A Sanscrit Anthology, being A Collection of the best Smaller Poems in the Sanscrit language. By Dr. John Haeberlin. Calcutta: W. Thacker and Co. 1847.
 **Halâj.** = Halâjudha, ein Lexicograph; nach Anführungen im ÇKDr.
@@ -69,7 +69,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Hariv.** = Harivaṃça im 4ten Bande des MBh. Aus diesem Werke haben wir die Nomina propria mit Benutzung des Index in der Langlois'schen Uebersetzung (Gild. Bibl. 122) aufgenommen.
 **H. ç.** = die Çesha's zu Hemakandra's Abhidhânakintâmaṇi (s. unter H.), S. 421—443.
 **Hiḍ.** = Hiḍimbavadha in Bopp's Ardschuna's Reise zu Indra's Himmel, nebst anderen Episoden des Maha-Bharata. Berlin 1824.
-**Hindu Th. (Wilson,)** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
+**Hindu Th.** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
 **Hiouen-Thsang** = Histoire de la vie de Hiouen-Thsang et de ses voyages dans l'Inde, traduite du Chinois par Stanislas Julien. Paris 1853.
 **Hit.** = Hitopadeça, ed. Schlegel und Lassen (Gild. Bibl. 225). Eine darauf folgende römische Zahl bezeichnet das Buch, eine arabische — die Seite; die zweite Zahl bezeichnet dort den Çloka, hier die Zeile.
 **Hit. Pr.** = Prooemium im Hit.
@@ -80,6 +80,6 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ind. des Kandjur** = Index des Kandjur. Herausgegeben von der Kaiserlichen Akademie der Wissenschaften und bevorwortet von I. J. Schmidt. St. Petersburg 1845.
 **Indr.** = Indralokâgamana in Bopp's Ardschuna's Reise zu Indra's Himmel u. s. w.
 **Ind. St.** = Weber's Indische Studien.
-**Institutt. (Lassen,)** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
+**Institutt.** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
 
 II

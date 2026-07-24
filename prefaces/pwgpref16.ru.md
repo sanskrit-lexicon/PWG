@@ -29,10 +29,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana; по сообщениям А. Вебера.
 **Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. там же 1853.).
-**Juktikalpat.** = Juktikalpataru от Buoǵarâǵa; по цитатам в ÇKDr.
+**Yuktikalpat.** = Juktikalpataru от Buoǵarâǵa; по цитатам в ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. там же 1854. Также в Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
-**Kâtj. Paddh.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana.
+**Kâty. Paddh.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana.
 **Kshur. Up.** = Kshurikopanishad.
 **Lalitam.** = Lalitamâdhava; по цитатам в ÇKDr.
 **Lîlâv.** = Lîlâvatî.
@@ -48,9 +48,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Molesw.** = A Dictionary Murathee and English by James T. Molesworth. Bombay 1831. 4°.
 **Muṇḍamâlât.** = Muṇḍamâlâtantra; по цитатам в ÇKDr.
 **Nârâjanaḱakr.** = Nârâjanaḱakravartin, схол. AK.; по цитатам в ÇKDr.
-**Parâçarapaddh.** = Parâçarapaddhati; по цитатам в ÇKDr.
+**Parâśarapaddh.** = Parâçarapaddhati; по цитатам в ÇKDr.
 **Param. Up.** = Paramahaṃsopanishad.
-**Pathjâpathjav.** = Pathjâpathjaviveka; по цитатам в ÇKDr.
+**Pathyâpathyav.** = Pathjâpathjaviveka; по цитатам в ÇKDr.
 **Raghun.** = Raghunandanabhaṭṭâḱârja, схолиаст Tithjâditattva; по цитатам в ÇKDr.
 **Ratnam.** = Ratnamâlâ, словарь. Следующее число отсылает к разделам в рукописи, находящейся во владении Рота.
 **Saṃskârat.** = Saṃskâratattva; по цитатам в ÇKDr.

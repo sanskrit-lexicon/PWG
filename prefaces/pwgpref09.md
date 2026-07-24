@@ -52,13 +52,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in der Bibliotheca indica.
 **Lâṭj.** = Lâṭjâjana's Sûtra zum SV. Hdschr.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [Fortsetzung in der rechten Spalte] [...]
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [Fortsetzung in der rechten Spalte] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Loiseleur Deslongchamps.
 **M.** = Manu's Gesetzbuch in der Ausg. von Loiseleur Deslongchamps (Gild. Bibl. 289).
-**Maç. oder Maç. S.** = Maçaka's Kalpasûtrâni.
+**Maç.** = Maçaka's Kalpasûtrâni.
 **Mâdhavak.** = Mâdhavakâra.
 **Mâdhj. Rec.** = Mâdhjaṃdina-Recension.
 **Madhus.** = Madhusûdanasarasvatî's Prasthânabheda in den Indischen Studien, I, S. 13—24.
@@ -74,7 +74,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad in der Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ zur Mâṇḍ. Up. in der Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, s. Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
 **Matsja-P.** = Matsjapurâṇa.
 **Matsjop.** = Matsjopâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). Von S. 521 des Wörterbuchs sind die drei ersten Bücher, von S. 601 auch die fünf letzten, von ऋ an auch das 13te Buch ausgebeutet worden.
