@@ -9,7 +9,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 Erklärung der im dritten Theile neu hinzugekommenen Abkürzungen.
 
-DAÇABH. = DAÇABHŪMIÇVARA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
+DAŚABH. = DAÇABHŪMIÇVARA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
 GOLD. MĀN. = MĀNAVA-KALPA-SŪTRA; being a portion of this ancient work on Vaidik rites, together with the Commentary of KUMĀRILA-SVĀMIN. With a preface by THEODOR GOLDSTÜCKER. London 1861.
 
@@ -17,11 +17,11 @@ JOURN. of the AM. OR. S. = Journal of the American Oriental Society.
 
 KALPADRUMĀV. = KALPADRUMĀVADĀNA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
-KĀPIÇĀV. = KĀPIÇĀVADĀNA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
+KĀPIŚĀV. = KĀPIÇĀVADĀNA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
 KAṬHINĀV. = KAṬHINĀVADĀNA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von Schiefner.
 
-KRIJĀSAM. = KRIJĀSAMUKKAJA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
+KRIYĀSAM. = KRIJĀSAMUKKAJA, handschriftlich in der Pariser Bibliothek, nach Mittheilungen von A. Schiefner.
 
 MUIR, Sanskr. Texts = Original Sanskrit Texts on the origin and progress of the Religion and Institutions of India; collected, translated into English, and illustrated by Notes. Chiefly for the use of students and others in India. By J. MUIR.
 

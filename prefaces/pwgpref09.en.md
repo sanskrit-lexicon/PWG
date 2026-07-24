@@ -10,13 +10,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 # Explanation of the Abbreviations.
 
 [Paris 1829.] (Continuation of the preceding entry)
-**Jaǵ. V.** = Jaǵurveda.
+**Yaj. V.** = Jaǵurveda.
 **Javaneçv.** = Javaneçvara.
 **Jogat.** = Jogatattva, see Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; see the Introduction to Böhtlingk's edition of the Pânini, p. LIII.
 **Kâdamb.** = Kâdambarî.
-**Kaij.** = Kaijaṭa, an expositor of Patańǵali's Mahâbhâshja.
+**Kaiy.** = Kaijaṭa, an expositor of Patańǵali's Mahâbhâshja.
 **Kaiv. Up.** = Kaivaljopanishad.
 **Kâlas.** = Kâlasańkalita, cited according to Haughton's dictionary.
 **Kâlid.** = Kâlidâsa.
@@ -28,7 +28,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kâṭh.** = Kâṭhaka recension of the Jaǵ. V.
 **Kathâs.** = Kathâsaritsâgara, ed. Brockhaus (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad in the Bibliotheca indica.
-**Kâtj.** = Kâtjâjana.
+**Kâty.** = Kâtjâjana.
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Ms.
 **Kâturbhú.** = Kâturbhuǵa, a scholiast of the Mahâbhârata; according to citations in Bopp's edition of the Nala (see under N.).
 **Kauç.** = Kauçika's Sûtra to the Atharvaveda. 14 Adhjâja. The Kaṇḍikâ are numbered continuously. Ms.
@@ -40,7 +40,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad in the Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, a work on metrics; according to citations in the ÇKDr.
-**Khând. Up.** = Khândogjopanishad, according to the edition by Röer in the Bibliotheca indica.
+**Chând. Up.** = Khândogjopanishad, according to the edition by Röer in the Bibliotheca indica.
 **\*Kir.** = Kirâtârǵunja, ed. Calc. (Gild. Bibl. 139).
 **Kos.** = Kosegarten.
 **Koshṭhîpr.** = Koshṭhîpradîpa, according to citations in the ÇKDr.
@@ -48,12 +48,12 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kumâras.** = Kumârasaṃbhava, ed. Stenzler (Gild. Bibl. 136).
 **Kunt.** = Kuntâpa, ten hymns which form a separate section of AV. Book 20.
 **Kûrma-P.** = Kûrmapurâṇa.
-**Kuvalaj.** = Kuvalajânanda (rhetoric) by Apjadîkshita with the commentary of Vaidjanâtha called Alaṃkârakandrikâ. Pûna 1846. 176 leaves oblong folio.
+**Kuvalay.** = Kuvalajânanda (rhetoric) by Apjadîkshita with the commentary of Vaidjanâtha called Alaṃkârakandrikâ. Pûna 1846. 176 leaves oblong folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
 **Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara in the Bibliotheca indica.
-**Lâṭj.** = Lâṭjâjana's Sûtra to the SV. Ms.
+**Lâṭy.** = Lâṭjâjana's Sûtra to the SV. Ms.
 **Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [continued in the right column] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
@@ -77,8 +77,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ to the Mâṇḍ. Up. in the Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, see Verz. d. Pet. H. No. 121.
 **Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
-**Matsja-P.** = Matsjapurâṇa.
-**Matsjop.** = Matsjopâkhjâna, ed. Bopp (Gild. Bibl. 106).
+**Matsya-P.** = Matsjapurâṇa.
+**Matsyop.** = Matsjopâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). From p. 521 of the dictionary the first three books, from p. 601 also the last five, and from ऋ onward also the 13th book have been exploited.
 **Med.** = Medinîkosha, ed. Calc. (Gild. Bibl. 258). The words are arranged primarily according to the last consonant in the word: thus कान्त (k), खान्त (kh), गान्त (g) etc. The particles (avjaja) form a separate section at the end, which we have denoted by avj.
 **Megh.** = Meghadûta, ed. Gildemeister (Gild. Bibl. 151).

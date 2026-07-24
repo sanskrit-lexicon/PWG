@@ -22,12 +22,12 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. A following Roman numeral denotes the book, an Arabic one — the page; the second number here denotes the line, there the Çloka.
 **Paṅkav. Br.** = Paṅkaviṃçabrâhmaṇa.
 **Parâç.** = Parâçara, author of a law book; after citations in Mit., Dâj. and ÇKDr.
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtrâṇi.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtrâṇi.
 **Pat.** = Pataṅgali, as author of the Mahâbhâshja; after excerpts in Böhtlingk's edition of Pâṇini.
 **Pat. Jogâç.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
 **Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** or **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
-**Praçnop.** = Praçnopanishad, after the edition by Röer in the Bibliotheca indica.
+**Praśnop.** = Praçnopanishad, after the edition by Röer in the Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, after citations in the ÇKDr.
 **Prât.** or **Prâtiç.** = Prâtiçâkhja.
 **Pravar.** or **Pravarâdhj.** = Pravarâdhjâja.
@@ -47,7 +47,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ratim.** = Ratimaṅgarî, a work on erotics; after citations in the ÇKDr.
 **Ratnak.** = Ratnakosha, a dictionary; after citations in the ÇKDr.
 **Ratnam.** = Ratnamâlâ, a dictionary; after citations in the ÇKDr.
-**ʼRatnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
+**Ratnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. It is cited by Maṇḍala, Sûkta and Ṛḱ. Rosen on RV. refers to the notes in: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
@@ -60,7 +60,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sâh. D.** = Sâhitjadarpaṇa, on the first 10 sheets after the edition of 1828 (Gild. Bibl. 264), on the following sheets, unless the year 1828 is expressly noted, after the edition by Röer in the Bibliotheca indica. A single number refers to the Kârikâ, a double one to page and line.
 **Sâj.** = Sâjana.
 **Saṅgîtad.** = Saṅgîtadâmodara (on music), after citations in the ÇKDr.
-**Sâṃkhjak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), making use of the index in Lassen's edition (Gild. Bibl. 270).
+**Sâṃkhyak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), making use of the index in Lassen's edition (Gild. Bibl. 270).
 **Sâras.** = Sârasundarî, a commentary on the Amarakosha; after citations in the ÇKDr.
 **Sarvop. S.** = Sarvopanishatsâra.
 **Saun.** = Saunâga, see the introduction to Böhtlingk's edition of Pâṇini, p. XLVI.
@@ -72,9 +72,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Siddh. K.** = Siddhântakaumudî, the Calc. edition in 4° (Gild. Bibl. 245).
 **Skanda-P.** = Skandapurâṇa.
 **St.** = Stenzler.
-**Suçr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); cited by volume, page and line. For the title of Hessler's translation see Gild. Bibl. 368.
+**Suśr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); cited by volume, page and line. For the title of Hessler's translation see Gild. Bibl. 368.
 **Sund.** = Sundopasundopâkhjâna, ed. Bopp (Gild. Bibl. 97).
-**Sûrjas.** = Sûrjasiddhânta, after citations in Haughton, A Dict. Beng. and S.
+**Sûryas.** = Sûrjasiddhânta, after citations in Haughton, A Dict. Beng. and S.
 **Suvarṇapr.** = Suvarṇaprabhâsa, a Buddhist work.
 **SV.** = Sâmaveda. Die Hymnen des Sâma-Veda, edited, translated and provided with a glossary by Theodor Benfey. Leipzig 1848. 8°. Benfey's division has been retained.
 **Taitt. Âr.** = Taittirîjâranjaka.
@@ -90,9 +90,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Uṇâdik.** = Uṇâdikosha, after citations in the ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
 **ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
-**Vaidj.** = Vaidjaka.
+**Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, a dictionary. Excerpts from it, cited in the scholia to Kir. and Çiç., we owe to Professor Stenzler.
-**Vâju-P.** = Vâjupurâṇa.
+**Vâyu-P.** = Vâjupurâṇa.
 **Vâḱasp.** = Vâḱaspati.
 **Vâlakh.** = Vâlakhilja, the songs inserted between RV. 8, 48 and 49.
 **Var.** = variant.

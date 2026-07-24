@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 Объяснение сокращений, вновь добавленных в третьем томе.
 
-DAÇABH. = DAÇABHŪMIÇVARA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+DAŚABH. = DAÇABHŪMIÇVARA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 GOLD. MĀN. = MĀNAVA-KALPA-SŪTRA; being a portion of this ancient work on Vaidik rites, together with the Commentary of KUMĀRILA-SVĀMIN. With a preface by THEODOR GOLDSTÜCKER. London 1861.
 
@@ -19,11 +19,11 @@ JOURN. of the AM. OR. S. = Journal of the American Oriental Society.
 
 KALPADRUMĀV. = KALPADRUMĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
-KĀPIÇĀV. = KĀPIÇĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+KĀPIŚĀV. = KĀPIÇĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 KAṬHINĀV. = KAṬHINĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям Шифнера.
 
-KRIJĀSAM. = KRIJĀSAMUKKAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+KRIYĀSAM. = KRIJĀSAMUKKAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 MUIR, Sanskr. Texts = Original Sanskrit Texts on the origin and progress of the Religion and Institutions of India; collected, translated into English, and illustrated by Notes. Chiefly for the use of students and others in India. By J. MUIR.
 

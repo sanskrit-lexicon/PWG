@@ -9,7 +9,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 (Gedruckte Werke aus der Sanskrit-Literatur, die nur ganz gelegentlich citirt werden, sind mit einem Sternchen bezeichnet.)
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Handschrift.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Handschrift.
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Hdschr.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
@@ -35,11 +35,11 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ârun. Up.** = Ârunikopanishad.
 **As. Res.** = Asiatick Researches; or, transactions of the Society instituted in Bengal, for inquiring into the History and Antiquities, the Arts, Sciences, and Literature, of Asia. London.
 **AV.** = Atharvavedasaṃhitâ, herausg. von R. Roth und W. D. Whitney. Berlin bei F. Dümmler. 1855. 8°. In den ersten Bogen des Wörterbuchs finden sich mehrere Citate, deren Zahlen mit der in der Ausgabe angenommenen Zählung nicht ganz zusammentreffen. Man kann den Unterschied dadurch ausgleichen, dass man in den zusammengesetzten Liedern (Parjâjasûkta), welche in der Ausgabe als Einheiten gezählt sind, die Unterabtheilungen (Strophen) als besondere Lieder zählt.
-**Avad. Çat.** = Avadânaçataka, eine buddhistische Legendensammlung.
+**Avad. Śat.** = Avadânaçataka, eine buddhistische Legendensammlung.
 **AV. Anukr.** = Anukramaṇikâ des Atharvaveda, 10 Paṭala. Hdschr.
 **avj.** = avjaja (s. Med.).
 
-**AV. Pariç.** = Pariçishṭa des Atharvaveda.
+**AV. Pariś.** = Pariçishṭa des Atharvaveda.
 **AV. Prât.** = Prâtiçâkhja zum Atharvaveda. Citirt nach Adhjâja und Sûtra. Hdschr. Siehe Roth's Einl. z. Nirukta, S. XLVII.
 **Bâlab.** = Bâlabodhanî in Windischmann's Sancara (Gild. Bibl. 275).
 **Benf. Chr.** = Benfey' Chrestomathie aus Sanskritwerken. Leipzig. 1853.

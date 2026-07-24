@@ -10,19 +10,19 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 # Explanation of the Abbreviations.
 
 **Çabdar.** = Çabdaratnâvali, a dictionary; according to citations in the ÇKDr.
-**Çabdârn.** = Çabdârnava, a dictionary; according to citations in the ÇKDr.
+**Śabdârn.** = Çabdârnava, a dictionary; according to citations in the ÇKDr.
 **Çâk.** = Çikuntala, the drama in the edition by Böhtlingk (Gild. Bibl. 191). A single number denotes the Çloka, a double one — page and line.
-**Çâk. Ch.** = Chezy's edition of the Çikuntala (Gild. Bibl. 187).
+**Śâk. Ch.** = Chezy's edition of the Çikuntala (Gild. Bibl. 187).
 **Çâńk. or Çâńkar.** = Çâńkara (a scholiast of the Çikuntala) and Çâńkarakârâ.
-**Çâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
+**Śâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
 **Çâńkh. Gṛhj.** = Çâńkhâjana's Gṛhjasûtrâni.
-**Çâńkh. Çr.** = Çâńkhâjana's Çrautasûtrâni.
+**Śâńkh. Śr.** = Çâńkhâjana's Çrautasûtrâni.
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni in Böhtlingk, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Separate offprint from: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
-**Çântiç.** = Çihlana's Çântiçataka in Haeberlin's Anthology, p. 410. ff.
-**Çârńg.** = Çârńgadhara.
+**Śântiś.** = Çihlana's Çântiçataka in Haeberlin's Anthology, p. 410. ff.
+**Śârńg.** = Çârńgadhara.
 **Śârńg. Paddh.** = Çârńgadhara's Paddhati; cf. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, p. 113. ff. or Mélanges asiatiques, T. I, p. 279. ff.
-**Çatar. Up.** = Çatarudrijopanishad.
-**Çat. Br.** = Çatapathabrâhmaṇa in the Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
+**Śatar. Up.** = Çatarudrijopanishad.
+**Śat. Br.** = Çatapathabrâhmaṇa in the Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
 **Çaun. Kât.** = Çaunaka's Kâturâdhjâjikâ, cited according to Adhjâja and Sûtra. — Av. Prât.
 **Çiç.** = Çiçupâlavadha, ed. Calc. (Gild. Bibl. 141).
 **Çiv.** = Çivanâmasahasra, in manuscript in the Asiatic Museum of the Imperial Academy of Sciences.
@@ -31,7 +31,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Colebr. Alg.** = Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmegupta and Bháscara. Translated by H. Th. Colebrooke. London 1817. According to citations in Haughton, A Dict. Beng. and S.
 **Colebr. Misc. Ess.** = Colebrooke's Miscellaneous Essays. 2 volumes. London 1837.
 **Çîdhar.** = Çîdharasvâmin, a scholiast of the Bhag.
-**Çṛńgârat.** = Çṛńgâratilaka, ed. Gildemeister (Gild. Bibl. 151).
+**Śṛńgârat.** = Çṛńgâratilaka, ed. Gildemeister (Gild. Bibl. 151).
 **Çvut.** = Çrautabodha in the Zeitschrift für die Kunde des Morgenlandes, IV, p. 60 ff. An adjacent Br. refers to the edition prepared by Brockhaus in his work: Ueber den Druck Sanskritischer Werke mit Lateinischen Buchstaben. Leipzig 1841.
 **Çuk. or Çukas.** = Çukasaptati in Lassen's Anthologie (Gild. Bibl. 48).
 **Śvetâśv. Up.** = Çvetâçvataropanishad in the Bibliotheca indica.
@@ -43,11 +43,11 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Dhar.** = Dharaṇikosha, a dictionary; according to citations in the ÇKDr.
 **Dhâtup.** = Dhâtupâṭha in Westergaard's Radices (Gild. Bibl. 42).
 **Dhyânav. Up.** = Dhjânavindûpanishad.
-**Divja-Av.** = Divjâvadâna, a Buddhist collection of legends.
+**Divya-Av.** = Divjâvadâna, a Buddhist collection of legends.
 **Draup.** = Draupadîpramâtha, ed. Bopp (Gild. Bibl. 106).
 **Durgad.** = Durgadâsa.
 
-**Gâb. Up.** = Gâbâlopanishad.
+**Jâb. Up.** = Gâbâlopanishad.
 **gaṇa.** = See the alphabetically arranged gaṇapâṭha in Böhtlingk's edition of the Pânini (Gild. Bibl. 244), p. LXXVII—CXXV.
 **Gaṇar.** = Gaṇaratnamahodadhi, see Böhtlingk, Einleitung zum Pânini (Gild. Bibl. 244), II, p. XXXIX.
 **Garbhop.** = Garbhopanishad.
@@ -57,7 +57,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ghaṭ.** = Ghaṭakarpara, ed. Calc. (Gild. Bibl. 162).
 **Gild. Bibl.** = Bibliothecae sanskritae sive recensus librorum sanskritorum hucusque typis vel lapide exscriptorum critici specimen. Concinnavit Joannes Gildemeister. Bonnae ad Rhenum 1847.
 **Gîr. or Gîtag.** = Gîtagovinda, ed. Lassen (Gild. Bibl. 168).
-**Ǵjot.** = Ǵjotisha.
+**Jyot.** = Ǵjotisha.
 **Gorr.** = Gorresio.
 **Got. S.** = Gotama's Sûtrâni, see Njâja-S.
 **Govindabh.** = Govindabhaṭṭa.
@@ -75,7 +75,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Hiouen-Thsang** = Histoire de la vie de Hiouen-Thsang et de ses voyages dans l'Inde, traduite du Chinois par Stanislas Julien. Paris 1853.
 **Hit.** = Hitopadeça, ed. Schlegel und Lassen (Gild. Bibl. 225). A Roman number following it denotes the book, an Arabic one — the page; the second number there denotes the Çloka, here the line.
 **Hit. Pr.** = Prooemium in the Hit.
-**Horâç.** = Horâçâstra.
+**Horâś.** = Horâçâstra.
 **Hort. beng.** = Hortus bengalensis. Serampore 1814. 8vo, cited according to Haughton's dictionary.
 **Hort. Calc.** = Hortus suburbanus Calcuttensis. A Catalogue of the plants etc. By the late J. O. Voigt. Calcutta 1845. 8°.
 **Îçop.** = Îçopanishad in the Bibliotheca indica.
