@@ -15,10 +15,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Bṛhaddharma-P.** = Bṛhaddharmapurâṇa; nach Anführungen im ÇKDr.
 **Çâkaṭ.** = Çâkaṭâjana, ein Schol. des Çâk.
 **Çatr.** = Çatruṅǵajamâhâtmja, nach den von A. Weber herausgegebenen Fragmenten in den Abhandlungen für die Kunde des Morgenlandes.
-**Çrâddhat.** = Çrâddhatattva; nach Anführungen im ÇKDr.
-**Çrâddhaviv.** = Çrâddhaviveka; nach Anführungen im ÇKDr.
+**Śrâddhat.** = Çrâddhatattva; nach Anführungen im ÇKDr.
+**Śrâddhaviv.** = Çrâddhaviveka; nach Anführungen im ÇKDr.
 **Devî-P.** = Devîpurâṇa; nach Anführungen im ÇKDr.
-**Drâhj.** = Drâhjâjana.
+**Drâhy.** = Drâhjâjana.
 **Durgârkât.** = Durgârkâtattva; nach Anführungen im ÇKDr.
 **Ǵaim.** = Ǵaimini (The Aphorisms of the Mîmânsâ Philosophy by Jaimini. With extracts from the commentaries. Allahabad 1851. In unserm Besitz nur ein Fragment von 36 Seiten.).
 **Gild. Scriptorum Arabum etc.** = Scriptorum Arabum de Rebus Indicis loci et opuscula inedita. Ad codicum Pariss. etc. fidem recensuit et illustravit J. Gildemeister. Bonnae MDCCCXXXVIII.
@@ -26,7 +26,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Gobh.** = Gobhila's Gṛhjasûtra; nach Mittheilungen von A. Weber.
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Jâǵnikadeva's Paddhati zu Kâtjâjana's Çrautasûtra; nach Mittheilungen von A. Weber.
-**Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. ebend. 1853.).
+**Yogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. ebend. 1853.).
 **Yuktikalpat.** = Juktikalpataru von Buoǵarâǵa; nach Anführungen im ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. ebend. 1854. Auch in der Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
@@ -57,7 +57,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sukhab.** = Sukhabodha; nach Anführungen im ÇKDr.
 **Tattvas.** = A Lecture on the Sânkhya Philosophy, embracing the text of the Tattwa Samâsa. Mirzapore 1850.
 **TBr.** = Taittirîjabrâhmaṇa.
-**Tithjâdit.** = Tithjâditattva; nach Anführungen im ÇKDr.
+**Tithyâdit.** = Tithjâditattva; nach Anführungen im ÇKDr.
 **Trans. R. A. S.** = The Transactions of the Royal Asiatic Society of Great Britain and Ireland; nach Anführungen bei Haughton.
 **Udvâhat.** = Udvâhatattva; nach Anführungen im ÇKDr.
 **Up. und Upak.** = Upakoçâ (Geschichte der; s. Gild. Bibl. 239).

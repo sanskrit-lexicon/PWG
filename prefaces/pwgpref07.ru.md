@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 (Печатные произведения санскритской литературы, которые цитируются лишь совсем изредка, отмечены звёздочкой.)
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
@@ -37,11 +37,11 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ârun. Up.** = Ârunikopanishad.
 **As. Res.** = Asiatick Researches; or, transactions of the Society instituted in Bengal, for inquiring into the History and Antiquities, the Arts, Sciences, and Literature, of Asia. London.
 **AV.** = Atharvavedasaṃhitâ, издано R. Roth и W. D. Whitney. Berlin у F. Dümmler. 1855. 8°. В первых листах словаря встречается несколько цитат, числа которых не вполне совпадают с принятой в издании нумерацией. Различие можно устранить, если в составных гимнах (Parjâjasûkta), которые в издании сосчитаны как единицы, считать подразделения (строфы) как отдельные гимны.
-**Avad. Çat.** = Avadânaçataka, буддийское собрание легенд.
+**Avad. Śat.** = Avadânaçataka, буддийское собрание легенд.
 **AV. Anukr.** = Anukramaṇikâ Атхарваведы, 10 Paṭala. Рук.
 **avj.** = avjaja (см. Med.).
 
-**AV. Pariç.** = Pariçishṭa Атхарваведы.
+**AV. Pariś.** = Pariçishṭa Атхарваведы.
 **AV. Prât.** = Prâtiçâkhja к Атхарваведе. Цитируется по Adhjâja и Sûtra. Рук. См. Введение Рота к Nirukta, с. XLVII.
 **Bâlab.** = Bâlabodhanî в Windischmann's Sancara (Gild. Bibl. 275).
 **Benf. Chr.** = Benfey' Chrestomathie aus Sanskritwerken. Leipzig. 1853.

@@ -20,12 +20,12 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. Eine darauf folgende römische Zahl bezeichnet das Buch, eine arabische — die Seite; die zweite Zahl bezeichnet hier die Zeile, dort den Çloka.
 **Paṅkav. Br.** = Paṅkaviṃçabrâhmaṇa.
 **Parâç.** = Parâçara, Verfasser eines Gesetzbuchs; nach Anführungen in Mit., Dâj. und ÇKDr.
-**Pâr. Gṛhj.** = Pâraskara's Gṛhjasûtrâṇi.
+**Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtrâṇi.
 **Pat.** = Pataṅgali, als Verfasser des Mahâbhâshja; nach Excerpten in Böhtlingk's Ausgabe des Pâṇini.
 **Pat. Jogâç.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
 **Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** oder **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
-**Praçnop.** = Praçnopanishad, nach der Ausgabe von Röer in der Bibliotheca indica.
+**Praśnop.** = Praçnopanishad, nach der Ausgabe von Röer in der Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, nach Anführungen im ÇKDr.
 **Prât.** oder **Prâtiç.** = Prâtiçâkhja.
 **Pravar.** oder **Pravarâdhj.** = Pravarâdhjâja.
@@ -45,7 +45,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ratim.** = Ratimaṅgarî, ein Werk über Erotik; nach Anführungen im ÇKDr.
 **Ratnak.** = Ratnakosha, ein Wörterbuch; nach Anführungen im ÇKDr.
 **Ratnam.** = Ratnamâlâ, ein Wörterbuch; nach Anführungen im ÇKDr.
-**ʼRatnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
+**Ratnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. Es wird nach Maṇḍala, Sûkta und Ṛḱ citirt. Rosen zu RV. verweist auf die Anmerkungen in: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
@@ -58,7 +58,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sâh. D.** = Sâhitjadarpaṇa, auf den 10 ersten Bogen nach der Ausgabe von 1828 (Gild. Bibl. 264), auf den folgenden Bogen, wenn nicht die Jahreszahl 1828 ausdrücklich bemerkt wird, nach der Ausgabe von Röer in der Bibliotheca indica. Eine einfache Zahl verweist auf die Kârikâ, eine doppelte auf Seite und Zeile.
 **Sâj.** = Sâjana.
 **Saṅgîtad.** = Saṅgîtadâmodara (über Musik), nach Anführungen im ÇKDr.
-**Sâṃkhjak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), mit Benutzung des Index in Lassen's Ausgabe (Gild. Bibl. 270).
+**Sâṃkhyak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), mit Benutzung des Index in Lassen's Ausgabe (Gild. Bibl. 270).
 **Sâras.** = Sârasundarî, ein Commentar zum Amarakosha; nach Anführungen im ÇKDr.
 **Sarvop. S.** = Sarvopanishatsâra.
 **Saun.** = Saunâga, s. die Einleitung zu Böhtlingk's Ausgabe des Pâṇini, S. XLVI.
@@ -70,9 +70,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Siddh. K.** = Siddhântakaumudî, die Calc. Ausg. in 4° (Gild. Bibl. 245).
 **Skanda-P.** = Skandapurâṇa.
 **St.** = Stenzler.
-**Suçr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); citirt nach Band, Seite und Zeile. Den Titel der Hessler'schen Uebersetzung s. bei Gild. Bibl. 368.
+**Suśr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); citirt nach Band, Seite und Zeile. Den Titel der Hessler'schen Uebersetzung s. bei Gild. Bibl. 368.
 **Sund.** = Sundopasundopâkhjâna, ed. Bopp (Gild. Bibl. 97).
-**Sûrjas.** = Sûrjasiddhânta, nach Anführungen in Haughton, A Dict. Beng. and S.
+**Sûryas.** = Sûrjasiddhânta, nach Anführungen in Haughton, A Dict. Beng. and S.
 **Suvarṇapr.** = Suvarṇaprabhâsa, ein buddhistisches Werk.
 **SV.** = Sâmaveda. Die Hymnen des Sâma-Veda, herausgegeben, übersetzt und mit Glossar versehen von Theodor Benfey. Leipzig 1848. 8°. Die Eintheilung Benfey's ist beibehalten.
 **Taitt. Âr.** = Taittirîjâranjaka.
@@ -88,9 +88,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Uṇâdik.** = Uṇâdikosha, nach Anführungen im ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
 **ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
-**Vaidj.** = Vaidjaka.
+**Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, ein Wörterbuch. Excerpte daraus, angeführt in den Scholien zu Kir. und Çiç., verdanken wir Professor Stenzler.
-**Vâju-P.** = Vâjupurâṇa.
+**Vâyu-P.** = Vâjupurâṇa.
 **Vâḱasp.** = Vâḱaspati.
 **Vâlakh.** = Vâlakhilja, die zwischen RV. 8, 48 und 49 eingeschobenen Lieder.
 **Var.** = Variante.

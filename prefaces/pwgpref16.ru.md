@@ -17,10 +17,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Bṛhaddharma-P.** = Bṛhaddharmapurâṇa; по цитатам в ÇKDr.
 **Çâkaṭ.** = Çâkaṭâjana, схол. Çâk.
 **Çatr.** = Çatruṅǵajamâhâtmja, по фрагментам, изданным А. Вебером в Abhandlungen für die Kunde des Morgenlandes.
-**Çrâddhat.** = Çrâddhatattva; по цитатам в ÇKDr.
-**Çrâddhaviv.** = Çrâddhaviveka; по цитатам в ÇKDr.
+**Śrâddhat.** = Çrâddhatattva; по цитатам в ÇKDr.
+**Śrâddhaviv.** = Çrâddhaviveka; по цитатам в ÇKDr.
 **Devî-P.** = Devîpurâṇa; по цитатам в ÇKDr.
-**Drâhj.** = Drâhjâjana.
+**Drâhy.** = Drâhjâjana.
 **Durgârkât.** = Durgârkâtattva; по цитатам в ÇKDr.
 **Ǵaim.** = Ǵaimini (The Aphorisms of the Mîmânsâ Philosophy by Jaimini. With extracts from the commentaries. Allahabad 1851. В нашем распоряжении только фрагмент в 36 страниц.).
 **Gild. Scriptorum Arabum etc.** = Scriptorum Arabum de Rebus Indicis loci et opuscula inedita. Ad codicum Pariss. etc. fidem recensuit et illustravit J. Gildemeister. Bonnae MDCCCXXXVIII.
@@ -28,7 +28,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Gobh.** = Gṛhjasûtra Gobhila; по сообщениям А. Вебера.
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana; по сообщениям А. Вебера.
-**Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. там же 1853.).
+**Yogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. там же 1853.).
 **Yuktikalpat.** = Juktikalpataru от Buoǵarâǵa; по цитатам в ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. там же 1854. Также в Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
@@ -59,7 +59,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Sukhab.** = Sukhabodha; по цитатам в ÇKDr.
 **Tattvas.** = A Lecture on the Sânkhya Philosophy, embracing the text of the Tattwa Samâsa. Mirzapore 1850.
 **TBr.** = Taittirîjabrâhmaṇa.
-**Tithjâdit.** = Tithjâditattva; по цитатам в ÇKDr.
+**Tithyâdit.** = Tithjâditattva; по цитатам в ÇKDr.
 **Trans. R. A. S.** = The Transactions of the Royal Asiatic Society of Great Britain and Ireland; по цитатам у Haughton.
 **Udvâhat.** = Udvâhatattva; по цитатам в ÇKDr.
 **Up. und Upak.** = Upakoçâ (История; см. Gild. Bibl. 239).

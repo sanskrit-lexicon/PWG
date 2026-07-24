@@ -10,13 +10,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 # Объяснение сокращений.
 
 [Paris 1829.] (Продолжение предыдущей записи)
-**Jaǵ. V.** = Jaǵurveda.
+**Yaj. V.** = Jaǵurveda.
 **Javaneçv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бётлингком, с. LIII.
 **Kâdamb.** = Kâdambarî.
-**Kaij.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
+**Kaiy.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
 **Kaiv. Up.** = Kaivaljopanishad.
 **Kâlas.** = Kâlasańkalita, цитируется по словарю Хотона.
 **Kâlid.** = Kâlidâsa.
@@ -28,7 +28,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kâṭh.** = Kâṭhaka-редакция Jaǵ. V.
 **Kathâs.** = Kathâsaritsâgara, ed. Брокгауза (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad в Bibliotheca indica.
-**Kâtj.** = Kâtjâjana.
+**Kâty.** = Kâtjâjana.
 **Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
 **Kâturbhú.** = Kâturbhuǵa, схолиаст Mahâbhârata; по ссылкам в издании Nala, выполненном Боппом (см. под N.).
 **Kauç.** = Kauçika's Sûtra к Атхарваведе. 14 Adhjâja. Kaṇḍikâ пронумерованы сквозным образом. Рук.
@@ -40,7 +40,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad в Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, труд по метрике; по ссылкам в ÇKDr.
-**Khând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
+**Chând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
 **\*Kir.** = Kirâtârǵunja, ed. Calc. (Gild. Bibl. 139).
 **Kos.** = Kosegarten.
 **Koshṭhîpr.** = Koshṭhîpradîpa, по ссылкам в ÇKDr.
@@ -48,12 +48,12 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kumâras.** = Kumârasaṃbhava, ed. Штенцлера (Gild. Bibl. 136).
 **Kunt.** = Kuntâpa, десять гимнов, которые образуют особый раздел AV. Книги 20.
 **Kûrma-P.** = Kûrmapurâṇa.
-**Kuvalaj.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
+**Kuvalay.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
 **Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara в Bibliotheca indica.
-**Lâṭj.** = Lâṭjâjana's Sûtra к SV. Рук.
+**Lâṭy.** = Lâṭjâjana's Sûtra к SV. Рук.
 **Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
@@ -77,8 +77,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ к Mâṇḍ. Up. в Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, см. Verz. d. Pet. H. No. 121.
 **Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
-**Matsja-P.** = Matsjapurâṇa.
-**Matsjop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
+**Matsya-P.** = Matsjapurâṇa.
+**Matsyop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). С с. 521 словаря использованы первые три книги, с с. 601 также последние пять, начиная с ऋ также 13-я книга.
 **Med.** = Medinîkosha, ed. Calc. (Gild. Bibl. 258). Слова расположены прежде всего по последнему согласному в слове: то есть कान्त (k), खान्त (kh), गान्त (g) и т. д. Частицы (avjaja) образуют особый раздел в конце, который мы обозначили через avj.
 **Megh.** = Meghadûta, ed. Гильдемейстера (Gild. Bibl. 151).

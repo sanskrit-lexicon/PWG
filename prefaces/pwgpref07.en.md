@@ -11,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 (Printed works from Sanskrit literature that are cited only very occasionally are marked with an asterisk.)
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Manuscript.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Manuscript.
 **Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Ms.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
@@ -37,11 +37,11 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Ârun. Up.** = Ârunikopanishad.
 **As. Res.** = Asiatick Researches; or, transactions of the Society instituted in Bengal, for inquiring into the History and Antiquities, the Arts, Sciences, and Literature, of Asia. London.
 **AV.** = Atharvavedasaṃhitâ, edited by R. Roth and W. D. Whitney. Berlin at F. Dümmler. 1855. 8°. In the first sheets of the dictionary there are several citations whose numbers do not quite agree with the numbering adopted in the edition. The difference can be reconciled by counting, in the composite hymns (Parjâjasûkta) which are counted as units in the edition, the subdivisions (strophes) as separate hymns.
-**Avad. Çat.** = Avadânaçataka, a Buddhist collection of legends.
+**Avad. Śat.** = Avadânaçataka, a Buddhist collection of legends.
 **AV. Anukr.** = Anukramaṇikâ of the Atharvaveda, 10 Paṭala. Ms.
 **avj.** = avjaja (see Med.).
 
-**AV. Pariç.** = Pariçishṭa of the Atharvaveda.
+**AV. Pariś.** = Pariçishṭa of the Atharvaveda.
 **AV. Prât.** = Prâtiçâkhja to the Atharvaveda. Cited according to Adhjâja and Sûtra. Ms. See Roth's Introduction to the Nirukta, p. XLVII.
 **Bâlab.** = Bâlabodhanî in Windischmann's Sancara (Gild. Bibl. 275).
 **Benf. Chr.** = Benfey' Chrestomathie aus Sanskritwerken. Leipzig. 1853.

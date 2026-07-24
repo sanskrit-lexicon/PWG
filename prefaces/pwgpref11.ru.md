@@ -18,19 +18,19 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Vârtt.** = Vârttika Kâtjâjana в издании Pâṇini Бётлингка.
 **Vâsav.** = Vâsavadattâ; см. Z. d. d. m. G. VIII, 530. сл.
 **ved.** = ведийский.
-**ʼVedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
+**Vedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
 **Veda-P.** = Vedapurâṇa.
 **Verz. d. B. H.** = Каталог берлинских санскритских рукописей Вебера. Образует первый том: Die Handschriften-Verzeichnisse der Königlichen Bibliothek, изданный королевским главным библиотекарем, тайным правительственным советником д-ром Перцем. Berlin 1853. 8°.
 **Verz. d. Kopenh. H.** = Каталог копенгагенских санскритских рукописей Вестергора в: Codices orientales bibliothecae regiae Havniensis jussu et auspiciis regis Daniae augustissimi Christiani octavi enumerati et descripti. Pars prior, codices indicos continens. Havniae 1846. 4°.
 **Verz. d. Pet. H.** = Каталог петербургских санскритских рукописей Бётлингка в: Dorn, das Asiatische Museum der Kais. Akad. der Wiss. St. Petersburg 1846. с. 720. сл.
 **Vet.** = Vetâlapaṅḱaviṃçati в антологии Лассена (LA).
-**Viçv.** = Viçvâmitra's Kampf в хрестоматии Бётлингка.
+**Viśv.** = Viçvâmitra's Kampf в хрестоматии Бётлингка.
 **Vid.** = История Vidûshaka в хрестоматии Бётлингка.
 **Vikr.** или **Vikram.** = Vikramorvaçî, ed. Bollensen (Gild. Bibl. 206). Простое число отсылает к Çloka, двойное — к странице и строке.
-**ʼVîram.** = Vîramitrodaja.
+**Vîram.** = Vîramitrodaja.
 **ʼVivâdaḱ.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
 **ʼVjavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
-**Vjutp.** = Vjutpatti или Mahâvjutpatti (см. Mél. asiat. II, 382), санскритско-тибетский словарь из Taṅgur (т. 123 Sûtra, с. 223—377). Сообщениями из этого сочинения, а также другими заметками, относящимися к буддизму, мы обязаны А. Шифнеру.
+**Vyutp.** = Vjutpatti или Mahâvjutpatti (см. Mél. asiat. II, 382), санскритско-тибетский словарь из Taṅgur (т. 123 Sûtra, с. 223—377). Сообщениями из этого сочинения, а также другими заметками, относящимися к буддизму, мы обязаны А. Шифнеру.
 
 [decorative end-rule; left column ends here, lower half blank]
 
