@@ -16,7 +16,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Nîl.** или **Nîlak.** = Nîlakaṇṭha, схолиаст Mahâbhârata (цитируется в боппском издании Nala) и также AK. (цитируется в ÇKDr.).
 **Nir.** = Nirukta Jâska вместе с Nighaṇṭava, издано и истолковано Рудольфом Ротом. Göttingen 1852.
 **Nîtipr.** = Nîtipradîpa в Haeb. Chr. с. 526—528.
-**ʼNjâja-S.** = Njâjasûtrâṇi Gotama, ed. Calc. (Gild. Bibl. 274).
+**Nyâya-S.** = Njâjasûtrâṇi Gotama, ed. Calc. (Gild. Bibl. 274).
 **P.** = восемь книг грамматических правил Pâṇini (Gild. Bibl. 244).
 **Padap.** = Padapâṭha.
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. Следующая римская цифра обозначает книгу, арабская — страницу; второе число здесь обозначает строку, там — Çloka.
@@ -24,13 +24,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Parâç.** = Parâçara, автор свода законов; по цитатам в Mit., Dâj. и ÇKDr.
 **Pâr. Gṛhy.** = Gṛhjasûtrâṇi Pâraskara.
 **Pat.** = Pataṅgali, как автор Mahâbhâshja; по выдержкам в издании Pâṇini Бётлингка.
-**Pat. Jogâç.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
+**Pat. Yogâś.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
 **Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** или **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
 **Praśnop.** = Praçnopanishad, по изданию Röer в Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, по цитатам в ÇKDr.
-**Prât.** или **Prâtiç.** = Prâtiçâkhja.
-**Pravar.** или **Pravarâdhj.** = Pravarâdhjâja.
+**Prât.** или **Prâtiś.** = Prâtiçâkhja.
+**Pravar.** или **Pravarâdhy.** = Pravarâdhjâja.
 **Pur.** = Purâṇa.
 **Purush.** = Purushottama, лексикограф (среди прочего также автор Trik. и Hâr.); по цитатам в ÇKDr.
 **Pushpas.** = Pushpasûtra.
@@ -51,7 +51,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. Цитируется по Maṇḍala, Sûkta и Ṛḱ. Rosen к RV. отсылает к примечаниям в: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
-**RV. Prât.** или **Prâtiç.** = Prâtiçâkhja к Ṛgveda, цитируется по Paṭala и стихам. Рукопись. См. Рот во Введении к Nir. с. XLVII.
+**RV. Prât.** или **Prâtiś.** = Prâtiçâkhja к Ṛgveda, цитируется по Paṭala и стихам. Рукопись. См. Рот во Введении к Nir. с. XLVII.
 **Saddh. L.** = Saddharmalaṅkâvatâra.
 
 ## Right column
@@ -81,15 +81,15 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Taitt. Br.** = Taittirîjabrâhmaṇa.
 **Taitt. Prât.** = Prâtiçâkhja к Taittirîjasaṃhitâ. См. Рот во Введении к Nir. с. XLVII.
 **Tantras.** = Tantrasâra, по цитатам в ÇKDr.
-**Teǵov. Up.** = Teǵovindûpanishad.
-**Tib. Lebensb. Çâkj.** = Тибетское жизнеописание Çâkjamuni, оригинал приведённой выше под Lebensb. (Schiefner) выдержки.
+**Tejov. Up.** = Teǵovindûpanishad.
+**Tib. Lebensb. Śâky.** = Тибетское жизнеописание Çâkjamuni, оригинал приведённой выше под Lebensb. (Schiefner) выдержки.
 **Trik.** = Trikâṇḍaçesha, ed. Calc. (Gild. Bibl. 258).
 **TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, разделённых на Praçna, Anuvâka и Kaṇḍikâ. Последние обозначают не разделы предложений, а охватывают каждый по 50 слов. Рукопись.
 **TS. Anukr.** = Anukramaṇikâ к TS. Рукопись.
 **Uṇ.** = Uṇâdi-аффиксы. Издано и снабжено примечаниями и различными индексами Отто Бётлингком. St. Petersburg 1844.
 **Uṇâdik.** = Uṇâdikosha, по цитатам в ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
-**ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
+**Utt. Râmac.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
 **Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, словарь. Выдержками из него, цитируемыми в схолиях к Kir. и Çiç., мы обязаны профессору Штенцлеру.
 **Vâyu-P.** = Vâjupurâṇa.

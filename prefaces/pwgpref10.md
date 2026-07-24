@@ -14,7 +14,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Nîl.** oder **Nîlak.** = Nîlakaṇṭha, ein Scholiast des Mahâbhârata (angeführt in Bopp's Ausgabe des Nala) und auch des AK. (angeführt im ÇKDr.).
 **Nir.** = Jâska's Nirukta sammt den Nighaṇṭava's herausgegeben und erklärt von Rudolph Roth. Göttingen 1852.
 **Nîtipr.** = Nîtipradîpa in Haeb. Chr. S. 526—528.
-**ʼNjâja-S.** = Gotama's Njâjasûtrâṇi, ed. Calc. (Gild. Bibl. 274).
+**Nyâya-S.** = Gotama's Njâjasûtrâṇi, ed. Calc. (Gild. Bibl. 274).
 **P.** = Pâṇini's acht Bücher grammatischer Regeln (Gild. Bibl. 244).
 **Padap.** = Padapâṭha.
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. Eine darauf folgende römische Zahl bezeichnet das Buch, eine arabische — die Seite; die zweite Zahl bezeichnet hier die Zeile, dort den Çloka.
@@ -22,13 +22,13 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Parâç.** = Parâçara, Verfasser eines Gesetzbuchs; nach Anführungen in Mit., Dâj. und ÇKDr.
 **Pâr. Gṛhy.** = Pâraskara's Gṛhjasûtrâṇi.
 **Pat.** = Pataṅgali, als Verfasser des Mahâbhâshja; nach Excerpten in Böhtlingk's Ausgabe des Pâṇini.
-**Pat. Jogâç.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
+**Pat. Yogâś.** = Pataṅgali's Jogâçâstra, ed. Ballantyne, Allahabad 1853.
 **Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** oder **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
 **Praśnop.** = Praçnopanishad, nach der Ausgabe von Röer in der Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, nach Anführungen im ÇKDr.
-**Prât.** oder **Prâtiç.** = Prâtiçâkhja.
-**Pravar.** oder **Pravarâdhj.** = Pravarâdhjâja.
+**Prât.** oder **Prâtiś.** = Prâtiçâkhja.
+**Pravar.** oder **Pravarâdhy.** = Pravarâdhjâja.
 **Pur.** = Purâṇa.
 **Purush.** = Purushottama, ein Lexicograph (unter Anderm auch Verfasser des Trik. und der Hâr.); nach Anführungen im ÇKDr.
 **Pushpas.** = Pushpasûtra.
@@ -49,7 +49,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. Es wird nach Maṇḍala, Sûkta und Ṛḱ citirt. Rosen zu RV. verweist auf die Anmerkungen in: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
-**RV. Prât.** oder **Prâtiç.** = Prâtiçâkhja zum Ṛgveda, citirt nach Paṭala und Versen. Hdschr. S. Roth in der Einl. z. Nir. S. XLVII.
+**RV. Prât.** oder **Prâtiś.** = Prâtiçâkhja zum Ṛgveda, citirt nach Paṭala und Versen. Hdschr. S. Roth in der Einl. z. Nir. S. XLVII.
 **Saddh. L.** = Saddharmalaṅkâvatâra.
 
 ## Right column
@@ -79,15 +79,15 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Taitt. Br.** = Taittirîjabrâhmaṇa.
 **Taitt. Prât.** = Prâtiçâkhja zur Taittirîjasaṃhitâ. S. Roth in der Einl. z. Nir. S. XLVII.
 **Tantras.** = Tantrasâra, nach Anführungen im ÇKDr.
-**Teǵov. Up.** = Teǵovindûpanishad.
-**Tib. Lebensb. Çâkj.** = Tibetische Lebensbeschreibung Çâkjamuni's, das Original von dem oben unter Lebensb. (Schiefner) aufgeführten Auszuge.
+**Tejov. Up.** = Teǵovindûpanishad.
+**Tib. Lebensb. Śâky.** = Tibetische Lebensbeschreibung Çâkjamuni's, das Original von dem oben unter Lebensb. (Schiefner) aufgeführten Auszuge.
 **Trik.** = Trikâṇḍaçesha, ed. Calc. (Gild. Bibl. 258).
 **TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, eingetheilt in Praçna, Anuvâka und Kaṇḍikâ. Die letzten bezeichnen nicht Satzabschnitte, sondern umfassen je 50 Wörter. Hdschr.
 **TS. Anukr.** = Anukramaṇikâ der TS. Hdschr.
 **Uṇ.** = Die Uṇâdi-Affixe. Herausgegeben und mit Anmerkungen und verschiedenen Indices versehen von Otto Böhtlingk. St. Petersburg 1844.
 **Uṇâdik.** = Uṇâdikosha, nach Anführungen im ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
-**ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
+**Utt. Râmac.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
 **Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, ein Wörterbuch. Excerpte daraus, angeführt in den Scholien zu Kir. und Çiç., verdanken wir Professor Stenzler.
 **Vâyu-P.** = Vâjupurâṇa.

@@ -12,7 +12,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 (Printed works from Sanskrit literature that are cited only very occasionally are marked with an asterisk.)
 
 **Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Manuscript.
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Ms.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Ms.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
 **A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.

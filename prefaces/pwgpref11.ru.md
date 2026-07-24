@@ -28,8 +28,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Vid.** = История Vidûshaka в хрестоматии Бётлингка.
 **Vikr.** или **Vikram.** = Vikramorvaçî, ed. Bollensen (Gild. Bibl. 206). Простое число отсылает к Çloka, двойное — к странице и строке.
 **Vîram.** = Vîramitrodaja.
-**ʼVivâdaḱ.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
-**ʼVjavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
+**Vivâdac.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
+**Vyavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
 **Vyutp.** = Vjutpatti или Mahâvjutpatti (см. Mél. asiat. II, 382), санскритско-тибетский словарь из Taṅgur (т. 123 Sûtra, с. 223—377). Сообщениями из этого сочинения, а также другими заметками, относящимися к буддизму, мы обязаны А. Шифнеру.
 
 [decorative end-rule; left column ends here, lower half blank]

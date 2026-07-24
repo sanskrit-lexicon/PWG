@@ -15,7 +15,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Śâk. Ch.** = издание Çikuntala, выполненное Шези (Gild. Bibl. 187).
 **Çâńk. или Çâńkar.** = Çâńkara (схолиаст Çikuntala) и Çâńkarakârâ.
 **Śâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
-**Çâńkh. Gṛhj.** = Çâńkhâjana's Gṛhjasûtrâni.
+**Śâńkh. Gṛhy.** = Çâńkhâjana's Gṛhjasûtrâni.
 **Śâńkh. Śr.** = Çâńkhâjana's Çrautasûtrâni.
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni в Бётлингк, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Отдельный оттиск из: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
 **Śântiś.** = Çihlana's Çântiçataka в Haeberlin's Anthology, с. 410. и сл.
