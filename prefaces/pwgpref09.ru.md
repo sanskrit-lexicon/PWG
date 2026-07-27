@@ -9,8 +9,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # Объяснение сокращений.
 
-[Paris 1829.] (Продолжение предыдущей записи)
-**Yaj. V.** = Jaǵurveda.
+**Itih.** = Itihâsa.
+**Jâǵń.** = законодательный свод Jâǵńavalkja. Издано на санскрите и немецком д-ром Adolph Friedrich Stenzler. Берлин и Лондон, 1849.
+**Jaǵńad. (Lois.)** = Yadjnadattabadha, ou la mort de Yadjnadatta, épisode du Ramajana, publié u. s. w. par Auguste Loiseleur Deslongchamps. Paris 1829.
+**Jaǵ. V.** = Jaǵurveda.
 **Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
