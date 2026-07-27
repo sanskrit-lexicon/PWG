@@ -205,7 +205,7 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
-**A Dict. Beng. and S.** = A Dictionary Bengali and Sanskrit, explained in English.
+**A Dict. Beng. and S. (Haughton,)** = A Dictionary Bengali and Sanskrit, explained in English.
 **Agnisv.** = Agnisvâmin, схолиаст Lâṭjâjana.
 **Âhnikat.** = Âhnikatattva.
 **Ait. Br.** = Aitarejabrâhmaṇa. Цитируется по 8 Pańḱikâ (внешнему разделению, на которое разбиты 40 Adhjâja, образованных по содержательным соображениям) и по номерам глав, идущим сквозной нумерацией внутри Pańḱikâ. Рук. Комментарий Sâjana к нему. Рук.
@@ -351,8 +351,10 @@ II
 
 <sub>Источник (скан): [pwg1-0000--09.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref09.html)</sub>
 
-[Paris 1829.] (Продолжение предыдущей записи)
-**Yaj. V.** = Jaǵurveda.
+**Itih.** = Itihâsa.
+**Jâǵń.** = законодательный свод Jâǵńavalkja. Издано на санскрите и немецком д-ром Adolph Friedrich Stenzler. Берлин и Лондон, 1849.
+**Jaǵńad. (Lois.)** = Yadjnadattabadha, ou la mort de Yadjnadatta, épisode du Ramajana, publié u. s. w. par Auguste Loiseleur Deslongchamps. Paris 1829.
+**Jaǵ. V.** = Jaǵurveda.
 **Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
@@ -1020,6 +1022,8 @@ St. Petersburg
 <sub>Источник (скан): [pwg3-0000--03.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref19.html)</sub>
 
 Объяснение сокращений, вновь добавленных в третьем томе.
+
+BUDDHOKT. = BUDDHOKTASAṂSĀRĀMAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 DAŚABH. = DAÇABHŪMIÇVARA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 

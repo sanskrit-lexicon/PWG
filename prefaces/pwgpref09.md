@@ -7,8 +7,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # Erklärung der Abkürzungen.
 
-[Paris 1829.] (Fortsetzung des vorhergehenden Eintrags)
-**Yaj. V.** = Jaǵurveda.
+**Itih.** = Itihâsa.
+**Jâǵń.** = Jâǵńavalkja's Gesetzbuch. Sanskrit und Deutsch herausgegeben von Dr. Adolph Friedrich Stenzler. Berlin und London 1849.
+**Jaǵńad. (Lois.)** = Yadjnadattabadha, ou la mort de Yadjnadatta, épisode du Ramajana, publié u. s. w. par Auguste Loiseleur Deslongchamps. Paris 1829.
+**Jaǵ. V.** = Jaǵurveda.
 **Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, s. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
