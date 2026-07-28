@@ -1,6 +1,6 @@
 # PWG — Petersburger Wörterbuch
 
-_Created: 17-12-2017 · Last updated: 10-07-2026_
+_Created: 17-12-2017 · Last updated: 28-07-2026_
 
 **PWG** (*Sanskrit-Wörterbuch*, Böhtlingk & Roth, 1855–1875) is the large,
 seven-volume "Great Petersburg Dictionary" — the foundational Sanskrit–German
@@ -48,6 +48,7 @@ they share source material and markup conventions.
 | [`pwgheader/`](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgheader) | Volume and header metadata |
 | [`prefaces/`](https://github.com/sanskrit-lexicon/PWG/tree/main/prefaces) | OCR'd front matter (titles, forewords, abbreviation lists, addenda) with EN/RU translations and consolidated single-file editions; methods + cite block in [`prefaces/METHODS.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/METHODS.md) |
 | [`misc/`](https://github.com/sanskrit-lexicon/PWG/tree/main/misc) | Accent display, encoding conversion, and other utilities |
+| [`docs/`](https://github.com/sanskrit-lexicon/PWG/tree/main/docs) | **[Pipeline operator manual](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.md)** — how to run, verify, and extend every pipeline (correction loop, link targets, AB v1e stream, prefaces, pagecolumn) without spelunking the ~900 scripts |
 
 > An experimental LLM-assisted pilot (translation / literary-source targeting /
 > structural-extraction / OCR-diff tracks over one dictionary slice — derived
@@ -59,6 +60,10 @@ they share source material and markup conventions.
 ---
 
 ### How It Works
+
+The full operator manual — cheat-sheet loop, workspace lifecycle, walkthroughs
+and symptom table for every pipeline — is
+[docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.md).
 
 Corrections to `pwg.xml` are never made directly. Instead, scripts produce
 **change files** (paired `old`/`new`/`ins`/`del` lines) that are applied by

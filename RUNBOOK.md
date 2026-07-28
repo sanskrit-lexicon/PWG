@@ -2,6 +2,8 @@
 
 This file is an instruction set for Claude Code operating **autonomously** on a Sanskrit Lexicon repository. It covers the complete documentation and issue-organisation pass that was first applied to the PWG repo in 2026.
 
+> Looking for how to run the **data pipelines** (corrections, link targets, prefaces)? That is [docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.md) — this runbook is issue-taxonomy/docs cleanup only.
+
 ---
 
 ## Autonomy Rules
