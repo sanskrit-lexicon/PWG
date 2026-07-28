@@ -9,6 +9,7 @@ ready for a dated entry.
 ## [Unreleased]
 
 ### Added
+- [`prefaces/METHODS.md`](prefaces/METHODS.md) § Legend store join (csl-guides UC-3): documents `prefaces/` as source-of-truth for the csl-guides machine legend store (`pwg_legend.json`) and the naming-authority join to body `csl-orig/v02/pwg/pwg.txt`; records a 12-key deterministic spot-check (12/12 content matches; flags a 2-line `sources` locus drift in 3 rows caused by the H1721 page-boundary OCR fix landing after the legend's 24-07-2026 generation date) (H1596).
 - `pagecolumn/` — page/column co-location index. `pwg_page_index.py` derives, from the entry-start column (`<pc>`) in `csl-orig/v02/pwg/pwg.txt`, three views: column → entries that start in it (8,171 columns), physical page (2 columns merged) → entries (4,329 pages), and entry → its column(s)/page(s) (123,366 entries). `pwg_page_verify.py` emits a 70-row scan-verification anchor sheet so the derived `page = (column+1)//2` mapping can be checked against a scan (per-volume front-matter offset, column pairing). Derived `.tsv` views are git-ignored/regenerable; tools + the verification sheet are tracked.
 
 ## [Unreleased]
