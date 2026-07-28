@@ -1,6 +1,6 @@
 # PWG front-matter OCR — methods and citation
 
-_Created: 24-07-2026 · Last updated: 24-07-2026_
+_Created: 24-07-2026 · Last updated: 28-07-2026_
 
 This note documents how the **PWG** (`prefaces/`) front-matter editions were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
 
@@ -84,6 +84,59 @@ Digitizer running headers and the Cologne “Institute of Indology & Tamil Studi
 - On abbreviation lists and addenda, only headings, notes, and glosses such as “instead of … read …” are rendered in translation; keys follow the body-aligned source form.
 
 ---
+
+## Legend store join (csl-guides UC-3)
+
+`prefaces/` remains the **source of truth** for abbreviation expansions consumed by the
+csl-guides machine legend store — PWG pref Markdown is authored/edited here; the legend
+(`pwg_legend.json`) is a **read-only derivative** emitted by csl-guides and never
+hand-edited. Naming authority for keys (siglum orthography) is the human-edited body
+`csl-orig/v02/pwg/pwg.txt`, per the [pref-body-naming-authority](https://github.com/sanskrit-lexicon/csl-guides/blob/main/docs/dictionaries/pref-body-naming-authority.md)
+policy referenced above (H1569) — the legend emit consumes that already-aligned key form,
+it does not re-derive it.
+
+| Surface | Path |
+|---|---|
+| This repo (authoritative source) | [`prefaces/pwgprefNN.md`](.) |
+| Legend emit script (csl-guides) | [`scripts/pref_legend_emit.py`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/pref_legend_emit.py) |
+| Legend schema | [`scripts/legend.schema.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/legend.schema.json) |
+| Emitted legend (PWG) | [`scripts/out/pwg_legend.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/out/pwg_legend.json) |
+| Parity check | [`scripts/pref_legend_parity.py`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/pref_legend_parity.py) |
+| Site feed / UI | [`src/data/pref-legends.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/src/data/pref-legends.json) · [Abbreviations & citations](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/abbreviations-and-citations) |
+
+**Scope ruling (R11, [PLAN](../docs/PLAN_PWG_preface_enrichment_support_2026-07.md)):** PWG's
+role in this join is thin — document it here and spot-check it (below); the emit pipeline,
+schema, and parity gate are owned and regenerated in csl-guides (H1591). No bulk key
+rewrites happen from this side unless a named handoff says so.
+
+### Spot-check (24-07-2026 → verified 28-07-2026)
+
+12 of 395 `pwg_legend.json` rows (every ~33rd row, deterministic stride) were checked
+against the current `prefaces/pwgprefNN.md` at the row's `sources` locus:
+
+| Key | Legend expansion matches source? | Note |
+|---|---|---|
+| `A Dict. Beng. and S.` | ✅ | — |
+| `Bhânud.` | ✅ | — |
+| `Durgad.` | ✅ | — |
+| `Hort. beng.` | ✅ | — |
+| `Kunt.` | ✅ content; ⚠ line drift | `sources` says `pwgpref09.md:47`, actual line 49 |
+| `MBh.` | ✅ content; ⚠ line drift | `sources` says `pwgpref09.md:80`, actual line 82 |
+| `Naigh.` | ✅ content; ⚠ line drift | `sources` says `pwgpref09.md:90`, actual line 92 |
+| `RV.` | ✅ | — |
+| `Skanda-P.` | ✅ | — |
+| `Uṇ.` | ✅ | — |
+| `Vârtt.` | ✅ | — |
+| `avj.` | ✅ | — |
+
+**Result: 12/12 keys and expansions match verbatim.** The 3 `pwgpref09.md` rows show a
+**2-line source-locus drift**, not a content error: [#217](https://github.com/sanskrit-lexicon/PWG/pull/217)
+(H1721, page-boundary OCR omissions) landed 28-07-2026 and inserted 2 net lines into
+`pwgpref09.md` **above** line 47, after `pwg_legend.json` was generated (24-07-2026). Every
+key/expansion pair still resolves correctly by content; only the cached `sources` line
+numbers for rows below the insertion point are stale. This is expected staleness for a
+point-in-time emit, not a join defect — flagged here so a future `pref_legend_emit.py`
+re-run (owned by csl-guides, not in this handoff's scope) picks up current line numbers.
 
 ## Regeneration
 
