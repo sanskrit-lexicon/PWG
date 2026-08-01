@@ -201,8 +201,8 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 
 (Печатные произведения санскритской литературы, которые цитируются лишь совсем изредка, отмечены звёздочкой.)
 
-**Âçv. Çr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
-**Âçv. Gṛhj.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
+**Âśv. Śr.** = Âçvalâjana's Çrautasûtrâni in 12 Adhjâja. Рукопись.
+**Âśv. Gṛhy.** = Âçvalâjana's Gṛhjasûtrâni in 4 Adhjâja. Рук.
 **Adbh. Br.** = Adbhutabrâhmaṇa.
 **Adbhutas.** = Adbhutasâra.
 **A Dict. Beng. and S. (Haughton,)** = A Dictionary Bengali and Sanskrit, explained in English.
@@ -227,11 +227,11 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Ârun. Up.** = Ârunikopanishad.
 **As. Res.** = Asiatick Researches; or, transactions of the Society instituted in Bengal, for inquiring into the History and Antiquities, the Arts, Sciences, and Literature, of Asia. London.
 **AV.** = Atharvavedasaṃhitâ, издано R. Roth и W. D. Whitney. Berlin у F. Dümmler. 1855. 8°. В первых листах словаря встречается несколько цитат, числа которых не вполне совпадают с принятой в издании нумерацией. Различие можно устранить, если в составных гимнах (Parjâjasûkta), которые в издании сосчитаны как единицы, считать подразделения (строфы) как отдельные гимны.
-**Avad. Çat.** = Avadânaçataka, буддийское собрание легенд.
+**Avad. Śat.** = Avadânaçataka, буддийское собрание легенд.
 **AV. Anukr.** = Anukramaṇikâ Атхарваведы, 10 Paṭala. Рук.
 **avj.** = avjaja (см. Med.).
 
-**AV. Pariç.** = Pariçishṭa Атхарваведы.
+**AV. Pariś.** = Pariçishṭa Атхарваведы.
 **AV. Prât.** = Prâtiçâkhja к Атхарваведе. Цитируется по Adhjâja и Sûtra. Рук. См. Введение Рота к Nirukta, с. XLVII.
 **Bâlab.** = Bâlabodhanî в Windischmann's Sancara (Gild. Bibl. 275).
 **Benf. Chr.** = Benfey' Chrestomathie aus Sanskritwerken. Leipzig. 1853.
@@ -268,19 +268,19 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 <sub>Источник (скан): [pwg1-0000--08.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref08.html)</sub>
 
 **Çabdar.** = Çabdaratnâvali, словарь; по ссылкам в ÇKDr.
-**Çabdârn.** = Çabdârnava, словарь; по ссылкам в ÇKDr.
+**Śabdârn.** = Çabdârnava, словарь; по ссылкам в ÇKDr.
 **Çâk.** = Çikuntala, драма в издании Бётлингка (Gild. Bibl. 191). Одиночное число обозначает Çloka, двойное — страницу и строку.
-**Çâk. Ch.** = издание Çikuntala, выполненное Шези (Gild. Bibl. 187).
+**Śâk. Ch.** = издание Çikuntala, выполненное Шези (Gild. Bibl. 187).
 **Çâńk. или Çâńkar.** = Çâńkara (схолиаст Çikuntala) и Çâńkarakârâ.
-**Çâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
-**Çâńkh. Gṛhj.** = Çâńkhâjana's Gṛhjasûtrâni.
-**Çâńkh. Çr.** = Çâńkhâjana's Çrautasûtrâni.
+**Śâńkh. Br.** = Çâńkhâjana's Brâhmaṇa.
+**Śâńkh. Gṛhy.** = Çâńkhâjana's Gṛhjasûtrâni.
+**Śâńkh. Śr.** = Çâńkhâjana's Çrautasûtrâni.
 **Çânt.** = Çântanâkârja's Phiṭsûtrâni в Бётлингк, Ein erster Versuch über den Accent im Sanskrit. St. Petersburg 1843. Отдельный оттиск из: Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg. Sixième série. Sciences politiques, histoire, philologie. Tome VII. Saint-Pétersbourg 1848.
-**Çântiç.** = Çihlana's Çântiçataka в Haeberlin's Anthology, с. 410. и сл.
-**Çârńg.** = Çârńgadhara.
-**Çârńg. Paddh.** = Çârńgadhara's Paddhati; ср. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, с. 113. и сл. или Mélanges asiatiques, T. I, с. 279. и сл.
-**Çatar. Up.** = Çatarudrijopanishad.
-**Çat. Br.** = Çatapathabrâhmaṇa in the Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
+**Śântiś.** = Çihlana's Çântiçataka в Haeberlin's Anthology, с. 410. и сл.
+**Śârńg.** = Çârńgadhara.
+**Śârńg. Paddh.** = Çârńgadhara's Paddhati; ср. Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg. T. VIII, с. 113. и сл. или Mélanges asiatiques, T. I, с. 279. и сл.
+**Śatar. Up.** = Çatarudrijopanishad.
+**Śat. Br.** = Çatapathabrâhmaṇa in the Mâdhjandina-Çâkhâ, with extracts made from the commentaries of Sâjana, Harisvâmin and Dvivedaganga, edited by Dr. Albrecht Weber. Berlin Ferd. Dümmler's Buchhandlung. London Williams and Norgate. 1849.
 **Çaun. Kât.** = Çaunaka's Kâturâdhjâjikâ, цитируется по Adhjâja и Sûtra. — Av. Prât.
 **Çiç.** = Çiçupâlavadha, ed. Calc. (Gild. Bibl. 141).
 **Çiv.** = Çivanâmasahasra, рукописно в Азиатском музее Имп. Академии наук.
@@ -289,10 +289,10 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Colebr. Alg.** = Algebra, with Arithmetic and Mensuration, from the Sanscrit of Brahmegupta and Bháscara. Translated by H. Th. Colebrooke. London 1817. По ссылкам в Хотоне, A Dict. Beng. and S.
 **Colebr. Misc. Ess.** = Colebrooke's Miscellaneous Essays. 2 тома. London 1837.
 **Çîdhar.** = Çîdharasvâmin, схолиаст Bhag.
-**Çṛńgârat.** = Çṛńgâratilaka, ed. Гильдемейстера (Gild. Bibl. 151).
+**Śṛńgârat.** = Çṛńgâratilaka, ed. Гильдемейстера (Gild. Bibl. 151).
 **Çvut.** = Çrautabodha в Zeitschrift für die Kunde des Morgenlandes, IV, с. 60 и сл. Стоящее рядом Br. отсылает к изданию, подготовленному Брокгаузом в его труде: Ueber den Druck Sanskritischer Werke mit Lateinischen Buchstaben. Leipzig 1841.
 **Çuk. или Çukas.** = Çukasaptati в Lassen's Anthologie (Gild. Bibl. 48).
-**Çvetâçv. Up.** = Çvetâçvataropanishad в Bibliotheca indica.
+**Śvetâśv. Up.** = Çvetâçvataropanishad в Bibliotheca indica.
 **Daç.** = Daçaratha's Tod в Böhtlingk's Chrestomathie (Gild. Bibl. 49).
 **Daçak.** = Daçakumârakarita, ed. Уилсона (Gild. Bibl. 236).
 **Dâj. или Dâjabh.** = Dâjabhâga, ed. Calc. 1829 (Gild. Bibl. 344).
@@ -300,12 +300,12 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Dev.** = Devîmâhâtmja, ed. Поли (Gild. Bibl. 130).
 **Dhar.** = Dharaṇikosha, словарь; по ссылкам в ÇKDr.
 **Dhâtup.** = Dhâtupâṭha в Westergaard's Radices (Gild. Bibl. 42).
-**Dhjânav. Up.** = Dhjânavindûpanishad.
-**Divja-Av.** = Divjâvadâna, буддийское собрание легенд.
+**Dhyânav. Up.** = Dhjânavindûpanishad.
+**Divya-Av.** = Divjâvadâna, буддийское собрание легенд.
 **Draup.** = Draupadîpramâtha, ed. Боппа (Gild. Bibl. 106).
 **Durgad.** = Durgadâsa.
 
-**Gâb. Up.** = Gâbâlopanishad.
+**Jâb. Up.** = Gâbâlopanishad.
 **gaṇa.** = См. расположенный по алфавиту gaṇapâṭha в издании Pânini, выполненном Бётлингком (Gild. Bibl. 244), с. LXXVII—CXXV.
 **Gaṇar.** = Gaṇaratnamahodadhi, см. Бётлингк, Einleitung zum Pânini (Gild. Bibl. 244), II, с. XXXIX.
 **Garbhop.** = Garbhopanishad.
@@ -315,11 +315,11 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Ghaṭ.** = Ghaṭakarpara, ed. Calc. (Gild. Bibl. 162).
 **Gild. Bibl.** = Bibliothecae sanskritae sive recensus librorum sanskritorum hucusque typis vel lapide exscriptorum critici specimen. Concinnavit Joannes Gildemeister. Bonnae ad Rhenum 1847.
 **Gîr. или Gîtag.** = Gîtagovinda, ed. Лассена (Gild. Bibl. 168).
-**Ǵjot.** = Ǵjotisha.
+**Jyot.** = Ǵjotisha.
 **Gorr.** = Gorresio.
 **Got. S.** = Gotama's Sûtrâni, см. Njâja-S.
 **Govindabh.** = Govindabhaṭṭa.
-**Gṛhjasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka из 106 и 103 стихов; ср. Рота, Zur L. u. G. d. W. с. 120. Рук.
+**Gṛhyasâṃgr.** = Gṛhjasaṃgrahapariçishta, 2 Prapâṭhaka из 106 и 103 стихов; ср. Рота, Zur L. u. G. d. W. с. 120. Рук.
 **H.** = Hemakandra's Abhidhânakintâmaṇi, систематически расположенный синонимический лексикон. Издано, переведено и снабжено примечаниями Отто Бётлингк и Чарльз Рьё. St. Petersburg 1847.
 **Haeb. Chrest.** = Kâvja-Sangraha. A Sanscrit Anthology, being A Collection of the best Smaller Poems in the Sanscrit language. By Dr. John Haeberlin. Calcutta: W. Thacker and Co. 1847.
 **Halâj.** = Halâjudha, лексикограф; по ссылкам в ÇKDr.
@@ -329,18 +329,18 @@ Gṛhjasûtra Çâṅkhâjana начал использовать для наш�
 **Hariv.** = Harivaṃça в 4-м томе MBh. Из этого произведения мы включили имена собственные с использованием указателя в переводе Ланглуа (Gild. Bibl. 122).
 **H. ç.** = Çesha к Hemakandra's Abhidhânakintâmaṇi (см. под H.), с. 421—443.
 **Hiḍ.** = Hiḍimbavadha в Bopp's Ardschuna's Reise zu Indra's Himmel, nebst anderen Episoden des Maha-Bharata. Berlin 1824.
-**Hindu Th. (Wilson,)** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
+**Hindu Th.** = Select specimens of the Theatre of the Hindus, translated from the original Sanscrit, by Horace Hayman Wilson. Second edition. London 1835.
 **Hiouen-Thsang** = Histoire de la vie de Hiouen-Thsang et de ses voyages dans l'Inde, traduite du Chinois par Stanislas Julien. Paris 1853.
 **Hit.** = Hitopadeça, ed. Шлегеля und Лассена (Gild. Bibl. 225). Следующее за ним римское число обозначает книгу, арабское — страницу; второе число там обозначает Çloka, здесь — строку.
 **Hit. Pr.** = Prooemium в Hit.
-**Horâç.** = Horâçâstra.
+**Horâś.** = Horâçâstra.
 **Hort. beng.** = Hortus bengalensis. Serampore 1814. 8vo, цитируется по словарю Хотона.
 **Hort. Calc.** = Hortus suburbanus Calcuttensis. A Catalogue of the plants etc. By the late J. O. Voigt. Calcutta 1845. 8°.
 **Îçop.** = Îçopanishad в Bibliotheca indica.
 **Ind. des Kandjur** = Index des Kandjur. Herausgegeben von der Kaiserlichen Akademie der Wissenschaften und bevorwortet von I. J. Schmidt. St. Petersburg 1845.
 **Indr.** = Indralokâgamana в Bopp's Ardschuna's Reise zu Indra's Himmel и т. д.
 **Ind. St.** = Weber's Indische Studien.
-**Institutt. (Lassen,)** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
+**Institutt.** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
 
 II
 
@@ -351,14 +351,16 @@ II
 
 <sub>Источник (скан): [pwg1-0000--09.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref09.html)</sub>
 
-[Paris 1829.] (Продолжение предыдущей записи)
+**Itih.** = Itihâsa.
+**Jâǵń.** = законодательный свод Jâǵńavalkja. Издано на санскрите и немецком д-ром Adolph Friedrich Stenzler. Берлин и Лондон, 1849.
+**Jaǵńad. (Lois.)** = Yadjnadattabadha, ou la mort de Yadjnadatta, épisode du Ramajana, publié u. s. w. par Auguste Loiseleur Deslongchamps. Paris 1829.
 **Jaǵ. V.** = Jaǵurveda.
-**Javaneçv.** = Javaneçvara.
+**Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бётлингком, с. LIII.
 **Kâdamb.** = Kâdambarî.
-**Kaij.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
+**Kaiy.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
 **Kaiv. Up.** = Kaivaljopanishad.
 **Kâlas.** = Kâlasańkalita, цитируется по словарю Хотона.
 **Kâlid.** = Kâlidâsa.
@@ -370,8 +372,8 @@ II
 **Kâṭh.** = Kâṭhaka-редакция Jaǵ. V.
 **Kathâs.** = Kathâsaritsâgara, ed. Брокгауза (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad в Bibliotheca indica.
-**Kâtj.** = Kâtjâjana.
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
+**Kâty.** = Kâtjâjana.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
 **Kâturbhú.** = Kâturbhuǵa, схолиаст Mahâbhârata; по ссылкам в издании Nala, выполненном Боппом (см. под N.).
 **Kauç.** = Kauçika's Sûtra к Атхарваведе. 14 Adhjâja. Kaṇḍikâ пронумерованы сквозным образом. Рук.
 **Kâurap.** = Kâurapânkâçikâ, ed. Болена (Gild. Bibl. 136).
@@ -379,10 +381,10 @@ II
 **Kaush. Up.** = Kaushîtakjupanishad.
 **Kavikalpadr.** = Kavikalpadruma, собрание корней; по ссылкам в ÇKDr.
 **Kâvjâk.** = Kâvjakandrikâ, учебник риторики; по ссылкам в ÇKDr.
-**\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
+**Kâvya-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad в Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, труд по метрике; по ссылкам в ÇKDr.
-**Khând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
+**Chând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
 **\*Kir.** = Kirâtârǵunja, ed. Calc. (Gild. Bibl. 139).
 **Kos.** = Kosegarten.
 **Koshṭhîpr.** = Koshṭhîpradîpa, по ссылкам в ÇKDr.
@@ -390,16 +392,16 @@ II
 **Kumâras.** = Kumârasaṃbhava, ed. Штенцлера (Gild. Bibl. 136).
 **Kunt.** = Kuntâpa, десять гимнов, которые образуют особый раздел AV. Книги 20.
 **Kûrma-P.** = Kûrmapurâṇa.
-**Kuvalaj.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
+**Kuvalay.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
-**Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
+**Laghuj.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara в Bibliotheca indica.
-**Lâṭj.** = Lâṭjâjana's Sûtra к SV. Рук.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
+**Lâṭy.** = Lâṭjâjana's Sûtra к SV. Рук.
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Луазлёр Делоншан.
 **M.** = законодательный свод Manu в издании Луазлёра Делоншана (Gild. Bibl. 289).
 **Maç. или Maç. S.** = Maçaka's Kalpasûtrâni.
@@ -418,9 +420,9 @@ II
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad в Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ к Mâṇḍ. Up. в Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, см. Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
-**Matsja-P.** = Matsjapurâṇa.
-**Matsjop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Matsya-P.** = Matsjapurâṇa.
+**Matsyop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). С с. 521 словаря использованы первые три книги, с с. 601 также последние пять, начиная с ऋ также 13-я книга.
 **Med.** = Medinîkosha, ed. Calc. (Gild. Bibl. 258). Слова расположены прежде всего по последнему согласному в слове: то есть कान्त (k), खान्त (kh), गान्त (g) и т. д. Частицы (avjaja) образуют особый раздел в конце, который мы обозначили через avj.
 **Megh.** = Meghadûta, ed. Гильдемейстера (Gild. Bibl. 151).
@@ -452,21 +454,21 @@ II
 **Nîl.** или **Nîlak.** = Nîlakaṇṭha, схолиаст Mahâbhârata (цитируется в боппском издании Nala) и также AK. (цитируется в ÇKDr.).
 **Nir.** = Nirukta Jâska вместе с Nighaṇṭava, издано и истолковано Рудольфом Ротом. Göttingen 1852.
 **Nîtipr.** = Nîtipradîpa в Haeb. Chr. с. 526—528.
-**ʼNjâja-S.** = Njâjasûtrâṇi Gotama, ed. Calc. (Gild. Bibl. 274).
+**Nyâya-S.** = Njâjasûtrâṇi Gotama, ed. Calc. (Gild. Bibl. 274).
 **P.** = восемь книг грамматических правил Pâṇini (Gild. Bibl. 244).
 **Padap.** = Padapâṭha.
 **Paṅkat.** = Paṅkatantra. Pantschatantrum sive quinquepartitum de moribus exponens, ex codicibus manuscriptis edidit, commentariis criticis auxit Io. Godofr. Ludov. Kosegarten. Pars prima, textum sanscritum simpliciorem tenens. Bonnae ad Rhenum 1848. 8°. Следующая римская цифра обозначает книгу, арабская — страницу; второе число здесь обозначает строку, там — Çloka.
 **Paṅkav. Br.** = Paṅkaviṃçabrâhmaṇa.
 **Parâç.** = Parâçara, автор свода законов; по цитатам в Mit., Dâj. и ÇKDr.
-**Pâr. Gṛhj.** = Gṛhjasûtrâṇi Pâraskara.
+**Pâr. Gṛhy.** = Gṛhjasûtrâṇi Pâraskara.
 **Pat.** = Pataṅgali, как автор Mahâbhâshja; по выдержкам в издании Pâṇini Бётлингка.
-**Pat. Jogâç.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
-**Pent. (Lassen,)** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
+**Pat. Yogâś.** = Jogâçâstra Pataṅgali, ed. Ballantyne, Allahabad 1853.
+**Pent.** = Christiani Lassenii commentatio geographica atque historica de Pentapotamia indica. Bonnae ad Rhenum 1827.
 **Prab.** или **Prabodh.** = Prabodhaḱandrodaja, ed. Brockhaus (Gild. Bibl. 216).
-**Praçnop.** = Praçnopanishad, по изданию Röer в Bibliotheca indica.
+**Praśnop.** = Praçnopanishad, по изданию Röer в Bibliotheca indica.
 **Prâjaçkittav.** = Prâjaçkittaviveka, по цитатам в ÇKDr.
-**Prât.** или **Prâtiç.** = Prâtiçâkhja.
-**Pravar.** или **Pravarâdhj.** = Pravarâdhjâja.
+**Prât.** или **Prâtiś.** = Prâtiçâkhja.
+**Pravar.** или **Pravarâdhy.** = Pravarâdhjâja.
 **Pur.** = Purâṇa.
 **Purush.** = Purushottama, лексикограф (среди прочего также автор Trik. и Hâr.); по цитатам в ÇKDr.
 **Pushpas.** = Pushpasûtra.
@@ -483,11 +485,11 @@ II
 **Ratim.** = Ratimaṅgarî, сочинение об эротике; по цитатам в ÇKDr.
 **Ratnak.** = Ratnakosha, словарь; по цитатам в ÇKDr.
 **Ratnam.** = Ratnamâlâ, словарь; по цитатам в ÇKDr.
-**ʼRatnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
+**Ratnâv.** = Ratnâvalî, ed. Calc. (Gild. Bibl. 214).
 **Roxb. Fl. ind.** = Flora indica or Description of Indian plants. By the late William Roxburgh. Serampore 1832. Vol. I. II. III. 8°.
 **Rt.** = Ṛtusaṃhâra, ed. Bohlen (Gild. Bibl. 135).
 **RV.** = Ṛgveda. Цитируется по Maṇḍala, Sûkta и Ṛḱ. Rosen к RV. отсылает к примечаниям в: Rigveda-Sanhita, liber primus, sanscritè et latinè; edidit Fridericus Rosen. London 1838.
-**RV. Prât.** или **Prâtiç.** = Prâtiçâkhja к Ṛgveda, цитируется по Paṭala и стихам. Рукопись. См. Рот во Введении к Nir. с. XLVII.
+**RV. Prât.** или **Prâtiś.** = Prâtiçâkhja к Ṛgveda, цитируется по Paṭala и стихам. Рукопись. См. Рот во Введении к Nir. с. XLVII.
 **Saddh. L.** = Saddharmalaṅkâvatâra.
 
 ### Right column
@@ -496,39 +498,39 @@ II
 **Sâh. D.** = Sâhitjadarpaṇa, на первых 10 листах по изданию 1828 (Gild. Bibl. 264), на последующих листах, если год 1828 не указан особо, по изданию Röer в Bibliotheca indica. Простое число отсылает к Kârikâ, двойное — к странице и строке.
 **Sâj.** = Sâjana.
 **Saṅgîtad.** = Saṅgîtadâmodara (о музыке), по цитатам в ÇKDr.
-**Sâṃkhjak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), с использованием индекса в издании Лассена (Gild. Bibl. 270).
+**Sâṃkhyak.** = Sâṃkhjakârikâ, ed. Wilson (Gild. Bibl. 271), с использованием индекса в издании Лассена (Gild. Bibl. 270).
 **Sâras.** = Sârasundarî, комментарий к Amarakosha; по цитатам в ÇKDr.
 **Sarvop. S.** = Sarvopanishatsâra.
 **Saun.** = Saunâga, см. введение к изданию Pâṇini Бётлингка, с. XLVI.
 **Sâv.** = Sâvitrjupâkhjâna, ed. Bopp (Gild. Bibl. 106).
 **Sch.** или **Schol.** = схолиаст.
 **Shaḍv. Br.** = Shaḍviṃçabrâhmaṇa.
-**Siddhântaçir.** = Siddhântaçiromaṇi, по цитатам в ÇKDr.
+**Siddhântaśir.** = Siddhântaçiromaṇi, по цитатам в ÇKDr.
 **Siddhântam.** = Siddhântamuktâvalî, по цитатам в ÇKDr.
 **Siddh. K.** = Siddhântakaumudî, Calc. издание в 4° (Gild. Bibl. 245).
 **Skanda-P.** = Skandapurâṇa.
 **St.** = Штенцлер.
-**Suçr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); цитируется по тому, странице и строке. Название гесслеровского перевода см. в Gild. Bibl. 368.
+**Suśr.** = Suçruta, ed. Calc. (Gild. Bibl. 367); цитируется по тому, странице и строке. Название гесслеровского перевода см. в Gild. Bibl. 368.
 **Sund.** = Sundopasundopâkhjâna, ed. Bopp (Gild. Bibl. 97).
-**Sûrjas.** = Sûrjasiddhânta, по цитатам в Haughton, A Dict. Beng. and S.
+**Sûryas.** = Sûrjasiddhânta, по цитатам в Haughton, A Dict. Beng. and S.
 **Suvarṇapr.** = Suvarṇaprabhâsa, буддийское сочинение.
 **SV.** = Sâmaveda. Die Hymnen des Sâma-Veda, издано, переведено и снабжено глоссарием Теодором Бенфеем. Leipzig 1848. 8°. Деление Бенфея сохранено.
 **Taitt. Âr.** = Taittirîjâranjaka.
 **Taitt. Br.** = Taittirîjabrâhmaṇa.
 **Taitt. Prât.** = Prâtiçâkhja к Taittirîjasaṃhitâ. См. Рот во Введении к Nir. с. XLVII.
 **Tantras.** = Tantrasâra, по цитатам в ÇKDr.
-**Teǵov. Up.** = Teǵovindûpanishad.
-**Tib. Lebensb. Çâkj.** = Тибетское жизнеописание Çâkjamuni, оригинал приведённой выше под Lebensb. (Schiefner) выдержки.
+**Tejov. Up.** = Teǵovindûpanishad.
+**Tib. Lebensb. Śâky.** = Тибетское жизнеописание Çâkjamuni, оригинал приведённой выше под Lebensb. (Schiefner) выдержки.
 **Trik.** = Trikâṇḍaçesha, ed. Calc. (Gild. Bibl. 258).
 **TS.** = Taittirîjasaṃhitâ. 7 Kâṇḍa, разделённых на Praçna, Anuvâka и Kaṇḍikâ. Последние обозначают не разделы предложений, а охватывают каждый по 50 слов. Рукопись.
 **TS. Anukr.** = Anukramaṇikâ к TS. Рукопись.
 **Uṇ.** = Uṇâdi-аффиксы. Издано и снабжено примечаниями и различными индексами Отто Бётлингком. St. Petersburg 1844.
 **Uṇâdik.** = Uṇâdikosha, по цитатам в ÇKDr.
 **Upal.** = Upalekha de Kramapâṭha libellus. Ed. G. Pertsch. Berolini 1854. 8°.
-**ʼUtt. Râmaḱ.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
-**Vaidj.** = Vaidjaka.
+**Utt. Râmac.** = Uttara-Râmaḱaritra, ed. Calc. (Gild. Bibl. 212).
+**Vaidy.** = Vaidjaka.
 **Vaiǵ.** = Vaiǵajantî, словарь. Выдержками из него, цитируемыми в схолиях к Kir. и Çiç., мы обязаны профессору Штенцлеру.
-**Vâju-P.** = Vâjupurâṇa.
+**Vâyu-P.** = Vâjupurâṇa.
 **Vâḱasp.** = Vâḱaspati.
 **Vâlakh.** = Vâlakhilja, песни, вставленные между RV. 8, 48 и 49.
 **Var.** = вариант.
@@ -546,23 +548,23 @@ II
 ### Left column
 
 **Varâh. Bṛh. S.** = Bṛhatsaṃhitâ Varâhamihira.
-**Varâh. L. Ǵât.** = Laghuǵâtaka Varâhamihira.
+**Varâh. L. Jât.** = Laghuǵâtaka Varâhamihira.
 **Vârtt.** = Vârttika Kâtjâjana в издании Pâṇini Бётлингка.
 **Vâsav.** = Vâsavadattâ; см. Z. d. d. m. G. VIII, 530. сл.
 **ved.** = ведийский.
-**ʼVedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
+**Vedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
 **Veda-P.** = Vedapurâṇa.
 **Verz. d. B. H.** = Каталог берлинских санскритских рукописей Вебера. Образует первый том: Die Handschriften-Verzeichnisse der Königlichen Bibliothek, изданный королевским главным библиотекарем, тайным правительственным советником д-ром Перцем. Berlin 1853. 8°.
 **Verz. d. Kopenh. H.** = Каталог копенгагенских санскритских рукописей Вестергора в: Codices orientales bibliothecae regiae Havniensis jussu et auspiciis regis Daniae augustissimi Christiani octavi enumerati et descripti. Pars prior, codices indicos continens. Havniae 1846. 4°.
 **Verz. d. Pet. H.** = Каталог петербургских санскритских рукописей Бётлингка в: Dorn, das Asiatische Museum der Kais. Akad. der Wiss. St. Petersburg 1846. с. 720. сл.
 **Vet.** = Vetâlapaṅḱaviṃçati в антологии Лассена (LA).
-**Viçv.** = Viçvâmitra's Kampf в хрестоматии Бётлингка.
+**Viśv.** = Viçvâmitra's Kampf в хрестоматии Бётлингка.
 **Vid.** = История Vidûshaka в хрестоматии Бётлингка.
 **Vikr.** или **Vikram.** = Vikramorvaçî, ed. Bollensen (Gild. Bibl. 206). Простое число отсылает к Çloka, двойное — к странице и строке.
-**ʼVîram.** = Vîramitrodaja.
-**ʼVivâdaḱ.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
-**ʼVjavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
-**Vjutp.** = Vjutpatti или Mahâvjutpatti (см. Mél. asiat. II, 382), санскритско-тибетский словарь из Taṅgur (т. 123 Sûtra, с. 223—377). Сообщениями из этого сочинения, а также другими заметками, относящимися к буддизму, мы обязаны А. Шифнеру.
+**Vîram.** = Vîramitrodaja.
+**Vivâdac.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
+**Vyavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
+**Vyutp.** = Vjutpatti или Mahâvjutpatti (см. Mél. asiat. II, 382), санскритско-тибетский словарь из Taṅgur (т. 123 Sûtra, с. 223—377). Сообщениями из этого сочинения, а также другими заметками, относящимися к буддизму, мы обязаны А. Шифнеру.
 
 [decorative end-rule; left column ends here, lower half blank]
 
@@ -582,7 +584,7 @@ II
 **Z. f. d. W. d. Spr.** = Zeitschrift für die Wissenschaft der Sprache. Издано д-ром А. Хёфером.
 **Z. f. vgl. Spr.** = Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, издано д-ром Теодором Ауфрехтом и д-ром Адальбертом Куном. Berlin.
 **Zur Geschichte u. s. w. (Lassen,)** = Zur Geschichte der Griechischen und Indoskythischen Könige in Baktrien, Kabul und Indien durch Entzifferung der Altkabulischen Legenden auf ihren Münzen, von Christian Lassen. Bonn 1838. 8°.
-**Zur L. u. G. d. W. (Roth,)** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
+**Zur L. u. G. d. W.** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
 
 [decorative end-rule; end of abbreviation list]
 
@@ -899,10 +901,10 @@ St. Petersburg
 **Bṛhaddharma-P.** = Bṛhaddharmapurâṇa; по цитатам в ÇKDr.
 **Çâkaṭ.** = Çâkaṭâjana, схол. Çâk.
 **Çatr.** = Çatruṅǵajamâhâtmja, по фрагментам, изданным А. Вебером в Abhandlungen für die Kunde des Morgenlandes.
-**Çrâddhat.** = Çrâddhatattva; по цитатам в ÇKDr.
-**Çrâddhaviv.** = Çrâddhaviveka; по цитатам в ÇKDr.
+**Śrâddhat.** = Çrâddhatattva; по цитатам в ÇKDr.
+**Śrâddhaviv.** = Çrâddhaviveka; по цитатам в ÇKDr.
 **Devî-P.** = Devîpurâṇa; по цитатам в ÇKDr.
-**Drâhj.** = Drâhjâjana.
+**Drâhy.** = Drâhjâjana.
 **Durgârkât.** = Durgârkâtattva; по цитатам в ÇKDr.
 **Ǵaim.** = Ǵaimini (The Aphorisms of the Mîmânsâ Philosophy by Jaimini. With extracts from the commentaries. Allahabad 1851. В нашем распоряжении только фрагмент в 36 страниц.).
 **Gild. Scriptorum Arabum etc.** = Scriptorum Arabum de Rebus Indicis loci et opuscula inedita. Ad codicum Pariss. etc. fidem recensuit et illustravit J. Gildemeister. Bonnae MDCCCXXXVIII.
@@ -910,11 +912,11 @@ St. Petersburg
 **Gobh.** = Gṛhjasûtra Gobhila; по сообщениям А. Вебера.
 **Hiouen-thsang I** = Mémoires sur les contrées occidentales, traduits du sanscrit en chinois, en l'an 648, par Hiouen-thsang, et du chinois en français par M. Stanislas Julien. Tome premier.
 **Jâǵnikad. Paddh. zu Kâtj. Çr.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana; по сообщениям А. Вебера.
-**Jogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. там же 1853.).
-**Juktikalpat.** = Juktikalpataru от Buoǵarâǵa; по цитатам в ÇKDr.
+**Yogas.** = Jogasûtra (The Aphorisms of the Yoga Philosophy of Patanjali. I. Allahabad 1852. II. там же 1853.).
+**Yuktikalpat.** = Juktikalpataru от Buoǵarâǵa; по цитатам в ÇKDr.
 **Kap.** = Kapila (The Aphorisms of the Sânkhya Philosophy, of Kapila; with illustrative extracts from the commentaries. I. Allahabad 1852. II—IV. там же 1854. Также в Bibl. ind.).
 **Karmaprad.** = Karmapradîpa.
-**Kâtj. Paddh.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana.
+**Kâty. Paddh.** = Paddhati Jâǵnikadeva к Çrautasûtra Kâtjâjana.
 **Kshur. Up.** = Kshurikopanishad.
 **Lalitam.** = Lalitamâdhava; по цитатам в ÇKDr.
 **Lîlâv.** = Lîlâvatî.
@@ -930,9 +932,9 @@ St. Petersburg
 **Molesw.** = A Dictionary Murathee and English by James T. Molesworth. Bombay 1831. 4°.
 **Muṇḍamâlât.** = Muṇḍamâlâtantra; по цитатам в ÇKDr.
 **Nârâjanaḱakr.** = Nârâjanaḱakravartin, схол. AK.; по цитатам в ÇKDr.
-**Parâçarapaddh.** = Parâçarapaddhati; по цитатам в ÇKDr.
+**Parâśarapaddh.** = Parâçarapaddhati; по цитатам в ÇKDr.
 **Param. Up.** = Paramahaṃsopanishad.
-**Pathjâpathjav.** = Pathjâpathjaviveka; по цитатам в ÇKDr.
+**Pathyâpathyav.** = Pathjâpathjaviveka; по цитатам в ÇKDr.
 **Raghun.** = Raghunandanabhaṭṭâḱârja, схолиаст Tithjâditattva; по цитатам в ÇKDr.
 **Ratnam.** = Ratnamâlâ, словарь. Следующее число отсылает к разделам в рукописи, находящейся во владении Рота.
 **Saṃskârat.** = Saṃskâratattva; по цитатам в ÇKDr.
@@ -941,7 +943,7 @@ St. Petersburg
 **Sukhab.** = Sukhabodha; по цитатам в ÇKDr.
 **Tattvas.** = A Lecture on the Sânkhya Philosophy, embracing the text of the Tattwa Samâsa. Mirzapore 1850.
 **TBr.** = Taittirîjabrâhmaṇa.
-**Tithjâdit.** = Tithjâditattva; по цитатам в ÇKDr.
+**Tithyâdit.** = Tithjâditattva; по цитатам в ÇKDr.
 **Trans. R. A. S.** = The Transactions of the Royal Asiatic Society of Great Britain and Ireland; по цитатам у Haughton.
 **Udvâhat.** = Udvâhatattva; по цитатам в ÇKDr.
 **Up. und Upak.** = Upakoçâ (История; см. Gild. Bibl. 239).
@@ -1021,7 +1023,9 @@ St. Petersburg
 
 Объяснение сокращений, вновь добавленных в третьем томе.
 
-DAÇABH. = DAÇABHŪMIÇVARA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+BUDDHOKT. = BUDDHOKTASAṂSĀRĀMAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+
+DAŚABH. = DAÇABHŪMIÇVARA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 GOLD. MĀN. = MĀNAVA-KALPA-SŪTRA; being a portion of this ancient work on Vaidik rites, together with the Commentary of KUMĀRILA-SVĀMIN. With a preface by THEODOR GOLDSTÜCKER. London 1861.
 
@@ -1029,11 +1033,11 @@ JOURN. of the AM. OR. S. = Journal of the American Oriental Society.
 
 KALPADRUMĀV. = KALPADRUMĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
-KĀPIÇĀV. = KĀPIÇĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+KĀPIŚĀV. = KĀPIÇĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 KAṬHINĀV. = KAṬHINĀVADĀNA, в рукописи в Парижской библиотеке, по сообщениям Шифнера.
 
-KRIJĀSAM. = KRIJĀSAMUKKAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
+KRIYĀSAM. = KRIJĀSAMUKKAJA, в рукописи в Парижской библиотеке, по сообщениям А. Шифнера.
 
 MUIR, Sanskr. Texts = Original Sanskrit Texts on the origin and progress of the Religion and Institutions of India; collected, translated into English, and illustrated by Notes. Chiefly for the use of students and others in India. By J. MUIR.
 

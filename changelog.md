@@ -6,6 +6,17 @@ This repository does not currently publish versioned release notes. Entries use
 dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
+## [Unreleased]
+
+### Added
+- [`docs/PIPELINE_MANUAL.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.md) + [`docs/PIPELINE_MANUAL.meta.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.meta.md) — operator manual for the whole pipeline family (universal correction loop, link-target/splitting, AB v1e stream, `pwg_ls*` archaeology, prefaces, pagecolumn), modelled on PWK's H530 manual; commands quoted verbatim from in-repo readme logs, lifecycle + landmine tables included (H1785).
+- [`prefaces/METHODS.md`](prefaces/METHODS.md) § Legend store join (csl-guides UC-3): documents `prefaces/` as source-of-truth for the csl-guides machine legend store (`pwg_legend.json`) and the naming-authority join to body `csl-orig/v02/pwg/pwg.txt`; records a 12-key deterministic spot-check (12/12 content matches; flags a 2-line `sources` locus drift in 3 rows caused by the H1721 page-boundary OCR fix landing after the legend's 24-07-2026 generation date) (H1596).
+- `pagecolumn/` — page/column co-location index. `pwg_page_index.py` derives, from the entry-start column (`<pc>`) in `csl-orig/v02/pwg/pwg.txt`, three views: column → entries that start in it (8,171 columns), physical page (2 columns merged) → entries (4,329 pages), and entry → its column(s)/page(s) (123,366 entries). `pwg_page_verify.py` emits a 70-row scan-verification anchor sheet so the derived `page = (column+1)//2` mapping can be checked against a scan (per-volume front-matter offset, column pairing). Derived `.tsv` views are git-ignored/regenerable; tools + the verification sheet are tracked.
+- Front-matter OCR methods note and cite path: [`prefaces/METHODS.md`](prefaces/METHODS.md) (scan source, engines A/B, translation policy, BibTeX); root [`CITATION.cff`](CITATION.cff) expanded with OCR identifiers and dual-cite message (H1558).
+
+### Fixed
+- Merged the two duplicate `[Unreleased]` sections (an append had landed above the older one) into a single section (H1785).
+
 ## [1.0.0] - 2026-06-13
 
 ### Added

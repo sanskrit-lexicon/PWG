@@ -9,14 +9,16 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # Объяснение сокращений.
 
-[Paris 1829.] (Продолжение предыдущей записи)
+**Itih.** = Itihâsa.
+**Jâǵń.** = законодательный свод Jâǵńavalkja. Издано на санскрите и немецком д-ром Adolph Friedrich Stenzler. Берлин и Лондон, 1849.
+**Jaǵńad. (Lois.)** = Yadjnadattabadha, ou la mort de Yadjnadatta, épisode du Ramajana, publié u. s. w. par Auguste Loiseleur Deslongchamps. Paris 1829.
 **Jaǵ. V.** = Jaǵurveda.
-**Javaneçv.** = Javaneçvara.
+**Yavaneśv.** = Javaneçvara.
 **Jogat.** = Jogatattva, см. Ind. St. 2, 49.
 **Journ. as.** = Journal asiatique.
 **Kâç.** = Kâçikâvṛtti; см. Введение к изданию Pânini, выполненному Бётлингком, с. LIII.
 **Kâdamb.** = Kâdambarî.
-**Kaij.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
+**Kaiy.** = Kaijaṭa, толкователь Mahâbhâshja Patańǵali.
 **Kaiv. Up.** = Kaivaljopanishad.
 **Kâlas.** = Kâlasańkalita, цитируется по словарю Хотона.
 **Kâlid.** = Kâlidâsa.
@@ -28,8 +30,8 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kâṭh.** = Kâṭhaka-редакция Jaǵ. V.
 **Kathâs.** = Kathâsaritsâgara, ed. Брокгауза (Gild. Bibl. 237).
 **Kaṭhop.** = Kaṭhopanishad в Bibliotheca indica.
-**Kâtj.** = Kâtjâjana.
-**Kâtj. Çr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
+**Kâty.** = Kâtjâjana.
+**Kâty. Śr.** = Kâtjâjana's Çrautasûtrâni. 26 Adhjâja. Рук.
 **Kâturbhú.** = Kâturbhuǵa, схолиаст Mahâbhârata; по ссылкам в издании Nala, выполненном Боппом (см. под N.).
 **Kauç.** = Kauçika's Sûtra к Атхарваведе. 14 Adhjâja. Kaṇḍikâ пронумерованы сквозным образом. Рук.
 **Kâurap.** = Kâurapânkâçikâ, ed. Болена (Gild. Bibl. 136).
@@ -37,10 +39,10 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kaush. Up.** = Kaushîtakjupanishad.
 **Kavikalpadr.** = Kavikalpadruma, собрание корней; по ссылкам в ÇKDr.
 **Kâvjâk.** = Kâvjakandrikâ, учебник риторики; по ссылкам в ÇKDr.
-**\*Kâvja-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
+**Kâvya-Pr.** = Kâvjaprakâça, ed. Calc. (Gild. Bibl. 265).
 **Kenop.** = Kenopanishad в Bibliotheca indica.
 **Khandom.** = Khandomańǵarî, труд по метрике; по ссылкам в ÇKDr.
-**Khând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
+**Chând. Up.** = Khândogjopanishad, по изданию Рёра в Bibliotheca indica.
 **\*Kir.** = Kirâtârǵunja, ed. Calc. (Gild. Bibl. 139).
 **Kos.** = Kosegarten.
 **Koshṭhîpr.** = Koshṭhîpradîpa, по ссылкам в ÇKDr.
@@ -48,16 +50,16 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Kumâras.** = Kumârasaṃbhava, ed. Штенцлера (Gild. Bibl. 136).
 **Kunt.** = Kuntâpa, десять гимнов, которые образуют особый раздел AV. Книги 20.
 **Kûrma-P.** = Kûrmapurâṇa.
-**Kuvalaj.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
+**Kuvalay.** = Kuvalajânanda (риторика) Apjadîkshita с комментарием Vaidjanâtha, называемым Alaṃkârakandrikâ. Pûna 1846. 176 листов в поперечный folio.
 **LA.** = Lassen's Anthologie (Gild. Bibl. 48).
-**Laghuǵ.** = Varâhamihira's Laghuǵâtaka.
+**Laghuj.** = Varâhamihira's Laghuǵâtaka.
 **Lalit.** = Rgya tch'er rol pa (Lalitavistâra) ou Développement des jeux, traduit etc. par Ph. Éd. Foucaux. Deuxième partie — Traduction française. Paris 1848.
 **\*Lalit. Calc.** = Lalitavistara в Bibliotheca indica.
-**Lâṭj.** = Lâṭjâjana's Sûtra к SV. Рук.
-**Lebensb. (Schiefner,)** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
+**Lâṭy.** = Lâṭjâjana's Sûtra к SV. Рук.
+**Lebensb.** = Eine tibetische Lebensbeschreibung Çâkjamuni's, des Begründers des Buddhathums, im Auszuge mitgetheilt von [продолжение в правом столбце] [...]
 
 **Liṅga-P.** = Liṅgapurâṇa.
-**Lit. (Weber,)** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
+**Lit.** = Akademische Vorlesungen über Indische Literaturgeschichte. Gehalten von A. Weber. Berlin 1852.
 **Lois.** = Луазлёр Делоншан.
 **M.** = законодательный свод Manu в издании Луазлёра Делоншана (Gild. Bibl. 289).
 **Maç. или Maç. S.** = Maçaka's Kalpasûtrâni.
@@ -76,9 +78,9 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Mâṇḍ. Up.** = Mâṇḍûkjopanishad в Bibliotheca indica.
 **Mâṇḍ. Up. Kâr.** = Gaudapâda's Kârikâ к Mâṇḍ. Up. в Bibliotheca indica.
 **Mańǵuçrîn.** = Ârjamańǵuçrînâmasańgîti, см. Verz. d. Pet. H. No. 121.
-**Mat. ind. (Ainslie,)** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
-**Matsja-P.** = Matsjapurâṇa.
-**Matsjop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
+**Mat. ind.** = Materia indica; or some account of those articles which are employed by the Hindoes, or eastern nations, in their medicine, arts and agriculture etc. London. Vol. I. 1826. Vol. II. 1831.
+**Matsya-P.** = Matsjapurâṇa.
+**Matsyop.** = Matsjopâkhjâna, ed. Боппа (Gild. Bibl. 106).
 **MBh.** = Mahâbhârata, ed. Calc. (Gild. Bibl. 93). С с. 521 словаря использованы первые три книги, с с. 601 также последние пять, начиная с ऋ также 13-я книга.
 **Med.** = Medinîkosha, ed. Calc. (Gild. Bibl. 258). Слова расположены прежде всего по последнему согласному в слове: то есть कान्त (k), खान्त (kh), गान्त (g) и т. д. Частицы (avjaja) образуют особый раздел в конце, который мы обозначили через avj.
 **Megh.** = Meghadûta, ed. Гильдемейстера (Gild. Bibl. 151).

@@ -14,23 +14,23 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ## Left column
 
 **Varâh. Bṛh. S.** = Varâhamihira's Bṛhatsaṃhitâ.
-**Varâh. L. Ǵât.** = Varâhamihira's Laghuǵâtaka.
+**Varâh. L. Jât.** = Varâhamihira's Laghuǵâtaka.
 **Vârtt.** = Vârttika by Kâtjâjana in Böhtlingk's edition of Pâṇini.
 **Vâsav.** = Vâsavadattâ; see Z. d. d. m. G. VIII, 530. ff.
 **ved.** = Vedic.
-**ʼVedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
+**Vedântas.** = Vedântasâra, ed. Calc. (Gild. Bibl. 279).
 **Veda-P.** = Vedapurâṇa.
 **Verz. d. B. H.** = Weber's catalogue of the Berlin Sanskrit manuscripts. Forms the first volume of: Die Handschriften-Verzeichnisse der Königlichen Bibliothek, edited by the Royal Chief Librarian, Privy Councillor Dr. Pertz. Berlin 1853. 8°.
 **Verz. d. Kopenh. H.** = Westergaard's catalogue of the Copenhagen Sanskrit manuscripts in: Codices orientales bibliothecae regiae Havniensis jussu et auspiciis regis Daniae augustissimi Christiani octavi enumerati et descripti. Pars prior, codices indicos continens. Havniae 1846. 4°.
 **Verz. d. Pet. H.** = Böhtlingk's catalogue of the Petersburg Sanskrit manuscripts in: Dorn, das Asiatische Museum der Kais. Akad. der Wiss. St. Petersburg 1846. p. 720. ff.
 **Vet.** = Vetâlapaṅḱaviṃçati in Lassen's Anthology (LA).
-**Viçv.** = Viçvâmitra's Kampf in Böhtlingk's Chrestomathy.
+**Viśv.** = Viçvâmitra's Kampf in Böhtlingk's Chrestomathy.
 **Vid.** = History of the Vidûshaka in Böhtlingk's Chrestomathy.
 **Vikr.** or **Vikram.** = Vikramorvaçî, ed. Bollensen (Gild. Bibl. 206). A single number refers to a Çloka, a double one — to page and line.
-**ʼVîram.** = Vîramitrodaja.
-**ʼVivâdaḱ.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
-**ʼVjavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
-**Vjutp.** = Vjutpatti or Mahâvjutpatti (see Mél. asiat. II, 382), a Sanskrit-Tibetan dictionary from the Taṅgur (vol. 123 of the Sûtra, pp. 223—377). The communications from this work, together with other notes relating to Buddhism, we owe to A. Schiefner.
+**Vîram.** = Vîramitrodaja.
+**Vivâdac.** = Vivâdaḱintâmaṇi, ed. Calc. (Gild. Bibl. 351).
+**Vyavahârat.** = Vjavahâratattva, ed. Calc. (Gild. Bibl. 342).
+**Vyutp.** = Vjutpatti or Mahâvjutpatti (see Mél. asiat. II, 382), a Sanskrit-Tibetan dictionary from the Taṅgur (vol. 123 of the Sûtra, pp. 223—377). The communications from this work, together with other notes relating to Buddhism, we owe to A. Schiefner.
 
 [decorative end-rule; left column ends here, lower half blank]
 
@@ -50,6 +50,6 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Z. f. d. W. d. Spr.** = Zeitschrift für die Wissenschaft der Sprache. Edited by Dr. A. Hoefer.
 **Z. f. vgl. Spr.** = Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, edited by Dr. Theodor Aufrecht and Dr. Adalbert Kuhn. Berlin.
 **Zur Geschichte u. s. w. (Lassen,)** = Zur Geschichte der Griechischen und Indoskythischen Könige in Baktrien, Kabul und Indien durch Entzifferung der Altkabulischen Legenden auf ihren Münzen, von Christian Lassen. Bonn 1838. 8°.
-**Zur L. u. G. d. W. (Roth,)** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
+**Zur L. u. G. d. W.** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
 
 [decorative end-rule; end of abbreviation list]
