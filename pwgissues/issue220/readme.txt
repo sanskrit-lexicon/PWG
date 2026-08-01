@@ -78,19 +78,53 @@ CDSL's own header.
 
 Diff lines: 176,061  (raw full-file diff; no block alignment)
 
+With transform 10 (space before '?' after '}' only; '>?' left unspaced
+to match AB) the step1 raw diff is 175,209; final step2 diff 51,844
+(below).
+
 ## step2.py — restore </ls> / <ls n="..."> tags into AB from CDSL
 For line pairs (CDSL_1, AB_1) aligned within the same <L> block, if the
 ONLY difference is that AB is missing some '</ls>' and/or '<ls n="...">'
-tokens (subset deletion; nothing else differs), keep the CDSL line in the
-AB output.  This is a character-level subsequence check: AB = CDSL with
-zero or more of those tokens deleted, separators/other text retained.
+tokens (subset deletion; nothing else differs), merge the missing tokens
+into AB's line.  This is a character-level subsequence check: AB = CDSL
+with zero or more of those tokens deleted, separators/other text retained.
+AB's own '√' root markers (which AB writes after <hom>N.</hom> where CDSL
+does not) are allowed as AB-side insertions and KEPT in the output — the
+merge only ever adds ls tokens to the AB line, never removes AB content.
 
-  Restored lines:        33,888
+Matching within a <replace> run uses a maximum bipartite matching over
+merge_ls(c, a) instead of positional pairing, so a line-merge on
+the AB side (e.g. L 1607, AB merges the '1〉 loc.' and 'a〉 subst.' CDSL
+lines) no longer shifts the pairing off-by-one and drops restorable
+lines like <ls>VID. 187</ls>. <ls n="VID.">211</ls>.
+
+  Restored lines (Phase A): 34,659
+  Restored lines (Phase B):  5,398
   Output: temp_ab_2.txt  594,904 lines (same count as AB_1; line
   replacement only, no CDSL-only blocks added)
-  Diff CDSL_1 vs AB_2:      53,842  (was 176,061 CDSL_1 vs AB_1)
-  Remaining replace-pairs in the <L> block alignment: 13,836
-  (all 33,888 restored lines now align as 'equal')
+  Diff CDSL_1 vs AB_2:      51,844  (was 176,061 CDSL_1 vs AB_1)
+  Word-diff change groups:  11,497 lines still differ in content
+  Exhaustive re-scan: 0 lines in any non-equal region still have a
+  restorable '-/+' pair in AB_2, so every remaining diff line is a
+  genuine content difference (not a missing </ls>/<ls n=...>).
+
+Phase B (git word-diff): runs
+  git diff --no-index --word-diff=porcelain temp_cdsl_1.txt temp_ab_2.txt
+  and stores the output in worddiff_porcelain.txt. Git's character-level
+  alignment pairs CDSL's single entry line against AB's several lines when
+  AB splits an entry (e.g. <div n="conj"> sections on their own lines, as
+  in L 47 {#aMh#} and L 1087 {#aw#}): the first AB line is still CDSL
+  minus ls tokens, so Phase A's within-line matching never sees it. For
+  each '~'-terminated porcelain group, process its '-/+' segment pairs:
+  if the '+' segment is the '-' segment with only ls tokens removed
+  (is_subset_delete), restore the '-' segment into the AB line; otherwise
+  keep '+' (AB's own content — '<ab>adj.</ab>' vs CDSL's '<lex>adj.</lex>',
+  AB's '√', etc.).  A lone '-' that is entirely ls tokens is restored too.
+  The AB line is located by exact match near the '@@'-anchored index
+  (bounded search for git's stray '~' terminators around CDSL-only blocks).
+  The pass iterates to a fixpoint: each restore shifts git's alignment and
+  can unlock further '-/+' pairs, so the diff is re-run until nothing
+  changes (the file is written back between iterations).
 
 Note: the 194K diff is a raw comparison. It is NOT comparable to the
 84K figure from the old script, which did block alignment (matching by

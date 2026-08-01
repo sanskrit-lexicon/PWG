@@ -17,11 +17,18 @@ Transforms applied to CDSL:
 9. '</ab> des <ls' → '</ab>_des_<ls'  (CDSL)
    Same convention for 'des'; AB has 128 underscore vs 1 spaced;
    CDSL has 129 spaced, 0 underscored.
-6. Collapse multiple spaces into one and remove trailing whitespace.
+ 6. Collapse multiple spaces into one and remove trailing whitespace.
    AB is clean (0 lines with 2+ spaces); CDSL has 180.
-7. '<div n="p">' → '<div n="pf">'
+ 7. '<div n="p">' → '<div n="pf">'
    AB uses <div n="pf"> predominantly (8,664 vs 15 <div n="p">);
    CDSL has 9,198 <div n="p"> and 0 <div n="pf">.
+10. '}' followed by '?' → '} ?' (CDSL).
+   Question marks that close a {%…%} gloss are spaced in AB (} ? 445)
+   but unspaced in CDSL (}? 307). A '?' after a closing tag keeps no
+   space ('>?'), matching AB's convention there (AB: >? 47, > ? 144 —
+   inconsistent, but the diff shows AB using '>?' e.g. </ls>?; and
+   </ab>?;). German gloss-internal '?' (…verfahren?%}) and the '(?)'
+   marker are left untouched (already equal in AB and CDSL).
 
 Transforms applied to AB:
 8. '</ab> zu <ls' → '</ab>_zu_<ls'
@@ -92,6 +99,7 @@ def transform_cdsl(text, headers, conjs):
             line)
         line = line.replace('</ab> zu <ls', '</ab>_zu_<ls')
         line = line.replace('</ab> des <ls', '</ab>_des_<ls')
+        line = re.sub(r'(})\?', r'\1 ?', line)
         line = line.replace('<div n="p">', '<div n="pf">')
         line = line.rstrip()
         out.append(line)
@@ -144,6 +152,10 @@ def main():
         ('<div n="conj">', '<div n="conj">'),
         ('</ab>_zu_<ls',   '</ab>_zu_<ls'),
         ('<div n="pf">',   '<div n="pf">'),
+        ('} ?',            '} ?'),
+        ('}?',             '}?'),
+        ('> ?',            '> ?'),
+        ('>?',             '>?'),
     ]:
         c = cdsl1.count(pat)
         a = ab1.count(pat)
