@@ -8,6 +8,10 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Changed
+
+- **README: Wilson print base is 1819, not CDSL 1832** (Grok 4.5 `grok-4.5`, 02-08-2026) — standing edition-basis fact + pointer to [WIL edition lineage](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) (PWG ← WIL 1819; MW/MW72 ← WIL 1832; 1819 full body OCR out of scope, preface is the bounded next unit).
+
 ### Added
 - [`docs/PIPELINE_MANUAL.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.md) + [`docs/PIPELINE_MANUAL.meta.md`](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PIPELINE_MANUAL.meta.md) — operator manual for the whole pipeline family (universal correction loop, link-target/splitting, AB v1e stream, `pwg_ls*` archaeology, prefaces, pagecolumn), modelled on PWK's H530 manual; commands quoted verbatim from in-repo readme logs, lifecycle + landmine tables included (H1785).
 - [`prefaces/METHODS.md`](prefaces/METHODS.md) § Legend store join (csl-guides UC-3): documents `prefaces/` as source-of-truth for the csl-guides machine legend store (`pwg_legend.json`) and the naming-authority join to body `csl-orig/v02/pwg/pwg.txt`; records a 12-key deterministic spot-check (12/12 content matches; flags a 2-line `sources` locus drift in 3 rows caused by the H1721 page-boundary OCR fix landing after the legend's 24-07-2026 generation date) (H1596).
