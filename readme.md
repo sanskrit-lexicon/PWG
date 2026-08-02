@@ -1,6 +1,6 @@
 # PWG — Petersburger Wörterbuch
 
-_Created: 17-12-2017 · Last updated: 28-07-2026_
+_Created: 17-12-2017 · Last updated: 02-08-2026_
 
 **PWG** (*Sanskrit-Wörterbuch*, Böhtlingk & Roth, 1855–1875) is the large,
 seven-volume "Great Petersburg Dictionary" — the foundational Sanskrit–German
@@ -10,6 +10,13 @@ for its Cologne digitisation, part of the [Sanskrit Lexicon](https://github.com/
 project's [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de/)
 initiative. A browsable landing page is published via GitHub Pages at
 [sanskrit-lexicon.github.io/PWG](https://sanskrit-lexicon.github.io/PWG/).
+
+**Print base — Wilson 1819 (not 1832).** PWG relies on H. H. Wilson's **first**
+edition (Calcutta, 1819). CDSL's digitised Wilson body is the **second** edition
+(1832), which is instead the English-gloss base of MW72 / MW. Edition-sensitive
+comparative work must not treat "Wilson" as one text. Full chain, OCR gap, and
+the bounded "1819 preface only" next step:
+[WIL edition lineage 1819/1832](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md).
 
 ## Why this matters
 
