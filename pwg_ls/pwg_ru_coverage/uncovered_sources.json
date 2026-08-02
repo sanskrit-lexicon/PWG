@@ -1,11 +1,11 @@
 {
  "occurrences_total": 41115,
- "occurrences_linked": 34372,
- "occurrences_scan": 28442,
+ "occurrences_linked": 34375,
+ "occurrences_scan": 28445,
  "occurrences_html": 5930,
- "occurrences_uncovered": 5229,
+ "occurrences_uncovered": 5227,
  "occurrences_noncoordinate_labels": 1483,
- "distinct_uncovered_works": 461,
+ "distinct_uncovered_works": 459,
  "uncovered": [
   {
    "abbr": "SUŚR.",
@@ -1676,15 +1676,7 @@
    "occurrences": 1
   },
   {
-   "abbr": "TBR. Comm.",
-   "occurrences": 1
-  },
-  {
    "abbr": "TRIPR.",
-   "occurrences": 1
-  },
-  {
-   "abbr": "TS. Comm.",
    "occurrences": 1
   },
   {
@@ -1871,10 +1863,6 @@
   },
   {
    "abbr": "MBH.",
-   "unresolved": 1
-  },
-  {
-   "abbr": "TBR.",
    "unresolved": 1
   }
  ]

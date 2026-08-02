@@ -1,12 +1,12 @@
 {
  "occurrences_total": 41115,
- "covered": 34372,
- "covered_scan": 28442,
+ "covered": 34375,
+ "covered_scan": 28445,
  "covered_html": 5930,
- "uncovered": 5229,
+ "uncovered": 5227,
  "noncoordinate_labels": 1483,
- "covered_works": 97,
- "uncovered_works": 461,
+ "covered_works": 99,
+ "uncovered_works": 459,
  "top_covered": [
   {
    "abbr": "MBH.",
@@ -178,8 +178,8 @@
   },
   {
    "abbr": "TBR.",
-   "occ": 234,
-   "scan": 234,
+   "occ": 235,
+   "scan": 235,
    "html": 0
   },
   {

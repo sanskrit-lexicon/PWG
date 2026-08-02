@@ -1,8 +1,8 @@
 {
- "total_distinct_refs": 36546,
- "resolved": 31568,
- "resolved_scan": 26286,
- "resolved_html": 5282,
+ "total_distinct_refs": 36548,
+ "resolved": 31573,
+ "resolved_scan": 26289,
+ "resolved_html": 5284,
  "coverage_pct": 86.4,
  "distinct_abbreviations": 709,
  "abbreviations": [
@@ -21,10 +21,10 @@
   },
   {
    "abbr": "ṚV.",
-   "total": 3433,
-   "resolved": 3432,
+   "total": 3435,
+   "resolved": 3434,
    "scan": 0,
-   "html": 3432,
+   "html": 3434,
    "repos": [
     "rvlinks"
    ],
@@ -362,8 +362,8 @@
   {
    "abbr": "TBR.",
    "total": 211,
-   "resolved": 209,
-   "scan": 209,
+   "resolved": 210,
+   "scan": 210,
    "html": 0,
    "repos": [
     "taittiriyabr"
@@ -6551,12 +6551,14 @@
   {
    "abbr": "TBR. Comm.",
    "total": 1,
-   "resolved": 0,
-   "scan": 0,
+   "resolved": 1,
+   "scan": 1,
    "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
+   "repos": [
+    "taittiriyabr"
+   ],
+   "sample_ref": "TBR. Comm. 1,89,2",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/taittiriyabr/app1?1,89,2"
   },
   {
    "abbr": "TR.",
@@ -6581,12 +6583,14 @@
   {
    "abbr": "TS. Comm.",
    "total": 1,
-   "resolved": 0,
-   "scan": 0,
+   "resolved": 1,
+   "scan": 1,
    "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
+   "repos": [
+    "taittiriyas"
+   ],
+   "sample_ref": "TS. Comm. 1,53,3",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/taittiriyas/app1?1,53,3"
   },
   {
    "abbr": "TS. Comm. II,",
