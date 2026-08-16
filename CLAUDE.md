@@ -1,16 +1,21 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Created: 06-05-2026 · Last updated: 16-08-2026_
 
-## Project Overview
+**PWG** is the correction and enrichment layer for the large Petersburger
+Wörterbuch (Böhtlingk & Roth, 1855–1875). Primary input is
+[`../pwgxml/pwg.xml`](https://github.com/sanskrit-lexicon/pwgxml) (sibling
+checkout, not tracked here). This repo does **not** hold the canonical
+digitised source — that is
+[csl-orig `v02/pwg/`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/pwg).
 
-This is the **PWG Sanskrit Dictionary Data Processing** repository — part of the [sanskrit-lexicon](https://github.com/sanskrit-lexicon) project. It contains scripts and data for digitizing, correcting, and enriching the PWG (Petersburger Wörterbuch) Sanskrit dictionary.
+Landing page: [sanskrit-lexicon.github.io/PWG](https://sanskrit-lexicon.github.io/PWG/).
+Repo map, `<ls>` program, and scan-link conventions:
+[README.md](https://github.com/sanskrit-lexicon/PWG/blob/main/README.md).
 
-The primary input is `pwg.xml` (located in a sibling `../pwgxml/` directory, not tracked in this repo). All processing reads from or produces corrections to that XML file.
+## What to run
 
-## Getting the Input Data
-
-Before running most scripts, obtain `pwg.xml` by running this script from the parent `GitHub/` directory:
+Obtain `pwg.xml` (from the parent of this checkout) if missing:
 
 ```sh
 curl -o pwgxml.zip http://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2013/downloads/pwgxml.zip
@@ -18,76 +23,45 @@ unzip pwgxml.zip
 rm -r pwgxml && mv xml pwgxml && rm pwgxml.zip
 ```
 
-## Key Commands
+Apply a change file (never edit `pwg.xml` in place):
 
-**Literary source abbreviation pipeline** (run from `pwg_ls/pwg_dhaval/abbrvwork/`):
 ```sh
-sh makeabbrv.sh
-```
-This runs: `python abbrv.py $PWG` → transliteration → `php displayhtml.php` → `abbrvoutput/display.html`
-
-**Apply line-level corrections to a dictionary file** (pattern used throughout `pwg_ls2/*/`):
-```sh
-python updateByLine.py <input_file> <changein_file> <output_file>
-```
-The `changein_file` is a UTF-8 text with paired lines: `NNN old <original>` / `NNN new <replacement>`. Lines beginning with `;` are comments.
-
-**Generate a JavaScript index for a literary source** (used in `pwgissues/*/`):
-```sh
-python make_js_index.py <volume> <index_edit.txt> <output.js>
+python updateByLine.py <input_file> <changefile> <output_file>
 ```
 
-## Architecture
-
-The work is organized in iterative rounds:
-
-| Directory | Purpose |
-|---|---|
-| `pwg_ls/` | Round 1: Extract and analyze `<ls>` (literary source) tags from pwg.xml |
-| `pwg_ls1/` | Round 2: Authority/bibliography record refinement (begun Dec 2017) |
-| `pwg_ls2/` | Round 3: Per-source corrections; subfolders named by abbreviation (e.g., `RV/`, `ak/`, `mbh1/`) |
-| `pwgissues/` | One folder per GitHub issue (`issueNNN/` for analysis, `issueNNNfix/` for the correction scripts) |
-| `verbs01a/` | Verb identification and correlation with MW dictionary (begun Mar 2020) |
-| `RussianWords/` | Russian etymologies extraction |
-| `pwgheader/` | Volume/header metadata |
-
-### Literary Source Pipeline (`pwg_ls/pwg_dhaval/abbrvwork/`)
-
-Sequential scripts: `abbrv0.py` → `abbrv1.py` → `abbrv2.py` → `abbrv3.py` → `abbrv4.py`
-
-Each step refines the extracted `<ls>` tags: raw extraction → separate pure-number refs → unique sorted list → sort by occurrence count → match with bibliography database (`pwgbib14_roman.txt`). Outputs land in `abbrvoutput/`.
-
-Transliteration between **Anglicized Sanskrit (AS)** and **IAST/Roman** is done via `transcoder/as_roman.py` (and the reverse `roman_as.py`), driven by `as_roman.xml` mapping files.
-
-### Issue-Driven Corrections (`pwgissues/`)
-
-Each GitHub issue gets two folders:
-- `issueNNN/` — analysis scripts, index building, `readme.txt` with the full workflow log
-- `issueNNNfix/` — correction scripts applied to pwg.xml and sibling dictionaries (MW, PW, etc.)
-
-`readme.txt` files in issue folders serve as living workflow logs — commands run, outputs observed, decisions made.
-
-### `updateByLine.py` Pattern
-
-Used across `pwg_ls2/*/` and `pwgissues/*/` to apply corrections. The change file format:
 ```
-1234 old original line text here
-1234 new replacement line text here
+1234 old exact original line text
+1234 new exact replacement line text
 ```
-Supports `new` (replace), `ins` (insert after), and `del` (delete). All files must be UTF-8.
 
-## Dependencies
+`ins` / `del` / `;` comments. UTF-8, no BOM.
 
-- **Python 3** (scripts use `from __future__ import print_function` for legacy compatibility)
-- **lxml** — XML parsing (`pip install lxml`)
-- **PHP** — HTML display generation (`displayhtml.php`)
-- **pwg.xml** — in sibling directory `../pwgxml/pwg.xml`
+Literary-source abbreviation pipeline (from
+`pwg_ls/pwg_dhaval/abbrvwork/`): `sh makeabbrv.sh`.
 
-## Conventions
+Link-target / scan work: a `<ls>` abbreviation becomes a click-through to
+the scanned PDF page. Per-source folders live under `pwg_ls2/`; each GitHub
+issue gets `pwgissues/issueNNN/` (analysis) + `issueNNNfix/` (scripts).
+`readme.txt` in those folders is a run log, not a spec.
 
-Issues #89 and #99 are administrative noise — skip them in any triage or audit.
+Full correction sequence (snapshot → apply → regenerate → validate):
+[csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
-- Scripts are run from the directory containing them (relative paths assumed).
-- `readme.txt` files in issue folders are workflow logs, not documentation — they record what was actually run.
-- Intermediate outputs (`.txt` files in `abbrvoutput/`) are regenerated by scripts and not tracked.
-- Corrections to `pwg.xml` are never made directly — they are expressed as change files applied by scripts.
+## Do not
+
+- Edit `../pwgxml/pwg.xml` directly.
+- Commit or push [csl-orig](https://github.com/sanskrit-lexicon/csl-orig).
+  Queue via
+  [`/cologne-correction-queue`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-correction-queue.md).
+- Recopy the org issue-label table into this file. Issues #89 and #99 are
+  administrative noise — skip them in triage.
+
+## Primer
+
+[SANSKRIT_CONTEXT_PRIMER.md](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
+
+Issues use the Cologne taxonomy — see
+[`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
+PWG uses org projects **1–4** (MWS is the exception with 5–8).
+
+_Dr. Mārcis Gasūns_
