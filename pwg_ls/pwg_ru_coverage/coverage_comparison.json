@@ -1,12 +1,12 @@
 {
  "occurrences_total": 41115,
- "covered": 34375,
- "covered_scan": 28445,
+ "covered": 34380,
+ "covered_scan": 28450,
  "covered_html": 5930,
- "uncovered": 5227,
+ "uncovered": 5222,
  "noncoordinate_labels": 1483,
- "covered_works": 99,
- "uncovered_works": 459,
+ "covered_works": 100,
+ "uncovered_works": 458,
  "top_covered": [
   {
    "abbr": "MBH.",

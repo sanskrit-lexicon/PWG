@@ -1,11 +1,11 @@
 {
  "occurrences_total": 41115,
- "occurrences_linked": 34375,
- "occurrences_scan": 28445,
+ "occurrences_linked": 34380,
+ "occurrences_scan": 28450,
  "occurrences_html": 5930,
- "occurrences_uncovered": 5227,
+ "occurrences_uncovered": 5222,
  "occurrences_noncoordinate_labels": 1483,
- "distinct_uncovered_works": 459,
+ "distinct_uncovered_works": 458,
  "uncovered": [
   {
    "abbr": "SUŚR.",
@@ -617,10 +617,6 @@
   },
   {
    "abbr": "KĀVYĀD.",
-   "occurrences": 5
-  },
-  {
-   "abbr": "MBh.",
    "occurrences": 5
   },
   {
