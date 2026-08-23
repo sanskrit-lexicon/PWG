@@ -1,9 +1,11 @@
 {
- "total_distinct_refs": 36548,
- "resolved": 31573,
- "resolved_scan": 26289,
- "resolved_html": 5284,
- "coverage_pct": 86.4,
+ "total_distinct_refs": 36729,
+ "resolved": 31759,
+ "resolved_scan": 26294,
+ "resolved_html": 5465,
+ "noncoordinate_labels": 228,
+ "unresolved": 4742,
+ "coverage_pct": 86.5,
  "distinct_abbreviations": 709,
  "abbreviations": [
   {
@@ -12,6 +14,8 @@
    "resolved": 5510,
    "scan": 5510,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [
     "mbhbomb",
     "mbhcalc"
@@ -21,10 +25,12 @@
   },
   {
    "abbr": "ṚV.",
-   "total": 3435,
-   "resolved": 3434,
+   "total": 3613,
+   "resolved": 3612,
    "scan": 0,
-   "html": 3434,
+   "html": 3612,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "rvlinks"
    ],
@@ -37,6 +43,8 @@
    "resolved": 2969,
    "scan": 2969,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "ramayanabom",
     "ramayanagorr",
@@ -51,6 +59,8 @@
    "resolved": 2034,
    "scan": 2034,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "bhagp_bom",
     "bhagp_bur"
@@ -64,6 +74,8 @@
    "resolved": 1619,
    "scan": 1619,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "shatapathabr"
    ],
@@ -76,6 +88,8 @@
    "resolved": 1443,
    "scan": 1443,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "manu"
    ],
@@ -88,6 +102,8 @@
    "resolved": 1419,
    "scan": 1419,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "kss"
    ],
@@ -96,10 +112,12 @@
   },
   {
    "abbr": "AV.",
-   "total": 1110,
-   "resolved": 1109,
+   "total": 1113,
+   "resolved": 1112,
    "scan": 0,
-   "html": 1109,
+   "html": 1112,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "avlinks"
    ],
@@ -112,6 +130,8 @@
    "resolved": 962,
    "scan": 962,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "boesp1",
     "boesp2"
@@ -125,6 +145,8 @@
    "resolved": 866,
    "scan": 866,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "hariv"
    ],
@@ -137,6 +159,8 @@
    "resolved": 741,
    "scan": 0,
    "html": 741,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "ashtadhyayi.com"
    ],
@@ -149,6 +173,8 @@
    "resolved": 657,
    "scan": 657,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "ramayanagorr"
    ],
@@ -161,6 +187,8 @@
    "resolved": 566,
    "scan": 566,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "raghuvamsa"
    ],
@@ -173,6 +201,8 @@
    "resolved": 543,
    "scan": 543,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "rajatar",
     "rajatarcalc"
@@ -186,6 +216,8 @@
    "resolved": 516,
    "scan": 516,
    "html": 0,
+   "label": 0,
+   "unresolved": 21,
    "repos": [
     "brihatsam"
    ],
@@ -198,6 +230,8 @@
    "resolved": 481,
    "scan": 481,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -210,6 +244,8 @@
    "resolved": 439,
    "scan": 439,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "shakuntala"
    ],
@@ -222,6 +258,8 @@
    "resolved": 430,
    "scan": 430,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "boesp2"
    ],
@@ -234,6 +272,8 @@
    "resolved": 377,
    "scan": 377,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "bhattikavya"
    ],
@@ -246,6 +286,8 @@
    "resolved": 355,
    "scan": 355,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "markandeyapurana"
    ],
@@ -258,6 +300,8 @@
    "resolved": 352,
    "scan": 352,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "taittiriyas"
    ],
@@ -270,6 +314,8 @@
    "resolved": 315,
    "scan": 315,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "katyasr"
    ],
@@ -282,6 +328,8 @@
    "resolved": 276,
    "scan": 276,
    "html": 0,
+   "label": 1,
+   "unresolved": 3,
    "repos": [
     "mugdhabodha"
    ],
@@ -294,6 +342,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 277,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -304,6 +354,8 @@
    "resolved": 264,
    "scan": 264,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest2"
    ],
@@ -316,6 +368,8 @@
    "resolved": 257,
    "scan": 257,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "aitbr",
     "aitbr_auf"
@@ -329,6 +383,8 @@
    "resolved": 240,
    "scan": 240,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "vajasasa"
    ],
@@ -341,6 +397,8 @@
    "resolved": 239,
    "scan": 239,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "yajnavalkya"
    ],
@@ -353,6 +411,8 @@
    "resolved": 224,
    "scan": 224,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -365,6 +425,8 @@
    "resolved": 210,
    "scan": 210,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "taittiriyabr"
    ],
@@ -377,6 +439,8 @@
    "resolved": 204,
    "scan": 204,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "bhagavadgita"
    ],
@@ -389,6 +453,8 @@
    "resolved": 193,
    "scan": 193,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest1"
    ],
@@ -401,6 +467,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 167,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -411,6 +479,8 @@
    "resolved": 164,
    "scan": 164,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest1"
    ],
@@ -423,6 +493,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 163,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -433,6 +505,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 140,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -443,6 +517,8 @@
    "resolved": 139,
    "scan": 139,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "kumaras"
    ],
@@ -455,6 +531,8 @@
    "resolved": 136,
    "scan": 136,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "ramayanagorr"
    ],
@@ -467,6 +545,8 @@
    "resolved": 133,
    "scan": 133,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "amara_dlc"
    ],
@@ -479,6 +559,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 134,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -489,6 +571,8 @@
    "resolved": 129,
    "scan": 129,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "abch2"
    ],
@@ -501,6 +585,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 122,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -511,6 +597,8 @@
    "resolved": 121,
    "scan": 121,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [
     "Oxf_Cat_Aufrecht"
    ],
@@ -523,6 +611,8 @@
    "resolved": 117,
    "scan": 117,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest2"
    ],
@@ -535,6 +625,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 114,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -545,6 +637,8 @@
    "resolved": 114,
    "scan": 114,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "meghasrnga"
    ],
@@ -557,6 +651,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 113,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -567,6 +663,8 @@
    "resolved": 110,
    "scan": 110,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "www.sanskrit-lexicon.uni-koeln.de"
    ],
@@ -579,6 +677,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 106,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -589,6 +689,8 @@
    "resolved": 106,
    "scan": 106,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "sahityadarpana"
    ],
@@ -601,6 +703,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 102,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -611,6 +715,8 @@
    "resolved": 90,
    "scan": 90,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "vikramor"
    ],
@@ -623,6 +729,8 @@
    "resolved": 85,
    "scan": 85,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "malavikagni"
    ],
@@ -635,6 +743,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 83,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -645,6 +755,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 82,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -655,6 +767,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 77,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -665,6 +779,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 77,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -675,6 +791,8 @@
    "resolved": 74,
    "scan": 74,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pancar"
    ],
@@ -687,6 +805,8 @@
    "resolved": 71,
    "scan": 71,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "nirukta"
    ],
@@ -699,6 +819,8 @@
    "resolved": 69,
    "scan": 69,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "bhartrhari"
    ],
@@ -711,6 +833,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 68,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -721,6 +845,8 @@
    "resolved": 65,
    "scan": 65,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -733,6 +859,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 63,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -743,6 +871,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 60,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -753,6 +883,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 56,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -763,6 +895,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 53,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -773,6 +907,8 @@
    "resolved": 53,
    "scan": 53,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -785,6 +921,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 51,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -795,6 +933,8 @@
    "resolved": 48,
    "scan": 48,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "gitagov"
    ],
@@ -807,6 +947,8 @@
    "resolved": 48,
    "scan": 48,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -819,6 +961,8 @@
    "resolved": 43,
    "scan": 43,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "ramayanabom"
    ],
@@ -831,6 +975,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 43,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -841,6 +987,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 42,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -851,6 +999,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 41,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -861,6 +1011,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 40,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -871,6 +1023,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 39,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -881,6 +1035,8 @@
    "resolved": 37,
    "scan": 37,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "anekarthasamgraha"
    ],
@@ -893,6 +1049,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 37,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -903,6 +1061,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 37,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -913,6 +1073,8 @@
    "resolved": 37,
    "scan": 37,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest1"
    ],
@@ -925,6 +1087,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 37,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -935,6 +1099,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 35,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -945,6 +1111,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 35,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -955,6 +1123,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 32,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -965,6 +1135,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 32,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -975,6 +1147,8 @@
    "resolved": 31,
    "scan": 31,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -987,6 +1161,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 30,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -997,6 +1173,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 30,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1007,6 +1185,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 30,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1017,6 +1197,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1027,6 +1209,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1037,6 +1221,8 @@
    "resolved": 26,
    "scan": 26,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [
     "armh2"
    ],
@@ -1049,6 +1235,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1059,6 +1247,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1069,6 +1259,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1079,6 +1271,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 28,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1089,6 +1283,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 29,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1099,6 +1295,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 27,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1109,6 +1307,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 27,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1119,6 +1319,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 27,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1129,6 +1331,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 27,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1139,6 +1343,8 @@
    "resolved": 26,
    "scan": 26,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankoseorn"
    ],
@@ -1151,6 +1357,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 25,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1161,6 +1369,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 25,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1171,6 +1381,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 25,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1181,6 +1393,8 @@
    "resolved": 24,
    "scan": 24,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -1193,6 +1407,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 23,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1203,6 +1419,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 23,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1213,6 +1431,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 21,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1223,6 +1443,8 @@
    "resolved": 21,
    "scan": 21,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "nirukta"
    ],
@@ -1235,6 +1457,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 22,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1245,6 +1469,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 21,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1255,6 +1481,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 21,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1265,6 +1493,8 @@
    "resolved": 19,
    "scan": 19,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "bhartrhari"
    ],
@@ -1277,6 +1507,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 20,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1287,6 +1519,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1297,6 +1531,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1307,6 +1543,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1317,6 +1555,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1327,6 +1567,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1337,6 +1579,8 @@
    "resolved": 19,
    "scan": 19,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "ramayanaschl"
    ],
@@ -1349,6 +1593,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 19,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1359,6 +1605,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 18,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1369,6 +1617,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 18,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1379,6 +1629,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 18,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1389,6 +1641,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 18,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1399,6 +1653,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 18,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1409,6 +1665,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1419,6 +1677,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1429,6 +1689,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1439,6 +1701,8 @@
    "resolved": 16,
    "scan": 16,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -1451,6 +1715,8 @@
    "resolved": 16,
    "scan": 16,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "raghuvamsacalc"
    ],
@@ -1463,6 +1729,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1473,6 +1741,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1483,6 +1753,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 16,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1493,6 +1765,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 15,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1503,6 +1777,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 15,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1513,6 +1789,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 14,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1523,6 +1801,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 15,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1533,6 +1813,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 14,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1543,6 +1825,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 14,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1553,6 +1837,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1563,6 +1849,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 14,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1573,6 +1861,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1583,6 +1873,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 14,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1593,6 +1885,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1603,6 +1897,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1613,6 +1909,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1623,6 +1921,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 12,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1633,6 +1933,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1643,6 +1945,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 13,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1653,6 +1957,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 12,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1663,6 +1969,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 12,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1673,6 +1981,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 12,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1683,6 +1993,8 @@
    "resolved": 12,
    "scan": 12,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bchrest1"
    ],
@@ -1695,6 +2007,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1705,6 +2019,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1715,6 +2031,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1725,6 +2043,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 10,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1735,6 +2055,8 @@
    "resolved": 11,
    "scan": 11,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -1747,6 +2069,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1757,6 +2081,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1767,6 +2093,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 11,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1777,6 +2105,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 10,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1787,6 +2117,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1797,6 +2129,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 10,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1807,6 +2141,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 10,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1817,6 +2153,8 @@
    "resolved": 10,
    "scan": 10,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "anekarthasamgraha"
    ],
@@ -1829,6 +2167,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1839,6 +2179,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1849,6 +2191,8 @@
    "resolved": 9,
    "scan": 9,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -1861,6 +2205,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1871,6 +2217,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1881,6 +2229,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1891,6 +2241,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1901,6 +2253,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1911,6 +2265,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1921,6 +2277,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1931,6 +2289,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1941,6 +2301,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1951,6 +2313,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1961,6 +2325,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 9,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1971,6 +2337,8 @@
    "resolved": 8,
    "scan": 8,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -1983,6 +2351,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -1993,6 +2363,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2003,6 +2375,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 8,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2013,6 +2387,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2023,6 +2399,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2033,6 +2411,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2043,6 +2423,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2053,6 +2435,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2063,6 +2447,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2073,6 +2459,8 @@
    "resolved": 7,
    "scan": 7,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "hitopadesha"
    ],
@@ -2085,6 +2473,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2095,6 +2485,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2105,6 +2497,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2115,6 +2509,8 @@
    "resolved": 7,
    "scan": 7,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "rajatar",
     "rajatarcalc"
@@ -2128,6 +2524,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2138,6 +2536,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2148,6 +2548,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2158,6 +2560,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2168,6 +2572,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 7,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2178,6 +2584,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2188,6 +2596,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2198,6 +2608,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2208,6 +2620,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2218,6 +2632,8 @@
    "resolved": 6,
    "scan": 6,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -2230,6 +2646,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2240,6 +2658,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2250,6 +2670,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2260,6 +2682,8 @@
    "resolved": 6,
    "scan": 6,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankoseorn"
    ],
@@ -2272,6 +2696,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2282,6 +2708,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 6,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2292,6 +2720,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2302,6 +2732,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2312,6 +2744,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2322,6 +2756,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2332,6 +2768,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2342,6 +2780,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2352,6 +2792,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2362,6 +2804,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2372,6 +2816,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2382,6 +2828,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2389,12 +2837,16 @@
   {
    "abbr": "MBh.",
    "total": 5,
-   "resolved": 0,
-   "scan": 0,
+   "resolved": 5,
+   "scan": 5,
    "html": 0,
-   "repos": [],
-   "sample_ref": null,
-   "sample_url": null
+   "label": 0,
+   "unresolved": 0,
+   "repos": [
+    "mbhbomb"
+   ],
+   "sample_ref": "MBh. 1,71,17.",
+   "sample_url": "https://sanskrit-lexicon-scans.github.io/mbhbomb/app1?1,71,17"
   },
   {
    "abbr": "MED. n.",
@@ -2402,6 +2854,8 @@
    "resolved": 5,
    "scan": 5,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -2414,6 +2868,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2424,6 +2880,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2434,6 +2892,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2444,6 +2904,8 @@
    "resolved": 5,
    "scan": 5,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -2456,6 +2918,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2466,6 +2930,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2476,6 +2942,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2486,6 +2954,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2496,6 +2966,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2506,6 +2978,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2516,6 +2990,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2526,6 +3002,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2536,6 +3014,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2546,6 +3026,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 5,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2556,6 +3038,8 @@
    "resolved": 5,
    "scan": 5,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "meghasrnga"
    ],
@@ -2568,6 +3052,8 @@
    "resolved": 4,
    "scan": 4,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bhartrhari"
    ],
@@ -2580,6 +3066,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2590,6 +3078,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2600,6 +3090,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2610,6 +3102,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2620,6 +3114,8 @@
    "resolved": 4,
    "scan": 4,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -2632,6 +3128,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2642,6 +3140,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2652,6 +3152,8 @@
    "resolved": 4,
    "scan": 4,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -2664,6 +3166,8 @@
    "resolved": 4,
    "scan": 4,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -2676,6 +3180,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2686,6 +3192,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2696,6 +3204,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2706,6 +3216,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2716,6 +3228,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2726,6 +3240,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 4,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2736,6 +3252,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2746,6 +3264,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2756,6 +3276,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2766,6 +3288,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2776,6 +3300,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2786,6 +3312,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "amara_col"
    ],
@@ -2798,6 +3326,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2808,6 +3338,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2818,6 +3350,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2828,6 +3362,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2838,6 +3374,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "abch2"
    ],
@@ -2850,6 +3388,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2860,6 +3400,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2870,6 +3412,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2880,6 +3424,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2890,6 +3436,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2900,6 +3448,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2910,6 +3460,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2920,6 +3472,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2930,6 +3484,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankoseorn"
    ],
@@ -2942,6 +3498,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2952,6 +3510,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2962,6 +3522,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2972,6 +3534,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2982,6 +3546,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -2992,6 +3558,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3002,6 +3570,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "boesp1"
    ],
@@ -3014,6 +3584,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3024,6 +3596,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3034,6 +3608,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3044,6 +3620,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3054,6 +3632,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3064,6 +3644,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3074,6 +3656,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3084,6 +3668,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3094,6 +3680,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "vikramor"
    ],
@@ -3106,6 +3694,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3116,6 +3706,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3126,6 +3718,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3136,6 +3730,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3146,6 +3742,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3156,6 +3754,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3166,6 +3766,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3176,6 +3778,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3186,6 +3790,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3196,6 +3802,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3206,6 +3814,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3216,6 +3826,8 @@
    "resolved": 3,
    "scan": 3,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "shatapathabr"
    ],
@@ -3228,6 +3840,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 3,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3238,6 +3852,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3248,6 +3864,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3258,6 +3876,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3268,6 +3888,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3278,6 +3900,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3288,6 +3912,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3298,6 +3924,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3308,6 +3936,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3318,6 +3948,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3328,6 +3960,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3338,6 +3972,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3348,6 +3984,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3358,6 +3996,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3368,6 +4008,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3378,6 +4020,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3388,6 +4032,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3398,6 +4044,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3408,6 +4056,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3418,6 +4068,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3428,6 +4080,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3438,6 +4092,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3448,6 +4104,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3458,6 +4116,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3468,6 +4128,8 @@
    "resolved": 2,
    "scan": 2,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -3480,6 +4142,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -3492,6 +4156,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3502,6 +4168,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3512,6 +4180,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3522,6 +4192,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3532,6 +4204,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3542,6 +4216,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3552,6 +4228,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3562,6 +4240,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3572,6 +4252,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3582,6 +4264,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3592,6 +4276,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3602,6 +4288,8 @@
    "resolved": 2,
    "scan": 2,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "ramayanagorr"
    ],
@@ -3614,6 +4302,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3624,6 +4314,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3634,6 +4326,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3644,6 +4338,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3654,6 +4350,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3664,6 +4362,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3674,6 +4374,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3684,6 +4386,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3694,6 +4398,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3704,6 +4410,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3714,6 +4422,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3724,6 +4434,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3734,6 +4446,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3744,6 +4458,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3754,6 +4470,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3764,6 +4482,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3774,6 +4494,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3784,6 +4506,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3794,6 +4518,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3804,6 +4530,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3814,6 +4542,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3824,6 +4554,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3834,6 +4566,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3844,6 +4578,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3854,6 +4590,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 2,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3864,6 +4602,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3874,6 +4614,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3884,6 +4626,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3894,6 +4638,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3904,6 +4650,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3914,6 +4662,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3924,6 +4674,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3934,6 +4686,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "amara_col"
    ],
@@ -3946,6 +4700,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3956,6 +4712,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3966,6 +4724,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3976,6 +4736,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3986,6 +4748,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -3996,6 +4760,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4006,6 +4772,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4016,6 +4784,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4026,6 +4796,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4036,6 +4808,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4046,6 +4820,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4056,6 +4832,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4066,6 +4844,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4076,6 +4856,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4086,6 +4868,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4096,6 +4880,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4106,6 +4892,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4116,6 +4904,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4126,6 +4916,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4136,6 +4928,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4146,6 +4940,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4156,6 +4952,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bhagp_bom"
    ],
@@ -4168,6 +4966,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4178,6 +4978,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4188,6 +4990,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4198,6 +5002,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4208,6 +5014,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4218,6 +5026,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4228,6 +5038,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4238,6 +5050,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4248,6 +5062,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4258,6 +5074,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4268,6 +5086,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4278,6 +5098,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4288,6 +5110,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4298,6 +5122,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4308,6 +5134,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4318,6 +5146,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4328,6 +5158,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4338,6 +5170,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4348,6 +5182,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4358,6 +5194,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4368,6 +5206,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "bhartrhari"
    ],
@@ -4380,6 +5220,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4390,6 +5232,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4400,6 +5244,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4410,6 +5256,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4420,6 +5268,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4430,6 +5280,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4440,6 +5292,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4450,6 +5304,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4460,6 +5316,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4470,6 +5328,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4480,6 +5340,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4490,6 +5352,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4500,6 +5364,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4510,6 +5376,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4520,6 +5388,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4530,6 +5400,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4540,6 +5412,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4550,6 +5424,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4560,6 +5436,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4570,6 +5448,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4580,6 +5460,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4590,6 +5472,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4600,6 +5484,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4610,6 +5496,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4620,6 +5508,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4630,6 +5520,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4640,6 +5532,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4650,6 +5544,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4660,6 +5556,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4670,6 +5568,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4680,6 +5580,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4690,6 +5592,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4700,6 +5604,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4710,6 +5616,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4720,6 +5628,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4730,6 +5640,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4740,6 +5652,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4750,6 +5664,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4760,6 +5676,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4770,6 +5688,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4780,6 +5700,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4790,6 +5712,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4800,6 +5724,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4810,6 +5736,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4820,6 +5748,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4830,6 +5760,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4840,6 +5772,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4850,6 +5784,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4860,6 +5796,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4870,6 +5808,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4880,6 +5820,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4890,6 +5832,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4900,6 +5844,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4910,6 +5856,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4920,6 +5868,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4930,6 +5880,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4940,6 +5892,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4950,6 +5904,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4960,6 +5916,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4970,6 +5928,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4980,6 +5940,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -4990,6 +5952,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5000,6 +5964,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5010,6 +5976,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5020,6 +5988,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5030,6 +6000,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5040,6 +6012,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5050,6 +6024,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5060,6 +6036,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5070,6 +6048,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5080,6 +6060,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5090,6 +6072,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5100,6 +6084,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5110,6 +6096,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5120,6 +6108,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5130,6 +6120,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5140,6 +6132,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5150,6 +6144,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5160,6 +6156,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5170,6 +6168,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5180,6 +6180,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5190,6 +6192,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5200,6 +6204,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5210,6 +6216,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5220,6 +6228,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5230,6 +6240,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5240,6 +6252,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5250,6 +6264,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5260,6 +6276,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5270,6 +6288,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5280,6 +6300,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5290,6 +6312,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5300,6 +6324,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5310,6 +6336,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5320,6 +6348,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5330,6 +6360,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5340,6 +6372,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5350,6 +6384,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5360,6 +6396,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5370,6 +6408,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5380,6 +6420,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5390,6 +6432,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5400,6 +6444,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5410,6 +6456,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5420,6 +6468,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5430,6 +6480,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5440,6 +6492,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5450,6 +6504,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5460,6 +6516,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5470,6 +6528,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5480,6 +6540,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5490,6 +6552,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5500,6 +6564,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5510,6 +6576,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5520,6 +6588,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5530,6 +6600,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5540,6 +6612,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5550,6 +6624,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5560,6 +6636,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5570,6 +6648,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5580,6 +6660,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5590,6 +6672,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5600,6 +6684,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5610,6 +6696,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5620,6 +6708,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5630,6 +6720,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5640,6 +6732,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5650,6 +6744,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5660,6 +6756,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5670,6 +6768,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5680,6 +6780,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -5692,6 +6794,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -5704,6 +6808,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -5716,6 +6822,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -5728,6 +6836,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "medini"
    ],
@@ -5740,6 +6850,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5750,6 +6862,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5760,6 +6874,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5770,6 +6886,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5780,6 +6898,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5790,6 +6910,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5800,6 +6922,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5810,6 +6934,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5820,6 +6946,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5830,6 +6958,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5840,6 +6970,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5850,6 +6982,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5860,6 +6994,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5870,6 +7006,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5880,6 +7018,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5890,6 +7030,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5900,6 +7042,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5910,6 +7054,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "nirukta"
    ],
@@ -5922,6 +7068,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5932,6 +7080,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5942,6 +7092,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5952,6 +7104,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5962,6 +7116,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5972,6 +7128,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5982,6 +7140,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -5992,6 +7152,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6002,6 +7164,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6012,6 +7176,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6022,6 +7188,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6032,6 +7200,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6042,6 +7212,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6052,6 +7224,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6062,6 +7236,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6072,6 +7248,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "pantankose"
    ],
@@ -6084,6 +7262,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6094,6 +7274,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6104,6 +7286,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6114,6 +7298,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6124,6 +7310,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6134,6 +7322,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6144,6 +7334,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6154,6 +7346,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6164,6 +7358,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6174,6 +7370,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6184,6 +7382,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6194,6 +7394,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6204,6 +7406,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6214,6 +7418,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6224,6 +7430,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6234,6 +7442,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6244,6 +7454,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6254,6 +7466,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6264,6 +7478,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6274,6 +7490,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6284,6 +7502,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6294,6 +7514,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6304,6 +7526,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6314,6 +7538,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6324,6 +7550,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6334,6 +7562,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6344,6 +7574,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6354,6 +7586,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6364,6 +7598,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6374,6 +7610,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6384,6 +7622,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6394,6 +7634,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6404,6 +7646,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6414,6 +7658,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6424,6 +7670,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6434,6 +7682,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6444,6 +7694,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6454,6 +7706,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6464,6 +7718,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6474,6 +7730,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6484,6 +7742,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6494,6 +7754,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6504,6 +7766,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6514,6 +7778,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6524,6 +7790,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6534,6 +7802,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6544,6 +7814,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6554,6 +7826,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "taittiriyabr"
    ],
@@ -6566,6 +7840,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6576,6 +7852,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6586,6 +7864,8 @@
    "resolved": 1,
    "scan": 1,
    "html": 0,
+   "label": 0,
+   "unresolved": 0,
    "repos": [
     "taittiriyas"
    ],
@@ -6598,6 +7878,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6608,6 +7890,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6618,6 +7902,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6628,6 +7914,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6638,6 +7926,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6648,6 +7938,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6658,6 +7950,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6668,6 +7962,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6678,6 +7974,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6688,6 +7986,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6698,6 +7998,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6708,6 +8010,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6718,6 +8022,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6728,6 +8034,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6738,6 +8046,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6748,6 +8058,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6758,6 +8070,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6768,6 +8082,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6778,6 +8094,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6788,6 +8106,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6798,6 +8118,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6808,6 +8130,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6818,6 +8142,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6828,6 +8154,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6838,6 +8166,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6848,6 +8178,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6858,6 +8190,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6868,6 +8202,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6878,6 +8214,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6888,6 +8226,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6898,6 +8238,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6908,6 +8250,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6918,6 +8262,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6928,6 +8274,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6938,6 +8286,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6948,6 +8298,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6958,6 +8310,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6968,6 +8322,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6978,6 +8334,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6988,6 +8346,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -6998,6 +8358,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7008,6 +8370,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7018,6 +8382,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7028,6 +8394,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7038,6 +8406,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7048,6 +8418,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7058,6 +8430,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7068,6 +8442,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7078,6 +8454,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7088,6 +8466,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7098,6 +8478,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7108,6 +8490,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7118,6 +8502,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7128,6 +8514,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7138,6 +8526,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7148,6 +8538,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7158,6 +8550,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7168,6 +8562,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7178,6 +8574,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7188,6 +8586,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7198,6 +8598,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7208,6 +8610,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7218,6 +8622,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7228,6 +8634,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7238,6 +8646,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7248,6 +8658,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7258,6 +8670,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7268,6 +8682,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7278,6 +8694,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7288,6 +8706,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 0,
+   "unresolved": 1,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
@@ -7298,6 +8718,8 @@
    "resolved": 0,
    "scan": 0,
    "html": 0,
+   "label": 1,
+   "unresolved": 0,
    "repos": [],
    "sample_ref": null,
    "sample_url": null
