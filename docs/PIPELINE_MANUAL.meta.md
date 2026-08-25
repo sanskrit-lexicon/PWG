@@ -45,14 +45,14 @@ without stepping on the org's csl-orig batched-PR delivery rule.
   quoted verbatim from those logs, paths verified on disk that day.
 - Point-in-time facts checked 28-07-2026: 111 pwgissues folders (#48–#193);
   17 `updateByLine.py` copies in 3 md5-distinct versions; v1e installed
-  (issue191 audit, 14→32 tags); `changelog.md` double-`[Unreleased]` defect;
+  (issue191 audit, 14→32 tags); `CHANGELOG.md` double-`[Unreleased]` defect;
   `index.html` not linking `prefaces/`; issue184 readme-less.
 
 ## Ranked improvement backlog
 
 | # | Item | Status |
 |---|---|---|
-| 1 | Merge the two `[Unreleased]` sections in [changelog.md](https://github.com/sanskrit-lexicon/PWG/blob/main/changelog.md) (manual appendix §5) | **done in the same PR as this manual** |
+| 1 | Merge the two `[Unreleased]` sections in [CHANGELOG.md](https://github.com/sanskrit-lexicon/PWG/blob/main/CHANGELOG.md) (manual appendix §5) | **done in the same PR as this manual** |
 | 2 | Give [issue184](https://github.com/sanskrit-lexicon/PWG/tree/main/pwgissues/issue184) a readme (appendix §4) — its scripts feed issue190 | open |
 | 3 | Expand [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/PWG/blob/main/DATA_DICTIONARY.md) to the post-v1e 32-tag vocabulary (appendix §6) | open |
 | 4 | Link `prefaces/` from the Pages landing `index.html` (appendix §7) | open |
