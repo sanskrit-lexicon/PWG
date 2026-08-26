@@ -616,7 +616,7 @@ that habit.
    has no readme in any format** — 8 loose `ls n` restore/fill scripts; the
    one genuine documentation hole in the 2026 stream (its output feeds
    issue190).
-5. **`changelog.md` currently has TWO `[Unreleased]` sections** (an append
+5. **`CHANGELOG.md` currently has TWO `[Unreleased]` sections** (an append
    landed above the older one) — merge before the next release-tooling run.
 6. **[DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/PWG/blob/main/DATA_DICTIONARY.md)
    is a 4-tag stub** — it omits `<pc>`, `<k2>`, `<h>`, `<ab>`, `<gk>`,
