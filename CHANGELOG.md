@@ -8,6 +8,7 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-30
 ### Changed
 
 - **README: Wilson print base is 1819, not CDSL 1832** (Grok 4.5 `grok-4.5`, 02-08-2026) — standing edition-basis fact + pointer to [WIL edition lineage](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) (PWG ← WIL 1819; MW/MW72 ← WIL 1832; 1819 full body OCR out of scope, preface is the bounded next unit).

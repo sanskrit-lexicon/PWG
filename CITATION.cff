@@ -11,8 +11,8 @@ message: >-
 license: CC-BY-SA-4.0
 repository-code: https://github.com/sanskrit-lexicon/PWG
 url: https://sanskrit-lexicon.github.io/PWG/
-date-released: 1855-01-01
-version: 1.0.0
+date-released: 2026-08-30
+version: 1.0.1
 abstract: >-
   Scripts and data for correcting and enriching the PWG (Sanskrit-Wörterbuch,
   Böhtlingk & Roth, 1855–1875) in the Cologne Digital Sanskrit Lexicon, plus
