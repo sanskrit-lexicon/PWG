@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg3-0000--02.png
 source_page: Foreword, 3-1
@@ -32,3 +34,5 @@ St. Petersburg, / Tübingen, 1/13 July 1861.
 [Fussnote / footnote:]
 
 *) On this occasion we cannot refrain from declaring that at Pañkat. III, 98 we were in the wrong against Benfey: कौपीनम् is indeed the object and accordingly denotes *the private parts*. This passage is therefore to be placed in the dictionary under कौपीन 1. At I, 421, निः-सारात्ल्यफलानि [?] is surely, as Benfey translates, to be connected with कार्यापि. At III, 235, उपनतभये: was misunderstood both by B. and by us. One should translate: *Those who are threatened by danger must [take] every road that leads to salvation, be it exalted or common* [...] [continuation:] but rather *not held in regard*; Benfey renders it by *weak*. Several passages which we have not touched upon at all in our article will be discussed in another place; here our only concern was to make good as quickly as possible the wrong committed. B.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--05.png
 source_page: Abbreviations, 2-1
@@ -69,3 +71,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Vivâdârṇ.** = Vivâdârṇavasetu; nach Anführungen im ÇKDr.
 
 [decorative end-rule; end of abbreviation list]
+
+_Dr. Mārcis Gasūns_

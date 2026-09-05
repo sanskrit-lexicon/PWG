@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--02.png
 source_page: Foreword, 1
@@ -26,3 +28,5 @@ We must record these contradictions and divergences, must attend to the residue 
 It is from this point of view that we wish our procedure with the words and word-explanations handed down by the grammarians and lexicographers to be regarded.
 
 *
+
+_Dr. Mārcis Gasūns_

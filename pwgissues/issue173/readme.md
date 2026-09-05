@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Issue 173 — ṚV. PRĀT. / ṚV. Prāt. (Ṛgveda Prātiśākhya)
 
 Created 2025-11-14. Replicates the issue169 workflow for the Ṛgveda Prātiśākhya references in PWG, PW, PWKVN, and SCH.
@@ -172,3 +174,5 @@ sh generate_dict.sh sch  ../../SCHScan/2020/
 - GitHub issue: <https://github.com/sanskrit-lexicon/PWG/issues/173>
 - Scan repo: <https://github.com/sanskrit-lexicon-scans/rvps>
 - Issue169 (Rājataraṅgiṇī, prototype): `pwgissues/issue169/`
+
+_Dr. Mārcis Gasūns_

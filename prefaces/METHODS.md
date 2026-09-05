@@ -1,8 +1,8 @@
 # PWG front-matter OCR — methods and citation
 
-_Created: 24-07-2026 · Last updated: 28-07-2026_
+_Created: 24-07-2026 · Last updated: 05-09-2026_
 
-This note documents how the **PWG** (`prefaces/`) front-matter editions were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
+This note documents how the **PWG** (`prefaces/`) front-matter editions were produced so they can be treated as citable research objects. Page inventory and reading notes live in [README.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/README.md). Public index: [OCR'd prefaces](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/ocr-prefaces). Operator manual: [Preface OCR pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline).
 
 ---
 
@@ -17,7 +17,7 @@ Faithful Markdown OCR of the **Vorspann** of the *Sanskrit-Wörterbuch* (Otto B�
 | Source language | German (19th-c. orthography preserved) |
 | Page count | **27** scan pages |
 | Languages shipped | DE (source) · EN · RU |
-| Consolidated editions | [pwgpref_all.de.md](pwgpref_all.de.md) · [pwgpref_all.en.md](pwgpref_all.en.md) · [pwgpref_all.ru.md](pwgpref_all.ru.md) |
+| Consolidated editions | [pwgpref_all.de.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref_all.de.md) · [pwgpref_all.en.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref_all.en.md) · [pwgpref_all.ru.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref_all.ru.md) |
 | GitHub Pages (EN) | https://sanskrit-lexicon.github.io/PWG/prefaces/pwgpref_all.en.md |
 | Tracking notice | [PWG#210](https://github.com/sanskrit-lexicon/PWG/issues/210) |
 
@@ -104,7 +104,7 @@ it does not re-derive it.
 | Parity check | [`scripts/pref_legend_parity.py`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/scripts/pref_legend_parity.py) |
 | Site feed / UI | [`src/data/pref-legends.json`](https://github.com/sanskrit-lexicon/csl-guides/blob/main/src/data/pref-legends.json) · [Abbreviations & citations](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/abbreviations-and-citations) |
 
-**Scope ruling (R11, [PLAN](../docs/PLAN_PWG_preface_enrichment_support_2026-07.md)):** PWG's
+**Scope ruling (R11, [PLAN](https://github.com/sanskrit-lexicon/PWG/blob/main/docs/PLAN_PWG_preface_enrichment_support_2026-07.md)):** PWG's
 role in this join is thin — document it here and spot-check it (below); the emit pipeline,
 schema, and parity gate are owned and regenerated in csl-guides (H1591). No bulk key
 rewrites happen from this side unless a named handoff says so.
@@ -159,7 +159,7 @@ Edit `pwgprefNN.md` / `.en.md` / `.ru.md`, then re-run. Do not hand-edit `pwgpre
 | First landed (approx.) | 2026 H1 (see repo history for `prefaces/`) |
 | Methods note | 24-07-2026 (H1558) |
 | Agent attribution | Production path = Claude Code vision skill (default tier Fable 5 / Opus 4.8 fallback); commits may land under the maintainer account after agent runs — see [preface-ocr-pipeline](https://sanskrit-lexicon.github.io/csl-guides/dictionaries/preface-ocr-pipeline) |
-| License of this repo’s digital work | CC-BY-SA-4.0 (see root [CITATION.cff](../CITATION.cff) and [LICENSE](../LICENSE)) |
+| License of this repo’s digital work | CC-BY-SA-4.0 (see root [CITATION.cff](https://github.com/sanskrit-lexicon/PWG/blob/main/CITATION.cff) and [LICENSE](https://github.com/sanskrit-lexicon/PWG/blob/main/LICENSE)) |
 | Printed source | Public-domain 19th-c. imprint; always cite the book as well as the OCR |
 
 ---
@@ -189,7 +189,7 @@ Gasūns, Mārcis, and Cologne Digital Sanskrit Lexicon project contributors. 202
 }
 ```
 
-Root [CITATION.cff](../CITATION.cff) points at both the printed book (`preferred-citation`) and this OCR package (`message` + `identifiers`). A Zenodo DOI may be added later when a release is cut; until then use the GitHub / Pages URLs above.
+Root [CITATION.cff](https://github.com/sanskrit-lexicon/PWG/blob/main/CITATION.cff) points at both the printed book (`preferred-citation`) and this OCR package (`message` + `identifiers`). A Zenodo DOI may be added later when a release is cut; until then use the GitHub / Pages URLs above.
 
 ---
 

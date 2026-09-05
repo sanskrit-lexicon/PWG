@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg7-0000--02.png
 source_page: Foreword, 7-1
@@ -35,3 +37,5 @@ R. Roth.
 ---
 
 \*) M. Müller asks in the preface to the 6th volume of his edition of the Ṛgveda, p. X: „Why are not such technical terms (sic) as *gîtin, çirahkampin,* etc., given in the Petersburg Dictionary?“ In our dictionary much is missing, but these two words in particular are not missing. They are to be found in their proper place (not, say, in the addenda), with the correct meaning, and each with the only attestation known up to now. We could therefore rather ask, for our part: how can one censure so frivolously?
+
+_Dr. Mārcis Gasūns_

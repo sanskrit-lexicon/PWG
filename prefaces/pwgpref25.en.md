@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg6-0000--01.png
 source_page: Title, vol. 6
@@ -32,3 +34,5 @@ PART SIX.
 St. Petersburg
 
 1871
+
+_Dr. Mārcis Gasūns_

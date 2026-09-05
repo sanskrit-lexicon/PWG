@@ -1,8 +1,10 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Sanskrit-Wörterbuch (Böhtlingk & Roth) — Front Matter, complete (English)
 
 English translation of the complete front matter (title pages, forewords, abbreviation lists, addenda) of the *Sanskrit-Wörterbuch* (Otto Böhtlingk & Rudolph Roth, St. Petersburg 1855–1875).
 
-Source index: [README.md](README.md). Per-page files: `pwgprefNN.en.md`.
+Source index: [README.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/README.md). Per-page files: `pwgprefNN.en.md`.
 
 ## Contents
 
@@ -1177,7 +1179,7 @@ The author of a large dictionary is excused if, on his far-flung travels, he her
 
 The most exact references are indispensable in a comprehensive dictionary; but to carry such references over into a concise dictionary brings no benefit. A general indication of the categories of writings in which a word is used in a given meaning would, however, be in place. If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such
 
-*(The sentence continues on the following page → [pwgpref24](pwgpref24.md).)*
+*(The sentence continues on the following page → [pwgpref24](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref24.md).)*
 
 ---
 
@@ -1190,7 +1192,7 @@ The most exact references are indispensable in a comprehensive dictionary; but t
 
 <sub>Source (scan): [pwg5-0000--03.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref24.html)</sub>
 
-*(Continuation of [pwgpref23](pwgpref23.md); the sentence begins there: „… If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such …“)*
+*(Continuation of [pwgpref23](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref23.md); the sentence begins there: „… If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such …“)*
 
 … were excluded on principle, since no one may regard such a patent of nobility with indifferent eye. In the interest of the users of our dictionary, however, we should wish that the author of a concise dictionary marked everything new that he offers, and also everything old that he construes differently, by appending in such a case, by way of exception, the citations as well — even were this to be done at the expense of those for whom his work is primarily intended. Gildemeister, in the glossary to Lassen's Anthology, has marked with an asterisk words and meanings that are wanting in ours, for which we must thank him.
 
@@ -1308,3 +1310,5 @@ R. Roth.
 ---
 
 \*) M. Müller asks in the preface to the 6th volume of his edition of the Ṛgveda, p. X: „Why are not such technical terms (sic) as *gîtin, çirahkampin,* etc., given in the Petersburg Dictionary?“ In our dictionary much is missing, but these two words in particular are not missing. They are to be found in their proper place (not, say, in the addenda), with the correct meaning, and each with the only attestation known up to now. We could therefore rather ask, for our part: how can one censure so frivolously?
+
+_Dr. Mārcis Gasūns_

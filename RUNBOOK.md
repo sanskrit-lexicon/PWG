@@ -1,3 +1,5 @@
+_Created: 06-05-2026 · Last updated: 05-09-2026_
+
 # Repo Documentation & Issue Cleanup Runbook
 
 This file is an instruction set for Claude Code operating **autonomously** on a Sanskrit Lexicon repository. It covers the complete documentation and issue-organisation pass that was first applied to the PWG repo in 2026.
@@ -391,3 +393,5 @@ git push
 - **Wrong-milestone false positives.** If the verification script finds type labels with a set operation (e.g., `set.intersection`), a multi-type issue returns whichever type Python picks first, which may not match the milestone. Fix: resolve multi-type before verifying, or check `len(type_labels_found) == 1` before asserting milestone correctness.
 - **Windows cp1251 breaks on Sanskrit/Unicode output.** Any `subprocess` call that reads `gh api` output containing accents, Devanagari, or special chars will crash unless `encoding='utf-8'` is passed to `subprocess.run` and `sys.stdout.reconfigure(encoding='utf-8')` is set at script start.
 - **`xychart-beta` is not rendered on GitHub.** Use `pie` for all distribution/count charts. Validate every Mermaid block via `gh api markdown` and check for `pl-k` spans, not just `highlight-source-mermaid`.
+
+_Dr. Mārcis Gasūns_

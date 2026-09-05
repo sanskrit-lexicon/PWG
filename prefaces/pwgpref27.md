@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg7-0000--02.png
 source_page: Foreword, 7-1
@@ -33,3 +35,5 @@ R. Roth.
 ---
 
 \*) M. Müller fragt in der Vorrede zum 6ten Bande seiner Ausgabe des Ṛgveda, S. X: „Why are not such technical terms (sic) as *gîtin, çirahkampin,* etc., given in the Petersburg Dictionary?“ In unserem Wörterbuch fehlt Vieles, aber gerade diese beiden Wörter fehlen nicht. Sie sind am richtigen Platz (nicht etwa in den Nachträgen), mit richtiger Bedeutung und jedes mit dem einzigen bis jetzt bekannten Belege zu finden. Wir könnten also vielmehr unsererseits fragen: wie mag man so leichtfertig tadeln?
+
+_Dr. Mārcis Gasūns_

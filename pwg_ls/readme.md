@@ -1,3 +1,5 @@
+_Created: 09-07-2016 · Last updated: 05-09-2026_
+
 ## pwg_ls 
 
 'ls' = literary sources
@@ -12,3 +14,4 @@ occuring in the PWG dictionary.
 * **pwgbib**  contains a Digitization of the lists of works from PWG. File digitization/pwgbib_orig.txt provided by Thomas Malten, 
   in 2016. See readme.md therein for details of reformatting.
 
+_Dr. Mārcis Gasūns_

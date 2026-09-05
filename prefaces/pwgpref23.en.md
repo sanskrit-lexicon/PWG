@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg5-0000--02.png
 source_page: Foreword, 5-1
@@ -27,8 +29,10 @@ The author of a large dictionary is excused if, on his far-flung travels, he her
 
 The most exact references are indispensable in a comprehensive dictionary; but to carry such references over into a concise dictionary brings no benefit. A general indication of the categories of writings in which a word is used in a given meaning would, however, be in place. If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such
 
-*(The sentence continues on the following page → [pwgpref24](pwgpref24.md).)*
+*(The sentence continues on the following page → [pwgpref24](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref24.md).)*
 
 ---
 
 \*) Whitney's addenda, which arrived too late, will be communicated at the end of the work.
+
+_Dr. Mārcis Gasūns_

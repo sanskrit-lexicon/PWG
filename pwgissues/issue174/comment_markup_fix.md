@@ -1,3 +1,5 @@
+_Created: 18-05-2026 · Last updated: 05-09-2026_
+
 ## Markup fixer + audit for `pwg.txt`
 
 Adding `08_markup_fix.py` to `pwgissues/issue174/`. It does two things, both safe to re-run after Phase B is applied **and** after @Andhrabharati's local-abbreviation overlay lands.
@@ -50,3 +52,5 @@ python 08_markup_fix.py pwg_with_abs.txt pwg_with_abs_fixed.txt
 ```
 
 Synthetic-input tests of the nesting fixer all pass.
+
+_Dr. Mārcis Gasūns_

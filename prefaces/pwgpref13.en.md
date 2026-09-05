@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--02.png
 source_page: Addenda to vol. 1
@@ -154,3 +156,5 @@ p. 714, Art. **आव्य**, line 2. All manuscripts and the scholiast NĀRĀJ
 « 883, Art. **उत्कार्यणा**. In the first example स्ववस्त्रोत्कार्यणा means *the taking off of one's garment*.
 
 « 894, Art. **उत्तरीय**, line 2 read: उत्तरीयरूप॰.
+
+_Dr. Mārcis Gasūns_

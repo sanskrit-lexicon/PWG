@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--07.png
 source_page: Foreword, 5
@@ -24,3 +26,5 @@ Many a deficiency of the dictionary may find its excuse in the fact that its two
 ---
 
 *) It has pleased us to hear that the learned Indian intends to make use of our dictionary in a second edition of his work. He writes to us about this from Calcutta, on 17 May 1855, as follows: «As a friend of mine intends availing himself of the aid of your Work, specially as regards the Vaidic Vocabulary, in the preparation, under my superintendence, of a second and more comprehensive Edition of the Sabdakalpadruma — I shall feel myself greatly obliged by your kindly sending me the subsequent parts of the Work and making arrangements to furnish me with the sheets as they come out from the Press per every Mail.» We need hardly remark that, with the consent of the Imperial Academy of Sciences, we have gladly acceded to this wish.
+
+_Dr. Mārcis Gasūns_

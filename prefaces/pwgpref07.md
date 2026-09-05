@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--06.png
 source_page: Abbreviations, 1
@@ -67,3 +69,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Bull. hist.-phil.** = Bulletin historico-philologique de l'Académie Impériale des sciences de St.-Pétersbourg.
 **Burn. Intr.** = Burnouf, Introduction à l'histoire du Buddhisme indien. Tome premier. Paris 1844.
 **Burn. Lot. de la b. l.** = Le Lotus de la bonne loi, traduit du Sanscrit etc. par M. E. Burnouf. Paris 1852.
+
+_Dr. Mārcis Gasūns_

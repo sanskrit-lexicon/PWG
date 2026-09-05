@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--08.png
 source_page: Abbreviations, 2
@@ -83,3 +85,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Institutt.** = Institutiones linguae pracriticae. Scripsit Christianus Lassen. Bonnae ad Rhenum 1837.
 
 II
+
+_Dr. Mārcis Gasūns_

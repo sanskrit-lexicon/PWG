@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--05.png
 source_page: Foreword, 4
@@ -32,3 +34,5 @@ To Professor Stenzler we must express our thanks for the relinquishing of a comp
 To the Academician Schiefner we owe manifold communications from the Buddhist literature, in particular from the Vjutpatti, a Sanskrit-Tibetan dictionary.
 
 The philosophical literature is most weakly represented in our work, and we would receive with particular thanks help in this direction from scholars who are at home in this field.
+
+_Dr. Mārcis Gasūns_

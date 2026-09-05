@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg4-0000--01.png
 source_page: Title, vol. 4
@@ -28,3 +30,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 St. Petersburg
 
 1865
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--07.png
 source_page: Foreword, 5
@@ -22,3 +24,5 @@ Mancher Mangel des Wörterbuchs wird seine Entschuldigung darin finden dürfen, 
 ---
 
 *) Es hat uns gefreut zu hören, dass der gelehrte Inder bei einer zweiten Ausgabe seines Werkes unser Wörterbuch zu benutzen gedenkt. Er schreibt uns hierüber aus Calcutta, den 17. Mai 1855, Folgendes: «As a friend of mine intends availing himself of the aid of your Work, specially as regards the Vaidic Vocabulary, in the preparation, under my superintendence, of a second and more comprehensive Edition of the Sabdakalpadruma — I shall feel myself greatly obliged by your kindly sending me the subsequent parts of the Work and making arrangements to furnish me with the sheets as they come out from the Press per every Mail.» Wir brauchen wohl kaum zu bemerken, dass wir mit Einwilligung der Kaiserlichen Akademie der Wissenschaften gern auf diesen Wunsch eingegangen sind.
+
+_Dr. Mārcis Gasūns_

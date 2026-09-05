@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--05.png
 source_page: Foreword, 4
@@ -30,3 +32,5 @@ Professor Stenzler müssen wir unsern Dank aussprechen für die Ueberlassung ein
 Akademiker Schiefner verdanken wir mannigfache Mittheilungen aus der buddhistischen Litteratur, namentlich aus der Vjutpatti, einem sanskritisch-tibetischen Wörterbuche.
 
 Am schwächsten ist bei uns die philosophische Litteratur vertreten und wir würden eine Hülfe nach dieser Seite hin von Gelehrten, die in diesem Gebiete zu Hause sind, mit besonderm Dank entgegennehmen.
+
+_Dr. Mārcis Gasūns_

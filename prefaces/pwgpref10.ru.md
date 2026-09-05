@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--10.png
 source_page: Abbreviations, 4
@@ -97,3 +99,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Vâlakh.** = Vâlakhilja, песни, вставленные между RV. 8, 48 и 49.
 **Var.** = вариант.
 **Varâh. Bṛh.** = Bṛhaǵǵâtaka Varâhamihira.
+
+_Dr. Mārcis Gasūns_

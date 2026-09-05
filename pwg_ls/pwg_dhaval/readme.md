@@ -1,3 +1,5 @@
+_Created: 09-07-2016 · Last updated: 05-09-2026_
+
 ## pwg_ls/pwg_dhaval/readme.md 
 
 This folder contains programs that extract the literary sources from pwg.xml. 
@@ -84,4 +86,4 @@ rm pwgxml.zip
 
 2. After removing terminal period(.) i.e. `clean = clean.strip('.')` - 3341 entries
 
-
+_Dr. Mārcis Gasūns_

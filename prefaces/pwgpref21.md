@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg4-0000--02.png
 source_page: Foreword, 4-1
@@ -23,3 +25,5 @@ Auf besondere Veranlassung machen wir darauf aufmerksam, dass die Theilnahme uns
 
 O. Böhtlingk.
 R. Roth.
+
+_Dr. Mārcis Gasūns_

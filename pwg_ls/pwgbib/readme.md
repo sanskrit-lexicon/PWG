@@ -1,3 +1,5 @@
+_Created: 09-07-2016 · Last updated: 05-09-2026_
+
 
 # pwgbib/readme.md
 
@@ -45,3 +47,5 @@ python crefmatch.py pwbib1.txt ../pw_dhaval/abbrvwork/abbrvoutput/sortedcrefs.tx
 
 **pwbib_unused.txt**  Work file containing abbreviations of pwbib that 
   are believed to be unused in the literary citations of pw.txt.
+
+_Dr. Mārcis Gasūns_

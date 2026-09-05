@@ -1,3 +1,5 @@
+_Created: 21-05-2026 · Last updated: 05-09-2026_
+
 Quick coordination note — three of you have converged on `pwgissues/issue174/` from different angles, so here is what's there, who built what, and what's the cleanest next step for each of you.
 
 ## Tooltips — already drafted
@@ -57,3 +59,5 @@ For the record, the gap between my 102k (`changes_safe.txt`) and Jim's 178k (`co
 - **@funderburkjim**: start from `pwgab_input_draft.txt`; use `mw_overlap.txt` to copy 136 MW `<disp>` values; fill in the 58 `<INFER/>` entries; flip `indecl.` to `<lex>`; run `08_markup_fix.py` on `temp_pwg_8.txt` once you're happy with it.
 - **@Andhrabharati**: use `disambig/*.txt` as the source material for the local-abbreviation pass; output as `NNN old / NNN new` lines against `temp_pwg_8.txt`.
 - **declare temporary victory** on global wraps — agreed.
+
+_Dr. Mārcis Gasūns_

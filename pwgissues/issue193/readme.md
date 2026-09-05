@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Base file
 
 cd sanskrit-lexicon/csl-orig
@@ -167,3 +169,5 @@ Uses regex `ls n="VALUE"(?=[ >])` → `ls n="VALUE."` to ensure only exact attri
 | `TS. PRĀT` | `TS. PRĀT.` |
 | `Verz. d. B. H. No` | `Verz. d. B. H. No.` |
 | `VOP` | `VOP.` |
+
+_Dr. Mārcis Gasūns_

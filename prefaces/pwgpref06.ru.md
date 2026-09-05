@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--07.png
 source_page: Foreword, 5
@@ -24,3 +26,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 *) Нам было приятно услышать, что учёный индиец намерен воспользоваться нашим словарём при втором издании своего произведения. Об этом он пишет нам из Calcutta, 17 мая 1855 г., следующее: «As a friend of mine intends availing himself of the aid of your Work, specially as regards the Vaidic Vocabulary, in the preparation, under my superintendence, of a second and more comprehensive Edition of the Sabdakalpadruma — I shall feel myself greatly obliged by your kindly sending me the subsequent parts of the Work and making arrangements to furnish me with the sheets as they come out from the Press per every Mail.» (В переводе: «Поскольку один мой друг намерен воспользоваться помощью Вашего труда, особенно в части ведийской лексики, при подготовке под моим руководством второго и более полного издания Sabdakalpadruma, я буду весьма обязан, если Вы любезно станете присылать мне последующие части труда и распорядитесь снабжать меня листами по мере их выхода из печати с каждою почтой».) Едва ли нужно замечать, что с согласия Императорской Академии наук мы охотно пошли навстречу этому желанию.
+
+_Dr. Mārcis Gasūns_

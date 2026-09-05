@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg5-0000--03.png
 source_page: Foreword, 5-2
@@ -9,7 +11,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # FOREWORD.
 
-*(Continuation of [pwgpref23](pwgpref23.md); the sentence begins there: „… If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such …“)*
+*(Continuation of [pwgpref23](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref23.md); the sentence begins there: „… If a word or a word-meaning already occurs in the Veda, this would have to be noted even if the Veda as such …“)*
 
 … were excluded on principle, since no one may regard such a patent of nobility with indifferent eye. In the interest of the users of our dictionary, however, we should wish that the author of a concise dictionary marked everything new that he offers, and also everything old that he construes differently, by appending in such a case, by way of exception, the citations as well — even were this to be done at the expense of those for whom his work is primarily intended. Gildemeister, in the glossary to Lassen's Anthology, has marked with an asterisk words and meanings that are wanting in ours, for which we must thank him.
 
@@ -31,3 +33,5 @@ Rudolph Roth.
 </div>
 
 *(On this page no place or date line is printed; the signature stands without a date.)*
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg4-0000--02.png
 source_page: Foreword, 4-1
@@ -25,3 +27,5 @@ On a particular occasion we draw attention to the fact that the participation of
 
 O. Böhtlingk.
 R. Roth.
+
+_Dr. Mārcis Gasūns_

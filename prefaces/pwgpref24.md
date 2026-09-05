@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg5-0000--03.png
 source_page: Foreword, 5-2
@@ -7,7 +9,7 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 
 # VORWORT.
 
-*(Fortsetzung von [pwgpref23](pwgpref23.md); der Satz beginnt dort: „… Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher …“)*
+*(Fortsetzung von [pwgpref23](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref23.md); der Satz beginnt dort: „… Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher …“)*
 
 … principiell ausgeschlossen wäre, vermerkt werden, da Niemand ein derartiges Adelsdiplom mit gleichgiltigem Auge betrachten darf. Im Interesse der Benutzer unseres Wörterbuches wünschten wir aber, dass der Verfasser eines Handwörterbuches alles Neue, was er giebt, und auch alles Alte, welches er anders auffasst, dadurch kennzeichnete, dass er in einem solchen Falle ausnahmsweise auch die Citate beifügte, geschähe dieses auch auf Kosten derer, für die sein Werk zunächst bestimmt ist. Gildemeister hat im Glossar zu Lassen's Anthologie Wörter und Bedeutungen, die bei uns fehlen, mit einem Sternchen versehen, wofür wir ihm danken müssen.
 
@@ -29,3 +31,5 @@ Rudolph Roth.
 </div>
 
 *(Auf dieser Seite ist keine Orts- oder Datumszeile gedruckt; die Unterschrift steht ohne Datum.)*
+
+_Dr. Mārcis Gasūns_

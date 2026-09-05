@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg5-0000--02.png
 source_page: Foreword, 5-1
@@ -25,8 +27,10 @@ Dem Verfasser eines grossen Wörterbuches sieht man es nach, wenn er auf seinen 
 
 Die genausten Belege sind bei einem ausführlichen Wörterbuch unerlässlich; solche Belege aber in ein Handwörterbuch überzutragen bringt keinen Nutzen. Wohl aber wäre eine allgemeine Angabe der Schriftgattungen, in welchen ein Wort in einer angegebenen Bedeutung gebraucht wird, am Platz. Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher
 
-*(Der Satz wird auf der folgenden Seite fortgesetzt → [pwgpref24](pwgpref24.md).)*
+*(Der Satz wird auf der folgenden Seite fortgesetzt → [pwgpref24](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref24.md).)*
 
 ---
 
 \*) Whitney's Nachträge, die zu spät eintrafen, werden am Schluss des Werkes mitgetheilt werden.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--04.png
 source_page: Foreword, 3
@@ -26,3 +28,5 @@ We have therefore attempted to follow the path which linguistic science prescrib
 *) Rig-Veda-Sanhitâ. A collection of ancient Hindu hymns u. s. w. Translated from the original Sanskrit. By H. H. Wilson. London 1850. I, p. 25.
 
 **) Wilson a. a. O. II, p. XXIII.
+
+_Dr. Mārcis Gasūns_

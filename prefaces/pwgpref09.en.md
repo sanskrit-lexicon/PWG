@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--09.png
 source_page: Abbreviations, 3
@@ -97,3 +99,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Nâr.** = Nârâjana, a scholiast of the Çâńkh. Gṛhj.
 **Navar.** = Navaratna in Haeb. Chrest. p. 1—3.
 **Nidâna-S.** = Nidânasûtra.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 09-07-2016 · Last updated: 05-09-2026_
+
 ## pwgbib1_orig.txt
 Received from T. Malten, July 2016
 cp1252  encoding (his usual encoding)
@@ -117,3 +119,4 @@ Any of these forms are 'meta' lines.
          middle of a multiple-line entry.  In these cases, we have chosen
          to embed the [Page...] break within the extended <HI> line.
 
+_Dr. Mārcis Gasūns_

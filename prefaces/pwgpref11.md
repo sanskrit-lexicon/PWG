@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--11.png
 source_page: Abbreviations, 5
@@ -51,3 +53,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 **Zur L. u. G. d. W.** = Zur Literatur und Geschichte des Weda. Drei Abhandlungen von Rudolph Roth. Stuttgart 1846.
 
 [decorative end-rule; end of abbreviation list]
+
+_Dr. Mārcis Gasūns_

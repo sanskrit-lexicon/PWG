@@ -1,6 +1,6 @@
 # PWG page/column co-location index
 
-_Created: 12-07-2026 · Last updated: 12-07-2026_
+_Created: 12-07-2026 · Last updated: 05-09-2026_
 
 "Which PWG headwords shared a printed **column** (*Spalte*) or **page**?" —
 derived from the entry-start column that the source records in every header.
@@ -19,8 +19,8 @@ records, in every entry header, the column that entry **starts** in:
 
 | Script | Produces |
 |---|---|
-| [`pwg_page_index.py`](pwg_page_index.py) | the three co-location views below |
-| [`pwg_page_verify.py`](pwg_page_verify.py) | a scan-verification anchor sheet for the derived page numbers |
+| [`pwg_page_index.py`](https://github.com/sanskrit-lexicon/PWG/blob/main/pagecolumn/pwg_page_index.py) | the three co-location views below |
+| [`pwg_page_verify.py`](https://github.com/sanskrit-lexicon/PWG/blob/main/pagecolumn/pwg_page_verify.py) | a scan-verification anchor sheet for the derived page numbers |
 
 ```sh
 # from this directory; reads ../../csl-orig/v02/pwg/pwg.txt by default
@@ -69,8 +69,8 @@ L3    a         3        1       1-0001        1-p0001    1-0001,1-0002,1-0003  
   `page = (column + 1) // 2` (2 columns per leaf, column 1 on page 1). The
   **column** numbers are exact; the derived **page** number can be off by a
   constant per-volume front-matter offset. PWG is cited by column and the scans
-  print column numbers, so [`pwg_page_verify.py`](pwg_page_verify.py) emits an
-  anchor sheet ([`pwg_page_verification.tsv`](pwg_page_verification.tsv), 70
+  print column numbers, so [`pwg_page_verify.py`](https://github.com/sanskrit-lexicon/PWG/blob/main/pagecolumn/pwg_page_verify.py) emits an
+  anchor sheet ([`pwg_page_verification.tsv`](https://github.com/sanskrit-lexicon/PWG/blob/main/pagecolumn/pwg_page_verification.tsv), 70
   rows: first/last leaf + 8 interior leaves per volume) with landmark headwords
   in SLP1/IAST/Devanagari and blank `scan_leaf` / `cols_on_leaf` / `offset` /
   `paired_ok` columns. If `offset` is constant per volume and `paired_ok` is all

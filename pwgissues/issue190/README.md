@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # issue190 — fg/fgg correction pipeline
 
 Corrects misplaced `fg.`/`fgg.` (German "folgende") in `<ls>` citation tags of PWG dictionary data.
@@ -41,3 +43,5 @@ Run all steps: `sh redo.sh`
 - Simple string substitution: each line of `log.txt` is replaced by the corresponding line of `log1.txt`.
 - Only lines that differ between the two files trigger a replacement.
 - Covers 13 cases: n-attribute fg/fgg extraction + ls-internal fg splits.
+
+_Dr. Mārcis Gasūns_

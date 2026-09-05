@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--04.png
 source_page: Foreword, 2-1
@@ -15,3 +17,5 @@ We originally intended to complete the gutturals, palatals, and so-called cerebr
 
 St. Petersburg /
 Tübingen, 14/26 October 1858.
+
+_Dr. Mārcis Gasūns_

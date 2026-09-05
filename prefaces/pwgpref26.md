@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg7-0000--01.png
 source_page: Title, vol. 7
@@ -30,3 +32,5 @@ SIEBENTER THEIL.
 St. Petersburg
 
 1875
+
+_Dr. Mārcis Gasūns_

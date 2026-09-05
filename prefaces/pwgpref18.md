@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg3-0000--02.png
 source_page: Foreword, 3-1
@@ -30,3 +32,5 @@ St. Petersburg, / Tübingen, den 1/13 Juli 1861.
 [Fussnote / footnote:]
 
 *) Bei dieser Gelegenheit können wir nicht umhin zu erklären, dass wir bei Pañkat. III, 98 gegen Benfey im Unrecht waren: कौपीनम् ist wohl Object und bezeichnet demnach *die Schamtheile*. Diese Stelle ist also im Wörterbuch unter कौपीन 1. zu stellen. I, 421 ist निः-सारात्ल्यफलानि [?] doch wohl, wie Benfey übersetzt, mit कार्यापि zu verbinden. III, 235 ist उपनतभये: sowohl von B. als auch von uns missverstanden worden. Man übersetze: *Diejenigen, denen Gefahr drohet, müssen jeden Weg, der zum Heile führt, er mag erhaben oder gemein* [...] [continuation:] sondern *nicht in Ansehen stehend*; Benfey übersetzt es durch *schwach*. Mehrere Stellen, die wir in unserm Artikel gar nicht berührt haben, werden an einem andern Orte besprochen werden; hier war es uns nur darum zu thun, begangenes Unrecht so schnell als möglich wieder gut zu machen. B.
+
+_Dr. Mārcis Gasūns_

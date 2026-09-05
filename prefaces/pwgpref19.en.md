@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg3-0000--03.png
 source_page: Foreword, 3-2
@@ -42,3 +44,5 @@ SOM. NAL. = Die Sage von NALA und DAMAJANTI nach der Bearbeitung des SOMADEVA he
 UPAG. AV. = UPAGUPTĀVADĀNA, in manuscript in the library of the Asiatic Society in Paris, after communications from A. Schiefner.
 
 VAGRĀSANASĀDHANAM. = VAGRĀSANASĀDHANAMĀLĀ, in manuscript in the Paris Library, after communications from A. Schiefner.
+
+_Dr. Mārcis Gasūns_

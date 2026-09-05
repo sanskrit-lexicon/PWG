@@ -1,8 +1,10 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Sanskrit-Wörterbuch (Böhtlingk & Roth) — Vorspann, vollständig (Deutsch)
 
 OCR-Transkription des gesamten Vorspanns (Titelblätter, Vorworte, Abkürzungsverzeichnisse, Nachträge) des *Sanskrit-Wörterbuchs* (Otto Böhtlingk & Rudolph Roth, St. Petersburg 1855–1875), in der ursprünglichen Orthographie.
 
-Source index: [README.md](README.md). Per-page files: `pwgprefNN.md`.
+Source index: [README.md](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/README.md). Per-page files: `pwgprefNN.md`.
 
 ## Inhalt
 
@@ -1177,7 +1179,7 @@ Dem Verfasser eines grossen Wörterbuches sieht man es nach, wenn er auf seinen 
 
 Die genausten Belege sind bei einem ausführlichen Wörterbuch unerlässlich; solche Belege aber in ein Handwörterbuch überzutragen bringt keinen Nutzen. Wohl aber wäre eine allgemeine Angabe der Schriftgattungen, in welchen ein Wort in einer angegebenen Bedeutung gebraucht wird, am Platz. Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher
 
-*(Der Satz wird auf der folgenden Seite fortgesetzt → [pwgpref24](pwgpref24.md).)*
+*(Der Satz wird auf der folgenden Seite fortgesetzt → [pwgpref24](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref24.md).)*
 
 ---
 
@@ -1190,7 +1192,7 @@ Die genausten Belege sind bei einem ausführlichen Wörterbuch unerlässlich; so
 
 <sub>Quelle (Scan): [pwg5-0000--03.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/pwgpref/pwgpref24.html)</sub>
 
-*(Fortsetzung von [pwgpref23](pwgpref23.md); der Satz beginnt dort: „… Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher …“)*
+*(Fortsetzung von [pwgpref23](https://github.com/sanskrit-lexicon/PWG/blob/main/prefaces/pwgpref23.md); der Satz beginnt dort: „… Kommt ein Wort oder eine Wortbedeutung schon im Veda vor, so müsste dieses, auch wenn der Veda als solcher …“)*
 
 … principiell ausgeschlossen wäre, vermerkt werden, da Niemand ein derartiges Adelsdiplom mit gleichgiltigem Auge betrachten darf. Im Interesse der Benutzer unseres Wörterbuches wünschten wir aber, dass der Verfasser eines Handwörterbuches alles Neue, was er giebt, und auch alles Alte, welches er anders auffasst, dadurch kennzeichnete, dass er in einem solchen Falle ausnahmsweise auch die Citate beifügte, geschähe dieses auch auf Kosten derer, für die sein Werk zunächst bestimmt ist. Gildemeister hat im Glossar zu Lassen's Anthologie Wörter und Bedeutungen, die bei uns fehlen, mit einem Sternchen versehen, wofür wir ihm danken müssen.
 
@@ -1308,3 +1310,5 @@ R. Roth.
 ---
 
 \*) M. Müller fragt in der Vorrede zum 6ten Bande seiner Ausgabe des Ṛgveda, S. X: „Why are not such technical terms (sic) as *gîtin, çirahkampin,* etc., given in the Petersburg Dictionary?“ In unserem Wörterbuch fehlt Vieles, aber gerade diese beiden Wörter fehlen nicht. Sie sind am richtigen Platz (nicht etwa in den Nachträgen), mit richtiger Bedeutung und jedes mit dem einzigen bis jetzt bekannten Belege zu finden. Wir könnten also vielmehr unsererseits fragen: wie mag man so leichtfertig tadeln?
+
+_Dr. Mārcis Gasūns_

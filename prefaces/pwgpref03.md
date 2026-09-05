@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--03.png
 source_page: Foreword, 2
@@ -26,3 +28,5 @@ Der Geist des Veda mit seinen einfachen und hohen Gedanken wurde hier durch den 
 Wäre Langlois' Buch nur unnütz, so könnte des jetzt Abgeschiedenen Vermächtniss bei Seite gelegt und mit dem Schleier der Vergessenheit bedeckt werden; weil es aber in unkundigen Händen schädlich wirkt und das Verständniss des indischen Alterthums ebenso verdunkeln und erschweren muss wie Anquetil's Zendavesta-Uebersetzung die Einsicht in die iranische Vorzeit erschwert hat, so muss ein entschiedenes Zeugniss gegen dasselbe abgelegt werden: es muss ihm alle und jede Autorität abgesprochen werden. Und es bedarf dieses Zeugnisses, weil Männer, welche mit dem Sachverhalt recht wohl bekannt sein konnten, aus was immer für Gründen in öffentlichen Urtheilen diese Wahrheit nicht ausgesprochen haben.
 
 Werden uns für das Verständniss vedischer Texte von Neuern nur spärliche Hülfsmittel dargeboten, so sind wir um so mehr an dasjenige gewiesen, was die indische Gelehrsamkeit selbst zur Erklärung derselben gethan hat, an die Commentare. Und in der That können wir uns für den einen der beiden Theile vedischer Literatur, für die Bücher der Theologie und des Cultus, keine bessern Führer wünschen, als diese in allen Stücken genauen Commentatoren, welche ihren Texten Wort für Wort folgen, nicht ermüden das schon oft Gesagte überall zu wiederholen, wo auch nur ein Schein des Missverständnisses entstehen könnte, und welche manchmal eher für uns Fremdlinge geschrieben zu haben scheinen, als für ihre unter diesen Anschauungen und Eindrücken aufgewachsenen
+
+_Dr. Mārcis Gasūns_

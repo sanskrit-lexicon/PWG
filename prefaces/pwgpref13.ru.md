@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--02.png
 source_page: Addenda to vol. 1
@@ -154,3 +156,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 « 883, ст. **उत्कार्यणा**. В первом примере स्ववस्त्रोत्कार्यणा означает *снятие своей одежды*.
 
 « 894, ст. **उत्तरीय**, стрк. 2 читать: उत्तरीयरूप॰.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--03.png
 source_page: Foreword, 2
@@ -28,3 +30,5 @@ The spirit of the Veda, with its simple and lofty thoughts, was here forced thro
 Were Langlois' book merely useless, then the bequest of the now departed might be set aside and covered with the veil of oblivion; but because in unskilled hands it works harmfully and must obscure and impede the understanding of Indian antiquity just as Anquetil's translation of the Zendavesta has impeded insight into the Iranian past, a decided testimony must be given against it: it must be denied each and every authority. And this testimony is needed, because men who might well have been quite familiar with the state of affairs have, for whatever reasons, not spoken this truth in their public judgments.
 
 If only scanty aids for the understanding of Vedic texts are offered us by the moderns, we are all the more directed to that which Indian scholarship itself has done for their explanation — to the commentaries. And indeed, for the one of the two parts of Vedic literature, for the books of theology and of cult, we could wish for no better guides than these commentators, exact in every particular, who follow their texts word for word, who do not tire of repeating everywhere what has often already been said, wherever even a semblance of misunderstanding might arise, and who sometimes seem to have written rather for us strangers than for their own, grown up amid these conceptions and impressions,
+
+_Dr. Mārcis Gasūns_

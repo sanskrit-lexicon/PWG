@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg1-0000--02.png
 source_page: Foreword, 1
@@ -26,3 +28,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 Именно с этой точки зрения мы хотим, чтобы рассматривался наш способ обращения со словами и толкованиями слов, унаследованными от грамматиков и лексикографов.
 
 *
+
+_Dr. Mārcis Gasūns_

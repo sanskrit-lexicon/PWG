@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg7-0000--02.png
 source_page: Foreword, 7-1
@@ -35,3 +37,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 \*) М. Мюллер спрашивает в предисловии к 6-му тому своего издания Ригведы, с. X: „Why are not such technical terms (sic) as *gîtin, çirahkampin,* etc., given in the Petersburg Dictionary?“ В нашем словаре недостаёт многого, но как раз эти два слова не отсутствуют. Они находятся на надлежащем месте (а не, скажем, в дополнениях), с правильным значением и каждое с единственным известным до сих пор свидетельством. Мы могли бы поэтому со своей стороны скорее спросить: как можно так легкомысленно порицать?
+
+_Dr. Mārcis Gasūns_

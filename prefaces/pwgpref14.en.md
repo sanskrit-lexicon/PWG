@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--03.png
 source_page: Addenda to vol. 2
@@ -106,3 +108,5 @@ p. 295, art. **किष्कु**, ll. 2 and 3 the example from R. 5, 32, 11 i
 « 940, l. 19 delete 1351.
 
 « 967, art. **चरट**, l. 2 read: चिरिएटी instead of चिरटी.
+
+_Dr. Mārcis Gasūns_

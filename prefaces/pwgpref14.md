@@ -1,3 +1,5 @@
+_Created: 16-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: pwg2-0000--03.png
 source_page: Addenda to vol. 2
@@ -104,3 +106,5 @@ S. 295, Art. **किष्कु**, Z. 2 und 3 ist das Beispiel aus R. 5, 32, 1
 « 940, Z. 19 streiche 1351.
 
 « 967, Art. **चरट**, Z. 2 lies: चिरिएटी st. चिरटी.
+
+_Dr. Mārcis Gasūns_
