@@ -28,7 +28,7 @@ of each workspace (the same logs the original operators kept); paths were
 verified to exist in the tree on 28-07-2026. A full end-to-end re-run was not
 attempted — several pipelines are one-time-historical and the readme install
 steps overwrite the sibling `csl-orig` working tree (see the
-[lifecycle table](#lifecycle--which-pipelines-are-live)).
+[lifecycle table](#lifecycle-which-pipelines-are-live)).
 
 The universal 8-stage csl-orig correction procedure is documented once,
 canonically, in

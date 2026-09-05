@@ -7,7 +7,7 @@ derived from the entry-start column that the source records in every header.
 
 Böhtlingk-Roth's PWG (7 vols, St. Petersburg 1855–1875) is printed **two columns
 per page**, and the canonical citation unit is the column. The source text
-[`csl-orig/v02/pwg/pwg.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt)
+[`csl-orig/v02/pwg/pwg.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/pwg/pwg.txt)
 records, in every entry header, the column that entry **starts** in:
 
 ```
