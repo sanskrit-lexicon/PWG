@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 20-08-2026_
+_Created: 06-05-2026 · Last updated: 05-09-2026_
 
 **PWG** is the correction and enrichment layer for the large Petersburger
 Wörterbuch (Böhtlingk & Roth, 1855–1875). Primary input is
