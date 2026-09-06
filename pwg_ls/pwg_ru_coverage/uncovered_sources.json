@@ -1,15 +1,15 @@
 {
- "occurrences_total": 41115,
- "occurrences_linked": 34380,
- "occurrences_scan": 28450,
- "occurrences_html": 5930,
- "occurrences_uncovered": 5222,
- "occurrences_noncoordinate_labels": 1483,
- "distinct_uncovered_works": 458,
+ "occurrences_total": 41380,
+ "occurrences_linked": 34551,
+ "occurrences_scan": 28595,
+ "occurrences_html": 5956,
+ "occurrences_uncovered": 5297,
+ "occurrences_noncoordinate_labels": 1499,
+ "distinct_uncovered_works": 463,
  "uncovered": [
   {
    "abbr": "SUŚR.",
-   "occurrences": 280
+   "occurrences": 286
   },
   {
    "abbr": "CHĀND. UP.",
@@ -33,7 +33,7 @@
   },
   {
    "abbr": "KĀM. NĪTIS.",
-   "occurrences": 128
+   "occurrences": 130
   },
   {
    "abbr": "ĀŚV. GṚHY.",
@@ -41,22 +41,22 @@
   },
   {
    "abbr": "LĀṬY.",
-   "occurrences": 118
+   "occurrences": 119
   },
   {
    "abbr": "SARVADARŚANAS.",
-   "occurrences": 107
+   "occurrences": 112
   },
   {
    "abbr": "Ind. St.",
-   "occurrences": 92
-  },
-  {
-   "abbr": "PAÑCAV. BR.",
-   "occurrences": 85
+   "occurrences": 95
   },
   {
    "abbr": "ŚIŚ.",
+   "occurrences": 87
+  },
+  {
+   "abbr": "PAÑCAV. BR.",
    "occurrences": 85
   },
   {
@@ -73,7 +73,7 @@
   },
   {
    "abbr": "ṚT.",
-   "occurrences": 69
+   "occurrences": 70
   },
   {
    "abbr": "KĀṬH.",
@@ -101,7 +101,7 @@
   },
   {
    "abbr": "ĀPAST. ŚR.",
-   "occurrences": 50
+   "occurrences": 51
   },
   {
    "abbr": "ŚĀṄKH. GṚHY.",
@@ -109,7 +109,7 @@
   },
   {
    "abbr": "MAITRYUP.",
-   "occurrences": 45
+   "occurrences": 46
   },
   {
    "abbr": "DIVYĀVAD.",
@@ -125,22 +125,22 @@
   },
   {
    "abbr": "CARAKA.",
-   "occurrences": 41
+   "occurrences": 42
   },
   {
    "abbr": "PĀR. GṚHY.",
+   "occurrences": 42
+  },
+  {
+   "abbr": "BṚH. ĀR. UP. S.",
    "occurrences": 41
   },
   {
    "abbr": "MAITR. S.",
-   "occurrences": 40
+   "occurrences": 41
   },
   {
    "abbr": "ARJ.",
-   "occurrences": 39
-  },
-  {
-   "abbr": "BṚH. ĀR. UP. S.",
    "occurrences": 39
   },
   {
@@ -164,12 +164,16 @@
    "occurrences": 34
   },
   {
-   "abbr": "SĀV.",
+   "abbr": "DHŪRTAS.",
    "occurrences": 33
   },
   {
-   "abbr": "DHŪRTAS.",
-   "occurrences": 32
+   "abbr": "KAP.",
+   "occurrences": 33
+  },
+  {
+   "abbr": "SĀV.",
+   "occurrences": 33
   },
   {
    "abbr": "KAUṢ. UP.",
@@ -178,10 +182,6 @@
   {
    "abbr": "PAT. a. a. O.",
    "occurrences": 31
-  },
-  {
-   "abbr": "KAP.",
-   "occurrences": 30
   },
   {
    "abbr": "VS. PRĀT.",
@@ -244,6 +244,14 @@
    "occurrences": 21
   },
   {
+   "abbr": "INDR.",
+   "occurrences": 20
+  },
+  {
+   "abbr": "Journ. of the Am. Or. S.",
+   "occurrences": 20
+  },
+  {
    "abbr": "Sch.",
    "occurrences": 20
   },
@@ -260,15 +268,15 @@
    "occurrences": 20
   },
   {
+   "abbr": "ṢAḌV. BR.",
+   "occurrences": 20
+  },
+  {
    "abbr": "BṚH. ĀR. UP.",
    "occurrences": 19
   },
   {
-   "abbr": "INDR.",
-   "occurrences": 19
-  },
-  {
-   "abbr": "Journ. of the Am. Or. S.",
+   "abbr": "HIḌ.",
    "occurrences": 19
   },
   {
@@ -280,11 +288,11 @@
    "occurrences": 19
   },
   {
-   "abbr": "ṢAḌV. BR.",
-   "occurrences": 19
+   "abbr": "HEM. PAR.",
+   "occurrences": 18
   },
   {
-   "abbr": "HEM. PAR.",
+   "abbr": "HEMĀDRI",
    "occurrences": 18
   },
   {
@@ -324,6 +332,14 @@
    "occurrences": 15
   },
   {
+   "abbr": "SCHL.",
+   "occurrences": 15
+  },
+  {
+   "abbr": "SIDDH. K.",
+   "occurrences": 15
+  },
+  {
    "abbr": "VEDĀNTAS. (Allah.) No.",
    "occurrences": 15
   },
@@ -336,14 +352,6 @@
    "occurrences": 14
   },
   {
-   "abbr": "HEMĀDRI",
-   "occurrences": 14
-  },
-  {
-   "abbr": "HIḌ.",
-   "occurrences": 14
-  },
-  {
    "abbr": "NALOD.",
    "occurrences": 14
   },
@@ -352,15 +360,11 @@
    "occurrences": 14
   },
   {
-   "abbr": "SCHL.",
-   "occurrences": 14
-  },
-  {
    "abbr": "JAIM.",
    "occurrences": 13
   },
   {
-   "abbr": "SIDDH. K.",
+   "abbr": "NĪLAK.",
    "occurrences": 13
   },
   {
@@ -370,6 +374,10 @@
   {
    "abbr": "ŚAṂK. zu BĀDAR.",
    "occurrences": 13
+  },
+  {
+   "abbr": "BHĀṢĀP.",
+   "occurrences": 12
   },
   {
    "abbr": "CARAKA",
@@ -396,8 +404,8 @@
    "occurrences": 12
   },
   {
-   "abbr": "BHĀṢĀP.",
-   "occurrences": 11
+   "abbr": "VP.",
+   "occurrences": 12
   },
   {
    "abbr": "BRAHMA-P.",
@@ -428,6 +436,10 @@
    "occurrences": 10
   },
   {
+   "abbr": "TAITT. ĀR.",
+   "occurrences": 10
+  },
+  {
    "abbr": "WEBER, KṚṢṆAJ.",
    "occurrences": 10
   },
@@ -448,6 +460,10 @@
    "occurrences": 9
   },
   {
+   "abbr": "GAUT.",
+   "occurrences": 9
+  },
+  {
    "abbr": "LALIT. ed. Calc.",
    "occurrences": 9
   },
@@ -460,14 +476,6 @@
    "occurrences": 9
   },
   {
-   "abbr": "TAITT. ĀR.",
-   "occurrences": 9
-  },
-  {
-   "abbr": "VP.",
-   "occurrences": 9
-  },
-  {
    "abbr": "Z.",
    "occurrences": 9
   },
@@ -476,15 +484,7 @@
    "occurrences": 9
   },
   {
-   "abbr": "GAUT.",
-   "occurrences": 8
-  },
-  {
    "abbr": "Maitr. S.",
-   "occurrences": 8
-  },
-  {
-   "abbr": "NĪLAK.",
    "occurrences": 8
   },
   {
@@ -493,6 +493,10 @@
   },
   {
    "abbr": "SOM. NALA",
+   "occurrences": 8
+  },
+  {
+   "abbr": "WEBER, RĀMAT. UP.",
    "occurrences": 8
   },
   {
@@ -536,10 +540,6 @@
    "occurrences": 7
   },
   {
-   "abbr": "WEBER, RĀMAT. UP.",
-   "occurrences": 7
-  },
-  {
    "abbr": "ĀPAST. GṚHY.",
    "occurrences": 7
   },
@@ -554,6 +554,10 @@
   {
    "abbr": "ŚUK. in LA. (III)",
    "occurrences": 7
+  },
+  {
+   "abbr": "BRĀHMAṆ.",
+   "occurrences": 6
   },
   {
    "abbr": "BURNOUF, Intr.",
@@ -572,6 +576,10 @@
    "occurrences": 6
   },
   {
+   "abbr": "KUSUM.",
+   "occurrences": 6
+  },
+  {
    "abbr": "LA.",
    "occurrences": 6
   },
@@ -581,6 +589,10 @@
   },
   {
    "abbr": "S II,",
+   "occurrences": 6
+  },
+  {
+   "abbr": "TARKAS.",
    "occurrences": 6
   },
   {
@@ -600,10 +612,6 @@
    "occurrences": 5
   },
   {
-   "abbr": "BRĀHMAṆ.",
-   "occurrences": 5
-  },
-  {
    "abbr": "CĀṆ.",
    "occurrences": 5
   },
@@ -612,7 +620,7 @@
    "occurrences": 5
   },
   {
-   "abbr": "KUSUM.",
+   "abbr": "KAṆ.",
    "occurrences": 5
   },
   {
@@ -625,10 +633,6 @@
   },
   {
    "abbr": "MĀN. ŚR.",
-   "occurrences": 5
-  },
-  {
-   "abbr": "TARKAS.",
    "occurrences": 5
   },
   {
@@ -716,6 +720,10 @@
    "occurrences": 4
   },
   {
+   "abbr": "Uṇ.",
+   "occurrences": 4
+  },
+  {
    "abbr": "VASIṢṬHA",
    "occurrences": 4
   },
@@ -729,6 +737,10 @@
   },
   {
    "abbr": "{{MBH.",
+   "occurrences": 4
+  },
+  {
+   "abbr": "Śrīk.",
    "occurrences": 4
   },
   {
@@ -764,10 +776,6 @@
    "occurrences": 3
   },
   {
-   "abbr": "KAṆ.",
-   "occurrences": 3
-  },
-  {
    "abbr": "Kauś.",
    "occurrences": 3
   },
@@ -797,6 +805,10 @@
   },
   {
    "abbr": "PĀRŚVANĀTHAK.",
+   "occurrences": 3
+  },
+  {
+   "abbr": "Pūrṇabh.",
    "occurrences": 3
   },
   {
@@ -865,10 +877,6 @@
   },
   {
    "abbr": "Āpast. Gṛhy.",
-   "occurrences": 3
-  },
-  {
-   "abbr": "Śrīk.",
    "occurrences": 3
   },
   {
@@ -1024,10 +1032,6 @@
    "occurrences": 2
   },
   {
-   "abbr": "Pūrṇabh.",
-   "occurrences": 2
-  },
-  {
    "abbr": "RATIM.",
    "occurrences": 2
   },
@@ -1092,6 +1096,10 @@
    "occurrences": 2
   },
   {
+   "abbr": "WILSON, Sel. Works",
+   "occurrences": 2
+  },
+  {
    "abbr": "YAJÑAD.",
    "occurrences": 2
   },
@@ -1113,6 +1121,10 @@
   },
   {
    "abbr": "Ś.",
+   "occurrences": 2
+  },
+  {
+   "abbr": "ŚAK.",
    "occurrences": 2
   },
   {
@@ -1260,6 +1272,10 @@
    "occurrences": 1
   },
   {
+   "abbr": "Comm. zu TĀṆḌYA-BR.",
+   "occurrences": 1
+  },
+  {
    "abbr": "Comm. zu VIṢṆUS.",
    "occurrences": 1
   },
@@ -1305,6 +1321,10 @@
   },
   {
    "abbr": "Gopāl.",
+   "occurrences": 1
+  },
+  {
+   "abbr": "GĀR. P.",
    "occurrences": 1
   },
   {
@@ -1500,6 +1520,10 @@
    "occurrences": 1
   },
   {
+   "abbr": "MUIR, Sanskrit Texts I,",
+   "occurrences": 1
+  },
+  {
    "abbr": "Med.",
    "occurrences": 1
   },
@@ -1525,10 +1549,6 @@
   },
   {
    "abbr": "NIDĀNA",
-   "occurrences": 1
-  },
-  {
-   "abbr": "NIRṆAYAS.",
    "occurrences": 1
   },
   {
@@ -1744,6 +1764,10 @@
    "occurrences": 1
   },
   {
+   "abbr": "Verz. d. B. H. No.",
+   "occurrences": 1
+  },
+  {
    "abbr": "Viṣṇubh. III,",
    "occurrences": 1
   },
@@ -1760,10 +1784,6 @@
    "occurrences": 1
   },
   {
-   "abbr": "WILSON, Sel. Works",
-   "occurrences": 1
-  },
-  {
    "abbr": "WILSON, SĀṂKHYAK. p.",
    "occurrences": 1
   },
@@ -1777,6 +1797,10 @@
   },
   {
    "abbr": "WISE",
+   "occurrences": 1
+  },
+  {
+   "abbr": "YAJÑAD. (LOIS.)",
    "occurrences": 1
   },
   {
@@ -1832,10 +1856,6 @@
    "occurrences": 1
   },
   {
-   "abbr": "ŚĀK. (PISCH.)",
-   "occurrences": 1
-  },
-  {
    "abbr": "ṚV. ANUKR.",
    "occurrences": 1
   }
@@ -1850,6 +1870,10 @@
    "unresolved": 4
   },
   {
+   "abbr": "ŚAT. BR.",
+   "unresolved": 2
+  },
+  {
    "abbr": "HALĀY.",
    "unresolved": 2
   },
@@ -1859,6 +1883,10 @@
   },
   {
    "abbr": "MBH.",
+   "unresolved": 1
+  },
+  {
+   "abbr": "H.",
    "unresolved": 1
   }
  ]
