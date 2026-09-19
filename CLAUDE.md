@@ -1,11 +1,12 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 05-09-2026_
+_Created: 06-05-2026 · Last updated: 13-09-2026_
 
 **PWG** is the correction and enrichment layer for the large Petersburger
 Wörterbuch (Böhtlingk & Roth, 1855–1875). Primary input is
-[`../pwgxml/pwg.xml`](https://github.com/sanskrit-lexicon/pwgxml) (sibling
-checkout, not tracked here). This repo does **not** hold the canonical
+`../pwgxml/pwg.xml` (sibling checkout, not tracked here; the old
+`sanskrit-lexicon/pwgxml` GitHub repo no longer exists — verified 13-09-2026).
+This repo does **not** hold the canonical
 digitised source — that is
 [csl-orig `v02/pwg/`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/pwg).
 
@@ -15,13 +16,16 @@ Repo map, `<ls>` program, and scan-link conventions:
 
 ## What to run
 
-Obtain `pwg.xml` (from the parent of this checkout) if missing:
-
-```sh
-curl -o pwgxml.zip http://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2013/downloads/pwgxml.zip
-unzip pwgxml.zip
-rm -r pwgxml && mv xml pwgxml && rm pwgxml.zip
-```
+Obtain `pwg.xml` (from the parent of this checkout) if missing. The old
+Cologne 2013 zip download
+(`…/PWGScan/2013/downloads/pwgxml.zip`) is dead (404, verified
+13-09-2026). Current source: `pwg.xml` is regenerated from
+[csl-orig `v02/pwg/`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/pwg)
+(`pwg.txt` + `pwgheader.xml`) via
+[`make_xml.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/make_xml.py),
+per the
+[correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) —
+or reuse an existing sibling copy.
 
 Apply a change file (never edit `pwg.xml` in place). There is **no**
 repo-root `updateByLine.py` — each workdir carries a copy. Run from that

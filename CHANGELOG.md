@@ -1,4 +1,4 @@
-_Created: 13-06-2026 · Last updated: 05-09-2026_
+_Created: 13-06-2026 · Last updated: 13-09-2026_
 
 # Changelog
 
@@ -9,6 +9,9 @@ dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
 ## [Unreleased]
+### Changed
+
+- **CLAUDE.md truth refresh (H4578, OxAlpha `opencode/z-ai/glm-5.3-flash`, 13-09-2026)** — dropped two dead pointers (both 404, verified 13-09-2026): the `sanskrit-lexicon/pwgxml` GitHub repo link (repo gone) and the Cologne 2013 `pwgxml.zip` curl recipe; "obtain pwg.xml" now points at regeneration from [csl-orig `v02/pwg/`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/pwg) via [`make_xml.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/make_xml.py) per the correction workflow. All 15 referenced repo paths and remaining external links re-verified live; dated header bumped.
 
 - Added a root `AGENTS.md` agent-entrypoint stub (H4634): names itself the agent entrypoint, links [CLAUDE.md](CLAUDE.md), points at the [Uprava org standard](https://github.com/gasyoun/Uprava/blob/main/AGENTS.md).
 ## [1.0.1] - 2026-08-30
