@@ -10,6 +10,7 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+- Smoke-test bootstrap (H5799, OxAlpha `opencode/z-ai/glm-5.3-flash`): 29 pytest smoke tests over the parse + export critical path — `pwg_ls2/ak/updateByLine.py` change-file parse/apply (incl. real-record safety guards and a behavioral sync check over the seven `pwg_ls2` copies), `pwg_ls2/mbh/parseheadline.py` entry-header parse (incl. cross-copy agreement), `pagecolumn/pwg_page_index.py` source parse + three TSV export views — all fixtures are real PWG entries lifted from `pwg_ls2/pratishakya/changes_1.txt` and module docstrings; `smoke-tests` job added to CI. Scope follows the `ruff.toml` exclusion convention (`pwgissues/`, `misc/`, `pwg_ls/`, `pwg_ls1/`, `verbs01*` stay out).
 - Added a root `AGENTS.md` agent-entrypoint stub (H4634): names itself the agent entrypoint, links [CLAUDE.md](CLAUDE.md), points at the [Uprava org standard](https://github.com/gasyoun/Uprava/blob/main/AGENTS.md).
 ## [1.0.1] - 2026-08-30
 ### Changed
