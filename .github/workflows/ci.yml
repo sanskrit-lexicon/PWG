@@ -134,6 +134,22 @@ jobs:
           print("All correction files are valid UTF-8.")
           PY
 
+  smoke-tests:
+    name: Smoke tests (pytest)
+    # H5799: smoke suite over the parse + export critical path
+    # (updateByLine.py change-file apply, parseheadline.py entry-header parse,
+    # pagecolumn/pwg_page_index.py source parse + TSV exports). Scope lives in
+    # pytest.ini/conftest.py and follows the ruff.toml exclusion convention —
+    # pwgissues/ and legacy dirs stay out.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - run: pip install pytest
+      - run: python -m pytest tests/ -q
+
   yaml-lint:
     name: YAML lint
     runs-on: ubuntu-latest
