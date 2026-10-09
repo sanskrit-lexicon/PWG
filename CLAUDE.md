@@ -1,6 +1,13 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 20-09-2026 (H5176 SLA review: abbrvwork pipeline + converter paths re-verified current)_
+_Created: 06-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: H5465/H5466 handoffs live here, issue240 pointer, DOI badge)_
+
+Recent state (09-10-2026): per-repo `handoffs/` holds H5465+H5466 (moved in
+from Uprava, MG 24-09-2026 — PWG handoffs live here, #239); **H5465 execution
+record** closed all four deliverables with the kosha merge still pending a
+guard ruling (#241); `pwgissues/issue240/` is a pointer dir — artifacts live
+in csl-observatory (#240); a Zenodo concept DOI badge was added to
+`readme.md` (#244).
 
 **PWG** is the correction and enrichment layer for the large Petersburger
 Wörterbuch (Böhtlingk & Roth, 1855–1875). Primary input is
