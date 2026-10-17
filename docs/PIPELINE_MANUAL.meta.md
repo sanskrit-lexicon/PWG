@@ -28,7 +28,7 @@ without stepping on the org's csl-orig batched-PR delivery rule.
 ## Provenance
 
 - Authored 28-07-2026 by Fable 5 (`claude-fable-5`) executing handoff
-  [H1785-Fable_PWG_correction-linktarget-pipeline-manual_28.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1785-Fable_PWG_correction-linktarget-pipeline-manual_28.07.26.md)
+  [H1785-Fable_PWG_correction-linktarget-pipeline-manual_28.07.26.md](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H1785-Fable_PWG_correction-linktarget-pipeline-manual_28.07.26.md)
   (docs-debt batch H1782–H1786).
 - Modelled on the PWK sibling manual
   ([PWK docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/PWK/blob/main/docs/PIPELINE_MANUAL.md),
