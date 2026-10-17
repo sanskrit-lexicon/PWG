@@ -16,6 +16,23 @@ permissions:
   contents: read
 
 jobs:
+  smoke-tests:
+    name: Smoke tests (parse + export critical path)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.11"
+      - run: pip install pytest
+      - name: Run smoke suite (tests/, H5799)
+        # Covers parseheadline, updateByLine, diff_to_changes round trip,
+        # make_change3_ls entry parsing, pagecolumn export views, prefaces
+        # combined export — on real entry fixtures. Legacy dirs (misc/,
+        # pwg_ls/, pwg_ls1/, pwgissues/, verbs01*) are not exercised,
+        # per the ruff.toml exclusion convention.
+        run: python -m pytest tests/ -v
+
   lint-python:
     name: Lint Python scripts
     runs-on: ubuntu-latest
