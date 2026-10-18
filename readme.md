@@ -1,5 +1,7 @@
 # PWG — Petersburger Wörterbuch
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22170439.svg)](https://doi.org/10.5281/zenodo.22170439)
+
 _Created: 17-12-2017 · Last updated: 02-08-2026_
 
 **PWG** (*Sanskrit-Wörterbuch*, Böhtlingk & Roth, 1855–1875) is the large,

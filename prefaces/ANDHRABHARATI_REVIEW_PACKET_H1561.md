@@ -2,7 +2,7 @@
 
 _Created: 24-07-2026 · Last updated: 24-07-2026_
 
-**Handoff:** [H1561](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1561-Sonnet_PWG_andhrabharati-pref-review-packet_24.07.26.md)  
+**Handoff:** [H1561](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H1561-Sonnet_PWG_andhrabharati-pref-review-packet_24.07.26.md)  
 **Tracking issue:** [PWG#210](https://github.com/sanskrit-lexicon/PWG/issues/210)  
 **Model (this pass):** Grok 4.5 (`grok-4.5`)  
 **Non-goal:** full dictionary re-review; no re-OCR in this packet.
