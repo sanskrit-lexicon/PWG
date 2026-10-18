@@ -1,0 +1,18 @@
+name: data-validate
+
+# Pilot caller for the org-wide reusable gate (sanskrit-lexicon/.github).
+# The checks live in the .github repository; this file only opts in.
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    uses: sanskrit-lexicon/.github/.github/workflows/data-validate.yml@main
