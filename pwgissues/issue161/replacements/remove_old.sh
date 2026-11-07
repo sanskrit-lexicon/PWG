@@ -1,4 +1,4 @@
-cd /c/xampp/htdocs/cologne/scans/pwg/
+cd /c/xampp/htdocs/cologne/scans/pwg/ || exit 1
 mv pdfpages/pwg6-0301.pdf replaced/
 mv pdfpages/pwg6-0303.pdf replaced/
 mv pdfpages/pwg6-0305.pdf replaced/
