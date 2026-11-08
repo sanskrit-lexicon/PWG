@@ -1,13 +1,17 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: H5465/H5466 handoffs live here, issue240 pointer, DOI badge)_
+_Created: 06-05-2026 · Last updated: 08-11-2026 (Y6Y freshness truth-pass: state paragraph to live main #254, Zenodo DOI pinned, kosha-side H5465 landed; prev H5885 09-10-2026)_
 
-Recent state (09-10-2026): per-repo `handoffs/` holds H5465+H5466 (moved in
-from Uprava, MG 24-09-2026 — PWG handoffs live here, #239); **H5465 execution
-record** closed all four deliverables with the kosha merge still pending a
-guard ruling (#241); `pwgissues/issue240/` is a pointer dir — artifacts live
-in csl-observatory (#240); a Zenodo concept DOI badge was added to
-`readme.md` (#244).
+Recent state (08-11-2026): per-repo `handoffs/` holds H5465+H5466 (moved in
+from Uprava, MG 24-09-2026 — PWG handoffs live here, #239); the H5465
+execution record (#241) is merged and closed 24-09, and the kosha side
+landed there as `pwg-ls-additions-215` (kosha #645) — nothing pending;
+`pwgissues/issue240/` is a pointer dir — artifacts live in csl-observatory
+(#240); the Zenodo concept-DOI badge in `readme.md` pins
+`10.5281/zenodo.22170439` (#244). Since 18-10: H7274 verified-no-change
+freshness pass (#252), the org `data-validate` CI gate pilot (#247), the
+changelog duplicate-entry guard (#248), a PD comparison-doc link repoint
+(#251), and SC2164 `cd` guards at 19 sites (H7788, #254).
 
 **PWG** is the correction and enrichment layer for the large Petersburger
 Wörterbuch (Böhtlingk & Roth, 1855–1875). Primary input is
